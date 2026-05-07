@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/) (2026-05-06)
-- [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/) (2026-05-06)
-- [DOJ says ransomware gang tapped into Russian government databases](https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/) (2026-05-06)
-- [AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys](https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/) (2026-05-06)
-- [SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/) (2026-05-06)
+- [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/) (2026-05-06)
+- [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/) (2026-05-06)
+- [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/) (2026-05-06)
+- [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/) (2026-05-06)
+- [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/) (2026-05-06)
-- [Proton Meet](https://proton.me/business/blog/introducing-proton-meet) (2026-05-06)
-- [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) (2026-05-06)
-- [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/) (2026-05-06)
-- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth) (2026-05-06)
+- [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html) (2026-05-07)
+- [The Old Guard: Confronting America's Gerontocratic Crisis](https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/) (2026-05-07)
+- [ADT says customer data stolen in cyber intrusion](https://therecord.media/ADT-data-breach-cyberattack) (2026-05-06)
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) (2026-05-06)
+- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts) (2026-05-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony) (2026-05-06)
+- [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2) (2026-05-06)
+- [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down) (2026-05-06)
+- [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review) (2026-05-06)
 - [The latest Tile Pro is down to $25 — its best price of the year](https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale) (2026-05-06)
-- [What we’re hearing about the new homepage](https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage) (2026-05-06)
-- [Mira Murati tells the court that she couldn’t trust Sam Altman’s words](https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati) (2026-05-06)
-- [The 44 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets) (2026-05-06)
-- [Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details) (2026-05-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits](https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/) (2026-05-06)
-- [Google DeepMind partners with EVE Online for AI model testing](https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/) (2026-05-06)
-- [The animated version of the iconic "Hello, world" image reveals striking new details](https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/) (2026-05-06)
-- [FDA vaccine studies censored by Trump admin after finding benefits of shots](https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/) (2026-05-06)
-- [Anthropic's Claude Managed Agents can now "dream," sort of](https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/) (2026-05-06)
+- [SpaceX is starting to move on from the world's most successful rocket](https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/) (2026-05-06)
+- [Anthropic raises Claude Code usage limits, credits new deal with SpaceX](https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/) (2026-05-06)
+- [TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch](https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/) (2026-05-06)
+- [Court strikes down FCC anti-discrimination rule opposed by Internet providers](https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/) (2026-05-06)
+- [Spooked by Mythos, Trump suddenly realized AI safety testing might be good](https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/) (2026-05-06)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Validating agentic behavior when “correct” isn’t deterministic](https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/) (2026-05-06)
 - [Welcome to Maintainer Month: Celebrating the people behind the code](https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/) (2026-05-05)
 - [Register now for OpenClaw: After Hours @ GitHub](https://github.blog/open-source/register-now-for-openclaw-after-hours-github/) (2026-05-04)
 - [GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/) (2026-04-30)
 - [GitHub for Beginners: Getting started with Markdown](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/) (2026-04-28)
-- [Securing the git push pipeline: Responding to a critical remote code execution vulnerability](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/) (2026-04-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Mithridatium: Detecting Hidden Backdoors in ML Models](https://dev.to/pelsky1/building-mithridatium-detecting-hidden-backdoors-in-ml-models-3gh7) (2026-05-06)
-- [The Last Human-First Programming Language](https://dev.to/andreasbergstrom/the-last-human-first-programming-language-24gl) (2026-05-06)
-- [Sign In With LinkedIn Using OpenID Connect in Next.js 16](https://dev.to/nicolasai/sign-in-with-linkedin-using-openid-connect-in-nextjs-16-1p48) (2026-05-06)
-- [I built a code snippet manager — and it's live](https://dev.to/emhamitay/i-built-a-code-snippet-manager-and-its-live-58nc) (2026-05-06)
-- [How To Limit The Number Of Words Or Characters Shown With SFMC's AMPscript](https://dev.to/ampscript-ninja/how-to-limit-the-number-of-words-or-characters-shown-with-sfmcs-ampscript-3jk2) (2026-05-06)
+- [We Have Code Review. We Need Intent Review.](https://dev.to/huoru/we-have-code-review-we-need-intent-review-1i38) (2026-05-07)
+- [Windsurf AI Pricing 2026: Free, Pro, Teams, and Enterprise Plans Explained](https://dev.to/techsifted/windsurf-ai-pricing-2026-free-pro-teams-and-enterprise-plans-explained-e0c) (2026-05-07)
+- [Vector Databases Explained: What They Don’t Tell You](https://dev.to/vektor_memory_43f51a32376/vector-databases-explained-what-they-dont-tell-you-1nkg) (2026-05-07)
+- [Day 16 of my 100 Days of Solana](https://dev.to/bettyafolabi/day-16-of-my-100-days-of-solana-2bga) (2026-05-07)
+- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n) (2026-05-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [After 50 System Design Interviews, I Finally Understood Why I Kept Failing Them.](https://blog.stackademic.com/after-50-system-design-interviews-i-finally-understood-why-i-kept-failing-them-58d09d01454a?source=rss------programming-5) (2026-05-06)
-- [Fine-Tuning a 7B LLM Required 4 A100s. LoRA Did It on One GPU. Here Is the Math Behind Why.](https://medium.com/@lekhana.sandra/fine-tuning-a-7b-llm-required-4-a100s-lora-did-it-on-one-gpu-here-is-the-math-behind-why-07b1f4c225b6?source=rss------programming-5) (2026-05-06)
-- [My Manager Said I Was Exceptional. Then Gave My Project To Someone Else.](https://medium.com/activated-thinker/my-manager-said-i-was-exceptional-then-gave-my-project-to-someone-else-241d43a86eb8?source=rss------programming-5) (2026-05-06)
-- [JavaScript: Beginner → Advanced (One Blog That Sticks Forever)](https://medium.com/@iamjagjot02/javascript-beginner-advanced-one-blog-that-sticks-forever-1f031812ab5b?source=rss------programming-5) (2026-05-06)
-- [Mastering AWS Data Lakes: Is Apache Iceberg Worth the Self-Managed Effort Over S3 Tables? ](https://medium.com/@anshusinghal703/mastering-aws-data-lakes-is-apache-iceberg-worth-the-self-managed-effort-over-s3-tables-7616d6951b99?source=rss------programming-5) (2026-05-06)
+- [19 January 2038: The Silent Timestamp Failure That Could Break Legacy Systems](https://medium.com/@kaushalsadhu/19-january-2038-the-silent-timestamp-failure-that-could-break-legacy-systems-ffe91fcd460f?source=rss------programming-5) (2026-05-07)
+- [How to Call JavaScript Functions with the OpenAI SDK (Function Calling)](https://medium.com/@somendradev23/how-to-call-javascript-functions-with-the-openai-sdk-function-calling-467ddfd68248?source=rss------programming-5) (2026-05-07)
+- [Stuck Picking Stocks? Composite Ranking + 6 Quick Sort Presets](https://medium.com/@k1song723/stuck-picking-stocks-composite-ranking-6-quick-sort-presets-ce973085678c?source=rss------programming-5) (2026-05-07)
+- [BERT Was 2.5x](https://medium.com/@lekhana.sandra/bert-was-2-5x-81781607b686?source=rss------programming-5) (2026-05-07)
+- [Go Is the Language I Wish I Had Learned Before Python. Here is Why](https://medium.com/@devlogicwrites/go-is-the-language-i-wish-i-had-learned-before-python-here-is-why-c913c099019a?source=rss------programming-5) (2026-05-07)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/) (2026-05-06)
 - [Kubernetes v1.36: Declarative Validation Graduates to GA](https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/) (2026-05-05)
 - [Kubernetes v1.36: Admission Policies That Can't Be Deleted](https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control/) (2026-05-04)
 - [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/) (2026-05-01)
 - [Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta](https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/) (2026-04-30)
-- [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/) (2026-04-29)
 
 </details>
 
