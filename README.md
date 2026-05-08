@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Why you can never get your doctor to call you back](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/) (2026-05-08)
 - [Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B](https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/) (2026-05-07)
 - [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/) (2026-05-07)
 - [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/) (2026-05-07)
 - [Disney looking to make a unified ‘super app,’ report says](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/) (2026-05-07)
-- [Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/) (2026-05-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai) (2026-05-08)
+- [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise) (2026-05-08)
+- [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6) (2026-05-08)
+- [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/) (2026-05-08)
+- [Mojo 1.0 Beta](https://mojolang.org/) (2026-05-08)
 - [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) (2026-05-08)
-- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women) (2026-05-07)
-- [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain) (2026-05-07)
-- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) (2026-05-07)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI giveth and AI taketh CPU](https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/) (2026-05-08)
 - [How we replaced Ingress-NGINX at Stack Overflow](https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/) (2026-05-06)
 - [What (un)exactly do you mean by semantic search?](https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/) (2026-05-05)
 - [Dispatches from O'Reilly: Fast paths and slow paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/) (2026-05-01)
 - [Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/) (2026-05-01)
-- [The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Beyond RAG: Why Knowledge Engineering Becomes the Real Moat in the Agent Era](https://dev.to/seekdb/beyond-rag-why-knowledge-engineering-becomes-the-real-moat-in-the-agent-era-41c4) (2026-05-08)
-- [How to get your AI to finally stop repeating itself…](https://dev.to/vektor_memory_43f51a32376/how-to-get-your-ai-to-finally-stop-repeating-itself-300l) (2026-05-08)
-- [Webhook vs Egress: Two Architectures for AI Agent Security](https://dev.to/luckypipewrench/webhook-vs-egress-two-architectures-for-ai-agent-security-42hf) (2026-05-08)
-- [IRAS: Building a Production-Grade Autonomous Incident Response Agent](https://dev.to/krishna_kittu_1d2837d30bb/iras-building-a-production-grade-autonomous-incident-response-agent-1008) (2026-05-08)
-- [Title: Stop Over-Engineering Your CSS: Meet Traceless-Style, the High-Performance Design System for 2026](https://dev.to/sylwia_sekr_cb9403ef2b2/title-stop-over-engineering-your-css-meet-traceless-style-the-high-performance-design-system-for-4k2k) (2026-05-08)
+- [The og:type Bug Three of My Astro Sites Quietly Shipped](https://dev.to/kenimo49/the-ogtype-bug-three-of-my-astro-sites-quietly-shipped-1ila) (2026-05-08)
+- [Your Frontend Isn’t Slow — Your API Architecture Is Broken](https://dev.to/jithin_george_ba7fb1e0611/your-frontend-isnt-slow-your-api-architecture-is-broken-lff) (2026-05-08)
+- [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) (2026-05-08)
+- [How SPF Pushes Scam Defence Toward Shared Intelligence](https://dev.to/dylangan/how-spf-pushes-scam-defence-toward-shared-intelligence-g04) (2026-05-08)
+- [Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong](https://dev.to/awxglobal/per-agent-cost-tracking-why-your-llm-analytics-are-probably-wrong-4lg) (2026-05-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You’ve Been Writing Vue Components Wrong (And Here’s the Proof)](https://sadiqueali.medium.com/youve-been-writing-vue-components-wrong-and-here-s-the-proof-8ac5af6c32c9?source=rss------programming-5) (2026-05-08)
-- [Why Consistency is the Ultimate Flex in Software Engineering](https://caksaji.medium.com/why-consistency-is-the-ultimate-flex-in-software-engineering-ccdaeb17a20d?source=rss------programming-5) (2026-05-08)
-- [Our Model Deployments Were Taking 54 Minutes and Breaking Silently.](https://medium.com/@lekhana.sandra/our-model-deployments-were-taking-54-minutes-and-breaking-silently-c171aac4a04e?source=rss------programming-5) (2026-05-08)
-- [Nobody Cares About Your Tech Stack. They Care if It Works.](https://kgabeci.medium.com/nobody-cares-about-your-tech-stack-they-care-if-it-works-0f89be7976e5?source=rss------programming-5) (2026-05-08)
-- [Kalyan satta matka guessing Kalyan satta matka dpboss](https://medium.com/@matkababa3/kalyan-satta-matka-guessing-kalyan-satta-matka-dpboss-f7b7410950c7?source=rss------programming-5) (2026-05-08)
+- [Speed, caching, and the 40x AI cost wall](https://medium.com/@sanketsahu/speed-caching-and-the-40x-ai-cost-wall-acd0512f7709?source=rss------programming-5) (2026-05-08)
+- [The Day My Server Bill Was Less Than My Coffee](https://medium.com/@natevoss.dev/the-day-my-server-bill-was-less-than-my-coffee-bf148f9d47c7?source=rss------programming-5) (2026-05-08)
+- [Swift Types: How well structured are your Models ?](https://medium.com/@swifttoday/swift-types-how-well-structured-are-your-models-182b6f72313f?source=rss------programming-5) (2026-05-08)
+- [淺嚐 Swift — 聊聊 Codable 的效能提升實務及 JSONEncoder 的適用場景](https://medium.com/@AndyLiu0425/%E6%B7%BA%E5%9A%90-swift-%E8%81%8A%E8%81%8A-codable-%E7%9A%84%E6%95%88%E8%83%BD%E6%8F%90%E5%8D%87%E5%AF%A6%E5%8B%99%E5%8F%8A-jsonencoder-%E7%9A%84%E9%81%A9%E7%94%A8%E5%A0%B4%E6%99%AF-e31a0d67a243?source=rss------programming-5) (2026-05-08)
+- [How One Small Misconfiguration Led to a Critical Finding](https://systemweakness.com/how-one-small-misconfiguration-led-to-a-critical-finding-2868ec25a88e?source=rss------programming-5) (2026-05-08)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Twilio for Disaster-Ready Communities: Our 2030 Goal
+](
+https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
+) (2026-05-07)
+- [
 Build an Omni-Channel AI Agent with Twilio Agent Connect and Amazon Bedrock AgentCore
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ai-twilio-agent-connect-amazon-bedrock-agentcore
@@ -377,14 +382,9 @@ Infrastructure for the agentic era: A new conversation layer for the Twilio Plat
 https://www.twilio.com/en-us/blog/products/signal-2026-product-announcements
 ) (2026-05-06)
 - [
-What is Conversation Intelligence in Twilio Conversations? Turn live interactions into context-aware action
+What is Conversation Intelligence? Turn live interactions into context-aware action
 ](
 https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence
-) (2026-05-06)
-- [
-Introducing Conversation Orchestrator: Connected Conversations with Conversation Orchestrator
-](
-https://www.twilio.com/en-us/blog/products/launches/conversation-orchestrator
 ) (2026-05-06)
 
 </details>
