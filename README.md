@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/) (2026-05-08)
+- [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/) (2026-05-08)
+- [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/) (2026-05-08)
+- [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/) (2026-05-08)
 - [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/) (2026-05-08)
-- [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/) (2026-05-08)
-- [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/) (2026-05-08)
-- [Uber partner Avride is under investigation for self-driving crashes](https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/) (2026-05-08)
-- [Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) (2026-05-08)
-- [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) (2026-05-08)
-- [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/) (2026-05-08)
-- [Bjarne Stroustrup: How do I deal with memory leaks? (2022)](https://www.stroustrup.com/bs_faq2.html#memory-leaks) (2026-05-08)
-- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) (2026-05-08)
+- [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/) (2026-05-09)
+- [People Hate AI Art](https://mccue.dev/pages/5-8-26-ai-art) (2026-05-09)
+- [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests) (2026-05-08)
+- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging) (2026-05-08)
+- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display) (2026-05-08)
+- [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed) (2026-05-08)
+- [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise) (2026-05-08)
 - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-05-08)
 - [DOGE used ChatGPT in a way that was both dumb and illegal, judge rules](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled) (2026-05-08)
-- [ABC and Disney accuse Trump admin of violating First Amendment rights](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view) (2026-05-08)
-- [Someone out-Trumped the Trump phone](https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones) (2026-05-08)
-- [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips) (2026-05-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Elon Musk faces criminal probe in France after ignoring summons in X case](https://arstechnica.com/tech-policy/2026/05/elon-musk-faces-criminal-probe-in-france-after-ignoring-summons-in-x-case/) (2026-05-08)
-- [Chrome's 4GB AI model isn't new, but you're not wrong for being confused](https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/) (2026-05-08)
-- [Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology](https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/) (2026-05-08)
-- [DNA identifies four more crew members of doomed Franklin expedition](https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/) (2026-05-08)
-- [Which Macs are suffering from shortages—and where are things getting worse?](https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/) (2026-05-08)
+- [Manufacturing qubits that can move](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/) (2026-05-08)
+- [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/) (2026-05-08)
+- [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/) (2026-05-08)
+- [Sony says "efficient" AI tools will lead to even more games flooding the market](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) (2026-05-08)
+- [The unprecedented and deadly cruise ship hantavirus outbreak, explained](https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) (2026-05-08)
 - [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/) (2026-05-08)
 - [The Download: AI malaise and babymaking tech](https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/) (2026-05-08)
 - [Here’s how technology transformed babymaking](https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/) (2026-05-08)
 - [The Download: the tech reshaping IVF and the rise of balcony solar](https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/) (2026-05-07)
-- [The balcony solar boom is coming to the US](https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/) (2026-05-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea) (2026-05-08)
-- [One 200-Year-Old Math Trick Powers Almost Every Pixel and Sound You Touch](https://dev.to/arthurpro/one-200-year-old-math-trick-powers-almost-every-pixel-and-sound-you-touch-g35) (2026-05-08)
-- [dwriter: An AI-augmented terminal-based journaling tool that learns!](https://dev.to/rhaeyyan/gemma-4-challenge-submission-dwriter-36pn) (2026-05-08)
-- [We were burning £300/month on Bitbucket pipeline minutes before a single test suite was finished. So I built the alternative.](https://dev.to/benwake/we-were-burning-ps300month-on-bitbucket-pipeline-minutes-before-a-single-test-suite-was-finished-3l15) (2026-05-08)
-- [Introduction to Python for Data Analytics](https://dev.to/stephenomengo/introduction-to-python-for-data-analytics-1617) (2026-05-08)
+- [Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-17m4) (2026-05-09)
+- [Browser Tab UX in React: Pull Users Back with Titles, Favicons, and Notifications](https://dev.to/childrentime/browser-tab-ux-in-react-pull-users-back-with-titles-favicons-and-notifications-m94) (2026-05-09)
+- [Turning Local AI Governance Into Runtime Infrastructure](https://dev.to/hollowhouse/turning-local-ai-governance-into-runtime-infrastructure-4pcb) (2026-05-09)
+- [Your AI agent already emits OpenTelemetry. Why aren't you watching it?](https://dev.to/sunilprakash/your-ai-agent-already-emits-opentelemetry-why-arent-you-watching-it-b06) (2026-05-09)
+- [I built a native iOS app for Vercel Web Analytics](https://dev.to/apoorvdarshan/i-built-a-native-ios-app-for-vercel-web-analytics-lg5) (2026-05-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Failed System Design at 3 FAANG Companies. On the 4th Try, I Got a $190K Offer.](https://blog.stackademic.com/i-failed-system-design-at-3-faang-companies-250f2ed33a58?source=rss------programming-5) (2026-05-08)
-- [Where are we failing today?](https://medium.com/@tiashaspeaks/where-are-we-failing-today-9c24a2406dd8?source=rss------programming-5) (2026-05-08)
-- [LangChain vs LangGraph: What I Use After Building Real AI Systems](https://medium.com/codex/langchain-vs-langgraph-what-i-use-after-building-real-ai-systems-3e6e1a08d440?source=rss------programming-5) (2026-05-08)
-- [Learning to Code Isn’t Hard — Staying Consistent Is](https://medium.com/@kolicode2033/learning-to-code-isnt-hard-staying-consistent-is-437e6ccb8616?source=rss------programming-5) (2026-05-08)
-- [Tech Tools or Things I Wish I Knew in My First Year of College](https://medium.com/@hemaradhikareddy/tech-tools-or-things-i-wish-i-knew-in-my-first-year-of-college-2de6a3860b88?source=rss------programming-5) (2026-05-08)
+- [Why More Young People Want to Earn Their Own Money Early](https://medium.com/@vikitrifaldi14/why-more-young-people-want-to-earn-their-own-money-early-0c4e309e1ff7?source=rss------programming-5) (2026-05-09)
+- [Node.js Day 5–7: Modules, NPM & File System (Start Thinking Like a Real Developer)](https://medium.com/@uyanhewagetr/node-js-day-5-7-modules-npm-file-system-start-thinking-like-a-real-developer-3415ffd9b5f4?source=rss------programming-5) (2026-05-09)
+- [Write Grafana Alloy Config Files Faster with This JetBrains Plugin](https://jirapong-p.medium.com/write-grafana-alloy-config-files-faster-with-this-jetbrains-plugin-cb978ddee72f?source=rss------programming-5) (2026-05-09)
+- [Claude Mythos Found a 27-Year-Old Bug. Here’s Why That’s a Problem.](https://medium.com/@hinditechbook/claude-mythos-found-a-27-year-old-bug-heres-why-that-s-a-problem-9b52c2f69908?source=rss------programming-5) (2026-05-09)
+- [Claude Sonnet 4.6 vs Kimi K2.6: Which AI Is the Better Software Engineering Partner in 2026?](https://medium.com/design-bootcamp/claude-sonnet-4-6-vs-kimi-k2-6-which-ai-is-the-better-software-engineering-partner-in-2026-8502a9149d4e?source=rss------programming-5) (2026-05-09)
 
 </details>
 
@@ -163,7 +163,7 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
-- [How Gratitude boosted user retention by 25% with widgets](https://android-developers.googleblog.com/2026/05/how-gratitude-widgets-boosted-user-retention-25-percent.html) (2026-05-08)
+- [Gratitude saw 25% higher retention for widget users](https://android-developers.googleblog.com/2026/05/how-gratitude-widgets-boosted-user-retention-25-percent.html) (2026-05-08)
 - [A look ahead: Making it easier and faster to publish safer apps](https://android-developers.googleblog.com/2026/05/making-it-easier-to-build-publish-safer-apps.html) (2026-05-07)
 - [Gemini and Firebase AI Logic enabled Karrot to increase sales with a translation feature built in under 2 weeks](https://android-developers.googleblog.com/2026/05/how-karrot-increased-sales-with-gemini-firebase-ai-translation.html) (2026-05-04)
 - [What's new in the Jetpack Compose April '26 release](https://android-developers.googleblog.com/2026/04/jetpack-compose-april-2026-updates.html) (2026-04-22)
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Introducing Ola: An Agent-Native Communication Channel and Oversight Platform from Twilio Forward
+Build an Omni-Channel AI Agent with Twilio Agent Connect and Amazon Bedrock AgentCore
 ](
-https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-communications-channel
-) (2026-05-07)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ai-twilio-agent-connect-amazon-bedrock-agentcore
+) (2026-05-06)
 - [
-Twilio Brings Customer Engagement Workflows into Claude by Anthropic
+Calling All AI Startups: Twilio’s Startup Searchlight 2026 Is Here
 ](
-https://www.twilio.com/en-us/blog/partners/introducing-twilio-claude-connector-claude-code-plugin
-) (2026-05-07)
+https://www.twilio.com/en-us/blog/company/news/calling-all-ai-startups-twilios-ai-startup-searchlight-2026
+) (2026-05-06)
 - [
-Orchestrate an AI-to-Human Agent Handoff with Twilio Agent Connect, Conversations Orchestrator, Studio, and Flex
+Infrastructure for the agentic era: A new conversation layer for the Twilio Platform
 ](
-https://www.twilio.com/en-us/blog/developers/best-practices/ai-human-handoff-tac-orchestrator-studio-flex
-) (2026-05-07)
+https://www.twilio.com/en-us/blog/products/signal-2026-product-announcements
+) (2026-05-06)
 - [
-Introducing the Twilio MCP Server and Skills: Give Your Coding Agents Native Access to 1,800+ Twilio APIs
+What is Conversation Intelligence in Twilio Conversations? Turn live interactions into context-aware action
 ](
-https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills
-) (2026-05-07)
+https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence
+) (2026-05-06)
 - [
-Twilio for Disaster-Ready Communities: Our 2030 Goal
+Introducing Conversation Orchestrator: Connected Conversations with Conversation Orchestrator
 ](
-https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
-) (2026-05-07)
+https://www.twilio.com/en-us/blog/products/launches/conversation-orchestrator
+) (2026-05-06)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/productivity-workflow-management-tools) (2026-05-01)
-- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
-- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
-- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
-- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
+- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
+- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
+- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
+- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
 
 </details>
 
