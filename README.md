@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally](https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/) (2026-05-09)
+- [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) (2026-05-09)
 - [Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/) (2026-05-08)
 - [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/) (2026-05-08)
 - [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/) (2026-05-08)
-- [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/) (2026-05-08)
-- [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Internet Archive Switzerland](https://internetarchive.ch/) (2026-05-09)
-- [Forking the Web](https://dillo-browser.org/lab/web-fork/) (2026-05-09)
-- [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/) (2026-05-09)
-- [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597) (2026-05-09)
-- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) (2026-05-09)
+- [Zed Editor Theme-Builder](https://zed.dev/theme-builder) (2026-05-09)
+- [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/) (2026-05-09)
+- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) (2026-05-09)
+- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples) (2026-05-09)
+- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/) (2026-05-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale) (2026-05-09)
+- [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026) (2026-05-09)
 - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy) (2026-05-09)
 - [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer) (2026-05-09)
 - [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led) (2026-05-09)
-- [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display) (2026-05-08)
-- [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed) (2026-05-08)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Context Engineering: Why Your AI Strategy Needs Infrastructure, Not Better Prompts](https://dev.to/tomtokita/context-engineering-why-your-ai-strategy-needs-infrastructure-not-better-prompts-378j) (2026-05-09)
-- [How I built a secure, E2E encrypted file-sharing app at 16 (Next.js + Supabase)](https://dev.to/ugax/how-i-built-a-secure-e2e-encrypted-file-sharing-app-at-16-nextjs-supabase-4klp) (2026-05-09)
-- [PHP is 5x Faster Than NestJS? Rethinking High-Load with Swoole.](https://dev.to/roman_shneer_9301c1e5f2fd/headline-php-is-5x-faster-than-nestjs-rethinking-high-load-with-swoole-31di) (2026-05-09)
-- [CLAUDE.md for C# and .NET: 13 Rules That Make AI Write Modern, Idiomatic Production Code](https://dev.to/olivia_craft/claudemd-for-c-and-net-13-rules-that-make-ai-write-modern-idiomatic-production-code-4i22) (2026-05-09)
-- [Learning HTML As If You Built It Yourself](https://dev.to/edriso/learning-html-as-if-you-built-it-yourself-hd3) (2026-05-09)
+- [Frontend Frameworks: Which One, When, and Why It Actually Matters](https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6) (2026-05-09)
+- [Building ABTFarmer: How to Automate Mobile Game Time-Skips with Python](https://dev.to/artur_pen/building-abtfarmer-how-to-automate-mobile-game-time-skips-with-python-31lg) (2026-05-09)
+- [Building FloatForex.com — Lessons From Shipping a Live Forex Rate App With React and FastAPI](https://dev.to/arslan_usman/building-floatforexcom-lessons-from-shipping-a-live-forex-rate-app-with-react-and-fastapi-ea9) (2026-05-09)
+- [Do Not Be the Courier](https://dev.to/vhcosta/do-not-be-the-courier-13dk) (2026-05-09)
+- [Why Most Small Business Websites Never Get Traffic (And How I Solved It With Next.js)](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5) (2026-05-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [IPv4 Address Format :
-An IPv4 address consists of 32 bit (binary digit), grouped into four section…](https://medium.com/@connect_94503/ipv4-address-format-an-ipv4-address-consists-of-32-bit-binary-digit-grouped-into-four-section-52531e743094?source=rss------programming-5) (2026-05-09)
-- [Understanding Python Tuples: Immutability and Real-World Applications](https://medium.com/@pujithathatavarthi/understanding-python-tuples-immutability-and-real-world-applications-00010f43e9d6?source=rss------programming-5) (2026-05-09)
-- [Best Laptops for LLM Experimentation in 2026 (Actually Tested on Real AI Workloads)](https://medium.com/@mumbamweni3/best-laptops-for-llm-experimentation-in-2026-actually-tested-on-real-ai-workloads-257859742028?source=rss------programming-5) (2026-05-09)
-- [How I Accidentally Became a Superuser, Dumped a University Archive, and Set My Faculty to “Faculty…](https://medium.com/@gombosakosroland/how-i-accidentally-became-a-superuser-dumped-a-university-archive-and-set-my-faculty-to-faculty-d6488f9b15e3?source=rss------programming-5) (2026-05-09)
-- [Voicebox: The Open-Source Voice Studio That Just Made Two Paid SaaS Tools Optional](https://medium.com/@pankaj_pandey/voicebox-the-open-source-voice-studio-that-just-made-two-paid-saas-tools-optional-06886c8d3392?source=rss------programming-5) (2026-05-09)
+- [A professionally designed site.](https://medium.com/@ashfaq.khan.miskeen/a-professionally-designed-site-1f6abd6705cc?source=rss------programming-5) (2026-05-09)
+- [7 AI Tools Every Computer Science Student Should Start Using in 2026](https://medium.com/@amnarehan9b/7-ai-tools-every-computer-science-student-should-start-using-in-2026-75701ffea879?source=rss------programming-5) (2026-05-09)
+- [Becoming Jack of all Trades, before 25.](https://medium.com/@pathakarpit722/becoming-jack-of-all-trades-before-25-8b311d5e275b?source=rss------programming-5) (2026-05-09)
+- [Writing HTML For Documentation Instead of Markdown is a Game-Changer.](https://kotrotsos.medium.com/writing-html-for-documentation-instead-of-markdown-is-a-game-changer-6ab60d0fa0bc?source=rss------programming-5) (2026-05-09)
+- [Causal Inference Made Practical: Unlocking Business Insights with the DoWhy Library](https://medium.com/ls-analytics/causal-inference-made-practical-unlocking-business-insights-with-the-dowhy-library-897cff13fc1c?source=rss------programming-5) (2026-05-09)
 
 </details>
 
@@ -493,11 +492,11 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>💬 Slack API</summary>
 
+- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 - [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 - [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
-- [Concept Mapping: A Practical Guide for Teams](https://slack.com/blog/collaboration/concept-mapping-a-practical-guide-for-teams) (2026-05-04)
 
 </details>
 
@@ -537,7 +536,7 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b) (2026-05-08)
+- ["OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper) (2026-05-09)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
@@ -546,24 +545,13 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
-- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
-- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
-- [US government increases AI suppliers and rethinks Anthropic’s role](https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/) (2026-05-06)
-- [Google tests Remy AI agent for Gemini as focus turns to user control](https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/) (2026-05-06)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Must-Know Topics for an LLM Engineer](https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/) (2026-05-09)
 - [RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production](https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/) (2026-05-09)
 - [From Data Scientist to AI Architect](https://towardsdatascience.com/from-data-scientist-to-ai-architect/) (2026-05-08)
 - [The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory](https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/) (2026-05-08)
 - [When Customers Churn at Renewal: Was It the Price or the Project?](https://towardsdatascience.com/when-customers-churn-at-renewal-was-it-the-price-or-the-project/) (2026-05-08)
-- [Unified Agentic Memory Across Harnesses Using Hooks](https://towardsdatascience.com/unified-agentic-memory-across-harnesses-using-hooks/) (2026-05-08)
 
 </details>
 
