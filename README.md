@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying) (2026-05-09)
-- [EU calls VPNs "a loophole that needs closing" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) (2026-05-09)
+- [Internet Archive Switzerland](https://internetarchive.ch/) (2026-05-09)
+- [Forking the Web](https://dillo-browser.org/lab/web-fork/) (2026-05-09)
+- [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/) (2026-05-09)
+- [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597) (2026-05-09)
 - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) (2026-05-09)
-- [Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml) (2026-05-09)
-- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) (2026-05-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy) (2026-05-09)
+- [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer) (2026-05-09)
+- [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led) (2026-05-09)
 - [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display) (2026-05-08)
 - [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed) (2026-05-08)
-- [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise) (2026-05-08)
-- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-05-08)
-- [DOGE used ChatGPT in a way that was both dumb and illegal, judge rules](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled) (2026-05-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The new Wild West of AI kids’ toys](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/) (2026-05-09)
 - [Manufacturing qubits that can move](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/) (2026-05-08)
 - [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/) (2026-05-08)
 - [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/) (2026-05-08)
 - [Sony says "efficient" AI tools will lead to even more games flooding the market](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) (2026-05-08)
-- [The unprecedented and deadly cruise ship hantavirus outbreak, explained](https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/) (2026-05-08)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5) (2026-05-09)
-- [The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj) (2026-05-09)
-- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj) (2026-05-09)
-- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh) (2026-05-09)
-- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151) (2026-05-09)
+- [Context Engineering: Why Your AI Strategy Needs Infrastructure, Not Better Prompts](https://dev.to/tomtokita/context-engineering-why-your-ai-strategy-needs-infrastructure-not-better-prompts-378j) (2026-05-09)
+- [How I built a secure, E2E encrypted file-sharing app at 16 (Next.js + Supabase)](https://dev.to/ugax/how-i-built-a-secure-e2e-encrypted-file-sharing-app-at-16-nextjs-supabase-4klp) (2026-05-09)
+- [PHP is 5x Faster Than NestJS? Rethinking High-Load with Swoole.](https://dev.to/roman_shneer_9301c1e5f2fd/headline-php-is-5x-faster-than-nestjs-rethinking-high-load-with-swoole-31di) (2026-05-09)
+- [CLAUDE.md for C# and .NET: 13 Rules That Make AI Write Modern, Idiomatic Production Code](https://dev.to/olivia_craft/claudemd-for-c-and-net-13-rules-that-make-ai-write-modern-idiomatic-production-code-4i22) (2026-05-09)
+- [Learning HTML As If You Built It Yourself](https://dev.to/edriso/learning-html-as-if-you-built-it-yourself-hd3) (2026-05-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Graphics Design to Mobile Apps: The Day Our Digital Technology Class Leveled Up.](https://medium.com/@devflexi20/from-graphics-design-to-mobile-apps-the-day-our-digital-technology-class-leveled-up-0418adad3509?source=rss------programming-5) (2026-05-09)
-- [The Skills AI Still Cannot Take From a Software Developer](https://medium.com/@noahblogwriter2025/the-skills-ai-still-cannot-take-from-a-software-developer-6a9130e294cd?source=rss------programming-5) (2026-05-09)
-- [The Senior Developer Debate Nobody Is Settling Honestly](https://medium.com/@toyezyadav/senior-developer-debate-judgment-years-ai-pipeline-6fbd4cdf30b6?source=rss------programming-5) (2026-05-09)
-- [A 47-Second PostgreSQL Query Now Runs in 83ms. Here Is Why.](https://medium.com/@inprogrammer/a-47-second-postgresql-query-now-runs-in-83ms-here-is-why-f3bb15e246da?source=rss------programming-5) (2026-05-09)
-- [THE HARSH TRUTH I FOUND ABOUT MAKING MONEY ONLINE THAT NOBODY TALKS ABOUT](https://medium.com/@nwaforjoshua045/the-harsh-truth-i-found-about-making-money-online-that-nobody-talks-about-f667a097a053?source=rss------programming-5) (2026-05-09)
+- [IPv4 Address Format :
+An IPv4 address consists of 32 bit (binary digit), grouped into four section…](https://medium.com/@connect_94503/ipv4-address-format-an-ipv4-address-consists-of-32-bit-binary-digit-grouped-into-four-section-52531e743094?source=rss------programming-5) (2026-05-09)
+- [Understanding Python Tuples: Immutability and Real-World Applications](https://medium.com/@pujithathatavarthi/understanding-python-tuples-immutability-and-real-world-applications-00010f43e9d6?source=rss------programming-5) (2026-05-09)
+- [Best Laptops for LLM Experimentation in 2026 (Actually Tested on Real AI Workloads)](https://medium.com/@mumbamweni3/best-laptops-for-llm-experimentation-in-2026-actually-tested-on-real-ai-workloads-257859742028?source=rss------programming-5) (2026-05-09)
+- [How I Accidentally Became a Superuser, Dumped a University Archive, and Set My Faculty to “Faculty…](https://medium.com/@gombosakosroland/how-i-accidentally-became-a-superuser-dumped-a-university-archive-and-set-my-faculty-to-faculty-d6488f9b15e3?source=rss------programming-5) (2026-05-09)
+- [Voicebox: The Open-Source Voice Studio That Just Made Two Paid SaaS Tools Optional](https://medium.com/@pankaj_pandey/voicebox-the-open-source-voice-studio-that-just-made-two-paid-saas-tools-optional-06886c8d3392?source=rss------programming-5) (2026-05-09)
 
 </details>
 
@@ -492,11 +493,11 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/productivity-workflow-management-tools) (2026-05-01)
-- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
-- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
-- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
-- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
+- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
+- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
+- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
+- [Concept Mapping: A Practical Guide for Teams](https://slack.com/blog/collaboration/concept-mapping-a-practical-guide-for-teams) (2026-05-04)
 
 </details>
 
@@ -545,24 +546,35 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
+- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
+- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
+- [US government increases AI suppliers and rethinks Anthropic’s role](https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/) (2026-05-06)
+- [Google tests Remy AI agent for Gemini as focus turns to user control](https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/) (2026-05-06)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production](https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/) (2026-05-09)
 - [From Data Scientist to AI Architect](https://towardsdatascience.com/from-data-scientist-to-ai-architect/) (2026-05-08)
 - [The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory](https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/) (2026-05-08)
 - [When Customers Churn at Renewal: Was It the Price or the Project?](https://towardsdatascience.com/when-customers-churn-at-renewal-was-it-the-price-or-the-project/) (2026-05-08)
 - [Unified Agentic Memory Across Harnesses Using Hooks](https://towardsdatascience.com/unified-agentic-memory-across-harnesses-using-hooks/) (2026-05-08)
-- [The Joy of Typing](https://towardsdatascience.com/the-joy-of-typing/) (2026-05-07)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agent Memory Patterns in Cognitive Science and AI Systems](https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/) (2026-05-09)
 - [10 AI Agents Every AI Engineer Must Build (with GitHub Samples)](https://www.analyticsvidhya.com/blog/2026/05/build-ai-agents/) (2026-05-08)
 - [23 Tips for Smart Claude Code Token Saving and Workflow Optimization](https://www.analyticsvidhya.com/blog/2026/05/tips-for-claude-code-token-saving/) (2026-05-08)
 - [Feature Engineering with LLMs: Techniques & Python Examples](https://www.analyticsvidhya.com/blog/2026/05/feature-engineering-with-llms/) (2026-05-07)
 - [ChatGPT is Now Inside Excel and Google Sheets: Here is How to Use it](https://www.analyticsvidhya.com/blog/2026/05/chatgpt-in-excel-and-google-sheets/) (2026-05-07)
-- [Anthropic’s 10 AI Agents are Redefining Finance Work](https://www.analyticsvidhya.com/blog/2026/05/claude-finance-solutions/) (2026-05-06)
 
 </details>
 
