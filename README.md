@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/) (2026-05-09)
-- [People Hate AI Art](https://mccue.dev/pages/5-8-26-ai-art) (2026-05-09)
-- [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests) (2026-05-08)
-- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging) (2026-05-08)
-- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/) (2026-05-08)
+- [Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying) (2026-05-09)
+- [EU calls VPNs "a loophole that needs closing" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) (2026-05-09)
+- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) (2026-05-09)
+- [Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml) (2026-05-09)
+- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) (2026-05-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-17m4) (2026-05-09)
-- [Browser Tab UX in React: Pull Users Back with Titles, Favicons, and Notifications](https://dev.to/childrentime/browser-tab-ux-in-react-pull-users-back-with-titles-favicons-and-notifications-m94) (2026-05-09)
-- [Turning Local AI Governance Into Runtime Infrastructure](https://dev.to/hollowhouse/turning-local-ai-governance-into-runtime-infrastructure-4pcb) (2026-05-09)
-- [Your AI agent already emits OpenTelemetry. Why aren't you watching it?](https://dev.to/sunilprakash/your-ai-agent-already-emits-opentelemetry-why-arent-you-watching-it-b06) (2026-05-09)
-- [I built a native iOS app for Vercel Web Analytics](https://dev.to/apoorvdarshan/i-built-a-native-ios-app-for-vercel-web-analytics-lg5) (2026-05-09)
+- [shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5) (2026-05-09)
+- [The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj) (2026-05-09)
+- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj) (2026-05-09)
+- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh) (2026-05-09)
+- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151) (2026-05-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why More Young People Want to Earn Their Own Money Early](https://medium.com/@vikitrifaldi14/why-more-young-people-want-to-earn-their-own-money-early-0c4e309e1ff7?source=rss------programming-5) (2026-05-09)
-- [Node.js Day 5–7: Modules, NPM & File System (Start Thinking Like a Real Developer)](https://medium.com/@uyanhewagetr/node-js-day-5-7-modules-npm-file-system-start-thinking-like-a-real-developer-3415ffd9b5f4?source=rss------programming-5) (2026-05-09)
-- [Write Grafana Alloy Config Files Faster with This JetBrains Plugin](https://jirapong-p.medium.com/write-grafana-alloy-config-files-faster-with-this-jetbrains-plugin-cb978ddee72f?source=rss------programming-5) (2026-05-09)
-- [Claude Mythos Found a 27-Year-Old Bug. Here’s Why That’s a Problem.](https://medium.com/@hinditechbook/claude-mythos-found-a-27-year-old-bug-heres-why-that-s-a-problem-9b52c2f69908?source=rss------programming-5) (2026-05-09)
-- [Claude Sonnet 4.6 vs Kimi K2.6: Which AI Is the Better Software Engineering Partner in 2026?](https://medium.com/design-bootcamp/claude-sonnet-4-6-vs-kimi-k2-6-which-ai-is-the-better-software-engineering-partner-in-2026-8502a9149d4e?source=rss------programming-5) (2026-05-09)
+- [From Graphics Design to Mobile Apps: The Day Our Digital Technology Class Leveled Up.](https://medium.com/@devflexi20/from-graphics-design-to-mobile-apps-the-day-our-digital-technology-class-leveled-up-0418adad3509?source=rss------programming-5) (2026-05-09)
+- [The Skills AI Still Cannot Take From a Software Developer](https://medium.com/@noahblogwriter2025/the-skills-ai-still-cannot-take-from-a-software-developer-6a9130e294cd?source=rss------programming-5) (2026-05-09)
+- [The Senior Developer Debate Nobody Is Settling Honestly](https://medium.com/@toyezyadav/senior-developer-debate-judgment-years-ai-pipeline-6fbd4cdf30b6?source=rss------programming-5) (2026-05-09)
+- [A 47-Second PostgreSQL Query Now Runs in 83ms. Here Is Why.](https://medium.com/@inprogrammer/a-47-second-postgresql-query-now-runs-in-83ms-here-is-why-f3bb15e246da?source=rss------programming-5) (2026-05-09)
+- [THE HARSH TRUTH I FOUND ABOUT MAKING MONEY ONLINE THAT NOBODY TALKS ABOUT](https://medium.com/@nwaforjoshua045/the-harsh-truth-i-found-about-making-money-online-that-nobody-talks-about-f667a097a053?source=rss------programming-5) (2026-05-09)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Moving Volume Group Snapshots to GA](https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/) (2026-05-08)
 - [Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA](https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/) (2026-05-07)
 - [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/) (2026-05-06)
 - [Kubernetes v1.36: Declarative Validation Graduates to GA](https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/) (2026-05-05)
 - [Kubernetes v1.36: Admission Policies That Can't Be Deleted](https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control/) (2026-05-04)
-- [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/) (2026-05-01)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Build an Omni-Channel AI Agent with Twilio Agent Connect and Amazon Bedrock AgentCore
+Introducing Ola: An Agent-Native Communication Channel and Oversight Platform from Twilio Forward
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ai-twilio-agent-connect-amazon-bedrock-agentcore
-) (2026-05-06)
+https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-communications-channel
+) (2026-05-07)
 - [
-Calling All AI Startups: Twilio’s Startup Searchlight 2026 Is Here
+Twilio Brings Customer Engagement Workflows into Claude by Anthropic
 ](
-https://www.twilio.com/en-us/blog/company/news/calling-all-ai-startups-twilios-ai-startup-searchlight-2026
-) (2026-05-06)
+https://www.twilio.com/en-us/blog/partners/introducing-twilio-claude-connector-claude-code-plugin
+) (2026-05-07)
 - [
-Infrastructure for the agentic era: A new conversation layer for the Twilio Platform
+Orchestrate an AI-to-Human Agent Handoff with Twilio Agent Connect, Conversations Orchestrator, Studio, and Flex
 ](
-https://www.twilio.com/en-us/blog/products/signal-2026-product-announcements
-) (2026-05-06)
+https://www.twilio.com/en-us/blog/developers/best-practices/ai-human-handoff-tac-orchestrator-studio-flex
+) (2026-05-07)
 - [
-What is Conversation Intelligence in Twilio Conversations? Turn live interactions into context-aware action
+Introducing the Twilio MCP Server and Skills: Give Your Coding Agents Native Access to 1,800+ Twilio APIs
 ](
-https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence
-) (2026-05-06)
+https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills
+) (2026-05-07)
 - [
-Introducing Conversation Orchestrator: Connected Conversations with Conversation Orchestrator
+Twilio for Disaster-Ready Communities: Our 2030 Goal
 ](
-https://www.twilio.com/en-us/blog/products/launches/conversation-orchestrator
-) (2026-05-06)
+https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
+) (2026-05-07)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/products/launches/conversation-orchestrator
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
-- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
-- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
+- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/productivity-workflow-management-tools) (2026-05-01)
+- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
+- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
+- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
+- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/products/launches/conversation-orchestrator
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
-- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
-- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
-- [US government increases AI suppliers and rethinks Anthropic’s role](https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/) (2026-05-06)
-- [Google tests Remy AI agent for Gemini as focus turns to user control](https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/) (2026-05-06)
 
 </details>
 
