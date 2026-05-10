@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/) (2026-05-10)
+- [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/) (2026-05-10)
+- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/) (2026-05-10)
+- [The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/) (2026-05-10)
 - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/) (2026-05-10)
-- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-05-09)
-- [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/) (2026-05-09)
-- [GM agrees to pay $12.75M in California driver privacy settlement](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/) (2026-05-09)
-- [The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally](https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/) (2026-05-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) (2026-05-10)
-- [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do) (2026-05-10)
-- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/) (2026-05-10)
-- [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/) (2026-05-10)
-- [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html) (2026-05-10)
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) (2026-05-10)
+- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) (2026-05-10)
+- [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/) (2026-05-10)
+- [Spain just became one of Europe's cheapest power markets. Here is how](https://janrosenow.substack.com/p/spain-just-became-one-of-europes) (2026-05-10)
+- [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) (2026-05-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review) (2026-05-10)
+- [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on) (2026-05-10)
+- [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv) (2026-05-10)
 - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy) (2026-05-10)
 - [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone) (2026-05-10)
-- [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale) (2026-05-09)
-- [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026) (2026-05-09)
-- [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy) (2026-05-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Living on My Own Server: The Balance of Time and Freedom](https://dev.to/merbayerp/living-on-my-own-server-the-balance-of-time-and-freedom-15j1) (2026-05-10)
-- [The Features That Make OrinIDE Different From Other Browser IDEs](https://dev.to/nandan_das_369/the-features-that-make-orinide-different-from-other-browser-ides-4j0i) (2026-05-10)
-- [Building an Interactive Virtual Courtroom Website](https://dev.to/code-name-js/building-an-interactive-virtual-courtroom-website-3k9l) (2026-05-10)
-- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak) (2026-05-10)
-- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p) (2026-05-10)
+- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm) (2026-05-10)
+- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817) (2026-05-10)
+- [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) (2026-05-10)
+- [How Python Powers Real-World Data Analytics](https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m) (2026-05-10)
+- [I built 14 VS Code extensions to fix the workflows developers quietly suffer through](https://dev.to/imatulsrivas/i-built-14-vs-code-extensions-to-fix-the-workflows-developers-quietly-suffer-through-pba) (2026-05-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Linux User Management: How the OS Keeps Users in Their Lane](https://medium.com/@aryanchristian55/linux-user-management-how-the-os-keeps-users-in-their-lane-0167eb52a600?source=rss------programming-5) (2026-05-10)
-- [Everyone Says AI Will Kill Developer Jobs. They’re Dead Wrong.](https://ai.plainenglish.io/everyone-says-ai-will-kill-developer-jobs-theyre-dead-wrong-be0484bd5542?source=rss------programming-5) (2026-05-10)
-- [How to write good paginated API for your applications](https://medium.com/@flaviamdosanjos/how-to-write-good-paginated-api-for-your-applications-b9abb8d87fb5?source=rss------programming-5) (2026-05-10)
-- [From Technical Debt to Frontier Firm: A Deep Technical Dive into Agentic App and Database…](https://blog.devops.dev/from-technical-debt-to-frontier-firm-a-deep-technical-dive-into-agentic-app-and-database-78c34efe5d22?source=rss------programming-5) (2026-05-10)
-- [Ternary Computer Setun: The Soviet Hack That Defied Binary](https://medium.com/@gyroscope.phy/ternary-computer-setun-the-soviet-hack-that-defied-binary-c0ef4aac30f4?source=rss------programming-5) (2026-05-10)
+- [6 Tech Habits That Quietly Turned Me Into a Faster Python Developer](https://medium.com/@talhaulfat93/6-tech-habits-that-quietly-turned-me-into-a-faster-python-developer-0ae2be7e6f2d?source=rss------programming-5) (2026-05-10)
+- [Upcoming New Features in C# 15 & .NET 11](https://medium.com/@serkutyildirim/upcoming-new-features-in-c-15-net-11-310622f26827?source=rss------programming-5) (2026-05-10)
+- [I Replaced GitHub Copilot for 7 Days with a Local AI Coding Assistant](https://medium.com/@krtarunsingh/i-replaced-github-copilot-for-7-days-with-a-local-ai-coding-assistant-131af9137c40?source=rss------programming-5) (2026-05-10)
+- [7 JavaScript Skills That Will Matter More in 2026 Than They Do Right Now](https://javascript.plainenglish.io/7-javascript-skills-that-will-matter-more-in-2026-than-they-do-right-now-3a3718ef62b1?source=rss------programming-5) (2026-05-10)
+- [Bind Mounts: Two Environments, One Workspace](https://medium.com/@yasharesofficial/bind-mounts-two-environments-one-workspace-37111d0e98c5?source=rss------programming-5) (2026-05-10)
 
 </details>
 
@@ -536,7 +536,7 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- ["OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper) (2026-05-09)
+- [MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck) (2026-05-10)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Batch or Stream? The Eternal Data Processing Dilemma](https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/) (2026-05-10)
 - [LLM Summarizers Skip the Identification Step](https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/) (2026-05-10)
 - [The Must-Know Topics for an LLM Engineer](https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/) (2026-05-09)
 - [RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production](https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/) (2026-05-09)
 - [From Data Scientist to AI Architect](https://towardsdatascience.com/from-data-scientist-to-ai-architect/) (2026-05-08)
-- [The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory](https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/) (2026-05-08)
 
 </details>
 
