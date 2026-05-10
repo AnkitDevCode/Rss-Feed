@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging) (2026-05-09)
-- [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan) (2026-05-09)
-- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) (2026-05-09)
-- [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc) (2026-05-09)
-- [I caught the car](https://undecidability.net/senior/) (2026-05-09)
+- [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) (2026-05-10)
+- [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/) (2026-05-10)
+- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) (2026-05-10)
+- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky) (2026-05-10)
+- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html) (2026-05-10)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why AI Projects Fail — 7 Patterns We See Repeatedly | KORIX](https://dev.to/korix/why-ai-projects-fail-7-patterns-we-see-repeatedly-korix-13aj) (2026-05-10)
-- [How Swarm Orchestrator v8 Tries to Break Its Own AI Patches](https://dev.to/moonrunnerkc/how-swarm-orchestrator-v8-tries-to-break-its-own-ai-patches-2513) (2026-05-10)
-- [How to Write a CLAUDE.md Rule That Actually Gets Enforced](https://dev.to/moonrunnerkc/how-to-write-a-claudemd-rule-that-actually-gets-enforced-3npa) (2026-05-10)
-- [There is a moment, after I finish a prompt and before I press send, when the ...](https://dev.to/paifamily/there-is-a-moment-after-i-finish-a-prompt-and-before-i-press-send-when-the--l2m) (2026-05-10)
-- [I built an AI that explains your CI failures in plain English (right inside your PR)](https://dev.to/aliyaakoub/i-built-an-ai-that-explains-your-ci-failures-in-plain-english-right-inside-your-pr-nef) (2026-05-10)
+- [The Discipline of Not Fooling Ourselves: Episode 6 — The Mirage of Maturity](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-6-the-mirage-of-maturity-2k91) (2026-05-10)
+- [64. Precision and Recall: Beyond Accuracy](https://dev.to/yakhilesh/64-precision-and-recall-beyond-accuracy-32d) (2026-05-10)
+- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi) (2026-05-10)
+- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9) (2026-05-10)
+- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9) (2026-05-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [6 Core Concepts That Make Coding Easier](https://medium.com/@baheer224/6-core-concepts-that-make-coding-easier-626df43632c4?source=rss------programming-5) (2026-05-10)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-039d9e5a6eca?source=rss------programming-5) (2026-05-10)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a1bf3826cca1?source=rss------programming-5) (2026-05-10)
-- [LLMs from Zero: Transformers, BERT, GPT, and Everything You Need to Know](https://medium.com/@jorge.attie_71096/from-zero-to-llm-how-chatgpt-claude-and-modern-ai-actually-work-e24644df1e39?source=rss------programming-5) (2026-05-10)
-- [The Broadcast Channel API](https://blog.carlosrojas.dev/the-broadcast-channel-api-bf1c6f9f850c?source=rss------programming-5) (2026-05-10)
+- [The Person Who Made My Job Hardest Wrote Me A LinkedIn Recommendation When I Left.](https://medium.com/illumination/the-person-who-made-my-job-hardest-wrote-me-a-linkedin-recommendation-when-i-left-f1af474785d3?source=rss------programming-5) (2026-05-10)
+- [Pyrefly: Up to 76x Faster Than mypy. Here Is What Changed.](https://medium.com/@inprogrammer/pyrefly-up-to-76x-faster-than-mypy-here-is-what-changed-f94a8e097eab?source=rss------programming-5) (2026-05-10)
+- [Why Your Team Is Using AI Wrong — And How One Session Changed That](https://imaknas.medium.com/why-your-team-is-using-ai-wrong-and-how-one-session-changed-that-b7874846a92d?source=rss------programming-5) (2026-05-10)
+- [Best AI Models in 2026: The Complete Honest Ranking](https://medium.com/@sanjeevpatel3007/best-ai-models-in-2026-the-complete-honest-ranking-d67b63cf3543?source=rss------programming-5) (2026-05-10)
+- [I Read Every Report on the Vibe-Coding Data Leaks. ~40% of These Apps Are Exposing User Data.](https://medium.com/@jeromequeck2004/i-read-every-report-on-the-vibe-coding-data-leaks-40-of-these-apps-are-exposing-user-data-fc6b0ece5e3b?source=rss------programming-5) (2026-05-10)
 
 </details>
 
@@ -148,6 +146,17 @@
 - [NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC](https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/) (2026-05-06)
 - [NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises](https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/) (2026-05-05)
 - [Nemotron Labs: What OpenClaw Agents Mean for Every Organization](https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/) (2026-04-30)
+
+</details>
+
+<details>
+<summary>🍎 Apple Developer News</summary>
+
+- [Brazilian betting license requirement for App Store availability](https://developer.apple.com/news/?id=x4eyetnp) (2026-05-08)
+- [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe) (2026-04-27)
+- [Lykke Studios: In pursuit of puffy perfection](https://developer.apple.com/news/?id=5t9gew40) (2026-04-24)
+- [Hello Developer: April 2026](https://developer.apple.com/news/?id=e1ssia6m) (2026-04-07)
+- [How Infold Games fashioned an open world for Infinity Nikki](https://developer.apple.com/news/?id=9mgkwjnm) (2026-04-03)
 
 </details>
 
