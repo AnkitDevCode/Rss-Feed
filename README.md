@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) (2026-05-10)
-- [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/) (2026-05-10)
-- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/) (2026-05-10)
-- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky) (2026-05-10)
-- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html) (2026-05-10)
+- [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) (2026-05-10)
+- [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do) (2026-05-10)
+- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/) (2026-05-10)
+- [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/) (2026-05-10)
+- [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html) (2026-05-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy) (2026-05-10)
+- [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone) (2026-05-10)
 - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale) (2026-05-09)
 - [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026) (2026-05-09)
 - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy) (2026-05-09)
-- [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer) (2026-05-09)
-- [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led) (2026-05-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Do you take after your dad’s RNA?](https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/) (2026-05-10)
+- [Huge landslide created a 500-meter-high tsunami in a major tourist area](https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/) (2026-05-10)
 - [The new Wild West of AI kids’ toys](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/) (2026-05-09)
 - [Manufacturing qubits that can move](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/) (2026-05-08)
 - [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/) (2026-05-08)
-- [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/) (2026-05-08)
-- [Sony says "efficient" AI tools will lead to even more games flooding the market](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) (2026-05-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Discipline of Not Fooling Ourselves: Episode 6 — The Mirage of Maturity](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-6-the-mirage-of-maturity-2k91) (2026-05-10)
-- [64. Precision and Recall: Beyond Accuracy](https://dev.to/yakhilesh/64-precision-and-recall-beyond-accuracy-32d) (2026-05-10)
-- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi) (2026-05-10)
-- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9) (2026-05-10)
-- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9) (2026-05-10)
+- [Living on My Own Server: The Balance of Time and Freedom](https://dev.to/merbayerp/living-on-my-own-server-the-balance-of-time-and-freedom-15j1) (2026-05-10)
+- [The Features That Make OrinIDE Different From Other Browser IDEs](https://dev.to/nandan_das_369/the-features-that-make-orinide-different-from-other-browser-ides-4j0i) (2026-05-10)
+- [Building an Interactive Virtual Courtroom Website](https://dev.to/code-name-js/building-an-interactive-virtual-courtroom-website-3k9l) (2026-05-10)
+- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak) (2026-05-10)
+- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p) (2026-05-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Person Who Made My Job Hardest Wrote Me A LinkedIn Recommendation When I Left.](https://medium.com/illumination/the-person-who-made-my-job-hardest-wrote-me-a-linkedin-recommendation-when-i-left-f1af474785d3?source=rss------programming-5) (2026-05-10)
-- [Pyrefly: Up to 76x Faster Than mypy. Here Is What Changed.](https://medium.com/@inprogrammer/pyrefly-up-to-76x-faster-than-mypy-here-is-what-changed-f94a8e097eab?source=rss------programming-5) (2026-05-10)
-- [Why Your Team Is Using AI Wrong — And How One Session Changed That](https://imaknas.medium.com/why-your-team-is-using-ai-wrong-and-how-one-session-changed-that-b7874846a92d?source=rss------programming-5) (2026-05-10)
-- [Best AI Models in 2026: The Complete Honest Ranking](https://medium.com/@sanjeevpatel3007/best-ai-models-in-2026-the-complete-honest-ranking-d67b63cf3543?source=rss------programming-5) (2026-05-10)
-- [I Read Every Report on the Vibe-Coding Data Leaks. ~40% of These Apps Are Exposing User Data.](https://medium.com/@jeromequeck2004/i-read-every-report-on-the-vibe-coding-data-leaks-40-of-these-apps-are-exposing-user-data-fc6b0ece5e3b?source=rss------programming-5) (2026-05-10)
+- [Linux User Management: How the OS Keeps Users in Their Lane](https://medium.com/@aryanchristian55/linux-user-management-how-the-os-keeps-users-in-their-lane-0167eb52a600?source=rss------programming-5) (2026-05-10)
+- [Everyone Says AI Will Kill Developer Jobs. They’re Dead Wrong.](https://ai.plainenglish.io/everyone-says-ai-will-kill-developer-jobs-theyre-dead-wrong-be0484bd5542?source=rss------programming-5) (2026-05-10)
+- [How to write good paginated API for your applications](https://medium.com/@flaviamdosanjos/how-to-write-good-paginated-api-for-your-applications-b9abb8d87fb5?source=rss------programming-5) (2026-05-10)
+- [From Technical Debt to Frontier Firm: A Deep Technical Dive into Agentic App and Database…](https://blog.devops.dev/from-technical-debt-to-frontier-firm-a-deep-technical-dive-into-agentic-app-and-database-78c34efe5d22?source=rss------programming-5) (2026-05-10)
+- [Ternary Computer Setun: The Soviet Hack That Defied Binary](https://medium.com/@gyroscope.phy/ternary-computer-setun-the-soviet-hack-that-defied-binary-c0ef4aac30f4?source=rss------programming-5) (2026-05-10)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [LLM Summarizers Skip the Identification Step](https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/) (2026-05-10)
 - [The Must-Know Topics for an LLM Engineer](https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/) (2026-05-09)
 - [RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production](https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/) (2026-05-09)
 - [From Data Scientist to AI Architect](https://towardsdatascience.com/from-data-scientist-to-ai-architect/) (2026-05-08)
 - [The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory](https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/) (2026-05-08)
-- [When Customers Churn at Renewal: Was It the Price or the Project?](https://towardsdatascience.com/when-customers-churn-at-renewal-was-it-the-price-or-the-project/) (2026-05-08)
 
 </details>
 
