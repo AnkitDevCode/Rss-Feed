@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/) (2026-05-10)
+- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-05-09)
+- [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/) (2026-05-09)
+- [GM agrees to pay $12.75M in California driver privacy settlement](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/) (2026-05-09)
 - [The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally](https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/) (2026-05-09)
-- [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) (2026-05-09)
-- [Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/) (2026-05-08)
-- [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/) (2026-05-08)
-- [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zed Editor Theme-Builder](https://zed.dev/theme-builder) (2026-05-09)
-- [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/) (2026-05-09)
-- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) (2026-05-09)
-- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples) (2026-05-09)
-- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/) (2026-05-09)
+- [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging) (2026-05-09)
+- [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan) (2026-05-09)
+- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) (2026-05-09)
+- [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc) (2026-05-09)
+- [I caught the car](https://undecidability.net/senior/) (2026-05-09)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Frontend Frameworks: Which One, When, and Why It Actually Matters](https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6) (2026-05-09)
-- [Building ABTFarmer: How to Automate Mobile Game Time-Skips with Python](https://dev.to/artur_pen/building-abtfarmer-how-to-automate-mobile-game-time-skips-with-python-31lg) (2026-05-09)
-- [Building FloatForex.com — Lessons From Shipping a Live Forex Rate App With React and FastAPI](https://dev.to/arslan_usman/building-floatforexcom-lessons-from-shipping-a-live-forex-rate-app-with-react-and-fastapi-ea9) (2026-05-09)
-- [Do Not Be the Courier](https://dev.to/vhcosta/do-not-be-the-courier-13dk) (2026-05-09)
-- [Why Most Small Business Websites Never Get Traffic (And How I Solved It With Next.js)](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5) (2026-05-09)
+- [Why AI Projects Fail — 7 Patterns We See Repeatedly | KORIX](https://dev.to/korix/why-ai-projects-fail-7-patterns-we-see-repeatedly-korix-13aj) (2026-05-10)
+- [How Swarm Orchestrator v8 Tries to Break Its Own AI Patches](https://dev.to/moonrunnerkc/how-swarm-orchestrator-v8-tries-to-break-its-own-ai-patches-2513) (2026-05-10)
+- [How to Write a CLAUDE.md Rule That Actually Gets Enforced](https://dev.to/moonrunnerkc/how-to-write-a-claudemd-rule-that-actually-gets-enforced-3npa) (2026-05-10)
+- [There is a moment, after I finish a prompt and before I press send, when the ...](https://dev.to/paifamily/there-is-a-moment-after-i-finish-a-prompt-and-before-i-press-send-when-the--l2m) (2026-05-10)
+- [I built an AI that explains your CI failures in plain English (right inside your PR)](https://dev.to/aliyaakoub/i-built-an-ai-that-explains-your-ci-failures-in-plain-english-right-inside-your-pr-nef) (2026-05-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A professionally designed site.](https://medium.com/@ashfaq.khan.miskeen/a-professionally-designed-site-1f6abd6705cc?source=rss------programming-5) (2026-05-09)
-- [7 AI Tools Every Computer Science Student Should Start Using in 2026](https://medium.com/@amnarehan9b/7-ai-tools-every-computer-science-student-should-start-using-in-2026-75701ffea879?source=rss------programming-5) (2026-05-09)
-- [Becoming Jack of all Trades, before 25.](https://medium.com/@pathakarpit722/becoming-jack-of-all-trades-before-25-8b311d5e275b?source=rss------programming-5) (2026-05-09)
-- [Writing HTML For Documentation Instead of Markdown is a Game-Changer.](https://kotrotsos.medium.com/writing-html-for-documentation-instead-of-markdown-is-a-game-changer-6ab60d0fa0bc?source=rss------programming-5) (2026-05-09)
-- [Causal Inference Made Practical: Unlocking Business Insights with the DoWhy Library](https://medium.com/ls-analytics/causal-inference-made-practical-unlocking-business-insights-with-the-dowhy-library-897cff13fc1c?source=rss------programming-5) (2026-05-09)
+- [6 Core Concepts That Make Coding Easier](https://medium.com/@baheer224/6-core-concepts-that-make-coding-easier-626df43632c4?source=rss------programming-5) (2026-05-10)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-039d9e5a6eca?source=rss------programming-5) (2026-05-10)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a1bf3826cca1?source=rss------programming-5) (2026-05-10)
+- [LLMs from Zero: Transformers, BERT, GPT, and Everything You Need to Know](https://medium.com/@jorge.attie_71096/from-zero-to-llm-how-chatgpt-claude-and-modern-ai-actually-work-e24644df1e39?source=rss------programming-5) (2026-05-10)
+- [The Broadcast Channel API](https://blog.carlosrojas.dev/the-broadcast-channel-api-bf1c6f9f850c?source=rss------programming-5) (2026-05-10)
 
 </details>
 
@@ -146,17 +148,6 @@
 - [NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC](https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/) (2026-05-06)
 - [NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises](https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/) (2026-05-05)
 - [Nemotron Labs: What OpenClaw Agents Mean for Every Organization](https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/) (2026-04-30)
-
-</details>
-
-<details>
-<summary>🍎 Apple Developer News</summary>
-
-- [Brazilian betting license requirement for App Store availability](https://developer.apple.com/news/?id=x4eyetnp) (2026-05-08)
-- [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe) (2026-04-27)
-- [Lykke Studios: In pursuit of puffy perfection](https://developer.apple.com/news/?id=5t9gew40) (2026-04-24)
-- [Hello Developer: April 2026](https://developer.apple.com/news/?id=e1ssia6m) (2026-04-07)
-- [How Infold Games fashioned an open world for Infinity Nikki](https://developer.apple.com/news/?id=9mgkwjnm) (2026-04-03)
 
 </details>
 
@@ -541,6 +532,17 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
+- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
+- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
+- [US government increases AI suppliers and rethinks Anthropic’s role](https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/) (2026-05-06)
+- [Google tests Remy AI agent for Gemini as focus turns to user control](https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/) (2026-05-06)
 
 </details>
 
