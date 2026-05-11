@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/) (2026-05-10)
-- [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) (2026-05-10)
-- [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/) (2026-05-10)
-- [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/) (2026-05-10)
-- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/) (2026-05-10)
+- [NYT’s Wordle to become a TV game show](https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/) (2026-05-11)
+- [TikTok launches an ad-free subscription plan in the UK](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/) (2026-05-11)
+- [There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/) (2026-05-11)
+- [Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/) (2026-05-11)
+- [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Truth Social lays bare narrow obsessions of an online president](https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom) (2026-05-11)
-- [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) (2026-05-11)
-- [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/) (2026-05-11)
-- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) (2026-05-11)
-- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview) (2026-05-11)
+- [Out with the JavaScript, in with the HTML](https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/) (2026-05-11)
+- [Checkmate in Iran](https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/) (2026-05-11)
+- [I keep tripping over "true, false, true"](https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/) (2026-05-11)
+- [European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html) (2026-05-11)
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano) (2026-05-10)
-- [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review) (2026-05-10)
-- [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on) (2026-05-10)
-- [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv) (2026-05-10)
-- [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy) (2026-05-10)
+- [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation) (2026-05-11)
+- [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk) (2026-05-11)
+- [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers) (2026-05-11)
+- [Wordle is turning into a primetime TV game show on NBC](https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times) (2026-05-11)
+- [Venmo finally takes privacy seriously](https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts) (2026-05-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A promising Indian launch startup nears its first orbital test flight](https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/) (2026-05-11)
+- [Sony's failed war against Internet piracy may doom other copyright lawsuits](https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/) (2026-05-11)
 - [Do you take after your dad’s RNA?](https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/) (2026-05-10)
 - [Huge landslide created a 500-meter-high tsunami in a major tourist area](https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/) (2026-05-10)
 - [The new Wild West of AI kids’ toys](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/) (2026-05-09)
-- [Manufacturing qubits that can move](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/) (2026-05-08)
-- [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) (2026-05-11)
+- [Innovation abounds in device charging](https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/) (2026-05-11)
+- [Implementing advanced AI technologies in finance](https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/) (2026-05-11)
+- [The Download: the hantavirus outbreak and Musk v. Altman week 2](https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/) (2026-05-11)
 - [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) (2026-05-08)
-- [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/) (2026-05-08)
-- [The Download: AI malaise and babymaking tech](https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/) (2026-05-08)
-- [Here’s how technology transformed babymaking](https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/) (2026-05-08)
-- [The Download: the tech reshaping IVF and the rise of balcony solar](https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/) (2026-05-07)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Introducing the Heap, the software engineering blog for everyone](https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone/) (2026-05-11)
+- [Compile-Time Map and Compile-Time Mutable Variable with C++26 Reflection](https://stackoverflow.blog/2026/05/11/compile-time-map-and-compile-time-mutable-variable-with-c-26-reflection/) (2026-05-11)
 - [No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/) (2026-05-08)
 - [AI giveth and AI taketh CPU](https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/) (2026-05-08)
 - [How we replaced Ingress-NGINX at Stack Overflow](https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/) (2026-05-06)
-- [What (un)exactly do you mean by semantic search?](https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/) (2026-05-05)
-- [Dispatches from O'Reilly: Fast paths and slow paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Loaders Matter for Performance](https://dev.to/jacobandrewsky/why-loaders-matter-for-performance-4b8a) (2026-05-11)
-- [Why PostgreSQL and ClickHouse Work So Well Together](https://dev.to/mohhddhassan/why-postgresql-and-clickhouse-work-so-well-together-5128) (2026-05-11)
-- [CloudShell - The Hidden API](https://dev.to/aws-builders/cloudshell-the-hidden-api-51km) (2026-05-11)
-- [The 4-Way Compute Tradeoff: Reserved vs Spot vs Savings Plan vs On-Demand After 3 Years of FinOps Data](https://dev.to/muskan_8abedcc7e12/the-4-way-compute-tradeoff-reserved-vs-spot-vs-savings-plan-vs-on-demand-after-3-years-of-finops-30nm) (2026-05-11)
-- [FinOps Right-Sizing Without Vibes: The 5-Number Recipe That Cuts $200k of Idle EC2](https://dev.to/muskan_8abedcc7e12/finops-right-sizing-without-vibes-the-5-number-recipe-that-cuts-200k-of-idle-ec2-8l6) (2026-05-11)
+- [oh-my-agent: 9 new skills, cursor as first-class vendor, 80/100 benchmark](https://dev.to/gracefullight/oh-my-agent-9-new-skills-cursor-as-first-class-vendor-80100-benchmark-2e3d) (2026-05-11)
+- [Event Sourcing beyong the theory](https://dev.to/brenopms/event-sourcing-beyong-the-theory-1k18) (2026-05-11)
+- [The Amazon Bar Raiser Isn't Testing Your Solution. It's Testing the Follow Up.](https://dev.to/codeintuition/the-amazon-bar-raiser-isnt-testing-your-solution-its-testing-the-follow-up-fpn) (2026-05-11)
+- [pnpm workspaces in a Next.js 16 monorepo: what the benchmark didn't measure and almost broke my CI](https://dev.to/jtorchia/pnpm-workspaces-in-a-nextjs-16-monorepo-what-the-benchmark-didnt-measure-and-almost-broke-my-ci-1648) (2026-05-11)
+- [pnpm workspaces en monorepo con Next.js 16: lo que el benchmark no midió y casi me rompe el CI](https://dev.to/jtorchia/pnpm-workspaces-en-monorepo-con-nextjs-16-lo-que-el-benchmark-no-midio-y-casi-me-rompe-el-ci-2c63) (2026-05-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Microservices + Kafka: Common Architecture Mistakes](https://medium.com/@manojgour6811/microservices-kafka-common-architecture-mistakes-e7b73f046523?source=rss------programming-5) (2026-05-11)
-- [From Chaos to Control: How Intelligent Asset Tracking is Transforming Modern Industry](https://medium.com/@cheeruvenkatesh/from-chaos-to-control-how-intelligent-asset-tracking-is-transforming-modern-industry-2149023efcd7?source=rss------programming-5) (2026-05-11)
-- [AWS MCP Server Is Now Generally Available: A Practical Guide With Real Examples](https://levelup.gitconnected.com/aws-mcp-server-is-now-generally-available-a-practical-guide-with-real-examples-909bbb8aa16a?source=rss------programming-5) (2026-05-11)
-- [Python Lambda Function](https://medium.com/@orkhanmusayev/python-lambda-function-b222830fccc3?source=rss------programming-5) (2026-05-11)
-- [Here Are the 10 Backend Architectures Every Developer Must Know in 2026:](https://medium.com/@mamidipaka2003/here-are-the-10-backend-architectures-every-developer-must-know-in-2026-451bdf228784?source=rss------programming-5) (2026-05-11)
+- [Error Handling in Rust: Because Not Everything Goes According to Plan](https://medium.com/@rizwanbaruah641/error-handling-in-rust-because-not-everything-goes-according-to-plan-a5a9a0c33913?source=rss------programming-5) (2026-05-11)
+- [Stop tuning one model. Route per workload.](https://medium.com/@fruited.legacy_9c/stop-tuning-one-model-route-per-workload-81a356121131?source=rss------programming-5) (2026-05-11)
+- [How to Use Claude Code for Free with OpenRouter (Step-by-Step Guide)](https://medium.com/@prosperdoko/how-to-use-claude-code-for-free-with-openrouter-step-by-step-guide-86592f6bd447?source=rss------programming-5) (2026-05-11)
+- [Every Developer Should Understand What Happens Between Typing a URL and Seeing a Page.](https://medium.com/@sohail_saifi/every-developer-should-understand-what-happens-between-typing-a-url-and-seeing-a-page-a7520dd824e3?source=rss------programming-5) (2026-05-11)
+- [Havenly- A Digital Hostel Management System](https://medium.com/@24211a05g2/havenly-a-digital-hostel-management-system-bc50bf2b727b?source=rss------programming-5) (2026-05-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [The MPS 2026.1 Early Access Program Has Started](https://blog.jetbrains.com/mps/2026/05/the-mps-2025-2-eap-has-started-2/) (2026-05-07)
-- [Kotlin Ecosystem Mentorship Program: Results and Winners](https://blog.jetbrains.com/kotlin/2026/05/kotlin-ecosystem-mentorship-program/) (2026-05-07)
-- [Make Your Plugin Remote Development-Ready](https://blog.jetbrains.com/platform/2026/05/make-your-plugin-remote-development-ready/) (2026-05-07)
-- [Python Unplugged on PyTV: Key Takeaways From Our Community Conference](https://blog.jetbrains.com/pycharm/2026/05/python-unplugged-on-pytv-key-takeaways-from-our-community-conference/) (2026-05-07)
-- [How to Make Code Highlighting-Friendly](https://blog.jetbrains.com/scala/2026/05/07/how-to-make-code-highlighting-friendly/) (2026-05-07)
+- [The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/) (2026-05-11)
+- [Rider 2026.2 Early Access Program Begins With Performance Improvements](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/) (2026-05-11)
+- [The GoLand 2026.2 Early Access Program Has Started](https://blog.jetbrains.com/go/2026/05/11/the-goland-2026-2-early-access-program-has-started/) (2026-05-11)
+- [Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/05/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides-2/) (2026-05-11)
+- [Code Maintainability: What is it and Why It’s Important ](https://blog.jetbrains.com/qodana/2026/05/code-maintainability-what-is-it-and-why-is-it-important/) (2026-05-11)
 
 </details>
 
@@ -536,66 +536,66 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck) (2026-05-10)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
+- [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) (2026-04-29)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
+- [Bain sees US$100 billion SaaS market in agentic AI automation](https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/) (2026-05-11)
 - [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
 - [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
 - [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
-- [US government increases AI suppliers and rethinks Anthropic’s role](https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/) (2026-05-06)
-- [Google tests Remy AI agent for Gemini as focus turns to user control](https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [PySpark for Beginners: Mastering the Basics](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/) (2026-05-11)
 - [Batch or Stream? The Eternal Data Processing Dilemma](https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/) (2026-05-10)
 - [LLM Summarizers Skip the Identification Step](https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/) (2026-05-10)
 - [The Must-Know Topics for an LLM Engineer](https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/) (2026-05-09)
 - [RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production](https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/) (2026-05-09)
-- [From Data Scientist to AI Architect](https://towardsdatascience.com/from-data-scientist-to-ai-architect/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 LLM Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/05/top-llm-research-papers-2026/) (2026-05-11)
 - [Agent Memory Patterns in Cognitive Science and AI Systems](https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/) (2026-05-09)
 - [10 AI Agents Every AI Engineer Must Build (with GitHub Samples)](https://www.analyticsvidhya.com/blog/2026/05/build-ai-agents/) (2026-05-08)
 - [23 Tips for Smart Claude Code Token Saving and Workflow Optimization](https://www.analyticsvidhya.com/blog/2026/05/tips-for-claude-code-token-saving/) (2026-05-08)
 - [Feature Engineering with LLMs: Techniques & Python Examples](https://www.analyticsvidhya.com/blog/2026/05/feature-engineering-with-llms/) (2026-05-07)
-- [ChatGPT is Now Inside Excel and Google Sheets: Here is How to Use it](https://www.analyticsvidhya.com/blog/2026/05/chatgpt-in-excel-and-google-sheets/) (2026-05-07)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Build an AI-Powered Learning Management System That Actually Trains People](https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-actually-trains-people) (2026-05-11)
+- [10 GitHub Repositories to Master FastAPI](https://www.kdnuggets.com/10-github-repositories-to-master-fastapi) (2026-05-11)
 - [Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines](https://www.kdnuggets.com/stop-wasting-tokens-a-smarter-alternative-to-json-for-llm-pipelines) (2026-05-08)
 - [How to Build Vector Search From Scratch in Python](https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python) (2026-05-08)
 - [Building Modern EDA Pipelines with Pingouin](https://www.kdnuggets.com/building-modern-eda-pipelines-with-pingouin) (2026-05-07)
-- [7 Everyday Distributions Explained Simply](https://www.kdnuggets.com/7-everyday-distributions-explained-simply) (2026-05-07)
-- [Abacus AI Review: Features, AI Agents & Automation Explained (Honest Guide)](https://www.kdnuggets.com/2026/05/abacus/abacus-ai-review) (2026-05-06)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Implementing Prompt Compression to Reduce Agentic Loop Costs](https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/) (2026-05-11)
 - [Implementing Permission-Gated Tool Calling in Python Agents](https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/) (2026-05-08)
 - [The Roadmap to Mastering Tool Calling in AI Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/) (2026-05-07)
 - [Implementing Statistical Guardrails for Non-Deterministic Agents](https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/) (2026-05-05)
 - [Agentic RAG Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/) (2026-05-04)
-- [Effective KV Compression with TurboQuant](https://machinelearningmastery.com/effective-kv-compression-with-turboquant/) (2026-04-30)
 
 </details>
 
