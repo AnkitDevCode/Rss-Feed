@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) (2026-05-11)
-- [Make America AI ready: Strengths, weaknesses, and recommendations](https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/) (2026-05-11)
-- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) (2026-05-10)
-- [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656) (2026-05-10)
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) (2026-05-10)
+- [Truth Social lays bare narrow obsessions of an online president](https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom) (2026-05-11)
+- [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) (2026-05-11)
+- [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/) (2026-05-11)
+- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) (2026-05-11)
+- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview) (2026-05-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [No More Hallucinated Citations: A Domain-Specific RAG System with Ollama, ChromaDB and AI Agents](https://dev.to/sep83/no-more-hallucinated-citations-a-domain-specific-rag-system-with-ollama-chromadb-and-ai-agents-30c5) (2026-05-11)
-- [How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project](https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a) (2026-05-11)
-- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn) (2026-05-11)
-- [RetailSale – Open Source Flutter Retail & POS System | Contributors Welcome](https://dev.to/students_d_158079974730/retailsale-open-source-flutter-retail-pos-system-contributors-welcome-479a) (2026-05-11)
-- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea) (2026-05-11)
+- [Why Loaders Matter for Performance](https://dev.to/jacobandrewsky/why-loaders-matter-for-performance-4b8a) (2026-05-11)
+- [Why PostgreSQL and ClickHouse Work So Well Together](https://dev.to/mohhddhassan/why-postgresql-and-clickhouse-work-so-well-together-5128) (2026-05-11)
+- [CloudShell - The Hidden API](https://dev.to/aws-builders/cloudshell-the-hidden-api-51km) (2026-05-11)
+- [The 4-Way Compute Tradeoff: Reserved vs Spot vs Savings Plan vs On-Demand After 3 Years of FinOps Data](https://dev.to/muskan_8abedcc7e12/the-4-way-compute-tradeoff-reserved-vs-spot-vs-savings-plan-vs-on-demand-after-3-years-of-finops-30nm) (2026-05-11)
+- [FinOps Right-Sizing Without Vibes: The 5-Number Recipe That Cuts $200k of Idle EC2](https://dev.to/muskan_8abedcc7e12/finops-right-sizing-without-vibes-the-5-number-recipe-that-cuts-200k-of-idle-ec2-8l6) (2026-05-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Vue 3 Animations That Will Make Your Users Think You Hired a Motion Designer](https://sadiqueali.medium.com/vue-3-animations-that-will-make-your-users-think-you-hired-a-motion-designer-17448b62b7ea?source=rss------programming-5) (2026-05-11)
-- [Eighteen Warnings in Fourteen Seconds: Why I Created ARIA](https://medium.com/@wiqi_lee/eighteen-warnings-in-fourteen-seconds-why-i-created-aria-ffb06d1a3a13?source=rss------programming-5) (2026-05-11)
-- [Welcome to My Lightspeed Emacs Mastery Series™](https://medium.com/write-a-catalyst/welcome-to-my-lightspeed-emacs-mastery-series-550e38c483b6?source=rss------programming-5) (2026-05-11)
-- [Most Developers Use AI Coding Wrong](https://cloudwithazeem.medium.com/most-developers-use-ai-coding-wrong-483527a437c8?source=rss------programming-5) (2026-05-11)
-- [Stack Overflow Trained Its Own Replacement. It Won’t Be the Last.](https://colinritman.medium.com/stack-overflow-trained-its-own-replacement-it-wont-be-the-last-4f3b5676fedf?source=rss------programming-5) (2026-05-11)
+- [Microservices + Kafka: Common Architecture Mistakes](https://medium.com/@manojgour6811/microservices-kafka-common-architecture-mistakes-e7b73f046523?source=rss------programming-5) (2026-05-11)
+- [From Chaos to Control: How Intelligent Asset Tracking is Transforming Modern Industry](https://medium.com/@cheeruvenkatesh/from-chaos-to-control-how-intelligent-asset-tracking-is-transforming-modern-industry-2149023efcd7?source=rss------programming-5) (2026-05-11)
+- [AWS MCP Server Is Now Generally Available: A Practical Guide With Real Examples](https://levelup.gitconnected.com/aws-mcp-server-is-now-generally-available-a-practical-guide-with-real-examples-909bbb8aa16a?source=rss------programming-5) (2026-05-11)
+- [Python Lambda Function](https://medium.com/@orkhanmusayev/python-lambda-function-b222830fccc3?source=rss------programming-5) (2026-05-11)
+- [Here Are the 10 Backend Architectures Every Developer Must Know in 2026:](https://medium.com/@mamidipaka2003/here-are-the-10-backend-architectures-every-developer-must-know-in-2026-451bdf228784?source=rss------programming-5) (2026-05-11)
 
 </details>
 
