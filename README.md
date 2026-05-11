@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/) (2026-05-10)
+- [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/) (2026-05-10)
 - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/) (2026-05-10)
 - [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/) (2026-05-10)
 - [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/) (2026-05-10)
-- [The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/) (2026-05-10)
-- [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/) (2026-05-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) (2026-05-10)
-- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) (2026-05-10)
-- [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/) (2026-05-10)
-- [Spain just became one of Europe's cheapest power markets. Here is how](https://janrosenow.substack.com/p/spain-just-became-one-of-europes) (2026-05-10)
-- [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) (2026-05-10)
+- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) (2026-05-11)
+- [Make America AI ready: Strengths, weaknesses, and recommendations](https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/) (2026-05-11)
+- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) (2026-05-10)
+- [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656) (2026-05-10)
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) (2026-05-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano) (2026-05-10)
 - [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review) (2026-05-10)
 - [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on) (2026-05-10)
 - [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv) (2026-05-10)
 - [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy) (2026-05-10)
-- [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone) (2026-05-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm) (2026-05-10)
-- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817) (2026-05-10)
-- [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) (2026-05-10)
-- [How Python Powers Real-World Data Analytics](https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m) (2026-05-10)
-- [I built 14 VS Code extensions to fix the workflows developers quietly suffer through](https://dev.to/imatulsrivas/i-built-14-vs-code-extensions-to-fix-the-workflows-developers-quietly-suffer-through-pba) (2026-05-10)
+- [No More Hallucinated Citations: A Domain-Specific RAG System with Ollama, ChromaDB and AI Agents](https://dev.to/sep83/no-more-hallucinated-citations-a-domain-specific-rag-system-with-ollama-chromadb-and-ai-agents-30c5) (2026-05-11)
+- [How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project](https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a) (2026-05-11)
+- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn) (2026-05-11)
+- [RetailSale – Open Source Flutter Retail & POS System | Contributors Welcome](https://dev.to/students_d_158079974730/retailsale-open-source-flutter-retail-pos-system-contributors-welcome-479a) (2026-05-11)
+- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea) (2026-05-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [6 Tech Habits That Quietly Turned Me Into a Faster Python Developer](https://medium.com/@talhaulfat93/6-tech-habits-that-quietly-turned-me-into-a-faster-python-developer-0ae2be7e6f2d?source=rss------programming-5) (2026-05-10)
-- [Upcoming New Features in C# 15 & .NET 11](https://medium.com/@serkutyildirim/upcoming-new-features-in-c-15-net-11-310622f26827?source=rss------programming-5) (2026-05-10)
-- [I Replaced GitHub Copilot for 7 Days with a Local AI Coding Assistant](https://medium.com/@krtarunsingh/i-replaced-github-copilot-for-7-days-with-a-local-ai-coding-assistant-131af9137c40?source=rss------programming-5) (2026-05-10)
-- [7 JavaScript Skills That Will Matter More in 2026 Than They Do Right Now](https://javascript.plainenglish.io/7-javascript-skills-that-will-matter-more-in-2026-than-they-do-right-now-3a3718ef62b1?source=rss------programming-5) (2026-05-10)
-- [Bind Mounts: Two Environments, One Workspace](https://medium.com/@yasharesofficial/bind-mounts-two-environments-one-workspace-37111d0e98c5?source=rss------programming-5) (2026-05-10)
+- [Vue 3 Animations That Will Make Your Users Think You Hired a Motion Designer](https://sadiqueali.medium.com/vue-3-animations-that-will-make-your-users-think-you-hired-a-motion-designer-17448b62b7ea?source=rss------programming-5) (2026-05-11)
+- [Eighteen Warnings in Fourteen Seconds: Why I Created ARIA](https://medium.com/@wiqi_lee/eighteen-warnings-in-fourteen-seconds-why-i-created-aria-ffb06d1a3a13?source=rss------programming-5) (2026-05-11)
+- [Welcome to My Lightspeed Emacs Mastery Series™](https://medium.com/write-a-catalyst/welcome-to-my-lightspeed-emacs-mastery-series-550e38c483b6?source=rss------programming-5) (2026-05-11)
+- [Most Developers Use AI Coding Wrong](https://cloudwithazeem.medium.com/most-developers-use-ai-coding-wrong-483527a437c8?source=rss------programming-5) (2026-05-11)
+- [Stack Overflow Trained Its Own Replacement. It Won’t Be the Last.](https://colinritman.medium.com/stack-overflow-trained-its-own-replacement-it-wont-be-the-last-4f3b5676fedf?source=rss------programming-5) (2026-05-11)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/) (2026-05-10)
 - [Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission](https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/) (2026-05-07)
 - [Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/) (2026-05-07)
 - [NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC](https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/) (2026-05-06)
 - [NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises](https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/) (2026-05-05)
-- [Nemotron Labs: What OpenClaw Agents Mean for Every Organization](https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/) (2026-04-30)
 
 </details>
 
