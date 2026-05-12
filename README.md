@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/) (2026-05-12)
 - [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/) (2026-05-12)
 - [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) (2026-05-11)
 - [Finally, texts between Android and iPhone users can be end-to-end encrypted](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/) (2026-05-11)
 - [Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/) (2026-05-11)
-- [Bravo is creating unscripted microdramas for the Peacock app](https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/) (2026-05-12)
+- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html) (2026-05-12)
+- [Software Internals Book Club](https://eatonphil.com/bookclub.html) (2026-05-12)
 - [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) (2026-05-12)
-- [Show HN: Safe-install – safer NPM installs with trusted build dependencies](https://www.npmjs.com/package/@gkiely/safe-install) (2026-05-12)
-- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver) (2026-05-11)
-- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) (2026-05-11)
-- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) (2026-05-11)
+- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) (2026-05-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony upgraded its wearable AC so it’s cooler and better at hugging your neck](https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner) (2026-05-12)
 - [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai) (2026-05-11)
 - [Yarbo says it will remove the intentional backdoor from its robot lawn mower](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor) (2026-05-11)
 - [Here&#8217;s what Mira Murati&#8217;s AI company is up to](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model) (2026-05-11)
 - [Govee’s new portable smart lamp is on sale for the first time ](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale) (2026-05-11)
-- [Palantir&#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat) (2026-05-11)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Connecting the dots for accurate AI](https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/) (2026-05-12)
 - [When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection](https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/) (2026-05-11)
 - [OAuth 2.0 – Device flow explained for Engineers, especially for Backend Engineers](https://stackoverflow.blog/2026/05/11/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers/) (2026-05-11)
 - [Introducing the Heap, the software engineering blog for everyone](https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone/) (2026-05-11)
 - [Compile-Time Map and Compile-Time Mutable Variable with C++26 Reflection](https://stackoverflow.blog/2026/05/11/compile-time-map-and-compile-time-mutable-variable-with-c-26-reflection/) (2026-05-11)
-- [No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your Portfolio Is Invisible. Here's How I Fixed Mine.](https://dev.to/pratik_goswami_7f7dd0c3c0/your-portfolio-is-invisible-heres-how-i-fixed-mine-1fek) (2026-05-12)
-- [TanStack: 84 versiones maliciosas en 42 paquetes @tanstack/* npm](https://dev.to/lu1tr0n/tanstack-84-versiones-maliciosas-en-42-paquetes-tanstack-npm-59d5) (2026-05-12)
-- [Give Claude (or Cursor) live Polymarket prediction-market data with one MCP server](https://dev.to/manja316/give-claude-or-cursor-live-polymarket-prediction-market-data-with-one-mcp-server-58ch) (2026-05-12)
-- [FAQ schema and AI citation lift: measuring, then attacking, a positive finding](https://dev.to/code_pocket_99fdbc771/faq-schema-and-ai-citation-lift-measuring-then-attacking-a-positive-finding-4p91) (2026-05-12)
-- [You Finished GA4 for Shopify. Here's What to Actually Measure](https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn) (2026-05-12)
+- [Taming Unpredictable User Input: Building a RAG Triage Agent in Node.js](https://dev.to/omar_lashin_2badc08a1ddf9/taming-unpredictable-user-input-building-a-rag-triage-agent-in-nodejs-3pp4) (2026-05-12)
+- [How to Cut AWS S3 Storage Costs by 40% Using Lifecycle Policies: A Practical Guide](https://dev.to/sudoconsultants/how-to-cut-aws-s3-storage-costs-by-40-using-lifecycle-policies-a-practical-guide-1mlp) (2026-05-12)
+- [GDPR for Developers: What the Regulation Actually Means in Code](https://dev.to/kubabuilds/gdpr-for-developers-what-the-regulation-actually-means-in-code-3c2g) (2026-05-12)
+- [How I Built an llms.txt Generator That Actually Works at Scale](https://dev.to/outcomer/how-i-built-an-llmstxt-generator-that-actually-works-at-scale-1hh8) (2026-05-12)
+- [I Built an llms.txt Generator, Showed It to the Creator of the Standard, and Had to Rewrite Everything](https://dev.to/outcomer/i-built-an-llmstxt-generator-showed-it-to-the-creator-of-the-standard-and-had-to-rewrite-57c2) (2026-05-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Series (Part 6): Connectors — Let Claude Work With Real Systems (Not Just Your Code)](https://medium.com/@bmec278/claude-series-part-6-connectors-let-claude-work-with-real-systems-not-just-your-code-17d5bc4ecbfa?source=rss------programming-5) (2026-05-12)
-- [Stop Abusing localStorage: The Complete Guide to Browser Storage in 2026](https://sadiqueali.medium.com/stop-abusing-localstorage-the-complete-guide-to-browser-storage-in-2026-97cf231a2588?source=rss------programming-5) (2026-05-12)
-- [Your Components Are Becoming Too Smart — And It’s Slowly Breaking Your Architecture](https://medium.com/@dipaksahirav/your-components-are-becoming-too-smart-and-its-slowly-breaking-your-architecture-5a2d6132234e?source=rss------programming-5) (2026-05-12)
-- [Frontend Architecture Mistakes That Kill Scalability](https://medium.com/@dipaksahirav/frontend-architecture-mistakes-that-kill-scalability-1e9c4ea8bf74?source=rss------programming-5) (2026-05-12)
-- [MongoDB Wasn’t Slow — Our Query Was Lying](https://divy9t.medium.com/mongodb-wasnt-slow-our-query-was-lying-5089dff685de?source=rss------programming-5) (2026-05-12)
+- [API authentication patterns for internal microservices](https://blog.devgenius.io/api-authentication-patterns-for-internal-microservices-d9ab23012935?source=rss------programming-5) (2026-05-12)
+- [Software Quality Metrics: Rahasia Build Software ‘Overpowered’ Tanpa Bug](https://medium.com/@sendifauzan77/software-quality-metrics-rahasia-build-software-overpowered-tanpa-bug-a5af8b89f417?source=rss------programming-5) (2026-05-12)
+- [Day 25: Beyond the Classroom — How AI Turns a Syllabus into a Superpower](https://medium.com/@markchristian0510/day-25-beyond-the-classroom-how-ai-turns-a-syllabus-into-a-superpower-db62b4a3957d?source=rss------programming-5) (2026-05-12)
+- [How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student](https://tarunsingh24.medium.com/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-0754474f2fb5?source=rss------programming-5) (2026-05-12)
+- [AI Isn’t Replacing Developers — It’s Turning Us Into Underpaid Bot Babysitters](https://medium.com/codetodeploy/ai-isnt-replacing-developers-it-s-turning-us-into-underpaid-bot-babysitters-49c0da0fcd55?source=rss------programming-5) (2026-05-12)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
+- [Bain sees US$100 billion SaaS market in agentic AI automation](https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/) (2026-05-11)
+- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
+- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
+- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
 
 </details>
 
