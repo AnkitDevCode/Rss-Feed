@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/) (2026-05-12)
+- [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) (2026-05-11)
+- [Finally, texts between Android and iPhone users can be end-to-end encrypted](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/) (2026-05-11)
 - [Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/) (2026-05-11)
 - [Bravo is creating unscripted microdramas for the Peacock app](https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/) (2026-05-11)
-- [Digg tries again, this time as an AI news aggregator](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/) (2026-05-11)
-- [‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says](https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/) (2026-05-11)
-- [NYT’s Wordle to become a TV game show](https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://bild.ai/jobs) (2026-05-11)
-- [Microsoft Israel chief leaves amid ethical controversy](https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602) (2026-05-11)
-- [Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale) (2026-05-11)
-- [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html) (2026-05-11)
-- [CUDA-oxide: Nvidia's official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html) (2026-05-11)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) (2026-05-12)
+- [Show HN: Safe-install – safer NPM installs with trusted build dependencies](https://www.npmjs.com/package/@gkiely/safe-install) (2026-05-12)
+- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver) (2026-05-11)
+- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) (2026-05-11)
+- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai) (2026-05-11)
+- [Yarbo says it will remove the intentional backdoor from its robot lawn mower](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor) (2026-05-11)
+- [Here&#8217;s what Mira Murati&#8217;s AI company is up to](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model) (2026-05-11)
+- [Govee’s new portable smart lamp is on sale for the first time ](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale) (2026-05-11)
 - [Palantir&#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat) (2026-05-11)
-- [Apple brings encrypted RCS chats to iPhone](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android) (2026-05-11)
-- [Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying](https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy) (2026-05-11)
-- [Google stopped a zero-day hack that it says was developed with AI](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped) (2026-05-11)
-- [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera) (2026-05-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Linux bitten by second severe vulnerability in as many weeks](https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/) (2026-05-11)
+- [Audi has a new Q9 flagship coming soon: Here's its interior](https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/) (2026-05-11)
+- [After banning foreign routers, FCC says existing ones can get updates until 2029](https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/) (2026-05-11)
+- [Data center guzzled 30 million gallons of water and nobody noticed for months](https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/) (2026-05-11)
 - [Passengers from hantavirus ship arrive in US; 3 people in biocontainment](https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/) (2026-05-11)
-- [Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.](https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/) (2026-05-11)
-- [iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more](https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/) (2026-05-11)
-- [Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says](https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/) (2026-05-11)
-- [Pirates are already playing Forza Horizon 6 days before its launch](https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/) (2026-05-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Handling Eventual Consistency in Shopify Integrations](https://dev.to/masadashraf/handling-eventual-consistency-in-shopify-integrations-5dc5) (2026-05-11)
-- [A Spent $5,000 On Tokens; So That You Don't Have To (Part 2)](https://dev.to/simbo1905/a-spent-5000-on-tokens-so-that-you-dont-have-to-part-2-2e5b) (2026-05-11)
-- [How I Wired Claude AI into My SaaS and What Actually Worked vs. What Was Just Hype](https://dev.to/djs2082/how-i-wired-claude-ai-into-my-saas-and-what-actually-worked-vs-what-was-just-hype-47ni) (2026-05-11)
-- [SubQ Model: Can Subquadratic Make Long-Context AI More Efficient?](https://dev.to/poniak-labs/subq-model-can-subquadratic-make-long-context-ai-more-efficient-7l5) (2026-05-11)
-- [I Built a Production-Grade Next.js Caching Skill Because the Docs Let Me Down](https://dev.to/mohamedhossam1/i-built-a-production-grade-nextjs-caching-skill-because-the-docs-let-me-down-50k4) (2026-05-11)
+- [Your Portfolio Is Invisible. Here's How I Fixed Mine.](https://dev.to/pratik_goswami_7f7dd0c3c0/your-portfolio-is-invisible-heres-how-i-fixed-mine-1fek) (2026-05-12)
+- [TanStack: 84 versiones maliciosas en 42 paquetes @tanstack/* npm](https://dev.to/lu1tr0n/tanstack-84-versiones-maliciosas-en-42-paquetes-tanstack-npm-59d5) (2026-05-12)
+- [Give Claude (or Cursor) live Polymarket prediction-market data with one MCP server](https://dev.to/manja316/give-claude-or-cursor-live-polymarket-prediction-market-data-with-one-mcp-server-58ch) (2026-05-12)
+- [FAQ schema and AI citation lift: measuring, then attacking, a positive finding](https://dev.to/code_pocket_99fdbc771/faq-schema-and-ai-citation-lift-measuring-then-attacking-a-positive-finding-4p91) (2026-05-12)
+- [You Finished GA4 for Shopify. Here's What to Actually Measure](https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn) (2026-05-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Autobiography (of sorts)](https://medium.com/@larklaflamme/claude-autobiography-of-sorts-a3809482419d?source=rss------programming-5) (2026-05-11)
-- [JavaScript Patterns That Work Great… Until Scale Breaks Them](https://medium.com/@devonmobile/javascript-patterns-that-work-great-until-scale-breaks-them-37e40e62e63e?source=rss------programming-5) (2026-05-11)
-- [The 10x Engineer Was Always a Myth. AI Just Made It Real.](https://blog.stackademic.com/the-10x-engineer-was-always-a-myth-ai-just-made-it-real-52550ee7e243?source=rss------programming-5) (2026-05-11)
-- [The @Transactional Annotation That Wasn’t There](https://blog.stackademic.com/the-transactional-annotation-that-wasnt-there-45ba13e2b833?source=rss------programming-5) (2026-05-11)
-- [AI Prompts for Freelancers: The Practical Guide to Saving 10 Hours a Week (and Charging More)](https://medium.com/@artisanduweb2/ai-prompts-for-freelancers-the-practical-guide-to-saving-10-hours-a-week-and-charging-more-1bfdbdd65d84?source=rss------programming-5) (2026-05-11)
+- [Claude Series (Part 6): Connectors — Let Claude Work With Real Systems (Not Just Your Code)](https://medium.com/@bmec278/claude-series-part-6-connectors-let-claude-work-with-real-systems-not-just-your-code-17d5bc4ecbfa?source=rss------programming-5) (2026-05-12)
+- [Stop Abusing localStorage: The Complete Guide to Browser Storage in 2026](https://sadiqueali.medium.com/stop-abusing-localstorage-the-complete-guide-to-browser-storage-in-2026-97cf231a2588?source=rss------programming-5) (2026-05-12)
+- [Your Components Are Becoming Too Smart — And It’s Slowly Breaking Your Architecture](https://medium.com/@dipaksahirav/your-components-are-becoming-too-smart-and-its-slowly-breaking-your-architecture-5a2d6132234e?source=rss------programming-5) (2026-05-12)
+- [Frontend Architecture Mistakes That Kill Scalability](https://medium.com/@dipaksahirav/frontend-architecture-mistakes-that-kill-scalability-1e9c4ea8bf74?source=rss------programming-5) (2026-05-12)
+- [MongoDB Wasn’t Slow — Our Query Was Lying](https://divy9t.medium.com/mongodb-wasnt-slow-our-query-was-lying-5089dff685de?source=rss------programming-5) (2026-05-12)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/) (2026-05-11)
 - [Consolidate your GitLab stack with Gitaly on Kubernetes](https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/) (2026-05-07)
 - [Limit credential exposure with fine-grained personal access tokens](https://about.gitlab.com/blog/fine-grained-pats/) (2026-05-07)
 - [Automate deployment processes using a custom agent in GitLab Duo Agent Platform](https://about.gitlab.com/blog/automate-deployment-with-duo-agent-platform/) (2026-05-07)
 - [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/) (2026-05-06)
-- [8 Agentic AI patterns reshaping team collaboration](https://about.gitlab.com/blog/8-agentic-ai-patterns-reshaping-team-collaboration/) (2026-05-05)
 
 </details>
 
@@ -536,33 +536,22 @@ https://www.twilio.com/en-us/blog/Disaster-Ready-Communities
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
-- [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) (2026-04-29)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
-- [Bain sees US$100 billion SaaS market in agentic AI automation](https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/) (2026-05-11)
-- [RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist](https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/) (2026-05-08)
-- [AI helping ease the UK’s NHS burden](https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/) (2026-05-07)
-- [HP and the art of AI and data for the enterprise](https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Learning Word Vectors for Sentiment Analysis: A Python Reproduction](https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/) (2026-05-11)
 - [How to Build a Claude Code-Powered Knowledge Base](https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/) (2026-05-11)
 - [Using Transformers to Forecast Incredibly Rare Solar Flares](https://towardsdatascience.com/predicting-solar-flares/) (2026-05-11)
 - [PySpark for Beginners: Mastering the Basics](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/) (2026-05-11)
 - [Batch or Stream? The Eternal Data Processing Dilemma](https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/) (2026-05-10)
-- [LLM Summarizers Skip the Identification Step](https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/) (2026-05-10)
 
 </details>
 
