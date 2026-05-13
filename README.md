@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/) (2026-05-13)
-- [Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market](https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/) (2026-05-13)
-- [WhatsApp adds an incognito mode in Meta AI chats](https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/) (2026-05-13)
-- [Poppy debuts a proactive AI assistant to help organize your digital life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/) (2026-05-13)
-- [Adaption aims big with AutoScientist, an AI tool that helps models train themselves](https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/) (2026-05-13)
+- [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/) (2026-05-13)
+- [This is what some the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/) (2026-05-13)
+- [Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand](https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/) (2026-05-13)
+- [X launches a History tab for bookmarks, likes, videos, and articles](https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/) (2026-05-13)
+- [Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal](https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The US Is Winning the AI Race](https://avkcode.github.io/blog/us-winning-ai-race.html) (2026-05-13)
-- [Software Developers Say AI Is Rotting Their Brains](https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/) (2026-05-13)
-- [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies) (2026-05-13)
-- [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/) (2026-05-13)
-- [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) (2026-05-13)
+- [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/) (2026-05-13)
+- [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/) (2026-05-13)
+- [ReactOS](https://reactos.org/) (2026-05-13)
+- [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/) (2026-05-13)
+- [Haiku](https://www.haiku-os.org) (2026-05-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Why does the Googlebook exist?](https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini) (2026-05-13)
-- [The border is everywhere](https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance) (2026-05-13)
-- [Nintendo says it has more Switch 2 games in store for 2026](https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026) (2026-05-13)
-- [Canon’s latest EOS R6 camera goes V for video](https://www.theverge.com/gadgets/929377/canon-eos-r6-v-mirrorless-video-camera-price-specs) (2026-05-13)
-- [Alexa is moving into Amazon.com](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus) (2026-05-13)
+- [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it) (2026-05-13)
+- [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine) (2026-05-13)
+- [Netflix’s ad ambitions just keep growing](https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026) (2026-05-13)
+- [Everything at The Criterion Collection is 30 percent off right now](https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale) (2026-05-13)
+- [Instagram hits the copy button again with new disappearing Instants photos](https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app) (2026-05-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Daredevil: Born Again S2 gives us a darker, grittier canvas](https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/) (2026-05-13)
-- [Rivian adds a new onboard AI assistant to its latest software update](https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/) (2026-05-13)
-- [Could this be the moment that drug manufacturing takes off in orbit?](https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/) (2026-05-13)
-- [The newest AI boom pitch: Host a mini data center at your home](https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/) (2026-05-12)
-- [FDA chief resigns after Trump admin forced approval of fruity e-cigs](https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/) (2026-05-12)
+- [The physics of how Olympic weightlifters exploit barbell's "whip"](https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/) (2026-05-13)
+- [NASA provides some details about Artemis III, but hard decisions remain](https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/) (2026-05-13)
+- [A new US military wargame series began by simulating a nuclear weapon in orbit](https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/) (2026-05-13)
+- [Neanderthals drilled cavities to treat a toothache 59,000 years ago](https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/) (2026-05-13)
+- [Altman forced to confront claims at OpenAI trial that he's a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/) (2026-05-13)
 - [The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft](https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/) (2026-05-13)
 - [A plan to make drugs in orbit is going commercial](https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/) (2026-05-13)
 - [World Models: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/) (2026-05-12)
 - [The Download: a Nobel winner on AI, and the case for fixing everything](https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/) (2026-05-12)
-- [Three things in AI to watch, according to a Nobel-winning economist](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)](https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/) (2026-05-13)
 - [GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan](https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/) (2026-05-12)
 - [Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/) (2026-05-12)
 - [GitHub for Beginners: Getting started with OSS contributions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/) (2026-05-11)
 - [Why age assurance laws matter for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/) (2026-05-08)
-- [How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/) (2026-05-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mastering Axios in React: API Calls Made Easy](https://dev.to/kathirvel-s/mastering-axios-in-react-api-calls-made-easy-4dda) (2026-05-13)
-- [OSS AI coding assistant Kilo Code is launching on Product Hunt. Currently #1 Product of the Day, #1 Product of the Week. OSS ftw! https://www.producthunt.com/products/kilocode](https://dev.to/fmerian/oss-ai-coding-assistant-kilo-code-is-launching-on-product-hunt-currently-1-product-of-the-day-1-1a1) (2026-05-13)
-- [OSS AI coding assistant Kilo Code is launching on Product Hunt. Currently #1 Product of the Day, #1 Product of the Week. OSS ftw! https://meooow.link/kilo](https://dev.to/fmerian/oss-ai-coding-assistant-kilo-code-is-launching-on-product-hunt-currently-1-product-of-the-day-1-2nk2) (2026-05-13)
-- [ใช้งาน Garudust Agent ร่วมกับ Typhoon Thai LLM: คู่มือฉบับสมบูรณ์](https://dev.to/nisit15/aichngaan-garudust-agent-rwmkab-typhoon-thai-llm-khuumuuechbabsmbuurn-3b6c) (2026-05-13)
-- [How do you transition from beginner OSS contributions to meaningful long-term contribution?](https://dev.to/adityamoolya/how-do-you-transition-from-beginner-oss-contributions-to-meaningful-long-term-contribution-35m4) (2026-05-13)
+- [I Built ClockAura: A Free Online Timer Platform with React + Vite (My Solo Dev Journey)](https://dev.to/om_vaghani_9f90828ac042e7/i-built-clockaura-a-free-online-timer-platform-with-react-vite-my-solo-dev-journey-52p0) (2026-05-13)
+- [When AI Stops Writing Code for Humans](https://dev.to/keithjmackay/when-ai-stops-writing-code-for-humans-19d2) (2026-05-13)
+- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch) (2026-05-13)
+- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16) (2026-05-13)
+- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama) (2026-05-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Linux Terminal Basics — Your First Steps Into the Command Line](https://medium.com/@sngraphicdesigner777/linux-terminal-basics-your-first-steps-into-the-command-line-c8e1cb91f407?source=rss------programming-5) (2026-05-13)
-- [LeetCode 228: Summary Ranges Solution in Java (Time: O(n))](https://medium.com/@jerin.babujb/leetcode-228-summary-ranges-solution-in-java-time-o-n-ebc594894c37?source=rss------programming-5) (2026-05-13)
-- [I Gave 6 Interviews as a Fresher Developer. Here’s What They Were Actually Testing.](https://medium.com/@harshit619131/i-gave-6-interviews-as-a-fresher-developer-heres-what-they-were-actually-testing-7a39da392ff3?source=rss------programming-5) (2026-05-13)
-- [Advent of Code 2025 Day 7](https://medium.com/@kabbagepatch/advent-of-code-2025-day-7-f3ca32dc596f?source=rss------programming-5) (2026-05-13)
-- [A 30-Second Profiler Run Found the Bug I Was About to Fix Wrong](https://medium.com/@rifqisyandik/a-30-second-profiler-run-found-the-bug-i-was-about-to-fix-wrong-4743671a22aa?source=rss------programming-5) (2026-05-13)
+- [Your Notetaking App Just Killed My Vibe](https://medium.com/@tsecretdeveloper/your-notetaking-app-just-killed-my-vibe-d390698c0eec?source=rss------programming-5) (2026-05-13)
+- [10 JavaScript Project Ideas That Actually Impress Recruiters](https://javascript.plainenglish.io/10-javascript-project-ideas-that-actually-impress-recruiters-8548a47669e8?source=rss------programming-5) (2026-05-13)
+- [ReviewRouter: AI Code Review That Stays Inside Your CI (use Codex/Claude subscription, free models)](https://777genius.medium.com/reviewrouter-ai-code-review-that-stays-inside-your-ci-use-codex-claude-subscription-free-models-205b4d4c20ac?source=rss------programming-5) (2026-05-13)
+- [I Thought Python Was Simple. Then I Actually Started Building Things.](https://medium.com/@sabirseema7/i-thought-python-was-simple-then-i-actually-started-building-things-4fce73a9d0bc?source=rss------programming-5) (2026-05-13)
+- [We Spent 18 Months Building Microservices. Then We Deleted All of It.](https://javascript.plainenglish.io/we-spent-18-months-building-microservices-then-we-deleted-all-of-it-e39b3471f451?source=rss------programming-5) (2026-05-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
+- [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
 - [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
 - [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
 - [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
-- [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
-- [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 22.22.3 (LTS)](https://nodejs.org/en/blog/release/v22.22.3) (2026-05-13)
 - [Node.js 26.1.0 (Current)](https://nodejs.org/en/blog/release/v26.1.0) (2026-05-07)
 - [Node.js 26.0.0 (Current)](https://nodejs.org/en/blog/release/v26.0.0) (2026-05-05)
 - [Trip report: Node.js collaboration summit (2026 London)](https://nodejs.org/en/blog/events/collab-summit-2026-london) (2026-04-24)
 - [Node.js 24.15.0 (LTS)](https://nodejs.org/en/blog/release/v24.15.0) (2026-04-15)
-- [Security Bug Bounty Program Paused Due to Loss of Funding](https://nodejs.org/en/blog/announcements/discontinuing-security-bug-bounties) (2026-04-02)
 
 </details>
 
@@ -218,22 +218,22 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/) (2026-05-13)
+- [Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA](https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/) (2026-05-12)
 - [Kubernetes v1.36: Moving Volume Group Snapshots to GA](https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/) (2026-05-08)
 - [Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA](https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/) (2026-05-07)
 - [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/) (2026-05-06)
-- [Kubernetes v1.36: Declarative Validation Graduates to GA](https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/) (2026-05-05)
-- [Kubernetes v1.36: Admission Policies That Can't Be Deleted](https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Viaduct 1.0 and the future of Airbnb’s data mesh](https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4) (2026-05-13)
 - [Monitoring reliably at scale](https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4) (2026-05-05)
 - [Skipper: Building Airbnb’s embedded workflow engine](https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4) (2026-04-28)
 - [Building a fault-tolerant metrics storage system at Airbnb](https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4) (2026-04-21)
 - [Privacy-first connections: Empowering social experiences at Airbnb](https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4) (2026-04-14)
-- [Building a high-volume metrics pipeline with OpenTelemetry and vmagent](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4) (2026-04-07)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Harden your pipeline perimeter for the era of AI-assisted coding](https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/) (2026-05-13)
 - [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/) (2026-05-11)
 - [Consolidate your GitLab stack with Gitaly on Kubernetes](https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/) (2026-05-07)
 - [Limit credential exposure with fine-grained personal access tokens](https://about.gitlab.com/blog/fine-grained-pats/) (2026-05-07)
 - [Automate deployment processes using a custom agent in GitLab Duo Agent Platform](https://about.gitlab.com/blog/automate-deployment-with-duo-agent-platform/) (2026-05-07)
-- [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/) (2026-05-06)
 
 </details>
 
@@ -459,11 +459,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Apollo Kotlin 5 Is Now Available](https://www.apollographql.com/blog/apollo-kotlin-5-is-now-available) (2026-05-13)
 - [Apollo Federation Goes Full Rust](https://www.apollographql.com/blog/apollo-federation-goes-full-rust) (2026-05-07)
 - [Apollo is Recognized in Gartner® Voice of the Customer ](https://www.apollographql.com/blog/apollo-is-recognized-in-gartner-voice-of-the-customer) (2026-04-29)
 - [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
 - [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
-- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 - [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
+- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
 
 </details>
 
@@ -525,11 +525,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.12 Release Blog](https://pytorch.org/blog/pytorch-2-12-release-blog/) (2026-05-13)
 - [Efficient Edge AI on Arm CPUs and NPUs: Understanding ExecuTorch through Practical Labs](https://pytorch.org/blog/efficient-edge-ai-on-arm-cpus-and-npus/) (2026-05-12)
 - [In-Kernel Broadcast Optimization: Co-Designing Kernels for RecSys Inference](https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference/) (2026-05-05)
 - [SMG: The Case for Disaggregating CPU from GPU in LLM Serving](https://pytorch.org/blog/lightseek-smg/) (2026-04-30)
 - [Introducing AutoSP](https://pytorch.org/blog/introducing-autosp/) (2026-04-29)
-- [IBM Research uses vLLM at the heart of its RITS Platform](https://pytorch.org/blog/ibm-research-uses-vllm-at-the-heart-of-its-rits-platform/) (2026-04-24)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built the Same B2B Document Extractor Twice: Rules vs. LLM](https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/) (2026-05-13)
+- [Exploring Patterns of Survival from the Titanic Dataset](https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/) (2026-05-13)
 - [What’s the Best Way to Brainwash an LLM?](https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/) (2026-05-13)
 - [Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/) (2026-05-13)
 - [From Vibe Coding to Spec-Driven Development](https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/) (2026-05-12)
-- [Hybrid Search and Re-Ranking in Production RAG](https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/) (2026-05-12)
-- [Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence](https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/) (2026-05-12)
 
 </details>
 
