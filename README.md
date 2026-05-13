@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) (2026-05-13)
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419) (2026-05-13)
 - [Starship V3](https://www.spacex.com/updates#starship-v3) (2026-05-13)
 - [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/) (2026-05-13)
-- [You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming](https://gardinerbryant.com/you-dont-look-like-a-gamer/) (2026-05-12)
 - [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/) (2026-05-12)
-- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) (2026-05-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon&#8217;s Panos Panay addresses new Fire phone rumors](https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer) (2026-05-13)
 - [Sony’s new Xperia phone gets an overdue redesign](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs) (2026-05-13)
 - [Sam Altman was winning on the stand, but it might not be enough](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial) (2026-05-12)
 - [iOS 27 might add a lot more customization to the Camera app](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization) (2026-05-12)
 - [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) (2026-05-12)
-- [Meta will tell parents when their teens add new interests to their Instagram algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) (2026-05-12)
 
 </details>
 
@@ -86,33 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/) (2026-05-13)
+- [You Shipped It Fast. But Did You Ship It Right?](https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/) (2026-05-12)
 - [Building a Google Drive Sync Engine that Survives MV3 Service Workers](https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/) (2026-05-12)
 - [Connecting the dots for accurate AI](https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/) (2026-05-12)
 - [When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection](https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/) (2026-05-11)
-- [OAuth 2.0 – Device flow explained for Engineers, especially for Backend Engineers](https://stackoverflow.blog/2026/05/11/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers/) (2026-05-11)
-- [Introducing the Heap, the software engineering blog for everyone](https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Tested Privacy-Aware Routing with 4 AI Agents: What Actually Stayed Local](https://dev.to/shouvik12/i-tested-privacy-aware-routing-with-4-ai-agents-what-actually-stayed-local-39oa) (2026-05-13)
-- [I bought the most expensive cable I could—and it still died. Welcome to RS485 vs 1000V DC.](https://dev.to/philyeh/i-bought-the-most-expensive-cable-i-could-and-it-still-died-welcome-to-rs485-vs-1000v-dc-3ope) (2026-05-13)
-- [Polymarket API Toolkit - Complete TypeScript SDK for CLOB, Data API, Gamma API & Polygon Tracing](https://dev.to/j_dev28/polymarket-api-toolkit-complete-typescript-sdk-for-clob-data-api-gamma-api-polygon-tracing-4l3b) (2026-05-13)
-- [I Put Gemma 4 Behind My Homelab AI Gateway. This Is the Beginning.](https://dev.to/niclydon/i-put-gemma-4-behind-my-homelab-ai-gateway-this-is-the-beginning-487m) (2026-05-13)
-- [custom metal detector](https://dev.to/abrahim_abd_0c1f695e474d9/custom-metal-detector-20kl) (2026-05-13)
+- [Garudust: A Self-Improving AI Agent Runtime Built in Rust](https://dev.to/nisit15/garudust-a-self-improving-ai-agent-runtime-built-in-rust-1j09) (2026-05-13)
+- [I Built “Git for AI Workflows” Because AI Agents Have Zero Memory of What They Did](https://dev.to/atharvaralegankar/i-built-git-for-ai-workflows-because-ai-agents-have-zero-memory-of-what-they-did-2p7) (2026-05-13)
+- [Did You Know? Tuples Loophole in Typescript](https://dev.to/mesonu/did-you-know-tuples-loophole-in-typescript-4b74) (2026-05-13)
+- [Uvicorn: The Lightning-Fast ASGI Server Powering Modern Python Apps](https://dev.to/meroline_lizlent/uvicorn-the-lightning-fast-asgi-server-powering-modern-python-apps-5a85) (2026-05-13)
+- [Callback Functions in JavaScript Explained](https://dev.to/nikita_maharana_879884df2/callback-functions-in-javascript-explained-3ija) (2026-05-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Don’t Have a Performance Problem — You Have a Rendering Problem](https://medium.com/angular-engineering/you-dont-have-a-performance-problem-you-have-a-rendering-problem-ad26b43b6c1f?source=rss------programming-5) (2026-05-13)
-- [The Hidden Cost of Over-Engineering Frontend Applications](https://medium.com/angular-engineering/the-hidden-cost-of-over-engineering-frontend-applications-a54b8480578a?source=rss------programming-5) (2026-05-13)
-- [UML 是什麼？用圖畫出軟體的故事](https://medium.com/@mindsteps.alex/uml-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%94%A8%E5%9C%96%E7%95%AB%E5%87%BA%E8%BB%9F%E9%AB%94%E7%9A%84%E6%95%85%E4%BA%8B-2f5923e97354?source=rss------programming-5) (2026-05-13)
-- [Ethics Are Not A Problem Your Language Is The Solution](https://medium.com/@AxiomHiveAi/ethics-are-not-a-problem-your-language-is-the-solution-73af76a1783a?source=rss------programming-5) (2026-05-13)
-- [Real time java interview questions 3+ experience that are beyond theory](https://medium.com/@anil-singh/real-time-java-interview-questions-3-experience-that-are-beyond-theory-e00a1cd8cfe0?source=rss------programming-5) (2026-05-13)
+- [The One-Click Security Audit: No Downloads, No Configs, No Excuses.](https://medium.com/@maikelmardjan/the-one-click-security-audit-no-downloads-no-configs-no-excuses-8c6e48dfe786?source=rss------programming-5) (2026-05-13)
+- [i have my trust wallet with 6200 USDT, and I have the seed phrase : (misery exit memory buddy…](https://medium.com/@mmqjmbbxxf/i-have-my-trust-wallet-with-6200-usdt-and-i-have-the-seed-phrase-misery-exit-memory-buddy-584e902e851a?source=rss------programming-5) (2026-05-13)
+- [I Replaced Pandas With Polars. My Pipeline Became 12x Faster.](https://medium.com/@atharvjaiswal56/i-replaced-pandas-with-polars-my-pipeline-became-12x-faster-8a6c3de4dff7?source=rss------programming-5) (2026-05-13)
+- [ Mastering the JavaScript Event Loop: A Hands-on “Flash Delivery” Simulation
+JavaScript is…](https://medium.com/@m.khubaib.zafar01/mastering-the-javascript-event-loop-a-hands-on-flash-delivery-simulation-javascript-is-f5e095bbefc3?source=rss------programming-5) (2026-05-13)
+- [ Start Your Cloud Journey with "Vultr" )](https://medium.com/@Qwertyuio_58254/start-your-cloud-journey-with-vultr-39264a6572b5?source=rss------programming-5) (2026-05-13)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
+- [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
 - [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
 - [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
 - [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
-- [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
-- [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 
 </details>
 
@@ -541,6 +542,17 @@ https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-commu
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
+- [Hugging Face hosted malicious software masquerading as OpenAI release](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/) (2026-05-12)
+- [Laserfiche unveils AI agents for natural language workflows](https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/) (2026-05-12)
+- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
+- [Bain sees US$100 billion SaaS market in agentic AI automation](https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/) (2026-05-11)
 
 </details>
 
