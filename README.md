@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Kevin Hartz’s A* just closed its third fund with $450 million](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/) (2026-05-12)
+- [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/) (2026-05-13)
+- [Kevin Hartz’s A* just closed its third fund with $450M](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/) (2026-05-12)
 - [Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/) (2026-05-12)
 - [Musk mulled handing OpenAI to his children, Altman testifies](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/) (2026-05-12)
 - [Anthropic warns investors against secondary platforms offering access to its shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/) (2026-05-12)
-- [Potholes cost cities millions: This company is using AI and trucks to fix them](https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/) (2026-05-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) (2026-05-12)
-- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) (2026-05-12)
-- [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol) (2026-05-12)
-- [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim) (2026-05-12)
-- [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/) (2026-05-12)
+- [Starship V3](https://www.spacex.com/updates#starship-v3) (2026-05-13)
+- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/) (2026-05-13)
+- [You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming](https://gardinerbryant.com/you-dont-look-like-a-gamer/) (2026-05-12)
+- [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/) (2026-05-12)
+- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) (2026-05-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sam Altman says Elon Musk’s mind games were damaging OpenAI](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage) (2026-05-12)
-- [Android Auto is now one (screen) size fits all](https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all) (2026-05-12)
-- [Google announces its Chromebook successor: the Googlebook](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook) (2026-05-12)
-- [The 9 biggest new features in Android 17](https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io) (2026-05-12)
-- [Gemini&#8217;s latest updates are all about controlling your phone](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) (2026-05-12)
+- [Sony’s new Xperia phone gets an overdue redesign](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs) (2026-05-13)
+- [Sam Altman was winning on the stand, but it might not be enough](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial) (2026-05-12)
+- [iOS 27 might add a lot more customization to the Camera app](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization) (2026-05-12)
+- [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) (2026-05-12)
+- [Meta will tell parents when their teens add new interests to their Instagram algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls) (2026-05-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The newest AI boom pitch: Host a mini data center at your home](https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/) (2026-05-12)
+- [FDA chief resigns after Trump admin forced approval of fruity e-cigs](https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/) (2026-05-12)
+- [Twin brothers wipe 96 gov't databases minutes after being fired](https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/) (2026-05-12)
 - [“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says](https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/) (2026-05-12)
 - [Microsoft will lean on your CPU to speed up Windows 11's apps and animations](https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/) (2026-05-12)
-- [eBay rejects GameStop's $56B offer: "Your proposal is neither credible nor attractive"](https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/) (2026-05-12)
-- [Google's Android-powered laptops are called Googlebooks, and they're coming this year](https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/) (2026-05-12)
-- [Android is getting a big AI overhaul in 2026](https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/) (2026-05-12)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We're All Juggling 4 AI Tools Now and Pretending That's Normal](https://dev.to/chrisbuildsonline/were-all-juggling-4-ai-tools-now-and-pretending-thats-normal-25pp) (2026-05-12)
-- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
-
-Wrote a full guide on how to set it up, what works, and what breaks.
-
-If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e) (2026-05-12)
-- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g) (2026-05-12)
-- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h) (2026-05-12)
-- [I Built a Wordle Clone in Python - Here's How You Can Too](https://dev.to/ioanadaria/i-built-a-wordle-clone-in-python-heres-how-you-can-too-58gc) (2026-05-12)
+- [I Tested Privacy-Aware Routing with 4 AI Agents: What Actually Stayed Local](https://dev.to/shouvik12/i-tested-privacy-aware-routing-with-4-ai-agents-what-actually-stayed-local-39oa) (2026-05-13)
+- [I bought the most expensive cable I could—and it still died. Welcome to RS485 vs 1000V DC.](https://dev.to/philyeh/i-bought-the-most-expensive-cable-i-could-and-it-still-died-welcome-to-rs485-vs-1000v-dc-3ope) (2026-05-13)
+- [Polymarket API Toolkit - Complete TypeScript SDK for CLOB, Data API, Gamma API & Polygon Tracing](https://dev.to/j_dev28/polymarket-api-toolkit-complete-typescript-sdk-for-clob-data-api-gamma-api-polygon-tracing-4l3b) (2026-05-13)
+- [I Put Gemma 4 Behind My Homelab AI Gateway. This Is the Beginning.](https://dev.to/niclydon/i-put-gemma-4-behind-my-homelab-ai-gateway-this-is-the-beginning-487m) (2026-05-13)
+- [custom metal detector](https://dev.to/abrahim_abd_0c1f695e474d9/custom-metal-detector-20kl) (2026-05-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Build a Strong Data Science Portfolio](https://medium.com/@anikeevkir163/how-to-build-a-strong-data-science-portfolio-986fffa19993?source=rss------programming-5) (2026-05-12)
-- [Before You Rewrite in Go Find the Coordination Tax](https://medium.programmerscareer.com/before-you-rewrite-in-go-find-the-coordination-tax-90a419fe4ff5?source=rss------programming-5) (2026-05-12)
-- [ 30 Best Distributed Systems Talks of All Time](https://medium.com/@techtalksweeklynewsletter/30-best-distributed-systems-talks-of-all-time-4ba442a234a9?source=rss------programming-5) (2026-05-12)
-- [Mastering PHP Security: Protecting Your Applications Like a Pro](https://medium.com/@annxsa/mastering-php-security-protecting-your-applications-like-a-pro-b92cd389cc74?source=rss------programming-5) (2026-05-12)
-- [Why Network Partitions Change Everything in Distributed Systems](https://medium.com/@manojgour6811/why-network-partitions-change-everything-in-distributed-systems-96efdcb5d08b?source=rss------programming-5) (2026-05-12)
+- [You Don’t Have a Performance Problem — You Have a Rendering Problem](https://medium.com/angular-engineering/you-dont-have-a-performance-problem-you-have-a-rendering-problem-ad26b43b6c1f?source=rss------programming-5) (2026-05-13)
+- [The Hidden Cost of Over-Engineering Frontend Applications](https://medium.com/angular-engineering/the-hidden-cost-of-over-engineering-frontend-applications-a54b8480578a?source=rss------programming-5) (2026-05-13)
+- [UML 是什麼？用圖畫出軟體的故事](https://medium.com/@mindsteps.alex/uml-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%94%A8%E5%9C%96%E7%95%AB%E5%87%BA%E8%BB%9F%E9%AB%94%E7%9A%84%E6%95%85%E4%BA%8B-2f5923e97354?source=rss------programming-5) (2026-05-13)
+- [Ethics Are Not A Problem Your Language Is The Solution](https://medium.com/@AxiomHiveAi/ethics-are-not-a-problem-your-language-is-the-solution-73af76a1783a?source=rss------programming-5) (2026-05-13)
+- [Real time java interview questions 3+ experience that are beyond theory](https://medium.com/@anil-singh/real-time-java-interview-questions-3-experience-that-are-beyond-theory-e00a1cd8cfe0?source=rss------programming-5) (2026-05-13)
 
 </details>
 
@@ -496,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-commu
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 - [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
-- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
 
 </details>
 
@@ -545,17 +541,6 @@ https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-commu
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
-- [Hugging Face hosted malicious software masquerading as OpenAI release](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/) (2026-05-12)
-- [Laserfiche unveils AI agents for natural language workflows](https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/) (2026-05-12)
-- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
-- [Bain sees US$100 billion SaaS market in agentic AI automation](https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/) (2026-05-11)
 
 </details>
 
