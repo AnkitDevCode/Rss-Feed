@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/) (2026-05-14)
+- [Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/) (2026-05-14)
 - [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/) (2026-05-13)
 - [Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/) (2026-05-13)
 - [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/) (2026-05-13)
-- [This is what some of the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/) (2026-05-13)
-- [Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand](https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scorched Earth 2000 is back](http://www.scorch2000.com/web/) (2026-05-14)
-- [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety) (2026-05-14)
-- [Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing](https://news.ycombinator.com/item?id=48128003) (2026-05-13)
-- [Medicare's new payment model is built for AI. Most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/) (2026-05-13)
-- [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) (2026-05-13)
+- [What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/) (2026-05-14)
+- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/) (2026-05-14)
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) (2026-05-14)
+- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/) (2026-05-14)
+- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities) (2026-05-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Real-Time Voice RAG Agent for Your Documentation](https://dev.to/reeshee/build-a-real-time-voice-rag-agent-for-your-documentation-3i5d) (2026-05-14)
-- [How We Built an Automotive Recycling Platform That Tracks a Car From Pickup to Final Sale](https://dev.to/infrabyte/how-we-built-an-automotive-recycling-platform-that-tracks-a-car-from-pickup-to-final-sale-59op) (2026-05-14)
-- [Why Mini-Apps Outperform H5: A Technical Deep Dive](https://dev.to/ai_superapp_f24487b12839/why-mini-apps-outperform-h5-a-technical-deep-dive-5c1b) (2026-05-14)
-- [Programming Thinking Explained — The Real Foundation of DSA](https://dev.to/bitveen/programming-thinking-explained-the-real-foundation-of-dsa-105g) (2026-05-14)
-- [Gemma 4: The Next Frontier in Open-Source AI for Developers](https://dev.to/zaza_ziro_25a/gemma-4-the-next-frontier-in-open-source-ai-for-developers-544i) (2026-05-14)
+- [The AI Stack For 2026: LLMs, Vector Databases, Tool Calling, Agents, And Observability](https://dev.to/dhruvjoshi9/the-ai-stack-for-2026-llms-vector-databases-tool-calling-agents-and-observability-2c7a) (2026-05-14)
+- [I Built a Tool to Fix My Bad Midjourney Prompts](https://dev.to/66_k_4677a2ba0e79844f4f82/i-built-a-tool-to-fix-my-bad-midjourney-prompts-3cgm) (2026-05-14)
+- [Arena ELO History: el gráfico que expone cómo se degradan los LLM](https://dev.to/lu1tr0n/arena-elo-history-el-grafico-que-expone-como-se-degradan-los-llm-27ll) (2026-05-14)
+- [AGEF explained: a portable evidence format for AI agent sessions](https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-40fn) (2026-05-14)
+- [The trust pipeline: three commands to run before merging an AI-assisted change](https://dev.to/radotsvetkov/the-trust-pipeline-three-commands-to-run-before-merging-an-ai-assisted-change-1ple) (2026-05-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Complete 2025 Guide to Bypassing Anti-Bot Systems with Mobile Proxies](https://medium.com/@revosaratoga01/the-complete-2025-guide-to-bypassing-anti-bot-systems-with-mobile-proxies-8afbd8d6857b?source=rss------programming-5) (2026-05-14)
-- [Day 6: chmod vs chown vs chgrp Explained in Simple English](https://pawannatekar220.medium.com/day-6-chmod-vs-chown-vs-chgrp-explained-in-simple-english-e93c56fa6bcb?source=rss------programming-5) (2026-05-14)
-- [Christina Now this little slice of pie here is to just die for](https://medium.com/@chloemoretz1976/christina-now-this-little-slice-of-pie-here-is-to-just-die-for-3b92c940a588?source=rss------programming-5) (2026-05-14)
-- [Coding for peace of mind. AI, burnout, and the slow craft.](https://medium.com/@svnket/coding-for-peace-of-mind-ai-burnout-and-the-slow-craft-c50bb6892922?source=rss------programming-5) (2026-05-14)
-- [I Stopped Using Claude Code as a Giant Prompt and Started Using It as Project Ops](https://medium.com/@olowu.marydan/i-stopped-using-claude-code-as-a-giant-prompt-and-started-using-it-as-project-ops-3b4d5ee4a08f?source=rss------programming-5) (2026-05-14)
+- [From Training Models to Building Real AI Systems.](https://medium.com/@pricelesswilliams1234/from-training-models-to-building-real-ai-systems-dc03b69b1c4d?source=rss------programming-5) (2026-05-14)
+- [I Built a Scalable App Without Overengineering](https://medium.com/skillstuff/i-built-a-scalable-app-without-overengineering-786cba69141e?source=rss------programming-5) (2026-05-14)
+- [The Death of Traditional Coding Interviews?](https://medium.com/@official.hamzahafeez/the-death-of-traditional-coding-interviews-da94224e2912?source=rss------programming-5) (2026-05-14)
+- [This One Pattern Eliminated 80% of My Bugs](https://medium.com/skillstuff/this-one-pattern-eliminated-80-of-my-bugs-ab0d6cc46de2?source=rss------programming-5) (2026-05-14)
+- [RAG in Production: What the Tutorials Don’t Tell You](https://medium.com/@davide.mib/rag-in-production-what-the-tutorials-dont-tell-you-56470d9785ec?source=rss------programming-5) (2026-05-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 - [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
 - [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
+- [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -545,17 +545,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
-- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
-- [Hugging Face hosted malicious software masquerading as OpenAI release](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/) (2026-05-12)
-- [Laserfiche unveils AI agents for natural language workflows](https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/) (2026-05-12)
-- [AI automates HR compliance, except for the area tech companies need](https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/) (2026-05-11)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [I Built the Same B2B Document Extractor Twice: Rules vs. LLM](https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/) (2026-05-13)
@@ -569,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenAI’s New API Voice Models Will Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2026/05/openai-new-voice-models-in-api/) (2026-05-14)
 - [Hermes Agent Guide: What is it and How to Use it?](https://www.analyticsvidhya.com/blog/2026/05/hermes-agent-guide/) (2026-05-12)
 - [Top 10 LLM Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/05/top-llm-research-papers-2026/) (2026-05-11)
 - [Agent Memory Patterns in Cognitive Science and AI Systems](https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/) (2026-05-09)
 - [10 AI Agents Every AI Engineer Must Build (with GitHub Samples)](https://www.analyticsvidhya.com/blog/2026/05/build-ai-agents/) (2026-05-08)
-- [23 Tips for Smart Claude Code Token Saving and Workflow Optimization](https://www.analyticsvidhya.com/blog/2026/05/tips-for-claude-code-token-saving/) (2026-05-08)
 
 </details>
 
