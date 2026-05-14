@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Wirestock raises $23M to supply creative multi-modal data to AI labs](https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/) (2026-05-14)
+- [Two weeks left: Startup Battlefield 200 applications close May 27](https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/) (2026-05-14)
+- [Uber to open 2 campuses in India to support product development, operations](https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/) (2026-05-14)
 - [Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/) (2026-05-14)
 - [Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/) (2026-05-14)
-- [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/) (2026-05-13)
-- [Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/) (2026-05-13)
-- [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/) (2026-05-14)
-- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/) (2026-05-14)
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) (2026-05-14)
-- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/) (2026-05-14)
-- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities) (2026-05-14)
+- [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought) (2026-05-14)
+- [The Whole Anthropic Kerfuffle](https://twitter.com/josevalim/status/2054887621336174799) (2026-05-14)
+- [Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808) (2026-05-14)
+- [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada) (2026-05-14)
+- [Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d) (2026-05-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs) (2026-05-13)
-- [Trump administration defends right to ban content moderation experts from US](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research) (2026-05-13)
-- [YouTube is courting creators — and sponsors — with streaming shows](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront) (2026-05-13)
-- [AMD&#8217;s best CPU tech for gamers is coming to workstations too](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache) (2026-05-13)
-- [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it) (2026-05-13)
+- [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy) (2026-05-14)
+- [Dell and RAMageddon are watering down the Alienware brand](https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding) (2026-05-14)
+- [The Razr Fold is stuck in the middle](https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery) (2026-05-14)
+- [AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (2026-05-14)
+- [Insta360’s new viewfinder turns the action cam into a retro shooter](https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory) (2026-05-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Desperate Trump taps "Tim Apple," Jensen Huang, Elon Musk to attend Xi summit](https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/) (2026-05-14)
 - [Solar drone with jumbo jet wingspan broke a flight record—then it crashed](https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/) (2026-05-13)
 - [FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum](https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/) (2026-05-13)
 - [Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA](https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/) (2026-05-13)
 - [Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers](https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/) (2026-05-13)
-- [AI invades Princeton, where 30% of students cheat—but peers won't snitch](https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/) (2026-05-13)
-- [The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft](https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/) (2026-05-13)
-- [A plan to make drugs in orbit is going commercial](https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/) (2026-05-13)
-- [World Models: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/) (2026-05-12)
-- [The Download: a Nobel winner on AI, and the case for fixing everything](https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/) (2026-05-12)
+- [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) (2026-05-14)
+- [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) (2026-05-14)
+- [The Download: deepfake porn’s stolen bodies and AI sharing private numbers](https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/) (2026-05-14)
+- [The Tesla Semi could be a big deal for electric trucking](https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/) (2026-05-14)
+- [The shock of seeing your body used in deepfake porn ](https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/) (2026-05-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The AI Stack For 2026: LLMs, Vector Databases, Tool Calling, Agents, And Observability](https://dev.to/dhruvjoshi9/the-ai-stack-for-2026-llms-vector-databases-tool-calling-agents-and-observability-2c7a) (2026-05-14)
-- [I Built a Tool to Fix My Bad Midjourney Prompts](https://dev.to/66_k_4677a2ba0e79844f4f82/i-built-a-tool-to-fix-my-bad-midjourney-prompts-3cgm) (2026-05-14)
-- [Arena ELO History: el gráfico que expone cómo se degradan los LLM](https://dev.to/lu1tr0n/arena-elo-history-el-grafico-que-expone-como-se-degradan-los-llm-27ll) (2026-05-14)
-- [AGEF explained: a portable evidence format for AI agent sessions](https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-40fn) (2026-05-14)
-- [The trust pipeline: three commands to run before merging an AI-assisted change](https://dev.to/radotsvetkov/the-trust-pipeline-three-commands-to-run-before-merging-an-ai-assisted-change-1ple) (2026-05-14)
+- [[Boost]](https://dev.to/elizabethfuentes12/-pmh) (2026-05-14)
+- [AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.](https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4) (2026-05-14)
+- [AI Infrastructure Scarcity is Raising Costs, but AI Usage Will Still Provide Unbeatable ROI](https://dev.to/keithjmackay/ai-infrastructure-scarcity-is-raising-costs-but-ai-usage-will-still-provide-unbeatable-roi-4nen) (2026-05-14)
+- [I Hid a Web Server on My Coworker's MacBook to Make It Talk. Eight Years Later, He Still Locks His Screen.](https://dev.to/alexander_mia_9/i-hid-a-web-server-on-my-coworkers-macbook-to-make-it-talk-eight-years-later-he-still-locks-his-h65) (2026-05-14)
+- [My anti-burnout system as an indie developer](https://dev.to/bacist_dev/my-anti-burnout-system-as-an-indie-developer-5f9j) (2026-05-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Training Models to Building Real AI Systems.](https://medium.com/@pricelesswilliams1234/from-training-models-to-building-real-ai-systems-dc03b69b1c4d?source=rss------programming-5) (2026-05-14)
-- [I Built a Scalable App Without Overengineering](https://medium.com/skillstuff/i-built-a-scalable-app-without-overengineering-786cba69141e?source=rss------programming-5) (2026-05-14)
-- [The Death of Traditional Coding Interviews?](https://medium.com/@official.hamzahafeez/the-death-of-traditional-coding-interviews-da94224e2912?source=rss------programming-5) (2026-05-14)
-- [This One Pattern Eliminated 80% of My Bugs](https://medium.com/skillstuff/this-one-pattern-eliminated-80-of-my-bugs-ab0d6cc46de2?source=rss------programming-5) (2026-05-14)
-- [RAG in Production: What the Tutorials Don’t Tell You](https://medium.com/@davide.mib/rag-in-production-what-the-tutorials-dont-tell-you-56470d9785ec?source=rss------programming-5) (2026-05-14)
+- [The Developer Who Understands Beats the Developer Who Memorises — Every Single Time](https://medium.com/@harshit619131/the-developer-who-understands-beats-the-developer-who-memorises-every-single-time-3000ffec07a4?source=rss------programming-5) (2026-05-14)
+- [AI-Generated Phishing Emails Are Now Indistinguishable From Real Ones, and Your Company’s…](https://medium.com/@sohail_saifi/ai-generated-phishing-emails-are-now-indistinguishable-from-real-ones-and-your-companys-5b5e19d9ed5d?source=rss------programming-5) (2026-05-14)
+- [Building a Rate Limiter, an Auth System, and a Job Queue From Scratch: What I Learned That No…](https://medium.com/@coders.stop/building-a-rate-limiter-an-auth-system-and-a-job-queue-from-scratch-what-i-learned-that-no-15a8fcb9652a?source=rss------programming-5) (2026-05-14)
+- [I Built a Smart Contract Auditing Tool Because AI Was Embarrassing Me](https://medium.com/@farukhassanahmad/i-built-a-smart-contract-auditing-tool-because-ai-was-embarrassing-me-c6c093ba7e88?source=rss------programming-5) (2026-05-14)
+- [Building Baby grep: minigrep](https://medium.com/rust-in-plain-english/building-baby-grep-minigrep-b926a8570e98?source=rss------programming-5) (2026-05-14)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/) (2026-05-14)
 - [NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure](https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/) (2026-05-13)
 - [Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/) (2026-05-13)
 - [NVIDIA and SAP Bring Trust to Specialized Agents](https://blogs.nvidia.com/blog/sap-specialized-agents/) (2026-05-12)
 - [‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/) (2026-05-10)
-- [Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission](https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/) (2026-05-07)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
 - [Visual Studio Code 1.120](https://code.visualstudio.com/updates/v1_120) (2026-05-13)
 - [Visual Studio Code 1.119](https://code.visualstudio.com/updates/v1_119) (2026-05-06)
 - [Visual Studio Code 1.118](https://code.visualstudio.com/updates/v1_118) (2026-04-29)
 - [Visual Studio Code 1.117](https://code.visualstudio.com/updates/v1_117) (2026-04-22)
-- [Visual Studio Code 1.116](https://code.visualstudio.com/updates/v1_116) (2026-04-15)
 
 </details>
 
@@ -350,17 +350,32 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse](https://blog.cloudflare.com/clickhouse-query-plan-contention/) (2026-05-14)
 - [Browser Run: now running on Cloudflare Containers, it’s faster and more scalable](https://blog.cloudflare.com/browser-run-containers/) (2026-05-13)
 - [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/) (2026-05-12)
 - [Building for the future](https://blog.cloudflare.com/building-for-the-future/) (2026-05-07)
 - [How Cloudflare responded to the “Copy Fail” Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/) (2026-05-07)
-- [When DNSSEC goes wrong: how we responded to the .de TLD outage](https://blog.cloudflare.com/de-tld-outage-dnssec/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+How to take data governance from compliance burden to competitive advantage
+](
+https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
+) (2026-05-13)
+- [
+What is voice AI and how does it work in 2026?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
+) (2026-05-13)
+- [
+What is RCS messaging?
+](
+https://www.twilio.com/en-us/blog/what-is-rcs-messaging
+) (2026-05-13)
 - [
 Systems of Agency and Engineering Grit: What You Missed at SIGNAL San Francisco 2026
 ](
@@ -371,21 +386,6 @@ Ask the Expert: Clea Moore, Principal Product Manager, Yahoo Mail
 ](
 https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 ) (2026-05-11)
-- [
-What is voice AI and how does it work in 2026?
-](
-https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
-) (2026-05-11)
-- [
-What is conversational AI (and how does it work) in 2026?
-](
-https://www.twilio.com/en-us/blog/what-is-conversational-ai
-) (2026-05-11)
-- [
-What is agentic AI? Definition, examples, workflows
-](
-https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
-) (2026-05-10)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -545,35 +545,46 @@ https://www.twilio.com/en-us/blog/insights/what-is-agentic-ai
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
+- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
+- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
+- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
+- [Hugging Face hosted malicious software masquerading as OpenAI release](https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/) (2026-05-12)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Let CodeSpeak Take Over My Repository](https://towardsdatascience.com/i-let-codespeak-take-over-my-repository/) (2026-05-14)
+- [How to Write Robust Code with Claude Code](https://towardsdatascience.com/how-to-write-robust-code-with-claude-code/) (2026-05-14)
 - [I Built the Same B2B Document Extractor Twice: Rules vs. LLM](https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/) (2026-05-13)
 - [Exploring Patterns of Survival from the Titanic Dataset](https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/) (2026-05-13)
 - [What’s the Best Way to Brainwash an LLM?](https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/) (2026-05-13)
-- [Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/) (2026-05-13)
-- [From Vibe Coding to Spec-Driven Development](https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/) (2026-05-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Visualize Any AI Model Architecture Instantly in Hugging Face](https://www.analyticsvidhya.com/blog/2026/05/how-to-visualize-any-ai-model-architecture-instantly/) (2026-05-14)
 - [OpenAI’s New API Voice Models Will Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2026/05/openai-new-voice-models-in-api/) (2026-05-14)
 - [Hermes Agent Guide: What is it and How to Use it?](https://www.analyticsvidhya.com/blog/2026/05/hermes-agent-guide/) (2026-05-12)
 - [Top 10 LLM Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/05/top-llm-research-papers-2026/) (2026-05-11)
 - [Agent Memory Patterns in Cognitive Science and AI Systems](https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/) (2026-05-09)
-- [10 AI Agents Every AI Engineer Must Build (with GitHub Samples)](https://www.analyticsvidhya.com/blog/2026/05/build-ai-agents/) (2026-05-08)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Time-Series Feature Engineering with Python Itertools](https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools) (2026-05-14)
+- [5 Small Language Models for Agentic Tool Calling](https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling) (2026-05-14)
 - [How AI Agents Will Transform Data Science Work in 2026](https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026) (2026-05-13)
 - [10 GitHub Repositories to Master Self-Hosting](https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting) (2026-05-13)
 - [Using Polars Instead of Pandas: Performance Deep Dive](https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive) (2026-05-12)
-- [5 Useful Python Scripts for Time Series Analysis](https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis) (2026-05-12)
-- [Guardrails for LLMs: Measuring AI ‘Hallucination’ and Verbosity](https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity) (2026-05-11)
 
 </details>
 
