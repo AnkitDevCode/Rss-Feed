@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Wirestock raises $23M to supply creative multi-modal data to AI labs](https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/) (2026-05-14)
-- [Two weeks left: Startup Battlefield 200 applications close May 27](https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/) (2026-05-14)
-- [Uber to open 2 campuses in India to support product development, operations](https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/) (2026-05-14)
-- [Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/) (2026-05-14)
-- [Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/) (2026-05-14)
+- [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/) (2026-05-14)
+- [Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/) (2026-05-14)
+- [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/) (2026-05-14)
+- [Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/) (2026-05-14)
+- [OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/) (2026-05-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought) (2026-05-14)
-- [The Whole Anthropic Kerfuffle](https://twitter.com/josevalim/status/2054887621336174799) (2026-05-14)
-- [Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808) (2026-05-14)
-- [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada) (2026-05-14)
-- [Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d) (2026-05-14)
+- [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562) (2026-05-14)
+- [German intelligence offices snub Palantir software](https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897) (2026-05-14)
+- [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification) (2026-05-14)
+- [The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle) (2026-05-14)
+- [Understanding the Linux Kernel: The Linux Kernel Startup](https://internals-for-interns.com/posts/linux-kernel-startup/) (2026-05-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy) (2026-05-14)
-- [Dell and RAMageddon are watering down the Alienware brand](https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding) (2026-05-14)
-- [The Razr Fold is stuck in the middle](https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery) (2026-05-14)
-- [AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (2026-05-14)
-- [Insta360’s new viewfinder turns the action cam into a retro shooter](https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory) (2026-05-14)
+- [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) (2026-05-14)
+- [Linux devs are fighting the new age-gated internet](https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source) (2026-05-14)
+- [Use this map to find the data centers in your backyard](https://www.theverge.com/policy/930629/data-center-policy-map-interactive) (2026-05-14)
+- [Subnautica 2 is having a huge launch on Steam](https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox) (2026-05-14)
+- [Leaked images show Microsoft’s new Xbox Cloud Gaming controller](https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak) (2026-05-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Desperate Trump taps "Tim Apple," Jensen Huang, Elon Musk to attend Xi summit](https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/) (2026-05-14)
-- [Solar drone with jumbo jet wingspan broke a flight record—then it crashed](https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/) (2026-05-13)
-- [FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum](https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/) (2026-05-13)
-- [Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA](https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/) (2026-05-13)
-- [Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers](https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/) (2026-05-13)
+- [AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs](https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/) (2026-05-14)
+- [Judge probes whether Musk settlement with Trump admin is tainted by corruption](https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/) (2026-05-14)
+- [Zero-day exploit completely defeats default Windows 11 BitLocker protections](https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/) (2026-05-14)
+- [Your doctor’s AI notetaker may be making things up, Ontario audit finds](https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/) (2026-05-14)
+- [Vaporware or not? Aptera assembles its first five validation models.](https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/) (2026-05-14)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [From latency to instant: Modernizing GitHub Issues navigation performance](https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/) (2026-05-14)
 - [Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)](https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/) (2026-05-13)
 - [GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan](https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/) (2026-05-12)
 - [Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/) (2026-05-12)
 - [GitHub for Beginners: Getting started with OSS contributions](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/) (2026-05-11)
-- [Why age assurance laws matter for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/) (2026-05-08)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/elizabethfuentes12/-pmh) (2026-05-14)
-- [AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.](https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4) (2026-05-14)
-- [AI Infrastructure Scarcity is Raising Costs, but AI Usage Will Still Provide Unbeatable ROI](https://dev.to/keithjmackay/ai-infrastructure-scarcity-is-raising-costs-but-ai-usage-will-still-provide-unbeatable-roi-4nen) (2026-05-14)
-- [I Hid a Web Server on My Coworker's MacBook to Make It Talk. Eight Years Later, He Still Locks His Screen.](https://dev.to/alexander_mia_9/i-hid-a-web-server-on-my-coworkers-macbook-to-make-it-talk-eight-years-later-he-still-locks-his-h65) (2026-05-14)
-- [My anti-burnout system as an indie developer](https://dev.to/bacist_dev/my-anti-burnout-system-as-an-indie-developer-5f9j) (2026-05-14)
+- [Security Patch on My Own VPS: Hours Stolen from a Client Project](https://dev.to/merbayerp/security-patch-on-my-own-vps-hours-stolen-from-a-client-project-ao0) (2026-05-14)
+- [Source of truth: Code, Spec, or Requirement?](https://dev.to/leonidbugaev/source-of-truth-code-spec-or-requirement-gjd) (2026-05-14)
+- [Learning Progress Pt.8](https://dev.to/4ynow/learning-progress-pt8-5998) (2026-05-14)
+- [WAVE Coding: Why we built 78 integrations for AI instead of letting AI build them](https://dev.to/megberts/wave-coding-why-we-built-78-integrations-for-ai-instead-of-letting-ai-build-them-if2) (2026-05-14)
+- [print("hello world") the first code and after vibe coding hhhhhh.](https://dev.to/zaza_ziro_25a/printhello-world-the-first-code-and-after-vibe-coding-hhhhhh-2dff) (2026-05-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Developer Who Understands Beats the Developer Who Memorises — Every Single Time](https://medium.com/@harshit619131/the-developer-who-understands-beats-the-developer-who-memorises-every-single-time-3000ffec07a4?source=rss------programming-5) (2026-05-14)
-- [AI-Generated Phishing Emails Are Now Indistinguishable From Real Ones, and Your Company’s…](https://medium.com/@sohail_saifi/ai-generated-phishing-emails-are-now-indistinguishable-from-real-ones-and-your-companys-5b5e19d9ed5d?source=rss------programming-5) (2026-05-14)
-- [Building a Rate Limiter, an Auth System, and a Job Queue From Scratch: What I Learned That No…](https://medium.com/@coders.stop/building-a-rate-limiter-an-auth-system-and-a-job-queue-from-scratch-what-i-learned-that-no-15a8fcb9652a?source=rss------programming-5) (2026-05-14)
-- [I Built a Smart Contract Auditing Tool Because AI Was Embarrassing Me](https://medium.com/@farukhassanahmad/i-built-a-smart-contract-auditing-tool-because-ai-was-embarrassing-me-c6c093ba7e88?source=rss------programming-5) (2026-05-14)
-- [Building Baby grep: minigrep](https://medium.com/rust-in-plain-english/building-baby-grep-minigrep-b926a8570e98?source=rss------programming-5) (2026-05-14)
+- [Webhooks: The “Don’t Call Us, We’ll Call You” of the Internet](https://medium.com/@malawaryan/webhooks-the-dont-call-us-we-ll-call-you-of-the-internet-886dece7aa87?source=rss------programming-5) (2026-05-14)
+- [AssetMind: Verifiable AI-Powered Real World Asset Tokenization on Ritual Chain
+Version 1.0](https://hemisphere100.medium.com/assetmind-verifiable-ai-powered-real-world-asset-tokenization-on-ritual-chain-version-1-0-cabbdfd9b472?source=rss------programming-5) (2026-05-14)
+- [Day 1: I Finally Started. Ethical Hacking, Linux, and a Terminal That Judged Me Silently.](https://medium.com/@adarshraj5206/day-1-i-finally-started-ethical-hacking-linux-and-a-terminal-that-judged-me-silently-007c72ab468b?source=rss------programming-5) (2026-05-14)
+- [9 Python Tricks I Use So Often They’ve Become Muscle Memory](https://python.plainenglish.io/9-python-tricks-i-use-so-often-theyve-become-muscle-memory-65164d1bd5af?source=rss------programming-5) (2026-05-14)
+- [The Lie That Scales: Why LLMs Cannot Reason](https://medium.com/@deshmukhpratik/the-lie-that-scales-why-llms-cannot-reason-986eb00a9731?source=rss------programming-5) (2026-05-14)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
+- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 - [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
 - [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
-- [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
-- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 
 </details>
 
@@ -218,11 +219,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/) (2026-05-14)
 - [Kubernetes v1.36: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/) (2026-05-13)
 - [Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA](https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/) (2026-05-12)
 - [Kubernetes v1.36: Moving Volume Group Snapshots to GA](https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/) (2026-05-08)
 - [Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA](https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/) (2026-05-07)
-- [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/) (2026-05-06)
 
 </details>
 
@@ -274,8 +275,8 @@
 <summary>💳 Stripe Blog</summary>
 
 - [Five vertical SaaS insights from Sessions 2026](https://stripe.com/blog/vertical-saas-insights-sessions-2026) (2026-05-11)
-- [Everything we announced at Sessions 2026](https://stripe.com/blog/everything-we-announced-at-sessions-2026) (2026-04-29)
 - [Giving agents the ability to pay](https://stripe.com/blog/giving-agents-the-ability-to-pay) (2026-04-29)
+- [Everything we announced at Sessions 2026](https://stripe.com/blog/everything-we-announced-at-sessions-2026) (2026-04-29)
 - [How agents, digital wallets, and trust are rewriting checkout](https://stripe.com/blog/global-checkout-trends) (2026-04-07)
 - [Insights from Shoptalk 2026: How agents are changing retail](https://stripe.com/blog/shoptalk-2026) (2026-04-02)
 
@@ -415,11 +416,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Egress problems and where to find them](https://planetscale.com/blog/database-egress) (2026-05-14)
 - [Problem solving with PlanetScale Insights](https://planetscale.com/blog/problem-solving-with-insights) (2026-05-07)
 - [On benchmarking](https://planetscale.com/blog/on-benchmarking) (2026-05-05)
 - [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) (2026-05-05)
 - [RLS sounds great until it isn't](https://planetscale.com/blog/rls-sounds-great-until-it-isnt) (2026-04-30)
-- [Approaches to tenancy in Postgres](https://planetscale.com/blog/approaches-to-tenancy-in-postgres) (2026-04-21)
 
 </details>
 
@@ -481,22 +482,22 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [Introducing hubspot-go: A Community Go SDK for HubSpot Developers](https://developers.hubspot.com/blog/introducing-hubspot-go-a-community-go-sdk-for-hubspot-developers) (2026-05-14)
 - [Building Better, Together: The Role of Mentorship in the HubSpot Ecosystem](https://developers.hubspot.com/blog/building-better-together-the-role-of-mentorship-in-the-hubspot-ecosystem) (2026-05-12)
 - [HubSpot Service Keys: The Right API Credential for Data Integrations](https://developers.hubspot.com/blog/hubspot-service-keys-the-right-api-credential-for-data-integrations) (2026-05-04)
 - [How to build a Notion database with the HubSpot Dev MCP and Claude Code](https://developers.hubspot.com/blog/how-to-build-a-notion-database-with-hubspots-dev-mcp-and-claude-code) (2026-05-01)
 - [A Developer’s Guide to HubSpot’s Date-Based API Versioning](https://developers.hubspot.com/blog/a-developers-guide-to-hubspots-date-based-api-versioning) (2026-03-30)
-- [Planning Your Migration on the HubSpot Developer Platform](https://developers.hubspot.com/blog/developer-platform-migration-timeline) (2026-02-23)
 
 </details>
 
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 - [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
+- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
 
 </details>
 
@@ -536,11 +537,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) (2026-05-14)
+- [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) (2026-05-14)
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
-- [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) (2026-05-06)
-- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
 
 </details>
 
@@ -558,11 +559,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Next AI Bottleneck Isn’t the Model: It’s the Inference System](https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/) (2026-05-14)
+- [The Counterintuitive Networking Decisions Behind OpenAI’s 131,000-GPU Training Fabric](https://towardsdatascience.com/the-counterintuitive-networking-decisions-behind-openais-131000-gpu-training-fabric/) (2026-05-14)
 - [I Let CodeSpeak Take Over My Repository](https://towardsdatascience.com/i-let-codespeak-take-over-my-repository/) (2026-05-14)
 - [How to Write Robust Code with Claude Code](https://towardsdatascience.com/how-to-write-robust-code-with-claude-code/) (2026-05-14)
 - [I Built the Same B2B Document Extractor Twice: Rules vs. LLM](https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/) (2026-05-13)
-- [Exploring Patterns of Survival from the Titanic Dataset](https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/) (2026-05-13)
-- [What’s the Best Way to Brainwash an LLM?](https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/) (2026-05-13)
 
 </details>
 
