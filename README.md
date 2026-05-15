@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [7 in 10 Americans oppose data centers being built in their communities](https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/) (2026-05-15)
-- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris) (2026-05-15)
-- [Velonus – Open-source AppSec scanner that deduplicates SAST noise](https://github.com/AliAmmar15/Velonus) (2026-05-15)
-- [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/) (2026-05-14)
-- [More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html) (2026-05-14)
+- [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524) (2026-05-15)
+- [Show HN: GlycemicGPT – open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT) (2026-05-15)
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) (2026-05-15)
+- [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616) (2026-05-15)
+- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey) (2026-05-15)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/) (2026-05-15)
 - [How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/) (2026-05-13)
 - [You Shipped It Fast. But Did You Ship It Right?](https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/) (2026-05-12)
 - [Building a Google Drive Sync Engine that Survives MV3 Service Workers](https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/) (2026-05-12)
 - [Connecting the dots for accurate AI](https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/) (2026-05-12)
-- [When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection](https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/) (2026-05-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Introducing Solana Support, Smarter Ask AI, Mobile Attribution, and Dashboard Improvements](https://dev.to/yos/introducing-solana-support-smarter-ask-ai-mobile-attribution-and-dashboard-improvements-223n) (2026-05-15)
-- [Run Gemma 4 on Your Laptop — A Hands-On Guide to Google's Latest Open Multimodal LLM](https://dev.to/jubinsoni/run-gemma-4-on-your-laptop-a-hands-on-guide-to-googles-latest-open-multimodal-llm-56a9) (2026-05-15)
-- [What is a Data Structure? Explained Simply with Examples](https://dev.to/bitveen/what-is-a-data-structure-explained-simply-with-examples-5bhk) (2026-05-15)
-- [RAG Series (16): Graph RAG — Using Knowledge Graphs to Solve Multi-Hop Reasoning](https://dev.to/wonderlab/rag-series-16-graph-rag-using-knowledge-graphs-to-solve-multi-hop-reasoning-1o64) (2026-05-15)
-- [I built 108 free browser-based file tools](https://dev.to/everytools_4u_3d089af1a5e/i-built-108-free-browser-based-file-tools-3oai) (2026-05-15)
+- [Subscription Recovery Architecture for iOS and Android](https://dev.to/software_mvp-factory/subscription-recovery-architecture-for-ios-and-android-24pm) (2026-05-15)
+- [When Code Is Free, Intention Is the Craft](https://dev.to/natevoss/when-code-is-free-intention-is-the-craft-4jgi) (2026-05-15)
+- [I got tired of Swagger UI, so I built a TUI API explorer in Go](https://dev.to/shayanshojaei/i-got-tired-of-swagger-ui-so-i-built-a-tui-api-explorer-in-go-4e6) (2026-05-15)
+- [Three no-signup dev tools we shipped this week](https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-5fm3) (2026-05-15)
+- [OpenClaw 2026.5.14 Beta 1: Codex Migration and Agent Control](https://dev.to/hex_agent/openclaw-2026514-beta-1-codex-migration-and-agent-control-290l) (2026-05-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 7: 15 Linux Monitoring Commands Every Beginner SysAdmin Should Know](https://pawannatekar220.medium.com/day-7-15-linux-monitoring-commands-every-beginner-sysadmin-should-know-981ea4448a08?source=rss------programming-5) (2026-05-15)
-- [Get BPM from a Song Name Using a Simple API (No Spotify SDK Needed)](https://medium.com/@soundnet717/get-bpm-from-a-song-name-using-a-simple-api-no-spotify-sdk-needed-e5fe3808ee46?source=rss------programming-5) (2026-05-15)
-- [Implementing Security in .NET](https://todayamerican.medium.com/implementing-security-in-net-e8d1a63e1f94?source=rss------programming-5) (2026-05-15)
-- [Secure Design & Data Protection in Software Engineering](https://todayamerican.medium.com/secure-design-data-protection-in-software-engineering-817608e6d991?source=rss------programming-5) (2026-05-15)
-- [Permutations Problem — Everything I Was Confused About (And How I Finally Got It)](https://medium.com/@preamaranjan-dilujan/permutations-problem-everything-i-was-confused-about-and-how-i-finally-got-it-71e6c987251e?source=rss------programming-5) (2026-05-15)
+- [One Slow API Call Crashed the Entire System. The Fan-out Pattern Fixed It](https://dineshchandgr.medium.com/one-slow-api-call-crashed-the-entire-system-the-fan-out-pattern-fixed-it-cbd8f84d847c?source=rss------programming-5) (2026-05-15)
+- [6 Machine Learning Experiments That Made Me Better at Python](https://levelup.gitconnected.com/6-machine-learning-experiments-that-made-me-better-at-python-262ebb9246b9?source=rss------programming-5) (2026-05-15)
+- [You Are Not Google: Stop Building Distributed Systems You Don’t Need](https://medium.com/the-tech-notes/you-are-not-google-stop-building-distributed-systems-you-dont-need-3cc0501b4d0e?source=rss------programming-5) (2026-05-15)
+- [You’re Not a Developer Anymore — You’re an AI Orchestrator (And That’s a Bigger Job)](https://medium.com/@tarxemo/youre-not-a-developer-anymore-you-re-an-ai-orchestrator-and-that-s-a-bigger-job-470dd0bda2b1?source=rss------programming-5) (2026-05-15)
+- [I Built Smarter Apps Faster After Discovering These 7 Python Libraries](https://blog.stackademic.com/i-built-smarter-apps-faster-after-discovering-these-7-python-libraries-6e2d8c9813a7?source=rss------programming-5) (2026-05-15)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
-- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
 
 </details>
 
