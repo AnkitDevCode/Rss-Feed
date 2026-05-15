@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/) (2026-05-15)
+- [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/) (2026-05-15)
+- [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/) (2026-05-15)
+- [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/) (2026-05-15)
 - [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/) (2026-05-14)
-- [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/) (2026-05-14)
-- [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/) (2026-05-14)
-- [Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/) (2026-05-14)
-- [Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/) (2026-05-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524) (2026-05-15)
-- [Show HN: GlycemicGPT – open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT) (2026-05-15)
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) (2026-05-15)
-- [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616) (2026-05-15)
-- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey) (2026-05-15)
+- [Amazon workers under pressure to up their AI usage–so they're making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks) (2026-05-15)
+- [Cursing the government does not fix potholes. Spray-painting them does](https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway) (2026-05-15)
+- [Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos](https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/) (2026-05-15)
+- [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/) (2026-05-15)
+- [Bitwarden scrubs 'Always free' and 'Inclusion' values from its site](https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down) (2026-05-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [X is fighting Andrew Tate’s attempt to unmask his critics](https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation) (2026-05-15)
+- [Bose&#8217;s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability) (2026-05-15)
+- [X agrees to crack down on illegal hate and terror content in the UK](https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments) (2026-05-15)
+- [AI research papers are getting better, and it’s a big problem for scientists](https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem) (2026-05-15)
 - [Honda&#8217;s hybrid future starts with new Accord and RDX prototypes](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx) (2026-05-14)
-- [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis) (2026-05-14)
-- [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale) (2026-05-14)
-- [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer) (2026-05-14)
-- [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue) (2026-05-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The perfect commuter bike? Velotric's Discover 3 makes its case.](https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/) (2026-05-15)
+- [Claude Code's product lead talks usage limits, transparency, and the "lean harness"](https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/) (2026-05-15)
 - [Men use "vocal fry" more than women, counter to stereotype](https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/) (2026-05-14)
 - [Fired hacker twins forget to end Teams recording, capture own crimes](https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/) (2026-05-14)
 - [Cell phone users can't stop incriminating themselves](https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/) (2026-05-14)
-- [Energy supplier abandons Lake Tahoe residents to serve data centers](https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/) (2026-05-14)
-- [Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs](https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/) (2026-05-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: China’s AI drama factory and the WHO’s missing health targets](https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/) (2026-05-15)
+- [The world is on track to miss its health targets](https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/) (2026-05-15)
+- [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) (2026-05-15)
 - [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) (2026-05-14)
 - [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) (2026-05-14)
-- [The Download: deepfake porn’s stolen bodies and AI sharing private numbers](https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/) (2026-05-14)
-- [The Tesla Semi could be a big deal for electric trucking](https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/) (2026-05-14)
-- [The shock of seeing your body used in deepfake porn ](https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/) (2026-05-14)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [No Dumb Questions: What is cloud computing and why is everyone doing it? ](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/) (2026-05-15)
 - [Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/) (2026-05-15)
 - [How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/) (2026-05-13)
 - [You Shipped It Fast. But Did You Ship It Right?](https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/) (2026-05-12)
 - [Building a Google Drive Sync Engine that Survives MV3 Service Workers](https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/) (2026-05-12)
-- [Connecting the dots for accurate AI](https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/) (2026-05-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Subscription Recovery Architecture for iOS and Android](https://dev.to/software_mvp-factory/subscription-recovery-architecture-for-ios-and-android-24pm) (2026-05-15)
-- [When Code Is Free, Intention Is the Craft](https://dev.to/natevoss/when-code-is-free-intention-is-the-craft-4jgi) (2026-05-15)
-- [I got tired of Swagger UI, so I built a TUI API explorer in Go](https://dev.to/shayanshojaei/i-got-tired-of-swagger-ui-so-i-built-a-tui-api-explorer-in-go-4e6) (2026-05-15)
-- [Three no-signup dev tools we shipped this week](https://dev.to/solvohq/three-no-signup-dev-tools-we-shipped-this-week-5fm3) (2026-05-15)
-- [OpenClaw 2026.5.14 Beta 1: Codex Migration and Agent Control](https://dev.to/hex_agent/openclaw-2026514-beta-1-codex-migration-and-agent-control-290l) (2026-05-15)
+- [Go Web Dev: How Proactive Communication Saves "Ghost" Projects](https://dev.to/charles_otugeh_fc71c7b02d/go-web-dev-how-proactive-communication-saves-ghost-projects-o4a) (2026-05-15)
+- [Illinois Unemployment Guide: Navigating the System (2026 Math Breakdown)](https://dev.to/moderncyph3r/illinois-unemployment-guide-navigating-the-system-2026-math-breakdown-gno) (2026-05-15)
+- [My First Bug Bounty Experience: Lessons, Challenges, and Growth](https://dev.to/lavib_uddin_ashik/my-first-bug-bounty-experience-lessons-challenges-and-growth-37j4) (2026-05-15)
+- [3..2..1 Launch!: My journey from zero to Django Contributions](https://dev.to/kaninkearpimy/321-launch-my-journey-from-zero-to-django-contributions-573i) (2026-05-15)
+- [“LLMs Do Not Remember Anything”: They only process the context we give them.](https://dev.to/shateshsoni/llms-do-not-remember-anything-they-only-process-the-context-we-give-them-26b2) (2026-05-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [One Slow API Call Crashed the Entire System. The Fan-out Pattern Fixed It](https://dineshchandgr.medium.com/one-slow-api-call-crashed-the-entire-system-the-fan-out-pattern-fixed-it-cbd8f84d847c?source=rss------programming-5) (2026-05-15)
-- [6 Machine Learning Experiments That Made Me Better at Python](https://levelup.gitconnected.com/6-machine-learning-experiments-that-made-me-better-at-python-262ebb9246b9?source=rss------programming-5) (2026-05-15)
-- [You Are Not Google: Stop Building Distributed Systems You Don’t Need](https://medium.com/the-tech-notes/you-are-not-google-stop-building-distributed-systems-you-dont-need-3cc0501b4d0e?source=rss------programming-5) (2026-05-15)
-- [You’re Not a Developer Anymore — You’re an AI Orchestrator (And That’s a Bigger Job)](https://medium.com/@tarxemo/youre-not-a-developer-anymore-you-re-an-ai-orchestrator-and-that-s-a-bigger-job-470dd0bda2b1?source=rss------programming-5) (2026-05-15)
-- [I Built Smarter Apps Faster After Discovering These 7 Python Libraries](https://blog.stackademic.com/i-built-smarter-apps-faster-after-discovering-these-7-python-libraries-6e2d8c9813a7?source=rss------programming-5) (2026-05-15)
+- [Nobody Told Me That Being “The Reliable One” on My Team Was Slowly Making Me Invisible](https://medium.com/@noahblogwriter2025/nobody-told-me-that-being-the-reliable-one-on-my-team-was-slowly-making-me-invisible-8fe2295874f3?source=rss------programming-5) (2026-05-15)
+- [Agent-First Coding Is Here. What It Actually Means for Developers in 2026.](https://ai.plainenglish.io/agent-first-coding-is-here-what-it-actually-means-for-developers-in-2026-ede721f2b106?source=rss------programming-5) (2026-05-15)
+- [How to Build Production-Ready ASP.NET Projects With Claude Code](https://shahedbd.medium.com/how-to-build-production-ready-asp-net-projects-with-claude-code-7e95ef8f3b08?source=rss------programming-5) (2026-05-15)
+- [Get Good at Git](https://medium.com/@abstractwarlocklabs/get-good-at-git-3efc235f5451?source=rss------programming-5) (2026-05-15)
+- [Free Hash Generator Online — Generate SHA-1, SHA-256 & SHA-512 Hashes Securely](https://medium.com/@toolsnak/free-hash-generator-online-generate-sha-1-sha-256-sha-512-hashes-securely-31fe079f2771?source=rss------programming-5) (2026-05-15)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Custom MCP Catalogs and Profiles: Advancing Enterprise MCP Adoption](https://www.docker.com/blog/create-custom-mcp-catalogs-and-profiles/) (2026-05-15)
 - [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/) (2026-05-13)
 - [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/) (2026-05-12)
 - [Comparing Different Approaches to Sandboxing](https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/) (2026-05-07)
 - [Generate Images Locally with Docker Model Runner and Open WebUI](https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui/) (2026-05-05)
-- [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/) (2026-05-05)
 
 </details>
 
@@ -318,10 +318,10 @@
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
+- [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
 - [Visual Studio Code 1.120](https://code.visualstudio.com/updates/v1_120) (2026-05-13)
 - [Visual Studio Code 1.119](https://code.visualstudio.com/updates/v1_119) (2026-05-06)
 - [Visual Studio Code 1.118](https://code.visualstudio.com/updates/v1_118) (2026-04-29)
-- [Visual Studio Code 1.117](https://code.visualstudio.com/updates/v1_117) (2026-04-22)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Voice AI vs conversational AI: what's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
+) (2026-05-14)
+- [
+Modern Bot Defense for Media Wiki Installs
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/modern-bot-defense-media-wiki-installs
+) (2026-05-14)
+- [
 How to take data governance from compliance burden to competitive advantage
 ](
 https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
@@ -376,16 +386,6 @@ What is RCS messaging?
 ](
 https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 ) (2026-05-13)
-- [
-Systems of Agency and Engineering Grit: What You Missed at SIGNAL San Francisco 2026
-](
-https://www.twilio.com/en-us/blog/events/signal-2026-san-francisco-recap
-) (2026-05-12)
-- [
-Ask the Expert: Clea Moore, Principal Product Manager, Yahoo Mail
-](
-https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
-) (2026-05-11)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why My Coding Assistant Started Replying in Korean When I Typed Chinese](https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/) (2026-05-15)
+- [Stop Evaluating LLMs with “Vibe Checks”](https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/) (2026-05-15)
 - [The Next AI Bottleneck Isn’t the Model: It’s the Inference System](https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/) (2026-05-14)
 - [The Counterintuitive Networking Decisions Behind OpenAI’s 131,000-GPU Training Fabric](https://towardsdatascience.com/the-counterintuitive-networking-decisions-behind-openais-131000-gpu-training-fabric/) (2026-05-14)
 - [I Let CodeSpeak Take Over My Repository](https://towardsdatascience.com/i-let-codespeak-take-over-my-repository/) (2026-05-14)
-- [How to Write Robust Code with Claude Code](https://towardsdatascience.com/how-to-write-robust-code-with-claude-code/) (2026-05-14)
-- [I Built the Same B2B Document Extractor Twice: Rules vs. LLM](https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/) (2026-05-13)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/ask-the-expert-clea-moore
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Must-Know Python Concepts](https://www.kdnuggets.com/5-must-know-python-concepts) (2026-05-15)
 - [Time-Series Feature Engineering with Python Itertools](https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools) (2026-05-14)
 - [5 Small Language Models for Agentic Tool Calling](https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling) (2026-05-14)
 - [How AI Agents Will Transform Data Science Work in 2026](https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026) (2026-05-13)
 - [10 GitHub Repositories to Master Self-Hosting](https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting) (2026-05-13)
-- [Using Polars Instead of Pandas: Performance Deep Dive](https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive) (2026-05-12)
 
 </details>
 
