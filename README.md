@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/) (2026-05-15)
+- [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/) (2026-05-15)
 - [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/) (2026-05-15)
 - [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/) (2026-05-15)
 - [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/) (2026-05-15)
-- [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) (2026-05-15)
-- [Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers](https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/) (2026-05-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208) (2026-05-15)
-- [Waymo recalls 3,800 robotaxis after they drive into flood waters](https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html) (2026-05-15)
-- [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/) (2026-05-15)
-- [Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal](https://github.com/bahdotsh/feedr) (2026-05-15)
-- [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator) (2026-05-15)
+- ['No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/) (2026-05-16)
+- [I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/) (2026-05-16)
+- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/) (2026-05-16)
+- [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/) (2026-05-15)
+- [Erlang/OTP 29.0](https://www.erlang.org/news/188) (2026-05-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps) (2026-05-15)
+- [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults) (2026-05-15)
+- [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button) (2026-05-15)
+- [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers) (2026-05-15)
 - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state) (2026-05-15)
-- [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle) (2026-05-15)
-- [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale) (2026-05-15)
-- [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies) (2026-05-15)
-- [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes) (2026-05-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Preprint server arXiv will ban submitters of AI-generated hallucinations](https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/) (2026-05-15)
-- [OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say](https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/) (2026-05-15)
-- [Volkswagen shows its first electric GTI; there's no chance of US sales](https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/) (2026-05-15)
-- [Making cement from a different type of rock could clean up emissions](https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/) (2026-05-15)
-- [Bill to block publishers from killing online games advances in California](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) (2026-05-15)
+- [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) (2026-05-15)
+- [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) (2026-05-15)
+- [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) (2026-05-15)
+- [Review: Good Omens finale sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) (2026-05-15)
+- [Solar power production undercut by coal pollution](https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/) (2026-05-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) (2026-05-15)
 - [The Download: China’s AI drama factory and the WHO’s missing health targets](https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/) (2026-05-15)
 - [The world is on track to miss its health targets](https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/) (2026-05-15)
 - [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) (2026-05-15)
 - [Data readiness for agentic AI in financial services](https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/) (2026-05-14)
-- [Establishing AI and data sovereignty in the age of autonomous systems](https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/) (2026-05-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When 'Google can read JavaScript now' isn't enough: a teardown of a React SPA marketing site in 2026](https://dev.to/richardwrobinson/when-google-can-read-javascript-now-isnt-enough-a-teardown-of-a-react-spa-marketing-site-in-2026-1a5m) (2026-05-15)
-- [MCP (Model Context Protocol) for .NET Devs — What It Is and Why You'll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98) (2026-05-15)
-- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e) (2026-05-15)
-- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj) (2026-05-15)
-- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813) (2026-05-15)
+- [Arrays in Programming Explained Simply — DSA for Beginners](https://dev.to/bitveen/arrays-in-programming-explained-simply-dsa-for-beginners-349g) (2026-05-16)
+- [Best AI IDEs in 2026: Cursor vs Windsurf vs Copilot vs Zed vs Claude Code vs Codex](https://dev.to/chandrakantabehera/best-ai-ides-in-2026-cursor-vs-windsurf-vs-copilot-vs-zed-vs-claude-code-vs-codex-1gk7) (2026-05-16)
+- [Demystifying Solana’s Architecture: The Web2 Analogy That Helped Me Finally Understand Accounts](https://dev.to/rexreus/demystifying-solanas-architecture-the-web2-analogy-that-helped-me-finally-understand-accounts-37fp) (2026-05-16)
+- [Why we hardcoded 8 niche presets instead of letting GPT generate slide layouts](https://dev.to/xspring1982/why-we-hardcoded-8-niche-presets-instead-of-letting-gpt-generate-slide-layouts-14b7) (2026-05-16)
+- [Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9) (2026-05-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Spent 2 Billion Tokens Writing a C++ Compiler So You Don’t Have to](https://medium.com/@vishvananda/i-spent-2-billion-tokens-writing-a-c-compiler-so-you-dont-have-to-6f4a7df6f8a4?source=rss------programming-5) (2026-05-15)
-- [I Spent 2 Billion Tokens Writing a C++ Compiler So You Don’t Have To](https://medium.com/@vishvananda/i-spent-2-billion-tokens-writing-a-c-compiler-so-you-dont-have-to-61b8f6535115?source=rss------programming-5) (2026-05-15)
-- [What Is an MCP Server? How the Biggest AI Breakthrough Actually Works Under the Hood](https://medium.com/@a.lencmanis/what-is-an-mcp-server-how-the-biggest-ai-breakthrough-actually-works-under-the-hood-12fe6b03aaf8?source=rss------programming-5) (2026-05-15)
-- [Python Sets: One of the Most Powerful Data Structures Beginners Often Ignore](https://medium.com/@antonyjerons2014/python-sets-one-of-the-most-powerful-data-structures-beginners-often-ignore-fc226df2c877?source=rss------programming-5) (2026-05-15)
-- [Programming Life: Where Bugs Have Feelings Too ](https://arpitbhatt027.medium.com/programming-life-where-bugs-have-feelings-too-6933e3235b3f?source=rss------programming-5) (2026-05-15)
+- [Day 8: Still Confused About tar and gzip? This Linux Guide Fixes That](https://pawannatekar220.medium.com/day-8-still-confused-about-tar-and-gzip-this-linux-guide-fixes-that-1c5e212a3779?source=rss------programming-5) (2026-05-16)
+- [The JavaScript Event Loop Finally Explained in a Way That Actually Sticks](https://sadiqueali.medium.com/the-javascript-event-loop-finally-explained-in-a-way-that-actually-sticks-e604fc0a792d?source=rss------programming-5) (2026-05-16)
+- [I Said “Data Science Is a Dead Career” in 2025.](https://medium.com/ai-analytics-diaries/i-said-data-science-is-a-dead-career-in-2025-26ab9ee21e73?source=rss------programming-5) (2026-05-16)
+- [7 Common Java Mistakes and How to Avoid Them](https://medium.com/@sunil17bbmp/7-common-java-mistakes-and-how-to-avoid-them-1b956bd221cf?source=rss------programming-5) (2026-05-16)
+- [Why Researchers Are Excited About Mamba-3](https://pub.towardsai.net/why-researchers-are-excited-about-mamba-3-9c273cf4b870?source=rss------programming-5) (2026-05-16)
 
 </details>
 
@@ -306,7 +306,7 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [Pyrefly LSP Integration in PyCharm 2026.1.2](https://blog.jetbrains.com/pycharm/2026/05/pyrefly-lsp-integration-in-pycharm-2026-1-2/) (2026-05-15)
+- [Pyrefly LSP Integration with Type Engine in PyCharm 2026.1.2](https://blog.jetbrains.com/pycharm/2026/05/pyrefly-lsp-integration-in-pycharm-2026-1-2/) (2026-05-15)
 - [IntelliJ IDEA 2026.1.2 Is Out!](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-1-2/) (2026-05-15)
 - [A New Default Project Structure for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2026/05/new-kmp-default-structure/) (2026-05-15)
 - [Help Shape the Future of Kotlin in the Age of AI](https://blog.jetbrains.com/kotlin/2026/05/help-shape-the-future-of-kotlin-in-the-age-of-ai/) (2026-05-15)
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
-- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
-- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
-- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
-- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
-- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
 
 </details>
 
