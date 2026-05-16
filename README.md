@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/) (2026-05-15)
-- [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/) (2026-05-15)
-- [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/) (2026-05-15)
-- [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/) (2026-05-15)
-- [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/) (2026-05-15)
+- [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/) (2026-05-16)
+- [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/) (2026-05-16)
+- [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/) (2026-05-16)
+- [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/) (2026-05-16)
+- [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Meta employee gets real about the horror of working there](https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/) (2026-05-16)
-- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) (2026-05-16)
-- [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) (2026-05-16)
-- [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735) (2026-05-16)
-- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) (2026-05-16)
+- [I 3D Printed Origami [video]](https://www.youtube.com/watch?v=FNVBK7-h9Fs) (2026-05-16)
+- [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai) (2026-05-16)
+- [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574) (2026-05-16)
+- [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky) (2026-05-16)
+- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools) (2026-05-16)
+- [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant) (2026-05-16)
+- [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire) (2026-05-16)
+- [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on) (2026-05-16)
 - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-16)
-- [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc) (2026-05-16)
-- [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer) (2026-05-16)
-- [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026) (2026-05-16)
-- [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps) (2026-05-15)
 
 </details>
 
@@ -64,7 +64,7 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) (2026-05-15)
+- [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) (2026-05-15)
 - [The Download: China’s AI drama factory and the WHO’s missing health targets](https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/) (2026-05-15)
 - [The world is on track to miss its health targets](https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/) (2026-05-15)
 - [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) (2026-05-15)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Shock After Joining a New Company as a Developer](https://dev.to/jeegaje/shock-after-joining-a-new-company-as-a-developer-2nm9) (2026-05-16)
-- [JWT Authentication, Explained by Actually Running One (No Setup)](https://dev.to/pku_bd13f856f0/jwt-authentication-explained-by-actually-running-one-no-setup-3l70) (2026-05-16)
-- [UTM Tracking at Scale: Building a CRM Integration Pipeline for WordPress](https://dev.to/kunal_pareek/utm-tracking-at-scale-building-a-crm-integration-pipeline-for-wordpress-3206) (2026-05-16)
-- [I Built India's First AI Vedic Astrology Platform in 17 Days — Here's Everything I Did](https://dev.to/abhishek_gupta_cc27e9b33a/i-built-indias-first-ai-vedic-astrology-platform-in-17-days-heres-everything-i-did-3al4) (2026-05-16)
-- [Building a Ride Analysis Web App with Antigravity and the Strava API](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g) (2026-05-16)
+- [FindBug - Self-hosted Error Tracking & Performance Monitoring for Rails (v0.5.0)](https://dev.to/iamsoumit/findbug-self-hosted-error-tracking-performance-monitoring-for-rails-v050-1fm3) (2026-05-16)
+- [How I Built Memory Concierge: An AI Hotel Concierge That Remembers Guests](https://dev.to/abhilash_reddychitiki_06/how-i-built-memory-concierge-an-ai-hotel-concierge-that-remembers-guests-48ll) (2026-05-16)
+- [Why I Teach Python With a City Simulator (And Why You Should Build One Too)](https://dev.to/rob-lear/why-i-teach-python-with-a-city-simulator-and-why-you-should-build-one-too-5g6i) (2026-05-16)
+- [LeetCode Solution: 5. Longest Palindromic Substring](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-5-longest-palindromic-substring-454c) (2026-05-16)
+- [I told my AI to build a feature. Did it? I had no idea.](https://dev.to/amingin_ai/i-told-my-ai-to-build-a-feature-did-it-i-had-no-idea-1f1) (2026-05-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TypeScript 6.0 Upgrade Guide: Prepare for 7.0 Go Rewrite (2026)](https://medium.com/devs-community/typescript-6-0-upgrade-guide-prepare-for-7-0-go-rewrite-2026-8cec22624e03?source=rss------programming-5) (2026-05-16)
-- [Microsoft Security Copilot Agents: Inside the Agentic SOC](https://itnext.io/microsoft-security-copilot-agents-inside-the-agentic-soc-fcf7bd081afd?source=rss------programming-5) (2026-05-16)
-- [OpenAI just bribed companies to leave Claude.](https://iyui.medium.com/openai-just-bribed-companies-to-leave-claude-fdd9341f50e4?source=rss------programming-5) (2026-05-16)
-- [Engineering an Event: How We Built a Fault-Tolerant, High-Availability Technical Infrastructure for…](https://medium.com/@Dynasty241/engineering-an-event-how-we-built-a-fault-tolerant-high-availability-technical-infrastructure-for-cdb63a659107?source=rss------programming-5) (2026-05-16)
-- [So I dropped two grand on a local LLM setup. What did I learn?](https://medium.com/@aurirahimzadeh/so-i-dropped-two-grand-on-a-local-llm-setup-what-did-i-learn-ef411eb2ff40?source=rss------programming-5) (2026-05-16)
+- [AI Agent Best Practices: Production-Ready Harness Engineering (2026 Guide)](https://medium.com/@tort_mario/ai-agent-best-practices-production-ready-harness-engineering-2026-guide-c1236d713fac?source=rss------programming-5) (2026-05-16)
+- [Code Review Was Never About Catching Bugs. AI Pull Requests Just Proved It.](https://medium.com/@alistair.prestidge/code-review-was-never-about-catching-bugs-ai-pull-requests-just-proved-it-ca970f2377be?source=rss------programming-5) (2026-05-16)
+- [Everything Is Radio: Mapping the Invisible Airwaves with a Borrowed Dongle and an AI Partner](https://medium.com/@yoyoerx/everything-is-radio-mapping-the-invisible-airwaves-with-a-borrowed-dongle-and-an-ai-partner-77b9e1bcf0ff?source=rss------programming-5) (2026-05-16)
+- [Vibe Coding Feels Productive Until It Doesn’t — What Four Days of AI-Assisted Development Taught Me](https://medium.com/@mohan-01/vibe-coding-feels-productive-until-it-doesnt-what-four-days-of-ai-assisted-development-taught-me-0771b086ad20?source=rss------programming-5) (2026-05-16)
+- [Prompts, Models, and APIs — The Real Work of AI Engineering Part 2](https://medium.com/@raian.pro/prompts-models-and-apis-the-real-work-of-ai-engineering-part-2-21a3846f5c89?source=rss------programming-5) (2026-05-16)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap](https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/) (2026-05-16)
 - [Recursive Language Models: An All-in-One Deep Dive](https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/) (2026-05-16)
 - [From Raw Data to Risk Classes](https://towardsdatascience.com/from-raw-data-to-risk-classes/) (2026-05-15)
 - [How I Continually Improve My Claude Code](https://towardsdatascience.com/how-i-continually-improve-my-claude-code/) (2026-05-15)
 - [Why My Coding Assistant Started Replying in Korean When I Typed Chinese](https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/) (2026-05-15)
-- [Stop Evaluating LLMs with “Vibe Checks”](https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/) (2026-05-15)
 
 </details>
 
