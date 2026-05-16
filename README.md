@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- ['No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/) (2026-05-16)
-- [I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/) (2026-05-16)
+- [The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead) (2026-05-16)
+- [California's Battery Array Is as Powerful as 12 Nuclear Power Plants](https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/) (2026-05-16)
 - [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/) (2026-05-16)
-- [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/) (2026-05-15)
-- [Erlang/OTP 29.0](https://www.erlang.org/news/188) (2026-05-15)
+- [NYT and vaping: How to lie by saying only true things (2022)](https://gwern.net/vaping) (2026-05-16)
+- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) (2026-05-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Arrays in Programming Explained Simply — DSA for Beginners](https://dev.to/bitveen/arrays-in-programming-explained-simply-dsa-for-beginners-349g) (2026-05-16)
-- [Best AI IDEs in 2026: Cursor vs Windsurf vs Copilot vs Zed vs Claude Code vs Codex](https://dev.to/chandrakantabehera/best-ai-ides-in-2026-cursor-vs-windsurf-vs-copilot-vs-zed-vs-claude-code-vs-codex-1gk7) (2026-05-16)
-- [Demystifying Solana’s Architecture: The Web2 Analogy That Helped Me Finally Understand Accounts](https://dev.to/rexreus/demystifying-solanas-architecture-the-web2-analogy-that-helped-me-finally-understand-accounts-37fp) (2026-05-16)
-- [Why we hardcoded 8 niche presets instead of letting GPT generate slide layouts](https://dev.to/xspring1982/why-we-hardcoded-8-niche-presets-instead-of-letting-gpt-generate-slide-layouts-14b7) (2026-05-16)
-- [Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9) (2026-05-16)
+- [My AI agent kept blind-reading my files. So I built a local CLI to give it "eyes" (Looking for beta testers! 🐛)](https://dev.to/1jaswanth1/my-ai-agent-kept-blind-reading-my-files-so-i-built-a-local-cli-to-give-it-eyes-looking-for-beta-4j4g) (2026-05-16)
+- [Inside Systems 01: Your Verification Process Did Not Break. It Was Replaced.](https://dev.to/chandravanshi/inside-systems-01-your-verification-process-did-not-break-it-was-replaced-4bee) (2026-05-16)
+- [Deploying Metabase on AWS ECS (Fargate) with PostgreSQL (RDS)](https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa) (2026-05-16)
+- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd) (2026-05-16)
+- [jd-gui-duo 2.0.112 Released](https://dev.to/nbauma109/jd-gui-duo-20112-released-3j9f) (2026-05-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 8: Still Confused About tar and gzip? This Linux Guide Fixes That](https://pawannatekar220.medium.com/day-8-still-confused-about-tar-and-gzip-this-linux-guide-fixes-that-1c5e212a3779?source=rss------programming-5) (2026-05-16)
-- [The JavaScript Event Loop Finally Explained in a Way That Actually Sticks](https://sadiqueali.medium.com/the-javascript-event-loop-finally-explained-in-a-way-that-actually-sticks-e604fc0a792d?source=rss------programming-5) (2026-05-16)
-- [I Said “Data Science Is a Dead Career” in 2025.](https://medium.com/ai-analytics-diaries/i-said-data-science-is-a-dead-career-in-2025-26ab9ee21e73?source=rss------programming-5) (2026-05-16)
-- [7 Common Java Mistakes and How to Avoid Them](https://medium.com/@sunil17bbmp/7-common-java-mistakes-and-how-to-avoid-them-1b956bd221cf?source=rss------programming-5) (2026-05-16)
-- [Why Researchers Are Excited About Mamba-3](https://pub.towardsai.net/why-researchers-are-excited-about-mamba-3-9c273cf4b870?source=rss------programming-5) (2026-05-16)
+- [Why Python is the Ultimate Career Launchpad in 2026 (And How to Master It in Electronic City…](https://medium.com/@richuemexo/why-python-is-the-ultimate-career-launchpad-in-2026-and-how-to-master-it-in-electronic-city-0a5ea7558528?source=rss------programming-5) (2026-05-16)
+- [My Go-To Docker Cheat Sheet (CLI, Dockerfile, Compose, BuildKit) — Save Hours Every Week](https://medium.com/me-n-stack-development/my-go-to-docker-cheat-sheet-cli-dockerfile-compose-buildkit-save-hours-every-week-ac8bbb7408cf?source=rss------programming-5) (2026-05-16)
+- [n8n Tool-Approval Gates: The HITL Pattern for Production Agents](https://medium.com/@automation.labs/n8n-tool-approval-gates-the-hitl-pattern-for-production-agents-18caaec7c1be?source=rss------programming-5) (2026-05-16)
+- [AI Can Make Everyone a Coder. It Can’t Give Everyone Taste](https://medium.com/ai-ai-oh/ai-can-make-everyone-a-coder-it-cant-give-everyone-taste-0744a5b6d03e?source=rss------programming-5) (2026-05-16)
+- [The Beginner’s Guide to Running Production Inference on a Mac Mini](https://kotrotsos.medium.com/the-beginners-guide-to-running-production-inference-on-a-mac-mini-fb5eeba0075f?source=rss------programming-5) (2026-05-16)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
+- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
+- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
+- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
+- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
+- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
 
 </details>
 
