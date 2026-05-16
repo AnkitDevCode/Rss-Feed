@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead) (2026-05-16)
-- [California's Battery Array Is as Powerful as 12 Nuclear Power Plants](https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/) (2026-05-16)
-- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/) (2026-05-16)
-- [NYT and vaping: How to lie by saying only true things (2022)](https://gwern.net/vaping) (2026-05-16)
-- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) (2026-05-15)
+- [A Meta employee gets real about the horror of working there](https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/) (2026-05-16)
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) (2026-05-16)
+- [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) (2026-05-16)
+- [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735) (2026-05-16)
+- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) (2026-05-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-16)
+- [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc) (2026-05-16)
+- [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer) (2026-05-16)
+- [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026) (2026-05-16)
 - [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps) (2026-05-15)
-- [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults) (2026-05-15)
-- [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button) (2026-05-15)
-- [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers) (2026-05-15)
-- [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state) (2026-05-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The US is betting on AI to catch insider trading in prediction markets](https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/) (2026-05-16)
 - [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) (2026-05-15)
 - [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) (2026-05-15)
 - [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) (2026-05-15)
-- [Review: Good Omens finale sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) (2026-05-15)
-- [Solar power production undercut by coal pollution](https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/) (2026-05-15)
+- [Review: Good Omens finale (mostly) sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) (2026-05-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My AI agent kept blind-reading my files. So I built a local CLI to give it "eyes" (Looking for beta testers! 🐛)](https://dev.to/1jaswanth1/my-ai-agent-kept-blind-reading-my-files-so-i-built-a-local-cli-to-give-it-eyes-looking-for-beta-4j4g) (2026-05-16)
-- [Inside Systems 01: Your Verification Process Did Not Break. It Was Replaced.](https://dev.to/chandravanshi/inside-systems-01-your-verification-process-did-not-break-it-was-replaced-4bee) (2026-05-16)
-- [Deploying Metabase on AWS ECS (Fargate) with PostgreSQL (RDS)](https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa) (2026-05-16)
-- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd) (2026-05-16)
-- [jd-gui-duo 2.0.112 Released](https://dev.to/nbauma109/jd-gui-duo-20112-released-3j9f) (2026-05-16)
+- [Shock After Joining a New Company as a Developer](https://dev.to/jeegaje/shock-after-joining-a-new-company-as-a-developer-2nm9) (2026-05-16)
+- [JWT Authentication, Explained by Actually Running One (No Setup)](https://dev.to/pku_bd13f856f0/jwt-authentication-explained-by-actually-running-one-no-setup-3l70) (2026-05-16)
+- [UTM Tracking at Scale: Building a CRM Integration Pipeline for WordPress](https://dev.to/kunal_pareek/utm-tracking-at-scale-building-a-crm-integration-pipeline-for-wordpress-3206) (2026-05-16)
+- [I Built India's First AI Vedic Astrology Platform in 17 Days — Here's Everything I Did](https://dev.to/abhishek_gupta_cc27e9b33a/i-built-indias-first-ai-vedic-astrology-platform-in-17-days-heres-everything-i-did-3al4) (2026-05-16)
+- [Building a Ride Analysis Web App with Antigravity and the Strava API](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g) (2026-05-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Python is the Ultimate Career Launchpad in 2026 (And How to Master It in Electronic City…](https://medium.com/@richuemexo/why-python-is-the-ultimate-career-launchpad-in-2026-and-how-to-master-it-in-electronic-city-0a5ea7558528?source=rss------programming-5) (2026-05-16)
-- [My Go-To Docker Cheat Sheet (CLI, Dockerfile, Compose, BuildKit) — Save Hours Every Week](https://medium.com/me-n-stack-development/my-go-to-docker-cheat-sheet-cli-dockerfile-compose-buildkit-save-hours-every-week-ac8bbb7408cf?source=rss------programming-5) (2026-05-16)
-- [n8n Tool-Approval Gates: The HITL Pattern for Production Agents](https://medium.com/@automation.labs/n8n-tool-approval-gates-the-hitl-pattern-for-production-agents-18caaec7c1be?source=rss------programming-5) (2026-05-16)
-- [AI Can Make Everyone a Coder. It Can’t Give Everyone Taste](https://medium.com/ai-ai-oh/ai-can-make-everyone-a-coder-it-cant-give-everyone-taste-0744a5b6d03e?source=rss------programming-5) (2026-05-16)
-- [The Beginner’s Guide to Running Production Inference on a Mac Mini](https://kotrotsos.medium.com/the-beginners-guide-to-running-production-inference-on-a-mac-mini-fb5eeba0075f?source=rss------programming-5) (2026-05-16)
+- [TypeScript 6.0 Upgrade Guide: Prepare for 7.0 Go Rewrite (2026)](https://medium.com/devs-community/typescript-6-0-upgrade-guide-prepare-for-7-0-go-rewrite-2026-8cec22624e03?source=rss------programming-5) (2026-05-16)
+- [Microsoft Security Copilot Agents: Inside the Agentic SOC](https://itnext.io/microsoft-security-copilot-agents-inside-the-agentic-soc-fcf7bd081afd?source=rss------programming-5) (2026-05-16)
+- [OpenAI just bribed companies to leave Claude.](https://iyui.medium.com/openai-just-bribed-companies-to-leave-claude-fdd9341f50e4?source=rss------programming-5) (2026-05-16)
+- [Engineering an Event: How We Built a Fault-Tolerant, High-Availability Technical Infrastructure for…](https://medium.com/@Dynasty241/engineering-an-event-how-we-built-a-fault-tolerant-high-availability-technical-infrastructure-for-cdb63a659107?source=rss------programming-5) (2026-05-16)
+- [So I dropped two grand on a local LLM setup. What did I learn?](https://medium.com/@aurirahimzadeh/so-i-dropped-two-grand-on-a-local-llm-setup-what-did-i-learn-ef411eb2ff40?source=rss------programming-5) (2026-05-16)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Recursive Language Models: An All-in-One Deep Dive](https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/) (2026-05-16)
 - [From Raw Data to Risk Classes](https://towardsdatascience.com/from-raw-data-to-risk-classes/) (2026-05-15)
 - [How I Continually Improve My Claude Code](https://towardsdatascience.com/how-i-continually-improve-my-claude-code/) (2026-05-15)
 - [Why My Coding Assistant Started Replying in Korean When I Typed Chinese](https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/) (2026-05-15)
 - [Stop Evaluating LLMs with “Vibe Checks”](https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/) (2026-05-15)
-- [The Next AI Bottleneck Isn’t the Model: It’s the Inference System](https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/) (2026-05-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [6 Steps to Crack GenAI Case Study Interviews (With Real Examples)](https://www.analyticsvidhya.com/blog/2026/05/ace-your-genai-case-study-interview/) (2026-05-16)
 - [OpenAI Omni Moderation: How to Filter Text & Images for Free](https://www.analyticsvidhya.com/blog/2026/05/openai-omni-moderation/) (2026-05-15)
 - [DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year](https://www.analyticsvidhya.com/blog/2026/05/datahack-summit-dhs-2026/) (2026-05-14)
 - [How to Visualize Any AI Model Architecture Instantly in Hugging Face](https://www.analyticsvidhya.com/blog/2026/05/how-to-visualize-any-ai-model-architecture-instantly/) (2026-05-14)
 - [OpenAI’s New API Voice Models Will Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2026/05/openai-new-voice-models-in-api/) (2026-05-14)
-- [Hermes Agent Guide: What is it and How to Use it?](https://www.analyticsvidhya.com/blog/2026/05/hermes-agent-guide/) (2026-05-12)
 
 </details>
 
