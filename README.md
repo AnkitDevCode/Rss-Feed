@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) (2026-05-17)
+- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) (2026-05-17)
+- [For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/) (2026-05-17)
 - [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) (2026-05-16)
 - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/) (2026-05-16)
-- [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/) (2026-05-16)
-- [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/) (2026-05-16)
-- [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) (2026-05-17)
-- [Apple Silicon costs more than OpenRouter](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html) (2026-05-17)
-- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) (2026-05-17)
-- [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) (2026-05-17)
-- [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/) (2026-05-17)
+- [Scientists "bottle the sun" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm) (2026-05-17)
+- [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake) (2026-05-17)
+- [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/) (2026-05-17)
+- [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782) (2026-05-17)
+- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) (2026-05-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) (2026-05-17)
+- [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) (2026-05-17)
+- [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum) (2026-05-17)
 - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale) (2026-05-17)
 - [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on) (2026-05-17)
-- [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys) (2026-05-17)
-- [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools) (2026-05-16)
-- [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant) (2026-05-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🏏 Building Captain Cool AI (Third Umpire AI): An Agentic AI-Powered Cricket Intelligence Platform Built at Agentic Premier League Pune](https://dev.to/amhikastkar/building-captain-cool-ai-third-umpire-ai-an-agentic-ai-powered-cricket-intelligence-platform-7ai) (2026-05-17)
-- [🏏 Building "Captain Cool": A Multi-Agent IPL Strategist with Google Antigravity & Gemini 2.5](https://dev.to/arnav_ahirrao/building-captain-cool-a-multi-agent-ipl-strategist-with-google-antigravity-gemini-25-6h5) (2026-05-17)
-- [Build with AI - APL GDG Pune](https://dev.to/aaryan_gupta_8/build-with-ai-apl-gdg-pune-3) (2026-05-17)
-- [STRAT- built for the last over](https://dev.to/saeeekumbhar/strat-built-for-the-last-over-4gmo) (2026-05-17)
-- [I Built an AI IPL War Room Using Gemini Multi-Agent Reasoning 🏏](https://dev.to/mrunalini_pachpute_bf0b2e/i-built-an-ai-ipl-war-room-using-gemini-multi-agent-reasoning-1af7) (2026-05-17)
+- [Built a Network Traffic Classifier with Random Forest (96.8% Accuracy)](https://dev.to/gulrez/built-a-network-traffic-classifier-with-random-forest-968-accuracy-52ai) (2026-05-17)
+- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag) (2026-05-17)
+- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai) (2026-05-17)
+- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33) (2026-05-17)
+- [The Runbook Is Already Lying to you.](https://dev.to/iyanu_david/the-runbook-is-already-lying-to-you-557o) (2026-05-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a 10x Cheaper Enterprise Gemini Multimodal RAG File Search](https://medium.com/@GaoDalie_AI/i-built-a-10x-cheaper-enterprise-gemini-multimodal-rag-file-search-b4b4a654017a?source=rss------programming-5) (2026-05-17)
-- [Fragnesia (CVE-2026–46300): Why Your Dirty Frag Patch Left You Exposed](https://meetcyber.net/fragnesia-cve-2026-46300-why-your-dirty-frag-patch-left-you-exposed-7d86f7ea093f?source=rss------programming-5) (2026-05-17)
-- [The Refactor’s Manifesto: 5 Strategic Tips to Turn Spaghetti into Gold ️](https://medium.com/@nanda_amanta/the-refactors-manifesto-5-strategic-tips-to-turn-spaghetti-into-gold-%EF%B8%8F-884f1935fcc2?source=rss------programming-5) (2026-05-17)
-- [I Finally Understood the SAP B1 Sales Process — And It’s Simpler Than I Thought (Once You See the…](https://medium.com/@akshat.verma2004/i-finally-understood-the-sap-b1-sales-process-and-its-simpler-than-i-thought-once-you-see-the-1628965ccf21?source=rss------programming-5) (2026-05-17)
-- [Getting Back to Coding: Rebuilding My Mac Terminal from Scratch](https://medium.com/@es1amaged/getting-back-to-coding-rebuilding-my-mac-terminal-from-scratch-f77b29044775?source=rss------programming-5) (2026-05-17)
+- [We Lost 45 Minutes Looking at the Wrong Dashboard](https://medium.com/engineering-playbook/we-lost-45-minutes-looking-at-the-wrong-dashboard-4f6e2f17b91e?source=rss------programming-5) (2026-05-17)
+- [MOST PEOPLE USE CHATGPT WRONG — HERE’S HOW TO MAKE THE WRITING FEEL HUMAN](https://medium.com/no-time/most-people-use-chatgpt-wrong-heres-how-to-make-the-writing-feel-human-e6715bb6aeba?source=rss------programming-5) (2026-05-17)
+- [How I Stopped Cursor AI From Destroying My Code: The Exact Framework for Error-Free SaaS…](https://medium.com/@sergei.jeluashvili/how-i-stopped-cursor-ai-from-destroying-my-code-the-exact-framework-for-error-free-saas-5b49af173e62?source=rss------programming-5) (2026-05-17)
+- [Build a URL Shortener with Cloudflare Workers, KV & Analytics](https://medium.com/@ataur.codex/build-a-url-shortener-with-cloudflare-workers-kv-analytics-9eac76eb8abb?source=rss------programming-5) (2026-05-17)
+- [Converting a Local LLM into a Mini AI Runtime,](https://alielmali.medium.com/converting-a-local-llm-into-a-mini-ai-runtime-9fcc2a5a9ccd?source=rss------programming-5) (2026-05-17)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
+- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling](https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/) (2026-05-17)
 - [LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships](https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/) (2026-05-17)
 - [From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap](https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/) (2026-05-16)
 - [Recursive Language Models: An All-in-One Deep Dive](https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/) (2026-05-16)
 - [From Raw Data to Risk Classes](https://towardsdatascience.com/from-raw-data-to-risk-classes/) (2026-05-15)
-- [How I Continually Improve My Claude Code](https://towardsdatascience.com/how-i-continually-improve-my-claude-code/) (2026-05-15)
 
 </details>
 
