@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) (2026-05-16)
+- [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/) (2026-05-16)
 - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/) (2026-05-16)
 - [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/) (2026-05-16)
 - [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/) (2026-05-16)
-- [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/) (2026-05-16)
-- [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I 3D Printed Origami [video]](https://www.youtube.com/watch?v=FNVBK7-h9Fs) (2026-05-16)
-- [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai) (2026-05-16)
-- [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574) (2026-05-16)
-- [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky) (2026-05-16)
-- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) (2026-05-16)
+- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) (2026-05-17)
+- [Self-Distillation Enables Continual Learning [PDF]](https://arxiv.org/abs/2601.19897) (2026-05-17)
+- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/) (2026-05-16)
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) (2026-05-16)
+- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) (2026-05-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [FindBug - Self-hosted Error Tracking & Performance Monitoring for Rails (v0.5.0)](https://dev.to/iamsoumit/findbug-self-hosted-error-tracking-performance-monitoring-for-rails-v050-1fm3) (2026-05-16)
-- [How I Built Memory Concierge: An AI Hotel Concierge That Remembers Guests](https://dev.to/abhilash_reddychitiki_06/how-i-built-memory-concierge-an-ai-hotel-concierge-that-remembers-guests-48ll) (2026-05-16)
-- [Why I Teach Python With a City Simulator (And Why You Should Build One Too)](https://dev.to/rob-lear/why-i-teach-python-with-a-city-simulator-and-why-you-should-build-one-too-5g6i) (2026-05-16)
-- [LeetCode Solution: 5. Longest Palindromic Substring](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-5-longest-palindromic-substring-454c) (2026-05-16)
-- [I told my AI to build a feature. Did it? I had no idea.](https://dev.to/amingin_ai/i-told-my-ai-to-build-a-feature-did-it-i-had-no-idea-1f1) (2026-05-16)
+- [AI Agents in the Enterprise: Why More Is Not Always Better](https://dev.to/yanoai/ai-agents-in-the-enterprise-why-more-is-not-always-better-1n31) (2026-05-17)
+- [Automatically Healing CloudFormation Drift with Durable Functions](https://dev.to/aws-builders/automatically-healing-cloudformation-drift-with-durable-functions-bhm) (2026-05-17)
+- [Making the Filing Cabinet Enterprise-Ready: Tricks to Scale with SQLite](https://dev.to/ynwd/making-the-filing-cabinet-enterprise-ready-tricks-to-scale-with-sqlite-2nm2) (2026-05-17)
+- [How I Built a Completely Free Local AI Stack — Inspired by a 60-Second YouTube Short](https://dev.to/pranay_ravi_b88172eac205c/how-i-built-a-completely-free-local-ai-stack-inspired-by-a-60-second-youtube-short-3e39) (2026-05-17)
+- [The Epistemic Gap: Why Agent Memory Needs Epistemic Types](https://dev.to/idapixl/the-epistemic-gap-why-agent-memory-needs-epistemic-types-5754) (2026-05-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Agent Best Practices: Production-Ready Harness Engineering (2026 Guide)](https://medium.com/@tort_mario/ai-agent-best-practices-production-ready-harness-engineering-2026-guide-c1236d713fac?source=rss------programming-5) (2026-05-16)
-- [Code Review Was Never About Catching Bugs. AI Pull Requests Just Proved It.](https://medium.com/@alistair.prestidge/code-review-was-never-about-catching-bugs-ai-pull-requests-just-proved-it-ca970f2377be?source=rss------programming-5) (2026-05-16)
-- [Everything Is Radio: Mapping the Invisible Airwaves with a Borrowed Dongle and an AI Partner](https://medium.com/@yoyoerx/everything-is-radio-mapping-the-invisible-airwaves-with-a-borrowed-dongle-and-an-ai-partner-77b9e1bcf0ff?source=rss------programming-5) (2026-05-16)
-- [Vibe Coding Feels Productive Until It Doesn’t — What Four Days of AI-Assisted Development Taught Me](https://medium.com/@mohan-01/vibe-coding-feels-productive-until-it-doesnt-what-four-days-of-ai-assisted-development-taught-me-0771b086ad20?source=rss------programming-5) (2026-05-16)
-- [Prompts, Models, and APIs — The Real Work of AI Engineering Part 2](https://medium.com/@raian.pro/prompts-models-and-apis-the-real-work-of-ai-engineering-part-2-21a3846f5c89?source=rss------programming-5) (2026-05-16)
+- [Laravel API Versioning: The Decision That Will Either Save or Haunt Your Project](https://sadiqueali.medium.com/laravel-api-versioning-the-decision-that-will-either-save-or-haunt-your-project-f52e84dc2ba2?source=rss------programming-5) (2026-05-17)
+- [ Secure Coding in Practice: The 10 Mistakes That Cause 90% of Web Vulnerabilities](https://medium.com/@parthpatel1207/secure-coding-in-practice-the-10-mistakes-that-cause-90-of-web-vulnerabilities-e138c7162eeb?source=rss------programming-5) (2026-05-17)
+- [ ¿Y si parte de la próxima infraestructura inteligente no viviera únicamente en grandes…](https://hormigasaiscristhiamquinonez.medium.com/y-si-parte-de-la-pr%C3%B3xima-infraestructura-inteligente-no-viviera-%C3%BAnicamente-en-grandes-460fe5ae8341?source=rss------programming-5) (2026-05-17)
+- [Yupp Raised $33 Million. Then the Ground Moved](https://medium.com/illumination/yupp-raised-33-million-then-the-ground-moved-f18f07250ba5?source=rss------programming-5) (2026-05-17)
+- [Kenapa Kamu Wajib Paham Operator Dart dan For Loop Sebelum Masuk ke Flutter](https://medium.com/@farandkf/kenapa-kamu-wajib-paham-operator-dart-dan-for-loop-sebelum-masuk-ke-flutter-c64e7a58638c?source=rss------programming-5) (2026-05-17)
 
 </details>
 
@@ -197,10 +197,10 @@
 <summary>🟩 Node.js Blog</summary>
 
 - [Node.js 22.22.3 (LTS)](https://nodejs.org/en/blog/release/v22.22.3) (2026-05-13)
+- [Axios to WHATWG Fetch](https://nodejs.org/en/blog/migrations/axios-to-fetch) (2026-05-09)
 - [Node.js 26.1.0 (Current)](https://nodejs.org/en/blog/release/v26.1.0) (2026-05-07)
 - [Node.js 26.0.0 (Current)](https://nodejs.org/en/blog/release/v26.0.0) (2026-05-05)
 - [Trip report: Node.js collaboration summit (2026 London)](https://nodejs.org/en/blog/events/collab-summit-2026-london) (2026-04-24)
-- [Node.js 24.15.0 (LTS)](https://nodejs.org/en/blog/release/v24.15.0) (2026-04-15)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 - [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
+- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
-- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
-- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
-- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
-- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
 
 </details>
 
