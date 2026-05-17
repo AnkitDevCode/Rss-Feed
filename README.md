@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) (2026-05-17)
+- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/) (2026-05-17)
+- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827) (2026-05-17)
 - [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) (2026-05-17)
-- [Self-Distillation Enables Continual Learning [PDF]](https://arxiv.org/abs/2601.19897) (2026-05-17)
-- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/) (2026-05-16)
-- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) (2026-05-16)
-- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) (2026-05-16)
+- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897) (2026-05-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Agents in the Enterprise: Why More Is Not Always Better](https://dev.to/yanoai/ai-agents-in-the-enterprise-why-more-is-not-always-better-1n31) (2026-05-17)
-- [Automatically Healing CloudFormation Drift with Durable Functions](https://dev.to/aws-builders/automatically-healing-cloudformation-drift-with-durable-functions-bhm) (2026-05-17)
-- [Making the Filing Cabinet Enterprise-Ready: Tricks to Scale with SQLite](https://dev.to/ynwd/making-the-filing-cabinet-enterprise-ready-tricks-to-scale-with-sqlite-2nm2) (2026-05-17)
-- [How I Built a Completely Free Local AI Stack — Inspired by a 60-Second YouTube Short](https://dev.to/pranay_ravi_b88172eac205c/how-i-built-a-completely-free-local-ai-stack-inspired-by-a-60-second-youtube-short-3e39) (2026-05-17)
-- [The Epistemic Gap: Why Agent Memory Needs Epistemic Types](https://dev.to/idapixl/the-epistemic-gap-why-agent-memory-needs-epistemic-types-5754) (2026-05-17)
+- [I created BGMI Sensitivity Code Generator](https://dev.to/bgmitools/i-created-bgmi-sensitivity-code-generator-52bn) (2026-05-17)
+- [Validate JWTs from Multiple Issuers in kgateway](https://dev.to/emmsddev/validate-jwts-from-multiple-issuers-in-kgateway-561f) (2026-05-17)
+- [I Stopped Paying GPT-4 for Simple Queries — Here's the Router I Built](https://dev.to/ad_man_cf946186dc71743c9b/i-stopped-paying-gpt-4-for-simple-queries-heres-the-router-i-built-2f78) (2026-05-17)
+- [Your Vibe-Coded App Is a Ghost Unless Google Can See It](https://dev.to/teamhandyapps/your-vibe-coded-app-is-a-ghost-unless-google-can-see-it-4pda) (2026-05-17)
+- [GitHub enters the terminal agent wars with Copilot CLI](https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285) (2026-05-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Laravel API Versioning: The Decision That Will Either Save or Haunt Your Project](https://sadiqueali.medium.com/laravel-api-versioning-the-decision-that-will-either-save-or-haunt-your-project-f52e84dc2ba2?source=rss------programming-5) (2026-05-17)
-- [ Secure Coding in Practice: The 10 Mistakes That Cause 90% of Web Vulnerabilities](https://medium.com/@parthpatel1207/secure-coding-in-practice-the-10-mistakes-that-cause-90-of-web-vulnerabilities-e138c7162eeb?source=rss------programming-5) (2026-05-17)
-- [ ¿Y si parte de la próxima infraestructura inteligente no viviera únicamente en grandes…](https://hormigasaiscristhiamquinonez.medium.com/y-si-parte-de-la-pr%C3%B3xima-infraestructura-inteligente-no-viviera-%C3%BAnicamente-en-grandes-460fe5ae8341?source=rss------programming-5) (2026-05-17)
-- [Yupp Raised $33 Million. Then the Ground Moved](https://medium.com/illumination/yupp-raised-33-million-then-the-ground-moved-f18f07250ba5?source=rss------programming-5) (2026-05-17)
-- [Kenapa Kamu Wajib Paham Operator Dart dan For Loop Sebelum Masuk ke Flutter](https://medium.com/@farandkf/kenapa-kamu-wajib-paham-operator-dart-dan-for-loop-sebelum-masuk-ke-flutter-c64e7a58638c?source=rss------programming-5) (2026-05-17)
+- [The Linter Has a New Job: Keeping AI Agents Honest](https://medium.com/@pankaj_pandey/the-linter-has-a-new-job-keeping-ai-agents-honest-8d84588304c4?source=rss------programming-5) (2026-05-17)
+- [Gemini CLI DevOps Extensions: AI Is Moving From Code Generation to Operational Workflows](https://levelup.gitconnected.com/gemini-cli-devops-extensions-ai-is-moving-from-code-generation-to-operational-workflows-3c0307fe6097?source=rss------programming-5) (2026-05-17)
+- [Data Structure Basics — With C](https://medium.com/@kodarpiece/data-structure-basics-with-c-20f7c1e34c74?source=rss------programming-5) (2026-05-17)
+- [Build a PII Redaction Pipeline in n8n: 7 Steps That Survive Audit](https://medium.com/@automation.labs/build-a-pii-redaction-pipeline-in-n8n-7-steps-that-survive-audit-97b559df7009?source=rss------programming-5) (2026-05-17)
+- [The Vulnerability That Looked Harmless…But Wasn’t](https://meetcyber.net/the-vulnerability-that-looked-harmless-but-wasnt-c1c0f3e4b12e?source=rss------programming-5) (2026-05-17)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) (2026-05-08)
 - [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) (2026-05-06)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
+- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
+- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
+- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
+- [JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability](https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/) (2026-05-12)
 
 </details>
 
