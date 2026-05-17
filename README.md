@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) (2026-05-17)
-- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/) (2026-05-17)
-- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827) (2026-05-17)
-- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) (2026-05-17)
-- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897) (2026-05-17)
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) (2026-05-17)
+- [Apple Silicon costs more than OpenRouter](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html) (2026-05-17)
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) (2026-05-17)
+- [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) (2026-05-17)
+- [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/) (2026-05-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale) (2026-05-17)
+- [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on) (2026-05-17)
+- [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys) (2026-05-17)
 - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools) (2026-05-16)
 - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant) (2026-05-16)
-- [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire) (2026-05-16)
-- [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on) (2026-05-16)
-- [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A revolutionary cancer treatment could transform autoimmune disease](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/) (2026-05-17)
 - [The US is betting on AI to catch insider trading in prediction markets](https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/) (2026-05-16)
 - [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) (2026-05-15)
 - [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) (2026-05-15)
 - [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) (2026-05-15)
-- [Review: Good Omens finale (mostly) sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) (2026-05-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I created BGMI Sensitivity Code Generator](https://dev.to/bgmitools/i-created-bgmi-sensitivity-code-generator-52bn) (2026-05-17)
-- [Validate JWTs from Multiple Issuers in kgateway](https://dev.to/emmsddev/validate-jwts-from-multiple-issuers-in-kgateway-561f) (2026-05-17)
-- [I Stopped Paying GPT-4 for Simple Queries — Here's the Router I Built](https://dev.to/ad_man_cf946186dc71743c9b/i-stopped-paying-gpt-4-for-simple-queries-heres-the-router-i-built-2f78) (2026-05-17)
-- [Your Vibe-Coded App Is a Ghost Unless Google Can See It](https://dev.to/teamhandyapps/your-vibe-coded-app-is-a-ghost-unless-google-can-see-it-4pda) (2026-05-17)
-- [GitHub enters the terminal agent wars with Copilot CLI](https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285) (2026-05-17)
+- [🏏 Building Captain Cool AI (Third Umpire AI): An Agentic AI-Powered Cricket Intelligence Platform Built at Agentic Premier League Pune](https://dev.to/amhikastkar/building-captain-cool-ai-third-umpire-ai-an-agentic-ai-powered-cricket-intelligence-platform-7ai) (2026-05-17)
+- [🏏 Building "Captain Cool": A Multi-Agent IPL Strategist with Google Antigravity & Gemini 2.5](https://dev.to/arnav_ahirrao/building-captain-cool-a-multi-agent-ipl-strategist-with-google-antigravity-gemini-25-6h5) (2026-05-17)
+- [Build with AI - APL GDG Pune](https://dev.to/aaryan_gupta_8/build-with-ai-apl-gdg-pune-3) (2026-05-17)
+- [STRAT- built for the last over](https://dev.to/saeeekumbhar/strat-built-for-the-last-over-4gmo) (2026-05-17)
+- [I Built an AI IPL War Room Using Gemini Multi-Agent Reasoning 🏏](https://dev.to/mrunalini_pachpute_bf0b2e/i-built-an-ai-ipl-war-room-using-gemini-multi-agent-reasoning-1af7) (2026-05-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Linter Has a New Job: Keeping AI Agents Honest](https://medium.com/@pankaj_pandey/the-linter-has-a-new-job-keeping-ai-agents-honest-8d84588304c4?source=rss------programming-5) (2026-05-17)
-- [Gemini CLI DevOps Extensions: AI Is Moving From Code Generation to Operational Workflows](https://levelup.gitconnected.com/gemini-cli-devops-extensions-ai-is-moving-from-code-generation-to-operational-workflows-3c0307fe6097?source=rss------programming-5) (2026-05-17)
-- [Data Structure Basics — With C](https://medium.com/@kodarpiece/data-structure-basics-with-c-20f7c1e34c74?source=rss------programming-5) (2026-05-17)
-- [Build a PII Redaction Pipeline in n8n: 7 Steps That Survive Audit](https://medium.com/@automation.labs/build-a-pii-redaction-pipeline-in-n8n-7-steps-that-survive-audit-97b559df7009?source=rss------programming-5) (2026-05-17)
-- [The Vulnerability That Looked Harmless…But Wasn’t](https://meetcyber.net/the-vulnerability-that-looked-harmless-but-wasnt-c1c0f3e4b12e?source=rss------programming-5) (2026-05-17)
+- [I Built a 10x Cheaper Enterprise Gemini Multimodal RAG File Search](https://medium.com/@GaoDalie_AI/i-built-a-10x-cheaper-enterprise-gemini-multimodal-rag-file-search-b4b4a654017a?source=rss------programming-5) (2026-05-17)
+- [Fragnesia (CVE-2026–46300): Why Your Dirty Frag Patch Left You Exposed](https://meetcyber.net/fragnesia-cve-2026-46300-why-your-dirty-frag-patch-left-you-exposed-7d86f7ea093f?source=rss------programming-5) (2026-05-17)
+- [The Refactor’s Manifesto: 5 Strategic Tips to Turn Spaghetti into Gold ️](https://medium.com/@nanda_amanta/the-refactors-manifesto-5-strategic-tips-to-turn-spaghetti-into-gold-%EF%B8%8F-884f1935fcc2?source=rss------programming-5) (2026-05-17)
+- [I Finally Understood the SAP B1 Sales Process — And It’s Simpler Than I Thought (Once You See the…](https://medium.com/@akshat.verma2004/i-finally-understood-the-sap-b1-sales-process-and-its-simpler-than-i-thought-once-you-see-the-1628965ccf21?source=rss------programming-5) (2026-05-17)
+- [Getting Back to Coding: Rebuilding My Mac Terminal from Scratch](https://medium.com/@es1amaged/getting-back-to-coding-rebuilding-my-mac-terminal-from-scratch-f77b29044775?source=rss------programming-5) (2026-05-17)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
-- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships](https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/) (2026-05-17)
 - [From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap](https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/) (2026-05-16)
 - [Recursive Language Models: An All-in-One Deep Dive](https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/) (2026-05-16)
 - [From Raw Data to Risk Classes](https://towardsdatascience.com/from-raw-data-to-risk-classes/) (2026-05-15)
 - [How I Continually Improve My Claude Code](https://towardsdatascience.com/how-i-continually-improve-my-claude-code/) (2026-05-15)
-- [Why My Coding Assistant Started Replying in Korean When I Typed Chinese](https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/) (2026-05-15)
 
 </details>
 
