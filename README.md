@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html) (2026-05-17)
-- [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster) (2026-05-17)
-- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) (2026-05-17)
-- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) (2026-05-17)
-- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) (2026-05-17)
+- [Colombian singer Shakira acquitted of tax fraud in Spain](https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/) (2026-05-18)
+- [Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late](https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back) (2026-05-18)
+- [Why is Google Maps back to showing old satellite images of Altadena?](https://www.reddit.com/r/pasadena/s/94BHlkE84r) (2026-05-18)
+- [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/) (2026-05-18)
+- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) (2026-05-18)
 
 </details>
 
@@ -43,7 +43,7 @@
 <summary>📱 The Verge</summary>
 
 - [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode) (2026-05-17)
-- [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) (2026-05-17)
+- [Revamped Siri will reportedly offer autodeleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) (2026-05-17)
 - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) (2026-05-17)
 - [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum) (2026-05-17)
 - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale) (2026-05-17)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Space Complexity Explained — Why Memory Matters in DSA](https://dev.to/bitveen/space-complexity-explained-why-memory-matters-in-dsa-3ab6) (2026-05-18)
-- [What channel are Email and SMS in GA4 — Google's official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51) (2026-05-18)
-- [Prolog Basics Through Pokémon: A Pragmatic Guide to Logic Programming](https://dev.to/pickuma/prolog-basics-through-pokemon-a-pragmatic-guide-to-logic-programming-2jga) (2026-05-18)
-- [Mozilla Defends VPNs to UK Regulators: Why Devs Need Privacy Tools](https://dev.to/pickuma/mozilla-defends-vpns-to-uk-regulators-why-devs-need-privacy-tools-hgf) (2026-05-18)
-- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2) (2026-05-18)
+- [How I built an anonymous daily leaderboard — and why it resets every night](https://dev.to/clackpit_dev/how-i-built-an-anonymous-daily-leaderboard-and-why-it-resets-every-night-3pni) (2026-05-18)
+- [One Person, One Vote? The Technical Struggle of Web Poll Integrity](https://dev.to/alikhan21/one-person-one-vote-the-technical-struggle-of-web-poll-integrity-bed) (2026-05-18)
+- [LLVM #5 — Mutable Variables](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-5-mutable-variables-ppg) (2026-05-18)
+- [What Building and Deploying a Real Production App Taught Me Beyond Tutorials](https://dev.to/panicengineer/what-building-and-deploying-a-real-production-app-taught-me-beyond-tutorials-57bk) (2026-05-18)
+- [Full-Text Search Functions](https://dev.to/hoangmanhkhiem/full-text-search-functions-55en) (2026-05-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 98 of Learning Java & DSA: Comparing Basic Sorting Algorithms](https://medium.com/@payalmehra3522/day-98-of-learning-java-dsa-comparing-basic-sorting-algorithms-d1aec7fe1aaa?source=rss------programming-5) (2026-05-18)
-- [The Internet Is Changing Faster Than We Think](https://medium.com/@steenhovenanthonyfwxwduw/the-internet-is-changing-faster-than-we-think-3dbe0c73cd1c?source=rss------programming-5) (2026-05-18)
-- [How I Cut My Vue App’s Bundle Size by 60% Without Rewriting a Single Component](https://sadiqueali.medium.com/how-i-cut-my-vue-apps-bundle-size-by-60-without-rewriting-a-single-component-642b0bf98e27?source=rss------programming-5) (2026-05-18)
-- [Why Frontend Teams Slowly Lose Development Speed Over Time](https://medium.com/angular-engineering/why-frontend-teams-slowly-lose-development-speed-over-time-df002849f4aa?source=rss------programming-5) (2026-05-18)
-- [10 Techniques for Managing Build Cache in CI/CD Pipelines](https://medium.com/@Rohan_Dutt/10-techniques-for-managing-build-cache-in-ci-cd-pipelines-a694c4b7758d?source=rss------programming-5) (2026-05-18)
+- [I Asked 12 Hiring Managers Why They Rejected Strong Candidates. None Said “Technical.](https://blog.stackademic.com/i-asked-12-hiring-managers-why-they-rejected-strong-candidates-none-said-technical-2bbe9ec8cdbc?source=rss------programming-5) (2026-05-18)
+- [I Watched a Staff Engineer Debug for 5 Hours. A Contractor Fixed It in 4 Minutes.](https://blog.stackademic.com/i-watched-a-staff-engineer-debug-for-5-hours-a-contractor-fixed-it-in-4-minutes-9d447c4e1b68?source=rss------programming-5) (2026-05-18)
+- [ .NET API Optimization: From 300ms to 50ms Step-by-Step](https://medium.com/@kerimkkara/net-api-optimization-from-300ms-to-50ms-step-by-step-7c6db2bd802c?source=rss------programming-5) (2026-05-18)
+- [Get 25x More Deploys in Your Organization.](https://kotrotsos.medium.com/get-25x-more-deploys-in-your-organization-975017a5609e?source=rss------programming-5) (2026-05-18)
+- [A Staff Engineer Interviewed Me for 45 Minutes. He Decided in the First 90 Seconds.](https://blog.stackademic.com/a-staff-engineer-interviewed-me-for-45-minutes-he-decided-in-the-first-90-seconds-46b2da8859e2?source=rss------programming-5) (2026-05-18)
 
 </details>
 
