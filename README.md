@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) (2026-05-17)
+- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) (2026-05-17)
 - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) (2026-05-17)
 - [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) (2026-05-17)
 - [For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/) (2026-05-17)
-- [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) (2026-05-16)
-- [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scientists "bottle the sun" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm) (2026-05-17)
-- [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake) (2026-05-17)
-- [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/) (2026-05-17)
-- [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782) (2026-05-17)
-- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) (2026-05-17)
+- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html) (2026-05-17)
+- [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster) (2026-05-17)
+- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) (2026-05-17)
+- [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) (2026-05-17)
+- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) (2026-05-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode) (2026-05-17)
 - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) (2026-05-17)
 - [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) (2026-05-17)
 - [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum) (2026-05-17)
 - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale) (2026-05-17)
-- [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on) (2026-05-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Built a Network Traffic Classifier with Random Forest (96.8% Accuracy)](https://dev.to/gulrez/built-a-network-traffic-classifier-with-random-forest-968-accuracy-52ai) (2026-05-17)
-- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag) (2026-05-17)
-- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai) (2026-05-17)
-- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33) (2026-05-17)
-- [The Runbook Is Already Lying to you.](https://dev.to/iyanu_david/the-runbook-is-already-lying-to-you-557o) (2026-05-17)
+- [Space Complexity Explained — Why Memory Matters in DSA](https://dev.to/bitveen/space-complexity-explained-why-memory-matters-in-dsa-3ab6) (2026-05-18)
+- [What channel are Email and SMS in GA4 — Google's official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51) (2026-05-18)
+- [Prolog Basics Through Pokémon: A Pragmatic Guide to Logic Programming](https://dev.to/pickuma/prolog-basics-through-pokemon-a-pragmatic-guide-to-logic-programming-2jga) (2026-05-18)
+- [Mozilla Defends VPNs to UK Regulators: Why Devs Need Privacy Tools](https://dev.to/pickuma/mozilla-defends-vpns-to-uk-regulators-why-devs-need-privacy-tools-hgf) (2026-05-18)
+- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2) (2026-05-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Lost 45 Minutes Looking at the Wrong Dashboard](https://medium.com/engineering-playbook/we-lost-45-minutes-looking-at-the-wrong-dashboard-4f6e2f17b91e?source=rss------programming-5) (2026-05-17)
-- [MOST PEOPLE USE CHATGPT WRONG — HERE’S HOW TO MAKE THE WRITING FEEL HUMAN](https://medium.com/no-time/most-people-use-chatgpt-wrong-heres-how-to-make-the-writing-feel-human-e6715bb6aeba?source=rss------programming-5) (2026-05-17)
-- [How I Stopped Cursor AI From Destroying My Code: The Exact Framework for Error-Free SaaS…](https://medium.com/@sergei.jeluashvili/how-i-stopped-cursor-ai-from-destroying-my-code-the-exact-framework-for-error-free-saas-5b49af173e62?source=rss------programming-5) (2026-05-17)
-- [Build a URL Shortener with Cloudflare Workers, KV & Analytics](https://medium.com/@ataur.codex/build-a-url-shortener-with-cloudflare-workers-kv-analytics-9eac76eb8abb?source=rss------programming-5) (2026-05-17)
-- [Converting a Local LLM into a Mini AI Runtime,](https://alielmali.medium.com/converting-a-local-llm-into-a-mini-ai-runtime-9fcc2a5a9ccd?source=rss------programming-5) (2026-05-17)
+- [Day 98 of Learning Java & DSA: Comparing Basic Sorting Algorithms](https://medium.com/@payalmehra3522/day-98-of-learning-java-dsa-comparing-basic-sorting-algorithms-d1aec7fe1aaa?source=rss------programming-5) (2026-05-18)
+- [The Internet Is Changing Faster Than We Think](https://medium.com/@steenhovenanthonyfwxwduw/the-internet-is-changing-faster-than-we-think-3dbe0c73cd1c?source=rss------programming-5) (2026-05-18)
+- [How I Cut My Vue App’s Bundle Size by 60% Without Rewriting a Single Component](https://sadiqueali.medium.com/how-i-cut-my-vue-apps-bundle-size-by-60-without-rewriting-a-single-component-642b0bf98e27?source=rss------programming-5) (2026-05-18)
+- [Why Frontend Teams Slowly Lose Development Speed Over Time](https://medium.com/angular-engineering/why-frontend-teams-slowly-lose-development-speed-over-time-df002849f4aa?source=rss------programming-5) (2026-05-18)
+- [10 Techniques for Managing Build Cache in CI/CD Pipelines](https://medium.com/@Rohan_Dutt/10-techniques-for-managing-build-cache-in-ci-cd-pipelines-a694c4b7758d?source=rss------programming-5) (2026-05-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [Pyrefly LSP Integration with Type Engine in PyCharm 2026.1.2](https://blog.jetbrains.com/pycharm/2026/05/pyrefly-lsp-integration-in-pycharm-2026-1-2/) (2026-05-15)
-- [IntelliJ IDEA 2026.1.2 Is Out!](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-1-2/) (2026-05-15)
-- [A New Default Project Structure for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2026/05/new-kmp-default-structure/) (2026-05-15)
-- [Help Shape the Future of Kotlin in the Age of AI](https://blog.jetbrains.com/kotlin/2026/05/help-shape-the-future-of-kotlin-in-the-age-of-ai/) (2026-05-15)
-- [Compose Multiplatform 1.11.0 Is Now Available](https://blog.jetbrains.com/kotlin/2026/05/compose-multiplatform-1-11-0/) (2026-05-15)
+- [Pyrefly LSP Integration with Type Engine in PyCharm 2026.1.2](https://blog.jetbrains.com/pycharm/2026/05/pyrefly-lsp-integration-in-pycharm-2026-1-2) (2026-05-15)
+- [IntelliJ IDEA 2026.1.2 Is Out!](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-1-2) (2026-05-15)
+- [A New Default Project Structure for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2026/05/new-kmp-default-structure) (2026-05-15)
+- [Help Shape the Future of Kotlin in the Age of AI](https://blog.jetbrains.com/kotlin/2026/05/help-shape-the-future-of-kotlin-in-the-age-of-ai) (2026-05-15)
+- [Compose Multiplatform 1.11.0 Is Now Available](https://blog.jetbrains.com/kotlin/2026/05/compose-multiplatform-1-11-0) (2026-05-15)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>💬 Slack API</summary>
 
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 - [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
-- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
 
 </details>
 
