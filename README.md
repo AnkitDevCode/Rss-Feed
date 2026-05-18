@@ -20,110 +20,110 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/) (2026-05-18)
+- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) (2026-05-18)
+- [NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/) (2026-05-18)
+- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/) (2026-05-18)
 - [Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/) (2026-05-18)
-- [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/) (2026-05-18)
-- [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/) (2026-05-18)
-- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) (2026-05-17)
-- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) (2026-05-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release) (2026-05-18)
-- [Actually, Democracy Dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html) (2026-05-18)
-- [Shame them, shun them, ban them, beat them](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat) (2026-05-18)
-- [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md) (2026-05-18)
-- [The era of free money may have ended](https://www.reuters.com/commentary/reuters-open-interest/g7-long-bond-stress-intensifies-2026-05-13/) (2026-05-18)
+- [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1) (2026-05-18)
+- [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2) (2026-05-18)
+- [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/) (2026-05-18)
+- [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus) (2026-05-18)
+- [Iran will impose fees on subsea internet cables in Strait of Hormuz](https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl) (2026-05-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Philips Hue smart lights and a whole lot more are over 20 percent off](https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale) (2026-05-18)
-- [The Verge’s 2026 college graduation gift guide](https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas) (2026-05-18)
-- [Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports](https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs) (2026-05-18)
-- [Exclusive: Jonah Peretti explains why he sold BuzzFeed](https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media) (2026-05-18)
-- [Starlink raises prices across satellite internet plans](https://www.theverge.com/science/932294/starlink-price-increase-standby-mode) (2026-05-18)
+- [PlayStation exclusives aren&#8217;t coming to PC anymore](https://www.theverge.com/games/932817/playstation-exclusive-games-pc) (2026-05-18)
+- [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people) (2026-05-18)
+- [Walmart launches new budget-friendly Android tablets starting at $97](https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets) (2026-05-18)
+- [Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day](https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale) (2026-05-18)
+- [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-05-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive](https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/) (2026-05-18)
-- [Did Artemis II break through? Registrations at Space Camp double afterward.](https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/) (2026-05-18)
-- [Bug bounty businesses bombarded with AI slop](https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/) (2026-05-18)
-- [The US space enterprise is desperately waiting for Starship—will it finally deliver?](https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/) (2026-05-18)
-- [A revolutionary cancer treatment could transform autoimmune disease](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/) (2026-05-17)
+- [Australian Aboriginals cared for a dingo's grave for decades](https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/) (2026-05-18)
+- [Elon Musk took too long to sue OpenAI, jury unanimously agrees](https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/) (2026-05-18)
+- [Pompeii victim ID'd as a likely doctor](https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/) (2026-05-18)
+- [Guy Gardner makes a cameo in new Lanterns teaser](https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/) (2026-05-18)
+- [The Dory Sign is E ink, smart screen simplicity at its finest](https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/) (2026-05-18)
+- [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) (2026-05-18)
+- [The Signals That Matter – MIT Insider’s Panel](https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/) (2026-05-18)
+- [Inside Anduril and Meta’s quest to make smart glasses for warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) (2026-05-18)
 - [The Download: Musk v. Altman week 3, and Trump’s tech trading](https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/) (2026-05-18)
-- [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.](https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/) (2026-05-15)
-- [The Download: China’s AI drama factory and the WHO’s missing health targets](https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/) (2026-05-15)
-- [The world is on track to miss its health targets](https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/) (2026-05-15)
-- [How Chinese short dramas became AI content machines](https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/) (2026-05-15)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/) (2026-05-18)
 - [Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/) (2026-05-15)
 - [Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program](https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/) (2026-05-15)
 - [GitHub availability report: April 2026](https://github.blog/news-insights/company-news/github-availability-report-april-2026/) (2026-05-14)
 - [From latency to instant: Modernizing GitHub Issues navigation performance](https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/) (2026-05-14)
-- [Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)](https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/) (2026-05-18)
 - [“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/) (2026-05-18)
 - [No Dumb Questions: What is cloud computing and why is everyone doing it? ](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/) (2026-05-15)
 - [Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/) (2026-05-15)
 - [How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/) (2026-05-13)
-- [You Shipped It Fast. But Did You Ship It Right?](https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/) (2026-05-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Long-running agents need more than memory](https://dev.to/mnemehq/long-running-agents-need-more-than-memory-23j3) (2026-05-18)
-- [Why Code Review Cannot Scale With AI Output](https://dev.to/mnemehq/why-code-review-cannot-scale-with-ai-output-4a1h) (2026-05-18)
-- [Harness Engineering Still Needs Governance](https://dev.to/mnemehq/harness-engineering-still-needs-governance-d3i) (2026-05-18)
-- [Review Is Not Governance](https://dev.to/mnemehq/review-is-not-governance-3hi1) (2026-05-18)
-- [How I Built a Privacy-First Word Counter Chrome Extension (with CJK Support)](https://dev.to/boris_korolev_c67805e62a6/how-i-built-a-privacy-first-word-counter-chrome-extension-with-cjk-support-384g) (2026-05-18)
+- [Is Claude Pro Worth $20/Month? A Developer's Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688) (2026-05-18)
+- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508) (2026-05-18)
+- [Why MTP doesn't speed up your llama.cpp inference (and how to actually fix it)](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m) (2026-05-18)
+- [Longest Substring Without Repeating Characters — LeetCode #3 (Medium)](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61) (2026-05-18)
+- [High-Value If, Low-Value Foreach: Why Agents Trade in Judgment Structures, Not Models](https://dev.to/suhui/high-value-if-low-value-foreach-why-agents-trade-in-judgment-structures-not-models-3mf0) (2026-05-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Really Happens When You Open a Website?](https://medium.com/@sanchitgangwar457/what-really-happens-when-you-open-a-website-393f9fe9e778?source=rss------programming-5) (2026-05-18)
-- [Google Just Launched GenUI. No More Widgets From Scratch.](https://medium.com/@simra.cse/google-just-launched-genui-no-more-widgets-from-scratch-68c0220100c7?source=rss------programming-5) (2026-05-18)
-- [Git for Beginners: Basics and Essential Commands](https://medium.com/@samirbala836/git-for-beginners-basics-and-essential-commands-e498eb0e7eed?source=rss------programming-5) (2026-05-18)
-- [What Happens Behind setState()?— The Three Trees Explained](https://medium.com/@AmrMahmoud3/what-happens-behind-setstate-the-three-trees-explained-6d0ebe1e6b86?source=rss------programming-5) (2026-05-18)
-- [I Went to Best Buy to Change My Life. They Were Sold Out.](https://medium.com/@getshipstack/i-went-to-best-buy-to-change-my-life-they-were-sold-out-8267175c84b0?source=rss------programming-5) (2026-05-18)
+- [How I Built a Fake OS Update Screen Simulator with ASP.NET — and Why It Went Viral](https://blog.stackademic.com/how-i-built-a-fake-os-update-screen-simulator-with-asp-net-and-why-it-went-viral-223e75239940?source=rss------programming-5) (2026-05-18)
+- [Crossing Thresholds: A Spellcaster’s Guide to Conscious Body Exchange Workings](https://medium.com/@doctorkhann1/crossing-thresholds-a-spellcasters-guide-to-conscious-body-exchange-workings-24c0c0100864?source=rss------programming-5) (2026-05-18)
+- [Cursor Composer 2.5 vs Claude Opus 4.7 vs GPT-5.5: Benchmark & Price Comparison 2026](https://medium.com/@tort_mario/cursor-composer-2-5-vs-claude-opus-4-7-vs-gpt-5-5-benchmark-price-comparison-2026-9c6abaa0d972?source=rss------programming-5) (2026-05-18)
+- [HTTP vs gRPC vs WebSocket: Choosing the Right Protocol for Your Spring Boot Service](https://medium.com/javarevisited/http-vs-grpc-vs-websocket-choosing-the-right-protocol-for-your-spring-boot-service-05f86e89ceaa?source=rss------programming-5) (2026-05-18)
+- [Can AI Build Better Athletes?](https://medium.com/@meetkhatri2023/can-ai-build-better-athletes-f103502fb8ac?source=rss------programming-5) (2026-05-18)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/) (2026-05-18)
 - [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/) (2026-05-14)
 - [Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine](https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/) (2026-05-12)
 - [AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/) (2026-05-11)
 - [The AWS MCP Server is now generally available](https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/) (2026-05-06)
-- [Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)](https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/) (2026-05-05)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Introducing the 2026 Apple Design Award finalists](https://developer.apple.com/news/?id=8t3j66i7) (2026-05-18)
+- [Coming bright up](https://developer.apple.com/news/?id=7lcnqgxp) (2026-05-18)
 - [Hello Developer: May 2026](https://developer.apple.com/news/?id=qtzr82f0) (2026-05-12)
 - [Get the most out of your Apple Developer account](https://developer.apple.com/news/?id=sw8ldfjk) (2026-05-12)
 - [Brazilian betting license requirement for App Store availability](https://developer.apple.com/news/?id=x4eyetnp) (2026-05-08)
-- [To those who build community](https://developer.apple.com/news/?id=9lhp8vcj) (2026-05-05)
-- [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe) (2026-04-27)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Dedicated for Government now GovRAMP-authorized](https://about.gitlab.com/blog/govramp-gitlab-dedicated-for-government/) (2026-05-18)
+- [Beyond BYOK: Why governance matters for AI agents](https://about.gitlab.com/blog/gitlab-duo-cli-governance/) (2026-05-18)
+- [Fix bugs with Codex and GitLab](https://about.gitlab.com/blog/fix-bugs-with-codex-and-gitlab/) (2026-05-18)
 - [5 ways to fix misleading vulnerability severities with policy](https://about.gitlab.com/blog/severity-override-vulnerability-management-policy/) (2026-05-13)
 - [Harden your pipeline perimeter for the era of AI-assisted coding](https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/) (2026-05-13)
-- [GitLab Patch Release: 18.11.3, 18.10.6, 18.9.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released/) (2026-05-13)
-- [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/) (2026-05-11)
-- [Consolidate your GitLab stack with Gitaly on Kubernetes](https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/) (2026-05-07)
 
 </details>
 
@@ -525,22 +525,22 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [vLLM and PyTorch Work Together to Improve the Developer Experience on aarch64](https://pytorch.org/blog/vllm-and-pytorch-work-together-to-improve-the-developer-experience-on-aarch64/) (2026-05-18)
+- [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/) (2026-05-18)
 - [PyTorch 2.12 Release Blog](https://pytorch.org/blog/pytorch-2-12-release-blog/) (2026-05-13)
 - [Efficient Edge AI on Arm CPUs and NPUs: Understanding ExecuTorch through Practical Labs](https://pytorch.org/blog/efficient-edge-ai-on-arm-cpus-and-npus/) (2026-05-12)
 - [In-Kernel Broadcast Optimization: Co-Designing Kernels for RecSys Inference](https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference/) (2026-05-05)
-- [SMG: The Case for Disaggregating CPU from GPU in LLM Serving](https://pytorch.org/blog/lightseek-smg/) (2026-04-30)
-- [Introducing AutoSP](https://pytorch.org/blog/introducing-autosp/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) (2026-05-18)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
 - [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (2026-05-18)
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) (2026-05-14)
 - [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) (2026-05-14)
-- [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) (2026-05-11)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Six Choices Every AI Engineer Has to Make (and Nobody Teaches)](https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/) (2026-05-18)
 - [One Flexible Tool Beats a Hundred Dedicated Ones](https://towardsdatascience.com/one-flexible-tool-beats-a-hundred-dedicated-ones/) (2026-05-18)
 - [Why Your AI Demo Will Die in Production](https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/) (2026-05-18)
 - [How to Maximize OpenAI’s Codex](https://towardsdatascience.com/how-to-maximize-openais-codex/) (2026-05-18)
 - [Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling](https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/) (2026-05-17)
-- [LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships](https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/) (2026-05-17)
 
 </details>
 
