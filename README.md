@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Apple announces Apple Intelligence powered accessibility feature updates](https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/) (2026-05-19)
-- [‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip](https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/) (2026-05-19)
-- [Forget the feed: Status AI raises $17M to turn social media into interactive entertainment](https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/) (2026-05-19)
-- [Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had](https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/) (2026-05-19)
-- [Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business](https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/) (2026-05-19)
+- [Google takes a page out of Meta’s book, announces new audio-powered smart glasses](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/) (2026-05-19)
+- [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/) (2026-05-19)
+- [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/) (2026-05-19)
+- [How to use Google’s new information agents](https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/) (2026-05-19)
+- [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Going full AI engineer, not touching code anymore](https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/) (2026-05-19)
-- [Show HN: I made a 3D pose maker for artists](https://setpose.com/) (2026-05-19)
-- [New Lifetime Plex Pass Pricing](https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/) (2026-05-19)
-- [OpenBSD 7.9 Released](https://www.openbsd.org/79.html) (2026-05-19)
-- [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus) (2026-05-19)
+- [Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight) (2026-05-19)
+- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) (2026-05-19)
+- [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html) (2026-05-19)
+- ['Capitalism has to become more humane': a Stanford economist on big tech](https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz) (2026-05-19)
+- [Gemini Omni](https://deepmind.google/models/gemini-omni/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anker fixes the two worst things about power stations](https://www.theverge.com/tech/928420/anker-solix-s2000-power-station) (2026-05-19)
-- [Nintendo keeps finding new ways to reinvent platformers](https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2) (2026-05-19)
-- [Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips](https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date) (2026-05-19)
-- [The Mandalorian and Grogu should have been a season of TV](https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review) (2026-05-19)
-- [Marshall brings ANC back to its smaller on-ear wireless headphones](https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones) (2026-05-19)
+- [Kickstarter just killed its new mature content rules](https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules) (2026-05-19)
+- [Gemini will use Volvo’s external cameras to interpret parking signs](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking) (2026-05-19)
+- [The 13 biggest announcements at Google I/O 2026](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini) (2026-05-19)
+- [Google wants to compete with Anthropic’s Mythos](https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos) (2026-05-19)
+- [Google can now vibe-code you an Android app](https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026) (2026-05-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [In addition to space stations, Vast says it will now build high-power satellites](https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/) (2026-05-19)
-- [Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz](https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/) (2026-05-19)
-- [Ebola outbreak: WHO declares emergency, US restricts travel, American infected](https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/) (2026-05-18)
-- [Legal fail: Don’t use AI to sue Facebook users for calling you a bad date](https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/) (2026-05-18)
-- [One Mars spacecraft, two senators, and a cloud of questions](https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/) (2026-05-18)
+- [Two AI-based science assistants succeed with drug-retargeting tasks](https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/) (2026-05-19)
+- [Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more](https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/) (2026-05-19)
+- [In stunning display of stupid, secret CISA credentials found in public GitHub repo](https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/) (2026-05-19)
+- [RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks](https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/) (2026-05-19)
+- [Gemini 3.5 Flash might be fast enough for gen AI to make sense](https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/) (2026-05-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Live Monitor for 77 Free Public APIs in a Weekend (Architecture + Bugs)](https://dev.to/a10ayassine/i-built-a-live-monitor-for-77-free-public-apis-in-a-weekend-architecture-bugs-pkn) (2026-05-19)
-- [From Repo Scanner to Audit Architecture: What Changed in STEM BIO-AI Through v1.7.8](https://dev.to/flamehaven01/from-repo-scanner-to-audit-architecture-what-changed-in-stem-bio-ai-through-v178-500m) (2026-05-19)
-- [I replaced a $200/month audio processing server with 40 lines of browser JavaScript](https://dev.to/khoanna/i-replaced-a-200month-audio-processing-server-with-40-lines-of-browser-javascript-56ef) (2026-05-19)
-- [AppleScript Injection and Directory Traversal — Security Bugs I Fixed in My Own Apps](https://dev.to/hiyoyok/applescript-injection-and-directory-traversal-security-bugs-i-fixed-in-my-own-apps-5ejh) (2026-05-19)
-- [The Protocol Behind Python's Containers](https://dev.to/csalda3a/the-protocol-behind-pythons-containers-10km) (2026-05-19)
+- [Pop any UI component into a floating Picture-in-Picture window.](https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl) (2026-05-19)
+- [Common Null Safety Mistakes](https://dev.to/petprog/common-null-safety-mistakes-103n) (2026-05-19)
+- [Should You Use RAG or Fine-Tune Your LLM?](https://dev.to/actiandev/should-you-use-rag-or-fine-tune-your-llm-3g8j) (2026-05-19)
+- [What 37signals’ Cloud Repatriation Taught Us About AI Infrastructure](https://dev.to/actiandev/what-37signals-cloud-repatriation-taught-us-about-ai-infrastructure-2hp) (2026-05-19)
+- [How to Build a HIPAA Compliant AI Ecosystem Without the Cloud](https://dev.to/actiandev/how-to-build-a-hipaa-compliant-ai-ecosystem-without-the-cloud-2dih) (2026-05-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Rust Service Handling 1.5](https://medium.com/@devlogicwrites/i-built-a-rust-service-handling-1-5-526d1f42e8e1?source=rss------programming-5) (2026-05-19)
-- [Materi PDRL Bab 8 dan Bab 9](https://medium.com/@salsabilashifa1997/materi-pdrl-bab-8-dan-bab-9-4a5bfe822150?source=rss------programming-5) (2026-05-19)
-- [I Replaced My Bash Scripts With Python and My Team Actually Thanked Me](https://viju-londhe.medium.com/i-replaced-my-bash-scripts-with-python-and-my-team-actually-thanked-me-693482a208c4?source=rss------programming-5) (2026-05-19)
-- [The Rise of AI Agent System](https://medium.com/@niksgupta/the-rise-of-ai-agent-system-8be56475c5cb?source=rss------programming-5) (2026-05-19)
-- [The Opaque Transparency](https://wallerart.medium.com/the-opaque-transparency-6a0ede26fa71?source=rss------programming-5) (2026-05-19)
+- [Software Engineers Don’t Need to Fear AI. They Need to Stop Underestimating It.](https://medium.com/@jael.svd/software-engineers-dont-need-to-fear-ai-they-need-to-stop-underestimating-it-7806f6dc2c3d?source=rss------programming-5) (2026-05-19)
+- [Can AI Feel the Weight of a Word? I Tested It With a Song.](https://medium.com/@srinikithachalla09/can-ai-feel-the-weight-of-a-word-i-tested-it-with-a-song-2d29b68cf778?source=rss------programming-5) (2026-05-19)
+- [COBOL vs Modern Languages: What Developers Can Learn from COBOL’s English-Like Design](https://medium.com/@eugenio.andrieu_63440/cobol-vs-modern-languages-what-developers-can-learn-from-cobols-english-like-design-f9515ce4ddfa?source=rss------programming-5) (2026-05-19)
+- [20 JavaScript Recon Tricks to Find Hidden APIs, Secrets, Admin Routes, and Bug Bounty Targets ](https://medium.com/@bughuntersjournal/20-javascript-recon-tricks-to-find-hidden-apis-secrets-admin-routes-and-bug-bounty-targets-8a8d0eee64a5?source=rss------programming-5) (2026-05-19)
+- [90% of Java Developers Only Know 1 Form of synchronized — Here Are All 4](https://blog.stackademic.com/90-of-java-developers-only-know-1-form-of-synchronized-here-are-all-4-1b1e313cd79a?source=rss------programming-5) (2026-05-19)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
-- [How FotMob leveraged cross-device discovery to score record Wear OS adoption](https://android-developers.googleblog.com/2026/05/fotmob-wear-os-adoption-cross-device-discovery.html) (2026-05-15)
-- [Bring Native Visibility to Your VoIP App Experience with Telecom's Latest Alpha](https://android-developers.googleblog.com/2026/05/voip-native-visibility-telecom-alpha.html) (2026-05-14)
-- [Building for the Intelligence System on Android](https://android-developers.googleblog.com/2026/05/the-android-show-developers-cut-2026.html) (2026-05-12)
-- [Gratitude saw 25% higher retention for widget users](https://android-developers.googleblog.com/2026/05/how-gratitude-widgets-boosted-user-retention-25-percent.html) (2026-05-08)
-- [A look ahead: Making it easier and faster to publish safer apps](https://android-developers.googleblog.com/2026/05/making-it-easier-to-build-publish-safer-apps.html) (2026-05-07)
+- [17 Things to know for Android developers at Google I/O](https://android-developers.googleblog.com/2026/05/17-things-android-developers-google-io.html) (2026-05-19)
+- [Build native Android apps in Google AI Studio ](https://android-developers.googleblog.com/2026/05/build-android-apps-google-ai-studio.html) (2026-05-19)
+- [ Increasing app discovery and engagement on Google TV](https://android-developers.googleblog.com/2026/05/increase-google-tv-app-discovery.html) (2026-05-19)
+- [Android CLI Now Stable 1.0: Accelerate developing for Android using any agent](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) (2026-05-19)
+- [Build for the future with the Android XR Developer Catalyst Program — Apply now!](https://android-developers.googleblog.com/2026/05/apply-android-xr-developer-catalyst.html) (2026-05-19)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/) (2026-05-19)
 - [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/) (2026-05-18)
 - [Custom MCP Catalogs and Profiles: Advancing Enterprise MCP Adoption](https://www.docker.com/blog/create-custom-mcp-catalogs-and-profiles/) (2026-05-15)
 - [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/) (2026-05-13)
 - [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/) (2026-05-12)
-- [Comparing Different Approaches to Sandboxing](https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/) (2026-05-07)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure](https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4) (2026-05-19)
 - [Viaduct 1.0 and the future of Airbnb’s data mesh](https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4) (2026-05-13)
 - [Monitoring reliably at scale](https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4) (2026-05-05)
 - [Skipper: Building Airbnb’s embedded workflow engine](https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4) (2026-04-28)
 - [Building a fault-tolerant metrics storage system at Airbnb](https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4) (2026-04-21)
-- [Privacy-first connections: Empowering social experiences at Airbnb](https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4) (2026-04-14)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Build a Voice and SMS AI Agent with Twilio Agent Connect and Microsoft Azure
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai-twilio-agent-connect-microsoft-azure
-) (2026-05-18)
-- [
 Voice AI vs conversational AI: what's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
@@ -386,18 +381,23 @@ What is voice AI and how does it work in 2026?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 ) (2026-05-13)
+- [
+What is RCS messaging?
+](
+https://www.twilio.com/en-us/blog/what-is-rcs-messaging
+) (2026-05-13)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [A Guide to Auth0 Authorization with Scopes, Roles, and Client Grants Explained](https://auth0.com/blog/auth0-authorization-guide-scopes-roles-client-grants/) (2026-05-19)
 - [What AI Tools, MCP Servers, and Skills Actually Do](https://auth0.com/blog/what-ai-tools-mcp-servers-and-skills-actually-do/) (2026-05-19)
 - [AI Agent Identity for SaaS: What's Different and What to Do About It](https://auth0.com/blog/ai-agent-identity-saas/) (2026-05-12)
 - [Auth0 FGA Permissions Index Is Now in Developer Preview](https://auth0.com/blog/auth0-fga-permissions-index-developer-preview/) (2026-05-11)
 - [AI Agents Have Two Souls. You Only Control One.
 ](https://auth0.com/blog/ai-agents-have-two-souls-you-control-only-one/) (2026-05-08)
-- [Integrating Resend with Auth0 for Email Delivery](https://auth0.com/blog/integrating-resend-with-auth0-email-delivery/) (2026-05-07)
 
 </details>
 
@@ -536,22 +536,22 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [OlmoEarth v1.1: A more efficient family of models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
 - [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) (2026-05-18)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
 - [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (2026-05-18)
-- [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) (2026-05-14)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service](https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/) (2026-05-19)
+- [Introduction to Lean for Programmers](https://towardsdatascience.com/introduction-to-lean-for-programmers/) (2026-05-19)
+- [Grounding LLMs with Fresh Web Data to Reduce Hallucinations](https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/) (2026-05-19)
 - [Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs](https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/) (2026-05-19)
 - [Six Choices Every AI Engineer Has to Make (and Nobody Teaches)](https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/) (2026-05-18)
-- [One Flexible Tool Beats a Hundred Dedicated Ones](https://towardsdatascience.com/one-flexible-tool-beats-a-hundred-dedicated-ones/) (2026-05-18)
-- [Why Your AI Demo Will Die in Production](https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/) (2026-05-18)
-- [How to Maximize OpenAI’s Codex](https://towardsdatascience.com/how-to-maximize-openais-codex/) (2026-05-18)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
-- [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) (2026-05-06)
-- [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) (2026-04-30)
-- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) (2026-04-27)
-- [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) (2026-04-22)
-- [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) (2026-04-21)
+- [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) (2026-05-18)
+- [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) (2026-05-17)
+- [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) (2026-05-17)
+- [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) (2026-05-17)
+- [Gemini for Science: AI experiments and tools for a new era of discovery](https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/) (2026-05-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
