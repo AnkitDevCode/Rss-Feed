@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.](https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/) (2026-05-19)
 - [OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/) (2026-05-18)
 - [SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/) (2026-05-18)
 - [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/) (2026-05-18)
 - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) (2026-05-18)
-- [NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft surprises with its first server Linux distribution: Azure Linux 4.0](https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/) (2026-05-19)
-- [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) (2026-05-18)
-- [Click (2016)](https://clickclickclick.click/) (2026-05-18)
-- [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160) (2026-05-18)
-- [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices) (2026-05-18)
+- [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/) (2026-05-19)
+- [Mug Shots: A Small Town Noir (2014)](https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir) (2026-05-19)
+- [PyTorch Landscape](https://pytorch.landscape2.io) (2026-05-19)
+- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs) (2026-05-19)
+- [LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap](https://www.llmcap.io/) (2026-05-19)
 
 </details>
 
@@ -86,33 +86,22 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/) (2026-05-19)
 - [Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/) (2026-05-18)
 - [“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/) (2026-05-18)
 - [No Dumb Questions: What is cloud computing and why is everyone doing it? ](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/) (2026-05-15)
 - [Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/) (2026-05-15)
-- [How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/) (2026-05-13)
-
-</details>
-
-<details>
-<summary>👨‍💻 Dev.to</summary>
-
-- [72% of Enterprises Think They Control Their AI. Ask Them What Their Agents Are Spending.](https://dev.to/kavinkimcreator/72-of-enterprises-think-they-control-their-ai-ask-them-what-their-agents-are-spending-21fj) (2026-05-19)
-- [We are all naked on the plains…](https://dev.to/vektor_memory_43f51a32376/we-are-all-naked-on-the-plains-508l) (2026-05-19)
-- [Clash 规则配置解析：DOMAIN、GEOIP、MATCH 是什么意思？](https://dev.to/amoorzheyu/clash-gui-ze-pei-zhi-jie-xi-domain-geoip-match-shi-shi-yao-yi-si--422e) (2026-05-19)
-- [Deploying StockUp: A Step-by-Step Guide](https://dev.to/puslore/deploying-stockup-a-step-by-step-guide-4nkk) (2026-05-19)
-- [Linear Search vs Binary Search — Differences, Code & Complexity](https://dev.to/bitveen/linear-search-vs-binary-search-differences-code-complexity-2ken) (2026-05-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [JavaScript Memory Leaks: The Silent Killer Your Browser DevTools Are Trying to Warn You About](https://sadiqueali.medium.com/javascript-memory-leaks-the-silent-killer-your-browser-devtools-are-trying-to-warn-you-about-7b9d994d28a2?source=rss------programming-5) (2026-05-19)
-- [Day 10: Linux Process Management Explained in Simple English (With Real Commands)](https://pawannatekar220.medium.com/day-10-linux-process-management-explained-in-simple-english-with-real-commands-64a8aa1acdcb?source=rss------programming-5) (2026-05-19)
-- [This Should be Illegal: Building a Layout Engine Faster Than the Browser Itself -- In JavaScript](https://medium.com/@cosmiciron/this-should-be-illegal-building-a-layout-engine-faster-than-the-browser-itself-in-javascript-c2240d7c2978?source=rss------programming-5) (2026-05-19)
-- [Reactive Frameworks Are Taxing You To Death.](https://wildflowerjs.medium.com/reactive-frameworks-are-taxing-you-to-death-7223f07ba619?source=rss------programming-5) (2026-05-19)
-- [Beyond Simple RAG:Creating an Evidence-Driven Coordination Environment for Local AI](https://alielmali.medium.com/beyond-simple-rag-creating-an-evidence-driven-coordination-environment-for-local-ai-60262bfa4b08?source=rss------programming-5) (2026-05-19)
+- [I Stopped Writing Bad Code After Learning These 7 Rules](https://medium.com/skillstuff/i-stopped-writing-bad-code-after-learning-these-7-rules-5d7983b4e0c7?source=rss------programming-5) (2026-05-19)
+- [This One Mistake Is Silently Breaking Your App](https://medium.com/skillstuff/this-one-mistake-is-silently-breaking-your-app-0da2f4fef2f5?source=rss------programming-5) (2026-05-19)
+- [The Java Problems That Nearly Destroyed Our Production at 2 AM (And What They Taught Me)](https://hiteshdhamshaniya-wvmagic.medium.com/the-java-problems-that-nearly-destroyed-our-production-at-2-am-and-what-they-taught-me-c423cd41505d?source=rss------programming-5) (2026-05-19)
+- [The Developer’s Trap: Why Hand-Coding Your MVP is a Mistake in 2026](https://medium.com/@codewithdisloyal/the-developers-trap-why-hand-coding-your-mvp-is-a-mistake-in-2026-9369dd2c2453?source=rss------programming-5) (2026-05-19)
+- [A Programmer’s Inferno — Circle Four: Cloud Conspiracy & Jevons Paradox](https://medium.com/@3z.eldeen/a-programmers-inferno-circle-four-cloud-conspiracy-jevons-paradox-acf8de4e4521?source=rss------programming-5) (2026-05-19)
 
 </details>
 
@@ -306,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [From the Big 4 to Global Tech: What Changes When You Move In-House?](https://blog.jetbrains.com/life-at-jetbrains/2026/05/big4-to-jetbrains/) (2026-05-19)
 - [Pyrefly LSP Integration with Type Engine in PyCharm 2026.1.2](https://blog.jetbrains.com/pycharm/2026/05/pyrefly-lsp-integration-in-pycharm-2026-1-2/) (2026-05-15)
 - [IntelliJ IDEA 2026.1.2 Is Out!](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-1-2/) (2026-05-15)
 - [A New Default Project Structure for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2026/05/new-kmp-default-structure/) (2026-05-15)
 - [Help Shape the Future of Kotlin in the Age of AI](https://blog.jetbrains.com/kotlin/2026/05/help-shape-the-future-of-kotlin-in-the-age-of-ai/) (2026-05-15)
-- [Compose Multiplatform 1.11.0 Is Now Available](https://blog.jetbrains.com/kotlin/2026/05/compose-multiplatform-1-11-0/) (2026-05-15)
 
 </details>
 
@@ -541,17 +530,6 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (2026-05-18)
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) (2026-05-14)
 - [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) (2026-05-14)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [AI is a matter of power, infrastructure and security: TechEx North America](https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/) (2026-05-19)
-- [Amazon launches Alexa for Shopping as Rufus moves behind the scenes](https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/) (2026-05-18)
-- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
-- [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
-- [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
 
 </details>
 
