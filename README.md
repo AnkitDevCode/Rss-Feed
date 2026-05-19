@@ -20,51 +20,51 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/) (2026-05-18)
+- [SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/) (2026-05-18)
 - [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/) (2026-05-18)
 - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) (2026-05-18)
 - [NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/) (2026-05-18)
-- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/) (2026-05-18)
-- [Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1) (2026-05-18)
-- [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2) (2026-05-18)
-- [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/) (2026-05-18)
-- [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus) (2026-05-18)
-- [Iran will impose fees on subsea internet cables in Strait of Hormuz](https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl) (2026-05-18)
+- [Microsoft surprises with its first server Linux distribution: Azure Linux 4.0](https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/) (2026-05-19)
+- [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) (2026-05-18)
+- [Click (2016)](https://clickclickclick.click/) (2026-05-18)
+- [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160) (2026-05-18)
+- [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices) (2026-05-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b) (2026-05-19)
+- [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60) (2026-05-18)
 - [PlayStation exclusives aren&#8217;t coming to PC anymore](https://www.theverge.com/games/932817/playstation-exclusive-games-pc) (2026-05-18)
 - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people) (2026-05-18)
 - [Walmart launches new budget-friendly Android tablets starting at $97](https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets) (2026-05-18)
-- [Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day](https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale) (2026-05-18)
-- [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-05-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ebola outbreak: WHO declares emergency, US restricts travel, American infected](https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/) (2026-05-18)
+- [Legal fail: Don’t use AI to sue Facebook users for calling you a bad date](https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/) (2026-05-18)
+- [One Mars spacecraft, two senators, and a cloud of questions](https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/) (2026-05-18)
 - [Australian Aboriginals cared for a dingo's grave for decades](https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/) (2026-05-18)
 - [Elon Musk took too long to sue OpenAI, jury unanimously agrees](https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/) (2026-05-18)
-- [Pompeii victim ID'd as a likely doctor](https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/) (2026-05-18)
-- [Guy Gardner makes a cameo in new Lanterns teaser](https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/) (2026-05-18)
-- [The Dory Sign is E ink, smart screen simplicity at its finest](https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/) (2026-05-18)
+- [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) (2026-05-19)
 - [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) (2026-05-18)
 - [The Signals That Matter – MIT Insider’s Panel](https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/) (2026-05-18)
 - [Inside Anduril and Meta’s quest to make smart glasses for warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) (2026-05-18)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Is Claude Pro Worth $20/Month? A Developer's Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688) (2026-05-18)
-- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508) (2026-05-18)
-- [Why MTP doesn't speed up your llama.cpp inference (and how to actually fix it)](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m) (2026-05-18)
-- [Longest Substring Without Repeating Characters — LeetCode #3 (Medium)](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61) (2026-05-18)
-- [High-Value If, Low-Value Foreach: Why Agents Trade in Judgment Structures, Not Models](https://dev.to/suhui/high-value-if-low-value-foreach-why-agents-trade-in-judgment-structures-not-models-3mf0) (2026-05-18)
+- [72% of Enterprises Think They Control Their AI. Ask Them What Their Agents Are Spending.](https://dev.to/kavinkimcreator/72-of-enterprises-think-they-control-their-ai-ask-them-what-their-agents-are-spending-21fj) (2026-05-19)
+- [We are all naked on the plains…](https://dev.to/vektor_memory_43f51a32376/we-are-all-naked-on-the-plains-508l) (2026-05-19)
+- [Clash 规则配置解析：DOMAIN、GEOIP、MATCH 是什么意思？](https://dev.to/amoorzheyu/clash-gui-ze-pei-zhi-jie-xi-domain-geoip-match-shi-shi-yao-yi-si--422e) (2026-05-19)
+- [Deploying StockUp: A Step-by-Step Guide](https://dev.to/puslore/deploying-stockup-a-step-by-step-guide-4nkk) (2026-05-19)
+- [Linear Search vs Binary Search — Differences, Code & Complexity](https://dev.to/bitveen/linear-search-vs-binary-search-differences-code-complexity-2ken) (2026-05-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Built a Fake OS Update Screen Simulator with ASP.NET — and Why It Went Viral](https://blog.stackademic.com/how-i-built-a-fake-os-update-screen-simulator-with-asp-net-and-why-it-went-viral-223e75239940?source=rss------programming-5) (2026-05-18)
-- [Crossing Thresholds: A Spellcaster’s Guide to Conscious Body Exchange Workings](https://medium.com/@doctorkhann1/crossing-thresholds-a-spellcasters-guide-to-conscious-body-exchange-workings-24c0c0100864?source=rss------programming-5) (2026-05-18)
-- [Cursor Composer 2.5 vs Claude Opus 4.7 vs GPT-5.5: Benchmark & Price Comparison 2026](https://medium.com/@tort_mario/cursor-composer-2-5-vs-claude-opus-4-7-vs-gpt-5-5-benchmark-price-comparison-2026-9c6abaa0d972?source=rss------programming-5) (2026-05-18)
-- [HTTP vs gRPC vs WebSocket: Choosing the Right Protocol for Your Spring Boot Service](https://medium.com/javarevisited/http-vs-grpc-vs-websocket-choosing-the-right-protocol-for-your-spring-boot-service-05f86e89ceaa?source=rss------programming-5) (2026-05-18)
-- [Can AI Build Better Athletes?](https://medium.com/@meetkhatri2023/can-ai-build-better-athletes-f103502fb8ac?source=rss------programming-5) (2026-05-18)
+- [JavaScript Memory Leaks: The Silent Killer Your Browser DevTools Are Trying to Warn You About](https://sadiqueali.medium.com/javascript-memory-leaks-the-silent-killer-your-browser-devtools-are-trying-to-warn-you-about-7b9d994d28a2?source=rss------programming-5) (2026-05-19)
+- [Day 10: Linux Process Management Explained in Simple English (With Real Commands)](https://pawannatekar220.medium.com/day-10-linux-process-management-explained-in-simple-english-with-real-commands-64a8aa1acdcb?source=rss------programming-5) (2026-05-19)
+- [This Should be Illegal: Building a Layout Engine Faster Than the Browser Itself -- In JavaScript](https://medium.com/@cosmiciron/this-should-be-illegal-building-a-layout-engine-faster-than-the-browser-itself-in-javascript-c2240d7c2978?source=rss------programming-5) (2026-05-19)
+- [Reactive Frameworks Are Taxing You To Death.](https://wildflowerjs.medium.com/reactive-frameworks-are-taxing-you-to-death-7223f07ba619?source=rss------programming-5) (2026-05-19)
+- [Beyond Simple RAG:Creating an Evidence-Driven Coordination Environment for Local AI](https://alielmali.medium.com/beyond-simple-rag-creating-an-evidence-driven-coordination-environment-for-local-ai-60262bfa4b08?source=rss------programming-5) (2026-05-19)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’](https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/) (2026-05-18)
+- [Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs](https://blogs.nvidia.com/blog/vera-cpu-delivery/) (2026-05-18)
 - [Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/) (2026-05-14)
 - [NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure](https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/) (2026-05-13)
 - [Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/) (2026-05-13)
-- [NVIDIA and SAP Bring Trust to Specialized Agents](https://blogs.nvidia.com/blog/sap-specialized-agents/) (2026-05-12)
-- [‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/) (2026-05-10)
 
 </details>
 
@@ -330,7 +330,7 @@
 
 - [GitLab Dedicated for Government now GovRAMP-authorized](https://about.gitlab.com/blog/govramp-gitlab-dedicated-for-government/) (2026-05-18)
 - [Beyond BYOK: Why governance matters for AI agents](https://about.gitlab.com/blog/gitlab-duo-cli-governance/) (2026-05-18)
-- [Fix bugs with Codex and GitLab](https://about.gitlab.com/blog/fix-bugs-with-codex-and-gitlab/) (2026-05-18)
+- [Codex and GitLab: From code fix to production](https://about.gitlab.com/blog/fix-bugs-with-codex-and-gitlab/) (2026-05-18)
 - [5 ways to fix misleading vulnerability severities with policy](https://about.gitlab.com/blog/severity-override-vulnerability-management-policy/) (2026-05-13)
 - [Harden your pipeline perimeter for the era of AI-assisted coding](https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/) (2026-05-13)
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI is a matter of power, infrastructure and security: TechEx North America](https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/) (2026-05-19)
 - [Amazon launches Alexa for Shopping as Rufus moves behind the scenes](https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/) (2026-05-18)
 - [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
 - [Physical AI moves closer to factory floors as companies test humanoid robots](https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/) (2026-05-14)
 - [Top real estate app development companies in the US: Abilities and costs](https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/) (2026-05-14)
-- [Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ](https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/) (2026-05-13)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples)](https://www.analyticsvidhya.com/blog/2026/05/advanced-sql-window-functions/) (2026-05-18)
 - [Top 10 AI Research Papers of 2025](https://www.analyticsvidhya.com/blog/2026/05/top-ai-research-papers-of-2025/) (2026-05-18)
 - [6 Steps to Crack GenAI Case Study Interviews (With Real Examples)](https://www.analyticsvidhya.com/blog/2026/05/ace-your-genai-case-study-interview/) (2026-05-16)
 - [OpenAI Omni Moderation: How to Filter Text & Images for Free](https://www.analyticsvidhya.com/blog/2026/05/openai-omni-moderation/) (2026-05-15)
 - [DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year](https://www.analyticsvidhya.com/blog/2026/05/datahack-summit-dhs-2026/) (2026-05-14)
-- [How to Visualize Any AI Model Architecture Instantly in Hugging Face](https://www.analyticsvidhya.com/blog/2026/05/how-to-visualize-any-ai-model-architecture-instantly/) (2026-05-14)
 
 </details>
 
