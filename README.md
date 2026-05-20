@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/) (2026-05-20)
 - [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/) (2026-05-19)
 - [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/) (2026-05-19)
 - [How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/) (2026-05-19)
 - [Discord enables end-to-end encrypted voice and video calling for every user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/) (2026-05-19)
-- [Mach Industries just spent $50M to solve a major defense tech problem](https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) (2026-05-20)
-- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519) (2026-05-20)
-- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685) (2026-05-20)
-- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks) (2026-05-19)
-- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) (2026-05-19)
+- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) (2026-05-20)
+- [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/) (2026-05-20)
+- [There's no earthly way of knowing which direction we are going](https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going) (2026-05-20)
+- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com//blog/minimax-m27-workflows) (2026-05-20)
+- [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan) (2026-05-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung workers set to strike at worst possible time](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply) (2026-05-20)
+- [Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs) (2026-05-20)
 - [Wear OS 7 will keep track of deliveries and sports scores on your wrist](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026) (2026-05-19)
 - [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike) (2026-05-19)
 - [Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis) (2026-05-19)
-- [We react to Google I/O 2026](https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026) (2026-05-19)
-- [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026) (2026-05-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Moose-proof and megacasting: Ars drives the new Volvo EX60](https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/) (2026-05-20)
 - [FBI seeks US-wide access to license plate cameras, wants "data in near real time"](https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/) (2026-05-19)
 - [Spider-Noir final trailer gives us a classic villain](https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/) (2026-05-19)
 - ["I'll buy 10 of those"—NASA science chief yearns for mass-produced satellites](https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/) (2026-05-19)
 - [Plex's 200% Lifetime Pass price hike tries forcing users to another subscription](https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/) (2026-05-19)
-- [Two AI-based science assistants succeed with drug-retargeting tasks](https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/) (2026-05-19)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Pack your agentic stack in Slack](https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/) (2026-05-20)
 - [Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/) (2026-05-19)
 - [Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/) (2026-05-18)
 - [“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/) (2026-05-18)
 - [No Dumb Questions: What is cloud computing and why is everyone doing it? ](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/) (2026-05-15)
-- [Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/) (2026-05-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Score Any CVSS Vector Offline - v3.1 and v4.0, Zero Dependencies](https://dev.to/david_dev_sec/score-any-cvss-vector-offline-v31-and-v40-zero-dependencies-2501) (2026-05-20)
-- [Multi-Color 3D Printing Without Material Waste: Is Low-Cost Finally Realistic?](https://dev.to/eyecontact-3d/multi-color-3d-printing-without-material-waste-is-low-cost-finally-realistic-7el) (2026-05-20)
-- [I'm Building Schedule Sensei: An Android App That Auto‑Adds Calendar Events from WhatsApp & Gmail](https://dev.to/vyomanshi27/im-building-schedule-sensei-an-android-app-that-auto-adds-calendar-events-from-whatsapp-gmail-4mif) (2026-05-20)
-- [Platform Engineering with GitHub: Build Your IDP with Copilot, IssueOps, and Golden-Path Repos](https://dev.to/htekdev/platform-engineering-with-github-build-your-idp-with-copilot-issueops-and-golden-path-repos-4gah) (2026-05-20)
-- [What Does Vue 3 `ref()` Compile to in React with VuReact?](https://dev.to/smirk9581/what-does-vue-3-ref-compile-to-in-react-with-vureact-k8i) (2026-05-20)
+- [ToolOps: The Python Middleware That's Quietly Cutting AI Infrastructure Costs for Teams Running at Scale](https://dev.to/antoinette_clennox/toolops-the-python-middleware-thats-quietly-cutting-ai-infrastructure-costs-for-teams-running-at-51no) (2026-05-20)
+- [How to Create Custom API Documentation in FastAPI](https://dev.to/tunmi_stom/how-to-create-custom-api-documentation-in-fastapi-mdb) (2026-05-20)
+- [Stop Reading EXPLAIN Plans by Hand: Introducing pgexplain and pgwatch 🐘](https://dev.to/bright98/stop-reading-explain-plans-by-hand-introducing-pgexplain-and-pgwatch-2j97) (2026-05-20)
+- [5 Proven Strategies to Reduce SaaS Churn in 2026](https://dev.to/_6beafb4ab0de61d30d989/5-proven-strategies-to-reduce-saas-churn-in-2026-3ioo) (2026-05-20)
+- [Smart transaction routing: turning auth-rate data into routing rules (without a black box)](https://dev.to/payneteasy/smart-transaction-routing-turning-auth-rate-data-into-routing-rules-without-a-black-box-3gj7) (2026-05-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Writing Laravel Controllers Like It’s 2018: The Modern Architecture That Scales](https://sadiqueali.medium.com/stop-writing-laravel-controllers-like-its-2018-the-modern-architecture-that-scales-329fd976d9c0?source=rss------programming-5) (2026-05-20)
-- [Day 11: The Linux Storage Guide I Wish I Had as a Beginner](https://pawannatekar220.medium.com/day-11-the-linux-storage-guide-i-wish-i-had-as-a-beginner-41ebe959ac64?source=rss------programming-5) (2026-05-20)
-- [I Tested Gemini 3.5 Flash on 18 Agent Tasks — Its 6× Pricier 'Flash' Crushed GPT-5.5 at 4× Speed](https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss------programming-5) (2026-05-20)
-- [Advanced AI Concepts Every Data Engineer Must Master in 2026](https://medium.com/codex/advanced-ai-concepts-every-data-engineer-must-master-in-2026-3ffad175ab0a?source=rss------programming-5) (2026-05-20)
-- [I Reported Someone On My Team. HR Handled It. The Team Never Forgave Me.](https://medium.com/illumination/i-reported-someone-on-my-team-hr-handled-it-the-team-never-forgave-me-af2a9e6c5168?source=rss------programming-5) (2026-05-20)
+- [5 Dependency Injection Anti-Patterns I See in Almost Every .NET Codebase](https://serkanozbeykurucu.medium.com/5-dependency-injection-anti-patterns-i-see-in-almost-every-net-codebase-fdc6f3056a66?source=rss------programming-5) (2026-05-20)
+- [Process vs Thread vs Event Loop: Modern Backend Sistemleri Nasıl Çalışıyor?](https://medium.com/@fatihwebdev/process-vs-thread-vs-event-loop-modern-backend-sistemleri-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1yor-ff451be8a69c?source=rss------programming-5) (2026-05-20)
+- [Why I Quit Being a Programmer](https://medium.com/@elijah96/why-i-quit-being-a-programmer-c574808067e1?source=rss------programming-5) (2026-05-20)
+- [What It Really Takes to Get Into Tech — From Someone Still Figuring It Out](https://medium.com/@janettech/what-it-really-takes-to-get-into-tech-from-someone-still-figuring-it-out-d57445b7d3fd?source=rss------programming-5) (2026-05-20)
+- [AI With Python 2026 (Part 1): What Is Artificial Intelligence — Really?](https://abkarikari23.medium.com/ai-with-python-2026-part-1-what-is-artificial-intelligence-really-01836a094cb1?source=rss------programming-5) (2026-05-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 - [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 - [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
+- [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Gmail’s top 10 sender issues: what senders need to know
+](
+https://www.twilio.com/en-us/blog/insights/gmail-top-10-sender-issues
+) (2026-05-19)
+- [
+Chatbot vs conversational AI: what's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
+) (2026-05-19)
+- [
 Build a Voice and SMS AI Agent with Twilio Agent Connect and Microsoft Azure
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai-twilio-agent-connect-microsoft-azure
@@ -387,16 +397,6 @@ Modern Bot Defense for Media Wiki Installs
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/modern-bot-defense-media-wiki-installs
 ) (2026-05-14)
-- [
-How to take data governance from compliance burden to competitive advantage
-](
-https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
-) (2026-05-13)
-- [
-What is voice AI and how does it work in 2026?
-](
-https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
-) (2026-05-13)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini 3.5 Flash: frontier intelligence with speed](https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/) (2026-05-20)
 - [Kimi WebBridge: Hands-on Guide to Kimi’s Browser Extension for AI Agents ](https://www.analyticsvidhya.com/blog/2026/05/kimi-webbridge/) (2026-05-19)
 - [40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples)](https://www.analyticsvidhya.com/blog/2026/05/advanced-sql-window-functions/) (2026-05-18)
 - [Top 10 AI Research Papers of 2025](https://www.analyticsvidhya.com/blog/2026/05/top-ai-research-papers-of-2025/) (2026-05-18)
 - [6 Steps to Crack GenAI Case Study Interviews (With Real Examples)](https://www.analyticsvidhya.com/blog/2026/05/ace-your-genai-case-study-interview/) (2026-05-16)
-- [OpenAI Omni Moderation: How to Filter Text & Images for Free](https://www.analyticsvidhya.com/blog/2026/05/openai-omni-moderation/) (2026-05-15)
 
 </details>
 
