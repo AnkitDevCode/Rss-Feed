@@ -20,51 +20,51 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [NanoClaw creator turns down $20M buyout offer, raises $12M seed instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/) (2026-05-20)
-- [Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27](https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/) (2026-05-20)
-- [GitHub says hackers stole data from thousands of internal repositories](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/) (2026-05-20)
-- [Figma adds an AI assistant to its collaborative canvas](https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/) (2026-05-20)
-- [Quartermaster is building a maritime hive mind](https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/) (2026-05-20)
+- [IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed](https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/) (2026-05-20)
+- [Tesla’s Full Self-Driving software is creeping into Europe](https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/) (2026-05-20)
+- [Airbnb gets into hotels, expands AI for host onboarding and customer support](https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/) (2026-05-20)
+- [Global EV market goes K-shaped as the US gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/) (2026-05-20)
+- [OpenAI barrels toward IPO that may happen in September](https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/) (2026-05-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen) (2026-05-20)
-- [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html) (2026-05-20)
-- [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190) (2026-05-20)
-- [Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/) (2026-05-20)
-- [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) (2026-05-20)
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) (2026-05-20)
+- [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report) (2026-05-20)
+- [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0) (2026-05-20)
+- [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) (2026-05-20)
+- [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained) (2026-05-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [It&#8217;s make or break time for AI labeling systems](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts) (2026-05-20)
-- [Trump Mobile may be leaking customer addresses](https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses) (2026-05-20)
-- [Insta360’s Mic Pro uses a three microphone array for improved recordings](https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array) (2026-05-20)
-- [Trump is waging a silent war on legal immigration](https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis) (2026-05-20)
-- [If Google can’t make AI agents useful, maybe no one can](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can) (2026-05-20)
+- [Here are 42 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-20)
+- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2026-05-20)
+- [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores) (2026-05-20)
+- [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts) (2026-05-20)
+- [Volvo is trying to put its EV stumbles in the rearview](https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy) (2026-05-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Man wins $835K after sheriff jailed him for a month over Charlie Kirk post](https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/) (2026-05-20)
-- [Russia's plan to advertise on rockets and spacecraft takes off](https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/) (2026-05-20)
-- [Yearslong fight over users' right to tweak smart TV software heads to trial](https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/) (2026-05-20)
-- [China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting](https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/) (2026-05-20)
-- [The Internet can't stop watching Figure AI's humanoid robots handling packages](https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/) (2026-05-20)
+- ["Ryzen 5800X3D 10th Anniversary Edition" may help you avoid paying for a new PC](https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/) (2026-05-20)
+- [Google publishes exploit code threatening millions of Chromium users](https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/) (2026-05-20)
+- [Trump wants $1B to protect White House ballroom from drones and other threats](https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/) (2026-05-20)
+- [Hulu set to keep existing as standalone streaming service and app (for now)](https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/) (2026-05-20)
+- [Chickens without eggs? De-extinction company creates artificial egg.](https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/) (2026-05-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Boston Metal gets a $75 million lifeline to produce critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) (2026-05-20)
+- [Green steel startup Boston Metal is doubling down on critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) (2026-05-20)
 - [The Download: fully artificial chicken eggs and why Musk lost](https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/) (2026-05-20)
 - [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) (2026-05-19)
 - [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) (2026-05-19)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Anti-Antigravity](https://dev.to/francisco_susana/the-anti-antigravity-2681) (2026-05-20)
-- [The Age of Accountable Agents: Building Trust in Your AI Automation](https://dev.to/pat9000/the-age-of-accountable-agents-building-trust-in-your-ai-automation-2ac5) (2026-05-20)
-- [Securing Your AI Agents: Essential Practices for On-Device Automation](https://dev.to/pat9000/securing-your-ai-agents-essential-practices-for-on-device-automation-2k8d) (2026-05-20)
-- [I benchmarked OpenAI's new GPT-Realtime-Translate against four other live translation systems](https://dev.to/yahya_saleh_d157cf3d7fe2e/i-benchmarked-openais-new-gpt-realtime-translate-against-four-other-live-translation-systems-3gno) (2026-05-20)
-- [The Code Nobody Will Delete](https://dev.to/tacoda/the-code-nobody-will-delete-3o79) (2026-05-20)
+- [AVL Trees Explained: How Rotations Keep BST Operations O(log n)](https://dev.to/codeintuition/arrays-vs-linked-lists-why-arrays-are-faster-in-practice-3dhj) (2026-05-20)
+- [Go Gotchas That Cost Me Hours (Learn From My Pain)](https://dev.to/francis_cidney_awuor/go-gotchas-that-cost-me-hours-learn-from-my-pain-3jk0) (2026-05-20)
+- [Python Day 2: Conditions, Loops & Functions — The Engine Behind Every AI App](https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm) (2026-05-20)
+- [Access Denied: What Every AWS Beginner Gets Wrong About IAM](https://dev.to/jvogel/access-denied-what-every-aws-beginner-gets-wrong-about-iam-9k1) (2026-05-20)
+- [Stop Running LLM Workloads on Vanilla Kubernetes](https://dev.to/mateenali66/stop-running-llm-workloads-on-vanilla-kubernetes-4bke) (2026-05-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [THE UNIVERSE AND US](https://medium.com/@larklaflamme/the-universe-and-us-bde4e4aa4a02?source=rss------programming-5) (2026-05-20)
-- [Demystifying the Confusion Matrix: The $0 Infrastructure Guide for AI Architects](https://medium.com/@sachincredible9/demystifying-the-confusion-matrix-the-0-infrastructure-guide-for-ai-architects-2927af610dd6?source=rss------programming-5) (2026-05-20)
-- [I Made $4,200 Last Month Automating Boring Tasks With Python + Claude](https://medium.com/@inprogrammer/i-made-4-200-last-month-automating-boring-tasks-with-python-claude-fed9f4dc76b4?source=rss------programming-5) (2026-05-20)
-- [If you've ever asked ChatGPT to return structured data, you've probably seen this: SyntaxError…](https://medium.com/@jsonmedic/if-youve-ever-asked-chatgpt-to-return-structured-data-you-ve-probably-seen-this-syntaxerror-22bd52228cc7?source=rss------programming-5) (2026-05-20)
-- [Type-aware macros in C](https://medium.com/@surajkareppagol.dev/type-aware-macros-in-c-2d08fc363d79?source=rss------programming-5) (2026-05-20)
+- [Google Omni : Nano Banana For Videos](https://medium.com/data-science-in-your-pocket/google-omni-nano-banana-for-videos-8ec850a1075a?source=rss------programming-5) (2026-05-20)
+- [Authentication, Federation & Software Architecture](https://todayamerican.medium.com/authentication-federation-software-architecture-9152cdd0d54b?source=rss------programming-5) (2026-05-20)
+- [Designing multi-region failover in a system with active - active DB servers](https://todayamerican.medium.com/designing-multi-region-failover-in-a-system-with-clustered-db-servers-806a4f60393f?source=rss------programming-5) (2026-05-20)
+- [Conceptual Framework of a Universal Fractal-Truncated Tropical Meta-Optimization Environment for…](https://medium.com/@solter56/conceptual-framework-of-a-universal-fractal-truncated-tropical-meta-optimization-environment-for-89cbbd4b1fe4?source=rss------programming-5) (2026-05-20)
+- [What AI Can and Cannot Do Today in Software Development — Jarroba](https://invarato.medium.com/what-ai-can-and-cannot-do-today-in-software-development-jarroba-5609879125c5?source=rss------programming-5) (2026-05-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 - [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 - [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
+- [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Grok Build 0.1 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway) (2026-05-20)
+- [Vercel AI Gateway plugin for WordPress](https://vercel.com/changelog/vercel-ai-gateway-plugin-for-wordpress) (2026-05-20)
 - [Gemini 3.5 Flash on AI Gateway](https://vercel.com/changelog/gemini-3-5-flash-on-ai-gateway) (2026-05-19)
 - [Flat Rate CDN in Limited Beta](https://vercel.com/changelog/flat-rate-cdn-in-limited-beta) (2026-05-19)
 - [Run Claude Managed Agents with Vercel Sandbox](https://vercel.com/changelog/run-claude-managed-agents-with-vercel-sandbox) (2026-05-18)
-- [Consolidated Commit Status now available on GitHub](https://vercel.com/changelog/consolidated-commit-status-now-available-for-github) (2026-05-18)
-- [Firewall‑mitigated traffic is free on Vercel](https://vercel.com/changelog/web-application-firewall-mitigated-traffic-is-free-on-vercel) (2026-05-18)
 
 </details>
 
@@ -536,18 +536,18 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Docathon 2026 Results in 150+ Merged Pull Requests](https://pytorch.org/blog/pytorch-docathon-2026-results/) (2026-05-20)
 - [vLLM and PyTorch Work Together to Improve the Developer Experience on aarch64](https://pytorch.org/blog/vllm-and-pytorch-work-together-to-improve-the-developer-experience-on-aarch64/) (2026-05-18)
 - [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/) (2026-05-18)
 - [PyTorch 2.12 Release Blog](https://pytorch.org/blog/pytorch-2-12-release-blog/) (2026-05-13)
 - [Efficient Edge AI on Arm CPUs and NPUs: Understanding ExecuTorch through Practical Labs](https://pytorch.org/blog/efficient-edge-ai-on-arm-cpus-and-npus/) (2026-05-12)
-- [In-Kernel Broadcast Optimization: Co-Designing Kernels for RecSys Inference](https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference/) (2026-05-05)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [OlmoEarth v1.1: A more efficient family of models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
+- [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
 - [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) (2026-05-18)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
@@ -569,33 +569,33 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Can LLMs Replace Survey Respondents?](https://towardsdatascience.com/can-llms-replace-survey-respondents/) (2026-05-20)
+- [Optimizing AI Agent Planning with Operations Research and Data Science](https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/) (2026-05-20)
 - [How to Safely Run Coding Agents](https://towardsdatascience.com/how-to-safely-run-coding-agents/) (2026-05-20)
 - [From Possible to Probable AI Models](https://towardsdatascience.com/from-possible-to-probable-ai-models/) (2026-05-20)
 - [Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service](https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/) (2026-05-19)
-- [Introduction to Lean for Programmers](https://towardsdatascience.com/introduction-to-lean-for-programmers/) (2026-05-19)
-- [Grounding LLMs with Fresh Web Data to Reduce Hallucinations](https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Gemini 3.5 Flash: frontier intelligence with speed](https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/) (2026-05-20)
+- [Top 9 AI Events and Conferences in 2026 that you Must Attend](https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/) (2026-05-20)
+- [Gemini 3.5 Flash: Frontier Intelligence with Speed](https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/) (2026-05-20)
 - [Kimi WebBridge: Hands-on Guide to Kimi’s Browser Extension for AI Agents ](https://www.analyticsvidhya.com/blog/2026/05/kimi-webbridge/) (2026-05-19)
 - [40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples)](https://www.analyticsvidhya.com/blog/2026/05/advanced-sql-window-functions/) (2026-05-18)
 - [Top 10 AI Research Papers of 2025](https://www.analyticsvidhya.com/blog/2026/05/top-ai-research-papers-of-2025/) (2026-05-18)
-- [6 Steps to Crack GenAI Case Study Interviews (With Real Examples)](https://www.analyticsvidhya.com/blog/2026/05/ace-your-genai-case-study-interview/) (2026-05-16)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Anonymizing Production Data for Data Science with Mimesis](https://www.kdnuggets.com/anonymizing-production-data-for-data-science-with-mimesis) (2026-05-20)
 - [SQL Window Functions Beyond Basics: Solving Real Business Problems](https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems) (2026-05-20)
 - [10 GitHub Repositories to Master Quant Trading](https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading) (2026-05-20)
 - [How to Get the Most Out of Claude Cowork](https://www.kdnuggets.com/how-to-get-the-most-out-of-claude-cowork) (2026-05-19)
 - [Top 10 Python Libraries for Data Engineering in 2026](https://www.kdnuggets.com/top-10-python-libraries-for-data-engineering-in-2026) (2026-05-19)
-- [The Hidden Skill Gap: Why Knowing SQL + Python Isn’t Enough Anymore](https://www.kdnuggets.com/the-hidden-skill-gap-why-knowing-sql-python-isnt-enough-anymore) (2026-05-18)
 
 </details>
 
