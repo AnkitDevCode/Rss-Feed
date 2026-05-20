@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google takes a page out of Meta’s book, announces new audio-powered smart glasses](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/) (2026-05-19)
-- [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/) (2026-05-19)
-- [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/) (2026-05-19)
-- [How to use Google’s new information agents](https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/) (2026-05-19)
-- [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/) (2026-05-19)
+- [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/) (2026-05-19)
+- [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/) (2026-05-19)
+- [How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/) (2026-05-19)
+- [Discord enables end-to-end encrypted voice and video calling for every user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/) (2026-05-19)
+- [Mach Industries just spent $50M to solve a major defense tech problem](https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight) (2026-05-19)
-- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) (2026-05-19)
-- [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html) (2026-05-19)
-- ['Capitalism has to become more humane': a Stanford economist on big tech](https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz) (2026-05-19)
-- [Gemini Omni](https://deepmind.google/models/gemini-omni/) (2026-05-19)
+- [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) (2026-05-20)
+- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519) (2026-05-20)
+- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685) (2026-05-20)
+- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks) (2026-05-19)
+- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kickstarter just killed its new mature content rules](https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules) (2026-05-19)
-- [Gemini will use Volvo’s external cameras to interpret parking signs](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking) (2026-05-19)
-- [The 13 biggest announcements at Google I/O 2026](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini) (2026-05-19)
-- [Google wants to compete with Anthropic’s Mythos](https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos) (2026-05-19)
-- [Google can now vibe-code you an Android app](https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026) (2026-05-19)
+- [Wear OS 7 will keep track of deliveries and sports scores on your wrist](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026) (2026-05-19)
+- [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike) (2026-05-19)
+- [Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis) (2026-05-19)
+- [We react to Google I/O 2026](https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026) (2026-05-19)
+- [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026) (2026-05-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [FBI seeks US-wide access to license plate cameras, wants "data in near real time"](https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/) (2026-05-19)
+- [Spider-Noir final trailer gives us a classic villain](https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/) (2026-05-19)
+- ["I'll buy 10 of those"—NASA science chief yearns for mass-produced satellites](https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/) (2026-05-19)
+- [Plex's 200% Lifetime Pass price hike tries forcing users to another subscription](https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/) (2026-05-19)
 - [Two AI-based science assistants succeed with drug-retargeting tasks](https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/) (2026-05-19)
-- [Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more](https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/) (2026-05-19)
-- [In stunning display of stupid, secret CISA credentials found in public GitHub repo](https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/) (2026-05-19)
-- [RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks](https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/) (2026-05-19)
-- [Gemini 3.5 Flash might be fast enough for gen AI to make sense](https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) (2026-05-19)
 - [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) (2026-05-19)
 - [The Download: Musk v. Altman, smart glasses for warfare, and Google I/O](https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/) (2026-05-19)
 - [Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell](https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/) (2026-05-19)
 - [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) (2026-05-19)
-- [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) (2026-05-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pop any UI component into a floating Picture-in-Picture window.](https://dev.to/shakya47/pop-any-ui-component-into-a-floating-picture-in-picture-window-3ebl) (2026-05-19)
-- [Common Null Safety Mistakes](https://dev.to/petprog/common-null-safety-mistakes-103n) (2026-05-19)
-- [Should You Use RAG or Fine-Tune Your LLM?](https://dev.to/actiandev/should-you-use-rag-or-fine-tune-your-llm-3g8j) (2026-05-19)
-- [What 37signals’ Cloud Repatriation Taught Us About AI Infrastructure](https://dev.to/actiandev/what-37signals-cloud-repatriation-taught-us-about-ai-infrastructure-2hp) (2026-05-19)
-- [How to Build a HIPAA Compliant AI Ecosystem Without the Cloud](https://dev.to/actiandev/how-to-build-a-hipaa-compliant-ai-ecosystem-without-the-cloud-2dih) (2026-05-19)
+- [Score Any CVSS Vector Offline - v3.1 and v4.0, Zero Dependencies](https://dev.to/david_dev_sec/score-any-cvss-vector-offline-v31-and-v40-zero-dependencies-2501) (2026-05-20)
+- [Multi-Color 3D Printing Without Material Waste: Is Low-Cost Finally Realistic?](https://dev.to/eyecontact-3d/multi-color-3d-printing-without-material-waste-is-low-cost-finally-realistic-7el) (2026-05-20)
+- [I'm Building Schedule Sensei: An Android App That Auto‑Adds Calendar Events from WhatsApp & Gmail](https://dev.to/vyomanshi27/im-building-schedule-sensei-an-android-app-that-auto-adds-calendar-events-from-whatsapp-gmail-4mif) (2026-05-20)
+- [Platform Engineering with GitHub: Build Your IDP with Copilot, IssueOps, and Golden-Path Repos](https://dev.to/htekdev/platform-engineering-with-github-build-your-idp-with-copilot-issueops-and-golden-path-repos-4gah) (2026-05-20)
+- [What Does Vue 3 `ref()` Compile to in React with VuReact?](https://dev.to/smirk9581/what-does-vue-3-ref-compile-to-in-react-with-vureact-k8i) (2026-05-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Software Engineers Don’t Need to Fear AI. They Need to Stop Underestimating It.](https://medium.com/@jael.svd/software-engineers-dont-need-to-fear-ai-they-need-to-stop-underestimating-it-7806f6dc2c3d?source=rss------programming-5) (2026-05-19)
-- [Can AI Feel the Weight of a Word? I Tested It With a Song.](https://medium.com/@srinikithachalla09/can-ai-feel-the-weight-of-a-word-i-tested-it-with-a-song-2d29b68cf778?source=rss------programming-5) (2026-05-19)
-- [COBOL vs Modern Languages: What Developers Can Learn from COBOL’s English-Like Design](https://medium.com/@eugenio.andrieu_63440/cobol-vs-modern-languages-what-developers-can-learn-from-cobols-english-like-design-f9515ce4ddfa?source=rss------programming-5) (2026-05-19)
-- [20 JavaScript Recon Tricks to Find Hidden APIs, Secrets, Admin Routes, and Bug Bounty Targets ](https://medium.com/@bughuntersjournal/20-javascript-recon-tricks-to-find-hidden-apis-secrets-admin-routes-and-bug-bounty-targets-8a8d0eee64a5?source=rss------programming-5) (2026-05-19)
-- [90% of Java Developers Only Know 1 Form of synchronized — Here Are All 4](https://blog.stackademic.com/90-of-java-developers-only-know-1-form-of-synchronized-here-are-all-4-1b1e313cd79a?source=rss------programming-5) (2026-05-19)
+- [Stop Writing Laravel Controllers Like It’s 2018: The Modern Architecture That Scales](https://sadiqueali.medium.com/stop-writing-laravel-controllers-like-its-2018-the-modern-architecture-that-scales-329fd976d9c0?source=rss------programming-5) (2026-05-20)
+- [Day 11: The Linux Storage Guide I Wish I Had as a Beginner](https://pawannatekar220.medium.com/day-11-the-linux-storage-guide-i-wish-i-had-as-a-beginner-41ebe959ac64?source=rss------programming-5) (2026-05-20)
+- [I Tested Gemini 3.5 Flash on 18 Agent Tasks — Its 6× Pricier 'Flash' Crushed GPT-5.5 at 4× Speed](https://pub.towardsai.net/i-tested-gemini-3-5-flash-on-18-agent-tasks-its-6-pricier-flash-crushed-gpt-5-5-at-4-speed-aeab103e0981?source=rss------programming-5) (2026-05-20)
+- [Advanced AI Concepts Every Data Engineer Must Master in 2026](https://medium.com/codex/advanced-ai-concepts-every-data-engineer-must-master-in-2026-3ffad175ab0a?source=rss------programming-5) (2026-05-20)
+- [I Reported Someone On My Team. HR Handled It. The Team Never Forgave Me.](https://medium.com/illumination/i-reported-someone-on-my-team-hr-handled-it-the-team-never-forgave-me-af2a9e6c5168?source=rss------programming-5) (2026-05-20)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 - [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 - [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
-- [Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future](https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and Google Cloud Empower the Next Wave of AI Builders](https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/) (2026-05-19)
 - [NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’](https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/) (2026-05-18)
 - [Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs](https://blogs.nvidia.com/blog/vera-cpu-delivery/) (2026-05-18)
 - [Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/) (2026-05-14)
 - [NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure](https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/) (2026-05-13)
-- [Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/) (2026-05-13)
 
 </details>
 
@@ -348,6 +348,17 @@
 </details>
 
 <details>
+<summary>▲ Vercel Blog</summary>
+
+- [Gemini 3.5 Flash on AI Gateway](https://vercel.com/changelog/gemini-3-5-flash-on-ai-gateway) (2026-05-19)
+- [Flat Rate CDN in Limited Beta](https://vercel.com/changelog/flat-rate-cdn-in-limited-beta) (2026-05-19)
+- [Run Claude Managed Agents with Vercel Sandbox](https://vercel.com/changelog/run-claude-managed-agents-with-vercel-sandbox) (2026-05-18)
+- [Consolidated Commit Status now available on GitHub](https://vercel.com/changelog/consolidated-commit-status-now-available-for-github) (2026-05-18)
+- [Firewall‑mitigated traffic is free on Vercel](https://vercel.com/changelog/web-application-firewall-mitigated-traffic-is-free-on-vercel) (2026-05-18)
+
+</details>
+
+<details>
 <summary>🔶 Cloudflare Blog</summary>
 
 - [Announcing Claude Managed Agents on Cloudflare](https://blog.cloudflare.com/claude-managed-agents/) (2026-05-19)
@@ -361,6 +372,11 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Build a Voice and SMS AI Agent with Twilio Agent Connect and Microsoft Azure
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai-twilio-agent-connect-microsoft-azure
+) (2026-05-18)
 - [
 Voice AI vs conversational AI: what's the difference?
 ](
@@ -380,11 +396,6 @@ https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
 What is voice AI and how does it work in 2026?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
-) (2026-05-13)
-- [
-What is RCS messaging?
-](
-https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 ) (2026-05-13)
 
 </details>
@@ -541,6 +552,17 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 - [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) (2026-05-18)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
 - [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) (2026-05-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx](https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/) (2026-05-19)
+- [The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected](https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/) (2026-05-19)
+- [AI is a matter of power, infrastructure and security: TechEx North America](https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/) (2026-05-19)
+- [Amazon launches Alexa for Shopping as Rufus moves behind the scenes](https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/) (2026-05-18)
+- [Deloitte: Scale ‘autonomous intelligence’ for real growth](https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/) (2026-05-15)
 
 </details>
 
