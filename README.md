@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/) (2026-05-21)
+- [General Catalyst just led a $63M bet on India’s travel payments market](https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/) (2026-05-21)
+- [Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/) (2026-05-21)
 - [Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/) (2026-05-21)
 - [Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/) (2026-05-21)
-- [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/) (2026-05-20)
-- [Clouted wants to take the guesswork out of making short videos go viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/) (2026-05-20)
-- [xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/) (2026-05-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop) (2026-05-21)
-- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/) (2026-05-21)
-- [The Letter S, by Donald Knuth [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf) (2026-05-20)
-- [I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene) (2026-05-20)
-- [DOS Zone](https://dos.zone/) (2026-05-20)
+- [The famous O3 "GeoGuessr" prompt did not work](https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) (2026-05-21)
+- [Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer) (2026-05-21)
+- [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/) (2026-05-21)
+- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136) (2026-05-21)
+- [What is a Demand Coop](https://cahootzcoops.com/blog/what-is-a-demand-coop) (2026-05-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta lays off thousands of employees to offset AI investments](https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo) (2026-05-21)
+- [In SpaceX’s IPO, Elon Musk is a risk factor](https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor) (2026-05-21)
 - [SpaceX just filed for what could be the biggest IPO ever](https://www.theverge.com/business/902219/spacex-ipo-details) (2026-05-20)
 - [‘Solve all diseases,’ you say?](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health) (2026-05-20)
 - [Here are 42 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-20)
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2026-05-20)
-- [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores) (2026-05-20)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Tech researchers are suing the Trump administration over the future of online safety](https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/) (2026-05-21)
 - [Green steel startup Boston Metal is doubling down on critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) (2026-05-20)
 - [The Download: fully artificial chicken eggs and why Musk lost](https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/) (2026-05-20)
 - [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) (2026-05-19)
 - [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) (2026-05-19)
-- [The Download: Musk v. Altman, smart glasses for warfare, and Google I/O](https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/) (2026-05-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A beginner's guide to the Image-Background-Remove model by Zf-Kbot on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-image-background-remove-model-by-zf-kbot-on-replicate-19li) (2026-05-21)
-- [A beginner's guide to the Invsr model by Zf-Kbot on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-invsr-model-by-zf-kbot-on-replicate-2n2g) (2026-05-21)
-- [How to Automate Canadian T4 Slip Parsing with an API (No OCR Setup Required)](https://dev.to/skilldev31/how-to-automate-canadian-t4-slip-parsing-with-an-api-no-ocr-setup-required-2mfk) (2026-05-21)
-- [حماية مفاتيح API من إضافة VS Code ضارة](https://dev.to/yusuf_khalidd/hmy-mftyh-api-mn-df-vs-code-dr-386n) (2026-05-21)
-- [Agetor Review: An Open-Source Kanban Board for Orchestrating Claude Code](https://dev.to/pickuma/agetor-review-an-open-source-kanban-board-for-orchestrating-claude-code-3cd) (2026-05-21)
+- [I built Alpha Insights: AI business research with validators, not just prompts](https://dev.to/ericyoung183/i-built-alpha-insights-ai-business-research-with-validators-not-just-prompts-307a) (2026-05-21)
+- [Polygon RPC Endpoints: Free, Dedicated, and Production Options](https://dev.to/hubertroy/polygon-rpc-endpoints-free-dedicated-and-production-options-3d4j) (2026-05-21)
+- [BNB Chain RPC Provider Guide for Production Apps](https://dev.to/hubertroy/bnb-chain-rpc-provider-guide-for-production-apps-mec) (2026-05-21)
+- [What Is a Nonce in Blockchain? Transaction Nonces Explained](https://dev.to/hubertroy/what-is-a-nonce-in-blockchain-transaction-nonces-explained-3ejg) (2026-05-21)
+- [Testnet RPC Guide: Sepolia, BNB, Solana Devnet, and More](https://dev.to/hubertroy/testnet-rpc-guide-sepolia-bnb-solana-devnet-and-more-337) (2026-05-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 12: Introduction to Linux Package Managers and systemctl](https://pawannatekar220.medium.com/day-12-introduction-to-linux-package-managers-and-systemctl-bacaa486c45f?source=rss------programming-5) (2026-05-21)
-- [Mastering GitHub Copilot, Claude, GPT-4, and Gemini Part 3: Production AI Engineering and the…](https://medium.com/@er.rajkumaar/mastering-github-copilot-claude-gpt-4-and-gemini-part-3-production-ai-engineering-and-the-d4cc20e53ea5?source=rss------programming-5) (2026-05-21)
-- [20 DSA Concepts Explained in Just 20 Minutes](https://medium.com/lets-code-future/20-dsa-concepts-explained-in-just-20-minutes-39c94da9bb97?source=rss------programming-5) (2026-05-21)
-- [SQL Semi Joins with Match Checks](https://medium.com/@AlexanderObregon/sql-semi-joins-with-match-checks-912164b501b9?source=rss------programming-5) (2026-05-21)
-- [Like Computer Science, But Not Quite” — The Reality of Studying Information System Management](https://medium.com/@mallezow/like-computer-science-but-not-quite-the-reality-of-studying-information-system-management-0f4aeb77fa3a?source=rss------programming-5) (2026-05-21)
+- [The Next N Word(s)](https://dwayne-phillips.medium.com/the-next-n-word-s-ce7e1c872895?source=rss------programming-5) (2026-05-21)
+- [From Zero to AI Workforce in 5 Minutes — Markus Installation Guide](https://medium.com/@jsyqrt/from-zero-to-ai-workforce-in-5-minutes-markus-installation-guide-da47e79cfd4b?source=rss------programming-5) (2026-05-21)
+- [Why Businesses in 2026 Prefer to Hire Dedicated Developers in USA for Faster Digital Growth](https://medium.com/@zoondia.com/why-businesses-in-2026-prefer-to-hire-dedicated-developers-in-usa-for-faster-digital-growth-fc69e15ce74a?source=rss------programming-5) (2026-05-21)
+- [Day 9: The when Expression — Kotlin’s Sharpest Tool for Decisions](https://kirupakaran094.medium.com/day-9-the-when-expression-kotlins-sharpest-tool-for-decisions-a1f3265a8642?source=rss------programming-5) (2026-05-21)
+- [The Different Ways You can use Linux on a Windows Host](https://medium.com/linux-for-everyone/the-different-ways-you-can-use-linux-on-a-windows-host-0a6439d58499?source=rss------programming-5) (2026-05-21)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Improving Accessibility in JetBrains IDEs: What’s New and What’s Next in 2026](https://blog.jetbrains.com/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026/) (2026-05-21)
 - [Built for Productivity: What the Data Finally Shows About Kotlin](https://blog.jetbrains.com/kotlin/2026/05/built-for-productivity-what-the-data-shows-about-kotlin/) (2026-05-20)
 - [A Practical Guide to Profiling in Go](https://blog.jetbrains.com/go/2026/05/20/golang-profiling-guide/) (2026-05-20)
 - [The SARIF Viewer Is Now Available in CLion 2026.1.2](https://blog.jetbrains.com/clion/2026/05/sarif-viewer/) (2026-05-20)
 - [Relocating With JetBrains: What to Expect](https://blog.jetbrains.com/life-at-jetbrains/2026/05/relocating-with-jetbrains-visa-support-relocation-process-and-what-to-expect/) (2026-05-20)
-- [Introducing the JetBrains Course Creators Program](https://blog.jetbrains.com/education/2026/05/19/introducing-the-jetbrains-course-creators-program/) (2026-05-19)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Pull anomaly alert details using the Vercel CLI](https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli) (2026-05-21)
 - [Grok Build 0.1 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway) (2026-05-20)
 - [Chat SDK now includes AI SDK tools](https://vercel.com/changelog/chat-sdk-now-includes-ai-sdk-tools) (2026-05-20)
 - [Chat SDK adds message subjects and direct SDK access](https://vercel.com/changelog/chat-sdk-adds-message-subjects-and-direct-sdk-access) (2026-05-20)
 - [Chat SDK now supports callback URLs on buttons and modals](https://vercel.com/changelog/chat-sdk-now-supports-callback-urls-on-buttons-and-modals) (2026-05-20)
-- [Vercel AI Gateway plugin for WordPress](https://vercel.com/changelog/vercel-ai-gateway-plugin-for-wordpress) (2026-05-20)
 
 </details>
 
@@ -372,6 +372,11 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+8 ways to reduce call center costs with AI
+](
+https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
+) (2026-05-20)
 - [
 Gmail’s top 10 sender issues: what senders need to know
 ](
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai
 Voice AI vs conversational AI: what's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
-) (2026-05-14)
-- [
-Modern Bot Defense for Media Wiki Installs
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/modern-bot-defense-media-wiki-installs
 ) (2026-05-14)
 
 </details>
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/modern-bot-defense-m
 <details>
 <summary>🤖 AI News</summary>
 
+- [Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/) (2026-05-21)
 - [Alibaba is designing AI chips around agents, and that changes what the race is actually about](https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/) (2026-05-20)
 - [Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx](https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/) (2026-05-19)
 - [The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected](https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/) (2026-05-19)
 - [AI is a matter of power, infrastructure and security: TechEx North America](https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/) (2026-05-19)
-- [Amazon launches Alexa for Shopping as Rufus moves behind the scenes](https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/) (2026-05-18)
 
 </details>
 
