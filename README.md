@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/) (2026-05-22)
 - [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/) (2026-05-22)
 - [SpaceX scrubs first Starship V3 launch just before liftoff](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/) (2026-05-22)
 - [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/) (2026-05-21)
 - [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/) (2026-05-21)
-- [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/) (2026-05-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [It is time to build a new internet](https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/) (2026-05-22)
-- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) (2026-05-22)
-- [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/) (2026-05-21)
-- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/) (2026-05-21)
-- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460) (2026-05-21)
+- [We should get rid of average CPU utilization](https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/) (2026-05-22)
+- [Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/) (2026-05-22)
+- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269) (2026-05-22)
+- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me) (2026-05-22)
+- [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html) (2026-05-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ground system issue scrubs first launch of SpaceX's Starship V3 rocket](https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/) (2026-05-22)
 - [IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app](https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/) (2026-05-21)
 - [As Grok flounders, SpaceX bets future on beating Big Tech at AI](https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/) (2026-05-21)
 - [AT&T sues California in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/) (2026-05-21)
 - [JWST maps the weather on a hot gas giant 700 light-years away](https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/) (2026-05-21)
-- [Zillow loses thousands of listings in fight over “hidden” homes](https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/) (2026-05-21)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Breaking your AI storage bottlenecks](https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks/) (2026-05-22)
 - [Coding agents are giving everyone decision fatigue](https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/) (2026-05-21)
 - [Pack your agentic stack in Slack](https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/) (2026-05-20)
 - [Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/) (2026-05-19)
 - [Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/) (2026-05-18)
-- [“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Flawed Assumption of Global E-commerce Platforms](https://dev.to/on-chain-commerce/the-flawed-assumption-of-global-e-commerce-platforms-3nl3) (2026-05-22)
-- [PayPal's Gatekeeper Problem: How I Ditched the Middleman and Began Accepting Cryptocurrency Directly](https://dev.to/built-from-africa/paypals-gatekeeper-problem-how-i-ditched-the-middleman-and-began-accepting-cryptocurrency-directly-5bfh) (2026-05-22)
-- [510(k) clearance pitfalls — the weak links that actually stall approval](https://dev.to/jwithfield_qa/510k-clearance-pitfalls-the-weak-links-that-actually-stall-approval-5a3a) (2026-05-22)
-- [Building A Cross-Border E-commerce System That Just Works](https://dev.to/micro-saas-journal/building-a-cross-border-e-commerce-system-that-just-works-1k66) (2026-05-22)
-- [Low-Budget Multi-Device QA: Automating 3 Platforms with Open Source Tools](https://dev.to/xulingfeng/low-budget-multi-device-qa-automating-3-platforms-with-open-source-tools-4cmj) (2026-05-22)
+- [Real-World Next.js Performance: Moving Beyond standard useEffect and Fetching Hooks](https://dev.to/ibraa/real-world-nextjs-performance-moving-beyond-standard-useeffect-and-fetching-hooks-4ibh) (2026-05-22)
+- [How to Build a Human-in-the-Loop AI Agent with LangChain & LangGraph](https://dev.to/syeedmdtalha/how-to-build-a-human-in-the-loop-ai-agent-with-langchain-langgraph-2n2h) (2026-05-22)
+- [Off the Grid: How GEMMA 4 Unlocks Private, Local AI](https://dev.to/abhinav_p_75e191ad843167e/off-the-grid-how-gemma-4-unlocks-private-local-ai-4hhk) (2026-05-22)
+- [Code Meets Commerce: What Building Websites for Real Businesses Taught Me About Software Engineering](https://dev.to/ibraa/code-meets-commerce-what-building-websites-for-real-businesses-taught-me-about-software-engineering-o0f) (2026-05-22)
+- [Building a Global Access Layer that Ignores Geo-Censorship and Favors User Experience](https://dev.to/sovereignty-advocate/building-a-global-access-layer-that-ignores-geo-censorship-and-favors-user-experience-55aj) (2026-05-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [# JWT vs PQ-JWT — Why Post-Quantum Authentication Matters](https://medium.com/@sachinruhil11/jwt-vs-pq-jwt-why-post-quantum-authentication-matters-89493d7db98c?source=rss------programming-5) (2026-05-22)
-- [Gemini 3.5 Flash Is Google’s Fastest AI Power Move Yet](https://medium.com/data-science-in-your-pocket/gemini-3-5-flash-is-googles-fastest-ai-power-move-yet-880c4d931b02?source=rss------programming-5) (2026-05-22)
-- [The Skills That Make Claude More Powerful Than You Think](https://medium.com/@danyalmarwat23/the-skills-that-make-claude-more-powerful-than-you-think-652f0301b352?source=rss------programming-5) (2026-05-22)
-- [Laravel Telescope: The Debugging Superpower That Most Developers Install and Never Actually Use](https://sadiqueali.medium.com/laravel-telescope-the-debugging-superpower-that-most-developers-install-and-never-actually-use-671bac861360?source=rss------programming-5) (2026-05-22)
-- [Day 13: I Was Confused About Linux Networking Until I Learned This](https://pawannatekar220.medium.com/day-13-i-was-confused-about-linux-networking-until-i-learned-this-c079bda71f16?source=rss------programming-5) (2026-05-22)
+- [I Read Google’s Official AI Search Guide So You Don’t Have To. Here’s What Actually Matters](https://medium.com/@prtkgoswami8/i-read-googles-official-ai-search-guide-so-you-don-t-have-to-here-s-what-actually-matters-20fe31da9ccd?source=rss------programming-5) (2026-05-22)
+- [I Gave Claude 13 OSINT Superpowers and Let It Investigate Autonomously](https://medium.com/@tommasobertocchideveloper04/i-gave-claude-13-osint-superpowers-and-let-it-investigate-autonomously-bb9558977a8d?source=rss------programming-5) (2026-05-22)
+- [I Asked Claude and GPT to Help Me Build an AI That Doesn’t Trust AI — Here’s What Phase 1 Taught Me](https://medium.com/@krishnaagrawal_87475/i-asked-claude-and-gpt-to-help-me-build-an-ai-that-doesnt-trust-ai-here-s-what-phase-1-taught-me-7a9e4ba64e21?source=rss------programming-5) (2026-05-22)
+- [Google Antigravity vs Cursor vs Claude Code: I Tested All Three on Real Python Projects](https://medium.com/@inprogrammer/google-antigravity-vs-cursor-vs-claude-code-i-tested-all-three-on-real-python-projects-0bee586c47ca?source=rss------programming-5) (2026-05-22)
+- [Flutter vs React Native: Honest Guide for Students in India (2026)](https://medium.com/@socials_22110/flutter-vs-react-native-honest-guide-for-students-in-india-2026-580f90d338fc?source=rss------programming-5) (2026-05-22)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The Power of the Grey Bubble: Why Apple Messages for Business is a game changer
+](
+https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble--why-apple-messages-for-business-is
+) (2026-05-21)
+- [
+What is AI observability (and how does it work)?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability
+) (2026-05-21)
+- [
 8 ways to reduce call center costs with AI
 ](
 https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
@@ -387,16 +397,6 @@ Chatbot vs conversational AI: what's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 ) (2026-05-19)
-- [
-Build a Voice and SMS AI Agent with Twilio Agent Connect and Microsoft Azure
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai-twilio-agent-connect-microsoft-azure
-) (2026-05-18)
-- [
-Voice AI vs conversational AI: what's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
-) (2026-05-14)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
 - [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
+- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 
 </details>
 
