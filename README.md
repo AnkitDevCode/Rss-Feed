@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/) (2026-05-21)
-- [Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX](https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/) (2026-05-21)
-- [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/) (2026-05-21)
-- [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) (2026-05-21)
-- [Convective Capital raises an $85 million fund to build disaster resilience](https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/) (2026-05-21)
+- [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/) (2026-05-22)
+- [SpaceX scrubs first Starship V3 launch just before liftoff](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/) (2026-05-22)
+- [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/) (2026-05-21)
+- [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/) (2026-05-21)
+- [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/) (2026-05-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]](https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf) (2026-05-21)
-- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html) (2026-05-21)
-- [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/) (2026-05-21)
-- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) (2026-05-21)
-- [Chewing gum restores dad's taste and smell years after Covid](https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/) (2026-05-21)
+- [It is time to build a new internet](https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/) (2026-05-22)
+- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) (2026-05-22)
+- [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/) (2026-05-21)
+- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/) (2026-05-21)
+- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460) (2026-05-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Philips’ new display has a screen on both sides](https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300) (2026-05-21)
-- [One of Meta’s big legal reckonings just ended in a settlement](https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement) (2026-05-21)
-- [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date) (2026-05-21)
-- [Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day](https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale) (2026-05-21)
-- [The Endless AI guitar pedal has potential](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) (2026-05-21)
+- [Anker’s new earbuds are the first with its AI chip that boosts noise reduction](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip) (2026-05-21)
+- [Anker’s new earbuds have the best call quality I’ve ever heard](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review) (2026-05-21)
+- [States ask judge to break up Live Nation-Ticketmaster](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up) (2026-05-21)
+- [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-05-21)
+- [Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI](https://www.theverge.com/tech/935631/firefox-project-nova-redesign) (2026-05-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app](https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/) (2026-05-21)
+- [As Grok flounders, SpaceX bets future on beating Big Tech at AI](https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/) (2026-05-21)
+- [AT&T sues California in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/) (2026-05-21)
+- [JWST maps the weather on a hot gas giant 700 light-years away](https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/) (2026-05-21)
 - [Zillow loses thousands of listings in fight over “hidden” homes](https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/) (2026-05-21)
-- [Stunning aerial footage still best thing about Top Gun at 40](https://arstechnica.com/culture/2026/05/top-gun-turns-40/) (2026-05-21)
-- [Uh-oh, the International Space Station is leaking again](https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/) (2026-05-21)
-- [US government takes $2 billion equity stake in nine quantum computing firms](https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/) (2026-05-21)
-- [Plug-in hybrids get plugged in more than you might think](https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/) (2026-05-21)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) (2026-05-21)
 - [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/) (2026-05-21)
 - [Anthropic’s Code with Claude showed off coding’s future—whether you like it or not](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/) (2026-05-21)
 - [The Download: online safety’s future and climate tech’s big pivot](https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/) (2026-05-21)
 - [Climate tech companies are pivoting to critical minerals](https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/) (2026-05-21)
-- [Tech researchers are suing the Trump administration over the future of online safety](https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/) (2026-05-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Found a Second Layer to a GitHub Follow Botnet?](https://dev.to/gnomeman4201/found-a-second-layer-to-a-github-follow-botnet-5gh1) (2026-05-21)
-- [AI Daily Digest: May 22, 2026 — Agentic Workflows, Coding Agents & Embodied AI](https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05) (2026-05-21)
-- [How I Secured Internal Microservice Calls Without Passing JWTs](https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k) (2026-05-21)
-- [Stop Mixing Them Up: SLI vs SLO vs SLA Explained](https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge) (2026-05-21)
-- [Rebuilding My Engineering Mind](https://dev.to/yamato0234/rebuilding-my-engineering-mind-67i) (2026-05-21)
+- [The Flawed Assumption of Global E-commerce Platforms](https://dev.to/on-chain-commerce/the-flawed-assumption-of-global-e-commerce-platforms-3nl3) (2026-05-22)
+- [PayPal's Gatekeeper Problem: How I Ditched the Middleman and Began Accepting Cryptocurrency Directly](https://dev.to/built-from-africa/paypals-gatekeeper-problem-how-i-ditched-the-middleman-and-began-accepting-cryptocurrency-directly-5bfh) (2026-05-22)
+- [510(k) clearance pitfalls — the weak links that actually stall approval](https://dev.to/jwithfield_qa/510k-clearance-pitfalls-the-weak-links-that-actually-stall-approval-5a3a) (2026-05-22)
+- [Building A Cross-Border E-commerce System That Just Works](https://dev.to/micro-saas-journal/building-a-cross-border-e-commerce-system-that-just-works-1k66) (2026-05-22)
+- [Low-Budget Multi-Device QA: Automating 3 Platforms with Open Source Tools](https://dev.to/xulingfeng/low-budget-multi-device-qa-automating-3-platforms-with-open-source-tools-4cmj) (2026-05-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The GitHub Copilot Spaces API Just Solved AI Coding’s Amnesia Problem](https://medium.com/@creativeaininja/the-github-copilot-spaces-api-just-solved-ai-codings-amnesia-problem-624f805461fe?source=rss------programming-5) (2026-05-21)
-- [7 Figure Acceleration](https://medium.com/@vishalmane621/7-figure-acceleration-c19176110fb5?source=rss------programming-5) (2026-05-21)
-- [How I gave Claude Code eyes on my infrastructure — and stopped flying blind](https://medium.com/@siddharthpandey_77104/how-i-gave-claude-code-eyes-on-my-infrastructure-and-stopped-flying-blind-4c200dfa8b8d?source=rss------programming-5) (2026-05-21)
-- [The Best Programming Language for 2026?](https://medium.com/write-a-catalyst/the-best-programming-language-for-2026-939d118e0e75?source=rss------programming-5) (2026-05-21)
-- [The Puzzle That Ends The World](https://medium.com/@vplevris/the-puzzle-that-ends-the-world-b1297e4f420d?source=rss------programming-5) (2026-05-21)
+- [# JWT vs PQ-JWT — Why Post-Quantum Authentication Matters](https://medium.com/@sachinruhil11/jwt-vs-pq-jwt-why-post-quantum-authentication-matters-89493d7db98c?source=rss------programming-5) (2026-05-22)
+- [Gemini 3.5 Flash Is Google’s Fastest AI Power Move Yet](https://medium.com/data-science-in-your-pocket/gemini-3-5-flash-is-googles-fastest-ai-power-move-yet-880c4d931b02?source=rss------programming-5) (2026-05-22)
+- [The Skills That Make Claude More Powerful Than You Think](https://medium.com/@danyalmarwat23/the-skills-that-make-claude-more-powerful-than-you-think-652f0301b352?source=rss------programming-5) (2026-05-22)
+- [Laravel Telescope: The Debugging Superpower That Most Developers Install and Never Actually Use](https://sadiqueali.medium.com/laravel-telescope-the-debugging-superpower-that-most-developers-install-and-never-actually-use-671bac861360?source=rss------programming-5) (2026-05-22)
+- [Day 13: I Was Confused About Linux Networking Until I Learned This](https://pawannatekar220.medium.com/day-13-i-was-confused-about-linux-networking-until-i-learned-this-c079bda71f16?source=rss------programming-5) (2026-05-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 - [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
 - [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
-- [Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026](https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/) (2026-05-11)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Upcoming changes to age ratings in Australia and Vietnam](https://developer.apple.com/news/?id=yrrb45pw) (2026-05-21)
 - [Introducing the 2026 Apple Design Award finalists](https://developer.apple.com/news/?id=8t3j66i7) (2026-05-18)
 - [Coming bright up](https://developer.apple.com/news/?id=7lcnqgxp) (2026-05-18)
 - [Hello Developer: May 2026](https://developer.apple.com/news/?id=qtzr82f0) (2026-05-12)
 - [Get the most out of your Apple Developer account](https://developer.apple.com/news/?id=sw8ldfjk) (2026-05-12)
-- [Brazilian betting license requirement for App Store availability](https://developer.apple.com/news/?id=x4eyetnp) (2026-05-08)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity 2025.11.5 Is Out](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2025-11-5-bug-fix/) (2026-05-21)
 - [KotlinConf’26 Keynote Highlights: Advances in Language Design, Tooling, AI-Driven Workflows, and Multiplatform Development](https://blog.jetbrains.com/kotlin/2026/05/kotlinconf26-keynote-highlights/) (2026-05-21)
 - [Introducing a Security Support Policy for the Kotlin Standard Library](https://blog.jetbrains.com/kotlin/2026/05/security-support-policy-for-the-kotlin-standard-library/) (2026-05-21)
 - [Official Kotlin Support for Visual Studio Code Is Now Available in Alpha](https://blog.jetbrains.com/kotlin/2026/05/official-kotlin-support-for-visual-studio-code-is-now-available-in-alpha/) (2026-05-21)
 - [Improving Accessibility in JetBrains IDEs: What’s New and What’s Next in 2026](https://blog.jetbrains.com/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026/) (2026-05-21)
-- [Built for Productivity: What the Data Finally Shows About Kotlin](https://blog.jetbrains.com/kotlin/2026/05/built-for-productivity-what-the-data-shows-about-kotlin/) (2026-05-20)
 
 </details>
 
@@ -328,7 +328,7 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
-- [GitLab 19.0: Transform MRs from manual tasks to an automated workflow](https://about.gitlab.com/blog/transform-mrs-to-automated-workflow/) (2026-05-21)
+- [Transform MRs from manual tasks to an automated workflow](https://about.gitlab.com/blog/transform-mrs-to-automated-workflow/) (2026-05-21)
 - [Track CI component usage across your organization](https://about.gitlab.com/blog/track-ci-component-usage/) (2026-05-21)
 - [Manage CI/CD credentials with GitLab Secrets Manager](https://about.gitlab.com/blog/secrets-manager-in-public-beta/) (2026-05-21)
 - [More AI models for GitLab Duo Agent Platform Self-Hosted](https://about.gitlab.com/blog/more-ai-models-for-duo-agent-platform-self-hosted/) (2026-05-21)
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
+- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
 - [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 
 </details>
 
@@ -624,11 +624,11 @@ https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) (2026-05-21)
 - [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) (2026-05-18)
 - [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) (2026-05-17)
 - [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) (2026-05-17)
 - [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) (2026-05-17)
-- [Gemini for Science: AI experiments and tools for a new era of discovery](https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/) (2026-05-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
