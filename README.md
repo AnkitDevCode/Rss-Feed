@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/) (2026-05-22)
-- [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/) (2026-05-22)
-- [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/) (2026-05-22)
-- [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/) (2026-05-22)
-- [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) (2026-05-22)
+- [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) (2026-05-22)
+- [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/) (2026-05-22)
+- [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/) (2026-05-22)
+- [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) (2026-05-22)
+- [How VCs and founders use inflated ‘ARR’ to crown AI startups ](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/) (2026-05-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) (2026-05-22)
-- [Bicycling Boosts Well-Being: A Scoping Review](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full) (2026-05-22)
-- [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) (2026-05-22)
-- [TorQ: Kdb+ Production Framework](https://github.com/DataIntellectTech/TorQ) (2026-05-22)
-- [CBS Radio signs off after nearly 100 years of broadcasting](https://www.cbsnews.com/news/cbs-news-radio-last-day/) (2026-05-22)
+- [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware) (2026-05-23)
+- [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505) (2026-05-22)
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) (2026-05-22)
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) (2026-05-22)
+- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev) (2026-05-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard) (2026-05-22)
 - [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale) (2026-05-22)
 - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on) (2026-05-22)
 - [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) (2026-05-22)
 - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-22)
-- [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale) (2026-05-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Police boast of hacking VPN where criminals "believed themselves to be safe"](https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/) (2026-05-22)
-- [Review: The Mandalorian and Grogu is ... fine](https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/) (2026-05-22)
-- [Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption](https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/) (2026-05-22)
-- [Before it comes down, what should be saved from the International Space Station?](https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/) (2026-05-22)
-- [Marketer that claimed it could tap devices for ad targeting will pay $880K settlement](https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/) (2026-05-22)
+- [Four Russian satellites are now within striking distance of an ICEYE radarsat](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) (2026-05-22)
+- [Ebola outbreak now third largest recorded and "spreading rapidly"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/) (2026-05-22)
+- [First-generation Chromecast users stressed by devices suddenly failing](https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/) (2026-05-22)
+- [Trump FCC asks public to comment on whether ABC's The View is a news show](https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/) (2026-05-22)
+- [US scrambles to stop Internet users re-creating dead pilots’ voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/) (2026-05-22)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Learning Progress Pt.16](https://dev.to/muhamedmaxhuni/learning-progress-pt16-og) (2026-05-22)
-- [From Unfinished Idea to Real Product: My BuildGenAI Comeback](https://dev.to/samarth28/from-unfinished-idea-to-real-product-my-buildgenai-comeback-1igk) (2026-05-22)
-- [The Quiet Strategy](https://dev.to/mrnasdog/the-quiet-strategy-28d) (2026-05-22)
-- [I Revived a 9-Year-Old App with OpenAI Codex with a Product Engineer Mindset](https://dev.to/heriberto_codes/i-revived-a-9-year-old-app-with-openai-codex-with-a-product-engineer-mindset-19c9) (2026-05-22)
-- [What Enterprise RAG Is Ready For Today and What Production Deployment Actually Requires](https://dev.to/manjunath_d35c391da339e5b/what-enterprise-rag-is-ready-for-today-and-what-production-deployment-actually-requires-24jh) (2026-05-22)
+- [Microsoft Just Shipped MCP Governance for .NET. Here's What It Actually Enforces.](https://dev.to/om_shree_0709/microsoft-just-shipped-mcp-governance-for-net-heres-what-it-actually-enforces-1en) (2026-05-23)
+- [How I Built a Pakistan Internet Speed Test Platform at 16](https://dev.to/nayab_eman_02ff701a202185/how-i-built-a-pakistan-internet-speed-test-platform-at-16-52n7) (2026-05-23)
+- [How to Build a Supervisor Agent Architecture Without Frameworks](https://dev.to/rafaeltedesco/how-to-build-a-supervisor-agent-architecture-without-frameworks-3g83) (2026-05-23)
+- [I Built My Own Corner of the Internet — Here's What It Looks Like](https://dev.to/niteshupreti/i-built-my-own-corner-of-the-internet-heres-what-it-looks-like-158b) (2026-05-23)
+- [How does VuReact compile Vue 3's defineExpose() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineexpose-to-react-1jhj) (2026-05-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Backend Is Where the Storm Lives](https://medium.com/@himanshub49/the-backend-is-where-the-storm-lives-8213dd682ee8?source=rss------programming-5) (2026-05-22)
-- [The Architecture Astronaut: A Portrait of the Developer Who Has Never Shipped a Thing](https://medium.com/@daxx5/the-architecture-astronaut-a-portrait-of-the-developer-who-has-never-shipped-a-thing-ca705aa196c3?source=rss------programming-5) (2026-05-22)
-- [The Foundations of Modern AI: Neural Networks, Attention, and Large Language Models Explained](https://medium.com/@tigermudassirpm/the-foundations-of-modern-ai-neural-networks-attention-and-large-language-models-explained-1e67033e12cf?source=rss------programming-5) (2026-05-22)
-- [I Turned a $35 Computer Into a Live Security Camera With Go](https://pascalallen.medium.com/i-turned-a-35-computer-into-a-live-security-camera-with-go-f1e061dacc33?source=rss------programming-5) (2026-05-22)
-- [We Passed Our Code Review Using AI — But I Still Questioned Myself](https://medium.com/@abhisakthika/we-passed-our-code-review-using-ai-but-i-still-questioned-myself-6af73690f043?source=rss------programming-5) (2026-05-22)
+- [Alpaquitay-AI: The VS Code Extension That Brings Agentic AI Into Your Editor](https://medium.com/@sergioide007/alpaquitay-ai-the-vs-code-extension-that-brings-agentic-ai-into-your-editor-693070e5ead6?source=rss------programming-5) (2026-05-23)
+- [# === PYTHON 68 BUILT-INS WITH CLEAR EXAMPLES ===
+# English meaning | Hindi meaning](https://medium.com/@mathios1122/python-68-built-ins-with-clear-examples-english-meaning-hindi-meaning-3c3316d57081?source=rss------programming-5) (2026-05-23)
+- [The AI Gold Rush Feels Uncomfortably Familiar Because We’ve Seen This Movie Before](https://medium.com/@hadiyolworld007/the-ai-gold-rush-feels-uncomfortably-familiar-because-weve-seen-this-movie-before-fc9093e5b579?source=rss------programming-5) (2026-05-23)
+- [We Refactored Our Domain Model. Three Months Later, Feature Velocity Doubled.](https://elsyarifx.medium.com/we-refactored-our-domain-model-three-months-later-feature-velocity-doubled-954cffda8aba?source=rss------programming-5) (2026-05-23)
+- [Welcome to My Writing Journey
+Hello and welcome to my Medium profile!](https://medium.com/@bosanhammad84/welcome-to-my-writing-journey-hello-and-welcome-to-my-medium-profile-794921b7dbbf?source=rss------programming-5) (2026-05-23)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
-- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -373,6 +375,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The Power of the Grey Bubble: Why Apple Messages for Business is a game changer
+](
+https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble--why-apple-messages-for-business-is
+) (2026-05-21)
+- [
+What is AI observability (and how does it work)?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability
+) (2026-05-21)
+- [
 8 ways to reduce call center costs with AI
 ](
 https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
@@ -387,16 +399,6 @@ Chatbot vs conversational AI: what's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 ) (2026-05-19)
-- [
-Build a Voice and SMS AI Agent with Twilio Agent Connect and Microsoft Azure
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-sms-ai-twilio-agent-connect-microsoft-azure
-) (2026-05-18)
-- [
-Voice AI vs conversational AI: what's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
-) (2026-05-14)
 
 </details>
 
@@ -535,21 +537,21 @@ https://www.twilio.com/en-us/blog/insights/voice-ai-vs-conversational-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Join the PyTorch Foundation Ambassador Program: A Global Network of Community Leaders](https://pytorch.org/blog/join-the-pytorch-foundation-ambassador-program-a-global-network-of-community-leaders/) (2026-05-22)
 - [PyTorch Docathon 2026 Results in 150+ Merged Pull Requests](https://pytorch.org/blog/pytorch-docathon-2026-results/) (2026-05-20)
 - [vLLM and PyTorch Work Together to Improve the Developer Experience on aarch64](https://pytorch.org/blog/vllm-and-pytorch-work-together-to-improve-the-developer-experience-on-aarch64/) (2026-05-18)
 - [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/) (2026-05-18)
 - [PyTorch 2.12 Release Blog](https://pytorch.org/blog/pytorch-2-12-release-blog/) (2026-05-13)
-- [Efficient Edge AI on Arm CPUs and NPUs: Understanding ExecuTorch through Practical Labs](https://pytorch.org/blog/efficient-edge-ai-on-arm-cpus-and-npus/) (2026-05-12)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
 - [Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook](https://huggingface.co/blog/Dharma-AI/specialization-beats-scale) (2026-05-22)
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
-- [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) (2026-05-18)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
 
 </details>
