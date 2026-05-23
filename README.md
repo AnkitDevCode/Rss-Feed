@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/) (2026-05-23)
+- [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/) (2026-05-23)
+- [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/) (2026-05-23)
+- [Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/) (2026-05-23)
 - [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) (2026-05-23)
-- [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) (2026-05-22)
-- [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/) (2026-05-22)
-- [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/) (2026-05-22)
-- [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) (2026-05-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son) (2026-05-23)
-- [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/) (2026-05-23)
-- [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware) (2026-05-23)
-- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) (2026-05-22)
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) (2026-05-22)
+- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) (2026-05-23)
+- [Iowa lawmakers to mandate students take Center for Intellectual Freedom classes](https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/) (2026-05-23)
+- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) (2026-05-23)
+- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026) (2026-05-23)
+- [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) (2026-05-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard) (2026-05-22)
-- [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale) (2026-05-22)
-- [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on) (2026-05-22)
-- [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) (2026-05-22)
-- [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-22)
+- [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech) (2026-05-23)
+- [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50) (2026-05-23)
+- [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam) (2026-05-23)
+- [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer) (2026-05-23)
+- [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) (2026-05-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX's Starship V3—still a work in progress—mostly successful on first flight](https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/) (2026-05-23)
+- [Two space shuttle-era spacewalkers enter Astronaut Hall of Fame](https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/) (2026-05-23)
+- [China’s shark finning could lead to US seafood sanctions](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/) (2026-05-23)
 - [Four Russian satellites are now within striking distance of an ICEYE radarsat](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) (2026-05-22)
 - [Ebola outbreak now third largest recorded and "spreading rapidly"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/) (2026-05-22)
-- [First-generation Chromecast users stressed by devices suddenly failing](https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/) (2026-05-22)
-- [Trump FCC asks public to comment on whether ABC's The View is a news show](https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/) (2026-05-22)
-- [US scrambles to stop Internet users re-creating dead pilots’ voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/) (2026-05-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What I Actually Build: AI Systems That Ship, Not Demos That Impress](https://dev.to/yabasha/what-i-actually-build-ai-systems-that-ship-not-demos-that-impress-b88) (2026-05-23)
-- [The Box Ticked While You Read This: LinkedIn, AI Training, and the Switch You Did Not Flip](https://dev.to/vivian-voss/the-box-ticked-while-you-read-this-linkedin-ai-training-and-the-switch-you-did-not-flip-2040) (2026-05-23)
-- [I Cancelled My $20 Claude Cowork Plan After a Week With OpenWork](https://dev.to/greza_dev/i-cancelled-my-20-claude-cowork-plan-after-a-week-with-openwork-50ca) (2026-05-23)
-- [Stop Reviewing Every Line of AI Code - Build the Trust Stack Instead](https://dev.to/sag1v/stop-reviewing-every-line-of-ai-code-build-the-trust-stack-instead-28jf) (2026-05-23)
-- [How To Build an Image Cropper in Browser (Simple Steps)](https://dev.to/binakumari/how-to-build-an-image-cropper-in-browser-simple-steps-5bge) (2026-05-23)
+- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h) (2026-05-23)
+- [Veltrix's Treasure Hunt Engine: Optimized for Long-Term Survival, Not Just Scalability](https://dev.to/built-from-africa/veltrixs-treasure-hunt-engine-optimized-for-long-term-survival-not-just-scalability-ghg) (2026-05-23)
+- [Open WebUI: Your Local ChatGPT](https://dev.to/lingdas1/open-webui-your-local-chatgpt-29d8) (2026-05-23)
+- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f) (2026-05-23)
+- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0) (2026-05-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tried to Predict Customer Churn With ML — Here’s What Actually Worked](https://medium.com/@berkeardaturk/i-tried-to-predict-customer-churn-with-ml-heres-what-actually-worked-50a1c38e2185?source=rss------programming-5) (2026-05-23)
-- [Gemma 4 26B MoE vs Claude Opus 4.6: Which One I’m Actually Using in 2026](https://ai.plainenglish.io/gemma-4-26b-moe-vs-claude-opus-4-6-which-one-im-actually-using-in-2026-e51a65a7e113?source=rss------programming-5) (2026-05-23)
-- [Nobody Talks About the Boring Part of Being a Good Engineer. It Is the Most Important Part.](https://medium.com/@toyezyadav/nobody-talks-about-the-boring-part-of-being-a-good-engineer-it-is-the-most-important-part-0df5b831e0d3?source=rss------programming-5) (2026-05-23)
-- [Jr Penetration Tester — Dive Into Pentesting (Room Walkthrough)](https://medium.com/@wasp_/jr-penetration-tester-dive-into-pentesting-room-walkthrough-c1efaa7f856e?source=rss------programming-5) (2026-05-23)
-- [Day 11: Mini Project #2 — A Habit Streak Tracker](https://kirupakaran094.medium.com/day-11-mini-project-2-a-habit-streak-tracker-4d9ae52aad04?source=rss------programming-5) (2026-05-23)
+- [I Was Tired of Switching Apps All Day. So I Built My Own Solution.](https://medium.com/@usmanhaider0784/i-was-tired-of-switching-apps-all-day-so-i-built-my-own-solution-b6ebf966c118?source=rss------programming-5) (2026-05-23)
+- [I Created 30 Test Accounts Without My Real Phone Number — Here Is the $0.50](https://medium.com/@squad404team/i-created-30-test-accounts-without-my-real-phone-number-here-is-the-0-50-0ae96da412c2?source=rss------programming-5) (2026-05-23)
+- [Sheerpower, Part 7: Sending Emails With Just a Few Lines of Code](https://medium.com/@yashbatra11111/sheerpower-part-7-sending-emails-with-just-a-few-lines-of-code-b6272c8507d6?source=rss------programming-5) (2026-05-23)
+- [Compiler vs Interpreter — Why LangGraph Is Becoming Your Hot Path Cost Center](https://medium.com/@wasowski.jarek/compiler-vs-interpreter-why-langgraph-is-becoming-your-hot-path-cost-center-9239aa4f3902?source=rss------programming-5) (2026-05-23)
+- [Vibecoding at Production Scale](https://medium.com/autocomplete-real-world-ai/vibecoding-at-production-scale-ee40d4bf18c0?source=rss------programming-5) (2026-05-23)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
-- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
-- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
-- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
+- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
+- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
+- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Mathematically Choose the Optimal Bins for Your Histogram](https://towardsdatascience.com/fun-with-histograms-and-densities/) (2026-05-23)
+- [Beyond the Scroll: How Social Media Algorithms Shape Your Reality](https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/) (2026-05-23)
+- [From Prototype to Profit: Solving the Agentic Token-Burn Problem](https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/) (2026-05-23)
 - [Hybrid AI: Combining Deterministic Analytics with LLM Reasoning](https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/) (2026-05-22)
 - [Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale](https://towardsdatascience.com/document-intelligence-a-series-on-building-rag-brick-by-brick-from-minimal-to-corpus-scale/) (2026-05-22)
-- [The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer](https://towardsdatascience.com/the-hidden-bottleneck-in-quantum-machine-learning-getting-data-into-a-quantum-computer/) (2026-05-22)
-- [Lost in Translation: How AI Exposes the Rift Between Law and Logic](https://towardsdatascience.com/lost-in-translation-how-ai-exposes-the-rift-between-lw-and-logic/) (2026-05-22)
-- [LLM Themes Are Not Observations](https://towardsdatascience.com/llm-themes-are-not-observations/) (2026-05-21)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Pandas vs Polars vs DuckDB: Which Library Should You Choose?](https://www.analyticsvidhya.com/blog/2026/05/pandas-vs-polars-vs-duckdb/) (2026-05-23)
 - [Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows ](https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/) (2026-05-22)
 - [The Biggest Announcements from Google I/O 2026](https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/) (2026-05-21)
 - [Top 9 AI Events and Conferences in 2026 that you Must Attend](https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/) (2026-05-20)
 - [Gemini 3.5 Flash: Frontier Intelligence with Speed](https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/) (2026-05-20)
-- [Kimi WebBridge: Hands-on Guide to Kimi’s Browser Extension for AI Agents ](https://www.analyticsvidhya.com/blog/2026/05/kimi-webbridge/) (2026-05-19)
 
 </details>
 
