@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) (2026-05-23)
 - [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) (2026-05-22)
 - [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/) (2026-05-22)
 - [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/) (2026-05-22)
 - [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) (2026-05-22)
-- [How VCs and founders use inflated ‘ARR’ to crown AI startups ](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/) (2026-05-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son) (2026-05-23)
+- [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/) (2026-05-23)
 - [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware) (2026-05-23)
-- [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505) (2026-05-22)
 - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) (2026-05-22)
 - [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) (2026-05-22)
-- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev) (2026-05-22)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Microsoft Just Shipped MCP Governance for .NET. Here's What It Actually Enforces.](https://dev.to/om_shree_0709/microsoft-just-shipped-mcp-governance-for-net-heres-what-it-actually-enforces-1en) (2026-05-23)
-- [How I Built a Pakistan Internet Speed Test Platform at 16](https://dev.to/nayab_eman_02ff701a202185/how-i-built-a-pakistan-internet-speed-test-platform-at-16-52n7) (2026-05-23)
-- [How to Build a Supervisor Agent Architecture Without Frameworks](https://dev.to/rafaeltedesco/how-to-build-a-supervisor-agent-architecture-without-frameworks-3g83) (2026-05-23)
-- [I Built My Own Corner of the Internet — Here's What It Looks Like](https://dev.to/niteshupreti/i-built-my-own-corner-of-the-internet-heres-what-it-looks-like-158b) (2026-05-23)
-- [How does VuReact compile Vue 3's defineExpose() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineexpose-to-react-1jhj) (2026-05-23)
+- [What I Actually Build: AI Systems That Ship, Not Demos That Impress](https://dev.to/yabasha/what-i-actually-build-ai-systems-that-ship-not-demos-that-impress-b88) (2026-05-23)
+- [The Box Ticked While You Read This: LinkedIn, AI Training, and the Switch You Did Not Flip](https://dev.to/vivian-voss/the-box-ticked-while-you-read-this-linkedin-ai-training-and-the-switch-you-did-not-flip-2040) (2026-05-23)
+- [I Cancelled My $20 Claude Cowork Plan After a Week With OpenWork](https://dev.to/greza_dev/i-cancelled-my-20-claude-cowork-plan-after-a-week-with-openwork-50ca) (2026-05-23)
+- [Stop Reviewing Every Line of AI Code - Build the Trust Stack Instead](https://dev.to/sag1v/stop-reviewing-every-line-of-ai-code-build-the-trust-stack-instead-28jf) (2026-05-23)
+- [How To Build an Image Cropper in Browser (Simple Steps)](https://dev.to/binakumari/how-to-build-an-image-cropper-in-browser-simple-steps-5bge) (2026-05-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Alpaquitay-AI: The VS Code Extension That Brings Agentic AI Into Your Editor](https://medium.com/@sergioide007/alpaquitay-ai-the-vs-code-extension-that-brings-agentic-ai-into-your-editor-693070e5ead6?source=rss------programming-5) (2026-05-23)
-- [# === PYTHON 68 BUILT-INS WITH CLEAR EXAMPLES ===
-# English meaning | Hindi meaning](https://medium.com/@mathios1122/python-68-built-ins-with-clear-examples-english-meaning-hindi-meaning-3c3316d57081?source=rss------programming-5) (2026-05-23)
-- [The AI Gold Rush Feels Uncomfortably Familiar Because We’ve Seen This Movie Before](https://medium.com/@hadiyolworld007/the-ai-gold-rush-feels-uncomfortably-familiar-because-weve-seen-this-movie-before-fc9093e5b579?source=rss------programming-5) (2026-05-23)
-- [We Refactored Our Domain Model. Three Months Later, Feature Velocity Doubled.](https://elsyarifx.medium.com/we-refactored-our-domain-model-three-months-later-feature-velocity-doubled-954cffda8aba?source=rss------programming-5) (2026-05-23)
-- [Welcome to My Writing Journey
-Hello and welcome to my Medium profile!](https://medium.com/@bosanhammad84/welcome-to-my-writing-journey-hello-and-welcome-to-my-medium-profile-794921b7dbbf?source=rss------programming-5) (2026-05-23)
+- [I Tried to Predict Customer Churn With ML — Here’s What Actually Worked](https://medium.com/@berkeardaturk/i-tried-to-predict-customer-churn-with-ml-heres-what-actually-worked-50a1c38e2185?source=rss------programming-5) (2026-05-23)
+- [Gemma 4 26B MoE vs Claude Opus 4.6: Which One I’m Actually Using in 2026](https://ai.plainenglish.io/gemma-4-26b-moe-vs-claude-opus-4-6-which-one-im-actually-using-in-2026-e51a65a7e113?source=rss------programming-5) (2026-05-23)
+- [Nobody Talks About the Boring Part of Being a Good Engineer. It Is the Most Important Part.](https://medium.com/@toyezyadav/nobody-talks-about-the-boring-part-of-being-a-good-engineer-it-is-the-most-important-part-0df5b831e0d3?source=rss------programming-5) (2026-05-23)
+- [Jr Penetration Tester — Dive Into Pentesting (Room Walkthrough)](https://medium.com/@wasp_/jr-penetration-tester-dive-into-pentesting-room-walkthrough-c1efaa7f856e?source=rss------programming-5) (2026-05-23)
+- [Day 11: Mini Project #2 — A Habit Streak Tracker](https://kirupakaran094.medium.com/day-11-mini-project-2-a-habit-streak-tracker-4d9ae52aad04?source=rss------programming-5) (2026-05-23)
 
 </details>
 
@@ -132,11 +130,11 @@ Hello and welcome to my Medium profile!](https://medium.com/@bosanhammad84/welco
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
-- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
+- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -504,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
+- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
 - [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 
 </details>
 
