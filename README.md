@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/) (2026-05-24)
+- [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/) (2026-05-24)
+- [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/) (2026-05-24)
+- [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/) (2026-05-24)
 - [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/) (2026-05-24)
-- [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/) (2026-05-23)
-- [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/) (2026-05-23)
-- [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/) (2026-05-23)
-- [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/) (2026-05-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Childhood Computing](https://susam.net/childhood-computing.html) (2026-05-24)
-- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) (2026-05-24)
-- [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/) (2026-05-24)
-- [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/) (2026-05-24)
-- [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) (2026-05-24)
+- [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/) (2026-05-24)
+- [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/) (2026-05-24)
+- [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer) (2026-05-24)
+- [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver) (2026-05-24)
+- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) (2026-05-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-24)
+- [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review) (2026-05-24)
+- [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale) (2026-05-24)
 - [Hackers are learning to exploit chatbot &#8216;personalities&#8217;](https://www.theverge.com/column/935545/hackers-ai-chatbots) (2026-05-24)
 - [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo) (2026-05-24)
-- [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds) (2026-05-23)
-- [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech) (2026-05-23)
-- [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50) (2026-05-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj) (2026-05-24)
-- [Gemma 4 is the small-model tier agent stacks were waiting for](https://dev.to/sunilprakash/gemma-4-is-the-small-model-tier-agent-stacks-were-waiting-for-m9b) (2026-05-24)
-- [The Day Your AI Agent Has the Keys to Everything](https://dev.to/codemalasartes/the-day-your-ai-agent-has-the-keys-to-everything-78k) (2026-05-24)
-- [AI Harness: The Operating System for the Next Generation of Intelligent Applications](https://dev.to/avinash247/ai-harness-the-operating-system-for-the-next-generation-of-intelligent-applications-39c8) (2026-05-24)
-- [I Used Gemma 4 as a Private Log Analyst for App Crashes](https://dev.to/nkalra0123/i-used-gemma-4-as-a-private-log-analyst-for-app-crashes-5ddn) (2026-05-24)
+- [📝 Instant Auto Save Notes](https://dev.to/naimeshrao/instant-auto-save-notes-5e19) (2026-05-24)
+- [Engineering the "App-Like" Experience: A Deep Dive into PWA Architecture](https://dev.to/raziq_din_bd0274cc2ac748b/engineering-the-app-like-experience-a-deep-dive-into-pwa-architecture-597j) (2026-05-24)
+- [🔢 JS Array Playground](https://dev.to/naimeshrao/js-array-playground-5e8m) (2026-05-24)
+- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8) (2026-05-24)
+- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n) (2026-05-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [HRM-Text-1B Might Be One of the Weirdest LLM Experiments of 2026](https://medium.com/data-science-in-your-pocket/hrm-text-1b-might-be-one-of-the-weirdest-llm-experiments-of-2026-74eb9621e9c3?source=rss------programming-5) (2026-05-24)
-- [Let’s see where this journey goes](https://medium.com/@mailonmobile/lets-see-where-this-journey-goes-8f249da9a5bd?source=rss------programming-5) (2026-05-24)
-- [Docker Is Not What I Thought It Was](https://medium.com/@aryanchristian55/docker-is-not-what-i-thought-it-was-7a61e0a6ca91?source=rss------programming-5) (2026-05-24)
-- [Why typeof null === “object” in JavaScript](https://medium.com/@AviSharmaaa/why-typeof-null-object-in-javascript-367d622c633a?source=rss------programming-5) (2026-05-24)
-- [You won’t believe how easy Machine Learning actually is](https://medium.com/design-bootcamp/you-wont-believe-how-easy-machine-learning-actually-is-da6c876ea62b?source=rss------programming-5) (2026-05-24)
+- [I built a tool that shows you exactly what an ATS reads from your resume — here’s how it works](https://medium.com/@madhab.coder/i-built-a-tool-that-shows-you-exactly-what-an-ats-reads-from-your-resume-heres-how-it-works-3db65d7ef7fd?source=rss------programming-5) (2026-05-24)
+- [The New Postgres Feature That Might Replace Vector Databases](https://medium.com/@manojgour6811/the-new-postgres-feature-that-might-replace-vector-databases-9789c93f13da?source=rss------programming-5) (2026-05-24)
+- [Hardware hacking (UART)](https://medium.com/@anees78788878/hardware-hacking-uart-b9a761c7633d?source=rss------programming-5) (2026-05-24)
+- [Stop Wasting Tokens: Practical Token Optimization Techniques for Codex, Windsurf, and GitHub…](https://medium.com/@gyanendrapatro02/stop-wasting-tokens-practical-token-optimization-techniques-for-codex-windsurf-and-github-48ba16b7350a?source=rss------programming-5) (2026-05-24)
+- [The Death of the “Wrong Way”: How AI Is Quietly Creating Fragile Engineers](https://medium.com/@nejawittatchy/the-death-of-the-wrong-way-how-ai-is-quietly-creating-fragile-engineers-03474c401a6f?source=rss------programming-5) (2026-05-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
-- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
+- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
-- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
-- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
+- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
+- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
+- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Ultimate Beginners’ Guide to Building an AI Agent in Python](https://towardsdatascience.com/the-ultimate-beginners-guide-to-building-an-ai-agent-in-python/) (2026-05-24)
 - [Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation](https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/) (2026-05-24)
 - [How to Mathematically Choose the Optimal Bins for Your Histogram](https://towardsdatascience.com/fun-with-histograms-and-densities/) (2026-05-23)
 - [Beyond the Scroll: How Social Media Algorithms Shape Your Reality](https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/) (2026-05-23)
 - [From Prototype to Profit: Solving the Agentic Token-Burn Problem](https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/) (2026-05-23)
-- [Hybrid AI: Combining Deterministic Analytics with LLM Reasoning](https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/) (2026-05-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build a Claude Cowork-Like Browser Agent Using Playwright MCP and Claude Desktop ](https://www.analyticsvidhya.com/blog/2026/05/build-a-claude-cowork-like-browser-agent-using-playwright-mcp/) (2026-05-24)
 - [Pandas vs Polars vs DuckDB: Which Library Should You Choose?](https://www.analyticsvidhya.com/blog/2026/05/pandas-vs-polars-vs-duckdb/) (2026-05-23)
 - [Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows ](https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/) (2026-05-22)
 - [The Biggest Announcements from Google I/O 2026](https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/) (2026-05-21)
 - [Top 9 AI Events and Conferences in 2026 that you Must Attend](https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/) (2026-05-20)
-- [Gemini 3.5 Flash: Frontier Intelligence with Speed](https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/) (2026-05-20)
 
 </details>
 
