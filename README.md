@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/) (2026-05-24)
-- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) (2026-05-24)
-- [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) (2026-05-24)
-- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) (2026-05-24)
-- [When does learning from data work (math starting from basic probability)](https://prateekchandrajha.github.io/vc-rademacher.html) (2026-05-23)
+- [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/) (2026-05-24)
+- [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public) (2026-05-24)
+- [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) (2026-05-24)
+- [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font) (2026-05-24)
+- [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/) (2026-05-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Send Log DE in SFMC: Tracking What the Defaults Miss](https://dev.to/sapotacorp/send-log-de-in-sfmc-tracking-what-the-defaults-miss-kdm) (2026-05-24)
-- [Model-driven ribbon: Command Designer vs Ribbon Workbench in 2026](https://dev.to/sapotacorp/model-driven-ribbon-command-designer-vs-ribbon-workbench-in-2026-3bnd) (2026-05-24)
-- [PO approval at scale in D365: rule-based procurement workflows](https://dev.to/sapotacorp/po-approval-at-scale-in-d365-rule-based-procurement-workflows-4h4j) (2026-05-24)
-- [Why SFMC Sends to the Old Email: All Subscribers List Override](https://dev.to/sapotacorp/why-sfmc-sends-to-the-old-email-all-subscribers-list-override-117f) (2026-05-24)
-- [PCF control with React 18 and TypeScript: our project template](https://dev.to/sapotacorp/pcf-control-with-react-18-and-typescript-our-project-template-5h57) (2026-05-24)
+- [Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.](https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c) (2026-05-24)
+- [Enhancing the AI Blog System: SQLite Support and Streamlined Publishing Features](https://dev.to/parth_girme_87f58cfe997c7/enhancing-the-ai-blog-system-sqlite-support-and-streamlined-publishing-features-59f7) (2026-05-24)
+- [I Fine-Tuned Gemma 4 on an Emotion Dataset Using a Single GPU](https://dev.to/sujankoirala021/i-fine-tuned-gemma-4-on-an-emotion-dataset-using-a-single-gpu-e72) (2026-05-24)
+- [Omnichannel inventory in D365: DOM + the Inventory Add-in](https://dev.to/sapotacorp/omnichannel-inventory-in-d365-dom-the-inventory-add-in-fej) (2026-05-24)
+- [File-Drop Automations: SFMC Pattern for Daily Imports](https://dev.to/sapotacorp/file-drop-automations-sfmc-pattern-for-daily-imports-e4b) (2026-05-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Built a YouTube Thumbnail Downloader with Python (And Why I Needed It)](https://medium.com/@themabhiram/how-i-built-a-youtube-thumbnail-downloader-with-python-and-why-i-needed-it-b82f6bd6996f?source=rss------programming-5) (2026-05-24)
-- [Linux Networking Basic Part 3: 5 Commands Every Linux User Must Know](https://pawannatekar220.medium.com/linux-networking-basic-part-3-5-commands-every-linux-user-must-know-9a89d646167f?source=rss------programming-5) (2026-05-24)
-- [13 Productivity Hacks Every Software Engineer Needs in 2026](https://medium.com/@baheer224/13-productivity-hacks-every-software-engineer-needs-in-2026-67e41b5c6ca2?source=rss------programming-5) (2026-05-24)
-- [How I Survived 4 Big Tech Layoffs. The Pattern I Now Refuse to Ignore.](https://medium.com/@speed_enginner/how-i-survived-4-big-tech-layoffs-the-pattern-i-now-refuse-to-ignore-93e013e512df?source=rss------programming-5) (2026-05-24)
-- [Why Great Data Scientists Read More Python Code Than They Write (And How to Master It)](https://medium.com/@blessingobasiuzoma/why-great-data-scientists-read-more-python-code-than-they-write-and-how-to-master-it-79f74e8c340e?source=rss------programming-5) (2026-05-24)
+- [From Supervised to Independent: A Six-Month Framework for Mentoring Engineers](https://medium.com/@kokilahansani/from-supervised-to-independent-a-six-month-framework-for-mentoring-engineers-e4ede8378656?source=rss------programming-5) (2026-05-24)
+- [How To Properly Use AI For Code In 2026](https://medium.com/@Boot_loader/how-to-properly-use-ai-for-code-in-2026-1e2d16b54fbb?source=rss------programming-5) (2026-05-24)
+- [Building a Secure File Sharing Using Blockchain-Style Integrity Verification](https://medium.com/@Hunter.x/building-a-secure-file-sharingsystem-using-blockchain-style-integrity-verification-a7eef33487e5?source=rss------programming-5) (2026-05-24)
+- [AasPass: A lightweight, local-first password vault for developers](https://medium.com/@unlikelycreator/aaspass-a-lightweight-local-first-password-vault-for-developers-a3fb7204a937?source=rss------programming-5) (2026-05-24)
+- [Google Just Redefined What a Developer Is. Most Developers Were Not in the Room.](https://medium.com/@toyezyadav/google-just-redefined-what-a-developer-is-most-developers-were-not-in-the-room-d3a1aded10d2?source=rss------programming-5) (2026-05-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
-- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
+- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
 - [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
 - [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
 - [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
-- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
-- [Musk and Zuckerberg convinced Trump to scrap AI executive order](https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/) (2026-05-22)
-- [Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/) (2026-05-21)
-- [Alibaba is designing AI chips around agents, and that changes what the race is actually about](https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/) (2026-05-20)
 
 </details>
 
