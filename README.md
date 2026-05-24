@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/) (2026-05-23)
 - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/) (2026-05-23)
 - [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/) (2026-05-23)
 - [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/) (2026-05-23)
 - [Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/) (2026-05-23)
-- [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/) (2026-05-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) (2026-05-23)
-- [Iowa lawmakers to mandate students take Center for Intellectual Freedom classes](https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/) (2026-05-23)
-- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) (2026-05-23)
-- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026) (2026-05-23)
-- [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) (2026-05-23)
+- [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/) (2026-05-24)
+- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) (2026-05-24)
+- [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) (2026-05-24)
+- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) (2026-05-24)
+- [When does learning from data work (math starting from basic probability)](https://prateekchandrajha.github.io/vc-rademacher.html) (2026-05-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds) (2026-05-23)
 - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech) (2026-05-23)
 - [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50) (2026-05-23)
 - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam) (2026-05-23)
 - [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer) (2026-05-23)
-- [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) (2026-05-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h) (2026-05-23)
-- [Veltrix's Treasure Hunt Engine: Optimized for Long-Term Survival, Not Just Scalability](https://dev.to/built-from-africa/veltrixs-treasure-hunt-engine-optimized-for-long-term-survival-not-just-scalability-ghg) (2026-05-23)
-- [Open WebUI: Your Local ChatGPT](https://dev.to/lingdas1/open-webui-your-local-chatgpt-29d8) (2026-05-23)
-- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f) (2026-05-23)
-- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0) (2026-05-23)
+- [Send Log DE in SFMC: Tracking What the Defaults Miss](https://dev.to/sapotacorp/send-log-de-in-sfmc-tracking-what-the-defaults-miss-kdm) (2026-05-24)
+- [Model-driven ribbon: Command Designer vs Ribbon Workbench in 2026](https://dev.to/sapotacorp/model-driven-ribbon-command-designer-vs-ribbon-workbench-in-2026-3bnd) (2026-05-24)
+- [PO approval at scale in D365: rule-based procurement workflows](https://dev.to/sapotacorp/po-approval-at-scale-in-d365-rule-based-procurement-workflows-4h4j) (2026-05-24)
+- [Why SFMC Sends to the Old Email: All Subscribers List Override](https://dev.to/sapotacorp/why-sfmc-sends-to-the-old-email-all-subscribers-list-override-117f) (2026-05-24)
+- [PCF control with React 18 and TypeScript: our project template](https://dev.to/sapotacorp/pcf-control-with-react-18-and-typescript-our-project-template-5h57) (2026-05-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Was Tired of Switching Apps All Day. So I Built My Own Solution.](https://medium.com/@usmanhaider0784/i-was-tired-of-switching-apps-all-day-so-i-built-my-own-solution-b6ebf966c118?source=rss------programming-5) (2026-05-23)
-- [I Created 30 Test Accounts Without My Real Phone Number — Here Is the $0.50](https://medium.com/@squad404team/i-created-30-test-accounts-without-my-real-phone-number-here-is-the-0-50-0ae96da412c2?source=rss------programming-5) (2026-05-23)
-- [Sheerpower, Part 7: Sending Emails With Just a Few Lines of Code](https://medium.com/@yashbatra11111/sheerpower-part-7-sending-emails-with-just-a-few-lines-of-code-b6272c8507d6?source=rss------programming-5) (2026-05-23)
-- [Compiler vs Interpreter — Why LangGraph Is Becoming Your Hot Path Cost Center](https://medium.com/@wasowski.jarek/compiler-vs-interpreter-why-langgraph-is-becoming-your-hot-path-cost-center-9239aa4f3902?source=rss------programming-5) (2026-05-23)
-- [Vibecoding at Production Scale](https://medium.com/autocomplete-real-world-ai/vibecoding-at-production-scale-ee40d4bf18c0?source=rss------programming-5) (2026-05-23)
+- [How I Built a YouTube Thumbnail Downloader with Python (And Why I Needed It)](https://medium.com/@themabhiram/how-i-built-a-youtube-thumbnail-downloader-with-python-and-why-i-needed-it-b82f6bd6996f?source=rss------programming-5) (2026-05-24)
+- [Linux Networking Basic Part 3: 5 Commands Every Linux User Must Know](https://pawannatekar220.medium.com/linux-networking-basic-part-3-5-commands-every-linux-user-must-know-9a89d646167f?source=rss------programming-5) (2026-05-24)
+- [13 Productivity Hacks Every Software Engineer Needs in 2026](https://medium.com/@baheer224/13-productivity-hacks-every-software-engineer-needs-in-2026-67e41b5c6ca2?source=rss------programming-5) (2026-05-24)
+- [How I Survived 4 Big Tech Layoffs. The Pattern I Now Refuse to Ignore.](https://medium.com/@speed_enginner/how-i-survived-4-big-tech-layoffs-the-pattern-i-now-refuse-to-ignore-93e013e512df?source=rss------programming-5) (2026-05-24)
+- [Why Great Data Scientists Read More Python Code Than They Write (And How to Master It)](https://medium.com/@blessingobasiuzoma/why-great-data-scientists-read-more-python-code-than-they-write-and-how-to-master-it-79f74e8c340e?source=rss------programming-5) (2026-05-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
-- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
+- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
-- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
-- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
+- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
+- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
 
 </details>
 
