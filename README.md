@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/) (2026-05-25)
+- [The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/) (2026-05-25)
+- [The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/) (2026-05-25)
 - [Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/) (2026-05-25)
 - [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/) (2026-05-25)
-- [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) (2026-05-24)
-- [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/) (2026-05-24)
-- [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/) (2026-05-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481) (2026-05-25)
-- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) (2026-05-25)
-- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) (2026-05-25)
-- [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/) (2026-05-25)
-- [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) (2026-05-25)
+- [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/) (2026-05-25)
+- [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/) (2026-05-25)
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) (2026-05-25)
+- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave) (2026-05-25)
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) (2026-05-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-24)
+- [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine) (2026-05-25)
+- [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-25)
+- [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare) (2026-05-25)
+- [Here are our favorite last-minute deals from REI’s giant Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026) (2026-05-25)
 - [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review) (2026-05-24)
-- [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale) (2026-05-24)
-- [Hackers are learning to exploit chatbot &#8216;personalities&#8217;](https://www.theverge.com/column/935545/hackers-ai-chatbots) (2026-05-24)
-- [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo) (2026-05-24)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub for Beginners: Getting started with Git and GitHub in VS Code](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/) (2026-05-25)
 - [GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) (2026-05-22)
 - [Beyond the engine: 10 open source projects shaping how games actually get made](https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/) (2026-05-21)
 - [Building GitHub’s next chapter in accessibility](https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/) (2026-05-21)
 - [Investigating unauthorized access to GitHub-owned repositories](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/) (2026-05-20)
-- [Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/) (2026-05-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What's new in Data Preprocessor 1.5.x — R codegen, Robust Scaler, and a deadlock post-mortem](https://dev.to/keenchris/whats-new-in-data-preprocessor-15x-r-codegen-robust-scaler-and-a-deadlock-post-mortem-kb9) (2026-05-25)
-- [How I self-hosted my Flask app on an old laptop for almost free](https://dev.to/zeyrian_faris/how-i-self-hosted-my-flask-app-on-an-old-laptop-for-almost-free-52h9) (2026-05-25)
-- [I built a free DSA interview prep site because I was tired of the existing options](https://dev.to/humblepoc/i-built-a-free-dsa-interview-prep-site-because-i-was-tired-of-the-existing-options-4p86) (2026-05-25)
-- [I built an AI agent that migrates Next.js Pages Router to App Router](https://dev.to/garoro0920/i-built-an-ai-agent-that-migrates-nextjs-pages-router-to-app-router-5747) (2026-05-25)
-- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3) (2026-05-25)
+- [Making Claude Sound Like Optimus Prime](https://dev.to/lovestaco/making-claude-sound-like-optimus-prime-3k8) (2026-05-25)
+- [Understanding Reinforcement Learning with Human Feedback Part 5: Training the Reward Model with Loss Functions](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-5-training-the-reward-model-with-3g37) (2026-05-25)
+- [Learning Progress Pt.20](https://dev.to/muhamedmaxhuni/learning-progress-pt19-2a9g) (2026-05-25)
+- [How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8) (2026-05-25)
+- [How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0) (2026-05-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Learn to Use echo in Shell Scripts Like a Linux Pro -(Part 6 / 34)](https://linuxteck.medium.com/learn-to-use-echo-in-shell-scripts-like-a-linux-pro-part-6-34-1d977858fed6?source=rss------programming-5) (2026-05-25)
-- [Linux Internals: Processes, PTY, and Your Shell](https://captain-solaris.medium.com/linux-internals-processes-pty-and-your-shell-f8fd949090e1?source=rss------programming-5) (2026-05-25)
-- [LeadAndLogic: Engineering AI-Ready Growth Infrastructure for the Modern Enterprise](https://medium.com/@leadandlogic1/leadandlogic-engineering-ai-ready-growth-infrastructure-for-the-modern-enterprise-f74389320a89?source=rss------programming-5) (2026-05-25)
-- [Beyond NVIDIA: Where the AI Infra Trade Actually Shows Up](https://ai.gopubby.com/beyond-nvidia-where-the-ai-infra-trade-actually-shows-up-1905bdc99e06?source=rss------programming-5) (2026-05-25)
-- [ChatGPT’yi En Verimli Kullanmanın 10 Yolu](https://medium.com/@mertakkkad/chatgptyi-en-verimli-kullanman%C4%B1n-10-yolu-3030ea5f6183?source=rss------programming-5) (2026-05-25)
+- [Building a Corporate USDC Settlement Workflow on Circle’s Arc in Minutes with Agentic AI (Codex)](https://medium.com/web-design-web-developer-magazine/building-a-corporate-usdc-settlement-workflow-on-circles-arc-in-minutes-with-agentic-ai-codex-f4771f73a4bf?source=rss------programming-5) (2026-05-25)
+- [A Engenharia Por Trás da Máquina: Por que a IA exige Desenvolvedores Ainda Mais Seniores](https://medium.com/@fernando.eac/a-engenharia-atr%C3%A1s-da-m%C3%A1quina-por-que-a-ia-exige-desenvolvedores-ainda-mais-seniores-8e202c60f0e3?source=rss------programming-5) (2026-05-25)
+- [7 Production Mistakes That Cost Companies $50K+ in 2026 (And Still Happen Every Week)](https://blog.stackademic.com/7-production-mistakes-that-cost-companies-50k-in-2026-and-still-happen-every-week-336ae6c4eaf9?source=rss------programming-5) (2026-05-25)
+- [No shortcuts, just hard work and heavy equipment. ️](https://medium.com/@dieseld967/no-shortcuts-just-hard-work-and-heavy-equipment-%EF%B8%8F-57fa08646dcb?source=rss------programming-5) (2026-05-25)
+- [The Engineering Behind the Machine: Why AI Demands Even More Senior Developers](https://medium.com/@fernando.eac/the-engineering-behind-the-machine-why-ai-demands-even-more-senior-developers-ef08bd9e48c5?source=rss------programming-5) (2026-05-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
-- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
 - [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
 - [Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook](https://huggingface.co/blog/Dharma-AI/specialization-beats-scale) (2026-05-22)
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
-- [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built My First ETL Pipeline as a Complete Beginner. Here’s How.](https://towardsdatascience.com/i-built-my-first-etl-pipeline-as-a-complete-beginner-heres-exactly-how/) (2026-05-25)
+- [Can AI write your code?](https://towardsdatascience.com/can-ai-write-your-code/) (2026-05-25)
 - [From TF-IDF to Transformers: Implementing Four Generations of Semantic Search](https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/) (2026-05-25)
 - [Introducing the Agent Toolkit for Amazon Web Services](https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/) (2026-05-25)
 - [The Ultimate Beginners’ Guide to Building an AI Agent in Python](https://towardsdatascience.com/the-ultimate-beginners-guide-to-building-an-ai-agent-in-python/) (2026-05-24)
-- [Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation](https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/) (2026-05-24)
-- [How to Mathematically Choose the Optimal Bins for Your Histogram](https://towardsdatascience.com/fun-with-histograms-and-densities/) (2026-05-23)
 
 </details>
 
