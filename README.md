@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic) (2026-05-25)
+- [Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)](https://www.atlasobscura.com/articles/blankets-summer-hot) (2026-05-25)
+- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html) (2026-05-25)
+- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) (2026-05-25)
 - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) (2026-05-24)
-- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) (2026-05-24)
-- [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) (2026-05-24)
-- [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer) (2026-05-24)
-- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) (2026-05-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Blind Spot in Treasure Hunt Engine Configuration: Long-Term Server Health](https://dev.to/dev-architecture-blog/the-blind-spot-in-treasure-hunt-engine-configuration-long-term-server-health-4jhn) (2026-05-25)
-- [Run NVIDIA NIM on Your Own GPU — Same API, Different Endpoint](https://dev.to/torkian/run-nvidia-nim-on-your-own-gpu-same-api-different-endpoint-484a) (2026-05-25)
-- [Webflow SEO Implementation](https://dev.to/joseph_anady_214bacedf939/webflow-seo-implementation-1aa9) (2026-05-25)
-- [로컬 LLM 셋업 가이드 (v21)](https://dev.to/matias_yoon_738a24cb1190f/rokeol-llm-seseob-gaideu-v21-1b7g) (2026-05-25)
-- [How Logs Travel From Your EKS Pod to Datadog](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-12an) (2026-05-25)
+- [Hướng Dẫn Thiết Lập Reasoning Proxy DeepSeek V4-Pro với Cursor (2026)](https://dev.to/sebbasstian/huong-dan-thiet-lap-reasoning-proxy-deepseek-v4-pro-voi-cursor-2026-85g) (2026-05-25)
+- [Sofi Log #012: Agentic GDP — Solana Pay.sh & x402 Protocol Spec](https://dev.to/sofi_works_2a97535d1a93dc/sofi-log-012-agentic-gdp-solana-paysh-x402-protocol-spec-1hn) (2026-05-25)
+- [Input Types, Attributes, Self-Closing Tags, Hover Effect](https://dev.to/ezhil_abinayak_e38eec8fb/input-types-attributes-self-closing-tags-hover-effect-50pc) (2026-05-25)
+- [Absolute vs Relative Paths](https://dev.to/aryan_vaishnani_067dd66e0/absolute-vs-relative-paths-1hmb) (2026-05-25)
+- [File Types (Regular, Directory, Link, Device, Socket, Pipe)](https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3) (2026-05-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Introducing writer-cli: a tool I built from scratch to blog in the terminal!](https://brennanbrown.medium.com/introducing-writer-cli-a-tool-i-built-from-scratch-to-blog-in-the-terminal-fc0aef58456d?source=rss------programming-5) (2026-05-25)
-- [DMAP: From Flat RAG to a Living Document Map](https://medium.com/ai-exploration-journey/dmap-from-flat-rag-to-a-living-document-map-4385d9e26206?source=rss------programming-5) (2026-05-25)
-- [15 High-Income Tech Skills to Learn Before 2027 (If You Want to Stay Ahead)](https://medium.com/@baheer224/15-high-income-tech-skills-to-learn-before-2027-if-you-want-to-stay-ahead-06d1c72beb4f?source=rss------programming-5) (2026-05-25)
-- [Day 105 of Learning Java & DSA: Space Complexity in Merge Sort](https://medium.com/@payalmehra3522/day-105-of-learning-java-dsa-space-complexity-in-merge-sort-d2f7550c3df5?source=rss------programming-5) (2026-05-25)
-- [Introducing PQ-JWT — Exploring Post-Quantum Authentication for Modern Applications](https://medium.com/@sachinruhil11/introducing-pq-jwt-exploring-post-quantum-authentication-for-modern-applications-4008bf96e327?source=rss------programming-5) (2026-05-25)
+- [This One Shift Will Make You a Better Developer Instantly](https://medium.com/skillstuff/this-one-shift-will-make-you-a-better-developer-instantly-36c59256091c?source=rss------programming-5) (2026-05-25)
+- [I Tested Modern Web Trends. Here’s What Actually Matters](https://medium.com/skillstuff/i-tested-modern-web-trends-heres-what-actually-matters-97095c85bf98?source=rss------programming-5) (2026-05-25)
+- [Ruflo: Multi-Agent AI Orchestration for Claude Code](https://medium.com/data-science-in-your-pocket/ruflo-multi-agent-ai-orchestration-for-claude-code-e5343c33f062?source=rss------programming-5) (2026-05-25)
+- [I Stopped Googling Developer Tools. This Free Site Does Everything — No Login, No Upload, No BS.](https://medium.com/@tulsi.shankar/i-stopped-googling-developer-tools-this-free-site-does-everything-no-login-no-upload-no-bs-2eb7dd7866dc?source=rss------programming-5) (2026-05-25)
+- [How Developers Can Build Passive Income Online (Real Code, Real Strategies)](https://medium.com/@nabilkrs/how-developers-can-build-passive-income-online-real-code-real-strategies-a5044ac480a0?source=rss------programming-5) (2026-05-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
-- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
-- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google Antigravity 2.0: The Full Developer Guide (I/O 2026) ](https://www.analyticsvidhya.com/blog/2026/05/google-antigravity-2-0/) (2026-05-25)
 - [Build a Claude Cowork-Like Browser Agent Using Playwright MCP and Claude Desktop ](https://www.analyticsvidhya.com/blog/2026/05/build-a-claude-cowork-like-browser-agent-using-playwright-mcp/) (2026-05-24)
 - [Pandas vs Polars vs DuckDB: Which Library Should You Choose?](https://www.analyticsvidhya.com/blog/2026/05/pandas-vs-polars-vs-duckdb/) (2026-05-23)
 - [Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows ](https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/) (2026-05-22)
 - [The Biggest Announcements from Google I/O 2026](https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/) (2026-05-21)
-- [Top 9 AI Events and Conferences in 2026 that you Must Attend](https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/) (2026-05-20)
 
 </details>
 
