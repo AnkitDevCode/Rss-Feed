@@ -20,21 +20,21 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) (2026-05-24)
 - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/) (2026-05-24)
 - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/) (2026-05-24)
 - [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/) (2026-05-24)
 - [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/) (2026-05-24)
-- [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/) (2026-05-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/) (2026-05-24)
-- [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/) (2026-05-24)
+- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) (2026-05-24)
+- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) (2026-05-24)
+- [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) (2026-05-24)
 - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer) (2026-05-24)
-- [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver) (2026-05-24)
 - [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) (2026-05-24)
 
 </details>
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [📝 Instant Auto Save Notes](https://dev.to/naimeshrao/instant-auto-save-notes-5e19) (2026-05-24)
-- [Engineering the "App-Like" Experience: A Deep Dive into PWA Architecture](https://dev.to/raziq_din_bd0274cc2ac748b/engineering-the-app-like-experience-a-deep-dive-into-pwa-architecture-597j) (2026-05-24)
-- [🔢 JS Array Playground](https://dev.to/naimeshrao/js-array-playground-5e8m) (2026-05-24)
-- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8) (2026-05-24)
-- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n) (2026-05-24)
+- [The Blind Spot in Treasure Hunt Engine Configuration: Long-Term Server Health](https://dev.to/dev-architecture-blog/the-blind-spot-in-treasure-hunt-engine-configuration-long-term-server-health-4jhn) (2026-05-25)
+- [Run NVIDIA NIM on Your Own GPU — Same API, Different Endpoint](https://dev.to/torkian/run-nvidia-nim-on-your-own-gpu-same-api-different-endpoint-484a) (2026-05-25)
+- [Webflow SEO Implementation](https://dev.to/joseph_anady_214bacedf939/webflow-seo-implementation-1aa9) (2026-05-25)
+- [로컬 LLM 셋업 가이드 (v21)](https://dev.to/matias_yoon_738a24cb1190f/rokeol-llm-seseob-gaideu-v21-1b7g) (2026-05-25)
+- [How Logs Travel From Your EKS Pod to Datadog](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-12an) (2026-05-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I built a tool that shows you exactly what an ATS reads from your resume — here’s how it works](https://medium.com/@madhab.coder/i-built-a-tool-that-shows-you-exactly-what-an-ats-reads-from-your-resume-heres-how-it-works-3db65d7ef7fd?source=rss------programming-5) (2026-05-24)
-- [The New Postgres Feature That Might Replace Vector Databases](https://medium.com/@manojgour6811/the-new-postgres-feature-that-might-replace-vector-databases-9789c93f13da?source=rss------programming-5) (2026-05-24)
-- [Hardware hacking (UART)](https://medium.com/@anees78788878/hardware-hacking-uart-b9a761c7633d?source=rss------programming-5) (2026-05-24)
-- [Stop Wasting Tokens: Practical Token Optimization Techniques for Codex, Windsurf, and GitHub…](https://medium.com/@gyanendrapatro02/stop-wasting-tokens-practical-token-optimization-techniques-for-codex-windsurf-and-github-48ba16b7350a?source=rss------programming-5) (2026-05-24)
-- [The Death of the “Wrong Way”: How AI Is Quietly Creating Fragile Engineers](https://medium.com/@nejawittatchy/the-death-of-the-wrong-way-how-ai-is-quietly-creating-fragile-engineers-03474c401a6f?source=rss------programming-5) (2026-05-24)
+- [Introducing writer-cli: a tool I built from scratch to blog in the terminal!](https://brennanbrown.medium.com/introducing-writer-cli-a-tool-i-built-from-scratch-to-blog-in-the-terminal-fc0aef58456d?source=rss------programming-5) (2026-05-25)
+- [DMAP: From Flat RAG to a Living Document Map](https://medium.com/ai-exploration-journey/dmap-from-flat-rag-to-a-living-document-map-4385d9e26206?source=rss------programming-5) (2026-05-25)
+- [15 High-Income Tech Skills to Learn Before 2027 (If You Want to Stay Ahead)](https://medium.com/@baheer224/15-high-income-tech-skills-to-learn-before-2027-if-you-want-to-stay-ahead-06d1c72beb4f?source=rss------programming-5) (2026-05-25)
+- [Day 105 of Learning Java & DSA: Space Complexity in Merge Sort](https://medium.com/@payalmehra3522/day-105-of-learning-java-dsa-space-complexity-in-merge-sort-d2f7550c3df5?source=rss------programming-5) (2026-05-25)
+- [Introducing PQ-JWT — Exploring Post-Quantum Authentication for Modern Applications](https://medium.com/@sachinruhil11/introducing-pq-jwt-exploring-post-quantum-authentication-for-modern-applications-4008bf96e327?source=rss------programming-5) (2026-05-25)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
 - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) (2026-05-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
+- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
+- [Musk and Zuckerberg convinced Trump to scrap AI executive order](https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/) (2026-05-22)
+- [Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/) (2026-05-21)
+- [Alibaba is designing AI chips around agents, and that changes what the race is actually about](https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/) (2026-05-20)
 
 </details>
 
