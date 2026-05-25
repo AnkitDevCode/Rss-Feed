@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/) (2026-05-25)
+- [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/) (2026-05-25)
 - [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/) (2026-05-24)
 - [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/) (2026-05-24)
 - [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/) (2026-05-24)
-- [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/) (2026-05-24)
-- [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/) (2026-05-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic) (2026-05-25)
-- [Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)](https://www.atlasobscura.com/articles/blankets-summer-hot) (2026-05-25)
-- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html) (2026-05-25)
-- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) (2026-05-25)
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) (2026-05-24)
+- [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481) (2026-05-25)
+- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) (2026-05-25)
+- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) (2026-05-25)
+- [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/) (2026-05-25)
+- [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) (2026-05-25)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [US's big bet on quantum computing may not be entirely legal](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) (2026-05-25)
+- [I spent years forcing myself to finish The Witcher 3—don't repeat my mistake](https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/) (2026-05-25)
 - [Whatever the mirror test tells us, beluga whales pass it](https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/) (2026-05-24)
 - [SpaceX's Starship V3—still a work in progress—mostly successful on first flight](https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/) (2026-05-23)
 - [Two space shuttle-era spacewalkers enter Astronaut Hall of Fame](https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/) (2026-05-23)
-- [China’s shark finning could lead to US seafood sanctions](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/) (2026-05-23)
-- [Four Russian satellites are now within striking distance of an ICEYE radarsat](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) (2026-05-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hướng Dẫn Thiết Lập Reasoning Proxy DeepSeek V4-Pro với Cursor (2026)](https://dev.to/sebbasstian/huong-dan-thiet-lap-reasoning-proxy-deepseek-v4-pro-voi-cursor-2026-85g) (2026-05-25)
-- [Sofi Log #012: Agentic GDP — Solana Pay.sh & x402 Protocol Spec](https://dev.to/sofi_works_2a97535d1a93dc/sofi-log-012-agentic-gdp-solana-paysh-x402-protocol-spec-1hn) (2026-05-25)
-- [Input Types, Attributes, Self-Closing Tags, Hover Effect](https://dev.to/ezhil_abinayak_e38eec8fb/input-types-attributes-self-closing-tags-hover-effect-50pc) (2026-05-25)
-- [Absolute vs Relative Paths](https://dev.to/aryan_vaishnani_067dd66e0/absolute-vs-relative-paths-1hmb) (2026-05-25)
-- [File Types (Regular, Directory, Link, Device, Socket, Pipe)](https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3) (2026-05-25)
+- [What's new in Data Preprocessor 1.5.x — R codegen, Robust Scaler, and a deadlock post-mortem](https://dev.to/keenchris/whats-new-in-data-preprocessor-15x-r-codegen-robust-scaler-and-a-deadlock-post-mortem-kb9) (2026-05-25)
+- [How I self-hosted my Flask app on an old laptop for almost free](https://dev.to/zeyrian_faris/how-i-self-hosted-my-flask-app-on-an-old-laptop-for-almost-free-52h9) (2026-05-25)
+- [I built a free DSA interview prep site because I was tired of the existing options](https://dev.to/humblepoc/i-built-a-free-dsa-interview-prep-site-because-i-was-tired-of-the-existing-options-4p86) (2026-05-25)
+- [I built an AI agent that migrates Next.js Pages Router to App Router](https://dev.to/garoro0920/i-built-an-ai-agent-that-migrates-nextjs-pages-router-to-app-router-5747) (2026-05-25)
+- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3) (2026-05-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This One Shift Will Make You a Better Developer Instantly](https://medium.com/skillstuff/this-one-shift-will-make-you-a-better-developer-instantly-36c59256091c?source=rss------programming-5) (2026-05-25)
-- [I Tested Modern Web Trends. Here’s What Actually Matters](https://medium.com/skillstuff/i-tested-modern-web-trends-heres-what-actually-matters-97095c85bf98?source=rss------programming-5) (2026-05-25)
-- [Ruflo: Multi-Agent AI Orchestration for Claude Code](https://medium.com/data-science-in-your-pocket/ruflo-multi-agent-ai-orchestration-for-claude-code-e5343c33f062?source=rss------programming-5) (2026-05-25)
-- [I Stopped Googling Developer Tools. This Free Site Does Everything — No Login, No Upload, No BS.](https://medium.com/@tulsi.shankar/i-stopped-googling-developer-tools-this-free-site-does-everything-no-login-no-upload-no-bs-2eb7dd7866dc?source=rss------programming-5) (2026-05-25)
-- [How Developers Can Build Passive Income Online (Real Code, Real Strategies)](https://medium.com/@nabilkrs/how-developers-can-build-passive-income-online-real-code-real-strategies-a5044ac480a0?source=rss------programming-5) (2026-05-25)
+- [Learn to Use echo in Shell Scripts Like a Linux Pro -(Part 6 / 34)](https://linuxteck.medium.com/learn-to-use-echo-in-shell-scripts-like-a-linux-pro-part-6-34-1d977858fed6?source=rss------programming-5) (2026-05-25)
+- [Linux Internals: Processes, PTY, and Your Shell](https://captain-solaris.medium.com/linux-internals-processes-pty-and-your-shell-f8fd949090e1?source=rss------programming-5) (2026-05-25)
+- [LeadAndLogic: Engineering AI-Ready Growth Infrastructure for the Modern Enterprise](https://medium.com/@leadandlogic1/leadandlogic-engineering-ai-ready-growth-infrastructure-for-the-modern-enterprise-f74389320a89?source=rss------programming-5) (2026-05-25)
+- [Beyond NVIDIA: Where the AI Infra Trade Actually Shows Up](https://ai.gopubby.com/beyond-nvidia-where-the-ai-infra-trade-actually-shows-up-1905bdc99e06?source=rss------programming-5) (2026-05-25)
+- [ChatGPT’yi En Verimli Kullanmanın 10 Yolu](https://medium.com/@mertakkkad/chatgptyi-en-verimli-kullanman%C4%B1n-10-yolu-3030ea5f6183?source=rss------programming-5) (2026-05-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
-- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 - [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
+- [Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026](https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/) (2026-05-12)
+- [Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/) (2026-05-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
-- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
-- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
+- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
+- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From TF-IDF to Transformers: Implementing Four Generations of Semantic Search](https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/) (2026-05-25)
+- [Introducing the Agent Toolkit for Amazon Web Services](https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/) (2026-05-25)
 - [The Ultimate Beginners’ Guide to Building an AI Agent in Python](https://towardsdatascience.com/the-ultimate-beginners-guide-to-building-an-ai-agent-in-python/) (2026-05-24)
 - [Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation](https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/) (2026-05-24)
 - [How to Mathematically Choose the Optimal Bins for Your Histogram](https://towardsdatascience.com/fun-with-histograms-and-densities/) (2026-05-23)
-- [Beyond the Scroll: How Social Media Algorithms Shape Your Reality](https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/) (2026-05-23)
-- [From Prototype to Profit: Solving the Agentic Token-Burn Problem](https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/) (2026-05-23)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Auditing Model Bias with Balanced Datasets with Mimesis](https://www.kdnuggets.com/auditing-model-bias-with-balanced-datasets-with-mimesis) (2026-05-25)
+- [5 More Must-Know Python Concepts](https://www.kdnuggets.com/5-more-must-know-python-concepts) (2026-05-25)
 - [Easy Agentic Tool Calling with Gemma 4](https://www.kdnuggets.com/easy-agentic-tool-calling-with-gemma-4) (2026-05-22)
 - [System Design Interview Questions: A Handy Collection](https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection) (2026-05-21)
 - [Best Small Language Models on Hugging Face Right Now!](https://www.kdnuggets.com/best-small-language-models-on-hugging-face-right-now) (2026-05-21)
-- [Anonymizing Production Data for Data Science with Mimesis](https://www.kdnuggets.com/anonymizing-production-data-for-data-science-with-mimesis) (2026-05-20)
-- [SQL Window Functions Beyond Basics: Solving Real Business Problems](https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems) (2026-05-20)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Implementing Hybrid Semantic-Lexical Search in RAG](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) (2026-05-25)
 - [Building Context-Aware Search in Python with LLM Embeddings + Metadata](https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/) (2026-05-22)
 - [How to Build a Multi-Agent Research Assistant in Python](https://machinelearningmastery.com/how-to-build-a-multi-agent-research-assistant-in-python/) (2026-05-21)
 - [Agentic Programming: A Roadmap](https://machinelearningmastery.com/agentic-programming-a-roadmap/) (2026-05-20)
 - [Prompt Engineering for Agentic AI](https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/) (2026-05-19)
-- [Building Vector Similarity Search in PostgreSQL with pgvector](https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/) (2026-05-18)
 
 </details>
 
