@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Does Anybody Actually Like React?](https://jsx.lol) (2026-05-26)
-- [Browser-based file encryption tool using WebCrypto](https://secvant.com/) (2026-05-26)
-- [TP-7 Field Recorder](https://teenage.engineering/products/tp-7) (2026-05-26)
-- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115) (2026-05-25)
-- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/) (2026-05-25)
+- [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/) (2026-05-26)
+- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508) (2026-05-26)
+- [Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq](https://github.com/andreoliwa/logseq-doctor) (2026-05-26)
+- [The User Is Visibly Frustrated](https://pscanf.com/s/354/) (2026-05-26)
+- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A battery-powered Starlink Mini is likely on the way](https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor) (2026-05-26)
 - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth) (2026-05-25)
 - [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom) (2026-05-25)
 - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine) (2026-05-25)
 - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-25)
-- [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare) (2026-05-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) (2026-05-26)
+- [It’s time to address the looming crisis in entry-level work.](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/) (2026-05-26)
 - [The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/) (2026-05-22)
 - [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) (2026-05-22)
 - [The Enhanced Games fit right in with the rest of 2026’s longevity vibes](https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/) (2026-05-22)
-- [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) (2026-05-21)
-- [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/) (2026-05-21)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Do you have what it takes to run AI in production?](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/) (2026-05-26)
 - [Dispatches from O'Reilly: The accidental orchestrator](https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/) (2026-05-22)
 - [Breaking your AI storage bottlenecks](https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks/) (2026-05-22)
 - [Coding agents are giving everyone decision fatigue](https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/) (2026-05-21)
 - [Pack your agentic stack in Slack](https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/) (2026-05-20)
-- [Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/) (2026-05-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Prisma-7 A Complete Beginners Guide (With Free Cloud Database!)](https://dev.to/harshkushwaha/prisma-7-a-complete-beginners-guide-with-free-cloud-database-1lm1) (2026-05-26)
-- [Akses HDD Rumah dari Laptop Kantor Pakai Tailscale + SMB (Tanpa VPN Ribet)](https://dev.to/technubie/akses-hdd-rumah-dari-laptop-kantor-pakai-tailscale-smb-tanpa-vpn-ribet-4h3o) (2026-05-26)
-- [Content Pipeline in MonoGame: Why I Don't Use It](https://dev.to/rds1983/content-pipeline-in-monogame-why-i-dont-use-it-4f8n) (2026-05-26)
-- [Debug Log #1 — The Pipeline That Looked Broken](https://dev.to/thompson_jovann_4fae7e88d/debug-log-1-the-pipeline-that-looked-broken-23f8) (2026-05-26)
-- [Data Structures in JavaScript: When to Use What (2026)](https://dev.to/armorbreak/data-structures-in-javascript-when-to-use-what-2026-3je) (2026-05-26)
+- [Day 1 Python Learning 🐍](https://dev.to/surya_960b9a895415589fa9e/day-1-python-learning-13nh) (2026-05-26)
+- [Supercharge your AI coding workflow with Chrome DevTools for agents.](https://dev.to/himanshi_kumari_c878daee7/supercharge-your-ai-coding-workflow-with-chrome-devtools-for-agents-55o2) (2026-05-26)
+- [Google Opened UCP for Lodging. We Already Tested What It Needs to Handle.](https://dev.to/benjifisher/google-opened-ucp-for-lodging-we-already-tested-what-it-needs-to-handle-3m7b) (2026-05-26)
+- [I A/B tested compressed agent instructions and found the breaking point](https://dev.to/vidanov/i-ab-tested-compressed-agent-instructions-and-found-the-breaking-point-3h7k) (2026-05-26)
+- [k6: The Tool, The Philosophy, and Your First Test](https://dev.to/matthew_wimpelberg_79193b/k6-the-tool-the-philosophy-and-your-first-test-2ccp) (2026-05-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Frontend Is Organized Around Routes Instead of Workflows — And It’s Creating Architectural…](https://medium.com/angular-engineering/your-frontend-is-organized-around-routes-instead-of-workflows-and-its-creating-architectural-d8280b008430?source=rss------programming-5) (2026-05-26)
-- [Day 17: Linux User & Access Management Part 2](https://pawannatekar220.medium.com/day-17-linux-user-access-management-part-2-bced2810dbad?source=rss------programming-5) (2026-05-26)
-- [We’re Producing More Than Ever And Remembering Less of It](https://medium.com/@hadiyolworld007/were-producing-more-than-ever-and-remembering-less-of-it-0c1f2d20019a?source=rss------programming-5) (2026-05-26)
-- [Why Learning Backend Development Changed How I Think](https://medium.com/@meetkhatri2023/why-learning-backend-development-changed-how-i-think-9701cbb7e2d3?source=rss------programming-5) (2026-05-26)
-- [Day 106 of Learning Java & DSA: Quick Sort Basics](https://medium.com/@payalmehra3522/day-106-of-learning-java-dsa-quick-sort-basics-60bda0976e43?source=rss------programming-5) (2026-05-26)
+- [Zettelkasten for Developers: A Practical Knowledge Management Method That Works](https://medium.com/@rosgluk/zettelkasten-for-developers-a-practical-knowledge-management-method-that-works-dd9f00da6aa2?source=rss------programming-5) (2026-05-26)
+- [Things Go Programming Language Does That PHP Developers Wish They Had](https://medium.com/@mathewsfrj/things-go-programming-language-does-that-php-developers-wish-they-had-558eefe8c343?source=rss------programming-5) (2026-05-26)
+- [The $0 LLM Infrastructure Held Together With the Power of Friendship and Redis](https://medium.com/@moidabdul/the-0-llm-infrastructure-held-together-with-the-power-of-friendship-and-redis-52bfe0be3cac?source=rss------programming-5) (2026-05-26)
+- [The Prompt Patterns That Make Claude 10x More Useful in a Rails Codebase](https://codescaptain.medium.com/prompt-patterns-that-make-claude-10x-better-in-rails-a4b15a565f9c?source=rss------programming-5) (2026-05-26)
+- [What Happened When I Used Claude Code to Build Real Projects](https://blog.stackademic.com/what-happened-when-i-used-claude-code-to-build-real-projects-3a94c905b959?source=rss------programming-5) (2026-05-26)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How Four Teams Stopped Postponing the Refactoring They Knew They Needed](https://blog.jetbrains.com/ai/2026/05/how-four-teams-stopped-postponing-the-refactoring-they-knew-they-needed/) (2026-05-26)
 - [The JetBrains Fit Test: Is This the Right Workplace for You?](https://blog.jetbrains.com/life-at-jetbrains/2026/05/the-jetbrains-fit-test-is-this-the-right-workplace-for-you/) (2026-05-22)
 - [What Happens When You Give AI Agents the Map of Your Code’s Coverage?](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) (2026-05-22)
 - [Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/) (2026-05-22)
 - [TeamCity 2025.11.5 Is Out](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2025-11-5-bug-fix/) (2026-05-21)
-- [KotlinConf’26 Keynote Highlights: Advances in Language Design, Tooling, AI-Driven Workflows, and Multiplatform Development](https://blog.jetbrains.com/kotlin/2026/05/kotlinconf26-keynote-highlights/) (2026-05-21)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Microfrontends routing now applies to vc alias and branch domains](https://vercel.com/changelog/microfrontends-routing-now-applies-to-vc-alias-and-branch-domains) (2026-05-26)
 - [Pull anomaly alert details using the Vercel CLI](https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli) (2026-05-21)
 - [Qwen 3.7 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway) (2026-05-21)
 - [Configure weighted traffic splits for Vercel Flags from the Vercel CLI](https://vercel.com/changelog/configure-weighted-traffic-splits-for-vercel-flags-from-the-vercel-cli) (2026-05-21)
 - [Grok Build 0.1 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway) (2026-05-20)
-- [Chat SDK now includes AI SDK tools](https://vercel.com/changelog/chat-sdk-now-includes-ai-sdk-tools) (2026-05-20)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
-- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
-- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
+- [Introducing the All-New Activity Tab: Your Triage Hub for a Smarter Workday](https://slack.com/blog/news/slack-activity-triage-for-notifications) (2026-05-19)
+- [Best Microsoft Teams Alternatives for 2026](https://slack.com/blog/compare/teams-alternatives) (2026-05-15)
+- [Slack Feature Drop: A Downpour of “Done”](https://slack.com/blog/news/slack-feature-drop-april2026) (2026-05-13)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-12)
+- [Introducing Today: Your Intelligent Daily Briefing in Slack](https://slack.com/blog/news/today-daily-briefing) (2026-05-06)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Everyday Tasks You Can Automate with AI Today (With n8n Templates)](https://www.analyticsvidhya.com/blog/2026/05/everyday-ai-automation-using-n8n/) (2026-05-26)
 - [Google Antigravity 2.0: The Full Developer Guide (I/O 2026) ](https://www.analyticsvidhya.com/blog/2026/05/google-antigravity-2-0/) (2026-05-25)
 - [Build a Claude Cowork-Like Browser Agent Using Playwright MCP and Claude Desktop ](https://www.analyticsvidhya.com/blog/2026/05/build-a-claude-cowork-like-browser-agent-using-playwright-mcp/) (2026-05-24)
 - [Pandas vs Polars vs DuckDB: Which Library Should You Choose?](https://www.analyticsvidhya.com/blog/2026/05/pandas-vs-polars-vs-duckdb/) (2026-05-23)
 - [Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows ](https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/) (2026-05-22)
-- [The Biggest Announcements from Google I/O 2026](https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/) (2026-05-21)
 
 </details>
 
