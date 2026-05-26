@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Universal Music Group and TikTok renew agreement to combat unauthorized AI music](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/) (2026-05-26)
-- [Spotify now lets you stream narrated magazine articles, too](https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/) (2026-05-26)
-- [TechCrunch Disrupt 2026 Early Bird ticket rates end May 29](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/) (2026-05-26)
-- [7-Eleven data breach affects over 185,000 people’s personal data](https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/) (2026-05-26)
-- [Amazon fulfillment competitor Stord raises $250M at $3B valuation](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/) (2026-05-26)
+- [SpaceX’s Starlink nabs American Airlines contract, another win for its IPO](https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/) (2026-05-26)
+- [OpenRouter more than doubles valuation to $1.3B in a year](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/) (2026-05-26)
+- [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/) (2026-05-26)
+- [Dutch government blocks US company from acquisition, citing ‘risk to public interest’](https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/) (2026-05-26)
+- [Ghost hackers: the cybersecurity mystery that nobody has solved](https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [C64 Basic: Game Map Overhead "Camera View"](https://retrogamecoders.com/overhead-camera-view/) (2026-05-26)
-- [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) (2026-05-26)
-- [Outsourcing plus LocalAI will soon become more economical vs. Frontier labs](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/) (2026-05-26)
-- [Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1) (2026-05-26)
-- [Netherlands blocks US takeover of vital digital supplier](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/) (2026-05-26)
+- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/) (2026-05-26)
+- [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) (2026-05-26)
+- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/) (2026-05-26)
+- [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/) (2026-05-26)
+- [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jony Ive’s Ferrari looks nothing like a Ferrari](https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ice-design) (2026-05-26)
-- [Nvidia has retired its GeForce Control Panel app after 20 years](https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement) (2026-05-26)
-- [How clips ate the internet](https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast) (2026-05-26)
-- [Sundar Pichai on AI, the future of search, and what’s happening to the web](https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web) (2026-05-26)
-- [Nobody wants to tell me why they only listen to their own Suno slop](https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop) (2026-05-26)
+- [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai) (2026-05-26)
+- [GE’s nugget ice maker is nearly half off if you buy it refurbished](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale) (2026-05-26)
+- [Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir](https://www.theverge.com/entertainment/936358/amazon-spider-noir-review) (2026-05-26)
+- [The best Memorial Day sales you can still shop](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-26)
+- [American Airlines is getting Starlink Wi-Fi](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed) (2026-05-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Analyst on China's spent rocket stages: "Things only continue to get worse"](https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/) (2026-05-26)
-- [Amazing interior, controversial exterior: Ferrari's first electric car](https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/) (2026-05-26)
-- [Driving Porsche's most powerful car—and no, it's not a 911](https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/) (2026-05-26)
-- [Citing Gandalf, Pope Leo says we must "disarm" AI](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/) (2026-05-25)
-- [US's big bet on quantum computing may not be entirely legal](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) (2026-05-25)
+- [Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.](https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/) (2026-05-26)
+- [FBI agent explains how easy it is to ID people posting AI porn without consent](https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/) (2026-05-26)
+- [3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/) (2026-05-26)
+- [Windows' classic 3D Space Cadet pinball is getting a physical re-creation](https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/) (2026-05-26)
+- [Review: The Boroughs is a smart, pitch-perfect creature feature](https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/) (2026-05-26)
 
 </details>
 
@@ -79,7 +79,7 @@
 - [GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) (2026-05-22)
 - [Beyond the engine: 10 open source projects shaping how games actually get made](https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/) (2026-05-21)
 - [Building GitHub’s next chapter in accessibility](https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/) (2026-05-21)
-- [Investigating unauthorized access to GitHub-owned repositories](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/) (2026-05-20)
+- [Investigation update: GitHub Enterprise Server signing key rotation](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/) (2026-05-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚫 Avoid AI “Limit Reached” Problems — Work Smarter as a Developer](https://dev.to/jatinder_sandhu_info/avoid-ai-limit-reached-problems-work-smarter-as-a-developer-3bld) (2026-05-26)
-- [How Hexagonal Architecture Cut My CI Time From 20 Minutes to 5](https://dev.to/tacoda/how-hexagonal-architecture-cut-my-ci-time-from-20-minutes-to-5-23ce) (2026-05-26)
-- [My Open Source Security Scanner Got Flagged as a Trojan by Windows Defender](https://dev.to/tana_shahh/my-open-source-security-scanner-got-flagged-as-a-trojan-by-windows-defender-558n) (2026-05-26)
-- [The Sourdough Manifesto](https://dev.to/kenwalger/the-sourdough-manifesto-43df) (2026-05-26)
-- [SQL Semantic Validation for LLM-Generated Queries](https://dev.to/leo_gu_475098bd7f84e326ed/sql-semantic-validation-for-llm-generated-queries-3bee) (2026-05-26)
+- [Veltrix Was Killing Us With YAML](https://dev.to/dev-architecture-blog/veltrix-was-killing-us-with-yaml-3d93) (2026-05-26)
+- [Beyond Monolithic AI: How to Build a Pluggable "Brain" Architecture for Autonomous Agents](https://dev.to/programmingcentral/beyond-monolithic-ai-how-to-build-a-pluggable-brain-architecture-for-autonomous-agents-3pln) (2026-05-26)
+- [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n) (2026-05-26)
+- [The Operational Cost of JWT Lifecycle Management: Overlooked Details](https://dev.to/merbayerp/the-operational-cost-of-jwt-lifecycle-management-overlooked-details-4i0) (2026-05-26)
+- [Mastering Structured JSON Outputs with Gemini API](https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j) (2026-05-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Microsoft Quietly Limited AI for Engineers — Because the Bill Got Too Big](https://medium.com/@mobileappdeveloper.koti/microsoft-quietly-limited-ai-for-engineers-because-the-bill-got-too-big-43098a5d51a2?source=rss------programming-5) (2026-05-26)
-- [Prompt Engineering Is Dead. Here’s What Actually Gets AI to Write Good Code.](https://ai.gopubby.com/prompt-engineering-is-dead-heres-what-actually-gets-ai-to-write-good-code-22f8a3850246?source=rss------programming-5) (2026-05-26)
-- [Your LLM JSON Is Valid — And Still Wrong](https://medium.com/@rosgluk/your-llm-json-is-valid-and-still-wrong-12dbbecf1fdc?source=rss------programming-5) (2026-05-26)
-- [Generative Artificial Intelligence Addiction Syndrome: A New Behavioral Disorder?](https://medium.com/@abhishekwritting/generative-artificial-intelligence-addiction-syndrome-a-new-behavioral-disorder-7862e5da03c1?source=rss------programming-5) (2026-05-26)
-- [EIP-137 `namehash`, Explained Simply](https://medium.com/dexignation/eip-137-namehash-explained-simply-9d119bcb8999?source=rss------programming-5) (2026-05-26)
+- [From Legacy to Lessons: Inheriting a Go Codebase Taught Me This About Technical Debt ️](https://medium.com/@monikasinghal713/from-legacy-to-lessons-inheriting-a-go-codebase-taught-me-this-about-technical-debt-%EF%B8%8F-685674ec0180?source=rss------programming-5) (2026-05-26)
+- [LangChain vs CrewAI: What Actually Matters in Production AI Systems](https://medium.com/codex/langchain-vs-crewai-what-actually-matters-in-production-ai-systems-64e5007127e7?source=rss------programming-5) (2026-05-26)
+- [Extending the Rome Call](https://medium.com/@yourfinestout/extending-the-rome-call-61fc4d451a3f?source=rss------programming-5) (2026-05-26)
+- [What Machine Learning Really Is (And Why It’s Not Magic)](https://medium.com/@notesbykalyani/what-machine-learning-really-is-and-why-its-not-magic-f60ade58970f?source=rss------programming-5) (2026-05-26)
+- [AI solves the code in seconds… but what if someone asks how it works?](https://medium.com/@lyssasrs/ai-solves-the-code-in-seconds-but-what-if-someone-asks-how-it-works-62b7aedb513b?source=rss------programming-5) (2026-05-26)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Top AI on Android updates for building intelligent experiences from Google I/O ‘26 ](https://android-developers.googleblog.com/2026/05/android-ai-intelligence-system.html) (2026-05-26)
 - [17 Things to know for Android developers at Google I/O](https://android-developers.googleblog.com/2026/05/17-things-android-developers-google-io.html) (2026-05-19)
 - [Build native Android apps in Google AI Studio ](https://android-developers.googleblog.com/2026/05/build-android-apps-google-ai-studio.html) (2026-05-19)
 - [ Increasing app discovery and engagement on Google TV](https://android-developers.googleblog.com/2026/05/increase-google-tv-app-discovery.html) (2026-05-19)
 - [Android CLI Now Stable 1.0: Accelerate developing for Android using any agent](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html) (2026-05-19)
-- [Build for the future with the Android XR Developer Catalyst Program — Apply now!](https://android-developers.googleblog.com/2026/05/apply-android-xr-developer-catalyst.html) (2026-05-19)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) (2026-05-26)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) (2026-05-20)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) (2026-05-15)
 - [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) (2026-05-15)
 - [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/) (2026-05-14)
-- [Kubernetes v1.36: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/) (2026-05-13)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ IDEA 2026.2 EAP Is Open](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-2-eap/) (2026-05-26)
+- [How AI Agents Can Work with TeamCity](https://blog.jetbrains.com/teamcity/2026/05/how-ai-agents-can-work-with-teamcity/) (2026-05-26)
 - [How Four Teams Stopped Postponing the Refactoring They Knew They Needed](https://blog.jetbrains.com/ai/2026/05/how-four-teams-stopped-postponing-the-refactoring-they-knew-they-needed/) (2026-05-26)
 - [The JetBrains Fit Test: Is This the Right Workplace for You?](https://blog.jetbrains.com/life-at-jetbrains/2026/05/the-jetbrains-fit-test-is-this-the-right-workplace-for-you/) (2026-05-22)
 - [What Happens When You Give AI Agents the Map of Your Code’s Coverage?](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) (2026-05-22)
-- [Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/) (2026-05-22)
-- [TeamCity 2025.11.5 Is Out](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2025-11-5-bug-fix/) (2026-05-21)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Firecrawl joins the Vercel Marketplace](https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace) (2026-05-26)
 - [Microfrontends routing now applies to vc alias and branch domains](https://vercel.com/changelog/microfrontends-routing-now-applies-to-vc-alias-and-branch-domains) (2026-05-26)
 - [Pull anomaly alert details using the Vercel CLI](https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli) (2026-05-21)
 - [Qwen 3.7 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway) (2026-05-21)
 - [Configure weighted traffic splits for Vercel Flags from the Vercel CLI](https://vercel.com/changelog/configure-weighted-traffic-splits-for-vercel-flags-from-the-vercel-cli) (2026-05-21)
-- [Grok Build 0.1 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway) (2026-05-20)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Is a Data Agent?](https://towardsdatascience.com/what-is-a-data-agent/) (2026-05-26)
+- [The AI Model Confidence Trap](https://towardsdatascience.com/the-ai-model-confidence-trap/) (2026-05-26)
 - [Stop Using LLMs Like Giant Problem Solvers](https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/) (2026-05-26)
 - [The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment](https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/) (2026-05-26)
 - [I Built My First ETL Pipeline as a Complete Beginner. Here’s How.](https://towardsdatascience.com/i-built-my-first-etl-pipeline-as-a-complete-beginner-heres-exactly-how/) (2026-05-25)
-- [Can AI Write Your Code?](https://towardsdatascience.com/can-ai-write-your-code/) (2026-05-25)
-- [From TF-IDF to Transformers: Implementing Four Generations of Semantic Search](https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/) (2026-05-25)
 
 </details>
 
