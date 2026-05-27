@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SpaceX’s Starlink nabs American Airlines contract, another win for its IPO](https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/) (2026-05-26)
-- [OpenRouter more than doubles valuation to $1.3B in a year](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/) (2026-05-26)
-- [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/) (2026-05-26)
-- [Dutch government blocks US company from acquisition, citing ‘risk to public interest’](https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/) (2026-05-26)
-- [Ghost hackers: the cybersecurity mystery that nobody has solved](https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/) (2026-05-26)
+- [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/) (2026-05-26)
+- [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/) (2026-05-26)
+- [Trump administration permits Volvo to keep selling connected cars in the US](https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/) (2026-05-26)
+- [Trump administration wants nuclear startups to use plutonium for their reactors](https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/) (2026-05-26)
+- [DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/) (2026-05-26)
-- [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) (2026-05-26)
-- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/) (2026-05-26)
-- [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/) (2026-05-26)
-- [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) (2026-05-26)
+- [Scientists say they've reversed brain aging with a simple nasal spray](https://www.sciencedaily.com/releases/2026/05/260526022018.htm) (2026-05-27)
+- [So, Where Does Next-Token Prediction Leave Us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) (2026-05-27)
+- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/) (2026-05-27)
+- [Stripe is friendly to "friendly fraud"](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/) (2026-05-27)
+- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Did the Pope use AI to write about the dangers of AI?](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram) (2026-05-27)
+- [NASA&#8217;s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates) (2026-05-26)
 - [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai) (2026-05-26)
 - [GE’s nugget ice maker is nearly half off if you buy it refurbished](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale) (2026-05-26)
 - [Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir](https://www.theverge.com/entertainment/936358/amazon-spider-noir-review) (2026-05-26)
-- [The best Memorial Day sales you can still shop](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026) (2026-05-26)
-- [American Airlines is getting Starlink Wi-Fi](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed) (2026-05-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.](https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/) (2026-05-26)
-- [FBI agent explains how easy it is to ID people posting AI porn without consent](https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/) (2026-05-26)
-- [3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/) (2026-05-26)
-- [Windows' classic 3D Space Cadet pinball is getting a physical re-creation](https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/) (2026-05-26)
-- [Review: The Boroughs is a smart, pitch-perfect creature feature](https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/) (2026-05-26)
+- [Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.](https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/) (2026-05-26)
+- [Musk says US military suicide drones used Starlink in violation of SpaceX rules](https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/) (2026-05-26)
+- [NASA takes steps toward building Moon Base, including discussing a "perimeter"](https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/) (2026-05-26)
+- [We're starting to see some PC makers respond to Apple's MacBook Neo](https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/) (2026-05-26)
+- [Millions of AI agents imperiled by critical vulnerability in open source package](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/) (2026-05-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Veltrix Was Killing Us With YAML](https://dev.to/dev-architecture-blog/veltrix-was-killing-us-with-yaml-3d93) (2026-05-26)
-- [Beyond Monolithic AI: How to Build a Pluggable "Brain" Architecture for Autonomous Agents](https://dev.to/programmingcentral/beyond-monolithic-ai-how-to-build-a-pluggable-brain-architecture-for-autonomous-agents-3pln) (2026-05-26)
-- [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n) (2026-05-26)
-- [The Operational Cost of JWT Lifecycle Management: Overlooked Details](https://dev.to/merbayerp/the-operational-cost-of-jwt-lifecycle-management-overlooked-details-4i0) (2026-05-26)
-- [Mastering Structured JSON Outputs with Gemini API](https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j) (2026-05-26)
+- [Understanding React Rendering Flow](https://dev.to/kavindotdev/understanding-react-rendering-flow-1fl1) (2026-05-27)
+- [I shipped 29 browser-only image tools. These 5 boring patterns kept the codebase sane](https://dev.to/dngzihng114379/i-shipped-29-browser-only-image-tools-these-5-boring-patterns-kept-the-codebase-sane-29e1) (2026-05-27)
+- [Your Treasure Hunt Engine Was Probably a Latency Minefield (And Heres the Postmortem)](https://dev.to/on-chain-commerce/your-treasure-hunt-engine-was-probably-a-latency-minefield-and-heres-the-postmortem-10k6) (2026-05-27)
+- [Before You Add More Agents, Design the Control Plane](https://dev.to/doramagic/before-you-add-more-agents-design-the-control-plane-2a0i) (2026-05-27)
+- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 (Backend & Frontend Developers)](https://dev.to/kiransm/backend-frontend-developers-50f7) (2026-05-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Legacy to Lessons: Inheriting a Go Codebase Taught Me This About Technical Debt ️](https://medium.com/@monikasinghal713/from-legacy-to-lessons-inheriting-a-go-codebase-taught-me-this-about-technical-debt-%EF%B8%8F-685674ec0180?source=rss------programming-5) (2026-05-26)
-- [LangChain vs CrewAI: What Actually Matters in Production AI Systems](https://medium.com/codex/langchain-vs-crewai-what-actually-matters-in-production-ai-systems-64e5007127e7?source=rss------programming-5) (2026-05-26)
-- [Extending the Rome Call](https://medium.com/@yourfinestout/extending-the-rome-call-61fc4d451a3f?source=rss------programming-5) (2026-05-26)
-- [What Machine Learning Really Is (And Why It’s Not Magic)](https://medium.com/@notesbykalyani/what-machine-learning-really-is-and-why-its-not-magic-f60ade58970f?source=rss------programming-5) (2026-05-26)
-- [AI solves the code in seconds… but what if someone asks how it works?](https://medium.com/@lyssasrs/ai-solves-the-code-in-seconds-but-what-if-someone-asks-how-it-works-62b7aedb513b?source=rss------programming-5) (2026-05-26)
+- [I Tested the Top 3 AI Image Converters. They All Failed at One Thing.](https://medium.com/@Saboor_Tahir/i-tested-the-top-3-ai-image-converters-they-all-failed-at-one-thing-2121c1a3f0b4?source=rss------programming-5) (2026-05-27)
+- [Your Team Is Shipping Features Faster — But Your Architecture Is Losing Coherence](https://medium.com/angular-engineering/your-team-is-shipping-features-faster-but-your-architecture-is-losing-coherence-05ba3bb18603?source=rss------programming-5) (2026-05-27)
+- [Day 18: Part 3 of Linux User & Access Management](https://pawannatekar220.medium.com/day-18-part-3-of-linux-user-access-management-0017d61c0631?source=rss------programming-5) (2026-05-27)
+- [If AI replaces Junior Devs, Who Becomes the Next Senior ?](https://medium.com/@EquinoxDev/if-ai-replaces-junior-devs-who-becomes-the-next-senior-69ba79158358?source=rss------programming-5) (2026-05-27)
+- [The Punch Card Test](https://medium.com/@engineeringthefuture/the-punch-card-test-37278911af75?source=rss------programming-5) (2026-05-27)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition](https://blogs.nvidia.com/blog/vera-cpu-phoronix/) (2026-05-26)
 - [NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) (2026-05-21)
 - [License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle](https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/) (2026-05-21)
 - [NVIDIA and Google Cloud Empower the Next Wave of AI Builders](https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/) (2026-05-19)
 - [NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’](https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/) (2026-05-18)
-- [Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs](https://blogs.nvidia.com/blog/vera-cpu-delivery/) (2026-05-18)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=tu7pk9oy) (2026-05-26)
 - [Upcoming changes to age ratings in Australia and Vietnam](https://developer.apple.com/news/?id=yrrb45pw) (2026-05-21)
 - [Introducing the 2026 Apple Design Award finalists](https://developer.apple.com/news/?id=8t3j66i7) (2026-05-18)
 - [Coming bright up](https://developer.apple.com/news/?id=7lcnqgxp) (2026-05-18)
 - [Hello Developer: May 2026](https://developer.apple.com/news/?id=qtzr82f0) (2026-05-12)
-- [Get the most out of your Apple Developer account](https://developer.apple.com/news/?id=sw8ldfjk) (2026-05-12)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Sandbox persistence is now GA](https://vercel.com/changelog/sandbox-persistence-is-now-ga) (2026-05-26)
+- [Vercel Domains now supports price sorting and availability filtering](https://vercel.com/changelog/vercel-domains-now-supports-price-sorting-and-availability-filtering) (2026-05-26)
 - [Firecrawl joins the Vercel Marketplace](https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace) (2026-05-26)
 - [Microfrontends routing now applies to vc alias and branch domains](https://vercel.com/changelog/microfrontends-routing-now-applies-to-vc-alias-and-branch-domains) (2026-05-26)
 - [Pull anomaly alert details using the Vercel CLI](https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli) (2026-05-21)
-- [Qwen 3.7 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway) (2026-05-21)
-- [Configure weighted traffic splits for Vercel Flags from the Vercel CLI](https://vercel.com/changelog/configure-weighted-traffic-splits-for-vercel-flags-from-the-vercel-cli) (2026-05-21)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
 - [TLX Block Attention: A Warp-Specialized Blackwell Kernel for Fixed-Block Sparse Self-Attention](https://pytorch.org/blog/tlx-block-attention-a-warp-specialized-blackwell-kernel-for-fixed-block-sparse-self-attention/) (2026-05-26)
 - [Join the PyTorch Foundation Ambassador Program: A Global Network of Community Leaders](https://pytorch.org/blog/join-the-pytorch-foundation-ambassador-program-a-global-network-of-community-leaders/) (2026-05-22)
 - [PyTorch Docathon 2026 Results in 150+ Merged Pull Requests](https://pytorch.org/blog/pytorch-docathon-2026-results/) (2026-05-20)
 - [vLLM and PyTorch Work Together to Improve the Developer Experience on aarch64](https://pytorch.org/blog/vllm-and-pytorch-work-together-to-improve-the-developer-experience-on-aarch64/) (2026-05-18)
-- [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/) (2026-05-18)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 - [Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook](https://huggingface.co/blog/Dharma-AI/specialization-beats-scale) (2026-05-22)
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Autonomous AI systems test governance in physical environments](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/) (2026-05-26)
-- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
-- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
-- [Musk and Zuckerberg convinced Trump to scrap AI executive order](https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/) (2026-05-22)
-- [Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/) (2026-05-21)
 
 </details>
 
