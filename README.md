@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Airbnb-backed WeRoad raises $58M to take its group travel platform to the US](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/) (2026-05-27)
 - [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/) (2026-05-26)
 - [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/) (2026-05-26)
 - [Trump administration permits Volvo to keep selling connected cars in the US](https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/) (2026-05-26)
 - [Trump administration wants nuclear startups to use plutonium for their reactors](https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/) (2026-05-26)
-- [DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scientists say they've reversed brain aging with a simple nasal spray](https://www.sciencedaily.com/releases/2026/05/260526022018.htm) (2026-05-27)
-- [So, Where Does Next-Token Prediction Leave Us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) (2026-05-27)
-- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/) (2026-05-27)
-- [Stripe is friendly to "friendly fraud"](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/) (2026-05-27)
-- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/) (2026-05-27)
+- [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks) (2026-05-27)
+- [Unicode 18.0.0 Beta](https://www.unicode.org/versions/Unicode18.0.0/) (2026-05-27)
+- [Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/) (2026-05-27)
+- [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn) (2026-05-27)
+- [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/) (2026-05-27)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding React Rendering Flow](https://dev.to/kavindotdev/understanding-react-rendering-flow-1fl1) (2026-05-27)
-- [I shipped 29 browser-only image tools. These 5 boring patterns kept the codebase sane](https://dev.to/dngzihng114379/i-shipped-29-browser-only-image-tools-these-5-boring-patterns-kept-the-codebase-sane-29e1) (2026-05-27)
-- [Your Treasure Hunt Engine Was Probably a Latency Minefield (And Heres the Postmortem)](https://dev.to/on-chain-commerce/your-treasure-hunt-engine-was-probably-a-latency-minefield-and-heres-the-postmortem-10k6) (2026-05-27)
-- [Before You Add More Agents, Design the Control Plane](https://dev.to/doramagic/before-you-add-more-agents-design-the-control-plane-2a0i) (2026-05-27)
-- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 (Backend & Frontend Developers)](https://dev.to/kiransm/backend-frontend-developers-50f7) (2026-05-27)
+- [Ever Wondered What Actually Happens When You Click “Send” on an Email?](https://dev.to/diksha_sharma15/ever-wondered-what-actually-happens-when-you-click-send-on-an-email-1mfj) (2026-05-27)
+- [Automating MongoDB Auditlogs Cleanup & Restore Workflow with S3 Backup](https://dev.to/khine778/automating-mongodb-auditlogs-cleanup-restore-workflow-with-s3-backup-4a8j) (2026-05-27)
+- [Best Java Web Scraping Libraries](https://dev.to/sharonbull_ca141b00035fd6/best-java-web-scraping-libraries-4h5l) (2026-05-27)
+- [The padlock doesn't mean what you think it means](https://dev.to/mike_knights_2bd665cff58c/the-padlock-doesnt-mean-what-you-think-it-means-11e7) (2026-05-27)
+- [I built a simple pytest plugin for test observability (need your help 😅)](https://dev.to/dmitrii_s/i-built-a-simple-pytest-plugin-for-test-observability-need-your-help--2kgp) (2026-05-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tested the Top 3 AI Image Converters. They All Failed at One Thing.](https://medium.com/@Saboor_Tahir/i-tested-the-top-3-ai-image-converters-they-all-failed-at-one-thing-2121c1a3f0b4?source=rss------programming-5) (2026-05-27)
-- [Your Team Is Shipping Features Faster — But Your Architecture Is Losing Coherence](https://medium.com/angular-engineering/your-team-is-shipping-features-faster-but-your-architecture-is-losing-coherence-05ba3bb18603?source=rss------programming-5) (2026-05-27)
-- [Day 18: Part 3 of Linux User & Access Management](https://pawannatekar220.medium.com/day-18-part-3-of-linux-user-access-management-0017d61c0631?source=rss------programming-5) (2026-05-27)
-- [If AI replaces Junior Devs, Who Becomes the Next Senior ?](https://medium.com/@EquinoxDev/if-ai-replaces-junior-devs-who-becomes-the-next-senior-69ba79158358?source=rss------programming-5) (2026-05-27)
-- [The Punch Card Test](https://medium.com/@engineeringthefuture/the-punch-card-test-37278911af75?source=rss------programming-5) (2026-05-27)
+- [Google Gemini Spark : Google’s 24/7 AI Agent](https://medium.com/data-science-in-your-pocket/google-gemini-spark-googles-24-7-ai-agent-7efcbb9e76a7?source=rss------programming-5) (2026-05-27)
+- [CS50 DUCK AI
+Every coding students should use](https://medium.com/@n00rulameen/cs50-duck-ai-every-coding-students-should-use-01277a1ee6a6?source=rss------programming-5) (2026-05-27)
+- [The Open-Source Agent Toolkit in 2026](https://medium.com/data-science-collective/the-open-source-agent-toolkit-in-2026-da66dda36c9b?source=rss------programming-5) (2026-05-27)
+- [Nobody Asked for Your Internal Developer Platform](https://medium.com/@percysbearer/nobody-asked-for-your-internal-developer-platform-8b82582535b1?source=rss------programming-5) (2026-05-27)
+- [When speaking about India, one should not act with blind anger or empty slogans.](https://medium.com/@tvizlecanli/when-speaking-about-india-one-should-not-act-with-blind-anger-or-empty-slogans-00221d6d05b3?source=rss------programming-5) (2026-05-27)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Koog 1.0 Is Out: Stable Core, Better Interop, and Multiplatform Observability](https://blog.jetbrains.com/ai/2026/05/koog-1-0-is-out-stable-core-better-interop-and-multiplatform-observability/) (2026-05-27)
 - [IntelliJ IDEA 2026.2 EAP Is Open](https://blog.jetbrains.com/idea/2026/05/intellij-idea-2026-2-eap/) (2026-05-26)
 - [How AI Agents Can Work with TeamCity](https://blog.jetbrains.com/teamcity/2026/05/how-ai-agents-can-work-with-teamcity/) (2026-05-26)
 - [How Four Teams Stopped Postponing the Refactoring They Knew They Needed](https://blog.jetbrains.com/ai/2026/05/how-four-teams-stopped-postponing-the-refactoring-they-knew-they-needed/) (2026-05-26)
 - [The JetBrains Fit Test: Is This the Right Workplace for You?](https://blog.jetbrains.com/life-at-jetbrains/2026/05/the-jetbrains-fit-test-is-this-the-right-workplace-for-you/) (2026-05-22)
-- [What Happens When You Give AI Agents the Map of Your Code’s Coverage?](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) (2026-05-22)
 
 </details>
 
@@ -373,6 +374,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Script Adherence Using Real-time Conversation Intelligence with Twilio Flex
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/real-time-conversation-intelligence-flex
+) (2026-05-26)
+- [
+How to use email seed list testing effectively
+](
+https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
+) (2026-05-26)
+- [
 The Power of the Grey Bubble: Why Apple Messages for Business is a game changer
 ](
 https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble--why-apple-messages-for-business-is
@@ -387,16 +398,6 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 ](
 https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
 ) (2026-05-20)
-- [
-Gmail’s top 10 sender issues: what senders need to know
-](
-https://www.twilio.com/en-us/blog/insights/gmail-top-10-sender-issues
-) (2026-05-19)
-- [
-Chatbot vs conversational AI: what's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
-) (2026-05-19)
 
 </details>
 
@@ -551,6 +552,17 @@ https://www.twilio.com/en-us/blog/insights/chatbot-vs-conversational-ai
 - [Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook](https://huggingface.co/blog/Dharma-AI/specialization-beats-scale) (2026-05-22)
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) (2026-05-19)
 - [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) (2026-05-19)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Autonomous AI systems test governance in physical environments](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/) (2026-05-26)
+- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
+- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
+- [Musk and Zuckerberg convinced Trump to scrap AI executive order](https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/) (2026-05-22)
+- [Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook](https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/) (2026-05-21)
 
 </details>
 
