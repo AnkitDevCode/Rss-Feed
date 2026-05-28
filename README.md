@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How long is Anthropic’s lease with SpaceX? Opinions vary.](https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/) (2026-05-28)
-- [Sesame, the conversational AI startup from Oculus founders, launches its iOS app](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/) (2026-05-28)
-- [Slate Auto will start taking orders for its low-cost EV on June 24](https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/) (2026-05-28)
-- [Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more](https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/) (2026-05-28)
-- [Rivian under investigation over rear suspension failures on R1 models](https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/) (2026-05-28)
+- [Asana acquires no-code agent-builder Stack AI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/) (2026-05-28)
+- [Bluesky embraces long-form content to counter X Articles](https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/) (2026-05-28)
+- [Hackers are trying to steal Signal users’ backups in new wave of phishing attacks](https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/) (2026-05-28)
+- [Anthropic raises $65 Billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/) (2026-05-28)
+- [Just like gold and oil, we’ll soon be able to trade AI token futures](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/) (2026-05-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Creusot helps you prove your Rust code is correct](https://github.com/creusot-rs/creusot/tree/master) (2026-05-28)
-- [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) (2026-05-28)
-- [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions) (2026-05-28)
-- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev) (2026-05-28)
-- [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement) (2026-05-28)
+- [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) (2026-05-28)
+- [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html) (2026-05-28)
+- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) (2026-05-28)
+- [About LLMs at Zig Days](https://kristoff.it/blog/llms-at-zig-days/) (2026-05-28)
+- [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap) (2026-05-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The secret to Roku’s success: not being cool](https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool) (2026-05-28)
-- [Waymo to begin passenger rides in its new Ojai robotaxi](https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips) (2026-05-28)
-- [This sound card could give gamers a competitive edge](https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost) (2026-05-28)
-- [These new iOS 27 renders hint at Siri’s big redesign](https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg) (2026-05-28)
-- [CNN sues Perplexity over ‘verbatim’ copycat articles](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit) (2026-05-28)
+- [Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle ](https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale) (2026-05-28)
+- [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale) (2026-05-28)
+- [The line between games and movies keeps getting blurrier](https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games) (2026-05-28)
+- [Claude’s new model is more ‘honest’ when it messes up](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort) (2026-05-28)
+- [Here’s where you can preorder the new Oura Ring 5](https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability) (2026-05-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump loses more control over AI regulation as Illinois passes landmark law](https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/) (2026-05-28)
+- [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/) (2026-05-28)
 - [Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial](https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/) (2026-05-28)
 - [Forecasters predict below-average hurricane season, advise against complacency](https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/) (2026-05-28)
 - [California defeats Tesla's attempt to throw out racial discrimination lawsuit](https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/) (2026-05-27)
-- [Websites have a new way to spy on visitors: Analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) (2026-05-27)
-- [Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities](https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How a new extraction process could unlock the world’s lithium](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/) (2026-05-28)
 - [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) (2026-05-28)
 - [Climate tech companies are going public. What’s next?](https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/) (2026-05-28)
 - [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) (2026-05-28)
 - [The Download: keeping up with AI, and the future of IVF](https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/) (2026-05-27)
-- [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Still a developer. Just outside. Our latest GitHub Shop collection is here.](https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/) (2026-05-28)
 - [GitHub for Beginners: Getting started with Git and GitHub in VS Code](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/) (2026-05-25)
 - [GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) (2026-05-22)
 - [Beyond the engine: 10 open source projects shaping how games actually get made](https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/) (2026-05-21)
 - [Building GitHub’s next chapter in accessibility](https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/) (2026-05-21)
-- [Investigation update: GitHub Enterprise Server signing key rotation](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/) (2026-05-20)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Japanese-First Read-Later PWA: From Pocket Shutdown to Launch](https://dev.to/ktg0215/building-a-japanese-first-read-later-pwa-from-pocket-shutdown-to-launch-4lcm) (2026-05-28)
-- [I turned an abandoned Go project into a full terminal Arcade Game](https://dev.to/radghost/i-turned-an-abandoned-go-project-into-a-full-terminal-arcade-game-4ck2) (2026-05-28)
-- [Building user-customizable themes with Tailwind CSS](https://dev.to/railsdesigner/building-user-customizable-themes-with-tailwind-css-1gjd) (2026-05-28)
-- [Part 2 of 4: Building a Real k6 Test Suite Against a Live Kubernetes App](https://dev.to/matthew_wimpelberg_79193b/part-2-of-4-building-a-real-k6-test-suite-against-a-live-kubernetes-app-1f81) (2026-05-28)
-- [How I structured 12 Flutter paywall screens to share the same purchase logic](https://dev.to/jay_limbani_5de2aceb239f0/how-i-structured-12-flutter-paywall-screens-to-share-the-same-purchase-logic-2e1c) (2026-05-28)
+- [Seeking Advice: Using AI to build tools for the (suffering) nonprofit community](https://dev.to/steph_burrr/building-ai-tools-for-the-suffering-nonprofit-community-1fo0) (2026-05-28)
+- [RabbitMQ Explained: How It Works, How It Differs from Kafka, and Where It Fits in Real Systems](https://dev.to/cybersaiyam/rabbitmq-explained-how-it-works-how-it-differs-from-kafka-and-where-it-fits-in-real-systems-5ak8) (2026-05-28)
+- [Alert policies people actually follow (spoiler: fewer routes win)](https://dev.to/apogeewatcher/alert-policies-people-actually-follow-spoiler-fewer-routes-win-ald) (2026-05-28)
+- [React Native и App Store — почему похожие приложения получают отказ](https://dev.to/alexdidi/react-native-i-app-store-pochiemu-pokhozhiie-prilozhieniia-poluchaiut-otkaz-e72) (2026-05-28)
+- [Injeção e Inversão de Dependência e como o NestJS gerencia tudo isso](https://dev.to/reishenrique/injecao-e-inversao-de-dependencia-e-como-o-nestjs-gerencia-tudo-isso-2oa) (2026-05-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Next.js Performance Habits That Improve Real Projects](https://medium.com/skillstuff/7-next-js-performance-habits-that-improve-real-projects-f7b124e18dd5?source=rss------programming-5) (2026-05-28)
-- [Online Learning for Programming and Data Science](https://medium.com/@jitesh232/online-learning-for-programming-and-data-science-85f94c43ddaf?source=rss------programming-5) (2026-05-28)
-- [Why “Coding” Is the First Knowledge Work AI Actually Conquered](https://medium.com/@yangxu_16238/why-coding-is-the-first-knowledge-work-ai-actually-conquered-be9df46c6439?source=rss------programming-5) (2026-05-28)
-- [Patrones de Diseño en Java](https://geampiere.medium.com/patrones-de-dise%C3%B1o-en-java-02bb0172af1c?source=rss------programming-5) (2026-05-28)
-- [Stop Paying for ChatGPT: Your Laptop Can Run Powerful AI for Free](https://pub.towardsai.net/stop-paying-for-chatgpt-your-laptop-can-run-powerful-ai-for-free-e45e928d7c6f?source=rss------programming-5) (2026-05-28)
+- [Who’s Really Driving the go Command? A Deep Dive into Golang’s Evolution Architects](https://medium.com/@monikasinghal713/whos-really-driving-the-go-command-a-deep-dive-into-golang-s-evolution-architects-fa5f1b0a6692?source=rss------programming-5) (2026-05-28)
+- [Photoresistor Sensor and Arduino](https://medium.com/the-interesting-world-of-microcontrollers/photoresistor-sensor-and-arduino-7c549c4e4df8?source=rss------programming-5) (2026-05-28)
+- [You’re Running Everything as Root in Docker and Sleeping Fine at Night](https://medium.com/@ArkProtocol1/youre-running-everything-as-root-in-docker-and-sleeping-fine-at-night-9b5a47caf88f?source=rss------programming-5) (2026-05-28)
+- [10 Java Mistakes I Made As A Mid-Level Dev (And Still See In PRs)](https://medium.com/@maahisoft20/10-java-mistakes-i-made-as-a-mid-level-dev-and-still-see-in-prs-2b3a15c90aaf?source=rss------programming-5) (2026-05-28)
+- [Go Debugging — From Zero to Hero: Master the Art of Finding Bugs Like a Pro!](https://medium.com/@anshusinghal703/go-debugging-from-zero-to-hero-master-the-art-of-finding-bugs-like-a-pro-c590ba1dc937?source=rss------programming-5) (2026-05-28)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/) (2026-05-28)
+- [Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/) (2026-05-28)
 - [Meet Our Newest AWS Heroes – May 2026](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/) (2026-05-27)
 - [AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/) (2026-05-25)
 - [AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/) (2026-05-18)
-- [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/) (2026-05-14)
-- [Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine](https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/) (2026-05-12)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents) (2026-05-28)
 - [Introducing Nova, our internal platform for coding agents](https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents) (2026-05-21)
 - [Improving storage efficiency in Magic Pocket, our immutable blob store](https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store) (2026-04-02)
 - [Reducing our monorepo size to improve developer velocity](https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity) (2026-03-25)
 - [How we optimized Dash's relevance judge with DSPy](https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy) (2026-03-17)
-- [Using LLMs to amplify human labeling and improve Dash search relevance](https://dropbox.tech/machine-learning/llm-human-labeling-improving-search-relevance-dropbox-dash) (2026-02-26)
 
 </details>
 
@@ -329,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [GitLab Patch Release: 19.0.1, 18.11.4, 18.10.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-0-1-released/) (2026-05-28)
+- [Claude Opus 4.8 on GitLab: Complex agentic work, less disruption](https://about.gitlab.com/blog/claude-opus-4-8-on-gitlab/) (2026-05-28)
+- [Agentic coding is only as good as its context](https://about.gitlab.com/blog/agentic-coding-only-as-good-as-context/) (2026-05-28)
 - [Full security scanner coverage of your codebase in minutes](https://about.gitlab.com/blog/security-configuration-profiles/) (2026-05-26)
 - [Reduce supply chain risk with SBOM-based dependency scanning](https://about.gitlab.com/blog/sbom-based-dependency-scanning/) (2026-05-26)
-- [Transform MRs from manual tasks to an automated workflow](https://about.gitlab.com/blog/transform-mrs-to-automated-workflow/) (2026-05-21)
-- [Track CI component usage across your organization](https://about.gitlab.com/blog/track-ci-component-usage/) (2026-05-21)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
+- [Amazon OpenSearch Serverless is now available in the Vercel Marketplace](https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace) (2026-05-28)
 - [Redesigned Deployments List](https://vercel.com/changelog/redesigned-deployments-list) (2026-05-27)
 - [Sandbox persistence is now GA](https://vercel.com/changelog/sandbox-persistence-is-now-ga) (2026-05-26)
 - [Vercel Domains now supports price sorting and availability filtering](https://vercel.com/changelog/vercel-domains-now-supports-price-sorting-and-availability-filtering) (2026-05-26)
-- [Firecrawl joins the Vercel Marketplace](https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace) (2026-05-26)
-- [Microfrontends routing now applies to vc alias and branch domains](https://vercel.com/changelog/microfrontends-routing-now-applies-to-vc-alias-and-branch-domains) (2026-05-26)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Securing AI Agents in Healthcare and Life Sciences](https://auth0.com/blog/securing-ai-agents-healthcare-life-sciences/) (2026-05-27)
+- [Enterprise Trust Is a Race. Here is How to Win It](https://auth0.com/blog/enterprise-trust-race/) (2026-05-28)
 - [Do Not Let Your AI Go Rogue, Guard Against Agentic Misalignment](https://auth0.com/blog/do-not-let-your-agent-go-rogue/) (2026-05-27)
+- [Securing AI Agents in Healthcare and Life Sciences](https://auth0.com/blog/securing-ai-agents-healthcare-life-sciences/) (2026-05-27)
 - [Maximizing Akamai Risk Signals in Auth0 Actions](https://auth0.com/blog/maximizing-akamai-risk-signals-auth0-actions/) (2026-05-22)
 - [A Guide to Auth0 Authorization with Scopes, Roles, and Client Grants Explained](https://auth0.com/blog/auth0-authorization-guide-scopes-roles-client-grants/) (2026-05-19)
-- [What AI Tools, MCP Servers, and Skills Actually Do](https://auth0.com/blog/what-ai-tools-mcp-servers-and-skills-actually-do/) (2026-05-19)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026](https://towardsdatascience.com/emonet-speaker-aware-transformers-for-emotion-recognition-and-what-id-build-differently-in-2026/) (2026-05-28)
 - [The Infrastructure Behind Making Local LLM Agents Actually Useful](https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/) (2026-05-28)
 - [Why AI Still Can’t Solve Your Real Mathematical Optimization Problem](https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/) (2026-05-28)
 - [DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation](https://towardsdatascience.com/diffujudge-av-a-diffusion-inspired-framework-for-calibrated-av-video-evaluation/) (2026-05-28)
 - [How to Effectively Run Many Claude Code Sessions in Parallel](https://towardsdatascience.com/how-to-effectively-run-many-claude-code-sessions-in-parallel/) (2026-05-27)
-- [Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model](https://towardsdatascience.com/learning-from-pairwise-preferences-an-introduction-to-the-bradley-terry-model/) (2026-05-27)
 
 </details>
 
