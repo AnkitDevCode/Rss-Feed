@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Payroll startup Remote says it grew revenue 50% per employee without adding headcount](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/) (2026-05-27)
-- [UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us](https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/) (2026-05-27)
-- [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) (2026-05-27)
-- [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/) (2026-05-27)
-- [CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/) (2026-05-27)
+- [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/) (2026-05-28)
+- [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) (2026-05-28)
+- [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/) (2026-05-27)
+- [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/) (2026-05-27)
+- [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [YouTube to automatically label AI-generated videos](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/) (2026-05-27)
-- [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html) (2026-05-27)
-- [What Apple and Google are doing to your push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) (2026-05-27)
-- [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (2026-05-27)
-- [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779) (2026-05-27)
+- [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) (2026-05-28)
+- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html) (2026-05-28)
+- [Can we have the day off?](https://mlsu.io/posts/day-off/) (2026-05-28)
+- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html) (2026-05-27)
+- [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A Google employee allegedly used inside information to win $1.2 million on Polymarket ](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets) (2026-05-27)
+- [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale) (2026-05-27)
+- [All the news about Ferrari&#8217;s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev) (2026-05-27)
 - [The new Halide camera app launches with film looks and an upgraded photo editor](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available) (2026-05-27)
 - [Facebook launches a ‘Plus’ subscription that gives you extra features](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) (2026-05-27)
-- [Roids were all the rage at the Enhanced Games](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports) (2026-05-27)
-- [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (2026-05-27)
-- [The Verge’s 2026 college graduation gift guide](https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas) (2026-05-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Roku OS’s home screen now features a large, permanent ad](https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/) (2026-05-27)
-- [Valve's Steam Deck is back in stock after months, but you won't like it](https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/) (2026-05-27)
-- [Trump admin to block Ebola-exposed Americans from US, move them to Kenya](https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/) (2026-05-27)
-- ["Little red dot" in early Universe is a naked supermassive black hole](https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/) (2026-05-27)
-- [US Space Force confirms SpaceX will build sensor-to-shooter targeting network](https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/) (2026-05-27)
+- [California defeats Tesla's attempt to throw out racial discrimination lawsuit](https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/) (2026-05-27)
+- [Websites have a new way to spy on visitors: analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) (2026-05-27)
+- [Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities](https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/) (2026-05-27)
+- [Mina the Hollower is the best old-school action adventure I've played in a while](https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/) (2026-05-27)
+- [Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/) (2026-05-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Tensors Explained Part 1: How AI Systems Represent Data](https://dev.to/rijultp/tensors-explained-part-1-how-ai-systems-represent-data-mbj) (2026-05-27)
-- [Stop pasting production JWTs into random online decoders.](https://dev.to/devnovatools/stop-pasting-production-jwts-into-random-online-decoders-36o7) (2026-05-27)
-- [I Tried Building a Complex Security Tool with a 1.5B Local Model — Here's What Broke](https://dev.to/muzasio/i-tried-building-a-complex-security-tool-with-a-15b-local-model-heres-what-broke-2ld2) (2026-05-27)
-- [I Built an MCP Server for INDmoney — Ask Claude About Your Portfolio in Plain English](https://dev.to/vigneshwaran_m/i-built-an-mcp-server-for-indmoney-ask-claude-about-your-portfolio-in-plain-english-431i) (2026-05-27)
-- [# Como criei um varredura diária de papers de IA com Ollama + Telegram](https://dev.to/lincoln_romais/-como-criei-um-varredura-diaria-de-papers-de-ia-com-ollama-telegram-gnl) (2026-05-27)
+- [Docker Desktop Alternatives: OrbStack vs Colima vs Rancher Desktop](https://dev.to/pickuma/docker-desktop-alternatives-orbstack-vs-colima-vs-rancher-desktop-2af1) (2026-05-28)
+- [The Veltrix Treasure-Hunt Engine Litmus Test](https://dev.to/dev-architecture-blog/the-veltrix-treasure-hunt-engine-litmus-test-5gaj) (2026-05-28)
+- [Quantizing Gemma 4 on Mac with llama.cpp](https://dev.to/0xkoji/quantizing-gemma-4-on-mac-with-llamacpp-54k7) (2026-05-28)
+- [How I Built an AI-Powered Google Maps Scraper for Lead Generation](https://dev.to/elke_qin/how-i-built-an-ai-powered-google-maps-scraper-for-lead-generation-30cp) (2026-05-28)
+- [Readsb ADS-B Aircraft Local State Archive](https://dev.to/johnnyfitz/readsb-ads-b-aircraft-local-state-archive-cik) (2026-05-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Rust Design Patterns: How I Levelled Up My Systems Code in 2026 ✨](https://medium.com/@anshusinghal703/7-rust-design-patterns-how-i-levelled-up-my-systems-code-in-2026-59d98534f501?source=rss------programming-5) (2026-05-27)
-- [AI Took the Easy Tasks First: The Human Skills That Still Decide Who Gets Hired](https://medium.com/@srivathsgondi19/ai-took-the-easy-tasks-first-the-human-skills-that-still-decide-who-gets-hired-9ecadfb0fc58?source=rss------programming-5) (2026-05-27)
-- [AI Cloud Hosting Meets Local Infrastructure: Why You Need Both](https://medium.com/@oneinfer.ai/ai-cloud-hosting-meets-local-infrastructure-why-you-need-both-e15945b8d8cd?source=rss------programming-5) (2026-05-27)
-- [How I went from zero to CEOI within 5 months](https://medium.com/@samuel.ko702/how-i-went-from-zero-to-ceoi-within-5-months-3127714b33c8?source=rss------programming-5) (2026-05-27)
-- [I Thought I Knew Python. Then These 7 Features Humbled Me Completely.](https://python.plainenglish.io/i-thought-i-knew-python-then-these-7-features-humbled-me-completely-8a2c6b5862ce?source=rss------programming-5) (2026-05-27)
+- [Your Frontend State Management Is Becoming a Distributed Monolith](https://medium.com/angular-engineering/your-frontend-state-management-is-becoming-a-distributed-monolith-998fceb3fd45?source=rss------programming-5) (2026-05-28)
+- [Day 19: Advanced Linux: Services, Daemons, and systemd](https://pawannatekar220.medium.com/day-19-advanced-linux-services-daemons-and-systemd-da4fad2b2dc4?source=rss------programming-5) (2026-05-28)
+- [Why “Vibe Coding” Is Becoming Controversial](https://medium.com/@kishan.kumar792/why-vibe-coding-is-becoming-controversial-2026a7581e9c?source=rss------programming-5) (2026-05-28)
+- [Arsenal vs PSG Maçı Öncesi İstatistikler ve Çeşitlilik Analizi](https://medium.com/@futbolundogasi/arsenal-vs-psg-ma%C3%A7%C4%B1-%C3%B6ncesi-i%CC%87statistikler-ve-%C3%A7e%C5%9Fitlilik-analizi-b7c4072fff09?source=rss------programming-5) (2026-05-28)
+- [How Randomness Creates Order: The Magic Of The Central Limit Theorem](https://medium.com/@tararasti/how-randomness-creates-order-the-magic-of-the-central-limit-theorem-487bea11fe83?source=rss------programming-5) (2026-05-28)
 
 </details>
 
@@ -540,17 +540,6 @@ https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
 - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) (2026-05-27)
 - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
 - [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
-- [Exploring the Benefits of AI Bots for Forex Trading in Forex Markets](https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/) (2026-05-27)
-- [Autonomous AI systems test governance in physical environments](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/) (2026-05-26)
-- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
-- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
 
 </details>
 
