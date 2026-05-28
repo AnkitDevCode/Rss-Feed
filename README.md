@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/) (2026-05-28)
 - [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/) (2026-05-28)
 - [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) (2026-05-28)
 - [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/) (2026-05-27)
 - [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/) (2026-05-27)
-- [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) (2026-05-28)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) (2026-05-28)
+- [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff) (2026-05-28)
 - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) (2026-05-28)
 - [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html) (2026-05-28)
-- [Can we have the day off?](https://mlsu.io/posts/day-off/) (2026-05-28)
-- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html) (2026-05-27)
-- [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [YouTube will let you ask AI to make a custom video feed](https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability) (2026-05-28)
+- [The golden age of handheld gaming is already over](https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era) (2026-05-28)
 - [A Google employee allegedly used inside information to win $1.2 million on Polymarket ](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets) (2026-05-27)
 - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale) (2026-05-27)
 - [All the news about Ferrari&#8217;s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev) (2026-05-27)
-- [The new Halide camera app launches with film looks and an upgraded photo editor](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available) (2026-05-27)
-- [Facebook launches a ‘Plus’ subscription that gives you extra features](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions) (2026-05-27)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Docker Desktop Alternatives: OrbStack vs Colima vs Rancher Desktop](https://dev.to/pickuma/docker-desktop-alternatives-orbstack-vs-colima-vs-rancher-desktop-2af1) (2026-05-28)
-- [The Veltrix Treasure-Hunt Engine Litmus Test](https://dev.to/dev-architecture-blog/the-veltrix-treasure-hunt-engine-litmus-test-5gaj) (2026-05-28)
-- [Quantizing Gemma 4 on Mac with llama.cpp](https://dev.to/0xkoji/quantizing-gemma-4-on-mac-with-llamacpp-54k7) (2026-05-28)
-- [How I Built an AI-Powered Google Maps Scraper for Lead Generation](https://dev.to/elke_qin/how-i-built-an-ai-powered-google-maps-scraper-for-lead-generation-30cp) (2026-05-28)
-- [Readsb ADS-B Aircraft Local State Archive](https://dev.to/johnnyfitz/readsb-ads-b-aircraft-local-state-archive-cik) (2026-05-28)
+- [The Next Decade of Data Engineering: From Modern Data Stack to Data Engineering Harness](https://dev.to/seatunnel/the-next-decade-of-data-engineering-from-modern-data-stack-to-data-engineering-harness-4cjo) (2026-05-28)
+- [Tell me which LLM and cloud base suitable for creating agentic coding AI. it's all coverup the BMDA like
+1. Business Understanding
+2. Model / Architecture Design
+3. Agile Development
+4. Deployment & Monitoring](https://dev.to/ananth_r_d397caa9d8c68cb0/tell-me-which-is-suitable-for-creating-agentic-coding-ai-its-all-coverup-the-bmda-like-1-2o8) (2026-05-28)
+- [Why Traditional QA Fails Browser-Based Casino Games](https://dev.to/anett_dolor_5747c28ebc143/why-traditional-qa-fails-browser-based-casino-games-2pdn) (2026-05-28)
+- [I Built Sổ Lãi, a Practical Profit Tracker for Vietnamese Online Shops](https://dev.to/klauski24/i-built-so-lai-a-practical-profit-tracker-for-vietnamese-online-shops-4n18) (2026-05-28)
+- [Bugs not dead: How to catch bugs in game code](https://dev.to/pvsdev/bugs-not-dead-how-to-catch-bugs-in-game-code-lcc) (2026-05-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Frontend State Management Is Becoming a Distributed Monolith](https://medium.com/angular-engineering/your-frontend-state-management-is-becoming-a-distributed-monolith-998fceb3fd45?source=rss------programming-5) (2026-05-28)
-- [Day 19: Advanced Linux: Services, Daemons, and systemd](https://pawannatekar220.medium.com/day-19-advanced-linux-services-daemons-and-systemd-da4fad2b2dc4?source=rss------programming-5) (2026-05-28)
-- [Why “Vibe Coding” Is Becoming Controversial](https://medium.com/@kishan.kumar792/why-vibe-coding-is-becoming-controversial-2026a7581e9c?source=rss------programming-5) (2026-05-28)
-- [Arsenal vs PSG Maçı Öncesi İstatistikler ve Çeşitlilik Analizi](https://medium.com/@futbolundogasi/arsenal-vs-psg-ma%C3%A7%C4%B1-%C3%B6ncesi-i%CC%87statistikler-ve-%C3%A7e%C5%9Fitlilik-analizi-b7c4072fff09?source=rss------programming-5) (2026-05-28)
-- [How Randomness Creates Order: The Magic Of The Central Limit Theorem](https://medium.com/@tararasti/how-randomness-creates-order-the-magic-of-the-central-limit-theorem-487bea11fe83?source=rss------programming-5) (2026-05-28)
+- [Bugs not dead: How to catch bugs in game code](https://unicorn-dev.medium.com/bugs-not-dead-how-to-catch-bugs-in-game-code-ba4e689d405f?source=rss------programming-5) (2026-05-28)
+- [NVIDIA H200 GPUs on Ocean Network: The Case for Decentralized AI Compute Infrastructure](https://medium.com/@onyblocho/nvidia-h200-gpus-on-ocean-network-the-case-for-decentralized-ai-compute-infrastructure-44282cb3298f?source=rss------programming-5) (2026-05-28)
+- [에이전트 코딩을 잘한다는 건, 결국 내가 일하는 방식만큼입니다](https://kyunwoo.medium.com/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9E%98%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B4-%EA%B2%B0%EA%B5%AD-%EB%82%B4%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EB%A7%8C%ED%81%BC%EC%9E%85%EB%8B%88%EB%8B%A4-f4f998d1e6d8?source=rss------programming-5) (2026-05-28)
+- [How to run LLMs reliably in production with OpenAI and Anthropic](https://medium.com/@sebuzdugan/how-to-run-llms-reliably-in-production-with-openai-and-anthropic-7107e7ed8015?source=rss------programming-5) (2026-05-28)
+- [I Thought I Knew Python. Then These 7 Features Humbled Me Completely.](https://blog.venturemagazine.net/i-thought-i-knew-python-then-these-7-features-humbled-me-completely-25dcf371716a?source=rss------programming-5) (2026-05-28)
 
 </details>
 
@@ -317,7 +321,7 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-27)
+- [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
 - [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
 - [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
 - [Visual Studio Code 1.120](https://code.visualstudio.com/updates/v1_120) (2026-05-13)
@@ -373,6 +377,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What are AI Agents?
+](
+https://www.twilio.com/en-us/blog/developers/ai-agents-explained
+) (2026-05-27)
+- [
 Script Adherence Using Real-time Conversation Intelligence with Twilio Flex
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/real-time-conversation-intelligence-flex
@@ -392,11 +401,6 @@ What is AI observability (and how does it work)?
 ](
 https://www.twilio.com/en-us/blog/insights/ai-observability
 ) (2026-05-21)
-- [
-8 ways to reduce call center costs with AI
-](
-https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
-) (2026-05-20)
 
 </details>
 
@@ -500,6 +504,17 @@ https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
 </details>
 
 <details>
+<summary>💬 Slack API</summary>
+
+- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
+- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
+- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
+
+</details>
+
+<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Label yourself](https://signal.org/blog/group-member-labels/) (2026-03-19)
@@ -540,6 +555,17 @@ https://www.twilio.com/en-us/blog/insights/reduce-call-center-costs-ai
 - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) (2026-05-27)
 - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
 - [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
+- [Exploring the Benefits of AI Bots for Forex Trading in Forex Markets](https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/) (2026-05-27)
+- [Autonomous AI systems test governance in physical environments](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/) (2026-05-26)
+- [OpenAI opens Singapore AI lab as IMDA updates AI framework](https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/) (2026-05-22)
+- [China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention](https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/) (2026-05-22)
 
 </details>
 
