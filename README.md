@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/) (2026-05-29)
+- [Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/) (2026-05-29)
+- [Kiwibit’s AI-powered bird feeder is my new backyard buddy](https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/) (2026-05-29)
+- [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/) (2026-05-29)
 - [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/) (2026-05-29)
-- [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/) (2026-05-29)
-- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/) (2026-05-29)
-- [How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/) (2026-05-28)
-- [The internet is being rebuilt for machines](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/) (2026-05-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey](https://www.phoronix.com/review/cache-aware-scheduling-hedt) (2026-05-29)
-- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967) (2026-05-29)
-- [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL) (2026-05-29)
-- [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/) (2026-05-29)
-- [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) (2026-05-29)
+- [Blue Origin rocket explodes on launchpad in a setback](https://www.reuters.com/science/blue-origin-says-it-faced-anomaly-during-hot-fire-test-2026-05-29/) (2026-05-29)
+- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai) (2026-05-29)
+- [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop) (2026-05-29)
+- [Expertise in the Age of AI](https://www.moderndescartes.com/essays/ai_and_expertise/) (2026-05-29)
+- [Local Git Remotes](https://cblgh.org/posts/local-git-remotes/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays) (2026-05-29)
-- [Nintendo&#8217;s newest WarioWare is a weirdo smartphone app](https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game) (2026-05-28)
-- [Microsoft 365 Copilot gets a speed boost and cleaner design](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign) (2026-05-28)
-- [Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle ](https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale) (2026-05-28)
-- [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale) (2026-05-28)
+- [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale) (2026-05-29)
+- [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple) (2026-05-29)
+- [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness) (2026-05-29)
+- [Backrooms is at the forefront of horror&#8217;s YouTube wave](https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12) (2026-05-29)
+- [Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM](https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs) (2026-05-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site](https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/) (2026-05-29)
+- [Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic](https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/) (2026-05-29)
+- [These researchers would be in Africa fighting ebola—but Trump cut their funding](https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/) (2026-05-29)
 - [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) (2026-05-29)
 - [2027 Audi RS5 first drive: A performance PHEV with split personalities](https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/) (2026-05-28)
-- [LLMs believe false statements even after explicit warnings that they're false](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/) (2026-05-28)
-- [Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/) (2026-05-28)
-- [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/) (2026-05-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: unlocking lithium and controlling Ebola](https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/) (2026-05-29)
+- [The deadly Ebola outbreak is proving difficult to control](https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/) (2026-05-29)
+- [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) (2026-05-29)
 - [How a new extraction process could unlock the world’s lithium](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/) (2026-05-28)
 - [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) (2026-05-28)
-- [Climate tech companies are going public. What’s next?](https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/) (2026-05-28)
-- [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) (2026-05-28)
-- [The Download: keeping up with AI, and the future of IVF](https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/) (2026-05-27)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Best of the Heap: First post of the past​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/) (2026-05-29)
 - [The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/) (2026-05-29)
 - [In an AI world, the most valuable developers will be both artisans and builders​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/28/artisans-and-builders/) (2026-05-28)
 - [Agents on a leash: Agentic AI remains mostly single-agent and monitored at work​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‍‌‍​‌‌‍​‌​﻿​﻿​﻿​‌‌‍‌‌‌‍‌​‌‍‌‌​‍﻿‌​﻿​﻿‌‍​‌‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‌​‌‍‌‌​‍﻿‌‌‍​‍​﻿​​​﻿‌‍​﻿​​​‍﻿‌​﻿‌﻿​﻿​​‌‍‌​‌‍‌​​﻿‌‌​﻿​﻿​﻿‌‍‌‍​﻿​﻿‌​​﻿‌‌​﻿​‍​﻿‍​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‍‌‍​‌‌‍​‌​﻿​﻿​﻿​‌‌‍‌‌‌‍‌​‌‍‌‌​‍﻿‌​﻿​﻿‌‍​‌‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‌​‌‍‌‌​‍﻿‌‌‍​‍​﻿​​​﻿‌‍​﻿​​​‍﻿‌​﻿‌﻿​﻿​​‌‍‌​‌‍‌​​﻿‌‌​﻿​﻿​﻿‌‍‌‍​﻿​﻿‌​​﻿‌‌​﻿​‍​﻿‍​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work/) (2026-05-27)
 - [Do you have what it takes to run AI in production?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌‌‍‌‍​﻿‌​​﻿​‌‌‍​‍‌‍‌​​‍﻿‌‌‍‌‍‌‍​‍​﻿‍‌​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿​​​‍﻿‌‌‍​‌​﻿​‍​﻿‌‌‌‍​‌​‍﻿‌​﻿​‌‌‍​﻿‌‍​‌‌‍​﻿​﻿‌﻿‌‍‌​‌‍​‌‌‍​‍​﻿‌﻿‌‍​‍​﻿​​‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌‌‍‌‍​﻿‌​​﻿​‌‌‍​‍‌‍‌​​‍﻿‌‌‍‌‍‌‍​‍​﻿‍‌​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿​​​‍﻿‌‌‍​‌​﻿​‍​﻿‌‌‌‍​‌​‍﻿‌​﻿​‌‌‍​﻿‌‍​‌‌‍​﻿​﻿‌﻿‌‍‌​‌‍​‌‌‍​‍​﻿‌﻿‌‍​‍​﻿​​‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/) (2026-05-26)
-- [Dispatches from O'Reilly: The accidental orchestrator​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌​﻿‍‌‌‍​‌‌‍‌‌​﻿​‌‌‍​‌​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌‍​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌​‍﻿‌​﻿‍​‌‍​‍‌‍‌​‌‍​﻿​‍﻿‌‌‍‌‍‌‍‌​​﻿‌‍​﻿‍‌​﻿‍‌​﻿​‍​﻿​‍​﻿​﻿‌‍​‍​﻿‍​‌‍​‌‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌​﻿‍‌‌‍​‌‌‍‌‌​﻿​‌‌‍​‌​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌‍​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌​‍﻿‌​﻿‍​‌‍​‍‌‍‌​‌‍​﻿​‍﻿‌‌‍‌‍‌‍‌​​﻿‌‍​﻿‍‌​﻿‍‌​﻿​‍​﻿​‍​﻿​﻿‌‍​‍​﻿‍​‌‍​‌‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/) (2026-05-22)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I got tired of describing the same request 3 times in Symfony](https://dev.to/outcomer/i-got-tired-of-describing-the-same-request-3-times-in-symfony-3jl2) (2026-05-29)
-- [Elite Test — Modern Ed-Tech Platform from Uzbekistan](https://dev.to/elmurod_allanazarov/elite-test-modern-ed-tech-platform-from-uzbekistan-1177) (2026-05-29)
-- [We built 24 apps with AI. Three platforms. 561 vulnerabilities.](https://dev.to/muhammad_hasan/we-built-24-apps-with-ai-three-platforms-561-vulnerabilities-gp7) (2026-05-29)
-- [I built a docs Q&A engine that returns null instead of hallucinating](https://dev.to/sujithkrishnanpk_c9f931/i-built-a-docs-qa-engine-that-returns-null-instead-of-hallucinating-58p6) (2026-05-29)
-- [MongoDB `$facet` Explained: One Query, Multiple Results](https://dev.to/visualeaf/mongodb-facet-explained-one-query-multiple-results-b64) (2026-05-29)
+- [Why I'm building Hyphae: provenance over prediction (and the 3-line baseline that tied it)](https://dev.to/terrizoaguimor/why-im-building-hyphae-provenance-over-prediction-and-the-3-line-baseline-that-tied-it-2e32) (2026-05-29)
+- [MarkItDown: Microsoft's Tool for Converting Almost Anything to Markdown](https://dev.to/arshtechpro/markitdown-microsofts-tool-for-converting-almost-anything-to-markdown-5hf5) (2026-05-29)
+- [Testing PDF resume parsing without AI](https://dev.to/kakutixyz/testing-pdf-resume-parsing-without-ai-3idd) (2026-05-29)
+- [How I Export 700+ Skool Members to CSV with One API Call (Email, Tier, LTV, Survey)](https://dev.to/cristiantalasanchez/how-i-export-700-skool-members-to-csv-with-one-api-call-email-tier-ltv-survey-1p85) (2026-05-29)
+- [Claude Opus 4.8: What Actually Changed for AI Agent Builders](https://dev.to/pat9000/claude-opus-48-what-actually-changed-for-ai-agent-builders-42i7) (2026-05-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Measuring Internet Speed in Python](https://medium.com/@mystiquelord123/measuring-internet-speed-in-python-cdf18ba25cb3?source=rss------programming-5) (2026-05-29)
-- [JavaScript’te Kafaları Karıştıran Üçlü: =, == ve === Arasındaki Farklar Nelerdir?](https://bekogluaydin.medium.com/javascriptte-kafalar%C4%B1-kar%C4%B1%C5%9Ft%C4%B1ran-%C3%BC%C3%A7l%C3%BC-ve-aras%C4%B1ndaki-farklar-nelerdir-6daee5af1025?source=rss------programming-5) (2026-05-29)
-- [Agent Like a Junior on the Night Shift — The Backend Breaks After Hour Three](https://medium.com/@wasowski.jarek/agent-like-a-junior-on-the-night-shift-the-backend-breaks-after-hour-three-0e4fa7f80beb?source=rss------programming-5) (2026-05-29)
-- [Go 1.25 & 1.26: Practical Features That Actually Make Your Code Better](https://golangch.medium.com/go-1-25-1-26-practical-features-that-actually-make-your-code-better-6fdc5be29e79?source=rss------programming-5) (2026-05-29)
-- [A $10,000 Bug. One JSON Field. Every Account on the Platform.](https://infosecwriteups.com/a-10-000-bug-one-json-field-every-account-on-the-platform-95471e37f752?source=rss------programming-5) (2026-05-29)
+- [Two Pointers Pattern (Part 3): Squares of a Sorted Array Explained](https://medium.com/@saachikaur19/two-pointers-pattern-part-3-squares-of-a-sorted-array-explained-f08f8a42d944?source=rss------programming-5) (2026-05-29)
+- [Is Using AI for Everything Really Wrong?](https://medium.com/@afiasattar2/is-using-ai-for-everything-really-wrong-18164ffb5caa?source=rss------programming-5) (2026-05-29)
+- [What is the Event Bus Pattern in Flutter?](https://medium.com/@savaliya.ravi.rs/what-is-the-event-bus-pattern-in-flutter-c008c9e0813d?source=rss------programming-5) (2026-05-29)
+- [Why @StateObject Exists When @ObservedObject Already Works](https://medium.com/@swifttoday/why-stateobject-exists-when-observedobject-already-works-ab9791ef1884?source=rss------programming-5) (2026-05-29)
+- [Why C++ is Still One of the Best Languages for Competitive Programming](https://medium.com/@laxmipriyapujari11/why-c-is-still-one-of-the-best-languages-for-competitive-programming-f8f5ec0fa0dc?source=rss------programming-5) (2026-05-29)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How We Use AlphaEvolve to Make Complex IDE Algorithms Faster](https://blog.jetbrains.com/ai/2026/05/how-we-use-alphaevolve-to-make-complex-ide-algorithms-faster/) (2026-05-29)
+- [JetBrains Academy – May Digest](https://blog.jetbrains.com/education/2026/05/29/jetbrains-academy-may-2026/) (2026-05-29)
+- [TeamCity 2026.1.1 Is Now Available](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2026-1-1-bug-fix/) (2026-05-29)
 - [The Upcoming Sunset of DataSpell](https://blog.jetbrains.com/dataspell/2026/05/the-upcoming-sunset-of-dataspell/) (2026-05-28)
 - [Deprecating dotMemory Unit](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/) (2026-05-28)
-- [Introducing the Cloud9 JetStream Theme for JetBrains IDEs](https://blog.jetbrains.com/blog/2026/05/27/introducing-the-cloud9-jetstream-theme-for-jetbrains-ides/) (2026-05-27)
-- [Build a Live Object Detection App for the Reachy Mini With TensorFlow and PyCharm](https://blog.jetbrains.com/pycharm/2026/05/build-a-live-object-detection-app-for-reachy-mini-with-tensorflow-and-pycharm/) (2026-05-27)
-- [Koog 1.0 Is Out: Stable Core, Better Interop, and Multiplatform Observability](https://blog.jetbrains.com/ai/2026/05/koog-1-0-is-out-stable-core-better-interop-and-multiplatform-observability/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
 - [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
 - [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
 - [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
 - [Visual Studio Code 1.120](https://code.visualstudio.com/updates/v1_120) (2026-05-13)
-- [Visual Studio Code 1.119](https://code.visualstudio.com/updates/v1_119) (2026-05-06)
 
 </details>
 
@@ -354,7 +354,7 @@
 - [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
 - [Team-wide provider allowlist on AI Gateway](https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway) (2026-05-28)
 - [Amazon OpenSearch Serverless is now available in the Vercel Marketplace](https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace) (2026-05-28)
-- [Experimental native binaries for Vercel CLI](https://vercel.com/changelog/experimental-native-binaries-for-vercel-cli) (2026-05-27)
+- [How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox](https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox) (2026-05-27)
 
 </details>
 
@@ -546,44 +546,55 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) (2026-05-29)
 - [ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM](https://huggingface.co/blog/ibm-research/itbench-aa) (2026-05-27)
 - [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) (2026-05-27)
 - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) (2026-05-27)
 - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
-- [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Anthropic releases Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/) (2026-05-29)
+- [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
+- [NBA plans AI system for automatic out-of-bounds calls](https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/) (2026-05-28)
+- [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
+- [Exploring the Benefits of AI Bots for Forex Trading in Forex Markets](https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Explaining Lineage in DAX](https://towardsdatascience.com/explaining-lineage-in-dax/) (2026-05-29)
+- [Five Questions About Chronos-2, the Time Series Foundation Model](https://towardsdatascience.com/five-questions-about-chronos-2-the-time-series-foundation-model/) (2026-05-29)
 - [EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026](https://towardsdatascience.com/emonet-speaker-aware-transformers-for-emotion-recognition-and-what-id-build-differently-in-2026/) (2026-05-28)
 - [The Infrastructure Behind Making Local LLM Agents Actually Useful](https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/) (2026-05-28)
 - [Why AI Still Can’t Solve Your Real Mathematical Optimization Problem](https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/) (2026-05-28)
-- [DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation](https://towardsdatascience.com/diffujudge-av-a-diffusion-inspired-framework-for-calibrated-av-video-evaluation/) (2026-05-28)
-- [How to Effectively Run Many Claude Code Sessions in Parallel](https://towardsdatascience.com/how-to-effectively-run-many-claude-code-sessions-in-parallel/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [25 Most Influential AI Pioneers to Meet at DataHack Summit 2026](https://www.analyticsvidhya.com/blog/2026/05/25-most-influential-ai-pioneers-to-meet-at-datahack-summit-2026/) (2026-05-29)
+- [Claude Opus 4.8: A Smarter Model in the Right Direction](https://www.analyticsvidhya.com/blog/2026/05/claude-opus-4-8-pricing-and-features/) (2026-05-29)
 - [PySpark Optimization: 12 Proven Techniques to Speed Up Your Spark Jobs](https://www.analyticsvidhya.com/blog/2026/05/proven-techniques-to-speed-up-your-spark-jobs/) (2026-05-27)
 - [10 Everyday Tasks You Can Automate with AI Today (With n8n Templates)](https://www.analyticsvidhya.com/blog/2026/05/everyday-ai-automation-using-n8n/) (2026-05-26)
 - [Google Antigravity 2.0: The Full Developer Guide (I/O 2026) ](https://www.analyticsvidhya.com/blog/2026/05/google-antigravity-2-0/) (2026-05-25)
-- [Build a Claude Cowork-Like Browser Agent Using Playwright MCP and Claude Desktop ](https://www.analyticsvidhya.com/blog/2026/05/build-a-claude-cowork-like-browser-agent-using-playwright-mcp/) (2026-05-24)
-- [Pandas vs Polars vs DuckDB: Which Library Should You Choose?](https://www.analyticsvidhya.com/blog/2026/05/pandas-vs-polars-vs-duckdb/) (2026-05-23)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Practical NLP in the Browser with Transformers.js](https://www.kdnuggets.com/practical-nlp-in-the-browser-with-transformers-js) (2026-05-29)
+- [The ‘Entry-Level’ Gatekeeper: Auditing Job Descriptions with Textstat](https://www.kdnuggets.com/the-entry-level-gatekeeper-auditing-job-descriptions-with-textstat) (2026-05-29)
 - [Tweaking Local Language Model Settings with Ollama](https://www.kdnuggets.com/tweaking-local-language-model-settings-with-ollama) (2026-05-28)
 - [7 Real World AI Projects to Build in 2026 (with Guides)](https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides) (2026-05-28)
 - [Pandas GroupBy Explained With Examples](https://www.kdnuggets.com/pandas-groupby-explained-with-examples) (2026-05-27)
-- [5 Scipy.stats Tricks for Simulating ‘What If’ Scenarios](https://www.kdnuggets.com/5-scipy-stats-tricks-for-simulating-what-if-scenarios) (2026-05-27)
-- [Visual Debugging Tools for Machine Learning Workflows](https://www.kdnuggets.com/visual-debugging-tools-for-machine-learning-workflows) (2026-05-26)
 
 </details>
 
