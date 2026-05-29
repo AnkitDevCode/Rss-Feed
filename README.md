@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/) (2026-05-29)
-- [Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/) (2026-05-29)
-- [Kiwibit’s AI-powered bird feeder is my new backyard buddy](https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/) (2026-05-29)
-- [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/) (2026-05-29)
-- [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/) (2026-05-29)
+- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-05-29)
+- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/) (2026-05-29)
+- [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) (2026-05-29)
+- [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/) (2026-05-29)
+- [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Blue Origin rocket explodes on launchpad in a setback](https://www.reuters.com/science/blue-origin-says-it-faced-anomaly-during-hot-fire-test-2026-05-29/) (2026-05-29)
-- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai) (2026-05-29)
-- [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop) (2026-05-29)
-- [Expertise in the Age of AI](https://www.moderndescartes.com/essays/ai_and_expertise/) (2026-05-29)
-- [Local Git Remotes](https://cblgh.org/posts/local-git-remotes/) (2026-05-29)
+- [The California State Assembly Has Passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill) (2026-05-29)
+- [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) (2026-05-29)
+- [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/) (2026-05-29)
+- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (2026-05-29)
+- [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs) (2026-05-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale) (2026-05-29)
-- [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple) (2026-05-29)
-- [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness) (2026-05-29)
-- [Backrooms is at the forefront of horror&#8217;s YouTube wave](https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12) (2026-05-29)
-- [Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM](https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs) (2026-05-29)
+- [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld) (2026-05-29)
+- [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data) (2026-05-29)
+- [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas) (2026-05-29)
+- [Microsoft delays Fable (again) to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi) (2026-05-29)
+- [Microsoft teases new Surface hardware and ‘a new era of PC’](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors) (2026-05-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site](https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/) (2026-05-29)
-- [Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic](https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/) (2026-05-29)
-- [These researchers would be in Africa fighting ebola—but Trump cut their funding](https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/) (2026-05-29)
-- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) (2026-05-29)
-- [2027 Audi RS5 first drive: A performance PHEV with split personalities](https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/) (2026-05-28)
+- [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) (2026-05-29)
+- [Analysis of Texas measles outbreak shows just how dangerous virus is](https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/) (2026-05-29)
+- [House of the Dragon S3 trailer revels in dragons, fire, and blood](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/) (2026-05-29)
+- [Trump FCC warns all broadcasters to follow orders or be punished like ABC](https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/) (2026-05-29)
+- [DOJ sues states that rejected ICE requests for undercover license plates](https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/) (2026-05-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I'm building Hyphae: provenance over prediction (and the 3-line baseline that tied it)](https://dev.to/terrizoaguimor/why-im-building-hyphae-provenance-over-prediction-and-the-3-line-baseline-that-tied-it-2e32) (2026-05-29)
-- [MarkItDown: Microsoft's Tool for Converting Almost Anything to Markdown](https://dev.to/arshtechpro/markitdown-microsofts-tool-for-converting-almost-anything-to-markdown-5hf5) (2026-05-29)
-- [Testing PDF resume parsing without AI](https://dev.to/kakutixyz/testing-pdf-resume-parsing-without-ai-3idd) (2026-05-29)
-- [How I Export 700+ Skool Members to CSV with One API Call (Email, Tier, LTV, Survey)](https://dev.to/cristiantalasanchez/how-i-export-700-skool-members-to-csv-with-one-api-call-email-tier-ltv-survey-1p85) (2026-05-29)
-- [Claude Opus 4.8: What Actually Changed for AI Agent Builders](https://dev.to/pat9000/claude-opus-48-what-actually-changed-for-ai-agent-builders-42i7) (2026-05-29)
+- [Part 8: Free Self-Hosted Mind Mapping for a Home Lab: Why I Put a Significant Part of MindMapVault on GitHub](https://dev.to/kornel_maraz_5e66a3e4e27d/part-8-free-self-hosted-mind-mapping-for-a-home-lab-why-i-put-a-significant-part-of-mindmapvault-3mfh) (2026-05-29)
+- [⭐ State.js Basics — Learn CSS‑Driven Reactivity in 10 Minutes](https://dev.to/idevgames/statejs-basics-learn-css-driven-reactivity-in-10-minutes-3m80) (2026-05-29)
+- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859) (2026-05-29)
+- [Knowing Doesn't Mean Feeling (Bite-size Article)](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke) (2026-05-29)
+- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g) (2026-05-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Two Pointers Pattern (Part 3): Squares of a Sorted Array Explained](https://medium.com/@saachikaur19/two-pointers-pattern-part-3-squares-of-a-sorted-array-explained-f08f8a42d944?source=rss------programming-5) (2026-05-29)
-- [Is Using AI for Everything Really Wrong?](https://medium.com/@afiasattar2/is-using-ai-for-everything-really-wrong-18164ffb5caa?source=rss------programming-5) (2026-05-29)
-- [What is the Event Bus Pattern in Flutter?](https://medium.com/@savaliya.ravi.rs/what-is-the-event-bus-pattern-in-flutter-c008c9e0813d?source=rss------programming-5) (2026-05-29)
-- [Why @StateObject Exists When @ObservedObject Already Works](https://medium.com/@swifttoday/why-stateobject-exists-when-observedobject-already-works-ab9791ef1884?source=rss------programming-5) (2026-05-29)
-- [Why C++ is Still One of the Best Languages for Competitive Programming](https://medium.com/@laxmipriyapujari11/why-c-is-still-one-of-the-best-languages-for-competitive-programming-f8f5ec0fa0dc?source=rss------programming-5) (2026-05-29)
+- [I Reviewed 20 Production Incidents. Same 4 Mistakes Every Time.](https://blog.stackademic.com/i-reviewed-20-production-incidents-same-4-mistakes-every-time-a943776f1703?source=rss------programming-5) (2026-05-29)
+- [Madar: 78% fewer tokens on a real backend](https://medium.com/@mohammednaji/madar-78-fewer-tokens-on-a-real-backend-990fee5e5136?source=rss------programming-5) (2026-05-29)
+- [AI vs Generative AI vs Predictive AI vs Agentic AI](https://medium.com/@ingila185/ai-vs-generative-ai-vs-predictive-ai-vs-agentic-ai-f2864af86109?source=rss------programming-5) (2026-05-29)
+- [The Spring Boot Transaction That Lied to Me](https://blog.stackademic.com/the-spring-boot-transaction-that-lied-to-me-7cdb2badfdaf?source=rss------programming-5) (2026-05-29)
+- [Git Saved My Job. These Commands Did It.](https://blog.stackademic.com/git-saved-my-job-these-commands-did-it-bdd1e2b1b0a0?source=rss------programming-5) (2026-05-29)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [What Does It Actually Take for an IDE to Understand Rust?](https://blog.jetbrains.com/rust/2026/05/29/how-rust-ides-understand-code/) (2026-05-29)
+- [Hibernate 7.4 New Features](https://blog.jetbrains.com/idea/2026/05/hibernate-7-4-new-features/) (2026-05-29)
 - [How We Use AlphaEvolve to Make Complex IDE Algorithms Faster](https://blog.jetbrains.com/ai/2026/05/how-we-use-alphaevolve-to-make-complex-ide-algorithms-faster/) (2026-05-29)
 - [JetBrains Academy – May Digest](https://blog.jetbrains.com/education/2026/05/29/jetbrains-academy-may-2026/) (2026-05-29)
 - [TeamCity 2026.1.1 Is Now Available](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2026-1-1-bug-fix/) (2026-05-29)
-- [The Upcoming Sunset of DataSpell](https://blog.jetbrains.com/dataspell/2026/05/the-upcoming-sunset-of-dataspell/) (2026-05-28)
-- [Deprecating dotMemory Unit](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/) (2026-05-28)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
 - [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
 - [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
 - [Team-wide provider allowlist on AI Gateway](https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway) (2026-05-28)
 - [Amazon OpenSearch Serverless is now available in the Vercel Marketplace](https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace) (2026-05-28)
-- [How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox](https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox) (2026-05-27)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🤖 AI News</summary>
 
+- [Scaling safe enterprise AI with OpenAI governance frameworks](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/) (2026-05-29)
 - [Anthropic releases Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/) (2026-05-29)
 - [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
 - [NBA plans AI system for automatic out-of-bounds calls](https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/) (2026-05-28)
 - [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
-- [Exploring the Benefits of AI Bots for Forex Trading in Forex Markets](https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/) (2026-05-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Baseline Enterprise RAG, From PDF to Highlighted Answer](https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/) (2026-05-29)
+- [RAG Is Burning Money — I Built a Cost Control Layer to Fix It](https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/) (2026-05-29)
+- [Why Gradient Descent Became Stochastic](https://towardsdatascience.com/why-gradient-descent-became-stochastic/) (2026-05-29)
 - [Explaining Lineage in DAX](https://towardsdatascience.com/explaining-lineage-in-dax/) (2026-05-29)
 - [Five Questions About Chronos-2, the Time Series Foundation Model](https://towardsdatascience.com/five-questions-about-chronos-2-the-time-series-foundation-model/) (2026-05-29)
-- [EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026](https://towardsdatascience.com/emonet-speaker-aware-transformers-for-emotion-recognition-and-what-id-build-differently-in-2026/) (2026-05-28)
-- [The Infrastructure Behind Making Local LLM Agents Actually Useful](https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/) (2026-05-28)
-- [Why AI Still Can’t Solve Your Real Mathematical Optimization Problem](https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/) (2026-05-28)
 
 </details>
 
