@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Asana acquires no-code agent-builder Stack AI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/) (2026-05-28)
-- [Bluesky embraces long-form content to counter X Articles](https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/) (2026-05-28)
-- [Hackers are trying to steal Signal users’ backups in new wave of phishing attacks](https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/) (2026-05-28)
-- [Anthropic raises $65 Billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/) (2026-05-28)
-- [Just like gold and oil, we’ll soon be able to trade AI token futures](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/) (2026-05-28)
+- [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/) (2026-05-29)
+- [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/) (2026-05-29)
+- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/) (2026-05-29)
+- [How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/) (2026-05-28)
+- [The internet is being rebuilt for machines](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/) (2026-05-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) (2026-05-28)
-- [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html) (2026-05-28)
-- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) (2026-05-28)
-- [About LLMs at Zig Days](https://kristoff.it/blog/llms-at-zig-days/) (2026-05-28)
-- [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap) (2026-05-28)
+- [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821) (2026-05-29)
+- [Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale) (2026-05-29)
+- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) (2026-05-29)
+- [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/) (2026-05-28)
+- [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) (2026-05-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nintendo&#8217;s newest WarioWare is a weirdo smartphone app](https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game) (2026-05-28)
+- [Microsoft 365 Copilot gets a speed boost and cleaner design](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign) (2026-05-28)
 - [Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle ](https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale) (2026-05-28)
 - [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale) (2026-05-28)
 - [The line between games and movies keeps getting blurrier](https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games) (2026-05-28)
-- [Claude’s new model is more ‘honest’ when it messes up](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort) (2026-05-28)
-- [Here’s where you can preorder the new Oura Ring 5](https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability) (2026-05-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Trump loses more control over AI regulation as Illinois passes landmark law](https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/) (2026-05-28)
-- [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/) (2026-05-28)
-- [Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial](https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/) (2026-05-28)
-- [Forecasters predict below-average hurricane season, advise against complacency](https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/) (2026-05-28)
-- [California defeats Tesla's attempt to throw out racial discrimination lawsuit](https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/) (2026-05-27)
+- [2027 Audi RS5 first drive: A performance PHEV with split personalities](https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/) (2026-05-28)
+- [LLMs believe false statements even after explicit warnings that they're false](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/) (2026-05-28)
+- [Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/) (2026-05-28)
+- [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/) (2026-05-28)
+- [Researchers develop a new process to get lithium out of rocks](https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/) (2026-05-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Seeking Advice: Using AI to build tools for the (suffering) nonprofit community](https://dev.to/steph_burrr/building-ai-tools-for-the-suffering-nonprofit-community-1fo0) (2026-05-28)
-- [RabbitMQ Explained: How It Works, How It Differs from Kafka, and Where It Fits in Real Systems](https://dev.to/cybersaiyam/rabbitmq-explained-how-it-works-how-it-differs-from-kafka-and-where-it-fits-in-real-systems-5ak8) (2026-05-28)
-- [Alert policies people actually follow (spoiler: fewer routes win)](https://dev.to/apogeewatcher/alert-policies-people-actually-follow-spoiler-fewer-routes-win-ald) (2026-05-28)
-- [React Native и App Store — почему похожие приложения получают отказ](https://dev.to/alexdidi/react-native-i-app-store-pochiemu-pokhozhiie-prilozhieniia-poluchaiut-otkaz-e72) (2026-05-28)
-- [Injeção e Inversão de Dependência e como o NestJS gerencia tudo isso](https://dev.to/reishenrique/injecao-e-inversao-de-dependencia-e-como-o-nestjs-gerencia-tudo-isso-2oa) (2026-05-28)
+- [How AI Is Reshaping the Data Engineer Role in 2026](https://dev.to/gnana_6392e836fd500a957dc/how-ai-is-reshaping-the-data-engineer-role-in-2026-3443) (2026-05-29)
+- [The Deploy Tax: The Hidden Cost Nobody Talks About After AI Generates Your Code](https://dev.to/backrun/the-deploy-tax-the-hidden-cost-nobody-talks-about-after-ai-generates-your-code-4cme) (2026-05-29)
+- [CSS Flexbox & Grid: The Layout Guide I Wish I Had (2026)](https://dev.to/armorbreak/css-flexbox-grid-the-layout-guide-i-wish-i-had-2026-45n) (2026-05-29)
+- [From Zero to PCB: A Software Engineer‘s Guide to Designing Your First Circuit Board](https://dev.to/anypcba_official/from-zero-to-pcb-a-software-engineers-guide-to-designing-your-first-circuit-board-4jfc) (2026-05-29)
+- [TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.](https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c) (2026-05-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Who’s Really Driving the go Command? A Deep Dive into Golang’s Evolution Architects](https://medium.com/@monikasinghal713/whos-really-driving-the-go-command-a-deep-dive-into-golang-s-evolution-architects-fa5f1b0a6692?source=rss------programming-5) (2026-05-28)
-- [Photoresistor Sensor and Arduino](https://medium.com/the-interesting-world-of-microcontrollers/photoresistor-sensor-and-arduino-7c549c4e4df8?source=rss------programming-5) (2026-05-28)
-- [You’re Running Everything as Root in Docker and Sleeping Fine at Night](https://medium.com/@ArkProtocol1/youre-running-everything-as-root-in-docker-and-sleeping-fine-at-night-9b5a47caf88f?source=rss------programming-5) (2026-05-28)
-- [10 Java Mistakes I Made As A Mid-Level Dev (And Still See In PRs)](https://medium.com/@maahisoft20/10-java-mistakes-i-made-as-a-mid-level-dev-and-still-see-in-prs-2b3a15c90aaf?source=rss------programming-5) (2026-05-28)
-- [Go Debugging — From Zero to Hero: Master the Art of Finding Bugs Like a Pro!](https://medium.com/@anshusinghal703/go-debugging-from-zero-to-hero-master-the-art-of-finding-bugs-like-a-pro-c590ba1dc937?source=rss------programming-5) (2026-05-28)
+- [The Composition API Didn’t Fix Everything — Here Are the New Mistakes Developers Are Making](https://sadiqueali.medium.com/the-composition-api-didnt-fix-everything-here-are-the-new-mistakes-developers-are-making-6bab1fb8d755?source=rss------programming-5) (2026-05-29)
+- [Day 20: Boot Process with systemd in Linux](https://pawannatekar220.medium.com/day-20-boot-process-with-systemd-in-linux-588814c242f1?source=rss------programming-5) (2026-05-29)
+- [Four Ways to Process a Stream: What Redpanda’s Ecosystem Actually Teaches You](https://medium.com/@kherasam18/four-ways-to-process-a-stream-what-redpandas-ecosystem-actually-teaches-you-618e52a1e423?source=rss------programming-5) (2026-05-29)
+- [Anthropic New Release “Claude Opus 4.8”: What’s New and Where It Excels](https://medium.com/@shashank-data-ai/anthropic-new-release-claude-opus-4-8-whats-new-and-where-it-excels-9c501f437795?source=rss------programming-5) (2026-05-29)
+- [I recently appeared for Java Backend Developer interviews.](https://medium.com/@anil-singh/i-recently-appeared-for-java-backend-developer-interviews-0836567e719f?source=rss------programming-5) (2026-05-29)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
+- [Team-wide provider allowlist on AI Gateway](https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway) (2026-05-28)
 - [Amazon OpenSearch Serverless is now available in the Vercel Marketplace](https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace) (2026-05-28)
+- [Experimental native binaries for Vercel CLI](https://vercel.com/changelog/experimental-native-binaries-for-vercel-cli) (2026-05-27)
 - [Redesigned Deployments List](https://vercel.com/changelog/redesigned-deployments-list) (2026-05-27)
-- [Sandbox persistence is now GA](https://vercel.com/changelog/sandbox-persistence-is-now-ga) (2026-05-26)
-- [Vercel Domains now supports price sorting and availability filtering](https://vercel.com/changelog/vercel-domains-now-supports-price-sorting-and-availability-filtering) (2026-05-26)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) (2026-05-27)
 - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
 - [Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models](https://huggingface.co/blog/nvidia/nemotron-labs-diffusion) (2026-05-23)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
+- [NBA plans AI system for automatic out-of-bounds calls](https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/) (2026-05-28)
+- [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
+- [Exploring the Benefits of AI Bots for Forex Trading in Forex Markets](https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/) (2026-05-27)
+- [Autonomous AI systems test governance in physical environments](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/) (2026-05-26)
 
 </details>
 
