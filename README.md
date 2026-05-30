@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/) (2026-05-30)
+- [OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released) (2026-05-30)
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/) (2026-05-30)
+- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/) (2026-05-30)
 - [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/) (2026-05-29)
 - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) (2026-05-29)
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) (2026-05-29)
-- [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/) (2026-05-29)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [من فكرة طلابية إلى نظام مراقبة ذكي – رحلة مستوصف](https://dev.to/abdulhakim_elsayed_904847/mn-fkr-tlby-l-nzm-mrqb-dhky-rhl-mstwsf-2l9j) (2026-05-30)
-- [Vamos participar do GitHub Challenge!](https://dev.to/anamaria/vamos-participar-do-github-challenge-3d41) (2026-05-30)
-- [Medical World Model Prototype: SteeraMed Explained — From Report Reading to Life Trajectory Reasoning](https://dev.to/jxiong/medical-world-model-prototype-steeramed-explained-from-report-reading-to-life-trajectory-4p7j) (2026-05-30)
-- [I Built 4 Real Mobile Apps With No Coding Background — Here's the Exact Workflow](https://dev.to/rumi7911/i-built-4-real-mobile-apps-with-no-coding-background-heres-the-exact-workflow-69k) (2026-05-30)
-- [Is Claude directly editing your translation JSON files?](https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c) (2026-05-30)
+- [Teaching a Computer to Play 4X: How the Annhexation AI Works](https://dev.to/jamesrandall/teaching-a-computer-to-play-4x-how-the-annhexation-ai-works-p1g) (2026-05-30)
+- ["The AI did it" won't save you when EU regulators come knocking](https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb) (2026-05-30)
+- [The Moment the Runtime Became Your Enemy](https://dev.to/built-from-africa/the-moment-the-runtime-became-your-enemy-2do) (2026-05-30)
+- [I spent a week fixing my chatbot's memory — here's what worked](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-a-week-fixing-my-chatbots-memory-heres-what-worked-43dj) (2026-05-30)
+- [Taste-Skill: The Anti-Slop Framework That Gives Your AI 28.5K⭐ Worth of Taste](https://dev.to/tenglongai2026/taste-skill-the-anti-slop-framework-that-gives-your-ai-285k-worth-of-taste-lba) (2026-05-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Epistemological Fraud of Reductionism: Why Shape, Topology, and Vibration Dictate Ultimate…](https://medium.com/@10000percentprofit/the-epistemological-fraud-of-reductionism-why-shape-topology-and-vibration-dictate-ultimate-a0b0f10e3c1b?source=rss------programming-5) (2026-05-30)
-- [Day 18: Classes — Where You Start Modeling Your Own World](https://kirupakaran094.medium.com/day-18-classes-where-you-start-modeling-your-own-world-dd0c95c47cd2?source=rss------programming-5) (2026-05-30)
-- [Looping in Modern C++: From Manual Indexes to Elegant Ranges](https://medium.com/@zaki.rahmouni/looping-in-modern-c-from-manual-indexes-to-elegant-ranges-068b1f24c9cc?source=rss------programming-5) (2026-05-30)
-- [MacBook Neo vs MacBook Air: I Tested Both — Here’s the Verdict](https://medium.com/@kellyshephard/macbook-neo-vs-macbook-air-e327f9a67adf?source=rss------programming-5) (2026-05-30)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7ddbec07b793?source=rss------programming-5) (2026-05-30)
+- [Best Python API Development Tools 2026 (Complete Developer Guide)](https://ai.plainenglish.io/best-python-api-development-tools-2026-complete-developer-guide-5c0a39b6f909?source=rss------programming-5) (2026-05-30)
+- [The vibe-code cleanup economy: the next software gold rush](https://medium.com/@gustavboyemorving/the-vibe-code-cleanup-economy-the-next-software-gold-rush-3d31adf06db7?source=rss------programming-5) (2026-05-30)
+- [5 AI Agents Behind the Rise of One-Person Companies](https://generativeai.pub/5-ai-agents-behind-the-rise-of-one-person-companies-3247d859ef9e?source=rss------programming-5) (2026-05-30)
+- [Canto 7: The Contested Ground](https://medium.com/@valentinozhuo2/canto-7-the-contested-ground-fd2665b53507?source=rss------programming-5) (2026-05-30)
+- [15 Real GenAI Lead Interview Questions on GCP, Vertex AI, RAG, and Agentic AI](https://medium.com/@preetjit82/15-real-genai-lead-interview-questions-on-gcp-vertex-ai-rag-and-agentic-ai-6bd672e59e6f?source=rss------programming-5) (2026-05-30)
 
 </details>
 
@@ -503,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
