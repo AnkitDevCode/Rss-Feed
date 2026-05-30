@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-05-30)
+- [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/) (2026-05-30)
+- [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/) (2026-05-30)
 - [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/) (2026-05-30)
 - [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/) (2026-05-30)
-- [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/) (2026-05-29)
-- [Coders are refusing to work without AI — and that could come back to bite them ](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) (2026-05-29)
-- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released) (2026-05-30)
-- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/) (2026-05-30)
-- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/) (2026-05-30)
-- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/) (2026-05-29)
-- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) (2026-05-29)
+- [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US) (2026-05-30)
+- [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a) (2026-05-30)
+- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) (2026-05-30)
+- [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/) (2026-05-30)
+- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) (2026-05-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser) (2026-05-29)
-- [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract) (2026-05-29)
-- [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld) (2026-05-29)
-- [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data) (2026-05-29)
-- [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas) (2026-05-29)
+- [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai) (2026-05-30)
+- [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping) (2026-05-30)
+- [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc) (2026-05-30)
+- [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai) (2026-05-30)
+- [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer) (2026-05-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Grifters, cynics, and true believers: The family tree of vaccine opponents](https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/) (2026-05-30)
+- [Environmentalists turn out in force to oppose Trump coal ash rollbacks](https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/) (2026-05-30)
 - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) (2026-05-29)
 - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/) (2026-05-29)
 - [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) (2026-05-29)
-- [Analysis of Texas measles outbreak shows just how dangerous virus is](https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/) (2026-05-29)
-- [House of the Dragon S3 trailer revels in dragons, fire, and blood](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/) (2026-05-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Teaching a Computer to Play 4X: How the Annhexation AI Works](https://dev.to/jamesrandall/teaching-a-computer-to-play-4x-how-the-annhexation-ai-works-p1g) (2026-05-30)
-- ["The AI did it" won't save you when EU regulators come knocking](https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb) (2026-05-30)
-- [The Moment the Runtime Became Your Enemy](https://dev.to/built-from-africa/the-moment-the-runtime-became-your-enemy-2do) (2026-05-30)
-- [I spent a week fixing my chatbot's memory — here's what worked](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-a-week-fixing-my-chatbots-memory-heres-what-worked-43dj) (2026-05-30)
-- [Taste-Skill: The Anti-Slop Framework That Gives Your AI 28.5K⭐ Worth of Taste](https://dev.to/tenglongai2026/taste-skill-the-anti-slop-framework-that-gives-your-ai-285k-worth-of-taste-lba) (2026-05-30)
+- [Why ChatGPT Fails as an Interview Tutor (And How I Built a Better One with Claude Code)](https://dev.to/guanyi_liu_21a5d7417eb332/why-chatgpt-fails-as-an-interview-tutor-and-how-i-built-a-better-one-with-claude-code-p94) (2026-05-30)
+- [AI coding assistants are creating mass dependency and we're pretending it's productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8) (2026-05-30)
+- [Building a Python Script or Automation Tool? Let's Fix Your Backend Bugs.](https://dev.to/itz_daniel/building-a-python-script-or-automation-tool-lets-fix-your-backend-bugs-1fgf) (2026-05-30)
+- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb) (2026-05-30)
+- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6) (2026-05-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Best Python API Development Tools 2026 (Complete Developer Guide)](https://ai.plainenglish.io/best-python-api-development-tools-2026-complete-developer-guide-5c0a39b6f909?source=rss------programming-5) (2026-05-30)
-- [The vibe-code cleanup economy: the next software gold rush](https://medium.com/@gustavboyemorving/the-vibe-code-cleanup-economy-the-next-software-gold-rush-3d31adf06db7?source=rss------programming-5) (2026-05-30)
-- [5 AI Agents Behind the Rise of One-Person Companies](https://generativeai.pub/5-ai-agents-behind-the-rise-of-one-person-companies-3247d859ef9e?source=rss------programming-5) (2026-05-30)
-- [Canto 7: The Contested Ground](https://medium.com/@valentinozhuo2/canto-7-the-contested-ground-fd2665b53507?source=rss------programming-5) (2026-05-30)
-- [15 Real GenAI Lead Interview Questions on GCP, Vertex AI, RAG, and Agentic AI](https://medium.com/@preetjit82/15-real-genai-lead-interview-questions-on-gcp-vertex-ai-rag-and-agentic-ai-6bd672e59e6f?source=rss------programming-5) (2026-05-30)
+- [We Removed 70% of Our Redis Calls Without Changing the Cache Strategy](https://elsyarifx.medium.com/we-removed-70-of-our-redis-calls-without-changing-the-cache-strategy-083de3bfb5cc?source=rss------programming-5) (2026-05-30)
+- [9 Python Projects That Demonstrate Real Backend Development Skills](https://python.plainenglish.io/9-python-projects-that-demonstrate-real-backend-development-skills-cff5462efdb3?source=rss------programming-5) (2026-05-30)
+- [8 Python Libraries That Help Build Scalable Systems](https://python.plainenglish.io/8-python-libraries-that-help-build-scalable-systems-cc69183239de?source=rss------programming-5) (2026-05-30)
+- [Synchronous vs Asynchronous, Concurrency vs Parallelism, and Multi-threading vs Multi-processing](https://medium.com/@pravinraam.professional24/synchronous-vs-asynchronous-concurrency-vs-parallelism-and-multi-threading-vs-multi-processing-7c3c48f7aea6?source=rss------programming-5) (2026-05-30)
+- [Build a Production MCP Server with FastMCP 3.0 (Auth + Tracing)](https://medium.com/@automation.labs/build-a-production-mcp-server-with-fastmcp-3-0-auth-tracing-959fde4a1cfe?source=rss------programming-5) (2026-05-30)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?](https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/) (2026-05-30)
 - [Baseline Enterprise RAG, From PDF to Highlighted Answer](https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/) (2026-05-29)
 - [RAG Is Burning Money — I Built a Cost Control Layer to Fix It](https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/) (2026-05-29)
 - [Why Gradient Descent Became Stochastic](https://towardsdatascience.com/why-gradient-descent-became-stochastic/) (2026-05-29)
 - [Explaining Lineage in DAX](https://towardsdatascience.com/explaining-lineage-in-dax/) (2026-05-29)
-- [Five Questions About Chronos-2, the Time Series Foundation Model](https://towardsdatascience.com/five-questions-about-chronos-2-the-time-series-foundation-model/) (2026-05-29)
 
 </details>
 
