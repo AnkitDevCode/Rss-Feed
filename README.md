@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/) (2026-05-30)
+- [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/) (2026-05-30)
+- [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/) (2026-05-29)
+- [Coders are refusing to work without AI — and that could come back to bite them ](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) (2026-05-29)
 - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-05-29)
-- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/) (2026-05-29)
-- [After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) (2026-05-29)
-- [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/) (2026-05-29)
-- [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The California State Assembly Has Passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill) (2026-05-29)
-- [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) (2026-05-29)
-- [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/) (2026-05-29)
-- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (2026-05-29)
-- [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs) (2026-05-29)
+- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/) (2026-05-30)
+- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/) (2026-05-29)
+- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) (2026-05-29)
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) (2026-05-29)
+- [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser) (2026-05-29)
+- [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract) (2026-05-29)
 - [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld) (2026-05-29)
 - [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data) (2026-05-29)
 - [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas) (2026-05-29)
-- [Microsoft delays Fable (again) to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi) (2026-05-29)
-- [Microsoft teases new Surface hardware and ‘a new era of PC’](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors) (2026-05-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) (2026-05-29)
+- [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/) (2026-05-29)
 - [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) (2026-05-29)
 - [Analysis of Texas measles outbreak shows just how dangerous virus is](https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/) (2026-05-29)
 - [House of the Dragon S3 trailer revels in dragons, fire, and blood](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/) (2026-05-29)
-- [Trump FCC warns all broadcasters to follow orders or be punished like ABC](https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/) (2026-05-29)
-- [DOJ sues states that rejected ICE requests for undercover license plates](https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/) (2026-05-29)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Part 8: Free Self-Hosted Mind Mapping for a Home Lab: Why I Put a Significant Part of MindMapVault on GitHub](https://dev.to/kornel_maraz_5e66a3e4e27d/part-8-free-self-hosted-mind-mapping-for-a-home-lab-why-i-put-a-significant-part-of-mindmapvault-3mfh) (2026-05-29)
-- [⭐ State.js Basics — Learn CSS‑Driven Reactivity in 10 Minutes](https://dev.to/idevgames/statejs-basics-learn-css-driven-reactivity-in-10-minutes-3m80) (2026-05-29)
-- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859) (2026-05-29)
-- [Knowing Doesn't Mean Feeling (Bite-size Article)](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke) (2026-05-29)
-- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g) (2026-05-29)
+- [من فكرة طلابية إلى نظام مراقبة ذكي – رحلة مستوصف](https://dev.to/abdulhakim_elsayed_904847/mn-fkr-tlby-l-nzm-mrqb-dhky-rhl-mstwsf-2l9j) (2026-05-30)
+- [Vamos participar do GitHub Challenge!](https://dev.to/anamaria/vamos-participar-do-github-challenge-3d41) (2026-05-30)
+- [Medical World Model Prototype: SteeraMed Explained — From Report Reading to Life Trajectory Reasoning](https://dev.to/jxiong/medical-world-model-prototype-steeramed-explained-from-report-reading-to-life-trajectory-4p7j) (2026-05-30)
+- [I Built 4 Real Mobile Apps With No Coding Background — Here's the Exact Workflow](https://dev.to/rumi7911/i-built-4-real-mobile-apps-with-no-coding-background-heres-the-exact-workflow-69k) (2026-05-30)
+- [Is Claude directly editing your translation JSON files?](https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c) (2026-05-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Reviewed 20 Production Incidents. Same 4 Mistakes Every Time.](https://blog.stackademic.com/i-reviewed-20-production-incidents-same-4-mistakes-every-time-a943776f1703?source=rss------programming-5) (2026-05-29)
-- [Madar: 78% fewer tokens on a real backend](https://medium.com/@mohammednaji/madar-78-fewer-tokens-on-a-real-backend-990fee5e5136?source=rss------programming-5) (2026-05-29)
-- [AI vs Generative AI vs Predictive AI vs Agentic AI](https://medium.com/@ingila185/ai-vs-generative-ai-vs-predictive-ai-vs-agentic-ai-f2864af86109?source=rss------programming-5) (2026-05-29)
-- [The Spring Boot Transaction That Lied to Me](https://blog.stackademic.com/the-spring-boot-transaction-that-lied-to-me-7cdb2badfdaf?source=rss------programming-5) (2026-05-29)
-- [Git Saved My Job. These Commands Did It.](https://blog.stackademic.com/git-saved-my-job-these-commands-did-it-bdd1e2b1b0a0?source=rss------programming-5) (2026-05-29)
+- [The Epistemological Fraud of Reductionism: Why Shape, Topology, and Vibration Dictate Ultimate…](https://medium.com/@10000percentprofit/the-epistemological-fraud-of-reductionism-why-shape-topology-and-vibration-dictate-ultimate-a0b0f10e3c1b?source=rss------programming-5) (2026-05-30)
+- [Day 18: Classes — Where You Start Modeling Your Own World](https://kirupakaran094.medium.com/day-18-classes-where-you-start-modeling-your-own-world-dd0c95c47cd2?source=rss------programming-5) (2026-05-30)
+- [Looping in Modern C++: From Manual Indexes to Elegant Ranges](https://medium.com/@zaki.rahmouni/looping-in-modern-c-from-manual-indexes-to-elegant-ranges-068b1f24c9cc?source=rss------programming-5) (2026-05-30)
+- [MacBook Neo vs MacBook Air: I Tested Both — Here’s the Verdict](https://medium.com/@kellyshephard/macbook-neo-vs-macbook-air-e327f9a67adf?source=rss------programming-5) (2026-05-30)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7ddbec07b793?source=rss------programming-5) (2026-05-30)
 
 </details>
 
@@ -276,8 +277,8 @@
 - [Solo founding is at an all-time high: Top performers have these traits in common](https://stripe.com/blog/top-solo-founder-traits) (2026-05-28)
 - [Expanding Stripe Radar to protect more of your business](https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business) (2026-05-27)
 - [Five vertical SaaS insights from Sessions 2026](https://stripe.com/blog/vertical-saas-insights-sessions-2026) (2026-05-11)
-- [Giving agents the ability to pay](https://stripe.com/blog/giving-agents-the-ability-to-pay) (2026-04-29)
 - [Everything we announced at Sessions 2026](https://stripe.com/blog/everything-we-announced-at-sessions-2026) (2026-04-29)
+- [Giving agents the ability to pay](https://stripe.com/blog/giving-agents-the-ability-to-pay) (2026-04-29)
 
 </details>
 
@@ -350,11 +351,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Function invocations now billed per unit](https://vercel.com/changelog/function-invocations-now-billed-per-unit) (2026-05-29)
+- [Protecting against inference theft](https://vercel.com/blog/protecting-against-inference-theft) (2026-05-29)
 - [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
 - [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
-- [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
-- [Team-wide provider allowlist on AI Gateway](https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway) (2026-05-28)
-- [Amazon OpenSearch Serverless is now available in the Vercel Marketplace](https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace) (2026-05-28)
+- [Building a real-time power outage map with Next.js on Vercel](https://vercel.com/blog/building-a-real-time-power-outage-map-with-next-js-on-vercel) (2026-05-28)
 
 </details>
 
@@ -502,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
