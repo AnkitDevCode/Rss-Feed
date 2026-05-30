@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-05-30)
-- [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/) (2026-05-30)
-- [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/) (2026-05-30)
-- [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/) (2026-05-30)
-- [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/) (2026-05-30)
+- [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/) (2026-05-30)
+- [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) (2026-05-30)
+- [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) (2026-05-30)
+- [I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/) (2026-05-30)
+- [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/) (2026-05-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US) (2026-05-30)
-- [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a) (2026-05-30)
-- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) (2026-05-30)
-- [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/) (2026-05-30)
-- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) (2026-05-30)
+- [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates) (2026-05-30)
+- [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/) (2026-05-30)
+- [Let's talk about EU Sovereignty (2025)](https://musings.martyn.berlin/lets-talk-about-eu-sovereignty) (2026-05-30)
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) (2026-05-30)
+- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) (2026-05-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai) (2026-05-30)
-- [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping) (2026-05-30)
-- [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc) (2026-05-30)
-- [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai) (2026-05-30)
-- [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer) (2026-05-30)
+- [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening) (2026-05-30)
+- [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves) (2026-05-30)
+- [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability) (2026-05-30)
+- [Some of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal) (2026-05-30)
+- [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom) (2026-05-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why ChatGPT Fails as an Interview Tutor (And How I Built a Better One with Claude Code)](https://dev.to/guanyi_liu_21a5d7417eb332/why-chatgpt-fails-as-an-interview-tutor-and-how-i-built-a-better-one-with-claude-code-p94) (2026-05-30)
-- [AI coding assistants are creating mass dependency and we're pretending it's productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8) (2026-05-30)
-- [Building a Python Script or Automation Tool? Let's Fix Your Backend Bugs.](https://dev.to/itz_daniel/building-a-python-script-or-automation-tool-lets-fix-your-backend-bugs-1fgf) (2026-05-30)
-- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb) (2026-05-30)
-- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6) (2026-05-30)
+- [[Boost]](https://dev.to/itsaryanchauhan/-5d98) (2026-05-30)
+- [Awesomeness!](https://dev.to/ifeanyi_okolo_d6fe7d0406b/awesomeness-43mc) (2026-05-30)
+- [We built a lightweight, 100% local File Integrity Monitor (FIM) with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35) (2026-05-30)
+- [Your AI Agent Should Text You First](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b) (2026-05-30)
+- [Built free app for game design and worldbuilding](https://dev.to/imsc/built-free-app-for-game-design-and-worldbuilding-38n8) (2026-05-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Removed 70% of Our Redis Calls Without Changing the Cache Strategy](https://elsyarifx.medium.com/we-removed-70-of-our-redis-calls-without-changing-the-cache-strategy-083de3bfb5cc?source=rss------programming-5) (2026-05-30)
-- [9 Python Projects That Demonstrate Real Backend Development Skills](https://python.plainenglish.io/9-python-projects-that-demonstrate-real-backend-development-skills-cff5462efdb3?source=rss------programming-5) (2026-05-30)
-- [8 Python Libraries That Help Build Scalable Systems](https://python.plainenglish.io/8-python-libraries-that-help-build-scalable-systems-cc69183239de?source=rss------programming-5) (2026-05-30)
-- [Synchronous vs Asynchronous, Concurrency vs Parallelism, and Multi-threading vs Multi-processing](https://medium.com/@pravinraam.professional24/synchronous-vs-asynchronous-concurrency-vs-parallelism-and-multi-threading-vs-multi-processing-7c3c48f7aea6?source=rss------programming-5) (2026-05-30)
-- [Build a Production MCP Server with FastMCP 3.0 (Auth + Tracing)](https://medium.com/@automation.labs/build-a-production-mcp-server-with-fastmcp-3-0-auth-tracing-959fde4a1cfe?source=rss------programming-5) (2026-05-30)
+- [Local-first: a Model on Your Own Machine, Zero Cloud](https://dalenguyen.medium.com/local-first-a-model-on-your-own-machine-zero-cloud-154c41e98178?source=rss------programming-5) (2026-05-30)
+- [Binary to Decimal Made Shockingly Easy](https://learnwithmasaud.medium.com/binary-to-decimal-made-shockingly-easy-c96b5942d476?source=rss------programming-5) (2026-05-30)
+- [Convert Decimal to Binary Instantly With This Trick](https://learnwithmasaud.medium.com/convert-decimal-to-binary-instantly-with-this-trick-446fc19dd01c?source=rss------programming-5) (2026-05-30)
+- [Rust: The Unexpected Champion in the AI Code Generation Arena ️](https://medium.com/@monikasinghal713/rust-the-unexpected-champion-in-the-ai-code-generation-arena-%EF%B8%8F-05156fb7e063?source=rss------programming-5) (2026-05-30)
+- [En Verimli Yolu Arayan Yazılımcılar İçin Rehber: Dijkstra, Bellman-Ford ve Floyd-Warshall…](https://medium.com/@canliyaren0/en-verimli-yolu-arayan-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%CC%87%C3%A7in-rehber-dijkstra-bellman-ford-ve-floyd-warshall-4a0d84a36b80?source=rss------programming-5) (2026-05-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
 - [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
 - [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
-- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About](https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/) (2026-05-30)
+- [Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval](https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/) (2026-05-30)
 - [Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?](https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/) (2026-05-30)
 - [Baseline Enterprise RAG, From PDF to Highlighted Answer](https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/) (2026-05-29)
 - [RAG Is Burning Money — I Built a Cost Control Layer to Fix It](https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/) (2026-05-29)
-- [Why Gradient Descent Became Stochastic](https://towardsdatascience.com/why-gradient-descent-became-stochastic/) (2026-05-29)
-- [Explaining Lineage in DAX](https://towardsdatascience.com/explaining-lineage-in-dax/) (2026-05-29)
 
 </details>
 
