@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/) (2026-05-31)
 - [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) (2026-05-30)
 - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-30)
 - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/) (2026-05-30)
 - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) (2026-05-30)
-- [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) (2026-05-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need) (2026-05-31)
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/) (2026-05-31)
+- [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) (2026-05-31)
 - [The Website Specification](https://specification.website/) (2026-05-31)
 - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us) (2026-05-31)
-- [The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases) (2026-05-31)
-- [Avian Visitors](https://theodore.net/projects/AvianVisitors/) (2026-05-31)
-- [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492) (2026-05-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape) (2026-05-31)
+- [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation) (2026-05-31)
+- [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs) (2026-05-31)
 - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening) (2026-05-30)
 - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves) (2026-05-30)
-- [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability) (2026-05-30)
-- [Two of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal) (2026-05-30)
-- [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom) (2026-05-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [On its 40th anniversary, we reassess 1986's SpaceCamp](https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/) (2026-05-31)
+- [They call it stupid hot for a reason: Heat muddles animal brains](https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/) (2026-05-31)
 - [Grifters, cynics, and true believers: The family tree of vaccine opponents](https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/) (2026-05-30)
 - [Environmentalists turn out in force to oppose Trump coal ash rollbacks](https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/) (2026-05-30)
 - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) (2026-05-29)
-- [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/) (2026-05-29)
-- [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) (2026-05-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Fighting Your AI Coding Agent: A Developer's Guide to Thinking in Collaboration, Not Commands](https://dev.to/obrainwave/stop-fighting-your-ai-coding-agent-a-developers-guide-to-thinking-in-collaboration-not-commands-nmi) (2026-05-31)
-- [One Playwright Selector Trick Nobody Talks About: getByRole](https://dev.to/sian-agency/one-playwright-selector-trick-nobody-talks-about-getbyrole-100e) (2026-05-31)
-- [I built a visual README editor so developers never have to write markdown from scratch again](https://dev.to/bilalmlkdev/i-built-a-visual-readme-editor-so-developers-never-have-to-write-markdown-from-scratch-again-1l0k) (2026-05-31)
-- [How I Built RepoSense: A GitHub Intelligence CLI With Coral SQL](https://dev.to/athulkrishnan_h_210b5ea44/how-i-built-reposense-a-github-intelligence-cli-with-coral-sql-4jgm) (2026-05-31)
-- [Frank: your supercharged Laravel Sail alternative](https://dev.to/phlisg/frank-your-supercharged-laravel-sail-alternative-414i) (2026-05-31)
+- [Polly wants a transcript: giving agents ears and a voice, on your own machine](https://dev.to/drakulavich/polly-wants-a-transcript-giving-agents-ears-and-a-voice-on-your-own-machine-165) (2026-05-31)
+- [AI coding assistants make junior devs faster and worse at the same time](https://dev.to/adioof/ai-coding-assistants-make-junior-devs-faster-and-worse-at-the-same-time-1ngp) (2026-05-31)
+- [AI Won't Save You From Forgetting How to Think](https://dev.to/olehvolos/ai-wont-save-you-from-forgetting-how-to-think-55mp) (2026-05-31)
+- [encodeURI vs encodeURIComponent: The JavaScript URL Encoding Trap](https://dev.to/zhihu_wu_dea1d82af01a04d7/encodeuri-vs-encodeuricomponent-the-javascript-url-encoding-trap-13p) (2026-05-31)
+- [Building an MCP Server Using Spring AI, JSON-RPC and SSE (Server-Sent Events)](https://dev.to/anil_lalam_2cee9c52a20a39/building-an-mcp-server-using-spring-ai-json-rpc-and-sse-server-sent-events-5i3) (2026-05-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How We Accidentally DDoS’d Ourselves With a PHP Retry Loop](https://medium.com/@annxsa/how-we-accidentally-ddosd-ourselves-with-a-php-retry-loop-f105e02cd889?source=rss------programming-5) (2026-05-31)
-- [Security Checklist for your Backend Systems (Part 1)](https://joshua-etim.medium.com/security-checklist-for-your-backend-systems-part-1-74c763d5150f?source=rss------programming-5) (2026-05-31)
-- [Why Your Backend Works Locally but Fails Under Real Traffic](https://medium.com/@codetune/why-your-backend-works-locally-but-fails-under-real-traffic-44d7f997aa1b?source=rss------programming-5) (2026-05-31)
-- [Git Command Tutorials: A Visual, Plain-English Guide to Every Git Command](https://medium.com/@eloquentcoder/git-command-tutorials-a-visual-plain-english-guide-to-every-git-command-ceb1acc12d78?source=rss------programming-5) (2026-05-31)
-- [5 Rookie Mistakes That Are Killing Your Claude ROI in 2026](https://medium.com/@andy.a.g/5-rookie-mistakes-that-are-killing-your-claude-roi-in-2026-351d3662857f?source=rss------programming-5) (2026-05-31)
+- [A Different Class of Church, A Different Kind of Movement](https://medium.com/@nxtionwriter/a-different-class-of-church-a-different-kind-of-movement-345dc13dbc9f?source=rss------programming-5) (2026-05-31)
+- [ASP.NET Core, REST API ve Mobil Uygulama Geliştirme: BorsaApp Serisine Giriş](https://medium.com/@yusuyatti/asp-net-core-rest-api-ve-mobil-uygulama-geli%C5%9Ftirme-borsaapp-serisine-giri%C5%9F-9f20a6e5860f?source=rss------programming-5) (2026-05-31)
+- [Your Tests Aren’t Failing Because Your Code Is Broken](https://medium.com/@jjmrocha/your-tests-arent-failing-because-your-code-is-broken-628592aea2cf?source=rss------programming-5) (2026-05-31)
+- [Token Savings Are Not About Using Fewer Tokens](https://keesan.medium.com/token-savings-are-not-about-using-fewer-tokens-d320c0577c9f?source=rss------programming-5) (2026-05-31)
+- [Destroying Asteroids: A Greedy Sorting Approach Explained ](https://medium.com/@acharya_in/destroying-asteroids-a-greedy-sorting-approach-explained-9b0300ec52fb?source=rss------programming-5) (2026-05-31)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
 - [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
 - [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
-- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
+- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs](https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/) (2026-05-31)
 - [Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About](https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/) (2026-05-30)
 - [Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval](https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/) (2026-05-30)
 - [Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?](https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/) (2026-05-30)
 - [Baseline Enterprise RAG, From PDF to Highlighted Answer](https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/) (2026-05-29)
-- [RAG Is Burning Money — I Built a Cost Control Layer to Fix It](https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/) (2026-05-29)
 
 </details>
 
