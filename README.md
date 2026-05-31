@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) (2026-05-30)
+- [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-30)
 - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/) (2026-05-30)
 - [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) (2026-05-30)
 - [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) (2026-05-30)
-- [I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/) (2026-05-30)
-- [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/) (2026-05-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates) (2026-05-30)
-- [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/) (2026-05-30)
-- [Let's talk about EU Sovereignty (2025)](https://musings.martyn.berlin/lets-talk-about-eu-sovereignty) (2026-05-30)
-- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) (2026-05-30)
-- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) (2026-05-30)
+- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) (2026-05-30)
+- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/) (2026-05-30)
+- [Shantell Sans (2023)](https://shantellsans.com/process) (2026-05-30)
+- [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org) (2026-05-30)
+- [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135) (2026-05-30)
 
 </details>
 
@@ -45,7 +45,7 @@
 - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening) (2026-05-30)
 - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves) (2026-05-30)
 - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability) (2026-05-30)
-- [Some of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal) (2026-05-30)
+- [Two of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal) (2026-05-30)
 - [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom) (2026-05-30)
 
 </details>
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/itsaryanchauhan/-5d98) (2026-05-30)
-- [Awesomeness!](https://dev.to/ifeanyi_okolo_d6fe7d0406b/awesomeness-43mc) (2026-05-30)
-- [We built a lightweight, 100% local File Integrity Monitor (FIM) with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35) (2026-05-30)
-- [Your AI Agent Should Text You First](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b) (2026-05-30)
-- [Built free app for game design and worldbuilding](https://dev.to/imsc/built-free-app-for-game-design-and-worldbuilding-38n8) (2026-05-30)
+- [CONFIGURING SEMANTIC MODEL IN POWER BI](https://dev.to/atinuke77/configuring-semantic-model-in-power-bi-1kca) (2026-05-31)
+- [Surviving Global Vendor Outages: Federated Cellular Architecture with EKS, AKS, and Istio](https://dev.to/sertaoseracloud/surviving-global-vendor-outages-federated-cellular-architecture-with-eks-aks-and-istio-583e) (2026-05-31)
+- [I Built a Cognitive Threat Hunter on Hermes Agent — It Analyzed the Session Where I Built It and Found Three Blind Spots](https://dev.to/tagzauthor/i-built-a-cognitive-threat-hunter-on-hermes-agent-it-analyzed-the-session-where-i-built-it-and-28p1) (2026-05-31)
+- [Making AI-Generated Code Fail Gracefully](https://dev.to/nickvalenciatech/making-ai-generated-code-fail-gracefully-46cn) (2026-05-31)
+- [How to Convert Lottie JSON to GIF (Free, Browser-Based, No Signup)](https://dev.to/fazalshah/how-to-convert-lottie-json-to-gif-free-browser-based-no-signup-11gj) (2026-05-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Local-first: a Model on Your Own Machine, Zero Cloud](https://dalenguyen.medium.com/local-first-a-model-on-your-own-machine-zero-cloud-154c41e98178?source=rss------programming-5) (2026-05-30)
-- [Binary to Decimal Made Shockingly Easy](https://learnwithmasaud.medium.com/binary-to-decimal-made-shockingly-easy-c96b5942d476?source=rss------programming-5) (2026-05-30)
-- [Convert Decimal to Binary Instantly With This Trick](https://learnwithmasaud.medium.com/convert-decimal-to-binary-instantly-with-this-trick-446fc19dd01c?source=rss------programming-5) (2026-05-30)
-- [Rust: The Unexpected Champion in the AI Code Generation Arena ️](https://medium.com/@monikasinghal713/rust-the-unexpected-champion-in-the-ai-code-generation-arena-%EF%B8%8F-05156fb7e063?source=rss------programming-5) (2026-05-30)
-- [En Verimli Yolu Arayan Yazılımcılar İçin Rehber: Dijkstra, Bellman-Ford ve Floyd-Warshall…](https://medium.com/@canliyaren0/en-verimli-yolu-arayan-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%CC%87%C3%A7in-rehber-dijkstra-bellman-ford-ve-floyd-warshall-4a0d84a36b80?source=rss------programming-5) (2026-05-30)
+- [9 AI Businesses You Can Build Solo in 2026](https://preciouswords.medium.com/9-ai-businesses-you-can-build-solo-in-2026-a9a51d2453c4?source=rss------programming-5) (2026-05-31)
+- [[Code Philosophy Essay] Deleted Code Has a Story Too](https://digiangler.medium.com/code-philosophy-essay-deleted-code-has-a-story-too-e214a8beccb7?source=rss------programming-5) (2026-05-31)
+- [I Tried to Optimize My Life Like Code It Broke Me](https://medium.com/@kaushalsinh73/i-tried-to-optimize-my-life-like-code-it-broke-me-79512e5f97c7?source=rss------programming-5) (2026-05-31)
+- [Stop Shipping Fast. Start Shipping Right.](https://medium.com/@komalbaparmar007/stop-shipping-fast-start-shipping-right-d232c40202f0?source=rss------programming-5) (2026-05-31)
+- [Stop Sending Your Documents to Third-Party APIs: Parsel Parses PDFs, Word Files, and Images Locally](https://sadiqueali.medium.com/stop-sending-your-documents-to-third-party-apis-parsel-parses-pdfs-word-files-and-images-locally-da1718aa2960?source=rss------programming-5) (2026-05-31)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
 - [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
 - [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
+- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 
 </details>
 
@@ -351,7 +351,7 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Function invocations now billed per unit](https://vercel.com/changelog/function-invocations-now-billed-per-unit) (2026-05-29)
-- [Protecting against inference theft](https://vercel.com/blog/protecting-against-inference-theft) (2026-05-29)
+- [Protecting against token theft](https://vercel.com/blog/protecting-against-token-theft) (2026-05-29)
 - [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
 - [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
 - [Building a real-time power outage map with Next.js on Vercel](https://vercel.com/blog/building-a-real-time-power-outage-map-with-next-js-on-vercel) (2026-05-28)
