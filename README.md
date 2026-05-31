@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/) (2026-05-31)
-- [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) (2026-05-30)
-- [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-30)
-- [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/) (2026-05-30)
-- [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) (2026-05-30)
+- [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-31)
+- [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/) (2026-05-31)
+- [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/) (2026-05-31)
+- [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/) (2026-05-31)
+- [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/) (2026-05-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need) (2026-05-31)
-- [Dav2d](https://jbkempf.com/blog/2026/dav2d/) (2026-05-31)
-- [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) (2026-05-31)
-- [The Website Specification](https://specification.website/) (2026-05-31)
-- [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us) (2026-05-31)
+- [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/) (2026-05-31)
+- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/) (2026-05-31)
+- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai) (2026-05-31)
+- [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) (2026-05-31)
+- [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil) (2026-05-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape) (2026-05-31)
-- [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation) (2026-05-31)
-- [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs) (2026-05-31)
-- [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening) (2026-05-30)
-- [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves) (2026-05-30)
+- [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review) (2026-05-31)
+- [United flight forced to turn around because of a Bluetooth speaker name](https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb) (2026-05-31)
+- [This extravagant gaming laptop could ruin other screens for you](https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions) (2026-05-31)
+- [007 First Light is already discounted for the PS5 and Steam](https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale) (2026-05-31)
+- [Marathon&#8217;s second season is a chance for Bungie to turn things around](https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes) (2026-05-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Polly wants a transcript: giving agents ears and a voice, on your own machine](https://dev.to/drakulavich/polly-wants-a-transcript-giving-agents-ears-and-a-voice-on-your-own-machine-165) (2026-05-31)
-- [AI coding assistants make junior devs faster and worse at the same time](https://dev.to/adioof/ai-coding-assistants-make-junior-devs-faster-and-worse-at-the-same-time-1ngp) (2026-05-31)
-- [AI Won't Save You From Forgetting How to Think](https://dev.to/olehvolos/ai-wont-save-you-from-forgetting-how-to-think-55mp) (2026-05-31)
-- [encodeURI vs encodeURIComponent: The JavaScript URL Encoding Trap](https://dev.to/zhihu_wu_dea1d82af01a04d7/encodeuri-vs-encodeuricomponent-the-javascript-url-encoding-trap-13p) (2026-05-31)
-- [Building an MCP Server Using Spring AI, JSON-RPC and SSE (Server-Sent Events)](https://dev.to/anil_lalam_2cee9c52a20a39/building-an-mcp-server-using-spring-ai-json-rpc-and-sse-server-sent-events-5i3) (2026-05-31)
+- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1) (2026-05-31)
+- [Building a Friendly Data Assistant](https://dev.to/hopebestworld/building-a-friendly-data-assistant-4gd2) (2026-05-31)
+- [RAG Architecture Deep Dive](https://dev.to/white_oak_intel/rag-architecture-deep-dive-195f) (2026-05-31)
+- [The Monty Hall Problem: Why Switching Wins 2/3 of the Time](https://dev.to/white_oak_intel/the-monty-hall-problem-why-switching-wins-23-of-the-time-4hpk) (2026-05-31)
+- [The Do-Over Game: Nash Equilibrium at the Golden Ratio](https://dev.to/white_oak_intel/the-do-over-game-nash-equilibrium-at-the-golden-ratio-phf) (2026-05-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Different Class of Church, A Different Kind of Movement](https://medium.com/@nxtionwriter/a-different-class-of-church-a-different-kind-of-movement-345dc13dbc9f?source=rss------programming-5) (2026-05-31)
-- [ASP.NET Core, REST API ve Mobil Uygulama Geliştirme: BorsaApp Serisine Giriş](https://medium.com/@yusuyatti/asp-net-core-rest-api-ve-mobil-uygulama-geli%C5%9Ftirme-borsaapp-serisine-giri%C5%9F-9f20a6e5860f?source=rss------programming-5) (2026-05-31)
-- [Your Tests Aren’t Failing Because Your Code Is Broken](https://medium.com/@jjmrocha/your-tests-arent-failing-because-your-code-is-broken-628592aea2cf?source=rss------programming-5) (2026-05-31)
-- [Token Savings Are Not About Using Fewer Tokens](https://keesan.medium.com/token-savings-are-not-about-using-fewer-tokens-d320c0577c9f?source=rss------programming-5) (2026-05-31)
-- [Destroying Asteroids: A Greedy Sorting Approach Explained ](https://medium.com/@acharya_in/destroying-asteroids-a-greedy-sorting-approach-explained-9b0300ec52fb?source=rss------programming-5) (2026-05-31)
+- [Go Binary Versioning: Your Ultimate How-To Guide for Seamless Releases & Debugging ️](https://medium.com/@monikasinghal713/go-binary-versioning-your-ultimate-how-to-guide-for-seamless-releases-debugging-%EF%B8%8F-588693b73445?source=rss------programming-5) (2026-05-31)
+- [Computer CPU Architectures](https://medium.com/@jayminparmar2884/computer-cpu-architectures-0d307acb599d?source=rss------programming-5) (2026-05-31)
+- [From Code to Crescendo: How I Engineered an AI MIDI Generator in Golang ](https://medium.com/@anshusinghal703/from-code-to-crescendo-how-i-engineered-an-ai-midi-generator-in-golang-ca4dbc342f72?source=rss------programming-5) (2026-05-31)
+- [Exploring Programming Languages — MoonScript](https://blog.devgenius.io/exploring-programming-languages-moonscript-c37100b8d83b?source=rss------programming-5) (2026-05-31)
+- [Best Programming Assignment Help Services by AllAssignmentsPro for Students](https://medium.com/@australiaservices400/best-programming-assignment-help-services-by-allassignmentspro-for-students-3c70a77b56b5?source=rss------programming-5) (2026-05-31)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
 - [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
 - [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
 - [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
 - [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
+- [From commit to cloud: Powering what’s next for PostgreSQL](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/) (2026-05-13)
 
 </details>
 
@@ -354,7 +354,7 @@
 - [Protecting against token theft](https://vercel.com/blog/protecting-against-token-theft) (2026-05-29)
 - [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
 - [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
-- [Building a real-time power outage map with Next.js on Vercel](https://vercel.com/blog/building-a-real-time-power-outage-map-with-next-js-on-vercel) (2026-05-28)
+- [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Solving a Murder Mystery Using Bayesian Inference](https://towardsdatascience.com/solving-a-murder-mystery-using-bayesian-inference/) (2026-05-31)
+- [Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost](https://towardsdatascience.com/rerankers-arent-magic-either-when-the-cross-encoder-layer-is-worth-the-cost-enterprise-document-intelligence-vol-1-2bis/) (2026-05-31)
 - [Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs](https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/) (2026-05-31)
 - [Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About](https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/) (2026-05-30)
 - [Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval](https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/) (2026-05-30)
-- [Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?](https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/) (2026-05-30)
-- [Baseline Enterprise RAG, From PDF to Highlighted Answer](https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/) (2026-05-29)
 
 </details>
 
