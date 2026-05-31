@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) (2026-05-30)
-- [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/) (2026-05-30)
-- [Shantell Sans (2023)](https://shantellsans.com/process) (2026-05-30)
-- [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org) (2026-05-30)
-- [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135) (2026-05-30)
+- [The Website Specification](https://specification.website/) (2026-05-31)
+- [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us) (2026-05-31)
+- [The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases) (2026-05-31)
+- [Avian Visitors](https://theodore.net/projects/AvianVisitors/) (2026-05-31)
+- [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492) (2026-05-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CONFIGURING SEMANTIC MODEL IN POWER BI](https://dev.to/atinuke77/configuring-semantic-model-in-power-bi-1kca) (2026-05-31)
-- [Surviving Global Vendor Outages: Federated Cellular Architecture with EKS, AKS, and Istio](https://dev.to/sertaoseracloud/surviving-global-vendor-outages-federated-cellular-architecture-with-eks-aks-and-istio-583e) (2026-05-31)
-- [I Built a Cognitive Threat Hunter on Hermes Agent — It Analyzed the Session Where I Built It and Found Three Blind Spots](https://dev.to/tagzauthor/i-built-a-cognitive-threat-hunter-on-hermes-agent-it-analyzed-the-session-where-i-built-it-and-28p1) (2026-05-31)
-- [Making AI-Generated Code Fail Gracefully](https://dev.to/nickvalenciatech/making-ai-generated-code-fail-gracefully-46cn) (2026-05-31)
-- [How to Convert Lottie JSON to GIF (Free, Browser-Based, No Signup)](https://dev.to/fazalshah/how-to-convert-lottie-json-to-gif-free-browser-based-no-signup-11gj) (2026-05-31)
+- [Stop Fighting Your AI Coding Agent: A Developer's Guide to Thinking in Collaboration, Not Commands](https://dev.to/obrainwave/stop-fighting-your-ai-coding-agent-a-developers-guide-to-thinking-in-collaboration-not-commands-nmi) (2026-05-31)
+- [One Playwright Selector Trick Nobody Talks About: getByRole](https://dev.to/sian-agency/one-playwright-selector-trick-nobody-talks-about-getbyrole-100e) (2026-05-31)
+- [I built a visual README editor so developers never have to write markdown from scratch again](https://dev.to/bilalmlkdev/i-built-a-visual-readme-editor-so-developers-never-have-to-write-markdown-from-scratch-again-1l0k) (2026-05-31)
+- [How I Built RepoSense: A GitHub Intelligence CLI With Coral SQL](https://dev.to/athulkrishnan_h_210b5ea44/how-i-built-reposense-a-github-intelligence-cli-with-coral-sql-4jgm) (2026-05-31)
+- [Frank: your supercharged Laravel Sail alternative](https://dev.to/phlisg/frank-your-supercharged-laravel-sail-alternative-414i) (2026-05-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 AI Businesses You Can Build Solo in 2026](https://preciouswords.medium.com/9-ai-businesses-you-can-build-solo-in-2026-a9a51d2453c4?source=rss------programming-5) (2026-05-31)
-- [[Code Philosophy Essay] Deleted Code Has a Story Too](https://digiangler.medium.com/code-philosophy-essay-deleted-code-has-a-story-too-e214a8beccb7?source=rss------programming-5) (2026-05-31)
-- [I Tried to Optimize My Life Like Code It Broke Me](https://medium.com/@kaushalsinh73/i-tried-to-optimize-my-life-like-code-it-broke-me-79512e5f97c7?source=rss------programming-5) (2026-05-31)
-- [Stop Shipping Fast. Start Shipping Right.](https://medium.com/@komalbaparmar007/stop-shipping-fast-start-shipping-right-d232c40202f0?source=rss------programming-5) (2026-05-31)
-- [Stop Sending Your Documents to Third-Party APIs: Parsel Parses PDFs, Word Files, and Images Locally](https://sadiqueali.medium.com/stop-sending-your-documents-to-third-party-apis-parsel-parses-pdfs-word-files-and-images-locally-da1718aa2960?source=rss------programming-5) (2026-05-31)
+- [How We Accidentally DDoS’d Ourselves With a PHP Retry Loop](https://medium.com/@annxsa/how-we-accidentally-ddosd-ourselves-with-a-php-retry-loop-f105e02cd889?source=rss------programming-5) (2026-05-31)
+- [Security Checklist for your Backend Systems (Part 1)](https://joshua-etim.medium.com/security-checklist-for-your-backend-systems-part-1-74c763d5150f?source=rss------programming-5) (2026-05-31)
+- [Why Your Backend Works Locally but Fails Under Real Traffic](https://medium.com/@codetune/why-your-backend-works-locally-but-fails-under-real-traffic-44d7f997aa1b?source=rss------programming-5) (2026-05-31)
+- [Git Command Tutorials: A Visual, Plain-English Guide to Every Git Command](https://medium.com/@eloquentcoder/git-command-tutorials-a-visual-plain-english-guide-to-every-git-command-ceb1acc12d78?source=rss------programming-5) (2026-05-31)
+- [5 Rookie Mistakes That Are Killing Your Claude ROI in 2026](https://medium.com/@andy.a.g/5-rookie-mistakes-that-are-killing-your-claude-roi-in-2026-351d3662857f?source=rss------programming-5) (2026-05-31)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
-- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [AI Workflows for Sales Teams: Prospect Research, Lead Qualification, and CRM Updates on Autopilot Using LangGraph  ](https://www.analyticsvidhya.com/blog/2026/05/ai-workflows-for-sales-teams-using-langgraph/) (2026-05-31)
 - [25 Most Influential AI Pioneers to Meet at DataHack Summit 2026](https://www.analyticsvidhya.com/blog/2026/05/25-most-influential-ai-pioneers-to-meet-at-datahack-summit-2026/) (2026-05-29)
 - [Claude Opus 4.8: A Smarter Model in the Right Direction](https://www.analyticsvidhya.com/blog/2026/05/claude-opus-4-8-pricing-and-features/) (2026-05-29)
 - [PySpark Optimization: 12 Proven Techniques to Speed Up Your Spark Jobs](https://www.analyticsvidhya.com/blog/2026/05/proven-techniques-to-speed-up-your-spark-jobs/) (2026-05-27)
 - [10 Everyday Tasks You Can Automate with AI Today (With n8n Templates)](https://www.analyticsvidhya.com/blog/2026/05/everyday-ai-automation-using-n8n/) (2026-05-26)
-- [Google Antigravity 2.0: The Full Developer Guide (I/O 2026) ](https://www.analyticsvidhya.com/blog/2026/05/google-antigravity-2-0/) (2026-05-25)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) (2026-05-30)
 - [Building a Context Pruning Pipeline for Long-Running Agents](https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/) (2026-05-28)
 - [The Statistics of Token Selection: Logits, Temperature, and Top-P Walkthrough](https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/) (2026-05-27)
 - [Building a Multi-Tool Gemma 4 Agent with Error Recovery](https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/) (2026-05-26)
 - [Implementing Hybrid Semantic-Lexical Search in RAG](https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/) (2026-05-25)
-- [Building Context-Aware Search in Python with LLM Embeddings + Metadata](https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/) (2026-05-22)
 
 </details>
 
