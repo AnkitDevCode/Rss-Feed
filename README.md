@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/) (2026-05-31)
 - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-31)
 - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/) (2026-05-31)
 - [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/) (2026-05-31)
 - [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/) (2026-05-31)
-- [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/) (2026-05-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/) (2026-05-31)
-- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/) (2026-05-31)
-- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai) (2026-05-31)
-- [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) (2026-05-31)
-- [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil) (2026-05-31)
+- [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a) (2026-06-01)
+- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) (2026-05-31)
+- [It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/) (2026-05-31)
+- ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/) (2026-05-31)
+- [The History of "Prisencolinensinainciusol"](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/) (2026-05-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review) (2026-05-31)
-- [United flight forced to turn around because of a Bluetooth speaker name](https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb) (2026-05-31)
-- [This extravagant gaming laptop could ruin other screens for you](https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions) (2026-05-31)
-- [007 First Light is already discounted for the PS5 and Steam](https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale) (2026-05-31)
-- [Marathon&#8217;s second season is a chance for Bungie to turn things around](https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes) (2026-05-31)
+- [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d) (2026-06-01)
+- [The QD-OLED gaming monitor that started it all got a big upgrade](https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs) (2026-05-31)
+- [Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price) (2026-05-31)
+- [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches) (2026-05-31)
+- [How to watch Nvidia&#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote) (2026-05-31)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1) (2026-05-31)
-- [Building a Friendly Data Assistant](https://dev.to/hopebestworld/building-a-friendly-data-assistant-4gd2) (2026-05-31)
-- [RAG Architecture Deep Dive](https://dev.to/white_oak_intel/rag-architecture-deep-dive-195f) (2026-05-31)
-- [The Monty Hall Problem: Why Switching Wins 2/3 of the Time](https://dev.to/white_oak_intel/the-monty-hall-problem-why-switching-wins-23-of-the-time-4hpk) (2026-05-31)
-- [The Do-Over Game: Nash Equilibrium at the Golden Ratio](https://dev.to/white_oak_intel/the-do-over-game-nash-equilibrium-at-the-golden-ratio-phf) (2026-05-31)
+- [Agentic Web3: Automating Blockchain Workflows with Hermes](https://dev.to/sandman_sh/agentic-web3-automating-blockchain-workflows-with-hermes-3ej4) (2026-06-01)
+- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be) (2026-06-01)
+- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d) (2026-06-01)
+- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3) (2026-06-01)
+- [Testing JavaScript: A Practical Guide to TDD with Jest (2026)](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79) (2026-06-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Go Binary Versioning: Your Ultimate How-To Guide for Seamless Releases & Debugging ️](https://medium.com/@monikasinghal713/go-binary-versioning-your-ultimate-how-to-guide-for-seamless-releases-debugging-%EF%B8%8F-588693b73445?source=rss------programming-5) (2026-05-31)
-- [Computer CPU Architectures](https://medium.com/@jayminparmar2884/computer-cpu-architectures-0d307acb599d?source=rss------programming-5) (2026-05-31)
-- [From Code to Crescendo: How I Engineered an AI MIDI Generator in Golang ](https://medium.com/@anshusinghal703/from-code-to-crescendo-how-i-engineered-an-ai-midi-generator-in-golang-ca4dbc342f72?source=rss------programming-5) (2026-05-31)
-- [Exploring Programming Languages — MoonScript](https://blog.devgenius.io/exploring-programming-languages-moonscript-c37100b8d83b?source=rss------programming-5) (2026-05-31)
-- [Best Programming Assignment Help Services by AllAssignmentsPro for Students](https://medium.com/@australiaservices400/best-programming-assignment-help-services-by-allassignmentspro-for-students-3c70a77b56b5?source=rss------programming-5) (2026-05-31)
+- [Why Most Angular Developers Misunderstand Components](https://medium.com/angular-engineering/why-most-angular-developers-misunderstand-components-458ada62b0c7?source=rss------programming-5) (2026-06-01)
+- [The Biggest Lie Indian Engineering Students Are Told](https://medium.com/@bhardwajtushar2004/the-biggest-lie-indian-engineering-students-are-told-09bb6c19e386?source=rss------programming-5) (2026-06-01)
+- [June 2026 Is Looking Packed for Gamers](https://medium.com/@lordsky.gg/june-2026-is-looking-packed-for-gamers-9ad80ad0d619?source=rss------programming-5) (2026-06-01)
+- [Why More Screens Don’t Make You a Better Day Trader](https://medium.com/@shahar_53174/why-more-screens-dont-make-you-a-better-day-trader-c69946fbd137?source=rss------programming-5) (2026-06-01)
+- [The 2026 Guide to Isolated MCP Volume Mount Hardening
+MCP servers are becoming the bridge between…](https://medium.com/@roysantuhdfc/the-2026-guide-to-isolated-mcp-volume-mount-hardening-mcp-servers-are-becoming-the-bridge-between-8c3ea69566c8?source=rss------programming-5) (2026-06-01)
 
 </details>
 
@@ -350,11 +351,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [MiniMax M3 on AI Gateway](https://vercel.com/changelog/minimax-m3-on-ai-gateway) (2026-05-31)
 - [Function invocations now billed per unit](https://vercel.com/changelog/function-invocations-now-billed-per-unit) (2026-05-29)
 - [Protecting against token theft](https://vercel.com/blog/protecting-against-token-theft) (2026-05-29)
 - [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
 - [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
-- [Opus 4.8 on AI Gateway](https://vercel.com/changelog/opus-4-8-on-ai-gateway) (2026-05-28)
 
 </details>
 
