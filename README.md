@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Unastella, a South Korean rocket startup that launched from home, raises $24M](https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/) (2026-06-01)
 - [Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/) (2026-05-31)
 - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/) (2026-05-31)
 - [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/) (2026-05-31)
 - [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/) (2026-05-31)
-- [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/) (2026-05-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a) (2026-06-01)
-- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) (2026-05-31)
-- [It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/) (2026-05-31)
-- ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/) (2026-05-31)
-- [The History of "Prisencolinensinainciusol"](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/) (2026-05-31)
+- [two strangers. one call. no names](https://just2voices.com/) (2026-06-01)
+- [Why are large language models so terrible at video games?](https://spectrum.ieee.org/ai-video-games-llms-togelius) (2026-06-01)
+- [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html) (2026-06-01)
+- [Blorp Language](https://blorp-lang.org/) (2026-06-01)
+- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) (2026-06-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Asus just announced the OLED Xbox Ally X of my dreams](https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen) (2026-06-01)
+- [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures) (2026-06-01)
+- [Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (2026-06-01)
 - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d) (2026-06-01)
 - [The QD-OLED gaming monitor that started it all got a big upgrade](https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs) (2026-05-31)
-- [Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price) (2026-05-31)
-- [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches) (2026-05-31)
-- [How to watch Nvidia&#8217;s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote) (2026-05-31)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Agentic Web3: Automating Blockchain Workflows with Hermes](https://dev.to/sandman_sh/agentic-web3-automating-blockchain-workflows-with-hermes-3ej4) (2026-06-01)
-- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be) (2026-06-01)
-- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d) (2026-06-01)
-- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3) (2026-06-01)
-- [Testing JavaScript: A Practical Guide to TDD with Jest (2026)](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79) (2026-06-01)
+- [What Is Generative UI? (And Why Text Output Is No Longer Enough)](https://dev.to/aj0070/what-is-generative-ui-and-why-text-output-is-no-longer-enough-4c81) (2026-06-01)
+- [I built a window switcher because WIN+TAB was driving me insane](https://dev.to/sgm1018/i-built-a-window-switcher-because-wintab-was-driving-me-insane-25ef) (2026-06-01)
+- [A free, 100% browser-based cURL tool that runs entirely in your client](https://dev.to/mohammad_naveed_d0b970477/a-free-100-browser-based-curl-tool-that-runs-entirely-in-your-client-25b8) (2026-06-01)
+- [Free contextual chunk headers: heading-aware chunking for hybrid retrieval](https://dev.to/kartikeyraj/free-contextual-chunk-headers-heading-aware-chunking-for-hybrid-retrieval-560) (2026-06-01)
+- [I Still Have Nightmares About Our Server Melting Down on Launch Day Because of One Misconfigured Event Loop](https://dev.to/built-from-africa/i-still-have-nightmares-about-our-server-melting-down-on-launch-day-because-of-one-misconfigured-fin) (2026-06-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most Angular Developers Misunderstand Components](https://medium.com/angular-engineering/why-most-angular-developers-misunderstand-components-458ada62b0c7?source=rss------programming-5) (2026-06-01)
-- [The Biggest Lie Indian Engineering Students Are Told](https://medium.com/@bhardwajtushar2004/the-biggest-lie-indian-engineering-students-are-told-09bb6c19e386?source=rss------programming-5) (2026-06-01)
-- [June 2026 Is Looking Packed for Gamers](https://medium.com/@lordsky.gg/june-2026-is-looking-packed-for-gamers-9ad80ad0d619?source=rss------programming-5) (2026-06-01)
-- [Why More Screens Don’t Make You a Better Day Trader](https://medium.com/@shahar_53174/why-more-screens-dont-make-you-a-better-day-trader-c69946fbd137?source=rss------programming-5) (2026-06-01)
-- [The 2026 Guide to Isolated MCP Volume Mount Hardening
-MCP servers are becoming the bridge between…](https://medium.com/@roysantuhdfc/the-2026-guide-to-isolated-mcp-volume-mount-hardening-mcp-servers-are-becoming-the-bridge-between-8c3ea69566c8?source=rss------programming-5) (2026-06-01)
+- [Master Python: A Gateway to the Future of Technology](https://medium.com/tales-untold/master-python-a-gateway-to-the-future-of-technology-afe6a7300af2?source=rss------programming-5) (2026-06-01)
+- [Building a Video Platform That Serves 8 Different Countries](https://medium.com/@ibrahimtopbasigithubpages2021/building-a-video-platform-that-serves-8-different-countries-e208abc5c1ef?source=rss------programming-5) (2026-06-01)
+- [Rust in 2026 Is No Longer a Language. It’s a Movement.](https://medium.com/rustaceans/rust-in-2026-is-no-longer-a-language-its-a-movement-e27bad1d01fa?source=rss------programming-5) (2026-06-01)
+- [Bug Bounty for Beginners 2026 The Step by Step Blueprint Nobody Tells You About Earn Your First…](https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-2026-the-step-by-step-blueprint-nobody-tells-you-about-earn-your-first-00b3e547c9a4?source=rss------programming-5) (2026-06-01)
+- [Python vs Go in 2026: I Built the Same High-Traffic Service in Both — One Made Me Regret My Choices](https://blog.stackademic.com/python-vs-go-in-2026-i-built-the-same-high-traffic-service-in-both-one-made-me-regret-my-choices-d254162f61a4?source=rss------programming-5) (2026-06-01)
 
 </details>
 
@@ -142,11 +141,11 @@ MCP servers are becoming the bridge between…](https://medium.com/@roysantuhdfc
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/) (2026-05-28)
-- [The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/) (2026-05-28)
-- [AI Factories: The New Infrastructure of Intelligence](https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/) (2026-05-27)
-- [NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition](https://blogs.nvidia.com/blog/vera-cpu-phoronix/) (2026-05-26)
-- [NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) (2026-05-21)
+- [NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand](https://blogs.nvidia.com/blog/ai-cloud-ecosystem/) (2026-06-01)
+- [NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain](https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/) (2026-06-01)
+- [Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/) (2026-06-01)
+- [How Cosmos 3 Helps Physical AI Think Before It Acts](https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/) (2026-06-01)
+- [NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/) (2026-06-01)
 
 </details>
 
@@ -307,11 +306,11 @@ MCP servers are becoming the bridge between…](https://medium.com/@roysantuhdfc
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How To Fix Common TypeScript Issues With Qodana](https://blog.jetbrains.com/qodana/2026/06/fix-common-typescript-issues/) (2026-06-01)
 - [What Does It Actually Take for an IDE to Understand Rust?](https://blog.jetbrains.com/rust/2026/05/29/how-rust-ides-understand-code/) (2026-05-29)
 - [Hibernate 7.4 New Features](https://blog.jetbrains.com/idea/2026/05/hibernate-7-4-new-features/) (2026-05-29)
 - [How We Use AlphaEvolve to Make Complex IDE Algorithms Faster](https://blog.jetbrains.com/ai/2026/05/how-we-use-alphaevolve-to-make-complex-ide-algorithms-faster/) (2026-05-29)
 - [JetBrains Academy – May Digest](https://blog.jetbrains.com/education/2026/05/29/jetbrains-academy-may-2026/) (2026-05-29)
-- [TeamCity 2026.1.1 Is Now Available](https://blog.jetbrains.com/teamcity/2026/05/teamcity-2026-1-1-bug-fix/) (2026-05-29)
 
 </details>
 
@@ -503,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 - [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -547,22 +546,22 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai) (2026-06-01)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) (2026-05-29)
 - [ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM](https://huggingface.co/blog/ibm-research/itbench-aa) (2026-05-27)
 - [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) (2026-05-27)
 - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) (2026-05-27)
-- [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) (2026-05-25)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [The future of automated trading with the best forex robot reviews](https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/) (2026-06-01)
+- [AI in video game development: How artificial intelligence is reshaping the industry](https://www.artificialintelligence-news.com/news/ai-in-video-game-development/) (2026-06-01)
 - [Scaling safe enterprise AI with OpenAI governance frameworks](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/) (2026-05-29)
 - [Anthropic releases Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/) (2026-05-29)
 - [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
-- [NBA plans AI system for automatic out-of-bounds calls](https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/) (2026-05-28)
-- [Google folds Display Ads into AI-first Demand Gen platform](https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/) (2026-05-27)
 
 </details>
 
