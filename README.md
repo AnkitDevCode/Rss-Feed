@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers](https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/) (2026-06-01)
-- [Zigging when most are zagging, ex-Meta CTO raises $250M climate fund](https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/) (2026-06-01)
-- [Anthropic files to go public](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/) (2026-06-01)
-- [SpaceX says it may issue ‘significant’ equity in ‘future transactions’](https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/) (2026-06-01)
-- [This AI weather startup is out-forecasting government agencies](https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/) (2026-06-01)
+- [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/) (2026-06-01)
+- [Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/) (2026-06-01)
+- [Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/) (2026-06-01)
+- [Water access is now a risk factor in SpaceX’s IPO](https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/) (2026-06-01)
+- [A new app, The Mall, is building a universal feed for online shopping](https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/) (2026-06-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) (2026-06-01)
-- [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/) (2026-06-01)
-- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) (2026-06-01)
-- [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec) (2026-06-01)
-- [Can You Stop a Hypersonic Missile?](https://protortyp.github.io/posts/can-you-stop-a-hypersonic/) (2026-06-01)
+- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx) (2026-06-01)
+- [My 15-year-old relative was killed for refusing to marry her cousin](https://www.theguardian.com/global-development/2026/jun/01/kawthar-al-husayjawi-killed-refusing-forced-marriage-marry-family-celebrated-iraq) (2026-06-01)
+- [Debug Project](https://debug.com/) (2026-06-01)
+- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html) (2026-06-01)
+- [Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices](https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo) (2026-06-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anthropic has officially filed to go public](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public) (2026-06-01)
-- [Sony’s new fight stick and gaming monitor launch in August](https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price) (2026-06-01)
-- [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026) (2026-06-01)
-- [An affordable, long-lasting AirTag alternative is $15 right now](https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale) (2026-06-01)
-- [The next big career move for young Hollywood? Reading audio smut](https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus) (2026-06-01)
+- [The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands) (2026-06-01)
+- [Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale) (2026-06-01)
+- [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram) (2026-06-01)
+- [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on) (2026-06-01)
+- [Meta&#8217;s own AI was exploited to hijack Instagram accounts](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked) (2026-06-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Doctors blast Trump for doubling down on vaccine policy modeled after Denmark](https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/) (2026-06-01)
+- [Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders](https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/) (2026-06-01)
+- [From 15 hours to one minute: How AI/ML is speeding up GM's development](https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/) (2026-06-01)
+- [Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/) (2026-06-01)
 - [AMD extends Socket AM5 support through at least 2029; AM4 refuses to die](https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/) (2026-06-01)
-- [ROG Xbox Ally X20 adds OLED screen, control upgrades](https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/) (2026-06-01)
-- [Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory](https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/) (2026-06-01)
-- [Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options](https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/) (2026-06-01)
-- [An OpenAI model solved a famous math problem that stumped humans for 80 years](https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/) (2026-06-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Temporal AI Question Planetarium using Temporal Workflows](https://dev.to/temporalio/temporal-ai-question-planetarium-using-temporal-workflows-1785) (2026-06-01)
-- [Debloating The AI-Grown Codebase](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om) (2026-06-01)
-- [Small Language Models on Edge Devices: How 2.6B Parameters Are Outperforming 671B Models in 2026](https://dev.to/naciofelix/small-language-models-on-edge-devices-how-26b-parameters-are-outperforming-671b-models-in-2026-3hkf) (2026-06-01)
-- [How I Exported 1 Million+ Oracle Records to CSV in Under 30 Seconds Using Node.js](https://dev.to/prashanthm07/how-we-exported-1-million-oracle-records-to-csv-in-under-30-seconds-using-nodejs-515e) (2026-06-01)
-- [How to Secure Applications Deployed Across Multiple Clouds using IBM Cloud](https://dev.to/vscottz/how-to-secure-applications-deployed-across-multiple-clouds-3p3o) (2026-06-01)
+- [AI Builder Notes - May 2026](https://dev.to/srijanshukla18/ai-builder-notes-may-2026-450g) (2026-06-01)
+- [The Bypass-First Principle: How to Ship When Everything Is Blocked](https://dev.to/l850097071/the-bypass-first-principle-how-to-ship-when-everything-is-blocked-21pm) (2026-06-01)
+- [FinTech & Algorithmic Risk Control: How VPS Automation and API Integration Protect Capital and Eliminate Human Execution Errors in Trading](https://dev.to/amendamax2025/fintech-algorithmic-risk-control-how-vps-automation-and-api-integration-protect-capital-and-25c8) (2026-06-01)
+- [peektea v2: yesterday it peeked, today it actually opens things](https://dev.to/lovestaco/peektea-v2-yesterday-it-peeked-today-it-actually-opens-things-njh) (2026-06-01)
+- [What I Got Wrong About Claude Code (And How I Fixed It)](https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48) (2026-06-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Reactive Forms to Angular Signal Forms](https://javascript.plainenglish.io/from-reactive-forms-to-angular-signal-forms-991028a1901d?source=rss------programming-5) (2026-06-01)
-- [The Claude Code Skills That Quietly Made Me a Faster Programmer](https://medium.com/codetodeploy/the-claude-code-skills-that-quietly-made-me-a-faster-programmer-ff0dbddea237?source=rss------programming-5) (2026-06-01)
-- [I Fixed a CSS Bug Without Opening DevTools](https://medium.com/@TusharKanjariya/i-fixed-a-css-bug-without-opening-devtools-f719d9528d24?source=rss------programming-5) (2026-06-01)
-- [After Years as a Software Engineer, Here’s How I’d Break Into Tech in 2026](https://theunanimouscoder.medium.com/after-years-as-a-software-engineer-heres-how-i-d-break-into-tech-in-2026-e106ab818613?source=rss------programming-5) (2026-06-01)
-- [The Claude “Nerf” Is Real: Why Sonnet and Haiku Feel Completely Broken Right Now](https://medium.com/codex/the-claude-nerf-is-real-why-sonnet-and-haiku-feel-completely-broken-right-now-e586c8efc9e4?source=rss------programming-5) (2026-06-01)
+- [These Browser Extensions Steal Your AI Chat History](https://medium.com/@ACuriousStranger/these-browser-extensions-steal-your-ai-chat-history-6909af0c8adb?source=rss------programming-5) (2026-06-01)
+- [Why New Grads Have an Advantage in the Tech Job Market](https://medium.com/fonzi-ai/why-new-grads-have-an-advantage-in-the-tech-job-market-5e05528f584e?source=rss------programming-5) (2026-06-01)
+- [The Behavioral Interview Mistake Senior Engineers Keep Making](https://blog.stackademic.com/the-behavioral-interview-mistake-senior-engineers-keep-making-b87cc7ac0284?source=rss------programming-5) (2026-06-01)
+- [How to migrate from PHIL to AKITA](https://medium.com/@barman14/how-to-migrate-from-phil-to-akita-5dab095415c4?source=rss------programming-5) (2026-06-01)
+- [The System Design Question That Filters Out 80% of Senior Candidates](https://blog.stackademic.com/the-system-design-question-that-filters-out-80-of-senior-candidates-ee1825fc9a28?source=rss------programming-5) (2026-06-01)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.3.0 (Current)](https://nodejs.org/en/blog/release/v26.3.0) (2026-06-01)
 - [Node.js 24.16.0 (LTS)](https://nodejs.org/en/blog/release/v24.16.0) (2026-05-21)
 - [Node.js 26.2.0 (Current)](https://nodejs.org/en/blog/release/v26.2.0) (2026-05-20)
 - [Node.js 22.22.3 (LTS)](https://nodejs.org/en/blog/release/v22.22.3) (2026-05-13)
 - [Axios to WHATWG Fetch](https://nodejs.org/en/blog/migrations/axios-to-fetch) (2026-05-09)
-- [Node.js 26.1.0 (Current)](https://nodejs.org/en/blog/release/v26.1.0) (2026-05-07)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/) (2026-06-01)
 - [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) (2026-05-26)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) (2026-05-20)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) (2026-05-15)
 - [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) (2026-05-15)
-- [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/) (2026-05-14)
 
 </details>
 
@@ -276,8 +276,8 @@
 - [Solo founding is at an all-time high: Top performers have these traits in common](https://stripe.com/blog/top-solo-founder-traits) (2026-05-28)
 - [Expanding Stripe Radar to protect more of your business](https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business) (2026-05-27)
 - [Five vertical SaaS insights from Sessions 2026](https://stripe.com/blog/vertical-saas-insights-sessions-2026) (2026-05-11)
-- [Everything we announced at Sessions 2026](https://stripe.com/blog/everything-we-announced-at-sessions-2026) (2026-04-29)
 - [Giving agents the ability to pay](https://stripe.com/blog/giving-agents-the-ability-to-pay) (2026-04-29)
+- [Everything we announced at Sessions 2026](https://stripe.com/blog/everything-we-announced-at-sessions-2026) (2026-04-29)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Elastic Build Machines now protect against out of memory builds](https://vercel.com/changelog/elastic-build-machines-now-protect-against-out-of-memory-builds) (2026-06-01)
+- [Qwen 3.7 Plus now available on AI Gateway](https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway) (2026-06-01)
+- [Vercel Blob now supports OIDC authentication](https://vercel.com/changelog/vercel-blob-now-supports-oidc-authentication) (2026-06-01)
 - [MiniMax M3 on AI Gateway](https://vercel.com/changelog/minimax-m3-on-ai-gateway) (2026-05-31)
 - [Function invocations now billed per unit](https://vercel.com/changelog/function-invocations-now-billed-per-unit) (2026-05-29)
-- [Protecting against token theft](https://vercel.com/blog/protecting-against-token-theft) (2026-05-29)
-- [Run Docker containers inside Vercel Sandbox](https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox) (2026-05-29)
-- [Port 8080 is now available in Vercel Sandboxes](https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes) (2026-05-29)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Why AI Agents Need Their Own Permission Model](https://auth0.com/blog/why-ai-agents-need-their-own-permission-model/) (2026-06-01)
 - [Enterprise Trust Is a Race. Here is How to Win It](https://auth0.com/blog/enterprise-trust-race/) (2026-05-28)
-- [Securing AI Agents in Healthcare and Life Sciences](https://auth0.com/blog/securing-ai-agents-healthcare-life-sciences/) (2026-05-27)
 - [Do Not Let Your AI Go Rogue, Guard Against Agentic Misalignment](https://auth0.com/blog/do-not-let-your-agent-go-rogue/) (2026-05-27)
+- [Securing AI Agents in Healthcare and Life Sciences](https://auth0.com/blog/securing-ai-agents-healthcare-life-sciences/) (2026-05-27)
 - [Maximizing Akamai Risk Signals in Auth0 Actions](https://auth0.com/blog/maximizing-akamai-risk-signals-auth0-actions/) (2026-05-22)
-- [A Guide to Auth0 Authorization with Scopes, Roles, and Client Grants Explained](https://auth0.com/blog/auth0-authorization-guide-scopes-roles-client-grants/) (2026-05-19)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem](https://towardsdatascience.com/rag-is-not-machine-learning-and-the-ml-toolkit-solves-the-wrong-problem/) (2026-06-01)
+- [How to Combine Claude Code and Codex for Maximum Coding Power](https://towardsdatascience.com/how-to-combining-claude-code-and-codex-for-max-coding-power/) (2026-06-01)
 - [Ensuring Data Integrity with Cryptographic Hashing and the Ethereum Blockchain](https://towardsdatascience.com/ensuring-data-integrity-with-cryptographic-hashing-and-the-ethereum-blockchain/) (2026-06-01)
 - [It’s the Lessons We Learned Along the Way. Or, Is It?](https://towardsdatascience.com/its-the-lessons-we-learned-along-the-way-or-is-it/) (2026-06-01)
 - [Escaping the Valley of Choice in BI](https://towardsdatascience.com/escaping-the-valley-of-choice-in-bi-how-agentic-bi-will-kill-data-analysts/) (2026-06-01)
-- [Solving a Murder Mystery Using Bayesian Inference](https://towardsdatascience.com/solving-a-murder-mystery-using-bayesian-inference/) (2026-05-31)
-- [Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost](https://towardsdatascience.com/rerankers-arent-magic-either-when-the-cross-encoder-layer-is-worth-the-cost-enterprise-document-intelligence-vol-1-2bis/) (2026-05-31)
 
 </details>
 
