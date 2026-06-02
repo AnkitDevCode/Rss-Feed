@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box](https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/) (2026-06-02)
+- [Why Janet?](https://ianthehenry.com/posts/why-janet/) (2026-06-02)
+- [Not Every Byte Gets a Vote](https://mitander.xyz/posts/not-every-byte-gets-a-vote/) (2026-06-02)
+- [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/) (2026-06-02)
 - [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) (2026-06-02)
 - [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html) (2026-06-02)
-- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more) (2026-06-02)
-- [Book Dedications](https://walzr.com/dedications) (2026-06-02)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) (2026-06-02)
 - [The Download: China’s brain implant ambitions](https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/) (2026-06-01)
 - [China has approved the world’s first invasive brain-computer chip—here’s what’s next](https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/) (2026-06-01)
 - [The Download: unlocking lithium and controlling Ebola](https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/) (2026-05-29)
 - [The deadly Ebola outbreak is proving difficult to control](https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/) (2026-05-29)
-- [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) (2026-05-29)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/) (2026-06-02)
 - [Best of the Heap: First post of the past​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/) (2026-05-29)
 - [The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/) (2026-05-29)
 - [In an AI world, the most valuable developers will be both artisans and builders​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/28/artisans-and-builders/) (2026-05-28)
 - [Agents on a leash: Agentic AI remains mostly single-agent and monitored at work​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‍‌‍​‌‌‍​‌​﻿​﻿​﻿​‌‌‍‌‌‌‍‌​‌‍‌‌​‍﻿‌​﻿​﻿‌‍​‌‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‌​‌‍‌‌​‍﻿‌‌‍​‍​﻿​​​﻿‌‍​﻿​​​‍﻿‌​﻿‌﻿​﻿​​‌‍‌​‌‍‌​​﻿‌‌​﻿​﻿​﻿‌‍‌‍​﻿​﻿‌​​﻿‌‌​﻿​‍​﻿‍​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‍‌‍​‌‌‍​‌​﻿​﻿​﻿​‌‌‍‌‌‌‍‌​‌‍‌‌​‍﻿‌​﻿​﻿‌‍​‌‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‌​‌‍‌‌​‍﻿‌‌‍​‍​﻿​​​﻿‌‍​﻿​​​‍﻿‌​﻿‌﻿​﻿​​‌‍‌​‌‍‌​​﻿‌‌​﻿​﻿​﻿‌‍‌‍​﻿​﻿‌​​﻿‌‌​﻿​‍​﻿‍​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work/) (2026-05-27)
-- [Do you have what it takes to run AI in production?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌‌‍‌‍​﻿‌​​﻿​‌‌‍​‍‌‍‌​​‍﻿‌‌‍‌‍‌‍​‍​﻿‍‌​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿​​​‍﻿‌‌‍​‌​﻿​‍​﻿‌‌‌‍​‌​‍﻿‌​﻿​‌‌‍​﻿‌‍​‌‌‍​﻿​﻿‌﻿‌‍‌​‌‍​‌‌‍​‍​﻿‌﻿‌‍​‍​﻿​​‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‌‌​﻿‌‌‌‍‌‍​﻿‌​​﻿​‌‌‍​‍‌‍‌​​‍﻿‌‌‍‌‍‌‍​‍​﻿‍‌​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿​​​‍﻿‌‌‍​‌​﻿​‍​﻿‌‌‌‍​‌​‍﻿‌​﻿​‌‌‍​﻿‌‍​‌‌‍​﻿​﻿‌﻿‌‍‌​‌‍​‌‌‍​‍​﻿‌﻿‌‍​‍​﻿​​‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/) (2026-05-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dhall-to-Effect: Provably Safe Task Orchestration via Total Functional Configuration and Purely Functional Runtimes](https://dev.to/p_pumulo/dhall-to-effect-provably-safe-task-orchestration-via-total-functional-configuration-and-purely-2lnb) (2026-06-02)
-- [A few months ago, I wouldn't have picked myself](https://dev.to/casperday11/a-few-months-ago-i-wouldnt-have-picked-myself-2aa2) (2026-06-02)
-- [From pg-boss to Cloud Tasks: Fixing Queue Bursts and DB Connection Failures on Serverless](https://dev.to/twio_ai/from-pg-boss-to-cloud-tasks-fixing-queue-bursts-and-db-connection-failures-on-serverless-ii5) (2026-06-02)
-- [I built a small tool to make PDFs easier to read at night](https://dev.to/issah_yoder_8b734f7881679/i-built-a-small-tool-to-make-pdfs-easier-to-read-at-night-3po6) (2026-06-02)
-- [What is the Forge Method? Five rules so your agents stop improvising.](https://dev.to/billymcmonkeys/what-is-the-forge-method-five-rules-so-your-agents-stop-improvising-12lo) (2026-06-02)
+- [Browser-CLI: Let Your AI Agent Control the Browser from the Command Line](https://dev.to/zmysysz/browser-cli-let-your-ai-agent-control-the-browser-from-the-command-line-2p4n) (2026-06-02)
+- [Job Bank Canada + Job Fair: The 2026 System That Actually Gets Interviews](https://dev.to/manyoffer_career/job-bank-canada-job-fair-the-2026-system-that-actually-gets-interviews-580l) (2026-06-02)
+- [Stop Breaking Production: Pragmatic Git Refactor Diffing to Avoid Syntax Merge Conflicts](https://dev.to/will_indie/stop-breaking-production-pragmatic-git-refactor-diffing-to-avoid-syntax-merge-conflicts-4d5p) (2026-06-02)
+- [Docker, Node, and Electron Walked Into My Terminal. So I Built a 3.5MB App to Kick Them All Out.](https://dev.to/itslokeshx/docker-node-and-electron-walked-into-my-terminal-so-i-built-a-35mb-app-to-kick-them-all-out-4pea) (2026-06-02)
+- [Accessible Web Apps: A Div Is Not a Button](https://dev.to/peralov/accessible-web-apps-a-div-is-not-a-button-5gf9) (2026-06-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Delegates vs Events in C# [Part 3]](https://medium.com/@nikolaajdukovic/delegates-vs-events-in-c-part-3-e74c28f5a21f?source=rss------programming-5) (2026-06-02)
-- [I Made Microsoft’s TRELLIS 2.0 Run Natively on a Mac — No NVIDIA, No Linux, No Cloud](https://illvminat.medium.com/i-made-microsofts-trellis-2-0-run-natively-on-a-mac-no-nvidia-no-linux-no-cloud-2334a950c753?source=rss------programming-5) (2026-06-02)
-- [Day 23: Most Linux Users Ignore This Command Until Something Breaks](https://pawannatekar220.medium.com/day-23-most-linux-users-ignore-this-command-until-something-breaks-1eebd1669496?source=rss------programming-5) (2026-06-02)
-- [Unlock Smarter AI Results with Cursor’s Power Settings](https://medium.com/@bmec278/unlock-smarter-ai-results-with-cursors-power-settings-36537800ff8c?source=rss------programming-5) (2026-06-02)
-- [How Hash Maps Actually Achieve O(1) Lookups: A First-Principles Breakdown](https://medium.com/@sangyog.puri111/how-hash-maps-actually-achieve-o-1-lookups-a-first-principles-breakdown-b6352d382c1f?source=rss------programming-5) (2026-06-02)
+- [The C# Code Review Comment I Leave More Than Any Other](https://medium.com/@mohsho10/the-c-code-review-comment-i-leave-more-than-any-other-85fabc88daf8?source=rss------programming-5) (2026-06-02)
+- [APPLE NOTES, REMINDERS & CALENDAR MASTERY: BUILD FULL PRODUCTIVITY SYSTEM FOR FREE WITH YOUR APPLE…](https://medium.com/@victoretim172/apple-notes-reminders-calendar-mastery-build-full-productivity-system-for-free-with-your-apple-977c6d2fee48?source=rss------programming-5) (2026-06-02)
+- [The uncomfortable reality nobody wanted to admit after AI entered the engineering workflow.](https://medium.com/@manojgour6811/the-uncomfortable-reality-nobody-wanted-to-admit-after-ai-entered-the-engineering-workflow-a79307f82e3f?source=rss------programming-5) (2026-06-02)
+- [Your API Design Is Why Integrations Take Forever (5 Fixes That Save Weeks)](https://medium.com/@qodors/your-api-design-is-why-integrations-take-forever-5-fixes-that-save-weeks-6b58bc4b11e3?source=rss------programming-5) (2026-06-02)
+- [How Deel Helps Companies Hire, Pay, and Manage Talent Worldwide.](https://medium.com/@startearningindollarshere/how-deel-helps-companies-hire-pay-and-manage-talent-worldwide-fe998c09b662?source=rss------programming-5) (2026-06-02)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence](https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/) (2026-06-02)
 - [NVIDIA Jetson Brings Agentic AI to the Physical World](https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/) (2026-06-02)
 - [NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand](https://blogs.nvidia.com/blog/ai-cloud-ecosystem/) (2026-06-01)
 - [NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain](https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/) (2026-06-01)
 - [Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/) (2026-06-01)
-- [How Cosmos 3 Helps Physical AI Think Before It Acts](https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/) (2026-06-01)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+AI observability vs monitoring: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
+) (2026-06-01)
+- [
 What are AI Agents?
 ](
 https://www.twilio.com/en-us/blog/developers/ai-agents-explained
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
 The Power of the Grey Bubble: Why Apple Messages for Business is a game changer
 ](
 https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble--why-apple-messages-for-business-is
-) (2026-05-21)
-- [
-What is AI observability (and how does it work)?
-](
-https://www.twilio.com/en-us/blog/insights/ai-observability
 ) (2026-05-21)
 
 </details>
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Bloom Filters in Postgres: The Index Type Most Developers Overlook](https://www.prisma.io/blog/postgres-bloom-index-the-overlooked-postgres-feature) (2026-05-28)
 - [Prisma Next Early Access: Write Your Contract, Prompt Your Agent, Ship Your App](https://www.prisma.io/blog/prisma-next-early-access-write-your-contract-prompt-your-agent-ship-your-app) (2026-05-22)
 - [Agentic Engineering at Prisma](https://www.prisma.io/blog/agentic-engineering-at-prisma) (2026-05-20)
 - [How to use AI coding tools safely and responsibly](https://www.prisma.io/blog/how-to-use-ai-safely-and-responsibly) (2026-05-19)
 - [Prisma Next: April milestone complete, the extension API is open](https://www.prisma.io/blog/prisma-next-roadmap-april-milestone) (2026-05-11)
-- [Prisma Next: A Call for Extension Authors](https://www.prisma.io/blog/prisma-next-call-for-extension-authors) (2026-05-07)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
-- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
-- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 - [Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai) (2026-06-01)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) (2026-05-29)
 - [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) (2026-05-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [The future of automated trading with the best forex robot reviews](https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/) (2026-06-01)
+- [AI in video game development: How artificial intelligence is reshaping the industry](https://www.artificialintelligence-news.com/news/ai-in-video-game-development/) (2026-06-01)
+- [Scaling safe enterprise AI with OpenAI governance frameworks](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/) (2026-05-29)
+- [Anthropic releases Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/) (2026-05-29)
+- [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
 
 </details>
 
