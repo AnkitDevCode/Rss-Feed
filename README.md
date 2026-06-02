@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/) (2026-06-01)
+- [Alphabet plans to raise $80B to pay for AI buildout](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/) (2026-06-01)
+- [Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/) (2026-06-01)
+- [Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP](https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/) (2026-06-01)
 - [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/) (2026-06-01)
-- [Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/) (2026-06-01)
-- [Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/) (2026-06-01)
-- [Water access is now a risk factor in SpaceX’s IPO](https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/) (2026-06-01)
-- [A new app, The Mall, is building a universal feed for online shopping](https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/) (2026-06-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx) (2026-06-01)
-- [My 15-year-old relative was killed for refusing to marry her cousin](https://www.theguardian.com/global-development/2026/jun/01/kawthar-al-husayjawi-killed-refusing-forced-marriage-marry-family-celebrated-iraq) (2026-06-01)
-- [Debug Project](https://debug.com/) (2026-06-01)
-- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html) (2026-06-01)
-- [Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices](https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo) (2026-06-01)
+- [U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box](https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/) (2026-06-02)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) (2026-06-02)
+- [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html) (2026-06-02)
+- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more) (2026-06-02)
+- [Book Dedications](https://walzr.com/dedications) (2026-06-02)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Doctors blast Trump for doubling down on vaccine policy modeled after Denmark](https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/) (2026-06-01)
-- [Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders](https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/) (2026-06-01)
-- [From 15 hours to one minute: How AI/ML is speeding up GM's development](https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/) (2026-06-01)
-- [Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/) (2026-06-01)
-- [AMD extends Socket AM5 support through at least 2029; AM4 refuses to die](https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/) (2026-06-01)
+- [AI costs how much? GitHub Copilot users react to new usage-based pricing system.](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/) (2026-06-01)
+- [Why cats prefer silver vine to catnip and other May highlights](https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/) (2026-06-01)
+- [Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo](https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/) (2026-06-01)
+- [Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts](https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/) (2026-06-01)
+- [Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor](https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/) (2026-06-01)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Builder Notes - May 2026](https://dev.to/srijanshukla18/ai-builder-notes-may-2026-450g) (2026-06-01)
-- [The Bypass-First Principle: How to Ship When Everything Is Blocked](https://dev.to/l850097071/the-bypass-first-principle-how-to-ship-when-everything-is-blocked-21pm) (2026-06-01)
-- [FinTech & Algorithmic Risk Control: How VPS Automation and API Integration Protect Capital and Eliminate Human Execution Errors in Trading](https://dev.to/amendamax2025/fintech-algorithmic-risk-control-how-vps-automation-and-api-integration-protect-capital-and-25c8) (2026-06-01)
-- [peektea v2: yesterday it peeked, today it actually opens things](https://dev.to/lovestaco/peektea-v2-yesterday-it-peeked-today-it-actually-opens-things-njh) (2026-06-01)
-- [What I Got Wrong About Claude Code (And How I Fixed It)](https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48) (2026-06-01)
+- [Dhall-to-Effect: Provably Safe Task Orchestration via Total Functional Configuration and Purely Functional Runtimes](https://dev.to/p_pumulo/dhall-to-effect-provably-safe-task-orchestration-via-total-functional-configuration-and-purely-2lnb) (2026-06-02)
+- [A few months ago, I wouldn't have picked myself](https://dev.to/casperday11/a-few-months-ago-i-wouldnt-have-picked-myself-2aa2) (2026-06-02)
+- [From pg-boss to Cloud Tasks: Fixing Queue Bursts and DB Connection Failures on Serverless](https://dev.to/twio_ai/from-pg-boss-to-cloud-tasks-fixing-queue-bursts-and-db-connection-failures-on-serverless-ii5) (2026-06-02)
+- [I built a small tool to make PDFs easier to read at night](https://dev.to/issah_yoder_8b734f7881679/i-built-a-small-tool-to-make-pdfs-easier-to-read-at-night-3po6) (2026-06-02)
+- [What is the Forge Method? Five rules so your agents stop improvising.](https://dev.to/billymcmonkeys/what-is-the-forge-method-five-rules-so-your-agents-stop-improvising-12lo) (2026-06-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [These Browser Extensions Steal Your AI Chat History](https://medium.com/@ACuriousStranger/these-browser-extensions-steal-your-ai-chat-history-6909af0c8adb?source=rss------programming-5) (2026-06-01)
-- [Why New Grads Have an Advantage in the Tech Job Market](https://medium.com/fonzi-ai/why-new-grads-have-an-advantage-in-the-tech-job-market-5e05528f584e?source=rss------programming-5) (2026-06-01)
-- [The Behavioral Interview Mistake Senior Engineers Keep Making](https://blog.stackademic.com/the-behavioral-interview-mistake-senior-engineers-keep-making-b87cc7ac0284?source=rss------programming-5) (2026-06-01)
-- [How to migrate from PHIL to AKITA](https://medium.com/@barman14/how-to-migrate-from-phil-to-akita-5dab095415c4?source=rss------programming-5) (2026-06-01)
-- [The System Design Question That Filters Out 80% of Senior Candidates](https://blog.stackademic.com/the-system-design-question-that-filters-out-80-of-senior-candidates-ee1825fc9a28?source=rss------programming-5) (2026-06-01)
+- [Delegates vs Events in C# [Part 3]](https://medium.com/@nikolaajdukovic/delegates-vs-events-in-c-part-3-e74c28f5a21f?source=rss------programming-5) (2026-06-02)
+- [I Made Microsoft’s TRELLIS 2.0 Run Natively on a Mac — No NVIDIA, No Linux, No Cloud](https://illvminat.medium.com/i-made-microsofts-trellis-2-0-run-natively-on-a-mac-no-nvidia-no-linux-no-cloud-2334a950c753?source=rss------programming-5) (2026-06-02)
+- [Day 23: Most Linux Users Ignore This Command Until Something Breaks](https://pawannatekar220.medium.com/day-23-most-linux-users-ignore-this-command-until-something-breaks-1eebd1669496?source=rss------programming-5) (2026-06-02)
+- [Unlock Smarter AI Results with Cursor’s Power Settings](https://medium.com/@bmec278/unlock-smarter-ai-results-with-cursors-power-settings-36537800ff8c?source=rss------programming-5) (2026-06-02)
+- [How Hash Maps Actually Achieve O(1) Lookups: A First-Principles Breakdown](https://medium.com/@sangyog.puri111/how-hash-maps-actually-achieve-o-1-lookups-a-first-principles-breakdown-b6352d382c1f?source=rss------programming-5) (2026-06-02)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/) (2026-06-01)
 - [AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/) (2026-06-01)
 - [Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/) (2026-05-28)
 - [Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/) (2026-05-28)
 - [Meet Our Newest AWS Heroes – May 2026](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/) (2026-05-27)
-- [AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/) (2026-05-25)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Jetson Brings Agentic AI to the Physical World](https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/) (2026-06-02)
 - [NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand](https://blogs.nvidia.com/blog/ai-cloud-ecosystem/) (2026-06-01)
 - [NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain](https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/) (2026-06-01)
 - [Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/) (2026-06-01)
 - [How Cosmos 3 Helps Physical AI Think Before It Acts](https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/) (2026-06-01)
-- [NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/) (2026-06-01)
 
 </details>
 
@@ -353,8 +353,8 @@
 - [Elastic Build Machines now protect against out of memory builds](https://vercel.com/changelog/elastic-build-machines-now-protect-against-out-of-memory-builds) (2026-06-01)
 - [Qwen 3.7 Plus now available on AI Gateway](https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway) (2026-06-01)
 - [Vercel Blob now supports OIDC authentication](https://vercel.com/changelog/vercel-blob-now-supports-oidc-authentication) (2026-06-01)
+- [Chat SDK adds Lark and Feishu support](https://vercel.com/changelog/chat-sdk-adds-lark-feishu-support) (2026-05-31)
 - [MiniMax M3 on AI Gateway](https://vercel.com/changelog/minimax-m3-on-ai-gateway) (2026-05-31)
-- [Function invocations now billed per unit](https://vercel.com/changelog/function-invocations-now-billed-per-unit) (2026-05-29)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 - [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
+- [Why Effective Feedback in Team Communication Works](https://slack.com/blog/collaboration/effective-feedback) (2026-05-21)
+- [Smarter Workflows, No Code Required: Introducing New AI Steps in Workflow Builder](https://slack.com/blog/news/generate-ai-steps-workflow-builder) (2026-05-21)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/insights/ai-observability
 - [Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai) (2026-06-01)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) (2026-05-29)
 - [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) (2026-05-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [The future of automated trading with the best forex robot reviews](https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/) (2026-06-01)
-- [AI in video game development: How artificial intelligence is reshaping the industry](https://www.artificialintelligence-news.com/news/ai-in-video-game-development/) (2026-06-01)
-- [Scaling safe enterprise AI with OpenAI governance frameworks](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/) (2026-05-29)
-- [Anthropic releases Claude Opus 4.8](https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/) (2026-05-29)
-- [Google Pay preps for AI agents with Universal Commerce Protocol](https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/) (2026-05-28)
 
 </details>
 
