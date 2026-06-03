@@ -20,33 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The world’s largest privately owned laser just turned on](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/) (2026-06-03)
 - [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/) (2026-06-02)
 - [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/) (2026-06-02)
 - [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/) (2026-06-02)
 - [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) (2026-06-02)
-- [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/) (2026-06-02)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [It is an amazing time for programmers](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers) (2026-06-03)
+- [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans) (2026-06-03)
+- [Recovering Eric Graham's 1987 Amiga Juggler raytracer source code](https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/) (2026-06-03)
+- [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/) (2026-06-03)
+- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device) (2026-06-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI has a water problem. Google thinks it has a fix](https://www.theverge.com/policy/942296/google-water-commitments-data-centers) (2026-06-03)
+- [Google must let publishers opt out of AI Search features, rules UK](https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out) (2026-06-03)
 - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer) (2026-06-02)
 - [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer) (2026-06-02)
 - [Here&#8217;s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026) (2026-06-02)
-- [PlayStation State of Play June 2026: All the news and trailers](https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers) (2026-06-02)
-- [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview) (2026-06-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Male bowerbirds hope to dazzle females with bright human-made items](https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/) (2026-06-02)
+- [How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.](https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/) (2026-06-03)
+- [Male bowerbirds prefer to dazzle females with bright human-made items](https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/) (2026-06-02)
 - [Microsoft plans Linux tools and an RTX Spark desktop for Windows developers](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/) (2026-06-02)
 - [Microsoft's Project Solara is an Android OS designed for agents instead of apps](https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/) (2026-06-02)
 - [Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says](https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/) (2026-06-02)
-- [If I had a hammer... it might actually be a rhino tooth](https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/) (2026-06-02)
 
 </details>
 
@@ -86,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Harness Base Definition: The Control System Outside the Model](https://dev.to/lien_jp_db54b8b7fd9fa0118/harness-base-definition-the-control-system-outside-the-model-453m) (2026-06-03)
-- [The next AI coding bottleneck is repo understanding](https://dev.to/hefty_69a4c2d631c9dd70724/the-next-ai-coding-bottleneck-is-repo-understanding-4ph3) (2026-06-03)
-- [Under the Hood: Redis Enterprise Cluster](https://dev.to/dakshin_g/under-the-hood-redis-enterprise-cluster-63f) (2026-06-03)
-- [Fitting WhisperX large-v3 + a 24B LLM on one 3090: a reproducible context-capping recipe](https://dev.to/sikamikanikobg/fitting-whisperx-large-v3-a-24b-llm-on-one-3090-a-reproducible-context-capping-recipe-22g0) (2026-06-03)
-- [Getting Started with Vector Databases Using Amazon Aurora PostgreSQL + pgvector](https://dev.to/aws-builders/getting-started-with-vector-databases-using-amazon-aurora-postgresql-pgvector-4go6) (2026-06-03)
+- [The Pragmatic Guide to Velocity-Driven Debugging for Modern Dev Teams](https://dev.to/therizwansaleem/the-pragmatic-guide-to-velocity-driven-debugging-for-modern-dev-teams-491g) (2026-06-03)
+- [How Consistent Hashing Works](https://dev.to/abdullah_bajwa_2072d8a81b/how-consistent-hashing-works-5hlo) (2026-06-03)
+- [Twitch Chat Scraper: export any VOD's full chat replay for $1.05/1K](https://dev.to/devil_scrapes/twitch-chat-scraper-export-any-vods-full-chat-replay-for-1051k-1jea) (2026-06-03)
+- [The Bug That Took 10 Minutes to Fix and 3 Days to Find](https://dev.to/harsh2644/the-bug-that-took-10-minutes-to-fix-and-3-days-to-find-1l0m) (2026-06-03)
+- [Threads Reply Scraper: export the full conversation tree of any public post](https://dev.to/devil_scrapes/threads-reply-scraper-export-the-full-conversation-tree-of-any-public-post-5gej) (2026-06-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [MiniMax M3 Decodes 1M Tokens 15x Faster — and It Shouldn't Be This Cheap](https://pub.towardsai.net/minimax-m3-decodes-1m-tokens-15x-faster-and-it-shouldnt-be-this-cheap-5428f2476957?source=rss------programming-5) (2026-06-03)
-- [Most People Don’t Really Know Where Their Time Goes Online](https://medium.com/@ayushghimire077/most-people-dont-really-know-where-their-time-goes-online-c775c2b67e14?source=rss------programming-5) (2026-06-03)
-- [I Thought It Was a Safe SQL Update — Then 2 million Records Went Sideways](https://awstip.com/i-thought-it-was-a-safe-sql-update-then-2-million-records-went-sideways-f3d124942990?source=rss------programming-5) (2026-06-03)
-- [11 Mistakes Killing Your Programming Career Right Now (And Most Developers Don’t Realize It)](https://medium.com/@baheer224/11-mistakes-killing-your-programming-career-right-now-and-most-developers-dont-realize-it-6895659e0235?source=rss------programming-5) (2026-06-03)
-- [Claude Certified Architect Foundations Guide Part II : EXAM DOMAIN NOTES](https://medium.com/lets-code-future/claude-certified-architect-foundations-guide-part-ii-exam-domain-notes-68360363a102?source=rss------programming-5) (2026-06-03)
+- [On-device first, cloud when it counts. oneinfer-edge routes every request to where it runs best.](https://medium.com/@oneinfer.ai/on-device-first-cloud-when-it-counts-oneinfer-edge-routes-every-request-to-where-it-runs-best-0b0bd2c0ba0f?source=rss------programming-5) (2026-06-03)
+- [How I Export Marker Coordinates from an Image Annotation System in iOS](https://medium.com/@manpreet.s_92558/how-i-export-marker-coordinates-from-an-image-annotation-system-in-ios-3c0eb4410e47?source=rss------programming-5) (2026-06-03)
+- [From Civil Engineering to Frontend Development: My Journey Into Tech and Entrepreneurship](https://medium.com/@harishkadam.dev/from-civil-engineering-to-frontend-development-my-journey-into-tech-and-entrepreneurship-96cbbaf0a10d?source=rss------programming-5) (2026-06-03)
+- [10 Python Libraries That Make Smart Developers Lazy](https://blog.stackademic.com/10-python-libraries-that-make-smart-developers-lazy-2e221b2171ed?source=rss------programming-5) (2026-06-03)
+- [MCP Servers Are Becoming the USB-C of AI Agents](https://medium.com/@talatwaheed/mcp-servers-are-becoming-the-usb-c-of-ai-agents-6427e3c62c98?source=rss------programming-5) (2026-06-03)
 
 </details>
 
@@ -295,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin 2.4.0 Released](https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/) (2026-06-03)
+- [WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/) (2026-06-03)
 - [Toolbox App 3.5: Better Remote Development Observability, More Reliable Enterprise Configuration, and Smoother Everyday Interactions](https://blog.jetbrains.com/toolbox-app/2026/06/toolbox-app-3-5-better-remote-development-observability-more-reliable-enterprise-configuration-and-smoother-everyday-interactions/) (2026-06-02)
 - [Top Agentic Frameworks for Building Applications 2026](https://blog.jetbrains.com/pycharm/2026/06/top-agentic-frameworks-for-building-applications-2026/) (2026-06-02)
 - [Stop Pasting Tokens: OAuth2 Login for JetBrains IDE Plugins](https://blog.jetbrains.com/platform/2026/06/stop-pasting-tokens-oauth2-login-for-jetbrains-ide-plugins/) (2026-06-01)
-- [Mellum2 Goes Open Source: A Fast Model for AI Workflows](https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/) (2026-06-01)
-- [How To Fix Common TypeScript Issues With Qodana](https://blog.jetbrains.com/qodana/2026/06/fix-common-typescript-issues/) (2026-06-01)
 
 </details>
 
@@ -362,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Deploy a Vibe Coded Project
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
+) (2026-06-02)
+- [
 AI observability vs monitoring: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
@@ -381,11 +397,6 @@ How to use email seed list testing effectively
 ](
 https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
 ) (2026-05-26)
-- [
-The Power of the Grey Bubble: Why Apple Messages for Business is a game changer
-](
-https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble--why-apple-messages-for-business-is
-) (2026-05-21)
 
 </details>
 
@@ -540,6 +551,17 @@ https://www.twilio.com/en-us/blog/products/launches/the-power-of-the-grey-bubble
 - [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) (2026-06-01)
 - [Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai) (2026-06-01)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) (2026-05-29)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Walmart’s AI workflows meet the realities of the balance sheet](https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/) (2026-06-03)
+- [Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D](https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/) (2026-06-03)
+- [Anthropic IPO filing marks AI maturing into enterprise utility](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/) (2026-06-02)
+- [GitHub Copilot users see token-based price hikes](https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/) (2026-06-02)
+- [The future of automated trading with the best forex robot reviews](https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/) (2026-06-01)
 
 </details>
 
