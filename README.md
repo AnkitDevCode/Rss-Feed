@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/) (2026-06-03)
-- [Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/) (2026-06-03)
-- [Still facing copyright lawsuits, AI music generator Suno raises another $400M](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/) (2026-06-03)
-- [These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/) (2026-06-03)
-- [GitLab cuts 14% of staff as it scales its platform to serve AI workloads](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/) (2026-06-03)
+- [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/) (2026-06-03)
+- [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) (2026-06-03)
+- [Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/) (2026-06-03)
+- [Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/) (2026-06-03)
+- [Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31) (2026-06-03)
-- [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) (2026-06-03)
-- [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs) (2026-06-03)
-- [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) (2026-06-03)
-- [Shopify Is Down](https://www.shopifystatus.com) (2026-06-03)
+- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/) (2026-06-03)
+- [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/) (2026-06-03)
+- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) (2026-06-03)
+- [Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is) (2026-06-03)
+- [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan) (2026-06-03)
+- [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-06-03)
+- [The best Qi2 batteries for iPhone and Pixel](https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks) (2026-06-03)
+- [As AI gets better, it reveals an empty promise](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) (2026-06-03)
 - [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images) (2026-06-03)
-- [PlayStation is getting back to what it’s good at](https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026) (2026-06-03)
-- [Supernatural isn’t dead after all](https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr) (2026-06-03)
-- [Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280](https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale) (2026-06-03)
-- [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition) (2026-06-03)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How virtual power plants could provide energy for data centers](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/) (2026-06-03)
 - [The Download: Trump’s new AI order, and smart glasses for warfare](https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/) (2026-06-03)
 - [The Download: AI can run your admin department now](https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/) (2026-06-02)
 - [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) (2026-06-02)
 - [How small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) (2026-06-02)
-- [The Download: China’s brain implant ambitions](https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/) (2026-06-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop flattening your typography tokens: Preserving bound aliases in W3C exports](https://dev.to/alexandersstudi/stop-flattening-your-typography-tokens-preserving-bound-aliases-in-w3c-exports-593n) (2026-06-03)
-- [AI Is Not Killing Developers. It’s Doing What We Always Did to Ourselves](https://dev.to/homolibere/ai-is-not-killing-developers-its-doing-what-we-always-did-to-ourselves-bm2) (2026-06-03)
-- [Road To KiwiEngine #8: Why I Built Seltzer Instead of Reaching for Another Framework](https://dev.to/stinklewinks/road-to-kiwiengine-8why-i-built-seltzer-instead-of-reaching-for-another-framework-282b) (2026-06-03)
-- [I paid $0.05 to analyze Notion's competitive position. Here's what an AI agent found in 1.2 seconds.](https://dev.to/trustboost/i-paid-005-to-analyze-notions-competitive-position-heres-what-an-ai-agent-found-in-12-seconds-16mp) (2026-06-03)
-- [Building an Advanced LangChain AI Workflow Automation with LangGraph](https://dev.to/gateofai/building-an-advanced-langchain-ai-workflow-automation-with-langgraph-345o) (2026-06-03)
+- [I changed how I write acceptance criteria, and my AI agent stopped building the wrong thing](https://dev.to/kunalsharda/i-changed-how-i-write-acceptance-criteria-and-my-ai-agent-stopped-building-the-wrong-thing-3j7c) (2026-06-03)
+- [How JavaScript Asynchronous Processing Actually Works](https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d) (2026-06-03)
+- [I built a Rust CLI because I kept forgetting to open my todo app](https://dev.to/gennarobiondi/i-built-a-rust-cli-because-i-kept-forgetting-to-open-my-todo-app-46cc) (2026-06-03)
+- [Multi-Agent AI Is Ready. Your Workflow Infrastructure Isn't.](https://dev.to/datopian/multi-agent-ai-is-ready-your-workflow-infrastructure-isnt-l4c) (2026-06-03)
+- [Why Your Test Suite Starts Failing Six Months Later, and What to Do About It](https://dev.to/orbitpickle307/why-your-test-suite-starts-failing-six-months-later-and-what-to-do-about-it-8gg) (2026-06-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Test Code Nobody Reviews — And Why It Keeps Breaking Your Builds](https://medium.com/@ggupta2005/the-test-code-nobody-reviews-and-why-it-keeps-breaking-your-builds-cc4ace904de4?source=rss------programming-5) (2026-06-03)
-- [How To Build a Claude Dynamic Workflows Better Than 99% of People](https://medium.com/data-science-collective/how-to-build-a-claude-dynamic-workflows-better-than-99-of-people-552b9c4cd09b?source=rss------programming-5) (2026-06-03)
-- [Stop Calling Everything Engineering](https://medium.com/@noorkeshaish/stop-calling-everything-engineering-2b96648de575?source=rss------programming-5) (2026-06-03)
-- [AI vs. Data Science: The Hidden Engine Behind the Hype](https://medium.com/@aadityadav_/ai-vs-data-science-the-hidden-engine-behind-the-hype-08a8864c8a8f?source=rss------programming-5) (2026-06-03)
-- [Neo4j for Engineers Who Already Know Databases](https://joudwawad.medium.com/neo4j-for-engineers-who-already-know-databases-5ddc82a28f20?source=rss------programming-5) (2026-06-03)
+- [The AI System I Built for a $500 Project Ended Up Generating More Revenue Than Some SaaS Products](https://medium.com/@SulemanSafdar/the-ai-system-i-built-for-a-500-project-ended-up-generating-more-revenue-than-some-saas-products-61ea304f3e5b?source=rss------programming-5) (2026-06-03)
+- [Sorting Pandas DataFrames by Column Values](https://giulio-laurenti.medium.com/sorting-pandas-dataframes-by-column-values-951a63c73039?source=rss------programming-5) (2026-06-03)
+- [3 Things I Wish I Knew Before Learning Python](https://medium.com/@harshchandak_61025/3-things-i-wish-i-knew-before-learning-python-b81ae41785ec?source=rss------programming-5) (2026-06-03)
+- [Building a Chat Agent with Local Inference Using Gemma 4 and Go](https://medium.com/@vladimirvivien/building-a-chat-agent-with-local-inference-using-gemma-4-and-go-6a42258622f3?source=rss------programming-5) (2026-06-03)
+- [Setting Up ESLint, Prettier, and CI for a Node.js + TypeScript Project (The Right Way)](https://medium.com/@osmancoder18/setting-up-eslint-prettier-and-ci-for-a-node-js-typescript-project-the-right-way-97cacfeef517?source=rss------programming-5) (2026-06-03)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Update for Apps Distributed in Texas](https://developer.apple.com/news/?id=sg176nne) (2026-06-03)
 - [Apple Developer Centers are expanding to Berlin](https://developer.apple.com/news/?id=f0jfy9py) (2026-06-03)
 - [Introducing the 2026 Apple Design Award winners](https://developer.apple.com/news/?id=vbvsocwh) (2026-06-02)
 - [All systems glow](https://developer.apple.com/news/?id=q7tgn1rr) (2026-06-01)
 - [Get ready with the latest beta releases](https://developer.apple.com/news/?id=tu7pk9oy) (2026-05-26)
-- [Upcoming changes to age ratings in Australia and Vietnam](https://developer.apple.com/news/?id=yrrb45pw) (2026-05-21)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
 - [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
 - [RustWeek 2026: What We Learned, Who We Met, and What’s Next for Rust](https://blog.jetbrains.com/rust/2026/06/03/rustrover-at-rustweek-2026/) (2026-06-03)
 - [Kotlin 2.4.0 Released](https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/) (2026-06-03)
 - [WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/) (2026-06-03)
-- [Toolbox App 3.5: Better Remote Development Observability, More Reliable Enterprise Configuration, and Smoother Everyday Interactions](https://blog.jetbrains.com/toolbox-app/2026/06/toolbox-app-3-5-better-remote-development-observability-more-reliable-enterprise-configuration-and-smoother-everyday-interactions/) (2026-06-02)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Grok Imagine Video 1.5 on AI Gateway](https://vercel.com/changelog/grok-imagine-video-1-5-on-ai-gateway) (2026-06-03)
 - [Edit Git settings for all projects in a repo](https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo) (2026-06-02)
 - [Signed URLs are now available for Vercel Blob](https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob) (2026-06-02)
 - [Elastic Build Machines now protect against out of memory builds](https://vercel.com/changelog/elastic-build-machines-now-protect-against-out-of-memory-builds) (2026-06-01)
 - [Qwen 3.7 Plus now available on AI Gateway](https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway) (2026-06-01)
-- [Vercel Blob now supports OIDC authentication](https://vercel.com/changelog/vercel-blob-now-supports-oidc-authentication) (2026-06-01)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
 - [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
 - [Iran's Internet is partially restored, Cloudflare Radar data shows](https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/) (2026-05-27)
 - [Announcing Claude Compliance API support with Cloudflare CASB](https://blog.cloudflare.com/casb-anthropic-integration/) (2026-05-21)
-- [Announcing Claude Managed Agents on Cloudflare](https://blog.cloudflare.com/claude-managed-agents/) (2026-05-19)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agent Observability with LangSmith, Langfuse, and Arize: A Hands-On Comparison ](https://www.analyticsvidhya.com/blog/2026/06/agent-observability-with-langsmith-langfuse-arize/) (2026-06-03)
 - [How to Use Claude Managed Agents?](https://www.analyticsvidhya.com/blog/2026/06/claude-managed-agents/) (2026-06-02)
 - [Google AI Studio vs Gemini App: What’s the Difference?](https://www.analyticsvidhya.com/blog/2026/06/google-ai-studio-vs-gemini-app/) (2026-06-01)
 - [AI Workflows for Sales Teams: Prospect Research, Lead Qualification, and CRM Updates on Autopilot Using LangGraph  ](https://www.analyticsvidhya.com/blog/2026/05/ai-workflows-for-sales-teams-using-langgraph/) (2026-05-31)
 - [25 Most Influential AI Pioneers to Meet at DataHack Summit 2026](https://www.analyticsvidhya.com/blog/2026/05/25-most-influential-ai-pioneers-to-meet-at-datahack-summit-2026/) (2026-05-29)
-- [Claude Opus 4.8: A Smarter Model in the Right Direction](https://www.analyticsvidhya.com/blog/2026/05/claude-opus-4-8-pricing-and-features/) (2026-05-29)
 
 </details>
 
