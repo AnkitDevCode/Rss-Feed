@@ -20,44 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/) (2026-06-02)
+- [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/) (2026-06-02)
 - [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/) (2026-06-02)
-- [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) (2026-06-02)
+- [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) (2026-06-02)
 - [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/) (2026-06-02)
-- [A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/) (2026-06-02)
-- [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/) (2026-06-02)
-
-</details>
-
-<details>
-<summary>💻 Hacker News</summary>
-
-- [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/) (2026-06-02)
-- [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/) (2026-06-02)
-- [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) (2026-06-02)
-- [HP re-releases classic computer science calculator: The HP-16C](https://hpcalcs.com/product/hp-16c-collectors-edition/) (2026-06-02)
-- [Launch HN: Rudus (YC P26) – AI for concrete contractors](https://news.ycombinator.com/item?id=48374528) (2026-06-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer) (2026-06-02)
+- [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer) (2026-06-02)
+- [Here&#8217;s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026) (2026-06-02)
 - [PlayStation State of Play June 2026: All the news and trailers](https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers) (2026-06-02)
 - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview) (2026-06-02)
-- [Microsoft Build 2026: The 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements) (2026-06-02)
-- [Trump signs executive order to review AI models before they’re released](https://www.theverge.com/policy/941775/trump-ai-executive-order) (2026-06-02)
-- [Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing](https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build) (2026-06-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google announces deepfake call detection for Android, new AirDrop device support](https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/) (2026-06-02)
-- [The truth lies in the past in Silo S3 trailer](https://arstechnica.com/culture/2026/06/the-truth-lies-in-the-past-in-silo-s3-trailer/) (2026-06-02)
-- [Number of suspected Ebola cases falls by hundreds as testing ramps up](https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/) (2026-06-02)
-- [Why a Neo Geo port of Doom is functionally impossible](https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/) (2026-06-02)
-- [In a surprise launch, China debuts another big rocket designed for reusability](https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/) (2026-06-02)
+- [Male bowerbirds hope to dazzle females with bright human-made items](https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/) (2026-06-02)
+- [Microsoft plans Linux tools and an RTX Spark desktop for Windows developers](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/) (2026-06-02)
+- [Microsoft's Project Solara is an Android OS designed for agents instead of apps](https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/) (2026-06-02)
+- [Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says](https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/) (2026-06-02)
+- [If I had a hammer... it might actually be a rhino tooth](https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/) (2026-06-02)
 
 </details>
 
@@ -97,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Kafka for Data Engineers: Core Concepts, KRaft, and the Patterns That Actually Work](https://dev.to/de_clerke/kafka-for-data-engineers-core-concepts-kraft-and-the-patterns-that-actually-work-3d0m) (2026-06-02)
-- [Migrando uma Aplicação Vue 2 Legada de Webpack 2 para Vite: Um Guia Prático Baseado em Problemas Reais](https://dev.to/camilasrody/migrando-uma-aplicacao-vue-2-legada-de-webpack-2-para-vite-um-guia-pratico-baseado-em-problemas-1k1e) (2026-06-02)
-- [5 Angular Features Developers Should Actually Pay Attention to in 2026](https://dev.to/niharikapujari/5-angular-features-developers-should-actually-pay-attention-to-in-2026-1735) (2026-06-02)
-- [How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh) (2026-06-02)
-- [Why My Handwriting Font Didn't Show Up in Microsoft Word](https://dev.to/ramya_thirunavukkarasu_0a/why-my-handwriting-font-didnt-show-up-in-microsoft-word-279j) (2026-06-02)
+- [Harness Base Definition: The Control System Outside the Model](https://dev.to/lien_jp_db54b8b7fd9fa0118/harness-base-definition-the-control-system-outside-the-model-453m) (2026-06-03)
+- [The next AI coding bottleneck is repo understanding](https://dev.to/hefty_69a4c2d631c9dd70724/the-next-ai-coding-bottleneck-is-repo-understanding-4ph3) (2026-06-03)
+- [Under the Hood: Redis Enterprise Cluster](https://dev.to/dakshin_g/under-the-hood-redis-enterprise-cluster-63f) (2026-06-03)
+- [Fitting WhisperX large-v3 + a 24B LLM on one 3090: a reproducible context-capping recipe](https://dev.to/sikamikanikobg/fitting-whisperx-large-v3-a-24b-llm-on-one-3090-a-reproducible-context-capping-recipe-22g0) (2026-06-03)
+- [Getting Started with Vector Databases Using Amazon Aurora PostgreSQL + pgvector](https://dev.to/aws-builders/getting-started-with-vector-databases-using-amazon-aurora-postgresql-pgvector-4go6) (2026-06-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Developer Jobs AI Changed Forever](https://cachecowboy.medium.com/7-developer-jobs-ai-changed-forever-d8c66ef6e214?source=rss------programming-5) (2026-06-02)
-- [I Was Tired of Watching Other People’s Top 10 Lists. So I Built My Own App.](https://medium.com/@27himanshuk/i-was-tired-of-watching-other-peoples-top-10-lists-so-i-built-my-own-app-e8467c856661?source=rss------programming-5) (2026-06-02)
-- [Hi](https://medium.com/@almircuni6/hi-d4de65f32161?source=rss------programming-5) (2026-06-02)
-- [AI coding : How to work smart not hard](https://medium.com/@yassbelk007/ai-coding-how-to-work-smart-not-hard-573b3e7bc7ab?source=rss------programming-5) (2026-06-02)
-- [One Click and My Colleague Stopped the Meeting](https://medium.com/@dev-djon/one-click-and-my-colleague-stopped-the-meeting-6a2113915b1c?source=rss------programming-5) (2026-06-02)
+- [MiniMax M3 Decodes 1M Tokens 15x Faster — and It Shouldn't Be This Cheap](https://pub.towardsai.net/minimax-m3-decodes-1m-tokens-15x-faster-and-it-shouldnt-be-this-cheap-5428f2476957?source=rss------programming-5) (2026-06-03)
+- [Most People Don’t Really Know Where Their Time Goes Online](https://medium.com/@ayushghimire077/most-people-dont-really-know-where-their-time-goes-online-c775c2b67e14?source=rss------programming-5) (2026-06-03)
+- [I Thought It Was a Safe SQL Update — Then 2 million Records Went Sideways](https://awstip.com/i-thought-it-was-a-safe-sql-update-then-2-million-records-went-sideways-f3d124942990?source=rss------programming-5) (2026-06-03)
+- [11 Mistakes Killing Your Programming Career Right Now (And Most Developers Don’t Realize It)](https://medium.com/@baheer224/11-mistakes-killing-your-programming-career-right-now-and-most-developers-dont-realize-it-6895659e0235?source=rss------programming-5) (2026-06-03)
+- [Claude Certified Architect Foundations Guide Part II : EXAM DOMAIN NOTES](https://medium.com/lets-code-future/claude-certified-architect-foundations-guide-part-ii-exam-domain-notes-68360363a102?source=rss------programming-5) (2026-06-03)
 
 </details>
 
@@ -141,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw](https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/) (2026-06-02)
 - [NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local](https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/) (2026-06-02)
 - [Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence](https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/) (2026-06-02)
 - [NVIDIA Jetson Brings Agentic AI to the Physical World](https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/) (2026-06-02)
 - [NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand](https://blogs.nvidia.com/blog/ai-cloud-ecosystem/) (2026-06-01)
-- [NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain](https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/) (2026-06-01)
 
 </details>
 
