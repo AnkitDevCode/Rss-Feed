@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Quick commerce FirstClub doubles valuation to $255M in nine months](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/) (2026-06-04)
+- [Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/) (2026-06-03)
+- [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/) (2026-06-03)
 - [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/) (2026-06-03)
 - [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) (2026-06-03)
-- [Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/) (2026-06-03)
-- [Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/) (2026-06-03)
-- [Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/) (2026-06-03)
-- [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/) (2026-06-03)
-- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) (2026-06-03)
-- [Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is) (2026-06-03)
-- [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) (2026-06-03)
+- [American capitalism has taken an apocalyptic turn](https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn) (2026-06-04)
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/) (2026-06-04)
+- [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc) (2026-06-04)
+- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) (2026-06-04)
+- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) (2026-06-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu) (2026-06-04)
+- [Apple is bringing age verification to Texas this week](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store) (2026-06-03)
+- [WiiM expands its whole-home ecosystem with a new soundbar](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar) (2026-06-03)
 - [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan) (2026-06-03)
 - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-06-03)
-- [The best Qi2 batteries for iPhone and Pixel](https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks) (2026-06-03)
-- [As AI gets better, it reveals an empty promise](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) (2026-06-03)
-- [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images) (2026-06-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Beans use an immune receptor to call in airstrikes on caterpillars](https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/) (2026-06-03)
-- [How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.](https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/) (2026-06-03)
-- [Male bowerbirds prefer to dazzle females with bright human-made items](https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/) (2026-06-02)
-- [Microsoft plans Linux tools and an RTX Spark desktop for Windows developers](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/) (2026-06-02)
-- [Microsoft's Project Solara is an Android OS designed for agents instead of apps](https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/) (2026-06-02)
+- [Flesh-eating screwworm infection confirmed in South Texas, USDA says](https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/) (2026-06-04)
+- [Microsoft, Atom Computing, EeroQ update their quantum computing progress](https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/) (2026-06-03)
+- [Google ordered to put clearer links in AI search and let UK publishers opt out](https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/) (2026-06-03)
+- [Can't make sense of Dashlane's vault theft notification? You're not alone.](https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/) (2026-06-03)
+- [Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/) (2026-06-03)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I changed how I write acceptance criteria, and my AI agent stopped building the wrong thing](https://dev.to/kunalsharda/i-changed-how-i-write-acceptance-criteria-and-my-ai-agent-stopped-building-the-wrong-thing-3j7c) (2026-06-03)
-- [How JavaScript Asynchronous Processing Actually Works](https://dev.to/bysontech_8dd1313811a8895/how-javascript-asynchronous-processing-actually-works-1m1d) (2026-06-03)
-- [I built a Rust CLI because I kept forgetting to open my todo app](https://dev.to/gennarobiondi/i-built-a-rust-cli-because-i-kept-forgetting-to-open-my-todo-app-46cc) (2026-06-03)
-- [Multi-Agent AI Is Ready. Your Workflow Infrastructure Isn't.](https://dev.to/datopian/multi-agent-ai-is-ready-your-workflow-infrastructure-isnt-l4c) (2026-06-03)
-- [Why Your Test Suite Starts Failing Six Months Later, and What to Do About It](https://dev.to/orbitpickle307/why-your-test-suite-starts-failing-six-months-later-and-what-to-do-about-it-8gg) (2026-06-03)
+- [I built/played with two language tools and it changed how I think about “learning vs translating”](https://dev.to/ashley_dd429e3cba38/i-builtplayed-with-two-language-tools-and-it-changed-how-i-think-about-learning-vs-translating-287a) (2026-06-04)
+- [Premium micro-interactions in React 19 (without the jank)](https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b) (2026-06-04)
+- [Configuring CrabPascal with crabpascal.toml | Configurando com crabpascal.toml](https://dev.to/crabpascal/configuring-crabpascal-with-crabpascaltoml-configurando-com-crabpascaltoml-l5c) (2026-06-04)
+- [Building a Resilient Real-Time Chat System with WebRTC, Faye, and WebSockets: A Practical End-to-End](https://dev.to/therizwansaleem/building-a-resilient-real-time-chat-system-with-webrtc-faye-and-websockets-a-practical-end-to-end-5h93) (2026-06-04)
+- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l) (2026-06-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The AI System I Built for a $500 Project Ended Up Generating More Revenue Than Some SaaS Products](https://medium.com/@SulemanSafdar/the-ai-system-i-built-for-a-500-project-ended-up-generating-more-revenue-than-some-saas-products-61ea304f3e5b?source=rss------programming-5) (2026-06-03)
-- [Sorting Pandas DataFrames by Column Values](https://giulio-laurenti.medium.com/sorting-pandas-dataframes-by-column-values-951a63c73039?source=rss------programming-5) (2026-06-03)
-- [3 Things I Wish I Knew Before Learning Python](https://medium.com/@harshchandak_61025/3-things-i-wish-i-knew-before-learning-python-b81ae41785ec?source=rss------programming-5) (2026-06-03)
-- [Building a Chat Agent with Local Inference Using Gemma 4 and Go](https://medium.com/@vladimirvivien/building-a-chat-agent-with-local-inference-using-gemma-4-and-go-6a42258622f3?source=rss------programming-5) (2026-06-03)
-- [Setting Up ESLint, Prettier, and CI for a Node.js + TypeScript Project (The Right Way)](https://medium.com/@osmancoder18/setting-up-eslint-prettier-and-ci-for-a-node-js-typescript-project-the-right-way-97cacfeef517?source=rss------programming-5) (2026-06-03)
+- [Vibe Coding as a Node.js Beginner: How I Use AI to Learn Faster (Without Getting Lost)](https://medium.com/@uyanhewagetr/vibe-coding-as-a-node-js-beginner-how-i-use-ai-to-learn-faster-without-getting-lost-b5f480258a1a?source=rss------programming-5) (2026-06-04)
+- [Day 115 of Learning Java & DSA: Heap Sort Basics](https://medium.com/@payalmehra3522/day-115-of-learning-java-dsa-heap-sort-basics-0d1e55dc584c?source=rss------programming-5) (2026-06-04)
+- [How to Become a Full-Stack Developer Without a Computer Science Degree](https://medium.com/@baheer224/how-to-become-a-full-stack-developer-without-a-computer-science-degree-cbcd0c8b40bf?source=rss------programming-5) (2026-06-04)
+- [What Montessori Fencing Adds](https://medium.com/@9332344/what-montessori-fencing-adds-2dc05c6424c3?source=rss------programming-5) (2026-06-04)
+- [Microsoft Just Dropped 7 New “MAI” Models — And They Built Them From Scratch](https://medium.com/@ruler547/microsoft-just-dropped-7-new-mai-models-and-they-built-them-from-scratch-0b2a6c5ec509?source=rss------programming-5) (2026-06-04)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Improve your application resilience with Amazon Cognito multi-Region replication](https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/) (2026-06-03)
 - [Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/) (2026-06-01)
 - [AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/) (2026-06-01)
 - [Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/) (2026-05-28)
 - [Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/) (2026-05-28)
-- [Meet Our Newest AWS Heroes – May 2026](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/) (2026-05-27)
 
 </details>
 
@@ -304,17 +304,6 @@
 </details>
 
 <details>
-<summary>💎 JetBrains Blog</summary>
-
-- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
-- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
-- [RustWeek 2026: What We Learned, Who We Met, and What’s Next for Rust](https://blog.jetbrains.com/rust/2026/06/03/rustrover-at-rustweek-2026/) (2026-06-03)
-- [Kotlin 2.4.0 Released](https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/) (2026-06-03)
-- [WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/) (2026-06-03)
-
-</details>
-
-<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
@@ -366,37 +355,6 @@
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
 - [Iran's Internet is partially restored, Cloudflare Radar data shows](https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/) (2026-05-27)
 - [Announcing Claude Compliance API support with Cloudflare CASB](https://blog.cloudflare.com/casb-anthropic-integration/) (2026-05-21)
-
-</details>
-
-<details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-How to Deploy a Vibe Coded Project
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
-) (2026-06-02)
-- [
-AI observability vs monitoring: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
-) (2026-06-01)
-- [
-What are AI Agents?
-](
-https://www.twilio.com/en-us/blog/developers/ai-agents-explained
-) (2026-05-27)
-- [
-Script Adherence Using Real-time Conversation Intelligence with Twilio Flex
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/real-time-conversation-intelligence-flex
-) (2026-05-26)
-- [
-How to use email seed list testing effectively
-](
-https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
-) (2026-05-26)
 
 </details>
 
@@ -540,28 +498,6 @@ https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
 - [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
-
-</details>
-
-<details>
-<summary>🤗 Hugging Face</summary>
-
-- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) (2026-06-03)
-- [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) (2026-06-02)
-- [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) (2026-06-01)
-- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) (2026-06-01)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
-- [Walmart’s AI workflows meet the realities of the balance sheet](https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/) (2026-06-03)
-- [Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D](https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/) (2026-06-03)
-- [Anthropic IPO filing marks AI maturing into enterprise utility](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/) (2026-06-02)
-- [GitHub Copilot users see token-based price hikes](https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/) (2026-06-02)
 
 </details>
 
