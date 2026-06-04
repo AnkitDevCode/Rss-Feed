@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/) (2026-06-04)
 - [Quick commerce FirstClub doubles valuation to $255M in nine months](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/) (2026-06-04)
 - [Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/) (2026-06-03)
 - [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/) (2026-06-03)
 - [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/) (2026-06-03)
-- [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [American capitalism has taken an apocalyptic turn](https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn) (2026-06-04)
+- [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/) (2026-06-04)
 - [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/) (2026-06-04)
-- [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc) (2026-06-04)
+- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc) (2026-06-04)
+- [Dumbphone 2](https://dumb.co/) (2026-06-04)
 - [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) (2026-06-04)
-- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) (2026-06-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon develops a warehouse robot workers can speak to](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus) (2026-06-04)
+- [Shokz upgraded its open earbuds with better sound and a lighter design](https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones) (2026-06-04)
 - [Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu) (2026-06-04)
 - [Apple is bringing age verification to Texas this week](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store) (2026-06-03)
 - [WiiM expands its whole-home ecosystem with a new soundbar](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar) (2026-06-03)
-- [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan) (2026-06-03)
-- [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-06-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built/played with two language tools and it changed how I think about “learning vs translating”](https://dev.to/ashley_dd429e3cba38/i-builtplayed-with-two-language-tools-and-it-changed-how-i-think-about-learning-vs-translating-287a) (2026-06-04)
-- [Premium micro-interactions in React 19 (without the jank)](https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b) (2026-06-04)
-- [Configuring CrabPascal with crabpascal.toml | Configurando com crabpascal.toml](https://dev.to/crabpascal/configuring-crabpascal-with-crabpascaltoml-configurando-com-crabpascaltoml-l5c) (2026-06-04)
-- [Building a Resilient Real-Time Chat System with WebRTC, Faye, and WebSockets: A Practical End-to-End](https://dev.to/therizwansaleem/building-a-resilient-real-time-chat-system-with-webrtc-faye-and-websockets-a-practical-end-to-end-5h93) (2026-06-04)
-- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l) (2026-06-04)
+- [AI Integration in Software Development: Addressing Predicted High Costs and Negative Consequences](https://dev.to/maxgeris/ai-integration-in-software-development-addressing-predicted-high-costs-and-negative-consequences-4lli) (2026-06-04)
+- [Improving My OWASP Authentication Failures Write‑Up Using GitHub Copilot](https://dev.to/sujalavnelavai/improving-my-owasp-authentication-failures-write-up-using-github-copilot-309f) (2026-06-04)
+- [Serverless Framework Deployment: Unleash the Power of AWS Lambda](https://dev.to/sahil_khurana_486f374ecf2/serverless-framework-deployment-unleash-the-power-of-aws-lambda-1fed) (2026-06-04)
+- [Navigating the Reorganized CrabPascal Docs | Navegando a documentação Mintlify](https://dev.to/crabpascal/navigating-the-reorganized-crabpascal-docs-navegando-a-documentacao-mintlify-g4j) (2026-06-04)
+- [AI-Assisted QA Changes the Testing Job, Not the Testing Need](https://dev.to/randomsquirrel802/ai-assisted-qa-changes-the-testing-job-not-the-testing-need-3hmh) (2026-06-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Vibe Coding as a Node.js Beginner: How I Use AI to Learn Faster (Without Getting Lost)](https://medium.com/@uyanhewagetr/vibe-coding-as-a-node-js-beginner-how-i-use-ai-to-learn-faster-without-getting-lost-b5f480258a1a?source=rss------programming-5) (2026-06-04)
-- [Day 115 of Learning Java & DSA: Heap Sort Basics](https://medium.com/@payalmehra3522/day-115-of-learning-java-dsa-heap-sort-basics-0d1e55dc584c?source=rss------programming-5) (2026-06-04)
-- [How to Become a Full-Stack Developer Without a Computer Science Degree](https://medium.com/@baheer224/how-to-become-a-full-stack-developer-without-a-computer-science-degree-cbcd0c8b40bf?source=rss------programming-5) (2026-06-04)
-- [What Montessori Fencing Adds](https://medium.com/@9332344/what-montessori-fencing-adds-2dc05c6424c3?source=rss------programming-5) (2026-06-04)
-- [Microsoft Just Dropped 7 New “MAI” Models — And They Built Them From Scratch](https://medium.com/@ruler547/microsoft-just-dropped-7-new-mai-models-and-they-built-them-from-scratch-0b2a6c5ec509?source=rss------programming-5) (2026-06-04)
+- [I Reviewed 100 Spring Boot Projects — Almost Nobody Used These Utility Classes](https://blog.stackademic.com/i-reviewed-100-spring-boot-projects-almost-nobody-used-these-utility-classes-3432bce9ead4?source=rss------programming-5) (2026-06-04)
+- [#4 — “The Infinite Loop of Doom” ♾️](https://medium.com/@vishal_13_/4-the-infinite-loop-of-doom-%EF%B8%8F-f4af5346c8ae?source=rss------programming-5) (2026-06-04)
+- [40 Free Game Development Books Every Developer Should Read in 2026](https://medium.com/@GamineAI_Official/40-free-game-development-books-every-developer-should-read-in-2026-467da0b1076c?source=rss------programming-5) (2026-06-04)
+- [The Engineers Who Are Surviving 2026 Have One Thing in Common](https://blog.stackademic.com/the-engineers-who-are-surviving-2026-have-one-thing-in-common-0bfbb07a6703?source=rss------programming-5) (2026-06-04)
+- ["O-Level modules that reshaped my logical thinking."](https://medium.com/@niharikapathak9219/o-level-modules-that-reshaped-my-logical-thinking-bb7ef228cc45?source=rss------programming-5) (2026-06-04)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
-- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
-- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
-- [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
-- [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
+- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
+- [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
+- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
+- [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
+- [Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/) (2026-06-02)
 
 </details>
 
@@ -304,6 +304,17 @@
 </details>
 
 <details>
+<summary>💎 JetBrains Blog</summary>
+
+- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
+- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
+- [RustWeek 2026: What We Learned, Who We Met, and What’s Next for Rust](https://blog.jetbrains.com/rust/2026/06/03/rustrover-at-rustweek-2026/) (2026-06-03)
+- [Kotlin 2.4.0 Released](https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/) (2026-06-03)
+- [WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
@@ -359,6 +370,37 @@
 </details>
 
 <details>
+<summary>📞 Twilio Blog</summary>
+
+- [
+How to Deploy a Vibe Coded Project
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
+) (2026-06-02)
+- [
+AI observability vs monitoring: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
+) (2026-06-01)
+- [
+What are AI Agents?
+](
+https://www.twilio.com/en-us/blog/developers/ai-agents-explained
+) (2026-05-27)
+- [
+Script Adherence Using Real-time Conversation Intelligence with Twilio Flex
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/real-time-conversation-intelligence-flex
+) (2026-05-26)
+- [
+How to use email seed list testing effectively
+](
+https://www.twilio.com/en-us/blog/insights/email-seed-list-testing
+) (2026-05-26)
+
+</details>
+
+<details>
 <summary>🔐 Auth0 Blog</summary>
 
 - [The Many Faces of OAuth 2.0 Token Exchange](https://auth0.com/blog/the-many-faces-of-oauth2-token-exchange/) (2026-06-03)
@@ -398,7 +440,7 @@
 - [Prisma Next Early Access: Write Your Contract, Prompt Your Agent, Ship Your App](https://www.prisma.io/blog/prisma-next-early-access-write-your-contract-prompt-your-agent-ship-your-app) (2026-05-22)
 - [Agentic Engineering at Prisma](https://www.prisma.io/blog/agentic-engineering-at-prisma) (2026-05-20)
 - [How to use AI coding tools safely and responsibly](https://www.prisma.io/blog/how-to-use-ai-safely-and-responsibly) (2026-05-19)
-- [Prisma Next: April milestone complete, the extension API is open](https://www.prisma.io/blog/prisma-next-roadmap-april-milestone) (2026-05-11)
+- [Your Database Might Not Be the Bottleneck](https://www.prisma.io/blog/your-database-might-not-be-the-bottleneck) (2026-05-12)
 
 </details>
 
@@ -460,11 +502,11 @@
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
 - [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 
 </details>
 
@@ -498,6 +540,28 @@
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
 - [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
+
+</details>
+
+<details>
+<summary>🤗 Hugging Face</summary>
+
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
+- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) (2026-06-03)
+- [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) (2026-06-02)
+- [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) (2026-06-01)
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) (2026-06-01)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
+- [Walmart’s AI workflows meet the realities of the balance sheet](https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/) (2026-06-03)
+- [Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D](https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/) (2026-06-03)
+- [Anthropic IPO filing marks AI maturing into enterprise utility](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/) (2026-06-02)
+- [GitHub Copilot users see token-based price hikes](https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/) (2026-06-02)
 
 </details>
 
