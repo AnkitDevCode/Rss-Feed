@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/) (2026-06-04)
-- [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) (2026-06-04)
-- [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/) (2026-06-04)
-- [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/) (2026-06-04)
-- [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/) (2026-06-04)
+- [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/) (2026-06-05)
+- [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/) (2026-06-04)
+- [Airbnb’s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/) (2026-06-04)
+- [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/) (2026-06-04)
+- [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/) (2026-06-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The desperation of NYTimes](https://rozumem.xyz/posts/16) (2026-06-04)
-- [Sagrada Família Lego set](https://www.lego.com/en-us/product/sagrada-familia-21065) (2026-06-04)
-- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) (2026-06-04)
-- [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html) (2026-06-04)
-- [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN) (2026-06-04)
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) (2026-06-05)
+- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) (2026-06-05)
+- [South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341) (2026-06-04)
+- [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) (2026-06-04)
+- [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881) (2026-06-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Valve says it&#8217;s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified) (2026-06-04)
+- [Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok) (2026-06-04)
+- [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center) (2026-06-04)
+- [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page) (2026-06-04)
 - [Amazon’s new plan for games: James Bond and AI Snoop Dogg](https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna) (2026-06-04)
-- [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller) (2026-06-04)
-- [Cash App made a magic wand for contactless payments](https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch) (2026-06-04)
-- [Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad) (2026-06-04)
-- [Remarkable’s refurbished Paper Pro bundle is hundreds off](https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale) (2026-06-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper](https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/) (2026-06-04)
-- [It doesn't feel very agricultural: The 2026 Subaru Solterra review](https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/) (2026-06-04)
-- [How some data center operators are tackling their water use problems](https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/) (2026-06-04)
-- [My SSN was exposed in a breach at Columbia—a school I have no connection with](https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/) (2026-06-04)
-- [Used Waymo robotaxi batteries become backup storage for power grids](https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/) (2026-06-04)
+- [The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/) (2026-06-04)
+- [AT&T and Verizon lose Supreme Court case over fines for selling location data](https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/) (2026-06-04)
+- [These LLMs are the best at resisting Russian propaganda](https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/) (2026-06-04)
+- [Dashlane explains how attackers managed to download encrypted password vaults](https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/) (2026-06-04)
+- [Elon Musk tries again to escape FTC audits of X data handling](https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/) (2026-06-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A zero-dependency way to generate fantasy character names in Python](https://dev.to/jvancedev/a-zero-dependency-way-to-generate-fantasy-character-names-in-python-5dbm) (2026-06-04)
-- [Your Screen Is a Stage](https://dev.to/khalisollis/your-screen-is-a-stage-46np) (2026-06-04)
-- [Position tooltips and popovers with native CSS — zero runtime JS](https://dev.to/mk668a/position-tooltips-and-popovers-with-native-css-zero-runtime-js-31oo) (2026-06-04)
-- [Catch Visual Bugs Before They Hit Production: Automated Visual Regression Testing for Astro with Diffy and Cloudflare](https://dev.to/ygerasimov/catch-visual-bugs-before-they-hit-production-automated-visual-regression-testing-for-astro-with-21pg) (2026-06-04)
-- [# I built a $9 lifetime app with negligible server interaction — here's the architecture](https://dev.to/hitesh_m_c864380a9c70c417/-i-built-a-9-lifetime-app-with-no-server-heres-the-architecture-1kgo) (2026-06-04)
+- [Qisquiz: A Quiz App for Learning Qiskit v2.X](https://dev.to/doraking/qisquiz-a-quiz-app-for-learning-qiskit-v2x-16pc) (2026-06-05)
+- [The Quiet Threshold](https://dev.to/paifamily/the-quiet-threshold-f1) (2026-06-05)
+- [A11: A Structural Answer to AI Collapse](https://dev.to/__272d48f2ed/a11-a-structural-answer-to-ai-collapse-1ilk) (2026-06-05)
+- [I’m Blown Away by Kamal](https://dev.to/hulkinpublic/im-blown-away-by-kamal-5ann) (2026-06-05)
+- [MCP Servers Are Not the Hard Part](https://dev.to/hefty_69a4c2d631c9dd70724/mcp-servers-are-not-the-hard-part-1e7d) (2026-06-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Ran Postgres and MongoDB Side-by-Side in Production for 18 Months.](https://blog.stackademic.com/i-ran-postgres-and-mongodb-side-by-side-in-production-for-18-months-97bbf5ed893a?source=rss------programming-5) (2026-06-04)
-- [Use AI Smarter, Not Everywhere](https://medium.com/@AymanAlkurdi/use-ai-smarter-not-everywhere-f56e11dec214?source=rss------programming-5) (2026-06-04)
-- [Nvidia RTX Spark - The Moment a Giant Enters a New Battle](https://medium.com/@zughaiarbayan/nvidia-rtx-spark-the-moment-a-giant-enters-a-new-battle-1b9be8331404?source=rss------programming-5) (2026-06-04)
-- [Why WordPress Is Still a Powerful Choice for Modern Websites](https://medium.com/@jbangar/why-wordpress-is-still-a-powerful-choice-for-modern-websites-68bfcac4aec2?source=rss------programming-5) (2026-06-04)
-- [Best Observability Platforms for Modern Startups](https://cachecowboy.medium.com/best-observability-platforms-for-modern-startups-21966a02de41?source=rss------programming-5) (2026-06-04)
+- [Day 116 of Learning Java & DSA: Introduction to Heap Data Structure](https://medium.com/@payalmehra3522/day-116-of-learning-java-dsa-introduction-to-heap-data-structure-c1b2c89b4b22?source=rss------programming-5) (2026-06-05)
+- [Cloud Computing: The Internet’s Invisible Engine](https://medium.com/@vyas.sk17/cloud-computing-the-internets-invisible-engine-fa6db199f7d9?source=rss------programming-5) (2026-06-05)
+- [I Was Just Browsing. Then I Found a Vulnerability That Exposed an Entire Database.](https://medium.com/@saikarthan2/i-was-just-browsing-then-i-found-a-vulnerability-that-exposed-an-entire-database-27fc35926e32?source=rss------programming-5) (2026-06-05)
+- [Anyone Can Call an LLM. Few Can Make It Profitable](https://medium.com/@swapnil.mishra2010/anyone-can-call-an-llm-few-can-make-it-profitable-2532e70a8283?source=rss------programming-5) (2026-06-05)
+- [I Traveled Between Worlds to Solve a Computation — Here’s How Eigenvectors Made It Possible](https://medium.com/@rsaad0067/i-traveled-between-worlds-to-solve-a-computation-heres-how-eigenvectors-made-it-possible-1fee506e8440?source=rss------programming-5) (2026-06-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
-- [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
-- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
-- [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
-- [Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/) (2026-06-02)
+- [Claude Opus 4.8 is now available in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367) (2026-05-29)
+- [Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager](https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/) (2026-05-22)
+- [Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale](https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/) (2026-05-22)
+- [Azure IaaS: Deploy high-performance workloads with a system-level approach](https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/) (2026-05-20)
+- [Azure Files Entra-Only identities: Advancing cloud-native identity and security](https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/) (2026-05-19)
 
 </details>
 
@@ -274,10 +274,10 @@
 <summary>💳 Stripe Blog</summary>
 
 - [New ways to turn global demand into revenue](https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue) (2026-06-04)
+- [The future of agentic commerce is here](https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
+- [Rethinking risk in the age of AI](https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
 - [Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)](https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program) (2026-06-03)
 - [Solo founding is at an all-time high: Top performers have these traits in common](https://stripe.com/blog/top-solo-founder-traits) (2026-05-28)
-- [Expanding Stripe Radar to protect more of your business](https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business) (2026-05-27)
-- [Five vertical SaaS insights from Sessions 2026](https://stripe.com/blog/vertical-saas-insights-sessions-2026) (2026-05-11)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
 - [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
 - [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
 - [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
 - [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
-- [Visual Studio Code 1.120](https://code.visualstudio.com/updates/v1_120) (2026-05-13)
 
 </details>
 
