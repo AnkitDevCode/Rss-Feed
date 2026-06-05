@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [NSA said to be readying Anthropic’s Mythos for use in cyber operations](https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/) (2026-06-05)
-- [AirTrunk commits $30B to build 5GW of AI data centers in India](https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/) (2026-06-05)
-- [Mira Murati steps back into the spotlight, carefully](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/) (2026-06-05)
-- [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/) (2026-06-05)
-- [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/) (2026-06-04)
+- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) (2026-06-05)
+- [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/) (2026-06-05)
+- [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/) (2026-06-05)
+- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/) (2026-06-05)
+- [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ad Blocker Test – Check If Your Ad Blocker Works](https://adblock.turtlecute.org/) (2026-06-05)
-- [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2) (2026-06-05)
-- [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers) (2026-06-05)
-- [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy) (2026-06-05)
-- [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat) (2026-06-05)
+- [GitHub Accidentally Deletes Slack and Teams Subscriptions](https://www.githubstatus.com/incidents/2nmfnbknhlnv) (2026-06-05)
+- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273) (2026-06-05)
+- [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ) (2026-06-05)
+- [Cloudflare CEO Is Lying to You About the Bot Traffic Jump](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/) (2026-06-05)
+- [Sakana AI's Recursive Self-Improvement (RSI) Lab](https://sakana.ai/rsi-lab/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [MAHA wants to make cotton the new beef tallow](https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics) (2026-06-05)
-- [What do you mean my new smart scale is ‘built for GLP-1 users’?](https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health) (2026-06-05)
-- [This AI startup says it can tell if a script will make a hit film](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood) (2026-06-05)
-- [Why isn’t the Trump phone made in the USA?](https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china) (2026-06-05)
-- [This chunky little tablet got my kid to clean up his toys](https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review) (2026-06-05)
+- [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes) (2026-06-05)
+- [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale) (2026-06-05)
+- [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast) (2026-06-05)
+- [What happens when your phone is confiscated at the airport](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists) (2026-06-05)
+- [New York lawmakers pass one-year ban on new data centers](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) (2026-06-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Steve Jobs in Exile is a fine profile of Jobs' years at NeXT](https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/) (2026-06-05)
-- [Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549](https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/) (2026-06-05)
-- [The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/) (2026-06-04)
-- [AT&T and Verizon lose Supreme Court case over fines for selling location data](https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/) (2026-06-04)
-- [These LLMs are the best at resisting Russian propaganda](https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/) (2026-06-04)
+- [S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-05)
+- ["We pissed off a lot of people": Giant data center plan cut 50% amid protests](https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/) (2026-06-05)
+- [Review: Spider-Noir recaptures the magic of a bygone era](https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/) (2026-06-05)
+- [Trump admin tries again to revive dying coal industry](https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/) (2026-06-05)
+- [The Fitbit Air is a good wearable weighed down by a chatty AI "coach"](https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/) (2026-06-05)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Told Ya Guys. AI? We are too poor to afford it.](https://dev.to/ryo_suwito/i-told-ya-guys-ai-we-are-too-poor-to-afford-it-4mch) (2026-06-05)
-- [10 GitHub Repos That Replace Your Paid Dev Tools (2026)](https://dev.to/hirak8/10-github-repos-that-replace-your-paid-dev-tools-2026-5e4c) (2026-06-05)
-- [GPU Incident at 3am: eBPF Tracing from Page to Root Cause in 60 Seconds](https://dev.to/ingero/gpu-incident-at-3am-ebpf-tracing-from-page-to-root-cause-in-60-seconds-pm5) (2026-06-05)
-- [Finishing HELIX: Building an AI-Powered Space Operations Intelligence Platform with GitHub Copilot](https://dev.to/agastya_khati_f72c89077c8/finishing-helix-building-an-ai-powered-space-operations-intelligence-platform-with-github-copilot-nj4) (2026-06-05)
-- [How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages](https://dev.to/clarencyuboop/how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages-44j1) (2026-06-05)
+- [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf) (2026-06-05)
+- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje) (2026-06-05)
+- [How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm) (2026-06-05)
+- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd) (2026-06-05)
+- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8) (2026-06-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [عنوان المقال: فك شفرة التكنولوجيا: ما هي الهندسة العكسية وكيف تُغير قواعد اللعبة؟](https://medium.com/@onepunchman1/%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84-%D9%81%D9%83-%D8%B4%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B9%D9%83%D8%B3%D9%8A%D8%A9-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D9%8F%D8%BA%D9%8A%D8%B1-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%84%D8%B9%D8%A8%D8%A9-bfb56d4af43b?source=rss------programming-5) (2026-06-05)
-- [How HTTP Servers Work: A Practical Guide with Python](https://medium.com/@otmaniredha02/how-http-servers-work-a-practical-guide-with-python-e2612802ac0a?source=rss------programming-5) (2026-06-05)
-- [NVIDIA Nemotron 3 Ultra: NVIDIA’s Open-Model Push Into the Agentic AI Era](https://medium.com/@fahey_james/nvidia-nemotron-3-ultra-nvidias-open-model-push-into-the-agentic-ai-era-b76a964775d3?source=rss------programming-5) (2026-06-05)
-- [The Two-Tier AI Skills Library](https://medium.com/@ksbennet/the-two-tier-ai-skills-library-a9dce9989313?source=rss------programming-5) (2026-06-05)
-- [From Zero to Three Projects: What My Python Internship Taught Me About Building Real Software](https://medium.com/@dhrutimovaliya396/from-zero-to-three-projects-what-my-python-internship-taught-me-about-building-real-software-98d385f84404?source=rss------programming-5) (2026-06-05)
+- [I Used Vibe Coding for 90 Days. The Code Quality Was Better Than I Expected.](https://blog.stackademic.com/i-used-vibe-coding-for-90-days-649859efd10e?source=rss------programming-5) (2026-06-05)
+- [Designer, Web Presence & Platform / Remote locations Remote in United States](https://medium.com/@blacktigercom3/designer-web-presence-platform-remote-locations-remote-in-united-states-e2e87ca19adc?source=rss------programming-5) (2026-06-05)
+- [Beyond the Hype: How Generative AI is Redefining the Software Development Life Cycle (SDLC) in 2026](https://medium.com/@rameshkumarsharma0598/beyond-the-hype-how-generative-ai-is-redefining-the-software-development-life-cycle-sdlc-in-2026-cc0e295bc0ca?source=rss------programming-5) (2026-06-05)
+- [Command Pattern Through Banking Systems](https://medium.com/@replytopramods.aws/command-pattern-through-banking-systems-a50491b11df9?source=rss------programming-5) (2026-06-05)
+- [I Was Supposed to Fix Bugs. I Accidentally Built a Ghost Driver Detector Instead. PC Workman 1.7.8](https://medium.com/@MarcinFirmuga/i-was-supposed-to-fix-bugs-i-accidentally-built-a-ghost-driver-detector-instead-pc-workman-1-7-8-395c7b927f8f?source=rss------programming-5) (2026-06-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) (2026-06-05)
 - [Improve your application resilience with Amazon Cognito multi-Region replication](https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/) (2026-06-03)
 - [Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/) (2026-06-01)
 - [AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/) (2026-06-01)
 - [Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/) (2026-05-28)
-- [Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/) (2026-05-28)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 - [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) (2026-06-04)
 - [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/) (2026-06-03)
 - [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/) (2026-06-02)
 - [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/) (2026-06-01)
-- [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/) (2026-06-01)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [The skills.sh API is now available](https://vercel.com/changelog/the-skills-sh-api-is-now-available) (2026-06-05)
 - [Updates to Legal Terms](https://vercel.com/changelog/updates-to-legal-terms-june-2026) (2026-06-04)
 - [Nemotron 3 Ultra now available on AI Gateway](https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway) (2026-06-04)
-- [Grok Imagine Video 1.5 on AI Gateway](https://vercel.com/changelog/grok-imagine-video-1-5-on-ai-gateway) (2026-06-03)
-- [Edit Git settings for all projects in a repo](https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo) (2026-06-02)
-- [Signed URLs are now available for Vercel Blob](https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob) (2026-06-02)
+- [Build and deploy Shopify storefronts on Vercel](https://vercel.com/changelog/build-and-deploy-shopify-storefronts-on-vercel) (2026-06-04)
+- [Trace any Vercel request from the CLI](https://vercel.com/changelog/trace-any-vercel-request-from-the-cli) (2026-06-03)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server](https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/) (2026-06-05)
+- [The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy](https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/) (2026-06-05)
 - [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) (2026-06-05)
 - [How to Fine-Tune an SLM for Emotion Recognition](https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/) (2026-06-05)
 - [How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI](https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/) (2026-06-04)
-- [Five Ways to Fine-Tune Chronos-2, the Time Series Foundation Model](https://towardsdatascience.com/five-ways-to-fine-tune-chronos-2-the-time-series-foundation-model/) (2026-06-04)
-- [Small Data, Big Maps: Training Geospatial ML Models When Samples Are Scarce](https://towardsdatascience.com/small-data-big-maps-training-geospatial-ml-models-when-samples-are-scarce/) (2026-06-04)
 
 </details>
 
