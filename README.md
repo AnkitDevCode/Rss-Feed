@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-06)
-- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/) (2026-06-06)
-- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode) (2026-06-06)
-- [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) (2026-06-06)
-- [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827) (2026-06-06)
+- [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/) (2026-06-06)
+- [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) (2026-06-06)
+- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) (2026-06-06)
+- [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/) (2026-06-06)
+- [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/) (2026-06-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Kabuto Park captures the fleeting joy of summer vacation](https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam) (2026-06-06)
+- [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini) (2026-06-06)
+- [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer) (2026-06-06)
 - [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel) (2026-06-05)
 - [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest) (2026-06-05)
-- [Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement) (2026-06-05)
-- [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on) (2026-06-05)
-- [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte) (2026-06-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) (2026-06-06)
 - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) (2026-06-05)
 - [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (2026-06-05)
 - [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) (2026-06-05)
 - [The saga of the International Space Station air leak took a worrying turn Friday](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/) (2026-06-05)
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Anthropic Actually Said About AI Building Itself](https://dev.to/arjun_adhikari_4ac4ca1052/what-anthropic-actually-said-about-ai-building-itself-4419) (2026-06-06)
-- [When Regex Fails: Using LLMs to Extract Structured Data from Messy Pages](https://dev.to/__c1b9e06dc90a7e0a676b/when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages-2mbg) (2026-06-06)
-- [Real-time Stripe monitoring that never leaves your browser](https://dev.to/lightseong/real-time-stripe-monitoring-that-never-leaves-your-browser-48oh) (2026-06-06)
-- [Gemini Model Management: Ending Inefficiency! The Secret to 3x Faster Cost Tracking with Model Registry](https://dev.to/junhee916/gemini-model-management-ending-inefficiency-the-secret-to-3x-faster-cost-tracking-with-model-2gig) (2026-06-06)
-- [I tested whether a code health score actually predicts bugs. Here's the benchmark](https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl) (2026-06-06)
+- [Supabase basics with Node.js](https://dev.to/zsevic/supabase-basics-with-nodejs-31) (2026-06-06)
+- [How I Added a Razorpay Paywall to My React App in 10 Minutes](https://dev.to/iamadhitya/how-i-added-a-razorpay-paywall-to-my-react-app-in-10-minutes-1ca8) (2026-06-06)
+- [Harness Engineering — The Quality Pillar of Agentic Engineering](https://dev.to/mjcs/harness-engineering-the-quality-pillar-of-agentic-engineering-31e0) (2026-06-06)
+- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975) (2026-06-06)
+- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed) (2026-06-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The webhook signature matched in Postman. Staging still returned 401.](https://medium.com/@marsdiscovery123/the-webhook-signature-matched-in-postman-staging-still-returned-401-4feaed721c63?source=rss------programming-5) (2026-06-06)
-- [My Journey From Tutorial Addiction to Real-World Building](https://medium.com/codetodeploy/my-journey-from-tutorial-addiction-to-real-world-building-16227747706f?source=rss------programming-5) (2026-06-06)
-- [Why I’m Documenting My Journey: Coding, Learning, and Building](https://medium.com/@rwankhede0801/why-im-documenting-my-journey-coding-learning-and-building-1c5bbbc60f5e?source=rss------programming-5) (2026-06-06)
-- [Claude Code vs the rest. Here’s who actually does the work.](https://medium.com/@Jeroenvier/claude-code-vs-the-rest-heres-who-actually-does-the-work-b179bfdebcae?source=rss------programming-5) (2026-06-06)
-- [Using AI to Defend 5000 Years of Scriptures.](https://medium.com/@devishwas5/using-ai-to-defend-5000-years-of-scriptures-c2caf31c7ad2?source=rss------programming-5) (2026-06-06)
+- [The Hardest Part of Programming Has Nothing To Do With Code](https://elshad-karimov.medium.com/the-hardest-part-of-programming-has-nothing-to-do-with-code-c2716d4431c9?source=rss------programming-5) (2026-06-06)
+- [These 15 Python Problems Show Up In Almost Every Data Engineering Interview](https://medium.com/@bvsarathc06/these-15-python-problems-show-up-in-almost-every-data-engineering-interview-7eaf870d2881?source=rss------programming-5) (2026-06-06)
+- [AI Made Me 10x Faster. Then Everything Broke.](https://medium.com/@komalbaparmar007/ai-made-me-10x-faster-then-everything-broke-a546bc8eb06e?source=rss------programming-5) (2026-06-06)
+- [AI Coding Agents Are Overhyped, But Not Useless](https://keesan.medium.com/ai-coding-agents-are-overhyped-but-not-useless-d04bbca0c2c2?source=rss------programming-5) (2026-06-06)
+- [One Laptop. One Connection. Every Website on Your Server — Gone in 60 Seconds.](https://medium.com/@jazzcybershield/one-laptop-one-connection-every-website-on-your-server-gone-in-60-seconds-4f52216e1dce?source=rss------programming-5) (2026-06-06)
 
 </details>
 
@@ -304,6 +304,17 @@
 </details>
 
 <details>
+<summary>💎 JetBrains Blog</summary>
+
+- [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
+- [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
+- [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
+- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
+- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
@@ -355,6 +366,37 @@
 - [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
 - [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
+
+</details>
+
+<details>
+<summary>📞 Twilio Blog</summary>
+
+- [
+Building with AI? Why You Should Connect Twilio's AI Skills
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
+) (2026-06-05)
+- [
+Conversational AI vs generative AI: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
+) (2026-06-04)
+- [
+How to build and deploy Conversational AI (the right way)
+](
+https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
+) (2026-06-03)
+- [
+How to Deploy a Vibe Coded Project
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
+) (2026-06-02)
+- [
+AI observability vs monitoring: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
+) (2026-06-01)
 
 </details>
 
@@ -460,11 +502,11 @@
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
 - [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 
 </details>
 
@@ -502,13 +544,24 @@
 </details>
 
 <details>
+<summary>🤗 Hugging Face</summary>
+
+- [Persona Atlas: Mapping How Famous Minds Think](https://huggingface.co/blog/build-small-hackathon/persona-atlas) (2026-06-06)
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
+- [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [My SciPy ODE Solver Was Killing My Bayesian Inference: A Cosmologist’s Honest Account of Discovering Diffrax](https://towardsdatascience.com/my-scipy-ode-solver-was-killing-my-bayesian-inference-a-cosmologists-honest-account-of-discovering-diffrax/) (2026-06-06)
 - [My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server](https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/) (2026-06-05)
 - [The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy](https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/) (2026-06-05)
 - [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) (2026-06-05)
 - [How to Fine-Tune an SLM for Emotion Recognition](https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/) (2026-06-05)
-- [How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI](https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/) (2026-06-04)
 
 </details>
 
