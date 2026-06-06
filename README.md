@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/) (2026-06-06)
-- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) (2026-06-06)
-- [Nordstjernen Web Browser 1.0.0 released](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0) (2026-06-05)
-- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html) (2026-06-05)
-- [Transformers are inherently succinct](https://openreview.net/pdf?id=Yxz92UuPLQ) (2026-06-05)
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-06)
+- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/) (2026-06-06)
+- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode) (2026-06-06)
+- [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) (2026-06-06)
+- [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827) (2026-06-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Hidden Contract of Mastery: Why Complexity Is Yours to Absorb](https://dev.to/lanternproton/the-hidden-contract-of-mastery-why-complexity-is-yours-to-absorb-5kf) (2026-06-06)
-- [An AI agent just paid a Lightning invoice. The agent only holds USDC.](https://dev.to/tufti/an-ai-agent-just-paid-a-lightning-invoice-the-agent-only-holds-usdc-246m) (2026-06-06)
-- [Self-hosted low-code + open LLMs (DeepSeek/Qwen/GLM): real enterprise apps in 5 min](https://dev.to/cpengc1984/self-hosted-low-code-open-llms-deepseekqwenglm-real-enterprise-apps-in-5-min-27dh) (2026-06-06)
-- [Stop Inventing Your Own API Error Format: Use RFC 9457 Problem Details](https://dev.to/apikumo/stop-inventing-your-own-api-error-format-use-rfc-9457-problem-details-4hma) (2026-06-06)
-- [How I stopped fighting with AI APIs and built a clean integration layer](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-fighting-with-ai-apis-and-built-a-clean-integration-layer-58m5) (2026-06-06)
+- [What Anthropic Actually Said About AI Building Itself](https://dev.to/arjun_adhikari_4ac4ca1052/what-anthropic-actually-said-about-ai-building-itself-4419) (2026-06-06)
+- [When Regex Fails: Using LLMs to Extract Structured Data from Messy Pages](https://dev.to/__c1b9e06dc90a7e0a676b/when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages-2mbg) (2026-06-06)
+- [Real-time Stripe monitoring that never leaves your browser](https://dev.to/lightseong/real-time-stripe-monitoring-that-never-leaves-your-browser-48oh) (2026-06-06)
+- [Gemini Model Management: Ending Inefficiency! The Secret to 3x Faster Cost Tracking with Model Registry](https://dev.to/junhee916/gemini-model-management-ending-inefficiency-the-secret-to-3x-faster-cost-tracking-with-model-2gig) (2026-06-06)
+- [I tested whether a code health score actually predicts bugs. Here's the benchmark](https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl) (2026-06-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [NETWORKING BOOTCAMP](https://medium.com/@ngobij576/networking-bootcamp-22613ef4433b?source=rss------programming-5) (2026-06-06)
-- [The Algorithmic Renaissance: How AI Agents Are Rewriting the Digital World](https://medium.com/pen-with-paper/the-algorithmic-renaissance-how-ai-agents-are-rewriting-the-digital-world-c643c77339ae?source=rss------programming-5) (2026-06-06)
-- [Day 27: Think 777 Gives Full Access?](https://pawannatekar220.medium.com/day-27-think-777-gives-full-access-c066537d2a79?source=rss------programming-5) (2026-06-06)
-- [Space and Technology: How Innovation Is Shaping Humanity's Future Beyond Earth](https://medium.com/@saleem60maik/space-and-technology-how-innovation-is-shaping-humanitys-future-beyond-earth-319c65e630e8?source=rss------programming-5) (2026-06-06)
-- [Hellllllooo,Day 14 of E-Vex daily English its 4:44AM today was a very productive day I am happy.](https://medium.com/@raiedaleve/hellllllooo-day-14-of-e-vex-daily-english-its-4-44am-today-was-a-very-productive-day-i-am-happy-829906d44fca?source=rss------programming-5) (2026-06-06)
+- [The webhook signature matched in Postman. Staging still returned 401.](https://medium.com/@marsdiscovery123/the-webhook-signature-matched-in-postman-staging-still-returned-401-4feaed721c63?source=rss------programming-5) (2026-06-06)
+- [My Journey From Tutorial Addiction to Real-World Building](https://medium.com/codetodeploy/my-journey-from-tutorial-addiction-to-real-world-building-16227747706f?source=rss------programming-5) (2026-06-06)
+- [Why I’m Documenting My Journey: Coding, Learning, and Building](https://medium.com/@rwankhede0801/why-im-documenting-my-journey-coding-learning-and-building-1c5bbbc60f5e?source=rss------programming-5) (2026-06-06)
+- [Claude Code vs the rest. Here’s who actually does the work.](https://medium.com/@Jeroenvier/claude-code-vs-the-rest-heres-who-actually-does-the-work-b179bfdebcae?source=rss------programming-5) (2026-06-06)
+- [Using AI to Defend 5000 Years of Scriptures.](https://medium.com/@devishwas5/using-ai-to-defend-5000-years-of-scriptures-c2caf31c7ad2?source=rss------programming-5) (2026-06-06)
 
 </details>
 
@@ -304,17 +304,6 @@
 </details>
 
 <details>
-<summary>💎 JetBrains Blog</summary>
-
-- [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
-- [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
-- [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
-- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
-- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
-
-</details>
-
-<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
@@ -366,37 +355,6 @@
 - [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
 - [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
-
-</details>
-
-<details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-Conversational AI vs generative AI: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
-) (2026-06-04)
-- [
-How to build and deploy Conversational AI (the right way)
-](
-https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
-) (2026-06-03)
-- [
-How to Deploy a Vibe Coded Project
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
-) (2026-06-02)
-- [
-AI observability vs monitoring: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
-) (2026-06-01)
-- [
-What are AI Agents?
-](
-https://www.twilio.com/en-us/blog/developers/ai-agents-explained
-) (2026-05-27)
 
 </details>
 
@@ -502,11 +460,11 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 <details>
 <summary>💬 Slack API</summary>
 
-- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
 - [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 
 </details>
 
@@ -540,28 +498,6 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
 - [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
-
-</details>
-
-<details>
-<summary>🤗 Hugging Face</summary>
-
-- [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) (2026-06-05)
-- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
-- [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
-- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
-- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
-- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
-- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
-- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
-- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
 
 </details>
 
