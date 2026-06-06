@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/) (2026-06-05)
+- [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/) (2026-06-05)
+- [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/) (2026-06-05)
+- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/) (2026-06-05)
 - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) (2026-06-05)
-- [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/) (2026-06-05)
-- [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/) (2026-06-05)
-- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/) (2026-06-05)
-- [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GitHub Accidentally Deletes Slack and Teams Subscriptions](https://www.githubstatus.com/incidents/2nmfnbknhlnv) (2026-06-05)
-- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273) (2026-06-05)
-- [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ) (2026-06-05)
-- [Cloudflare CEO Is Lying to You About the Bot Traffic Jump](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/) (2026-06-05)
-- [Sakana AI's Recursive Self-Improvement (RSI) Lab](https://sakana.ai/rsi-lab/) (2026-06-05)
+- [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/) (2026-06-06)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) (2026-06-06)
+- [Nordstjernen Web Browser 1.0.0 released](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0) (2026-06-05)
+- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html) (2026-06-05)
+- [Transformers are inherently succinct](https://openreview.net/pdf?id=Yxz92UuPLQ) (2026-06-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes) (2026-06-05)
-- [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale) (2026-06-05)
-- [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast) (2026-06-05)
-- [What happens when your phone is confiscated at the airport](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists) (2026-06-05)
-- [New York lawmakers pass one-year ban on new data centers](https://www.theverge.com/policy/944041/new-york-data-center-moratorium) (2026-06-05)
+- [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel) (2026-06-05)
+- [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest) (2026-06-05)
+- [Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement) (2026-06-05)
+- [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on) (2026-06-05)
+- [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte) (2026-06-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-05)
-- ["We pissed off a lot of people": Giant data center plan cut 50% amid protests](https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/) (2026-06-05)
-- [Review: Spider-Noir recaptures the magic of a bygone era](https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/) (2026-06-05)
-- [Trump admin tries again to revive dying coal industry](https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/) (2026-06-05)
-- [The Fitbit Air is a good wearable weighed down by a chatty AI "coach"](https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/) (2026-06-05)
+- [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) (2026-06-05)
+- [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (2026-06-05)
+- [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) (2026-06-05)
+- [The saga of the International Space Station air leak took a worrying turn Friday](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/) (2026-06-05)
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf) (2026-06-05)
-- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje) (2026-06-05)
-- [How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm) (2026-06-05)
-- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd) (2026-06-05)
-- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8) (2026-06-05)
+- [The Hidden Contract of Mastery: Why Complexity Is Yours to Absorb](https://dev.to/lanternproton/the-hidden-contract-of-mastery-why-complexity-is-yours-to-absorb-5kf) (2026-06-06)
+- [An AI agent just paid a Lightning invoice. The agent only holds USDC.](https://dev.to/tufti/an-ai-agent-just-paid-a-lightning-invoice-the-agent-only-holds-usdc-246m) (2026-06-06)
+- [Self-hosted low-code + open LLMs (DeepSeek/Qwen/GLM): real enterprise apps in 5 min](https://dev.to/cpengc1984/self-hosted-low-code-open-llms-deepseekqwenglm-real-enterprise-apps-in-5-min-27dh) (2026-06-06)
+- [Stop Inventing Your Own API Error Format: Use RFC 9457 Problem Details](https://dev.to/apikumo/stop-inventing-your-own-api-error-format-use-rfc-9457-problem-details-4hma) (2026-06-06)
+- [How I stopped fighting with AI APIs and built a clean integration layer](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-fighting-with-ai-apis-and-built-a-clean-integration-layer-58m5) (2026-06-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Used Vibe Coding for 90 Days. The Code Quality Was Better Than I Expected.](https://blog.stackademic.com/i-used-vibe-coding-for-90-days-649859efd10e?source=rss------programming-5) (2026-06-05)
-- [Designer, Web Presence & Platform / Remote locations Remote in United States](https://medium.com/@blacktigercom3/designer-web-presence-platform-remote-locations-remote-in-united-states-e2e87ca19adc?source=rss------programming-5) (2026-06-05)
-- [Beyond the Hype: How Generative AI is Redefining the Software Development Life Cycle (SDLC) in 2026](https://medium.com/@rameshkumarsharma0598/beyond-the-hype-how-generative-ai-is-redefining-the-software-development-life-cycle-sdlc-in-2026-cc0e295bc0ca?source=rss------programming-5) (2026-06-05)
-- [Command Pattern Through Banking Systems](https://medium.com/@replytopramods.aws/command-pattern-through-banking-systems-a50491b11df9?source=rss------programming-5) (2026-06-05)
-- [I Was Supposed to Fix Bugs. I Accidentally Built a Ghost Driver Detector Instead. PC Workman 1.7.8](https://medium.com/@MarcinFirmuga/i-was-supposed-to-fix-bugs-i-accidentally-built-a-ghost-driver-detector-instead-pc-workman-1-7-8-395c7b927f8f?source=rss------programming-5) (2026-06-05)
+- [NETWORKING BOOTCAMP](https://medium.com/@ngobij576/networking-bootcamp-22613ef4433b?source=rss------programming-5) (2026-06-06)
+- [The Algorithmic Renaissance: How AI Agents Are Rewriting the Digital World](https://medium.com/pen-with-paper/the-algorithmic-renaissance-how-ai-agents-are-rewriting-the-digital-world-c643c77339ae?source=rss------programming-5) (2026-06-06)
+- [Day 27: Think 777 Gives Full Access?](https://pawannatekar220.medium.com/day-27-think-777-gives-full-access-c066537d2a79?source=rss------programming-5) (2026-06-06)
+- [Space and Technology: How Innovation Is Shaping Humanity's Future Beyond Earth](https://medium.com/@saleem60maik/space-and-technology-how-innovation-is-shaping-humanitys-future-beyond-earth-319c65e630e8?source=rss------programming-5) (2026-06-06)
+- [Hellllllooo,Day 14 of E-Vex daily English its 4:44AM today was a very productive day I am happy.](https://medium.com/@raiedaleve/hellllllooo-day-14-of-e-vex-daily-english-its-4-44am-today-was-a-very-productive-day-i-am-happy-829906d44fca?source=rss------programming-5) (2026-06-06)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Drives for Vercel Sandbox in Private Beta](https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta) (2026-06-05)
 - [The skills.sh API is now available](https://vercel.com/changelog/the-skills-sh-api-is-now-available) (2026-06-05)
 - [Updates to Legal Terms](https://vercel.com/changelog/updates-to-legal-terms-june-2026) (2026-06-04)
 - [Nemotron 3 Ultra now available on AI Gateway](https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway) (2026-06-04)
 - [Build and deploy Shopify storefronts on Vercel](https://vercel.com/changelog/build-and-deploy-shopify-storefronts-on-vercel) (2026-06-04)
-- [Trace any Vercel request from the CLI](https://vercel.com/changelog/trace-any-vercel-request-from-the-cli) (2026-06-03)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
 - [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
 - [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
 - [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
 - [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
-- [Group Communication: Types, Challenges, and Strategies](https://slack.com/blog/collaboration/group-communication) (2026-05-21)
 
 </details>
 
@@ -546,11 +546,22 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) (2026-06-05)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
 - [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) (2026-06-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
+- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
+- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
+- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
+- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
 
 </details>
 
