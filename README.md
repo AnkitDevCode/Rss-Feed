@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) (2026-06-06)
+- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/) (2026-06-06)
+- [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) (2026-06-06)
+- [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/) (2026-06-06)
 - [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/) (2026-06-05)
-- [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/) (2026-06-05)
-- [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/) (2026-06-05)
-- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/) (2026-06-05)
-- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/) (2026-06-06)
-- [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) (2026-06-06)
-- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) (2026-06-06)
-- [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/) (2026-06-06)
-- [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/) (2026-06-06)
+- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) (2026-06-06)
+- [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565) (2026-06-06)
+- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives) (2026-06-06)
+- [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241) (2026-06-06)
+- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638) (2026-06-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kabuto Park captures the fleeting joy of summer vacation](https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam) (2026-06-06)
-- [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini) (2026-06-06)
-- [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer) (2026-06-06)
-- [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel) (2026-06-05)
-- [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest) (2026-06-05)
+- [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers) (2026-06-06)
+- [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun) (2026-06-06)
+- [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers) (2026-06-06)
+- [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026) (2026-06-06)
+- [4K Blu-rays are three for $33 ahead of Father’s Day](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale) (2026-06-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Supabase basics with Node.js](https://dev.to/zsevic/supabase-basics-with-nodejs-31) (2026-06-06)
-- [How I Added a Razorpay Paywall to My React App in 10 Minutes](https://dev.to/iamadhitya/how-i-added-a-razorpay-paywall-to-my-react-app-in-10-minutes-1ca8) (2026-06-06)
-- [Harness Engineering — The Quality Pillar of Agentic Engineering](https://dev.to/mjcs/harness-engineering-the-quality-pillar-of-agentic-engineering-31e0) (2026-06-06)
-- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975) (2026-06-06)
-- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed) (2026-06-06)
+- [Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, Vercel](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4) (2026-06-06)
+- [The 4-Layer Magento 2 AEO Stack: Making Your Store Visible to ChatGPT, Claude & Gemini (2026)](https://dev.to/angeo/the-4-layer-magento-2-aeo-stack-making-your-store-visible-to-chatgpt-claude-gemini-2026-bjd) (2026-06-06)
+- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog) (2026-06-06)
+- [Neura-FA-EN-1.9B: The Lightweight Bilingual Model That Changed My Local AI Workflow](https://dev.to/outis_escobar_788cd68ec5e/neura-fa-en-19b-the-lightweight-bilingual-model-that-changed-my-local-ai-workflow-m07) (2026-06-06)
+- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln) (2026-06-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Hardest Part of Programming Has Nothing To Do With Code](https://elshad-karimov.medium.com/the-hardest-part-of-programming-has-nothing-to-do-with-code-c2716d4431c9?source=rss------programming-5) (2026-06-06)
-- [These 15 Python Problems Show Up In Almost Every Data Engineering Interview](https://medium.com/@bvsarathc06/these-15-python-problems-show-up-in-almost-every-data-engineering-interview-7eaf870d2881?source=rss------programming-5) (2026-06-06)
-- [AI Made Me 10x Faster. Then Everything Broke.](https://medium.com/@komalbaparmar007/ai-made-me-10x-faster-then-everything-broke-a546bc8eb06e?source=rss------programming-5) (2026-06-06)
-- [AI Coding Agents Are Overhyped, But Not Useless](https://keesan.medium.com/ai-coding-agents-are-overhyped-but-not-useless-d04bbca0c2c2?source=rss------programming-5) (2026-06-06)
-- [One Laptop. One Connection. Every Website on Your Server — Gone in 60 Seconds.](https://medium.com/@jazzcybershield/one-laptop-one-connection-every-website-on-your-server-gone-in-60-seconds-4f52216e1dce?source=rss------programming-5) (2026-06-06)
+- [Redis Mistakes That Are Quietly Killing Your App’s Performance](https://towardsdev.com/redis-mistakes-that-are-quietly-killing-your-apps-performance-80d38f2e64ac?source=rss------programming-5) (2026-06-06)
+- [I Was Using AI Wrong Until I Learned These Developer Tricks](https://medium.com/@TusharKanjariya/i-was-using-ai-wrong-until-i-learned-these-developer-tricks-68f3a6890c81?source=rss------programming-5) (2026-06-06)
+- [The Rust Rewrite Was Supposed to Improve Throughput. It Fixed Something We Weren’t Measuring.](https://medium.com/@pmLearners/the-rust-rewrite-was-supposed-to-improve-throughput-it-fixed-something-we-werent-measuring-258a8a283868?source=rss------programming-5) (2026-06-06)
+- [The AI Coding Dilemma Nobody Talks About](https://medium.com/@kushagraagrawal.9672/the-ai-coding-dilemma-nobody-talks-about-e4f1e7a018e1?source=rss------programming-5) (2026-06-06)
+- [Functions in Swift: A Starter Guide](https://medium.com/@gursimran1/functions-in-swift-a-starter-guide-46446c2fe22c?source=rss------programming-5) (2026-06-06)
 
 </details>
 
@@ -373,11 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Building with AI? Why You Should Connect Twilio's AI Skills
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
-) (2026-06-05)
-- [
 Conversational AI vs generative AI: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
@@ -397,6 +392,11 @@ AI observability vs monitoring: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 ) (2026-06-01)
+- [
+What are AI Agents?
+](
+https://www.twilio.com/en-us/blog/developers/ai-agents-explained
+) (2026-05-27)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Persona Atlas: Mapping How Famous Minds Think](https://huggingface.co/blog/build-small-hackathon/persona-atlas) (2026-06-06)
+- [Five labs, five minds: building a multi-model finance drama on small models](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2) (2026-06-06)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
+- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
+- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
+- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
+- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Picking an Experimentation Platform: A Retrospective](https://towardsdatascience.com/picking-an-experimentation-platform-a-retrospective/) (2026-06-06)
+- [Who Will Win the 2026 Soccer World Cup?](https://towardsdatascience.com/who-will-win-the-2026-soccer-world-cup/) (2026-06-06)
 - [My SciPy ODE Solver Was Killing My Bayesian Inference: A Cosmologist’s Honest Account of Discovering Diffrax](https://towardsdatascience.com/my-scipy-ode-solver-was-killing-my-bayesian-inference-a-cosmologists-honest-account-of-discovering-diffrax/) (2026-06-06)
 - [My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server](https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/) (2026-06-05)
 - [The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy](https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/) (2026-06-05)
-- [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) (2026-06-05)
-- [How to Fine-Tune an SLM for Emotion Recognition](https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/) (2026-06-05)
 
 </details>
 
