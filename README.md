@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Russian who invented semiconductors 25 years before the USA](https://www.semidoped.com/p/til-the-man-who-invented-the-future) (2026-06-07)
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) (2026-06-07)
+- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) (2026-06-07)
+- [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/) (2026-06-07)
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) (2026-06-07)
 - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) (2026-06-07)
-- [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM) (2026-06-07)
-- [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy) (2026-06-07)
-- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470) (2026-06-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review) (2026-06-07)
 - [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers) (2026-06-06)
 - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun) (2026-06-06)
 - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers) (2026-06-06)
 - [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026) (2026-06-06)
-- [4K Blu-rays are three for $33 ahead of Father’s Day](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale) (2026-06-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DagShell: A Content-Addressable Virtual Filesystem](https://dev.to/queelius/dagshell-a-content-addressable-virtual-filesystem-441m) (2026-06-07)
-- [Known Plaintext Attacks on Time Series Encryption](https://dev.to/queelius/known-plaintext-attacks-on-time-series-encryption-30eb) (2026-06-07)
-- [I Built a GitHub Action That Reviews Pull Requests Using Two AI Models](https://dev.to/learncodeguide/i-built-a-github-action-that-reviews-pull-requests-using-two-ai-models-1f36) (2026-06-07)
-- [A Virus Called Windows](https://dev.to/amoreno/a-virus-called-windows-bpf) (2026-06-07)
-- [Learning Fuzzy Logic: Automatic Rule Discovery Through Differentiable Circuits](https://dev.to/queelius/learning-fuzzy-logic-automatic-rule-discovery-through-differentiable-circuits-2p5e) (2026-06-07)
+- [Swift—Checking Multiple Conditions with else, else if, && and || 🔀](https://dev.to/gamya_m/swift-checking-multiple-conditions-with-else-else-if-and--4lbc) (2026-06-07)
+- [Preventing context bloat and agent loops in database MCP servers](https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43) (2026-06-07)
+- [How to Build an MCP Server That Actually Gets Used](https://dev.to/friendlygeorge/how-to-build-an-mcp-server-that-actually-gets-used-4hag) (2026-06-07)
+- [5 ways your CLAUDE.md rules quietly fail](https://dev.to/mjmirza/5-ways-your-claudemd-rules-quietly-fail-np6) (2026-06-07)
+- [How to send email from Cloudflare Workers, Deno, and Bun (Nodemailer won't)](https://dev.to/alialnaghmoush/how-to-send-email-from-cloudflare-workers-deno-and-bun-nodemailer-wont-3j00) (2026-06-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 118 of Learning Java & DSA: Heap Sort Dry Run](https://medium.com/@payalmehra3522/day-118-of-learning-java-dsa-heap-sort-dry-run-e9cb126d5ba4?source=rss------programming-5) (2026-06-07)
-- [Google Gemma4 QAT models : Faster AI for Mobiles and Laptops](https://medium.com/data-science-in-your-pocket/google-gemma4-qat-models-faster-ai-for-mobiles-and-laptops-3beb2a6d8d8f?source=rss------programming-5) (2026-06-07)
-- [還原基本步：什麼是 ASCII？電腦世界的「文字翻譯員」](https://medium.com/@mindsteps.alex/%E9%82%84%E5%8E%9F%E5%9F%BA%E6%9C%AC%E6%AD%A5-%E4%BB%80%E9%BA%BC%E6%98%AF-ascii-%E9%9B%BB%E8%85%A6%E4%B8%96%E7%95%8C%E7%9A%84-%E6%96%87%E5%AD%97%E7%BF%BB%E8%AD%AF%E5%93%A1-893884800018?source=rss------programming-5) (2026-06-07)
-- [Day 28: Introduction to Linux Shell and Shell Scripting](https://pawannatekar220.medium.com/day-28-introduction-to-linux-shell-and-shell-scripting-f4d02339e369?source=rss------programming-5) (2026-06-07)
-- [The 7 Things That Separate a Senior Java Developer from a Mid-Level Developer](https://medium.com/@kaurharjeet122/the-7-things-that-separate-a-senior-java-developer-from-a-mid-level-developer-85645ee9c6f1?source=rss------programming-5) (2026-06-07)
+- [Extreme DRY: When ‘Don’t Repeat Yourself’ Repeats All Your Other Problems](https://medium.com/beer-and-servers-dont-mix/extreme-dry-when-dont-repeat-yourself-repeats-all-your-other-problems-240cfbdfaab8?source=rss------programming-5) (2026-06-07)
+- [AI, Premature Certainty, and the Cost of Outsourcing Comprehension](https://medium.com/@alealbertkilbergr/ai-premature-certainty-and-the-cost-of-outsourcing-comprehension-ab08bea8c1a9?source=rss------programming-5) (2026-06-07)
+- [​The Quantum Loophole: How Naval SQUID Sensors Just Exposed the Physics of Alien USOs](https://medium.com/write-your-world/the-quantum-loophole-how-naval-squid-sensors-just-exposed-the-physics-of-alien-usos-2b6e612d93d6?source=rss------programming-5) (2026-06-07)
+- [I Built 5 Production-Grade Agents with Nemotron 3 Ultra. Results After 48 Hours.](https://ai.plainenglish.io/i-built-5-production-grade-agents-with-nemotron-3-ultra-results-after-48-hours-4d42cf0a7433?source=rss------programming-5) (2026-06-07)
+- [Python 101 — Season 1, Ep. 2: Variables & Data Types](https://medium.com/@jasmeetsingh0918/python-101-season-1-ep-2-variables-data-types-320f2df37c38?source=rss------programming-5) (2026-06-07)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/) (2026-06-07)
 - [Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI](https://blogs.nvidia.com/blog/korea-ecosystem-2026/) (2026-06-05)
 - [Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/) (2026-06-04)
 - [NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale](https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/) (2026-06-03)
 - [NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/) (2026-06-03)
-- [Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw](https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/) (2026-06-02)
 
 </details>
 
@@ -311,6 +311,17 @@
 - [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
 - [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
 - [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
+
+</details>
+
+<details>
+<summary>📝 Visual Studio Code</summary>
+
+- [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
+- [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
+- [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
+- [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
+- [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
 
 </details>
 
