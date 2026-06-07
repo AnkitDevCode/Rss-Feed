@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) (2026-06-06)
 - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) (2026-06-06)
 - [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/) (2026-06-06)
 - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) (2026-06-06)
 - [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/) (2026-06-06)
-- [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) (2026-06-06)
-- [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565) (2026-06-06)
-- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives) (2026-06-06)
-- [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241) (2026-06-06)
-- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638) (2026-06-06)
+- [The Russian who invented semiconductors 25 years before the USA](https://www.semidoped.com/p/til-the-man-who-invented-the-future) (2026-06-07)
+- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) (2026-06-07)
+- [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM) (2026-06-07)
+- [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy) (2026-06-07)
+- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470) (2026-06-07)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-06)
 - [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) (2026-06-06)
 - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) (2026-06-05)
 - [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (2026-06-05)
 - [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) (2026-06-05)
-- [The saga of the International Space Station air leak took a worrying turn Friday](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, Vercel](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4) (2026-06-06)
-- [The 4-Layer Magento 2 AEO Stack: Making Your Store Visible to ChatGPT, Claude & Gemini (2026)](https://dev.to/angeo/the-4-layer-magento-2-aeo-stack-making-your-store-visible-to-chatgpt-claude-gemini-2026-bjd) (2026-06-06)
-- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog) (2026-06-06)
-- [Neura-FA-EN-1.9B: The Lightweight Bilingual Model That Changed My Local AI Workflow](https://dev.to/outis_escobar_788cd68ec5e/neura-fa-en-19b-the-lightweight-bilingual-model-that-changed-my-local-ai-workflow-m07) (2026-06-06)
-- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln) (2026-06-06)
+- [DagShell: A Content-Addressable Virtual Filesystem](https://dev.to/queelius/dagshell-a-content-addressable-virtual-filesystem-441m) (2026-06-07)
+- [Known Plaintext Attacks on Time Series Encryption](https://dev.to/queelius/known-plaintext-attacks-on-time-series-encryption-30eb) (2026-06-07)
+- [I Built a GitHub Action That Reviews Pull Requests Using Two AI Models](https://dev.to/learncodeguide/i-built-a-github-action-that-reviews-pull-requests-using-two-ai-models-1f36) (2026-06-07)
+- [A Virus Called Windows](https://dev.to/amoreno/a-virus-called-windows-bpf) (2026-06-07)
+- [Learning Fuzzy Logic: Automatic Rule Discovery Through Differentiable Circuits](https://dev.to/queelius/learning-fuzzy-logic-automatic-rule-discovery-through-differentiable-circuits-2p5e) (2026-06-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Redis Mistakes That Are Quietly Killing Your App’s Performance](https://towardsdev.com/redis-mistakes-that-are-quietly-killing-your-apps-performance-80d38f2e64ac?source=rss------programming-5) (2026-06-06)
-- [I Was Using AI Wrong Until I Learned These Developer Tricks](https://medium.com/@TusharKanjariya/i-was-using-ai-wrong-until-i-learned-these-developer-tricks-68f3a6890c81?source=rss------programming-5) (2026-06-06)
-- [The Rust Rewrite Was Supposed to Improve Throughput. It Fixed Something We Weren’t Measuring.](https://medium.com/@pmLearners/the-rust-rewrite-was-supposed-to-improve-throughput-it-fixed-something-we-werent-measuring-258a8a283868?source=rss------programming-5) (2026-06-06)
-- [The AI Coding Dilemma Nobody Talks About](https://medium.com/@kushagraagrawal.9672/the-ai-coding-dilemma-nobody-talks-about-e4f1e7a018e1?source=rss------programming-5) (2026-06-06)
-- [Functions in Swift: A Starter Guide](https://medium.com/@gursimran1/functions-in-swift-a-starter-guide-46446c2fe22c?source=rss------programming-5) (2026-06-06)
+- [Day 118 of Learning Java & DSA: Heap Sort Dry Run](https://medium.com/@payalmehra3522/day-118-of-learning-java-dsa-heap-sort-dry-run-e9cb126d5ba4?source=rss------programming-5) (2026-06-07)
+- [Google Gemma4 QAT models : Faster AI for Mobiles and Laptops](https://medium.com/data-science-in-your-pocket/google-gemma4-qat-models-faster-ai-for-mobiles-and-laptops-3beb2a6d8d8f?source=rss------programming-5) (2026-06-07)
+- [還原基本步：什麼是 ASCII？電腦世界的「文字翻譯員」](https://medium.com/@mindsteps.alex/%E9%82%84%E5%8E%9F%E5%9F%BA%E6%9C%AC%E6%AD%A5-%E4%BB%80%E9%BA%BC%E6%98%AF-ascii-%E9%9B%BB%E8%85%A6%E4%B8%96%E7%95%8C%E7%9A%84-%E6%96%87%E5%AD%97%E7%BF%BB%E8%AD%AF%E5%93%A1-893884800018?source=rss------programming-5) (2026-06-07)
+- [Day 28: Introduction to Linux Shell and Shell Scripting](https://pawannatekar220.medium.com/day-28-introduction-to-linux-shell-and-shell-scripting-f4d02339e369?source=rss------programming-5) (2026-06-07)
+- [The 7 Things That Separate a Senior Java Developer from a Mid-Level Developer](https://medium.com/@kaurharjeet122/the-7-things-that-separate-a-senior-java-developer-from-a-mid-level-developer-85645ee9c6f1?source=rss------programming-5) (2026-06-07)
 
 </details>
 
@@ -315,17 +315,6 @@
 </details>
 
 <details>
-<summary>📝 Visual Studio Code</summary>
-
-- [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
-- [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
-- [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
-- [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
-- [The Coding Harness Behind GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode) (2026-05-15)
-
-</details>
-
-<details>
 <summary>🦊 GitLab Blog</summary>
 
 - [GitLab Patch Release: 19.0.1, 18.11.4, 18.10.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-0-1-released/) (2026-05-28)
@@ -373,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building with AI? Why You Should Connect Twilio's AI Skills
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
+) (2026-06-05)
+- [
 Conversational AI vs generative AI: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
@@ -392,11 +386,6 @@ AI observability vs monitoring: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 ) (2026-06-01)
-- [
-What are AI Agents?
-](
-https://www.twilio.com/en-us/blog/developers/ai-agents-explained
-) (2026-05-27)
 
 </details>
 
@@ -502,11 +491,11 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 <details>
 <summary>💬 Slack API</summary>
 
-- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
-- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
-- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
-- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
+- [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
+- [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
+- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
+- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
 
 </details>
 
@@ -551,17 +540,6 @@ https://www.twilio.com/en-us/blog/developers/ai-agents-explained
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
 - [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
-- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
-- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
-- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
-- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
 
 </details>
 
