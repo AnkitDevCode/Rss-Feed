@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) (2026-06-07)
-- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) (2026-06-07)
-- [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/) (2026-06-07)
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) (2026-06-07)
-- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) (2026-06-07)
+- [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697) (2026-06-07)
+- [Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them](https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/) (2026-06-07)
+- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) (2026-06-07)
+- [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers) (2026-06-07)
+- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole) (2026-06-07)
+- [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators) (2026-06-07)
 - [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review) (2026-06-07)
 - [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers) (2026-06-06)
 - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun) (2026-06-06)
-- [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers) (2026-06-06)
-- [Summer Game Fest 2026: All the news from gaming&#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026) (2026-06-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [School shooting survivor sues AI gun detection firm after system failed to spot weapon](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/) (2026-06-07)
 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-06)
 - [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) (2026-06-06)
 - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) (2026-06-05)
 - [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (2026-06-05)
-- [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Swift—Checking Multiple Conditions with else, else if, && and || 🔀](https://dev.to/gamya_m/swift-checking-multiple-conditions-with-else-else-if-and--4lbc) (2026-06-07)
-- [Preventing context bloat and agent loops in database MCP servers](https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43) (2026-06-07)
-- [How to Build an MCP Server That Actually Gets Used](https://dev.to/friendlygeorge/how-to-build-an-mcp-server-that-actually-gets-used-4hag) (2026-06-07)
-- [5 ways your CLAUDE.md rules quietly fail](https://dev.to/mjmirza/5-ways-your-claudemd-rules-quietly-fail-np6) (2026-06-07)
-- [How to send email from Cloudflare Workers, Deno, and Bun (Nodemailer won't)](https://dev.to/alialnaghmoush/how-to-send-email-from-cloudflare-workers-deno-and-bun-nodemailer-wont-3j00) (2026-06-07)
+- [5 AI Coding Prompts That Changed How I Ship Software](https://dev.to/z_z_c01afd7cf4c3764a2c73d/5-ai-coding-prompts-that-changed-how-i-ship-software-4b22) (2026-06-07)
+- [AI Is Cool. Emotion Is What Makes People Buy](https://dev.to/thesnowguru/ai-is-cool-emotion-is-what-makes-people-buy-1ld2) (2026-06-07)
+- [AI, OAuth, And Other Platform APIs In The Core](https://dev.to/codenameone/ai-oauth-and-other-platform-apis-in-the-core-nd2) (2026-06-07)
+- [Building Forevers.app: Turning Still Memories Into AI Generated Videos](https://dev.to/thesnowguru/building-foreversapp-turning-still-memories-into-ai-generated-videos-2glp) (2026-06-07)
+- [GBase 8c Object Dependency Checks Before Schema Changes](https://dev.to/michaelfv/gbase-8c-object-dependency-checks-before-schema-changes-3i6o) (2026-06-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Extreme DRY: When ‘Don’t Repeat Yourself’ Repeats All Your Other Problems](https://medium.com/beer-and-servers-dont-mix/extreme-dry-when-dont-repeat-yourself-repeats-all-your-other-problems-240cfbdfaab8?source=rss------programming-5) (2026-06-07)
-- [AI, Premature Certainty, and the Cost of Outsourcing Comprehension](https://medium.com/@alealbertkilbergr/ai-premature-certainty-and-the-cost-of-outsourcing-comprehension-ab08bea8c1a9?source=rss------programming-5) (2026-06-07)
-- [​The Quantum Loophole: How Naval SQUID Sensors Just Exposed the Physics of Alien USOs](https://medium.com/write-your-world/the-quantum-loophole-how-naval-squid-sensors-just-exposed-the-physics-of-alien-usos-2b6e612d93d6?source=rss------programming-5) (2026-06-07)
-- [I Built 5 Production-Grade Agents with Nemotron 3 Ultra. Results After 48 Hours.](https://ai.plainenglish.io/i-built-5-production-grade-agents-with-nemotron-3-ultra-results-after-48-hours-4d42cf0a7433?source=rss------programming-5) (2026-06-07)
-- [Python 101 — Season 1, Ep. 2: Variables & Data Types](https://medium.com/@jasmeetsingh0918/python-101-season-1-ep-2-variables-data-types-320f2df37c38?source=rss------programming-5) (2026-06-07)
+- [I Watched 50 Senior Engineer Behavioral Interviews in 2026. STAR Failed 7 Out of 10 Candidates.](https://blog.stackademic.com/i-watched-50-senior-engineer-behavioral-interviews-in-2026-star-failed-7-out-of-10-candidates-6b0ba34b6a0b?source=rss------programming-5) (2026-06-07)
+- [Your Job Title Didn’t Change. Your Job Did](https://medium.com/@reactjsbd/your-job-title-didnt-change-your-job-did-ac193dacc7bc?source=rss------programming-5) (2026-06-07)
+- [The Credential Is Gone. The Access Isn’t](https://medium.com/@mlabouardy/the-credential-is-gone-the-access-isnt-25006369a391?source=rss------programming-5) (2026-06-07)
+- [After 100 Hours of Python Tutorials, a Real Project Humbled Me in One Day](https://medium.com/@sourabhda1998/after-100-hours-of-python-tutorials-a-real-project-humbled-me-in-one-day-912759c97d6c?source=rss------programming-5) (2026-06-07)
+- [97% of Python Beginners Are Stuck in Tutorial Hell. Here Is How I Escaped.](https://medium.com/@sourabhda1998/97-of-python-beginners-are-stuck-in-tutorial-hell-here-is-how-i-escaped-7d4a0986fd2d?source=rss------programming-5) (2026-06-07)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Five labs, five minds: building a multi-model finance drama on small models](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2) (2026-06-06)
+- [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers) (2026-06-07)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
+- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
+- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
+- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
+- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Multi-Agent System in Python](https://towardsdatascience.com/building-a-multi-agent-system-in-python/) (2026-06-07)
 - [Picking an Experimentation Platform: A Retrospective](https://towardsdatascience.com/picking-an-experimentation-platform-a-retrospective/) (2026-06-06)
 - [Who Will Win the 2026 Soccer World Cup?](https://towardsdatascience.com/who-will-win-the-2026-soccer-world-cup/) (2026-06-06)
 - [My SciPy ODE Solver Was Killing My Bayesian Inference: A Cosmologist’s Honest Account of Discovering Diffrax](https://towardsdatascience.com/my-scipy-ode-solver-was-killing-my-bayesian-inference-a-cosmologists-honest-account-of-discovering-diffrax/) (2026-06-06)
 - [My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server](https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/) (2026-06-05)
-- [The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy](https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/) (2026-06-05)
 
 </details>
 
