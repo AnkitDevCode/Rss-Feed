@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/) (2026-06-07)
+- [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/) (2026-06-07)
+- [TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/) (2026-06-07)
+- [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/) (2026-06-07)
 - [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) (2026-06-06)
-- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) (2026-06-06)
-- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/) (2026-06-06)
-- [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) (2026-06-06)
-- [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/) (2026-06-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697) (2026-06-07)
-- [Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them](https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/) (2026-06-07)
-- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) (2026-06-07)
-- [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers) (2026-06-07)
-- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-07)
+- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer) (2026-06-07)
+- [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics) (2026-06-07)
+- [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt) (2026-06-07)
+- [Making Peace with Your Unlived Dreams](https://nik.art/making-peace-with-your-unlived-dreams/) (2026-06-07)
+- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) (2026-06-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole) (2026-06-07)
-- [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators) (2026-06-07)
-- [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review) (2026-06-07)
-- [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers) (2026-06-06)
-- [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun) (2026-06-06)
+- [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories) (2026-06-07)
+- [Persona 6 exists, and that’s all we know](https://www.theverge.com/entertainment/945256/persona-6-teaser) (2026-06-07)
+- [Microsoft’s Xbox 25th anniversary console comes in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date) (2026-06-07)
+- [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer) (2026-06-07)
+- [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026) (2026-06-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 AI Coding Prompts That Changed How I Ship Software](https://dev.to/z_z_c01afd7cf4c3764a2c73d/5-ai-coding-prompts-that-changed-how-i-ship-software-4b22) (2026-06-07)
-- [AI Is Cool. Emotion Is What Makes People Buy](https://dev.to/thesnowguru/ai-is-cool-emotion-is-what-makes-people-buy-1ld2) (2026-06-07)
-- [AI, OAuth, And Other Platform APIs In The Core](https://dev.to/codenameone/ai-oauth-and-other-platform-apis-in-the-core-nd2) (2026-06-07)
-- [Building Forevers.app: Turning Still Memories Into AI Generated Videos](https://dev.to/thesnowguru/building-foreversapp-turning-still-memories-into-ai-generated-videos-2glp) (2026-06-07)
-- [GBase 8c Object Dependency Checks Before Schema Changes](https://dev.to/michaelfv/gbase-8c-object-dependency-checks-before-schema-changes-3i6o) (2026-06-07)
+- [I built a state management library for Rust called GLoC](https://dev.to/godwin_jk/i-built-a-state-management-library-for-rust-called-gloc-3o1h) (2026-06-07)
+- [SQLite in Production: Why We Chose It Over Postgres for a Multi-Tenant SaaS](https://dev.to/helperx/sqlite-in-production-why-we-chose-it-over-postgres-for-a-multi-tenant-saas-44n8) (2026-06-07)
+- [xZeroProtect 1.1.1 — Smarter Defaults, Cleaner Rules, Real Visitor Tracking](https://dev.to/benkhalife/xzeroprotect-111-smarter-defaults-cleaner-rules-real-visitor-tracking-5db3) (2026-06-07)
+- [Generating JSON Schema from PHP DTOs with Symfony Serializer awareness](https://dev.to/antonioturdo/generating-json-schema-from-php-dtos-with-symfony-serializer-awareness-459o) (2026-06-07)
+- [CycleTLS v2: Why We Ditched Axios for TLS Fingerprint-Safe HTTP](https://dev.to/helperx/cycletls-v2-why-we-ditched-axios-for-tls-fingerprint-safe-http-50b7) (2026-06-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Watched 50 Senior Engineer Behavioral Interviews in 2026. STAR Failed 7 Out of 10 Candidates.](https://blog.stackademic.com/i-watched-50-senior-engineer-behavioral-interviews-in-2026-star-failed-7-out-of-10-candidates-6b0ba34b6a0b?source=rss------programming-5) (2026-06-07)
-- [Your Job Title Didn’t Change. Your Job Did](https://medium.com/@reactjsbd/your-job-title-didnt-change-your-job-did-ac193dacc7bc?source=rss------programming-5) (2026-06-07)
-- [The Credential Is Gone. The Access Isn’t](https://medium.com/@mlabouardy/the-credential-is-gone-the-access-isnt-25006369a391?source=rss------programming-5) (2026-06-07)
-- [After 100 Hours of Python Tutorials, a Real Project Humbled Me in One Day](https://medium.com/@sourabhda1998/after-100-hours-of-python-tutorials-a-real-project-humbled-me-in-one-day-912759c97d6c?source=rss------programming-5) (2026-06-07)
-- [97% of Python Beginners Are Stuck in Tutorial Hell. Here Is How I Escaped.](https://medium.com/@sourabhda1998/97-of-python-beginners-are-stuck-in-tutorial-hell-here-is-how-i-escaped-7d4a0986fd2d?source=rss------programming-5) (2026-06-07)
+- [ From 12 Minutes to 90 Seconds: Our Epic Journey to Blazing Fast Go Builds](https://medium.com/@monikasinghal713/from-12-minutes-to-90-seconds-our-epic-journey-to-blazing-fast-go-builds-bc7f5cd896bf?source=rss------programming-5) (2026-06-07)
+- [One Service, Two Languages: My Go vs. Rust 2026 Deep Dive (And What I’d Pick) ](https://medium.com/@anshusinghal703/one-service-two-languages-my-go-vs-rust-2026-deep-dive-and-what-id-pick-87cb8c89dc87?source=rss------programming-5) (2026-06-07)
+- [Choosing the better status code for your API](https://medium.com/@akovtun/choosing-the-better-status-code-for-your-api-f7811c12b271?source=rss------programming-5) (2026-06-07)
+- [A Complete Guide to Starting with Programming: Your First Steps](https://medium.com/codex/a-complete-guide-to-starting-with-programming-your-first-steps-39020eaa5d09?source=rss------programming-5) (2026-06-07)
+- [Automatia Update: Unbalanced Skills](https://fwsgonzo.medium.com/automatia-update-unbalanced-skills-f81de79576a5?source=rss------programming-5) (2026-06-07)
 
 </details>
 
@@ -304,17 +304,6 @@
 </details>
 
 <details>
-<summary>💎 JetBrains Blog</summary>
-
-- [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
-- [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
-- [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
-- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
-- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
-
-</details>
-
-<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
@@ -366,37 +355,6 @@
 - [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
 - [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
-
-</details>
-
-<details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-Building with AI? Why You Should Connect Twilio's AI Skills
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
-) (2026-06-05)
-- [
-Conversational AI vs generative AI: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
-) (2026-06-04)
-- [
-How to build and deploy Conversational AI (the right way)
-](
-https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
-) (2026-06-03)
-- [
-How to Deploy a Vibe Coded Project
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
-) (2026-06-02)
-- [
-AI observability vs monitoring: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
-) (2026-06-01)
 
 </details>
 
@@ -502,11 +460,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
-- [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
-- [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
-- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
-- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
+- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
+- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
+- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
+- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
+- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
 
 </details>
 
@@ -544,35 +502,13 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 </details>
 
 <details>
-<summary>🤗 Hugging Face</summary>
-
-- [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers) (2026-06-07)
-- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
-- [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
-- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
-- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
-- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
-- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
-- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
-- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [We Should Train AI to Betray Its Users](https://towardsdatascience.com/we-should-train-ai-to-betray-its-users/) (2026-06-07)
 - [Building a Multi-Agent System in Python](https://towardsdatascience.com/building-a-multi-agent-system-in-python/) (2026-06-07)
 - [Picking an Experimentation Platform: A Retrospective](https://towardsdatascience.com/picking-an-experimentation-platform-a-retrospective/) (2026-06-06)
 - [Who Will Win the 2026 Soccer World Cup?](https://towardsdatascience.com/who-will-win-the-2026-soccer-world-cup/) (2026-06-06)
 - [My SciPy ODE Solver Was Killing My Bayesian Inference: A Cosmologist’s Honest Account of Discovering Diffrax](https://towardsdatascience.com/my-scipy-ode-solver-was-killing-my-bayesian-inference-a-cosmologists-honest-account-of-discovering-diffrax/) (2026-06-06)
-- [My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server](https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/) (2026-06-05)
 
 </details>
 
