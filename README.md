@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [90210 – running the show without property tax](https://github.com/Achint08/90210) (2026-06-08)
-- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/) (2026-06-08)
-- [Tech sell-off widens as South Korea index plunges](https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c) (2026-06-08)
-- [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/) (2026-06-08)
-- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08) (2026-06-08)
+- [The Cypherpunk Library](https://www.cypherpunkbooks.com) (2026-06-08)
+- [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data) (2026-06-08)
+- [The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy) (2026-06-08)
+- [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank) (2026-06-08)
+- [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/) (2026-06-08)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why this year’s World Cup ball may not fly as far](https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/) (2026-06-08)
 - [The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/) (2026-06-05)
 - [Are AI chatbots making us lose control of our brains?](https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/) (2026-06-05)
 - [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) (2026-06-05)
 - [The Download: AI-generated lawsuits and virtual power plants for data centers](https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/) (2026-06-04)
-- [How courts are coping with a flood of AI-generated lawsuits](https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/) (2026-06-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 Rebuilding My Android App with Jetpack Compose: The Mailfo v2.0 Journey](https://dev.to/mrmaskbd247/rebuilding-my-android-app-with-jetpack-compose-the-mailfo-v20-journey-2e9o) (2026-06-08)
-- [Learning DevOps from First Principles: What an EC2 Instance Actually Is](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-what-an-ec2-instance-actually-is-55dp) (2026-06-08)
-- [Same Hardware, Different Experience: Why Linux Feels Faster](https://dev.to/micheal_angelo_41cea4e81a/same-hardware-different-experience-why-linux-feels-faster-hih) (2026-06-08)
-- [Learning DevOps from First Principles: MAC Addresses vs IP Addresses — The Difference Finally Clicked](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-mac-addresses-vs-ip-addresses-the-difference-finally-3aef) (2026-06-08)
-- [The Actual Cost of Dead Air: What 20 Years of Station Outages Taught Us About Broadcast Economics](https://dev.to/qua_lekuch_8b2a126c50c656/the-actual-cost-of-dead-air-what-20-years-of-station-outages-taught-us-about-broadcast-economics-5cjm) (2026-06-08)
+- [Designing a Broadcast Overnight Music Rotation That Doesn't Sound Like a Playlist](https://dev.to/qua_lekuch_8b2a126c50c656/designing-a-broadcast-overnight-music-rotation-that-doesnt-sound-like-a-playlist-3d4g) (2026-06-08)
+- [When AI Hosts Hallucinate: Failure Modes and How Three-Tier Review Catches Them](https://dev.to/qua_lekuch_8b2a126c50c656/when-ai-hosts-hallucinate-failure-modes-and-how-three-tier-review-catches-them-2cf4) (2026-06-08)
+- [Meta’s AI Support Hack Is a Warning for Every Team Automating User Access](https://dev.to/sunychoudhary/metas-ai-support-hack-is-a-warning-for-every-team-automating-user-access-8mp) (2026-06-08)
+- [What Actually Breaks in a Broadcast Audio Codec Pipeline (and How to Design Around It)](https://dev.to/qua_lekuch_8b2a126c50c656/what-actually-breaks-in-a-broadcast-audio-codec-pipeline-and-how-to-design-around-it-25jf) (2026-06-08)
+- [Engineering the Emergency-Broadcast Pipeline: When AI Radio Needs to Step Out of the Way](https://dev.to/qua_lekuch_8b2a126c50c656/engineering-the-emergency-broadcast-pipeline-when-ai-radio-needs-to-step-out-of-the-way-53ho) (2026-06-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Stateless 是什麼？為何常說網頁是 Stateless？](https://medium.com/@mindsteps.alex/stateless-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%82%BA%E4%BD%95%E5%B8%B8%E8%AA%AA%E7%B6%B2%E9%A0%81%E6%98%AF-stateless-2a24a78bcfc4?source=rss------programming-5) (2026-06-08)
-- [I Gave Qwen3.7-Plus a Screenshot and It Found the Exact Pixel to Click for $0.40](https://pub.towardsai.net/i-gave-qwen3-7-plus-a-screenshot-and-it-found-the-exact-pixel-to-click-for-0-40-efb492e5aafd?source=rss------programming-5) (2026-06-08)
-- [ Part 9: Python Functions — Building Reusable Code Blocks](https://medium.com/@ai-futures/part-9-python-functions-building-reusable-code-blocks-d5d7301e057d?source=rss------programming-5) (2026-06-08)
-- [Forget Grid Frameworks. These 6 Native CSS Patterns Handle Most Real Layouts](https://medium.com/@pmLearners/forget-grid-frameworks-these-6-native-css-patterns-handle-most-real-layouts-076f61006e00?source=rss------programming-5) (2026-06-08)
-- [De FTP y servidores físicos a Vercel, Render y Supabase: cómo cambió el despliegue de aplicaciones…](https://medium.com/@nederig2171/de-ftp-y-servidores-f%C3%ADsicos-a-vercel-render-y-supabase-c%C3%B3mo-cambi%C3%B3-el-despliegue-de-aplicaciones-db71acf0f747?source=rss------programming-5) (2026-06-08)
+- [Welcome to Programming: Things Nobody Teaches Beginners](https://medium.com/@roybapppa1999/welcome-to-programming-things-nobody-teaches-beginners-20a58d10e401?source=rss------programming-5) (2026-06-08)
+- [Provider vs Cubit di Flutter: Pengalaman Mengelola State pada Project MoneyLog](https://medium.com/@girindrasulistiyowardoyo/provider-vs-cubit-di-flutter-pengalaman-mengelola-state-pada-project-moneylog-3721a3ac0cf7?source=rss------programming-5) (2026-06-08)
+- [Why Passwords Should Never Be Stored in Plain Text](https://err0rgod.medium.com/why-passwords-should-never-be-stored-in-plain-text-4e6457cf136e?source=rss------programming-5) (2026-06-08)
+- [The Question I Ask Before Testing Any Target](https://meetcyber.net/the-question-i-ask-before-testing-any-target-a4acfad8ee9a?source=rss------programming-5) (2026-06-08)
+- [What Happens When You Type google.com in Your Browser?](https://err0rgod.medium.com/what-happens-when-you-type-google-com-in-your-browser-5c730b673a9a?source=rss------programming-5) (2026-06-08)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies](https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/) (2026-06-08)
 - [NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/) (2026-06-08)
 - [NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/) (2026-06-07)
 - [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/) (2026-06-07)
 - [Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI](https://blogs.nvidia.com/blog/korea-ecosystem-2026/) (2026-06-05)
-- [Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/) (2026-06-04)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>🤖 AI News</summary>
 
+- [Weis Markets adds Instacart AI-powered shopping carts to stores](https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/) (2026-06-08)
 - [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
 - [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
 - [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
 - [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
-- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
 
 </details>
 
