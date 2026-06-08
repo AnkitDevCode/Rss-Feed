@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order](https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/) (2026-06-08)
-- [WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27](https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/) (2026-06-08)
-- [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/) (2026-06-08)
-- [Eventbrite and Vimeo owner Bending Spoons files to go public](https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/) (2026-06-08)
-- [Massachusetts votes to pass new privacy rights bill that bans sale of precise location data](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/) (2026-06-08)
+- [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (2026-06-08)
+- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/) (2026-06-08)
+- [Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military](https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/) (2026-06-08)
+- [Apple just taught your iPhone to finish your sentences, your photos, and your workflows](https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/) (2026-06-08)
+- [Apple will let you build workflows using AI in its new Shortcuts app](https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/) (2026-06-08)
-- [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/) (2026-06-08)
-- [Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO](https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/) (2026-06-08)
-- [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/) (2026-06-08)
-- [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com) (2026-06-08)
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) (2026-06-08)
+- [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size) (2026-06-08)
+- [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative) (2026-06-08)
+- [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/) (2026-06-08)
+- [Siri AI](https://www.apple.com/apple-intelligence/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Eero’s Pro 6E routers are down to their cheapest price yet in 2026](https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale) (2026-06-08)
-- [Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot](https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts) (2026-06-08)
-- [Microsoft’s AI chief says superintelligence is near, but won’t take your job](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation) (2026-06-08)
-- [Nintendo’s next Direct showcase is on June 9th](https://www.theverge.com/entertainment/945670/nintendo-direct-june-2026-switch-2) (2026-06-08)
-- [Xbox exclusives are back and more complicated than ever](https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing) (2026-06-08)
+- [Apple drops support for a long list of iPads and Apple Watches with latest OS updates](https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped) (2026-06-08)
+- [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026) (2026-06-08)
+- [Apple WWDC 2026: The 7 biggest announcements](https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27) (2026-06-08)
+- [WWDC 2026 bonus live blog: Tech Talk with Craig Federighi](https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi) (2026-06-08)
+- [Cameras get an Apple Intelligence boost in Apple Home](https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k) (2026-06-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [The weather and climate science AI revolution isn’t revolutionary](https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/) (2026-06-08)
-- [RIP Anthony Head: Our 10 favorite moments of Buffy's Giles](https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/) (2026-06-07)
-- [School shooting survivor sues AI gun detection firm after system failed to spot weapon](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/) (2026-06-07)
-- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-06)
-- [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) (2026-06-06)
+- [Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem](https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/) (2026-06-08)
+- [Say hi to "Siri AI"—Apple announces new, more "conversational" voice assistant](https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/) (2026-06-08)
+- [Gemini 3.5 and Antigravity come to Google NotebookLM](https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/) (2026-06-08)
+- [Your empty cuppa could capture carbon](https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/) (2026-06-08)
+- [For the 2nd time in weeks, Microsoft packages laced with credential stealer](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/) (2026-06-08)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub for Beginners: Answers to some common questions](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/) (2026-06-08)
 - [GitHub Universe is back: All together now, in the agentic era](https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/) (2026-06-04)
 - [GitHub Copilot app: The agent-native desktop experience](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) (2026-06-02)
 - [Still a developer. Just outside. Our latest GitHub Shop collection is here.](https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/) (2026-05-28)
 - [GitHub for Beginners: Getting started with Git and GitHub in VS Code](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/) (2026-05-25)
-- [GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/) (2026-05-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ineffable Intelligence -- RL ASI](https://dev.to/cognitalk/ineffable-intelligence-rl-asi-4mhm) (2026-06-08)
-- [The Developer's Guide to Environment Variables and Secrets Management](https://dev.to/zyvop/the-developers-guide-to-environment-variables-and-secrets-management-33d0) (2026-06-08)
-- [Leetcode 547 solving with intuition - 6/8/26](https://dev.to/bala_kumaran/leetcode-547-solving-with-intuition-6826-529m) (2026-06-08)
-- [Dynamically Generating SQL Joins for Tables Based on a Common Column](https://dev.to/kaidanov/dynamically-generating-sql-joins-for-tables-based-on-a-common-column-3m8d) (2026-06-08)
-- [When Every Bit Counts: Rediscovering Resource Efficiency in Modern Development](https://dev.to/prabashanadev/when-every-bit-counts-rediscovering-resource-efficiency-in-modern-development-c60) (2026-06-08)
+- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG (100% Private & $0 Cost)](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d) (2026-06-08)
+- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03) (2026-06-08)
+- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0) (2026-06-08)
+- [How to Migrate from Contentful to Cosmic in 30 Minutes](https://dev.to/tonyspiro/how-to-migrate-from-contentful-to-cosmic-in-30-minutes-3939) (2026-06-08)
+- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea) (2026-06-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Yapay Zekâ Çağında Sistem Mimarisi Neden Önemli?](https://medium.com/huawei-student-developers-turkiye/yapay-zek%C3%A2-%C3%A7a%C4%9F%C4%B1nda-sistem-mimarisi-neden-%C3%B6nemli-1a75590fc59e?source=rss------programming-5) (2026-06-08)
-- [Our One-Trillion-Dollar AI Cannot Subtract](https://ai.gopubby.com/our-one-trillion-dollar-ai-cannot-subtract-e75173e69dd6?source=rss------programming-5) (2026-06-08)
-- [What Happens When a Designer Learns React](https://medium.com/@guru-fox/what-happens-when-a-designer-learns-react-f89ab4f81fac?source=rss------programming-5) (2026-06-08)
-- [Day 119 of Learning Java & DSA: Implementing Heap Sort in Java](https://medium.com/@payalmehra3522/day-119-of-learning-java-dsa-implementing-heap-sort-in-java-30b4b58e70d0?source=rss------programming-5) (2026-06-08)
-- [Google Boots a 16GB Linux Coding Agent in One API Call, and It Shouldn’t Be This Cheap](https://pub.towardsai.net/google-boots-a-16gb-linux-coding-agent-in-one-api-call-and-it-shouldnt-be-this-cheap-b6c2d3942d17?source=rss------programming-5) (2026-06-08)
+- [From “It Works on My PC” to “It Works Everywhere”: My Full-Stack Docker Breakthrough](https://medium.com/@patel.jay.brij03/from-it-works-on-my-pc-to-it-works-everywhere-my-full-stack-docker-breakthrough-1c065dac2441?source=rss------programming-5) (2026-06-08)
+- [ Go Smart, Not Hard: Top Strategies for Clean, Durable, and Maintainable Golang](https://medium.com/@monikasinghal713/go-smart-not-hard-top-strategies-for-clean-durable-and-maintainable-golang-8809505c8af1?source=rss------programming-5) (2026-06-08)
+- [Rust Turbocharged Our Python ML by 7.4×, But Nearly Broke Our Team ](https://medium.com/@anshusinghal703/rust-turbocharged-our-python-ml-by-7-4-but-nearly-broke-our-team-b9059901615c?source=rss------programming-5) (2026-06-08)
+- [Nobody Told Me Software Engineering Would Feel Like This](https://medium.com/@samardoesthat/nobody-told-me-software-engineering-would-feel-like-this-dc61fcaf6f29?source=rss------programming-5) (2026-06-08)
+- [Everyone learns to trade, then builds a bot. I did it backwards — and it worked.](https://medium.com/@hirushayatagama/everyone-learns-to-trade-then-builds-a-bot-i-did-it-backwards-and-it-worked-db2ed87e558b?source=rss------programming-5) (2026-06-08)
 
 </details>
 
@@ -152,22 +152,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Find out what's new for Apple developers](https://developer.apple.com/news/?id=8rgqj83s) (2026-06-08)
+- [Introducing Time Allowances](https://developer.apple.com/news/?id=0d2gpmml) (2026-06-08)
+- [Updated Apple Developer Program License Agreement and App Review Guidelines now available ](https://developer.apple.com/news/?id=a233fmpw) (2026-06-08)
 - [Update for Apps Distributed in Texas](https://developer.apple.com/news/?id=sg176nne) (2026-06-03)
 - [Apple Developer Centers are expanding to Berlin](https://developer.apple.com/news/?id=f0jfy9py) (2026-06-03)
-- [Introducing the 2026 Apple Design Award winners](https://developer.apple.com/news/?id=vbvsocwh) (2026-06-02)
-- [All systems glow](https://developer.apple.com/news/?id=q7tgn1rr) (2026-06-01)
-- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=tu7pk9oy) (2026-05-26)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Datadog delivers millions of in-depth performance insights with ProfilingManager](https://android-developers.googleblog.com/2026/06/datadog-profilingmanager-performance-insights.html) (2026-06-08)
 - [Prioritizing Memory Efficiency: Essential Steps for Android 17](https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html) (2026-06-02)
 - [Building Premium Android Experiences at Google I/O ‘26](https://android-developers.googleblog.com/2026/06/building-premium-android-experiences-google-io-26.html) (2026-06-02)
 - [Top AI on Android updates for building intelligent experiences from Google I/O ‘26 ](https://android-developers.googleblog.com/2026/05/android-ai-intelligence-system.html) (2026-05-26)
 - [17 Things to know for Android developers at Google I/O](https://android-developers.googleblog.com/2026/05/17-things-android-developers-google-io.html) (2026-05-19)
-- [Build native Android apps in Google AI Studio ](https://android-developers.googleblog.com/2026/05/build-android-apps-google-ai-studio.html) (2026-05-19)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
 - [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 - [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) (2026-06-04)
 - [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/) (2026-06-03)
 - [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/) (2026-06-02)
-- [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/) (2026-06-01)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [The crash that vanished: control and emergence in a five-model economy](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3) (2026-06-08)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
 
 </details>
 
@@ -568,44 +568,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Increase Recommendation Systems’ Precision with LLMs, Using Python](https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/) (2026-06-08)
+- [How to Keep Quantum Information Alive for Machine Learning](https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/) (2026-06-08)
 - [4 New Techniques to Maximize Claude Code](https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/) (2026-06-08)
 - [Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks](https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/) (2026-06-08)
 - [The Polynomial That Fixed 30 Years of Cloth Simulation](https://towardsdatascience.com/the-polynomial-that-fixed-30-years-of-cloth-simulation/) (2026-06-08)
-- [We Should Train AI to Betray Its Users](https://towardsdatascience.com/we-should-train-ai-to-betray-its-users/) (2026-06-07)
-- [Building a Multi-Agent System in Python](https://towardsdatascience.com/building-a-multi-agent-system-in-python/) (2026-06-07)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build an Emergency Helpline Voice Agent with LangChain](https://www.analyticsvidhya.com/blog/2026/06/build-an-ai-voice-agent-with-langchain/) (2026-06-08)
 - [Choosing the Right Vector Database for RAG and AI Applications](https://www.analyticsvidhya.com/blog/2026/06/vector-database-comparison/) (2026-06-08)
 - [Google Gemma 4 12B: Architecture, Benchmarks, Access, and Hands-on Guide for Developers ](https://www.analyticsvidhya.com/blog/2026/06/google-gemma-4-12b/) (2026-06-05)
 - [How to Choose the Right AI Model for Your Needs](https://www.analyticsvidhya.com/blog/2026/06/how-to-choose-the-right-ai-model/) (2026-06-04)
 - [Agent Observability with LangSmith, Langfuse, and Arize: A Hands-On Comparison ](https://www.analyticsvidhya.com/blog/2026/06/agent-observability-with-langsmith-langfuse-arize/) (2026-06-03)
-- [How to Use Claude Managed Agents?](https://www.analyticsvidhya.com/blog/2026/06/claude-managed-agents/) (2026-06-02)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Why Do LLMs Corrupt Your Documents When You Delegate?](https://www.kdnuggets.com/why-do-llms-corrupt-your-documents-when-you-delegate) (2026-06-08)
 - [Anthropic’s Complete Guide to Claude Skills Building](https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building) (2026-06-08)
 - [5 Must-Know Python Concepts for AI Engineers](https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers) (2026-06-08)
 - [A Deep Dive into Calibration of Language Models: Platt Scaling, Isotonic Regression, Temperature Scaling](https://www.kdnuggets.com/a-deep-dive-into-calibration-of-language-models-platt-scaling-isotonic-regression-temperature-scaling) (2026-06-05)
 - [3 SpaCy Tricks for Efficient Text Processing & Entity Recognition](https://www.kdnuggets.com/3-spacy-tricks-for-efficient-text-processing-entity-recognition) (2026-06-05)
-- [What the Agentic Era Means for Data Science](https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science) (2026-06-04)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Practitioner’s Guide to AgentOps](https://machinelearningmastery.com/the-practitioners-guide-to-agentops/) (2026-06-08)
 - [Building Semantic Search with Transformers.js and Sentence Embeddings](https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/) (2026-06-05)
 - [Using Scikit-LLM with Open-Source LLMs](https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/) (2026-06-04)
 - [Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?](https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/) (2026-06-02)
 - [The Roadmap for Mastering LLMOps in 2026](https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/) (2026-06-01)
-- [Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient](https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/) (2026-05-30)
 
 </details>
 
