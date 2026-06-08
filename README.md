@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/) (2026-06-07)
 - [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/) (2026-06-07)
 - [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/) (2026-06-07)
 - [TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/) (2026-06-07)
 - [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/) (2026-06-07)
-- [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/) (2026-06-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer) (2026-06-07)
-- [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics) (2026-06-07)
-- [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt) (2026-06-07)
-- [Making Peace with Your Unlived Dreams](https://nik.art/making-peace-with-your-unlived-dreams/) (2026-06-07)
-- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) (2026-06-07)
+- [90210 – running the show without property tax](https://github.com/Achint08/90210) (2026-06-08)
+- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/) (2026-06-08)
+- [Tech sell-off widens as South Korea index plunges](https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c) (2026-06-08)
+- [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/) (2026-06-08)
+- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08) (2026-06-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis) (2026-06-07)
 - [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories) (2026-06-07)
 - [Persona 6 exists, and that’s all we know](https://www.theverge.com/entertainment/945256/persona-6-teaser) (2026-06-07)
 - [Microsoft’s Xbox 25th anniversary console comes in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date) (2026-06-07)
 - [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer) (2026-06-07)
-- [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026) (2026-06-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [RIP Anthony Head: Our 10 favorite moments of Buffy's Giles](https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/) (2026-06-07)
 - [School shooting survivor sues AI gun detection firm after system failed to spot weapon](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/) (2026-06-07)
 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) (2026-06-06)
 - [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) (2026-06-06)
 - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) (2026-06-05)
-- [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a state management library for Rust called GLoC](https://dev.to/godwin_jk/i-built-a-state-management-library-for-rust-called-gloc-3o1h) (2026-06-07)
-- [SQLite in Production: Why We Chose It Over Postgres for a Multi-Tenant SaaS](https://dev.to/helperx/sqlite-in-production-why-we-chose-it-over-postgres-for-a-multi-tenant-saas-44n8) (2026-06-07)
-- [xZeroProtect 1.1.1 — Smarter Defaults, Cleaner Rules, Real Visitor Tracking](https://dev.to/benkhalife/xzeroprotect-111-smarter-defaults-cleaner-rules-real-visitor-tracking-5db3) (2026-06-07)
-- [Generating JSON Schema from PHP DTOs with Symfony Serializer awareness](https://dev.to/antonioturdo/generating-json-schema-from-php-dtos-with-symfony-serializer-awareness-459o) (2026-06-07)
-- [CycleTLS v2: Why We Ditched Axios for TLS Fingerprint-Safe HTTP](https://dev.to/helperx/cycletls-v2-why-we-ditched-axios-for-tls-fingerprint-safe-http-50b7) (2026-06-07)
+- [🚀 Rebuilding My Android App with Jetpack Compose: The Mailfo v2.0 Journey](https://dev.to/mrmaskbd247/rebuilding-my-android-app-with-jetpack-compose-the-mailfo-v20-journey-2e9o) (2026-06-08)
+- [Learning DevOps from First Principles: What an EC2 Instance Actually Is](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-what-an-ec2-instance-actually-is-55dp) (2026-06-08)
+- [Same Hardware, Different Experience: Why Linux Feels Faster](https://dev.to/micheal_angelo_41cea4e81a/same-hardware-different-experience-why-linux-feels-faster-hih) (2026-06-08)
+- [Learning DevOps from First Principles: MAC Addresses vs IP Addresses — The Difference Finally Clicked](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-mac-addresses-vs-ip-addresses-the-difference-finally-3aef) (2026-06-08)
+- [The Actual Cost of Dead Air: What 20 Years of Station Outages Taught Us About Broadcast Economics](https://dev.to/qua_lekuch_8b2a126c50c656/the-actual-cost-of-dead-air-what-20-years-of-station-outages-taught-us-about-broadcast-economics-5cjm) (2026-06-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ From 12 Minutes to 90 Seconds: Our Epic Journey to Blazing Fast Go Builds](https://medium.com/@monikasinghal713/from-12-minutes-to-90-seconds-our-epic-journey-to-blazing-fast-go-builds-bc7f5cd896bf?source=rss------programming-5) (2026-06-07)
-- [One Service, Two Languages: My Go vs. Rust 2026 Deep Dive (And What I’d Pick) ](https://medium.com/@anshusinghal703/one-service-two-languages-my-go-vs-rust-2026-deep-dive-and-what-id-pick-87cb8c89dc87?source=rss------programming-5) (2026-06-07)
-- [Choosing the better status code for your API](https://medium.com/@akovtun/choosing-the-better-status-code-for-your-api-f7811c12b271?source=rss------programming-5) (2026-06-07)
-- [A Complete Guide to Starting with Programming: Your First Steps](https://medium.com/codex/a-complete-guide-to-starting-with-programming-your-first-steps-39020eaa5d09?source=rss------programming-5) (2026-06-07)
-- [Automatia Update: Unbalanced Skills](https://fwsgonzo.medium.com/automatia-update-unbalanced-skills-f81de79576a5?source=rss------programming-5) (2026-06-07)
+- [ Stateless 是什麼？為何常說網頁是 Stateless？](https://medium.com/@mindsteps.alex/stateless-%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%82%BA%E4%BD%95%E5%B8%B8%E8%AA%AA%E7%B6%B2%E9%A0%81%E6%98%AF-stateless-2a24a78bcfc4?source=rss------programming-5) (2026-06-08)
+- [I Gave Qwen3.7-Plus a Screenshot and It Found the Exact Pixel to Click for $0.40](https://pub.towardsai.net/i-gave-qwen3-7-plus-a-screenshot-and-it-found-the-exact-pixel-to-click-for-0-40-efb492e5aafd?source=rss------programming-5) (2026-06-08)
+- [ Part 9: Python Functions — Building Reusable Code Blocks](https://medium.com/@ai-futures/part-9-python-functions-building-reusable-code-blocks-d5d7301e057d?source=rss------programming-5) (2026-06-08)
+- [Forget Grid Frameworks. These 6 Native CSS Patterns Handle Most Real Layouts](https://medium.com/@pmLearners/forget-grid-frameworks-these-6-native-css-patterns-handle-most-real-layouts-076f61006e00?source=rss------programming-5) (2026-06-08)
+- [De FTP y servidores físicos a Vercel, Render y Supabase: cómo cambió el despliegue de aplicaciones…](https://medium.com/@nederig2171/de-ftp-y-servidores-f%C3%ADsicos-a-vercel-render-y-supabase-c%C3%B3mo-cambi%C3%B3-el-despliegue-de-aplicaciones-db71acf0f747?source=rss------programming-5) (2026-06-08)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/) (2026-06-08)
+- [NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/) (2026-06-07)
 - [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/) (2026-06-07)
 - [Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI](https://blogs.nvidia.com/blog/korea-ecosystem-2026/) (2026-06-05)
 - [Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/) (2026-06-04)
-- [NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale](https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/) (2026-06-03)
-- [NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/) (2026-06-03)
 
 </details>
 
@@ -304,6 +304,17 @@
 </details>
 
 <details>
+<summary>💎 JetBrains Blog</summary>
+
+- [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
+- [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
+- [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
+- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
+- [IntelliJ IDEA 2025.3.6 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2025-3-6/) (2026-06-03)
+
+</details>
+
+<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
@@ -355,6 +366,37 @@
 - [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
 - [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 - [How we built Cloudflare's data platform and an AI agent on top of it](https://blog.cloudflare.com/our-unified-data-platform/) (2026-05-28)
+
+</details>
+
+<details>
+<summary>📞 Twilio Blog</summary>
+
+- [
+Building with AI? Why You Should Connect Twilio's AI Skills
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
+) (2026-06-05)
+- [
+Conversational AI vs generative AI: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
+) (2026-06-04)
+- [
+How to build and deploy Conversational AI (the right way)
+](
+https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
+) (2026-06-03)
+- [
+How to Deploy a Vibe Coded Project
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
+) (2026-06-02)
+- [
+AI observability vs monitoring: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
+) (2026-06-01)
 
 </details>
 
@@ -460,11 +502,11 @@
 <details>
 <summary>💬 Slack API</summary>
 
-- [The Change Management Playbook for Major UI Rollouts](https://slack.com/blog/transformation/change-management-playbook-ui-rollouts) (2026-06-02)
-- [Slack Feature Drop: May the Productivity Be With You](https://slack.com/blog/news/feature-drop-may2026) (2026-05-29)
-- [Slack vs. Discord: Comparing Top Collaboration Tools](https://slack.com/blog/compare/slack-vs-discord) (2026-05-28)
-- [AI Message Writer](https://slack.com/blog/productivity/ai-message-writer) (2026-05-21)
-- [AI for Small Business](https://slack.com/blog/transformation/ai-for-small-business) (2026-05-21)
+- [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
+- [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
+- [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
+- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
+- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
 
 </details>
 
@@ -498,6 +540,28 @@
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
 - [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
+
+</details>
+
+<details>
+<summary>🤗 Hugging Face</summary>
+
+- [Amazing Digital Dentures (a failed project)](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures) (2026-06-07)
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
+- [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
+- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
+- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
+- [Amazon brings AI shopping assistant to retailers with Kate Spade](https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/) (2026-06-04)
+- [How E.ON uses SAP S/4HANA to modernise the grid with AI](https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/) (2026-06-03)
 
 </details>
 
