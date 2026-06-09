@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (2026-06-08)
-- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/) (2026-06-08)
-- [Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military](https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/) (2026-06-08)
-- [Apple just taught your iPhone to finish your sentences, your photos, and your workflows](https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/) (2026-06-08)
-- [Apple will let you build workflows using AI in its new Shortcuts app](https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/) (2026-06-08)
+- [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/) (2026-06-09)
+- [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/) (2026-06-09)
+- [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/) (2026-06-08)
+- [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) (2026-06-08)
+- [OpenAI files confidentially for IPO, following Anthropic](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) (2026-06-08)
-- [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size) (2026-06-08)
-- [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative) (2026-06-08)
-- [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/) (2026-06-08)
-- [Siri AI](https://www.apple.com/apple-intelligence/) (2026-06-08)
+- [We Think the SpaceX IPO Is Overvalued](https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545) (2026-06-09)
+- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/) (2026-06-09)
+- [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach) (2026-06-08)
+- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/) (2026-06-08)
+- [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple drops support for a long list of iPads and Apple Watches with latest OS updates](https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped) (2026-06-08)
-- [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026) (2026-06-08)
-- [Apple WWDC 2026: The 7 biggest announcements](https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27) (2026-06-08)
-- [WWDC 2026 bonus live blog: Tech Talk with Craig Federighi](https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi) (2026-06-08)
-- [Cameras get an Apple Intelligence boost in Apple Home](https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k) (2026-06-08)
+- [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid) (2026-06-08)
+- [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late) (2026-06-08)
+- [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things) (2026-06-08)
+- [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions) (2026-06-08)
+- [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc) (2026-06-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem](https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/) (2026-06-08)
-- [Say hi to "Siri AI"—Apple announces new, more "conversational" voice assistant](https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/) (2026-06-08)
-- [Gemini 3.5 and Antigravity come to Google NotebookLM](https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/) (2026-06-08)
-- [Your empty cuppa could capture carbon](https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/) (2026-06-08)
-- [For the 2nd time in weeks, Microsoft packages laced with credential stealer](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/) (2026-06-08)
+- [FCC lifts looming deadline for Amazon Leo satellite broadband constellation](https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/) (2026-06-09)
+- [Tests suggest Russian satellites can jam GPS on a continental scale](https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/) (2026-06-08)
+- [macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era](https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/) (2026-06-08)
+- [iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads](https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/) (2026-06-08)
+- [Meta alleges NSO violated spyware injunction with new WhatsApp attacks](https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/) (2026-06-08)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG (100% Private & $0 Cost)](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d) (2026-06-08)
-- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03) (2026-06-08)
-- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0) (2026-06-08)
-- [How to Migrate from Contentful to Cosmic in 30 Minutes](https://dev.to/tonyspiro/how-to-migrate-from-contentful-to-cosmic-in-30-minutes-3939) (2026-06-08)
-- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea) (2026-06-08)
+- [Paper 164 v0.1 — infinity-cosmoi Skeleton + Tetradic Completion of rhymeOrTheorem: 4-Step Continuation of Paper 163](https://dev.to/fc0web/paper-164-v01-infinity-cosmoi-skeleton-tetradic-completion-of-rhymeortheorem-4-step-46ff) (2026-06-09)
+- [How I Bypassed SSL Pinning on the Cars24 Android App (Without Rooting My Phone)](https://dev.to/sudhanshu_sharma_1ca7ff62/how-i-bypassed-ssl-pinning-on-the-cars24-android-app-without-rooting-my-phone-3hno) (2026-06-09)
+- [Audit Logging in Node.js: Who Did What, When, and How to Prove It](https://dev.to/zyvop/audit-logging-in-nodejs-who-did-what-when-and-how-to-prove-it-4ld7) (2026-06-09)
+- [Breaking the Monolith: Achieving True Scalability in Flutter Mobile Applications](https://dev.to/iremide0017/breaking-the-monolith-achieving-true-scalability-in-flutter-mobile-applications-40n4) (2026-06-09)
+- [Product Hunt Launch for an Indie Mac App — What I Did and What Happened](https://dev.to/hiyoyok/product-hunt-launch-for-an-indie-mac-app-what-i-did-and-what-happened-5d6f) (2026-06-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From “It Works on My PC” to “It Works Everywhere”: My Full-Stack Docker Breakthrough](https://medium.com/@patel.jay.brij03/from-it-works-on-my-pc-to-it-works-everywhere-my-full-stack-docker-breakthrough-1c065dac2441?source=rss------programming-5) (2026-06-08)
-- [ Go Smart, Not Hard: Top Strategies for Clean, Durable, and Maintainable Golang](https://medium.com/@monikasinghal713/go-smart-not-hard-top-strategies-for-clean-durable-and-maintainable-golang-8809505c8af1?source=rss------programming-5) (2026-06-08)
-- [Rust Turbocharged Our Python ML by 7.4×, But Nearly Broke Our Team ](https://medium.com/@anshusinghal703/rust-turbocharged-our-python-ml-by-7-4-but-nearly-broke-our-team-b9059901615c?source=rss------programming-5) (2026-06-08)
-- [Nobody Told Me Software Engineering Would Feel Like This](https://medium.com/@samardoesthat/nobody-told-me-software-engineering-would-feel-like-this-dc61fcaf6f29?source=rss------programming-5) (2026-06-08)
-- [Everyone learns to trade, then builds a bot. I did it backwards — and it worked.](https://medium.com/@hirushayatagama/everyone-learns-to-trade-then-builds-a-bot-i-did-it-backwards-and-it-worked-db2ed87e558b?source=rss------programming-5) (2026-06-08)
+- [Day 29: Stop Writing Linux Scripts Until You Understand Shebang (PATH, Executable Files, and More)](https://pawannatekar220.medium.com/day-29-stop-writing-linux-scripts-until-you-understand-shebang-path-executable-files-and-more-689a9d224139?source=rss------programming-5) (2026-06-09)
+- [รับเขียนโปรแกรมสำหรับธุรกิจขนาดเล็ก เจ้าไหนดีและราคาย่อมเยา](https://medium.com/@saharatanydesk/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B8%B2-ed5b2ae93aef?source=rss------programming-5) (2026-06-09)
+- [Peeking Under Git’s Hood: An Experiment From Local Repo to Remote Server](https://medium.com/tech-in-olx-indonesia/peeking-under-gits-hood-an-experiment-from-local-repo-to-remote-server-491fe5e400c0?source=rss------programming-5) (2026-06-09)
+- [How Async Really Works in Java: Virtual Threads, Reactive Programming, and the Thread-Per-Request…](https://medium.com/codetodeploy/how-async-really-works-in-java-virtual-threads-reactive-programming-and-the-thread-per-request-b1495095fb9f?source=rss------programming-5) (2026-06-09)
+- [7 Habits That Help Developers Improve Faster](https://sumanthpoola.medium.com/7-habits-that-help-developers-improve-faster-15114d46c256?source=rss------programming-5) (2026-06-09)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/) (2026-06-08)
 - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) (2026-06-05)
 - [Improve your application resilience with Amazon Cognito multi-Region replication](https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/) (2026-06-03)
 - [Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/) (2026-06-01)
 - [AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/) (2026-06-01)
-- [Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/) (2026-05-28)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
 - [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
-- [Weis Markets adds Instacart AI-powered shopping carts to stores](https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/) (2026-06-08)
-- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
-- [Meta Business Agent drives AI-powered conversational commerce](https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/) (2026-06-04)
-- [Scout from M’Soft is the agentic Autopilot that works across M365](https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/) (2026-06-04)
 
 </details>
 
