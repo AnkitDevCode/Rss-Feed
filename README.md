@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple’s App Store rolls out personalized recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) (2026-06-09)
+- [Sandstone raises $30M to bring AI to in-house legal teams](https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/) (2026-06-09)
+- [Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week](https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/) (2026-06-09)
+- [How an e-scooter founder raised $5 million to build space data centers](https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/) (2026-06-09)
 - [Evotrex raises $30M to build the RV that doesn’t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/) (2026-06-09)
-- [Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/) (2026-06-09)
-- [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/) (2026-06-09)
-- [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/) (2026-06-09)
-- [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) (2026-06-09)
-- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (2026-06-09)
-- [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966) (2026-06-09)
-- [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers) (2026-06-09)
-- [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/) (2026-06-09)
+- [WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/) (2026-06-09)
+- [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/) (2026-06-09)
+- [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/) (2026-06-09)
+- [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer) (2026-06-09)
+- [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/) (2026-06-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Donut Lab’s solid-state battery claim debunked by Ziroth](https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery) (2026-06-09)
-- [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid) (2026-06-08)
-- [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late) (2026-06-08)
-- [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things) (2026-06-08)
-- [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions) (2026-06-08)
+- [Nintendo Direct June 2026: All the news and trailers](https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news) (2026-06-09)
+- [Apple’s best AI idea looks a lot like vibe coding](https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code) (2026-06-09)
+- [Apple dials down Liquid Glass, and the Mac looks way better for it](https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on) (2026-06-09)
+- [The Rivian R2 is too much fun to let drive itself](https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev) (2026-06-09)
+- [Apple’s AI pitch will live or die by its privacy promise](https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc) (2026-06-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Apple says its AI is still private, even when it's running on Google's servers](https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/) (2026-06-09)
+- [First Drive: The 2027 Rivian R2 entirely changes the EV game](https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/) (2026-06-09)
 - [FCC lifts looming deadline for Amazon Leo satellite broadband constellation](https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/) (2026-06-09)
 - [Tests suggest Russian satellites can jam GPS on a continental scale](https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/) (2026-06-08)
 - [macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era](https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/) (2026-06-08)
-- [iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads](https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/) (2026-06-08)
-- [Meta alleges NSO violated spyware injunction with new WhatsApp attacks](https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: whole-body rejuvenation drugs and five things to know about AI](https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/) (2026-06-09)
+- [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) (2026-06-09)
+- [David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition](https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/) (2026-06-09)
+- [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) (2026-06-09)
 - [The Download: how the World Cup ball will fly and OpenAI’s “super app”](https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/) (2026-06-08)
-- [Why this year’s World Cup ball may not fly as far](https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/) (2026-06-08)
-- [The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/) (2026-06-05)
-- [Are AI chatbots making us lose control of our brains?](https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/) (2026-06-05)
-- [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) (2026-06-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [OpenTelemetry Observability Guide: How to Optimize Metrics, Logs, and Traces at Scale](https://dev.to/tejaswita_soni/opentelemetry-observability-guide-how-to-optimize-metrics-logs-and-traces-at-scale-1ni4) (2026-06-09)
-- [The 4-layer voice-agent latency stack, traced with OTel spans](https://dev.to/realmarcuschen/the-4-layer-voice-agent-latency-stack-traced-with-otel-spans-37hp) (2026-06-09)
-- [QN : Ingest and transform data in a lakehouse](https://dev.to/pauletart/ingest-and-transform-data-in-a-lakehouse-2kcf) (2026-06-09)
-- [Building a Low-Latency Voice AI Sales Agent with ElevenLabs and n8n (End-to-End Blueprint)](https://dev.to/whoisalfaz/building-a-low-latency-voice-ai-sales-agent-with-elevenlabs-and-n8n-end-to-end-blueprint-n7) (2026-06-09)
-- [Search bug or model bug - testing a RAG system to tell them apart](https://dev.to/sara_bezjak/search-bug-or-model-bug-testing-a-rag-system-to-tell-them-apart-2fa7) (2026-06-09)
+- [The most dangerous line of code your AI agent writes is the test that passes](https://dev.to/deepaksatyam/the-most-dangerous-line-of-code-your-ai-agent-writes-is-the-test-that-passes-23ko) (2026-06-09)
+- [AWS's 'Autonoma': A Primer on the Operator-Less Cloud](https://dev.to/prabashanadev/awss-autonoma-a-primer-on-the-operator-less-cloud-36p9) (2026-06-09)
+- [I built A-Society: structure for how AI agents work on a project](https://dev.to/kartikgs/i-built-a-society-structure-for-how-ai-agents-work-on-a-project-4a68) (2026-06-09)
+- [Cloud Concepts Explained: 6 Key Concepts Every Beginner Needs to Know](https://dev.to/degreatkhali/cloud-concepts-explained-6-key-concepts-every-beginner-needs-to-know-1cgf) (2026-06-09)
+- [Why Operational Excellence is the foundation for enterprise AI experimentation and why AWS Innovation Sandbox has me excited.](https://dev.to/antony_gino_3c1a2f4885146/why-operational-excellence-is-the-foundation-for-enterprise-ai-experimentation-and-why-aws-3d1b) (2026-06-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Selecting the Right AI Delivery Model: COTS, Custom-Built, or Hybrid](https://medium.com/@sdguptan/selecting-the-right-ai-delivery-model-cots-custom-built-or-hybrid-01589244df45?source=rss------programming-5) (2026-06-09)
-- [The Forgotten Skill That Makes You a 10x Better Hacker (It’s Not What You Think)](https://medium.com/@neonmaxima/the-forgotten-skill-that-makes-you-a-10x-better-hacker-its-not-what-you-think-ceb8a5544494?source=rss------programming-5) (2026-06-09)
-- [JAKARTA FASHION WEEK](https://medium.com/@tryasstiaraangkasamudra/jakarta-fashion-week-83a7de6a1112?source=rss------programming-5) (2026-06-09)
-- [The Bank Balance That Wouldn’t Stay Put: Learning Swift 6 Concurrency the Hard Way](https://medium.com/@ebukaezepue/the-bank-balance-that-wouldnt-stay-put-learning-swift-6-concurrency-the-hard-way-1d731f1a4276?source=rss------programming-5) (2026-06-09)
-- [Drag, Drop, dan Render yang Tidak Pernah Berhenti: Pelajaran dari Membangun Taskify](https://medium.com/@rakanuarinugraha/drag-drop-dan-render-yang-tidak-pernah-berhenti-pelajaran-dari-membangun-taskify-76933ef323ab?source=rss------programming-5) (2026-06-09)
+- [Claude Code vs. Codex vs. Cursor: The AI Coding Agent Showdown Engineers Are Talking About](https://pub.towardsai.net/claude-code-vs-codex-vs-cursor-the-ai-coding-agent-showdown-engineers-are-talking-about-c3b18e0a3b79?source=rss------programming-5) (2026-06-09)
+- [How I Learn Programming Faster with Anki (And Why Most Developers Ignore It)](https://medium.com/@everyoneitsaj/how-i-learn-programming-faster-with-anki-and-why-most-developers-ignore-it-84d7aeb0fa29?source=rss------programming-5) (2026-06-09)
+- [Shelflife — The Experiment Within The Experiment](https://blog.stackademic.com/shelflife-the-experiment-within-the-experiment-2e9988e6e4cc?source=rss------programming-5) (2026-06-09)
+- [The Fake Senior Epidemic: Engineering Leadership and the Slow Erosion of Technical Depth](https://medium.com/@DigitalLeverage/the-fake-senior-epidemic-engineering-leadership-and-the-slow-erosion-of-technical-depth-663245f74721?source=rss------programming-5) (2026-06-09)
+- [Last Fall’s Guess is Now Your Team’s Commitment](https://blog.stackademic.com/last-falls-guess-is-now-your-team-s-commitment-e18132c0385c?source=rss------programming-5) (2026-06-09)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Fewer False Alarms, Better Coding Flow in RustRover 2026.2](https://blog.jetbrains.com/rust/2026/06/09/fewer-false-positives-rustrover/) (2026-06-09)
 - [Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More.](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/) (2026-06-08)
 - [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
 - [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
 - [IntelliJ IDEA 2026.1.3 Is Out!](https://blog.jetbrains.com/idea/2026/06/intellij-idea-2026-1-3/) (2026-06-04)
-- [Async VFS Content Writes – What Plugin Authors Need to Know](https://blog.jetbrains.com/platform/2026/06/async-vfs-content-writes-what-plugin-authors-need-to-know/) (2026-06-03)
 
 </details>
 
@@ -361,17 +361,22 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Defend against frontier cyber models: Cloudflare's architecture as customer zero](https://blog.cloudflare.com/frontier-model-defense/) (2026-06-09)
 - [Turning Cloudflare’s threat indicators into real-time WAF rules](https://blog.cloudflare.com/realtime-threat-intel-waf-rules/) (2026-06-08)
 - [Your AI bill is out of control. Cloudflare can fix it now. ](https://blog.cloudflare.com/ai-gateway-spend-limits/) (2026-06-05)
 - [VoidZero is joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) (2026-06-04)
 - [Enforcing the First AS in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/) (2026-06-03)
-- [How we reduced core unit boot time from hours to minutes](https://blog.cloudflare.com/optimizing-core-unit-boot-time/) (2026-06-01)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Answer Support Calls, Then Handle Them Using SMS in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
+) (2026-06-08)
 - [
 Building with AI? Why You Should Connect Twilio's AI Skills
 ](
@@ -392,11 +397,6 @@ How to Deploy a Vibe Coded Project
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
 ) (2026-06-02)
-- [
-AI observability vs monitoring: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
-) (2026-06-01)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain](https://huggingface.co/blog/build-small-hackathon/neurobait-adhd) (2026-06-09)
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
@@ -555,46 +555,35 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [How to sign PDFs easily online with a PDF signer](https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/) (2026-06-09)
-- [Autonomous AI Data Loss in DevOps: Building Efficient Defenses](https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/) (2026-06-09)
-- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
-- [Weis Markets adds Instacart AI-powered shopping carts to stores](https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/) (2026-06-08)
-- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines](https://towardsdatascience.com/kv-cache-reuse-for-multi-agent-llm-inference-i-built-a-c-orchestrator-so-my-gpu-would-stop-reading-the-same-document-twice/) (2026-06-09)
+- [The Exact ML Project I’d Build to Get Hired in 2026](https://towardsdatascience.com/the-exact-ml-project-that-gets-you-hired-full-breakdown/) (2026-06-09)
 - [Can Machine Learning Predict the World Cup?](https://towardsdatascience.com/can-machine-learning-predict-the-world-cup/) (2026-06-09)
 - [Increase Recommendation Systems’ Precision with LLMs, Using Python](https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/) (2026-06-08)
 - [How to Keep Quantum Information Alive for Machine Learning](https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/) (2026-06-08)
-- [4 New Techniques to Maximize Claude Code](https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/) (2026-06-08)
-- [Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks](https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Prophet vs NeuralProphet vs TimeGPT vs Chronos: A Practical Comparison](https://www.analyticsvidhya.com/blog/2026/06/time-series-forecasting-tools/) (2026-06-09)
 - [Build an Emergency Helpline Voice Agent with LangChain](https://www.analyticsvidhya.com/blog/2026/06/build-an-ai-voice-agent-with-langchain/) (2026-06-08)
 - [Choosing the Right Vector Database for RAG and AI Applications](https://www.analyticsvidhya.com/blog/2026/06/vector-database-comparison/) (2026-06-08)
 - [Google Gemma 4 12B: Architecture, Benchmarks, Access, and Hands-on Guide for Developers ](https://www.analyticsvidhya.com/blog/2026/06/google-gemma-4-12b/) (2026-06-05)
 - [How to Choose the Right AI Model for Your Needs](https://www.analyticsvidhya.com/blog/2026/06/how-to-choose-the-right-ai-model/) (2026-06-04)
-- [Agent Observability with LangSmith, Langfuse, and Arize: A Hands-On Comparison ](https://www.analyticsvidhya.com/blog/2026/06/agent-observability-with-langsmith-langfuse-arize/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Best Free Image Generators on Hugging Face Right Now!](https://www.kdnuggets.com/best-free-image-generators-on-hugging-face-right-now) (2026-06-09)
+- [10 GitHub Repositories for Web Development in Python](https://www.kdnuggets.com/10-github-repositories-for-web-development-in-python) (2026-06-09)
 - [Why Do LLMs Corrupt Your Documents When You Delegate?](https://www.kdnuggets.com/why-do-llms-corrupt-your-documents-when-you-delegate) (2026-06-08)
 - [Anthropic’s Complete Guide to Claude Skills Building](https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building) (2026-06-08)
 - [5 Must-Know Python Concepts for AI Engineers](https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers) (2026-06-08)
-- [A Deep Dive into Calibration of Language Models: Platt Scaling, Isotonic Regression, Temperature Scaling](https://www.kdnuggets.com/a-deep-dive-into-calibration-of-language-models-platt-scaling-isotonic-regression-temperature-scaling) (2026-06-05)
-- [3 SpaCy Tricks for Efficient Text Processing & Entity Recognition](https://www.kdnuggets.com/3-spacy-tricks-for-efficient-text-processing-entity-recognition) (2026-06-05)
 
 </details>
 
@@ -623,11 +612,11 @@ https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) (2026-06-09)
+- [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) (2026-06-09)
+- [Measuring the impact of learning with AI in Sierra Leone and beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/) (2026-06-08)
 - [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) (2026-05-21)
 - [Fast-tracking genetic leads to reverse cellular aging](https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/) (2026-05-18)
-- [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/) (2026-05-17)
-- [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/) (2026-05-17)
-- [Introducing Google Antigravity 2.0](https://deepmind.google/blog/introducing-google-antigravity-2-0/) (2026-05-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
