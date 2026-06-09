@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Evotrex raises $30M to build the RV that doesn’t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/) (2026-06-09)
+- [Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/) (2026-06-09)
 - [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/) (2026-06-09)
 - [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/) (2026-06-09)
 - [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/) (2026-06-08)
-- [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) (2026-06-08)
-- [OpenAI files confidentially for IPO, following Anthropic](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/) (2026-06-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [We Think the SpaceX IPO Is Overvalued](https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545) (2026-06-09)
-- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/) (2026-06-09)
-- [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach) (2026-06-08)
-- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/) (2026-06-08)
-- [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/) (2026-06-08)
+- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) (2026-06-09)
+- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (2026-06-09)
+- [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966) (2026-06-09)
+- [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers) (2026-06-09)
+- [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/) (2026-06-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Donut Lab’s solid-state battery claim debunked by Ziroth](https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery) (2026-06-09)
 - [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid) (2026-06-08)
 - [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late) (2026-06-08)
 - [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things) (2026-06-08)
 - [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions) (2026-06-08)
-- [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc) (2026-06-08)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Creating checkpoints by gaslighting a Postgres database​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌‌‍​﻿‌‍​‍​﻿​​‌‍​﻿‌‍​‍​﻿​﻿​﻿‍‌​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‍‌​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‍‌​‍﻿‌​﻿‍‌​﻿​‍‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌‍‌‍​‌​﻿‍​‌‍​‌‌‍‌​‌‍‌‌‌‍‌‍​﻿‍​‌‍‌​‌‍​﻿​﻿​​​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌‌‍​﻿‌‍​‍​﻿​​‌‍​﻿‌‍​‍​﻿​﻿​﻿‍‌​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‍‌​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‍‌​‍﻿‌​﻿‍‌​﻿​‍‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌‍‌‍​‌​﻿‍​‌‍​‌‌‍‌​‌‍‌‌‌‍‌‍​﻿‍​‌‍‌​‌‍​﻿​﻿​​​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/) (2026-06-09)
 - [Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/) (2026-06-05)
 - [What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/) (2026-06-02)
 - [Best of the Heap: First post of the past​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/) (2026-05-29)
 - [The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/) (2026-05-29)
-- [In an AI world, the most valuable developers will be both artisans and builders​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/28/artisans-and-builders/) (2026-05-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Paper 164 v0.1 — infinity-cosmoi Skeleton + Tetradic Completion of rhymeOrTheorem: 4-Step Continuation of Paper 163](https://dev.to/fc0web/paper-164-v01-infinity-cosmoi-skeleton-tetradic-completion-of-rhymeortheorem-4-step-46ff) (2026-06-09)
-- [How I Bypassed SSL Pinning on the Cars24 Android App (Without Rooting My Phone)](https://dev.to/sudhanshu_sharma_1ca7ff62/how-i-bypassed-ssl-pinning-on-the-cars24-android-app-without-rooting-my-phone-3hno) (2026-06-09)
-- [Audit Logging in Node.js: Who Did What, When, and How to Prove It](https://dev.to/zyvop/audit-logging-in-nodejs-who-did-what-when-and-how-to-prove-it-4ld7) (2026-06-09)
-- [Breaking the Monolith: Achieving True Scalability in Flutter Mobile Applications](https://dev.to/iremide0017/breaking-the-monolith-achieving-true-scalability-in-flutter-mobile-applications-40n4) (2026-06-09)
-- [Product Hunt Launch for an Indie Mac App — What I Did and What Happened](https://dev.to/hiyoyok/product-hunt-launch-for-an-indie-mac-app-what-i-did-and-what-happened-5d6f) (2026-06-09)
+- [OpenTelemetry Observability Guide: How to Optimize Metrics, Logs, and Traces at Scale](https://dev.to/tejaswita_soni/opentelemetry-observability-guide-how-to-optimize-metrics-logs-and-traces-at-scale-1ni4) (2026-06-09)
+- [The 4-layer voice-agent latency stack, traced with OTel spans](https://dev.to/realmarcuschen/the-4-layer-voice-agent-latency-stack-traced-with-otel-spans-37hp) (2026-06-09)
+- [QN : Ingest and transform data in a lakehouse](https://dev.to/pauletart/ingest-and-transform-data-in-a-lakehouse-2kcf) (2026-06-09)
+- [Building a Low-Latency Voice AI Sales Agent with ElevenLabs and n8n (End-to-End Blueprint)](https://dev.to/whoisalfaz/building-a-low-latency-voice-ai-sales-agent-with-elevenlabs-and-n8n-end-to-end-blueprint-n7) (2026-06-09)
+- [Search bug or model bug - testing a RAG system to tell them apart](https://dev.to/sara_bezjak/search-bug-or-model-bug-testing-a-rag-system-to-tell-them-apart-2fa7) (2026-06-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 29: Stop Writing Linux Scripts Until You Understand Shebang (PATH, Executable Files, and More)](https://pawannatekar220.medium.com/day-29-stop-writing-linux-scripts-until-you-understand-shebang-path-executable-files-and-more-689a9d224139?source=rss------programming-5) (2026-06-09)
-- [รับเขียนโปรแกรมสำหรับธุรกิจขนาดเล็ก เจ้าไหนดีและราคาย่อมเยา](https://medium.com/@saharatanydesk/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B8%B2-ed5b2ae93aef?source=rss------programming-5) (2026-06-09)
-- [Peeking Under Git’s Hood: An Experiment From Local Repo to Remote Server](https://medium.com/tech-in-olx-indonesia/peeking-under-gits-hood-an-experiment-from-local-repo-to-remote-server-491fe5e400c0?source=rss------programming-5) (2026-06-09)
-- [How Async Really Works in Java: Virtual Threads, Reactive Programming, and the Thread-Per-Request…](https://medium.com/codetodeploy/how-async-really-works-in-java-virtual-threads-reactive-programming-and-the-thread-per-request-b1495095fb9f?source=rss------programming-5) (2026-06-09)
-- [7 Habits That Help Developers Improve Faster](https://sumanthpoola.medium.com/7-habits-that-help-developers-improve-faster-15114d46c256?source=rss------programming-5) (2026-06-09)
+- [Selecting the Right AI Delivery Model: COTS, Custom-Built, or Hybrid](https://medium.com/@sdguptan/selecting-the-right-ai-delivery-model-cots-custom-built-or-hybrid-01589244df45?source=rss------programming-5) (2026-06-09)
+- [The Forgotten Skill That Makes You a 10x Better Hacker (It’s Not What You Think)](https://medium.com/@neonmaxima/the-forgotten-skill-that-makes-you-a-10x-better-hacker-its-not-what-you-think-ceb8a5544494?source=rss------programming-5) (2026-06-09)
+- [JAKARTA FASHION WEEK](https://medium.com/@tryasstiaraangkasamudra/jakarta-fashion-week-83a7de6a1112?source=rss------programming-5) (2026-06-09)
+- [The Bank Balance That Wouldn’t Stay Put: Learning Swift 6 Concurrency the Hard Way](https://medium.com/@ebukaezepue/the-bank-balance-that-wouldnt-stay-put-learning-swift-6-concurrency-the-hard-way-1d731f1a4276?source=rss------programming-5) (2026-06-09)
+- [Drag, Drop, dan Render yang Tidak Pernah Berhenti: Pelajaran dari Membangun Taskify](https://medium.com/@rakanuarinugraha/drag-drop-dan-render-yang-tidak-pernah-berhenti-pelajaran-dari-membangun-taskify-76933ef323ab?source=rss------programming-5) (2026-06-09)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [DeepSeek enters the fight for token volume, Anthropic continues to dominate spend](https://vercel.com/blog/ai-gateway-production-index-june-2026) (2026-06-08)
 - [Drives for Vercel Sandbox in Private Beta](https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta) (2026-06-05)
 - [The skills.sh API is now available](https://vercel.com/changelog/the-skills-sh-api-is-now-available) (2026-06-05)
 - [Updates to Legal Terms](https://vercel.com/changelog/updates-to-legal-terms-june-2026) (2026-06-04)
 - [Nemotron 3 Ultra now available on AI Gateway](https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway) (2026-06-04)
-- [Build and deploy Shopify storefronts on Vercel](https://vercel.com/changelog/build-and-deploy-shopify-storefronts-on-vercel) (2026-06-04)
 
 </details>
 
@@ -372,11 +372,6 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
-- [
-Answer Support Calls, Then Handle Them Using SMS in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
-) (2026-06-08)
 - [
 Building with AI? Why You Should Connect Twilio's AI Skills
 ](
@@ -397,6 +392,11 @@ How to Deploy a Vibe Coded Project
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-project
 ) (2026-06-02)
+- [
+AI observability vs monitoring: What's the difference?
+](
+https://www.twilio.com/en-us/blog/insights/ai-observability-vs-monitoring
+) (2026-06-01)
 
 </details>
 
@@ -546,22 +546,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-deploy-vibe-coded-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain](https://huggingface.co/blog/build-small-hackathon/neurobait-adhd) (2026-06-09)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) (2026-06-04)
-- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) (2026-06-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How to sign PDFs easily online with a PDF signer](https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/) (2026-06-09)
+- [Autonomous AI Data Loss in DevOps: Building Efficient Defenses](https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/) (2026-06-09)
+- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
+- [Weis Markets adds Instacart AI-powered shopping carts to stores](https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/) (2026-06-08)
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Can Machine Learning Predict the World Cup?](https://towardsdatascience.com/can-machine-learning-predict-the-world-cup/) (2026-06-09)
 - [Increase Recommendation Systems’ Precision with LLMs, Using Python](https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/) (2026-06-08)
 - [How to Keep Quantum Information Alive for Machine Learning](https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/) (2026-06-08)
 - [4 New Techniques to Maximize Claude Code](https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/) (2026-06-08)
 - [Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks](https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/) (2026-06-08)
-- [The Polynomial That Fixed 30 Years of Cloth Simulation](https://towardsdatascience.com/the-polynomial-that-fixed-30-years-of-cloth-simulation/) (2026-06-08)
 
 </details>
 
