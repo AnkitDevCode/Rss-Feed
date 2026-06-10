@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/) (2026-06-10)
+- [Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/) (2026-06-10)
+- [Top Lucid Motors executive departs amid new CEO’s leadership shakeup](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/) (2026-06-10)
 - [Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/) (2026-06-10)
 - [How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund](https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/) (2026-06-09)
-- [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/) (2026-06-09)
-- [Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/) (2026-06-09)
-- [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/) (2026-06-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656) (2026-06-10)
-- [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) (2026-06-10)
-- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) (2026-06-10)
-- [It's death](https://jesseduffield.com/ITS-DEATH/) (2026-06-09)
-- [Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus) (2026-06-09)
+- [Port React Compiler to Rust](https://github.com/react/react/pull/36173) (2026-06-10)
+- [European sentiments towards the US hit an all-time low](https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/) (2026-06-10)
+- [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166) (2026-06-10)
+- [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) (2026-06-10)
+- [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/) (2026-06-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft is disabling Office 2019 for Mac next month](https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit) (2026-06-10)
+- [Waymo built a virtual driver to study how humans react to surprises on the road](https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision) (2026-06-10)
+- [WhatsApp ordered to host rival AI assistants for free](https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order) (2026-06-10)
+- [Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse](https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on) (2026-06-10)
 - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc) (2026-06-09)
-- [Congress just gave DHS another $70 billion](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation) (2026-06-09)
-- [The App Store is going to add subscription bundles soon](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store) (2026-06-09)
-- [GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech](https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion) (2026-06-09)
-- [Microsoft AI head calls out Anthropic for acting like Claude is conscious](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious) (2026-06-09)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The “steroid olympics” were a circus—and a window into our culture](https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/) (2026-06-10)
 - [The Download: whole-body rejuvenation drugs and five things to know about AI](https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/) (2026-06-09)
 - [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) (2026-06-09)
 - [David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition](https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/) (2026-06-09)
 - [Five things you need to know about AI](https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/) (2026-06-09)
-- [The Download: how the World Cup ball will fly and OpenAI’s “super app”](https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/) (2026-06-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Menubar Apps Are Underrated. Here's Why I Keep Building Them.](https://dev.to/hiyoyok/menubar-apps-are-underrated-heres-why-i-keep-building-them-299g) (2026-06-10)
-- [What Is a One Person Company? — Why 16 Million People Chose It in 2026](https://dev.to/cx330aurora/what-is-a-one-person-company-why-16-million-people-chose-it-in-2026-3f6k) (2026-06-10)
-- [What Is Vibe Coding? Why Are Millions of Developers Using It?](https://dev.to/dufrence/what-is-vibe-coding-why-are-millions-of-developers-using-it-5bf5) (2026-06-10)
-- [RikKishanSahayak-Pro](https://dev.to/rikmakershub/rikkishansahayak-pro-k4j) (2026-06-10)
-- [Make Your AI Coding Agent Transparent - See What It Actually Sends to the Model](https://dev.to/houleixx/make-your-ai-coding-agent-transparent-see-what-it-actually-sends-to-the-model-4inn) (2026-06-10)
+- [Built my first proper agentic AI project](https://dev.to/casperday11/built-my-first-proper-agentic-ai-project-4383) (2026-06-10)
+- [A quick preflight for Shopify CSV image URLs before import](https://dev.to/_172c9b2760d6c5bc1e8966/a-quick-preflight-for-shopify-csv-image-urls-before-import-2j52) (2026-06-10)
+- [Why I Stopped Using reset() and end() in PHP (And What I Use Now)](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof) (2026-06-10)
+- [10 MCP Servers That Actually Improve Your Development Workflow in 2026](https://dev.to/z_z_c01afd7cf4c3764a2c73d/10-mcp-servers-that-actually-improve-your-development-workflow-in-2026-277d) (2026-06-10)
+- [I built 50+ developer tools that run entirely in your browser — here's why privacy matters and how I did it](https://dev.to/hanuman226/i-built-50-developer-tools-that-run-entirely-in-your-browser-heres-why-privacy-matters-and-how-1g8g) (2026-06-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Lessons From the Data Pipeline Trenches: What Every Engineer Should Know Before Building at Scale](https://medium.com/@alan_luo/7-lessons-from-the-data-pipeline-trenches-what-every-engineer-should-know-before-building-at-scale-36385df0a0bf?source=rss------programming-5) (2026-06-10)
-- [The Dark Coding Music Built for Deadline Nights](https://medium.com/@builderprotocol/the-dark-coding-music-built-for-deadline-nights-14f1b12e9285?source=rss------programming-5) (2026-06-10)
-- [I Built a System So Fake Reviews Can’t Exist. Here’s How.](https://medium.com/@samirlamixhanegurung/i-built-a-system-so-fake-reviews-cant-exist-here-s-how-0a8dc9b7482d?source=rss------programming-5) (2026-06-10)
-- [This Week in AI: Apple Went Local, GitHub Got Agentic, and NVIDIA Built a Model That Refuses to…](https://milind-divre.medium.com/this-week-in-ai-apple-went-local-github-got-agentic-and-nvidia-built-a-model-that-refuses-to-ef945ec6e1f3?source=rss------programming-5) (2026-06-10)
-- [MAKİNE ÖĞRENMESİ DÜNYASI](https://medium.com/@bedirhan.ali.akcay/maki%CC%87ne-%C3%B6%C4%9Frenmesi%CC%87-d%C3%BCnyasi-541950a1e77d?source=rss------programming-5) (2026-06-10)
+- [Selenium vs Playwright in 2026: Which I’d Actually Use](https://blog.stackademic.com/selenium-vs-playwright-2026-which-id-actually-use-c956be7425c9?source=rss------programming-5) (2026-06-10)
+- [The Day I Realized AI Is Powerful, But It Can’t Replace Human Judgment](https://blog.stackademic.com/the-day-i-realized-ai-is-powerful-but-it-cant-replace-human-judgment-6bd6b70c9e2e?source=rss------programming-5) (2026-06-10)
+- [90% of Spring Boot Developers Get This @Resource Interview Question Wrong](https://blog.stackademic.com/90-of-spring-boot-developers-get-this-resource-interview-question-wrong-e2be8228aa2d?source=rss------programming-5) (2026-06-10)
+- [The React Native Code I Regret Writing (And Why It Seemed Like a Good Idea at the Time)](https://medium.com/@Thatreactnativeguy/the-react-native-code-i-regret-writing-and-why-it-seemed-like-a-good-idea-at-the-time-33a924fae6fd?source=rss------programming-5) (2026-06-10)
+- [Cloudflare Says Bots Now Outnumber Humans Online. They Don’t Click Your Ads.](https://generativeai.pub/cloudflare-says-bots-now-outnumber-humans-online-they-dont-click-your-ads-540025f1f2c4?source=rss------programming-5) (2026-06-10)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Agentic AI Governance: Designing for Accountability and Control](https://blog.jetbrains.com/ai/2026/06/agentic-ai-governance-designing-for-accountability-and-control/) (2026-06-10)
 - [JetBrains Plugin Developer Conf 2026 – Call for Speakers](https://blog.jetbrains.com/platform/2026/06/jetbrains-plugin-developer-conf-2026-call-for-speakers/) (2026-06-09)
 - [Fewer False Alarms, Better Coding Flow in RustRover 2026.2](https://blog.jetbrains.com/rust/2026/06/09/fewer-false-positives-rustrover/) (2026-06-09)
 - [Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More.](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/) (2026-06-08)
 - [Why Zig Isn’t 1.0 (Yet)](https://blog.jetbrains.com/blog/2026/06/05/why-zig-isn-t-1-0-yet/) (2026-06-05)
-- [Java Annotated Monthly – June 2026 ](https://blog.jetbrains.com/idea/2026/06/java-annotated-monthly-june-2026/) (2026-06-05)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Introducing GitLab Orbit: Full code and lifecycle context, in one query](https://about.gitlab.com/blog/introducing-gitlab-orbit/) (2026-06-10)
+- [GitLab Flex: Commit once, reshape your seats and AI spend](https://about.gitlab.com/blog/introducing-gitlab-flex/) (2026-06-10)
+- [GitLab on Google Cloud: Fully managed, compliant, and AI-ready](https://about.gitlab.com/blog/gitlab-expands-google-model-support/) (2026-06-10)
 - [Shai-Hulud copycat campaign targets Python developers through PyPI typosquatting](https://about.gitlab.com/blog/shai-hulud-copycat-campaign-targets-python-developers/) (2026-06-09)
 - [Mythos-class Claude Fable 5 arrives on GitLab Duo Agent Platform](https://about.gitlab.com/blog/mythos-class-claude-fable-5-on-gitlab/) (2026-06-09)
-- [GitLab Patch Release: 19.0.1, 18.11.4, 18.10.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-0-1-released/) (2026-05-28)
-- [Claude Opus 4.8 on GitLab: Complex agentic work, less disruption](https://about.gitlab.com/blog/claude-opus-4-8-on-gitlab/) (2026-05-28)
-- [Agentic coding is only as good as its context](https://about.gitlab.com/blog/agentic-coding-only-as-good-as-context/) (2026-05-28)
 
 </details>
 
@@ -555,6 +555,17 @@ https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How to sign PDFs easily online with a PDF signer](https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/) (2026-06-09)
+- [Autonomous AI Data Loss in DevOps: Building Efficient Defenses](https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/) (2026-06-09)
+- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
+- [Weis Markets adds Instacart AI-powered shopping carts to stores](https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/) (2026-06-08)
+- [How C3 AI agents will automate predictive maintenance for Shell](https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/) (2026-06-05)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [10 Common RAG Mistakes We Keep Seeing in Production](https://towardsdatascience.com/10-common-rag-mistakes-we-keep-seeing-in-production/) (2026-06-09)
@@ -568,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 AI Engineering Tools Everyone is Using in 2026](https://www.analyticsvidhya.com/blog/2026/06/ai-engineering-tools-everyone-is-using-in-2026/) (2026-06-10)
 - [I Tested Claude Fable 5: Can Anthropic’s Newest AI Deliver on the Hype?](https://www.analyticsvidhya.com/blog/2026/06/testing-claude-fable-5-hype-or-reality/) (2026-06-09)
 - [Prophet vs NeuralProphet vs TimeGPT vs Chronos: A Practical Comparison](https://www.analyticsvidhya.com/blog/2026/06/time-series-forecasting-tools/) (2026-06-09)
 - [Build an Emergency Helpline Voice Agent with LangChain](https://www.analyticsvidhya.com/blog/2026/06/build-an-ai-voice-agent-with-langchain/) (2026-06-08)
 - [Choosing the Right Vector Database for RAG and AI Applications](https://www.analyticsvidhya.com/blog/2026/06/vector-database-comparison/) (2026-06-08)
-- [Google Gemma 4 12B: Architecture, Benchmarks, Access, and Hands-on Guide for Developers ](https://www.analyticsvidhya.com/blog/2026/06/google-gemma-4-12b/) (2026-06-05)
 
 </details>
 
