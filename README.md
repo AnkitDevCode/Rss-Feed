@@ -7,57 +7,46 @@
 <!-- BLOG-POST-LIST:START -->
 
 <details>
-<summary>💡 Microsoft AI Blog</summary>
-
-- [A conversation with Kevin Scott: What’s next in AI](https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/) (2022-12-06)
-- [From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative](https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/) (2022-10-12)
-- [Microsoft open sources its ‘farm of the future’ toolkit](https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/) (2022-10-06)
-- [How data and AI will transform contact centres for financial services](https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/) (2022-07-25)
-- [AI-equipped drones study dolphins on the edge of extinction](https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/) (2022-07-21)
-
-</details>
-
-<details>
 <summary>🚀 TechCrunch</summary>
 
-- [Why enterprise AI will be a major focus at VivaTech 2026](https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/) (2026-06-10)
-- [Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in](https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/) (2026-06-10)
-- [The three hard-tech moonshots fueling SpaceX’s unbelievable IPO](https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/) (2026-06-10)
-- [Pinterest bets on creators with Amazon Storefront integration](https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/) (2026-06-10)
-- [Warner Music acquires AI attribution startup Sureel AI](https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/) (2026-06-10)
+- [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/) (2026-06-10)
+- [Fresh off bond sale, Amazon borrows $17.5 billion from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) (2026-06-10)
+- [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/) (2026-06-10)
+- [Wing drone delivery might not be a novelty anymore](https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/) (2026-06-10)
+- [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/) (2026-06-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible](https://news.ycombinator.com/item?id=48477135) (2026-06-10)
-- [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884) (2026-06-10)
-- [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement) (2026-06-10)
-- [A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/) (2026-06-10)
-- [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs) (2026-06-10)
+- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion) (2026-06-10)
+- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade) (2026-06-10)
+- [ΠFS](https://github.com/philipl/pifs) (2026-06-10)
+- [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated) (2026-06-10)
+- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential) (2026-06-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Boox’s quirky page-turning remote won me over](https://www.theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-turn-android-ios-hands-on) (2026-06-10)
-- [The Apple Watch Series 11 is back to its best price](https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale) (2026-06-10)
-- [Valve is phasing out physical Steam gift cards due to scammers](https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers) (2026-06-10)
-- [Five questions for the duo behind The Pelley Minutes](https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes) (2026-06-10)
-- [The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck](https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook) (2026-06-10)
+- [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading) (2026-06-10)
+- [Claude Fable won’t answer basic biology questions](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions) (2026-06-10)
+- [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft) (2026-06-10)
+- [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms) (2026-06-10)
+- [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube) (2026-06-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Racist comments targeting politicians tripled since Meta relaxed its rules](https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/) (2026-06-10)
-- [GM Energy introduces V2G support and new energy storage battery chemistry](https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/) (2026-06-10)
-- [Starlink charges $10 monthly hardware fee in move away from one-time purchases](https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/) (2026-06-09)
-- [Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed](https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/) (2026-06-09)
-- [Three key vital signs make up the "urban pulse" of a city](https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/) (2026-06-09)
+- [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) (2026-06-10)
+- [We managed to glean some interesting details about the Artemis III mission](https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/) (2026-06-10)
+- [Nobody needs AI to search the Internet, court says in ruling against Google](https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/) (2026-06-10)
+- [Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance](https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/) (2026-06-10)
+- [OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling](https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/) (2026-06-10)
 
 </details>
 
@@ -75,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/) (2026-06-10)
 - [From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/) (2026-06-09)
 - [GitHub for Beginners: Answers to some common questions](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/) (2026-06-08)
 - [GitHub Universe is back: All together now, in the agentic era](https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/) (2026-06-04)
 - [GitHub Copilot app: The agent-native desktop experience](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) (2026-06-02)
-- [Still a developer. Just outside. Our latest GitHub Shop collection is here.](https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/) (2026-05-28)
 
 </details>
 
@@ -97,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Reentrancy in 2026: Why It Still Drains Millions (and How AI Spots It)](https://dev.to/pavelespitia/reentrancy-in-2026-why-it-still-drains-millions-and-how-ai-spots-it-5bnn) (2026-06-10)
-- [# I Just Published My First npm Package — Here's Everything I Did](https://dev.to/karthik_gs_d8f016796a117c/-i-just-published-my-first-npm-package-heres-everything-i-did-50ho) (2026-06-10)
-- [The First 72 Hours as a CTO Decide Your First 90 Days. Most People Waste Them.](https://dev.to/theshadowcto/the-first-72-hours-as-a-cto-decide-your-first-90-days-most-people-waste-them-2k0i) (2026-06-10)
-- [AI Evals, Explained: How We Actually Know Our AI Is Any Good](https://dev.to/mrviduus/ai-evals-explained-how-we-actually-know-our-ai-is-any-good-23hj) (2026-06-10)
-- [Intercom vs Zendesk: what I actually learned after using both](https://dev.to/owen_zhang_e9c74da15a9fed/intercom-vs-zendesk-what-i-actually-learned-after-using-both-1akd) (2026-06-10)
+- [Configuring Firebase AI Logic for Android to Use Gemini Models](https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7) (2026-06-10)
+- [Building a Static Site with Astro and Cosmic CMS](https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95) (2026-06-10)
+- [I built one API that gives AI agents live jobs from 6 boards (LinkedIn, Foundit, RemoteOK...)](https://dev.to/deepthi_03edacef8522c07a6/i-built-one-api-that-gives-ai-agents-live-jobs-from-6-boards-linkedin-foundit-remoteok-5f95) (2026-06-10)
+- [I built the tool StackOne's CEO said every developer needs](https://dev.to/prathyusha_kilaru/i-built-the-tool-stackones-ceo-said-every-developer-needs-491j) (2026-06-10)
+- [Implementing Claude Code's Memory Model as a Dreaming Layer on 58 Articles](https://dev.to/shinji_shimizu_bb51276a5e/implementing-claude-codes-memory-model-as-a-dreaming-layer-on-58-articles-3g2l) (2026-06-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The One llama.cpp Setting That Made My RTX 3090 10× Faster (Every Guide Gets It Wrong)](https://kndofc.medium.com/the-one-llama-cpp-setting-that-made-my-rtx-3090-10-faster-every-guide-gets-it-wrong-48fcabcb1aec?source=rss------programming-5) (2026-06-10)
-- [How to Make Claude Code Smarter: The .claude Folder Setup I Use in VS Code](https://medium.com/@ateet.tiwari1012/how-to-make-claude-code-smarter-the-claude-folder-setup-i-use-in-vs-code-2889657289cf?source=rss------programming-5) (2026-06-10)
-- [Prompt Caching on Claude: Cut Input Costs 78% (The Math Nobody Writes Down)](https://pub.towardsai.net/prompt-caching-on-claude-cut-input-costs-78-the-math-nobody-writes-down-2960ffac02f3?source=rss------programming-5) (2026-06-10)
-- [Remote Compose looks promising](https://medium.com/justeattakeaway-tech/remote-compose-looks-promising-7a87ffdb505f?source=rss------programming-5) (2026-06-10)
-- [The End of Coding? Why AI Is Turning Developers Into Digital Architects.](https://medium.com/developersglobal/the-end-of-coding-why-ai-is-turning-developers-into-digital-architects-c337e98eee67?source=rss------programming-5) (2026-06-10)
+- [Goodbye Notion? This AI Tool Organizes Your Whole Life in One Box](https://medium.com/@marocsofiane20/goodbye-notion-this-ai-tool-organizes-your-whole-life-in-one-box-7344c98fbdfe?source=rss------programming-5) (2026-06-10)
+- [OpenAI Acquires Python Tools. Are We in Trouble?](https://python.plainenglish.io/openai-acquires-python-tools-are-we-in-trouble-8d7cc38fc358?source=rss------programming-5) (2026-06-10)
+- [Why Documentation Matters in Software Projects](https://medium.com/@kafeeromirembemercy/why-documentation-matters-in-software-projects-7c6f92fc5e35?source=rss------programming-5) (2026-06-10)
+- [iPhone 3G (2008) – Full Explanation](https://medium.com/@ytgamecom480/iphone-3g-2008-full-explanation-3e78fcf6f8cf?source=rss------programming-5) (2026-06-10)
+- [Built and deployed a Cloud-Based Water Bill Tracker on Microsoft Azure as part of my university…](https://medium.com/@dhananjil031/built-and-deployed-a-cloud-based-water-bill-tracker-on-microsoft-azure-as-part-of-my-university-9e3ed627311e?source=rss------programming-5) (2026-06-10)
 
 </details>
 
@@ -141,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [For Robotaxis, Safety Must Be Built In, Not Bolted On](https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/) (2026-06-10)
+- [NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI](https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/) (2026-06-10)
 - [NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute](https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/) (2026-06-09)
 - [How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies](https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/) (2026-06-08)
 - [NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/) (2026-06-08)
-- [NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/) (2026-06-07)
-- [NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/) (2026-06-07)
 
 </details>
 
@@ -306,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Static Code Analysis and the Rules of Zero, Three, and Five](https://blog.jetbrains.com/qodana/2026/06/static-code-analysis-and-the-rules-of-zero-three-and-five/) (2026-06-10)
 - [Modern C++ Support in CLion: What’s New](https://blog.jetbrains.com/clion/2026/06/modern-cpp-support/) (2026-06-10)
 - [Agentic AI Governance: Designing for Accountability and Control](https://blog.jetbrains.com/ai/2026/06/agentic-ai-governance-designing-for-accountability-and-control/) (2026-06-10)
 - [JetBrains Plugin Developer Conf 2026 – Call for Speakers](https://blog.jetbrains.com/platform/2026/06/jetbrains-plugin-developer-conf-2026-call-for-speakers/) (2026-06-09)
 - [Fewer False Alarms, Better Coding Flow in RustRover 2026.2](https://blog.jetbrains.com/rust/2026/06/09/fewer-false-positives-rustrover/) (2026-06-09)
-- [Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More.](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/) (2026-06-08)
 
 </details>
 
@@ -350,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Threshold billing is now enabled for Pro teams](https://vercel.com/changelog/threshold-billing-is-now-enabled-for-pro-teams) (2026-06-10)
 - [Claude Fable 5 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway) (2026-06-09)
 - [Budgets for API keys on AI Gateway](https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway) (2026-06-09)
 - [Domain Search is now available through the Vercel CLI](https://vercel.com/changelog/domain-search-is-now-available-through-the-vercel-cli) (2026-06-09)
 - [DeepSeek enters the fight for token volume, Anthropic continues to dominate spend](https://vercel.com/blog/ai-gateway-production-index-june-2026) (2026-06-08)
-- [Drives for Vercel Sandbox in Private Beta](https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta) (2026-06-05)
 
 </details>
 
@@ -372,6 +361,11 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+15 questions every European bank should answer about conversational AI in 2026
+](
+https://www.twilio.com/en-us/blog/insights/ai/european-banks-conversational-ai-questions
+) (2026-06-09)
 - [
 Answer Support Calls, Then Handle Them Using SMS in PHP
 ](
@@ -392,23 +386,18 @@ Conversational AI vs generative AI: What's the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
 ) (2026-06-04)
-- [
-How to build and deploy Conversational AI (the right way)
-](
-https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
-) (2026-06-03)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [How to Connect Any OAuth2 Service to AI Agents with Auth0 Token Vault](https://auth0.com/blog/connect-oauth2-service-to-ai-agents-with-auth0-token-vault/) (2026-06-10)
 - [What Our Design Team Stopped Doing to Start Leading the System for Quality
 ](https://auth0.com/blog/what-our-design-team-stopped-doing/) (2026-06-10)
 - [The Pre-Launch Identity Audit: Shipping Secure and Optimized Auth](https://auth0.com/blog/pre-launch-identity-audit/) (2026-06-09)
 - [How to Sign Up and Log In with Passkeys on iOS Using Auth0's Native Login](https://auth0.com/blog/sign-up-log-in-passkeys-ios-using-auth0-native-login/) (2026-06-04)
 - [The Many Faces of OAuth 2.0 Token Exchange](https://auth0.com/blog/the-many-faces-of-oauth2-token-exchange/) (2026-06-03)
-- [Back-Channel Logout with TanStack Start](https://auth0.com/blog/back-channel-logout-tanstack-start/) (2026-06-02)
 
 </details>
 
@@ -536,11 +525,11 @@ https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Portable vLLM Model Inference Kernels in Helion](https://pytorch.org/blog/portable-vllm-model-inference-kernels-in-helion/) (2026-06-10)
 - [Using Muon Optimizer with DeepSpeed](https://pytorch.org/blog/using-muon-optimizer-with-deepspeed/) (2026-06-03)
 - [How LinkedIn Uses PyTorch to Solve Extreme-Scale Optimization Problems](https://pytorch.org/blog/how-linkedin-uses-pytorch-to-solve-extreme-scale-optimization-problems/) (2026-06-01)
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
-- [Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-05-27)
 
 </details>
 
@@ -556,24 +545,13 @@ https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Siri AI arrives with Google inside, and much of the world is locked out](https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/) (2026-06-10)
-- [McDonald’s tests Google-backed AI drive-thru ordering system](https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/) (2026-06-10)
-- [How to sign PDFs easily online with a PDF signer](https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/) (2026-06-09)
-- [Autonomous AI Data Loss in DevOps: Building Efficient Defenses](https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/) (2026-06-09)
-- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Refactor Code with Claude Code](https://towardsdatascience.com/how-to-refactor-code-with-claude-code/) (2026-06-10)
+- [How to Train a Scoring Model in the Age of Artificial Intelligence](https://towardsdatascience.com/how-to-train-a-scoring-model-in-the-age-of-artificial-intelligence/) (2026-06-10)
 - [Beyond extract_text: The Two Layers of a PDF That Drive RAG Quality](https://towardsdatascience.com/beyond-extract_text-the-two-layers-of-a-pdf-that-drive-rag-quality/) (2026-06-10)
 - [Bayesian Networks and Markov Networks: An Intuitive Guide to Structured Uncertainty](https://towardsdatascience.com/bayesian-networks-and-markov-networks-an-intuitive-guide-to-structured-uncertainty/) (2026-06-10)
 - [Physical AI: What It Is and What It Is Not](https://towardsdatascience.com/physical-ai-what-it-is-and-what-it-is-not/) (2026-06-10)
-- [10 Common RAG Mistakes We Keep Seeing in Production](https://towardsdatascience.com/10-common-rag-mistakes-we-keep-seeing-in-production/) (2026-06-09)
-- [The Hardware That Makes AI Possible](https://towardsdatascience.com/the-hardware-that-makes-ai-possible/) (2026-06-09)
 
 </details>
 
@@ -624,11 +602,11 @@ https://www.twilio.com/en-us/blog/insights/how-to-deploy-conversational-ai
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) (2026-06-10)
 - [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) (2026-06-09)
 - [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) (2026-06-09)
 - [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) (2026-06-09)
 - [Measuring the impact of learning with AI in Sierra Leone and beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/) (2026-06-08)
-- [We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks](https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/) (2026-05-21)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
