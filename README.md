@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/) (2026-06-11)
+- [Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/) (2026-06-11)
 - [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/) (2026-06-10)
 - [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/) (2026-06-10)
 - [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/) (2026-06-10)
-- [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/) (2026-06-10)
-- [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) (2026-06-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) (2026-06-11)
-- [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838) (2026-06-10)
-- [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/) (2026-06-10)
-- [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) (2026-06-10)
-- [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf) (2026-06-10)
+- [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers) (2026-06-11)
+- [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) (2026-06-11)
+- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) (2026-06-11)
+- [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki) (2026-06-11)
+- [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability) (2026-06-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [YouTube is introducing DMs (again)](https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability) (2026-06-11)
+- [Ryanair is under investigation over charging parents to sit with their kids](https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee) (2026-06-11)
+- [Deezer launches an AI music detector for other streaming services](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple) (2026-06-11)
 - [Bluesky is getting ‘communities’](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit) (2026-06-11)
 - [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august) (2026-06-10)
-- [Apple’s new Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality) (2026-06-10)
-- [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal) (2026-06-10)
-- [Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma) (2026-06-10)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [When the cost of code approaches zero, what does engineering leadership look like?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/) (2026-06-11)
 - [Announcing Stack Overflow for Agents​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/) (2026-06-10)
 - [Creating checkpoints by gaslighting a Postgres database​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌‌‍​﻿‌‍​‍​﻿​​‌‍​﻿‌‍​‍​﻿​﻿​﻿‍‌​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‍‌​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‍‌​‍﻿‌​﻿‍‌​﻿​‍‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌‍‌‍​‌​﻿‍​‌‍​‌‌‍‌​‌‍‌‌‌‍‌‍​﻿‍​‌‍‌​‌‍​﻿​﻿​​​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌‌‍​﻿‌‍​‍​﻿​​‌‍​﻿‌‍​‍​﻿​﻿​﻿‍‌​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‍‌​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‍‌​‍﻿‌​﻿‍‌​﻿​‍‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌‍‌‍​‌​﻿‍​‌‍​‌‌‍‌​‌‍‌‌‌‍‌‍​﻿‍​‌‍‌​‌‍​﻿​﻿​​​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/) (2026-06-09)
 - [Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/) (2026-06-05)
 - [What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/) (2026-06-02)
-- [Best of the Heap: First post of the past​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿‌‍​﻿‍​‌‍‌‍​﻿​‌​﻿‌‍​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌​﻿‌﻿​﻿‌‌‌‍​‌​﻿​﻿​﻿‍‌​﻿​‌​﻿​‍‌‍‌​​﻿​‌​﻿‌​​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/) (2026-05-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Secure API with Rails 8 - Part-4: SSL, CSRF & Serialization](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-4-ssl-csrf-serialization-54op) (2026-06-11)
-- [Run Codex CLI with Local LLM - Gemma4 with llama.cpp on WSL2](https://dev.to/0xkoji/run-codex-cli-with-local-llm-gemma4-with-llamacpp-on-wsl2-pee) (2026-06-11)
-- [How to Write a High-Converting SaaS Landing Page as a Solo Founder (No Copywriter Needed)](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m) (2026-06-11)
-- [How to Deploy a Static Website to GitHub Pages (The Basics + What No One Tells You)](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi) (2026-06-11)
-- [66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67) (2026-06-11)
+- [What the ninth tool inherits.](https://dev.to/earthbound_misfit/what-the-ninth-tool-inherits-5cj7) (2026-06-11)
+- [Stop Trusting Every JWT: How I Handle OIDC Claims in My Go Gateway](https://dev.to/pixie2468/stop-trusting-every-jwt-how-i-handle-oidc-claims-in-my-go-gateway-1kf1) (2026-06-11)
+- [GBase 8c Lock Wait Troubleshooting: From Symptoms to Blocking Source Identification](https://dev.to/michaelfv/gbase-8c-lock-wait-troubleshooting-from-symptoms-to-blocking-source-identification-10n9) (2026-06-11)
+- [What Perplexity and Burstiness Actually Measure in AI Detection](https://dev.to/dalei_gu/what-perplexity-and-burstiness-actually-measure-in-ai-detection-2adp) (2026-06-11)
+- [Claude Fable 5 is Here — Anthropic's Most Powerful Public Model Yet](https://dev.to/jobinkjames/claude-fable-5-is-here-anthropics-most-powerful-public-model-yet-2d3j) (2026-06-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [SEMESTA88 Domain Alternatif dan Transformasi Platform Modern](https://medium.com/@88semesta/semesta88-domain-alternatif-dan-transformasi-platform-modern-42ab9541647c?source=rss------programming-5) (2026-06-11)
-- [Django in 2026: Why the “Boring” Framework Is Winning the Web](https://medium.com/@mobeen777/django-in-2026-why-the-boring-framework-is-winning-the-web-b4ff3d89b9d3?source=rss------programming-5) (2026-06-11)
-- [ A Review Of Backend Engineer Jobs, Part. II](https://medium.com/@alexalternative710/a-review-of-backend-engineer-jobs-part-ii-48cacfe78450?source=rss------programming-5) (2026-06-11)
-- [AI Replaced 90% of Coding — Master These 7 Skills Instead](https://medium.com/@riyanshchouhan1223/ai-replaced-90-of-coding-master-these-7-skills-instead-3fc2647fa887?source=rss------programming-5) (2026-06-11)
-- [5 Programming Tasks I No Longer Do Without AI](https://sumanthpoola.medium.com/5-programming-tasks-i-no-longer-do-without-ai-582ab9da56ad?source=rss------programming-5) (2026-06-11)
+- [The .NET Architect Role Is Changing Faster Than Most People Realize](https://medium.com/@mohsho10/the-net-architect-role-is-changing-faster-than-most-people-realize-52991ba36511?source=rss------programming-5) (2026-06-11)
+- [Why Do Torn QR Codes Still Work?](https://medium.com/@falgunimakhija110/why-do-torn-qr-codes-still-work-19b2a8d8e427?source=rss------programming-5) (2026-06-11)
+- [I Spent 3 Weeks Preparing for a Java Interview — Then Eclipse Destroyed Me in 10 Minutes](https://medium.com/@koteshavula/i-spent-3-weeks-preparing-for-a-java-interview-then-eclipse-destroyed-me-in-10-minutes-311a7ad85f7a?source=rss------programming-5) (2026-06-11)
+- [Claude Fable 5 in Claude Code: My First 48 Hours](https://medium.com/all-about-claude/claude-fable-5-in-claude-code-my-first-48-hours-03d51858b687?source=rss------programming-5) (2026-06-11)
+- [How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------programming-5) (2026-06-11)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 - [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 - [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
+- [Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/) (2026-06-02)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
-- [Stripe Projects adds new agent integrations, more providers, and custom developer controls](https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls) (2026-06-11)
 - [New ways to turn global demand into revenue](https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue) (2026-06-04)
 - [The future of agentic commerce is here](https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
 - [Rethinking risk in the age of AI](https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
 - [Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)](https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program) (2026-06-03)
+- [Solo founding is at an all-time high: Top performers have these traits in common](https://stripe.com/blog/top-solo-founder-traits) (2026-05-28)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+From Idea to Index: How Twilio Voice and AI Helped Bring the Guinness Price Index to Life
+](
+https://www.twilio.com/en-us/blog/events/matt-cortland-guinness-price-index-signal-berlin-2026
+) (2026-06-11)
+- [
+Announcing Data Residency for SMS (EU): Local control, global trust
+](
+https://www.twilio.com/en-us/blog/products/launches/data-residency-for-SMS-eu
+) (2026-06-10)
+- [
 15 questions every European bank should answer about conversational AI in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/ai/european-banks-conversational-ai-questions
@@ -376,16 +386,6 @@ Answer Support Calls, Then Handle Them Using SMS in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
 ) (2026-06-08)
-- [
-Building with AI? Why You Should Connect Twilio's MCP Server
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-mcp-server
-) (2026-06-08)
-- [
-Building with AI? Why You Should Connect Twilio's AI Skills
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
-) (2026-06-05)
 
 </details>
 
