@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/) (2026-06-10)
+- [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/) (2026-06-10)
+- [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/) (2026-06-10)
 - [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/) (2026-06-10)
-- [Fresh off bond sale, Amazon borrows $17.5 billion from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) (2026-06-10)
-- [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/) (2026-06-10)
-- [Wing drone delivery might not be a novelty anymore](https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/) (2026-06-10)
-- [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/) (2026-06-10)
+- [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/) (2026-06-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion) (2026-06-10)
-- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade) (2026-06-10)
-- [ΠFS](https://github.com/philipl/pifs) (2026-06-10)
-- [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated) (2026-06-10)
-- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential) (2026-06-10)
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) (2026-06-11)
+- [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838) (2026-06-10)
+- [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/) (2026-06-10)
+- [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) (2026-06-10)
+- [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf) (2026-06-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading) (2026-06-10)
-- [Claude Fable won’t answer basic biology questions](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions) (2026-06-10)
-- [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft) (2026-06-10)
-- [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms) (2026-06-10)
-- [Google won’t just admit it’s feeding YouTube creators to its music AI](https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube) (2026-06-10)
+- [Bluesky is getting ‘communities’](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit) (2026-06-11)
+- [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august) (2026-06-10)
+- [Apple’s new Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality) (2026-06-10)
+- [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal) (2026-06-10)
+- [Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma) (2026-06-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google's latest DiffusionGemma open AI model comes with a 4x speed boost](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) (2026-06-10)
+- [Diabetes org apologizes for ejecting scientists over criticism of Trump](https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/) (2026-06-10)
+- [Man sues Florida cops over arrest spurred by "93% match" in facial recognition](https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/) (2026-06-10)
+- [Logitech’s foldable mouse is for people who refuse to carry a mouse with them](https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/) (2026-06-10)
+- [Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) (2026-06-10)
 - [We managed to glean some interesting details about the Artemis III mission](https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/) (2026-06-10)
-- [Nobody needs AI to search the Internet, court says in ruling against Google](https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/) (2026-06-10)
-- [Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance](https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/) (2026-06-10)
-- [OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling](https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/) (2026-06-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Configuring Firebase AI Logic for Android to Use Gemini Models](https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7) (2026-06-10)
-- [Building a Static Site with Astro and Cosmic CMS](https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95) (2026-06-10)
-- [I built one API that gives AI agents live jobs from 6 boards (LinkedIn, Foundit, RemoteOK...)](https://dev.to/deepthi_03edacef8522c07a6/i-built-one-api-that-gives-ai-agents-live-jobs-from-6-boards-linkedin-foundit-remoteok-5f95) (2026-06-10)
-- [I built the tool StackOne's CEO said every developer needs](https://dev.to/prathyusha_kilaru/i-built-the-tool-stackones-ceo-said-every-developer-needs-491j) (2026-06-10)
-- [Implementing Claude Code's Memory Model as a Dreaming Layer on 58 Articles](https://dev.to/shinji_shimizu_bb51276a5e/implementing-claude-codes-memory-model-as-a-dreaming-layer-on-58-articles-3g2l) (2026-06-10)
+- [Build a Secure API with Rails 8 - Part-4: SSL, CSRF & Serialization](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-4-ssl-csrf-serialization-54op) (2026-06-11)
+- [Run Codex CLI with Local LLM - Gemma4 with llama.cpp on WSL2](https://dev.to/0xkoji/run-codex-cli-with-local-llm-gemma4-with-llamacpp-on-wsl2-pee) (2026-06-11)
+- [How to Write a High-Converting SaaS Landing Page as a Solo Founder (No Copywriter Needed)](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m) (2026-06-11)
+- [How to Deploy a Static Website to GitHub Pages (The Basics + What No One Tells You)](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi) (2026-06-11)
+- [66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67) (2026-06-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Goodbye Notion? This AI Tool Organizes Your Whole Life in One Box](https://medium.com/@marocsofiane20/goodbye-notion-this-ai-tool-organizes-your-whole-life-in-one-box-7344c98fbdfe?source=rss------programming-5) (2026-06-10)
-- [OpenAI Acquires Python Tools. Are We in Trouble?](https://python.plainenglish.io/openai-acquires-python-tools-are-we-in-trouble-8d7cc38fc358?source=rss------programming-5) (2026-06-10)
-- [Why Documentation Matters in Software Projects](https://medium.com/@kafeeromirembemercy/why-documentation-matters-in-software-projects-7c6f92fc5e35?source=rss------programming-5) (2026-06-10)
-- [iPhone 3G (2008) – Full Explanation](https://medium.com/@ytgamecom480/iphone-3g-2008-full-explanation-3e78fcf6f8cf?source=rss------programming-5) (2026-06-10)
-- [Built and deployed a Cloud-Based Water Bill Tracker on Microsoft Azure as part of my university…](https://medium.com/@dhananjil031/built-and-deployed-a-cloud-based-water-bill-tracker-on-microsoft-azure-as-part-of-my-university-9e3ed627311e?source=rss------programming-5) (2026-06-10)
+- [SEMESTA88 Domain Alternatif dan Transformasi Platform Modern](https://medium.com/@88semesta/semesta88-domain-alternatif-dan-transformasi-platform-modern-42ab9541647c?source=rss------programming-5) (2026-06-11)
+- [Django in 2026: Why the “Boring” Framework Is Winning the Web](https://medium.com/@mobeen777/django-in-2026-why-the-boring-framework-is-winning-the-web-b4ff3d89b9d3?source=rss------programming-5) (2026-06-11)
+- [ A Review Of Backend Engineer Jobs, Part. II](https://medium.com/@alexalternative710/a-review-of-backend-engineer-jobs-part-ii-48cacfe78450?source=rss------programming-5) (2026-06-11)
+- [AI Replaced 90% of Coding — Master These 7 Skills Instead](https://medium.com/@riyanshchouhan1223/ai-replaced-90-of-coding-master-these-7-skills-instead-3fc2647fa887?source=rss------programming-5) (2026-06-11)
+- [5 Programming Tasks I No Longer Do Without AI](https://sumanthpoola.medium.com/5-programming-tasks-i-no-longer-do-without-ai-582ab9da56ad?source=rss------programming-5) (2026-06-11)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 - [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 - [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
-- [Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/) (2026-06-02)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Stripe Projects adds new agent integrations, more providers, and custom developer controls](https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls) (2026-06-11)
 - [New ways to turn global demand into revenue](https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue) (2026-06-04)
 - [The future of agentic commerce is here](https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
 - [Rethinking risk in the age of AI](https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH) (2026-06-04)
 - [Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)](https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program) (2026-06-03)
-- [Solo founding is at an all-time high: Top performers have these traits in common](https://stripe.com/blog/top-solo-founder-traits) (2026-05-28)
 
 </details>
 
@@ -367,6 +367,11 @@
 https://www.twilio.com/en-us/blog/insights/ai/european-banks-conversational-ai-questions
 ) (2026-06-09)
 - [
+Integrating Twilio Agent Connect with Twilio Flex for Human Handoff
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/twilio-agent-connect-flex-human-handoff
+) (2026-06-09)
+- [
 Answer Support Calls, Then Handle Them Using SMS in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
@@ -381,11 +386,6 @@ Building with AI? Why You Should Connect Twilio's AI Skills
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/why-connect-twilio-ai-skills
 ) (2026-06-05)
-- [
-Conversational AI vs generative AI: What's the difference?
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
-) (2026-06-04)
 
 </details>
 
@@ -426,11 +426,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Gremlin: turning open tasks into pull requests](https://www.prisma.io/blog/gremlin-turning-open-tasks-into-pull-requests) (2026-06-09)
 - [Launching Prisma Compute in Public Beta](https://www.prisma.io/blog/launching-prisma-compute-public-beta) (2026-06-08)
 - [Bloom Filters in Postgres: The Index Type Most Developers Overlook](https://www.prisma.io/blog/postgres-bloom-index-the-overlooked-postgres-feature) (2026-05-28)
 - [Prisma Next Early Access: Write Your Contract, Prompt Your Agent, Ship Your App](https://www.prisma.io/blog/prisma-next-early-access-write-your-contract-prompt-your-agent-ship-your-app) (2026-05-22)
 - [Agentic Engineering at Prisma](https://www.prisma.io/blog/agentic-engineering-at-prisma) (2026-05-20)
-- [How to use AI coding tools safely and responsibly](https://www.prisma.io/blog/how-to-use-ai-safely-and-responsibly) (2026-05-19)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-vs-generative-ai
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Siri AI arrives with Google inside, and much of the world is locked out](https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/) (2026-06-10)
+- [McDonald’s tests Google-backed AI drive-thru ordering system](https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/) (2026-06-10)
+- [How to sign PDFs easily online with a PDF signer](https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/) (2026-06-09)
+- [Autonomous AI Data Loss in DevOps: Building Efficient Defenses](https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/) (2026-06-09)
+- [Aviva deploys AI to stop £230M in sophisticated insurance fraud](https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/) (2026-06-08)
 
 </details>
 
