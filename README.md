@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/) (2026-06-12)
+- [Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/) (2026-06-12)
+- [SpaceX officially prices shares at $135 in the largest IPO ever](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/) (2026-06-11)
+- [Oracle warns of security bug that hackers abused to breach 100+ companies](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) (2026-06-11)
 - [SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/) (2026-06-11)
-- [Bluesky launches group chats, as company shifts focus to community features](https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/) (2026-06-11)
-- [Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/) (2026-06-11)
-- [Coinbase’s new tool can help agents trade and pay for premium research](https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/) (2026-06-11)
-- [Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave](https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/) (2026-06-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) (2026-06-11)
-- [Building agents without harness engineering](https://rajitkhanna.com/agents/) (2026-06-11)
-- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb) (2026-06-11)
-- [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal) (2026-06-11)
-- [Waymo Premier](https://waymo.com/blog/2026/06/waymo-premier/) (2026-06-11)
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) (2026-06-12)
+- [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html) (2026-06-12)
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) (2026-06-12)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) (2026-06-11)
+- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) (2026-06-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign) (2026-06-11)
 - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal) (2026-06-11)
 - [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale) (2026-06-11)
 - [Roborock&#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale) (2026-06-11)
 - [Amazon&#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use) (2026-06-11)
-- [The bill that would let Jimmy Kimmel sue Brendan Carr is here](https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship) (2026-06-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act](https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/) (2026-06-11)
+- [AcuRite admits new app falls short, delays old app’s May shutdown to fix problems](https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/) (2026-06-11)
 - [After nearly breaking, NASA's Deep Space Network "worked well" on Artemis II](https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/) (2026-06-11)
 - [F1 teams spend millions on their simulators—what makes them different?](https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/) (2026-06-11)
 - [Did Iron Age Britons remove brains of the dead?](https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/) (2026-06-11)
-- ["This cannot continue": Xbox leaders lay out "hard truths" behind sagging brand](https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/) (2026-06-11)
-- [Alaskans will be flying blind after NSF decommissions ocean monitoring network](https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/) (2026-06-11)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: May 2026](https://github.blog/news-insights/company-news/github-availability-report-may-2026/) (2026-06-11)
 - [Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/) (2026-06-11)
 - [Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/) (2026-06-10)
 - [From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/) (2026-06-09)
 - [GitHub for Beginners: Answers to some common questions](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/) (2026-06-08)
-- [GitHub Universe is back: All together now, in the agentic era](https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/) (2026-06-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Sent 40 Follow-Up Emails After Interview Silence — Two Timings Tripled Replies](https://dev.to/charliemorrison/i-sent-40-follow-up-emails-after-interview-silence-two-timings-tripled-replies-89l) (2026-06-11)
-- [Have you heard of the Model Context Protocol (MCP) but aren’t quite sure what it is? If so, I invite you to read this concise 4-minute read I wrote about MCP, as well as a live presentation I conducted on the topic.](https://dev.to/callmeizzy/have-you-heard-of-the-model-context-protocol-mcp-but-arent-quite-sure-what-it-is-if-so-i-2dmp) (2026-06-11)
-- [Before You Build an AI Agent, Read This](https://dev.to/cloudhopper0411/before-you-build-an-ai-agent-read-this-lg5) (2026-06-11)
-- [The 95% Problem: Why Enterprise AI Keeps Failing — and What the 5% Get Right](https://dev.to/harshdeepsingh13/the-95-problem-why-enterprise-ai-keeps-failing-and-what-the-5-get-right-3geb) (2026-06-11)
-- [Cleaning messy CSVs without pandas: 3 tiny no-install scripts](https://dev.to/wave_zhou_ly/cleaning-messy-csvs-without-pandas-3-tiny-no-install-scripts-5gkf) (2026-06-11)
+- [MCP Java SDK – Build Model Context Protocol servers in Java](https://dev.to/6000fish/mcp-java-sdk-build-model-context-protocol-servers-in-java-in6) (2026-06-12)
+- [KTransformers的5个隐藏用法，17K Star的MoE推理框架背后没写在README里的能力](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformersde-5ge-yin-cang-yong-fa-17k-starde-moetui-li-kuang-jia-bei-hou-mei-xie-zai-readmeli-de-neng-li-1cap) (2026-06-12)
+- [KTransformers: 5 Hidden Uses of the 17K-Star MoE Inference Stack from Tsinghua That 90% of AI Infra Teams Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformers-5-hidden-uses-of-the-17k-star-moe-inference-stack-from-tsinghua-that-90-of-ai-infra-4l87) (2026-06-12)
+- [The Dev Tools I Actually Use as a Solo Rust + Tauri Developer in 2026](https://dev.to/hiyoyok/the-dev-tools-i-actually-use-as-a-solo-rust-tauri-developer-in-2026-1j3j) (2026-06-12)
+- [Navigating Schema Shifts: Keeping Your Streaming Pipeline Smooth for Everyone](https://dev.to/aniketsoni/navigating-schema-shifts-keeping-your-streaming-pipeline-smooth-for-everyone-42op) (2026-06-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Open-Source Shepherd: Why Your Best Work Is Building a Project That Doesn’t Need You](https://medium.com/codex/the-open-source-shepherd-why-your-best-work-is-building-a-project-that-doesnt-need-you-bfd0641f5aca?source=rss------programming-5) (2026-06-11)
-- [Building Large Projects with Claude Code - A multi-phase implementation approach](https://pub.towardsai.net/building-large-projects-with-claude-code-a-multi-phase-implementation-approach-333da95f38ac?source=rss------programming-5) (2026-06-11)
-- [Java Concurrency: Each Tool Exists Because the Previous One Was Not Enough](https://medium.com/zero-to-rust-go-from-beginner-to-rust-expert/java-concurrency-each-tool-exists-because-the-previous-one-was-not-enough-9009adf9226c?source=rss------programming-5) (2026-06-11)
-- [Kotlin File Types in Android Studio Explained: Class, Interface, Data Class, Object, Enum, and More](https://medium.com/@sehajkahlon437/kotlin-file-types-in-android-studio-explained-class-interface-data-class-object-enum-and-more-dd2d96c51e72?source=rss------programming-5) (2026-06-11)
-- [A Slow Decomposition](https://medium.com/@yagmursvlkbs/a-slow-decomposition-3e9da268ad17?source=rss------programming-5) (2026-06-11)
+- [Comfort Never Built a Dream](https://medium.com/@thoma6213/comfort-never-built-a-dream-42f7b2d76c26?source=rss------programming-5) (2026-06-12)
+- [Understanding Memory in C: Stack, Heap & Buffers — A Beginner-Friendly Deep Dive With Hands-On Labs](https://medium.com/@alwinaji717/understanding-memory-in-c-stack-heap-buffers-a-beginner-friendly-deep-dive-with-hands-on-labs-379d908b4dda?source=rss------programming-5) (2026-06-12)
+- [Memory Is a Topology](https://medium.com/@funcybot/memory-is-a-topology-dae72ad9900c?source=rss------programming-5) (2026-06-12)
+- [You’re Probably Writing 40% More TypeScript Than You Need To](https://ai.plainenglish.io/youre-probably-writing-40-more-typescript-than-you-need-to-d0a280723e22?source=rss------programming-5) (2026-06-12)
+- [How Does Attention Work in LLMs? 2026 Deep Dive](https://medium.com/predict/how-does-attention-work-in-llms-2026-deep-dive-9e087d9e8cd6?source=rss------programming-5) (2026-06-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 - [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 - [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
-- [Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/) (2026-06-02)
 
 </details>
 
@@ -293,17 +293,6 @@
 </details>
 
 <details>
-<summary>💎 JetBrains Blog</summary>
-
-- [MPS 2026.1 Release Candidate Arrives](https://blog.jetbrains.com/mps/2026/06/the-mps-2026-1-rc1/) (2026-06-11)
-- [Best Python AI Frameworks in 2026](https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/) (2026-06-11)
-- [Contribute to the State of PHP Survey](https://blog.jetbrains.com/phpstorm/2026/06/state-of-php-survey-2026/) (2026-06-11)
-- [Static Code Analysis and the Rules of Zero, Three, and Five](https://blog.jetbrains.com/qodana/2026/06/static-code-analysis-and-the-rules-of-zero-three-and-five/) (2026-06-10)
-- [Modern C++ Support in CLion: What’s New](https://blog.jetbrains.com/clion/2026/06/modern-cpp-support/) (2026-06-10)
-
-</details>
-
-<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
@@ -339,11 +328,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [How Okara runs CMO agents for 120,000 companies on Vercel](https://vercel.com/blog/how-okara-runs-cmo-agents-for-120000-companies-on-vercel) (2026-06-11)
 - [Vercel plugin is now available in Grok Build](https://vercel.com/changelog/vercel-plugin-is-now-available-in-grok-build) (2026-06-11)
 - [DeepSeek models now available via Azure on AI Gateway](https://vercel.com/changelog/deepseek-models-now-available-via-azure-on-ai-gateway) (2026-06-11)
 - [Threshold billing is now enabled for Pro teams](https://vercel.com/changelog/threshold-billing-is-now-enabled-for-pro-teams) (2026-06-10)
 - [Claude Fable 5 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway) (2026-06-09)
-- [Budgets for API keys on AI Gateway](https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway) (2026-06-09)
 
 </details>
 
@@ -359,45 +348,14 @@
 </details>
 
 <details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-From Idea to Index: How Twilio Voice and AI Helped Bring the Guinness Price Index to Life
-](
-https://www.twilio.com/en-us/blog/events/matt-cortland-guinness-price-index-signal-berlin-2026
-) (2026-06-11)
-- [
-Announcing Data Residency for SMS (EU): Local control, global trust
-](
-https://www.twilio.com/en-us/blog/products/launches/data-residency-for-SMS-eu
-) (2026-06-10)
-- [
-15 questions every European bank should answer about conversational AI in 2026
-](
-https://www.twilio.com/en-us/blog/insights/ai/european-banks-conversational-ai-questions
-) (2026-06-09)
-- [
-Integrating Twilio Agent Connect with Twilio Flex for Human Handoff
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/twilio-agent-connect-flex-human-handoff
-) (2026-06-09)
-- [
-Answer Support Calls, Then Handle Them Using SMS in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
-) (2026-06-08)
-
-</details>
-
-<details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [You Are in Control: Auth0 Enterprise Is Now Self-Service](https://auth0.com/blog/auth0-enterprise-self-service-plans/) (2026-06-11)
+- [Token Vault with Organizations Support Is Generally Available](https://auth0.com/blog/token-vault-with-organization-support-generally-available/) (2026-06-11)
 - [How to Connect Any OAuth2 Service to AI Agents with Auth0 Token Vault](https://auth0.com/blog/connect-oauth2-service-to-ai-agents-with-auth0-token-vault/) (2026-06-10)
 - [What Our Design Team Stopped Doing to Start Leading the System for Quality
 ](https://auth0.com/blog/what-our-design-team-stopped-doing/) (2026-06-10)
 - [The Pre-Launch Identity Audit: Shipping Secure and Optimized Auth](https://auth0.com/blog/pre-launch-identity-audit/) (2026-06-09)
-- [How to Sign Up and Log In with Passkeys on iOS Using Auth0's Native Login](https://auth0.com/blog/sign-up-log-in-passkeys-ios-using-auth0-native-login/) (2026-06-04)
-- [The Many Faces of OAuth 2.0 Token Exchange](https://auth0.com/blog/the-many-faces-of-oauth2-token-exchange/) (2026-06-03)
 
 </details>
 
@@ -530,17 +488,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-hand
 - [How LinkedIn Uses PyTorch to Solve Extreme-Scale Optimization Problems](https://pytorch.org/blog/how-linkedin-uses-pytorch-to-solve-extreme-scale-optimization-problems/) (2026-06-01)
 - [Why Is PyTorch Compile So Fast: Kernel Fusion](https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion/) (2026-05-27)
 - [Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed](https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed/) (2026-05-27)
-
-</details>
-
-<details>
-<summary>🤗 Hugging Face</summary>
-
-- [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) (2026-06-11)
-- [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching) (2026-06-09)
-- [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) (2026-06-09)
-- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
-- [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
 
 </details>
 
