@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Andrew Yang thinks the next big startup opportunity is lowering the cost of living](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) (2026-06-13)
 - [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) (2026-06-13)
 - [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) (2026-06-12)
 - [Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) (2026-06-12)
 - [Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) (2026-06-12)
-- [SpaceX IPO closes up 19% and delivers the world’s first trillionaire](https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/) (2026-06-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2) (2026-06-13)
-- [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163) (2026-06-13)
-- [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9) (2026-06-13)
-- [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) (2026-06-13)
-- [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix) (2026-06-12)
+- [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/) (2026-06-13)
+- [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill) (2026-06-13)
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751) (2026-06-13)
+- [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog) (2026-06-13)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow) (2026-06-13)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Anthropic shuts down Fable, Mythos models following Trump admin directive](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) (2026-06-13)
 - [SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/) (2026-06-12)
 - [PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data](https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/) (2026-06-12)
 - [Controversial FISA spying law expires tonight. The spying will continue.](https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/) (2026-06-12)
 - [Here's what Jeff Bezos' new startup Prometheus will do](https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/) (2026-06-12)
-- [Have politics finally come for the National Academies of Science?](https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/) (2026-06-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I've been an avid programmer since before 1996/97 when I graduated from comp. science. But this has been the best time for me especially with the availability of AI tools that empowers me now to work at a higher & more efficient pace. I've SM platform now!](https://dev.to/george_uwaifo_4fd522b6dd0/ive-been-an-avid-programmer-since-before-199697-when-i-graduated-from-comp-science-but-this-has-4jk5) (2026-06-13)
-- [A beginner's guide to the Price-Predict-V1 model by Humbleworth on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-price-predict-v1-model-by-humbleworth-on-replicate-2o9e) (2026-06-13)
-- [Opening Pandora's Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed](https://dev.to/j_sakamoto/opening-pandoras-box-how-to-unlock-direct-dom-method-calls-in-blazor-no-external-js-file-needed-5h5p) (2026-06-13)
-- [[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟](https://dev.to/qq5yu/database-database-transactions-di-ceng-dao-di-zuo-liao-shi-mo-cong-ji-yi-ti-dao-ci-die-4cnc) (2026-06-13)
-- [Why AgentTrail Exists: Building Open-Source Audit Trails for AI Agents](https://dev.to/agenttrail/why-agenttrail-exists-building-open-source-audit-trails-for-ai-agents-2i38) (2026-06-13)
+- [What I learned building a Claude Code plugin for MV3 Chrome extensions](https://dev.to/harish_kumar/what-i-learned-building-a-claude-code-plugin-for-mv3-chrome-extensions-514i) (2026-06-13)
+- [The End of the US Cloud Monopoly: AI Balkanization Is Here to Stay](https://dev.to/vystartasv/the-end-of-the-us-cloud-monopoly-ai-balkanization-is-here-to-stay-4g68) (2026-06-13)
+- [Image Optimization for Modern Web Applications: Formats, CDNs, Automation](https://dev.to/feidou/image-optimization-for-modern-web-applications-formats-cdns-automation-nn8) (2026-06-13)
+- [I spent $788 on an AI coding agent in one day. Here's the breakdown.](https://dev.to/_7a561cb4673b6d2a455c5/i-spent-788-on-an-ai-coding-agent-in-one-day-heres-the-breakdown-4bom) (2026-06-13)
+- [How to secure Azure storage with Managed identities for a web app](https://dev.to/emmanuel_banjo_df6d8074c7/how-to-secure-azure-storage-with-managed-identities-for-a-web-app-2i08) (2026-06-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Feels Like Cheating. That’s Exactly Why You Should Try It.](https://medium.com/technology-hits/ai-feels-like-cheating-thats-exactly-why-you-should-try-it-a2a7f2c1421e?source=rss------programming-5) (2026-06-13)
-- [Laravel Pulse: The Real-Time Dashboard That Knows More About Your App Than You Do](https://sadiqueali.medium.com/laravel-pulse-the-real-time-dashboard-that-knows-more-about-your-app-than-you-do-020dbc355533?source=rss------programming-5) (2026-06-13)
-- [Day 33: Stop Writing Blind Shell Scripts](https://pawannatekar220.medium.com/day-33-stop-writing-blind-shell-scripts-76905d6b75a2?source=rss------programming-5) (2026-06-13)
-- [7 Python Libraries That Saved Me Weeks of Development Time](https://python.plainenglish.io/7-python-libraries-that-saved-me-weeks-of-development-time-2d50526e2c4a?source=rss------programming-5) (2026-06-13)
-- [Generics in Rust Explained: Writing Flexible and Reusable Code](https://medium.com/@johirbuet/generics-in-rust-explained-writing-flexible-and-reusable-code-e2020d86f669?source=rss------programming-5) (2026-06-13)
+- [How LLMs Really Learn: A Complete Step-by-Step Guide to AI Training](https://generativeai.pub/how-llms-really-learn-a-complete-step-by-step-guide-to-ai-training-49aebf089ba7?source=rss------programming-5) (2026-06-13)
+- [The WebP gotcha that almost shipped: macOS reads WebP. It doesn’t write it.](https://thabodavidnyakalloklass.medium.com/the-webp-gotcha-that-almost-shipped-macos-reads-webp-it-doesnt-write-it-9f628c34a5b9?source=rss------programming-5) (2026-06-13)
+- [Claude Fable 5 Just Migrated a 50-Million-Line Codebase in 24 Hours](https://medium.com/@nikhilobserves/claude-fable-5-just-migrated-a-50-million-line-codebase-in-24-hours-ce60c6fbff7d?source=rss------programming-5) (2026-06-13)
+- [The Strangest Data Science News of 2024 (That No One Is Talking About)](https://medium.com/@shwetabhoyar04/the-strangest-data-science-news-of-2024-that-no-one-is-talking-about-2966d38af158?source=rss------programming-5) (2026-06-13)
+- [Python 101 — Season 1, Ep. 3: String Methods (How to Tame Messy Text)](https://medium.com/@jasmeetsingh0918/python-101-season-1-ep-3-string-methods-how-to-tame-messy-text-6d0a08a8edc7?source=rss------programming-5) (2026-06-13)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Increased Blob store limit for Hobby users](https://vercel.com/changelog/increased-blob-store-limit-for-hobby-users) (2026-06-15)
 - [Workflow SDK now runs natively in Nitro v3](https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3) (2026-06-13)
 - [Claude Fable 5 access suspended on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-suspended-on-ai-gateway) (2026-06-12)
 - [Kimi K2.7 Code now available on AI Gateway](https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway) (2026-06-12)
 - [Program Claude Code, Codex, Pi and other agent harnesses with AI SDK](https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk) (2026-06-12)
-- [Introducing Vercel Drop](https://vercel.com/changelog/vercel-drop) (2026-06-12)
 
 </details>
 
