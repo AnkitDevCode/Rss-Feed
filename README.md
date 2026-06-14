@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) (2026-06-14)
+- [TechCrunch Mobility: SpaceX rockets past Tesla](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/) (2026-06-14)
+- [The new Sonos Play has become my go-to desk and kitchen speaker](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/) (2026-06-14)
 - [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) (2026-06-14)
 - [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) (2026-06-14)
-- [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) (2026-06-13)
-- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) (2026-06-13)
-- [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) (2026-06-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/) (2026-06-14)
-- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) (2026-06-14)
-- [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) (2026-06-14)
-- [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows) (2026-06-14)
-- [Tribblix: The retro Illumos distribution](http://tribblix.org/) (2026-06-14)
+- [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed) (2026-06-14)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) (2026-06-14)
+- [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/) (2026-06-14)
+- [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146) (2026-06-14)
+- [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779) (2026-06-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review) (2026-06-14)
+- [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale) (2026-06-14)
 - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history) (2026-06-14)
 - [Solid-state batteries still aren’t ready, but gels are](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state) (2026-06-14)
 - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) (2026-06-13)
-- [X-Men ’97 has what Master of the Universe is missing](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel) (2026-06-13)
-- [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction) (2026-06-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Did a medieval flying monk spot Halley's comet, twice? It's complicated](https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/) (2026-06-14)
 - [Review: Disclosure Day is big on action, light on ideas](https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/) (2026-06-13)
 - [Threads of underground fungal networks are long enough to reach beyond the Solar System](https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/) (2026-06-13)
 - [Anthropic shuts down Fable, Mythos models following Trump admin directive](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) (2026-06-13)
 - [SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/) (2026-06-12)
-- [PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data](https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/) (2026-06-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Sending Telegram Bot Conversions to Meta? Don't Reach for business_messaging](https://dev.to/lamas51/sending-telegram-bot-conversions-to-meta-dont-reach-for-businessmessaging-1ecj) (2026-06-14)
-- [How I built a website vulnerability scanner for UAE PDPL compliance as a solo founder](https://dev.to/akilesh_864dae62398fb356a/how-i-built-a-website-vulnerability-scanner-for-uae-pdpl-compliance-as-a-solo-founder-ki7) (2026-06-14)
-- [APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g) (2026-06-14)
-- [I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc) (2026-06-14)
-- [🚀 BFS: The Jedi Mind Trick for Graph Traversal (Why It’s More Than Just a Queue)](https://dev.to/timevolt/bfs-the-jedi-mind-trick-for-graph-traversal-why-its-more-than-just-a-queue-ok) (2026-06-14)
+- [Samiksha AI: Universal Review & comment Analyzer](https://dev.to/techsakhi/samiksha-ai-universal-review-comment-analyzer-1j4a) (2026-06-14)
+- [قمر — Complete Guide](https://dev.to/sahand1987/qmr-complete-guide-56pl) (2026-06-14)
+- [Self-Healing Data Pipelines: Where the Marketing Ends and the Engineering Begins](https://dev.to/justsoftlab_x01/self-healing-data-pipelines-where-the-marketing-ends-and-the-engineering-begins-55fe) (2026-06-14)
+- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77) (2026-06-14)
+- [I'm a web dev who has never touched 3D. Here's my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88) (2026-06-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Linux Commands That Instantly Make You More Productive](https://meetcyber.net/10-linux-commands-that-instantly-make-you-more-productive-9883e5516a23?source=rss------programming-5) (2026-06-14)
-- [Claude Fable 5 and the Shift From Response-Based Models Toward Persistent Computational…](https://medium.com/@AkselAghajanyan/claude-fable-5-and-the-shift-from-response-based-models-toward-persistent-computational-bcafc2c0266e?source=rss------programming-5) (2026-06-14)
-- [Why Your Computer Has To Rebuild Itself To Update?](https://medium.com/@aadee.bharat/why-your-computer-has-to-rebuild-itself-to-update-dfa9adcaa43e?source=rss------programming-5) (2026-06-14)
-- [How Does File Compression Work?](https://medium.com/@naseri.develop/how-does-file-compression-work-5590547dad8c?source=rss------programming-5) (2026-06-14)
-- [Crashing Android’s system_server](https://badranh1.medium.com/crashing-androids-system-server-2fa9ca68f0d8?source=rss------programming-5) (2026-06-14)
+- [Claude Fable Lasted 3 Days. Then its Own government banned it.](https://yadavdivy296.medium.com/claude-fable-lasted-3-days-then-its-own-government-banned-it-c6341e43cce5?source=rss------programming-5) (2026-06-14)
+- [AutoIt Obfuscator Integration with SciTE](https://pelock.medium.com/autoit-obfuscator-integration-with-scite-a60f300c41b0?source=rss------programming-5) (2026-06-14)
+- [From Zero to Hero: How Go’s Built-in expvar Streamlined My Monitoring Stack](https://medium.com/@monikasinghal713/from-zero-to-hero-how-gos-built-in-expvar-streamlined-my-monitoring-stack-38e6af74d4b1?source=rss------programming-5) (2026-06-14)
+- [The Fastest Way to Use Tigzig.com? Don’t Click. Point Your Claude / AI Agent at It.](https://medium.com/@amarharolikar/the-fastest-way-to-use-tigzig-com-dont-click-point-your-claude-ai-agent-at-it-8759ddd9a879?source=rss------programming-5) (2026-06-14)
+- [Partition Exchange Load (PEL) in Oracle — | Best of mrcaption49 | 45](https://medium.com/@pranavsb699/partition-exchange-load-pel-in-oracle-best-of-mrcaption49-45-78e943284d8b?source=rss------programming-5) (2026-06-14)
 
 </details>
 
@@ -457,6 +457,17 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [API Key Management now in GraphOS Studio](https://www.apollographql.com/blog/api-key-management-now-in-graphos-studio) (2026-06-02)
+- [What’s New in Apollo Client 4.2](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-2) (2026-05-27)
+- [Apollo Kotlin 5 Is Now Available](https://www.apollographql.com/blog/apollo-kotlin-5-is-now-available) (2026-05-13)
+- [Apollo Federation Goes Full Rust](https://www.apollographql.com/blog/apollo-federation-goes-full-rust) (2026-05-07)
+- [Apollo is Recognized in Gartner® Voice of the Customer ](https://www.apollographql.com/blog/apollo-is-recognized-in-gartner-voice-of-the-customer) (2026-04-29)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -547,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [4 Lines You Should Include in Your Claude Skill](https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/) (2026-06-14)
+- [Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG](https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/) (2026-06-14)
 - [GPU Time-Slicing for Concurrent LLM Agents on Kubernetes](https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/) (2026-06-14)
 - [Larger Context Windows Don’t Fix RAG — So I Built a System That Does](https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/) (2026-06-13)
 - [Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload](https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/) (2026-06-13)
-- [Solving the 3Blue1Brown String Probability Problem (Without AI)](https://towardsdatascience.com/solving-the-3blue1brown-string-probability-problem-without-ai/) (2026-06-13)
-- [When PyMuPDF Can’t See the Table: Parse PDFs for RAG with Azure Layout](https://towardsdatascience.com/when-pymupdf-cant-see-the-table-parse-pdfs-for-rag-with-azure-layout/) (2026-06-12)
 
 </details>
 
