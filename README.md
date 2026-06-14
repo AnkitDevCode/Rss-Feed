@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf) (2026-06-14)
-- [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) (2026-06-14)
-- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html) (2026-06-14)
-- [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol) (2026-06-14)
-- [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/) (2026-06-14)
+- [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows) (2026-06-14)
+- [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says) (2026-06-14)
+- [Tribblix: The retro Illumos distribution](http://tribblix.org/) (2026-06-14)
+- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released) (2026-06-14)
+- [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost) (2026-06-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What is the best real-time analytics database in 2026? An engineering buyer's guide](https://dev.to/manveer_chawla_64a7283d5a/best-real-time-analytics-database-2026-guide-4l0j) (2026-06-14)
-- [DevOps Salaries & Hiring in India 2026: What 800+ Live Job Listings Reveal](https://dev.to/irfan1117/devops-salaries-hiring-in-india-2026-what-800-live-job-listings-reveal-4klj) (2026-06-14)
-- [I Built a Web App That Finds the Fairest Meeting Spot for Any Group (and It's Free)](https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j) (2026-06-14)
-- [Your RAG App Is Broken Because You're Still Parsing PDFs Like It's 2023](https://dev.to/hefty_69a4c2d631c9dd70724/your-rag-app-is-broken-because-youre-still-parsing-pdfs-like-its-2023-5mn) (2026-06-14)
-- [Why Prompts Fail in Production (and the 4 Failure Vectors)](https://dev.to/toshanthistack/why-prompts-fail-in-production-and-the-4-failure-vectors-3adg) (2026-06-14)
+- [Edge Computing in the Browser: How I Replaced a Backend Server with Web Workers & WASM](https://dev.to/karthick_ajan/edge-computing-in-the-browser-how-i-replaced-a-backend-server-with-web-workers-wasm-bg2) (2026-06-14)
+- [Event-Driven Architecture: Uncle Explains Like You're Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj) (2026-06-14)
+- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji) (2026-06-14)
+- [How a Five Line Architecture Test Caught a Data Leak a Code Review Missed](https://dev.to/shahzamandev/how-a-five-line-architecture-test-caught-a-data-leak-a-code-review-missed-52np) (2026-06-14)
+- [How to Cut Microsoft Agent Framework Costs With a Gateway Layer](https://dev.to/lynkr/how-to-cut-microsoft-agent-framework-costs-with-a-gateway-layer-5gke) (2026-06-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tested 9 Python Automation Libraries in 2026 — Here’s What Actually Works](https://medium.com/@atharvjaiswal56/i-tested-9-python-automation-libraries-in-2026-heres-what-actually-works-97d6ac294df6?source=rss------programming-5) (2026-06-14)
-- [Async/Await vs Combine in SwiftUI: Which One Should You Use in 2026?](https://medium.com/@garejakirit/async-await-vs-combine-in-swiftui-which-one-should-you-use-in-2026-7aea91ddd3bf?source=rss------programming-5) (2026-06-14)
-- [I Let an AI Agent Loose on My Laravel Codebase for a Week — Here’s What It Actually Did](https://sadiqueali.medium.com/i-let-an-ai-agent-loose-on-my-laravel-codebase-for-a-week-heres-what-it-actually-did-83fa71b6894e?source=rss------programming-5) (2026-06-14)
-- [How Daily Meditation Makes You a Faster and Smarter Programmer](https://medium.com/@baraiyapiyush682/how-daily-meditation-makes-you-a-faster-and-smarter-programmer-2954539c6433?source=rss------programming-5) (2026-06-14)
-- [I Got Tired of Opening GitHub Trending 28 Times a Day, So I Put It All on One Page](https://medium.com/@p32929/i-got-tired-of-opening-github-trending-28-times-a-day-so-i-put-it-all-on-one-page-55348c255136?source=rss------programming-5) (2026-06-14)
+- [Mythos 5 and Fable 5 Suspended: US Export Controls Just Hit Anthropic Hard](https://medium.com/@tensrmedia/mythos-5-and-fable-5-suspended-us-export-controls-just-hit-anthropic-hard-8b532e02feb6?source=rss------programming-5) (2026-06-14)
+- [How I Actually Use Claude Code as a Senior Engineer: Part 2](https://ai.plainenglish.io/how-i-actually-use-claude-code-as-a-senior-engineer-part-2-2d608537bcd3?source=rss------programming-5) (2026-06-14)
+- [6 Copywriting Formulas That Silently Print Money](https://medium.com/readers-club/6-copywriting-formulas-that-silently-print-money-47664990eb6e?source=rss------programming-5) (2026-06-14)
+- [From Hidden Guardrails to Global Blackout: The 72-Hour Life Cycle of Claude Fable 5](https://sagar-awasthi.medium.com/from-hidden-guardrails-to-global-blackout-the-72-hour-life-cycle-of-claude-fable-5-d01bdd589964?source=rss------programming-5) (2026-06-14)
+- [I Scraped 1 Million Pages in Python, Rust, and Go - The Performance Gap is Embarrassing (2026…](https://medium.com/@rameshkannanyt0078/i-scraped-1-million-pages-in-python-rust-and-go-the-performance-gap-is-embarrassing-2026-f54b5be7e2fe?source=rss------programming-5) (2026-06-14)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
+- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 - [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
-- [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Top user authentication trends for 2026
+](
+https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
+) (2026-06-12)
+- [
+What is voice AI and how does it work in 2026?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
+) (2026-06-12)
+- [
+13 contact center technologies and trends to support your agents and customers
+](
+https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
+) (2026-06-12)
+- [
 From Idea to Index: How Twilio Voice and AI Helped Bring the Guinness Price Index to Life
 ](
 https://www.twilio.com/en-us/blog/events/matt-cortland-guinness-price-index-signal-berlin-2026
 ) (2026-06-11)
 - [
-Announcing Data Residency for SMS (EU): Local control, global trust
+The rise of passwordless authentication in 2026
 ](
-https://www.twilio.com/en-us/blog/products/launches/data-residency-for-SMS-eu
-) (2026-06-10)
-- [
-Integrating Twilio Agent Connect with Twilio Flex for Human Handoff
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/twilio-agent-connect-flex-human-handoff
-) (2026-06-09)
-- [
-15 questions every European bank should answer about conversational AI in 2026
-](
-https://www.twilio.com/en-us/blog/insights/ai/european-banks-conversational-ai-questions
-) (2026-06-09)
-- [
-Answer Support Calls, Then Handle Them Using SMS in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-handle-them-using-sms-php
-) (2026-06-08)
+https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentication
+) (2026-06-11)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-hand
 <details>
 <summary>💬 Slack API</summary>
 
-- [The Best AI Productivity Tools for 2026](https://slack.com/blog/productivity/the-best-ai-productivity-tools-to-transform-your-workday) (2026-06-11)
-- [What is a Knowledge Base? How to Build One and More](https://slack.com/blog/collaboration/what-is-knowledge-base) (2026-06-11)
 - [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
 - [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
 - [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
+- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
+- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
 
 </details>
 
