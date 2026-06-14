@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) (2026-06-14)
+- [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) (2026-06-14)
+- [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) (2026-06-13)
 - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) (2026-06-13)
 - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) (2026-06-13)
-- [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/) (2026-06-13)
-- [The FBI built its own replica small town to simulate real-world cyberattacks](https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/) (2026-06-13)
-- [Andrew Yang thinks the next big startup opportunity is lowering the cost of living](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) (2026-06-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/) (2026-06-13)
-- [GameBoy Workboy](https://tcrf.net/Workboy) (2026-06-13)
-- [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/) (2026-06-13)
-- [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578) (2026-06-13)
-- [The adder at the heart of Intel's 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html) (2026-06-13)
+- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf) (2026-06-14)
+- [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) (2026-06-14)
+- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html) (2026-06-14)
+- [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol) (2026-06-14)
+- [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/) (2026-06-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) (2026-06-13)
+- [X-Men ’97 has what Master of the Universe is missing](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel) (2026-06-13)
 - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction) (2026-06-13)
 - [Microsoft hasn’t ruled out spinning off Xbox](https://www.theverge.com/games/949584/microsoft-spinning-off-xbox) (2026-06-13)
 - [Bose’s latest QuietComfort Ultra are $70 off, marking a new low price ](https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale) (2026-06-13)
-- [My first 24 hours with Siri AI on the Mac](https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence) (2026-06-13)
-- [Never Post’s Mike Rugnetta on the creative process and the value of reliable power](https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire) (2026-06-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Myanmar Blocks Tailscale — and How to Beat It](https://dev.to/mariatanbobo/how-myanmar-blocks-tailscale-and-how-to-beat-it-13k6) (2026-06-13)
-- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi) (2026-06-13)
-- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135) (2026-06-13)
-- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07) (2026-06-13)
-- [How API Testing Levelled Up My QA Career (And Why Most Engineers Skip It)](https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g) (2026-06-13)
+- [What is the best real-time analytics database in 2026? An engineering buyer's guide](https://dev.to/manveer_chawla_64a7283d5a/best-real-time-analytics-database-2026-guide-4l0j) (2026-06-14)
+- [DevOps Salaries & Hiring in India 2026: What 800+ Live Job Listings Reveal](https://dev.to/irfan1117/devops-salaries-hiring-in-india-2026-what-800-live-job-listings-reveal-4klj) (2026-06-14)
+- [I Built a Web App That Finds the Fairest Meeting Spot for Any Group (and It's Free)](https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j) (2026-06-14)
+- [Your RAG App Is Broken Because You're Still Parsing PDFs Like It's 2023](https://dev.to/hefty_69a4c2d631c9dd70724/your-rag-app-is-broken-because-youre-still-parsing-pdfs-like-its-2023-5mn) (2026-06-14)
+- [Why Prompts Fail in Production (and the 4 Failure Vectors)](https://dev.to/toshanthistack/why-prompts-fail-in-production-and-the-4-failure-vectors-3adg) (2026-06-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How One WordPress Plugin Could Save America 2.3 Billion kWh Per Year](https://medium.com/@tariq-tahir/how-one-wordpress-plugin-could-save-america-2-3-billion-kwh-per-year-3809c4ff4988?source=rss------programming-5) (2026-06-13)
-- [The Day the Government Broke AI: Anthropic’s Fable 5 Ban and the Absurdity of "National Security"](https://ai-help-center.medium.com/the-day-the-government-broke-ai-anthropics-fable-5-ban-and-the-absurdity-of-national-security-8fefebde7807?source=rss------programming-5) (2026-06-13)
-- [How to Limit Product Titles to 2 Lines in Shopify’s Horizon Theme](https://medium.com/@hatarmaf/how-to-limit-product-titles-to-2-lines-in-shopifys-horizon-theme-35e29af531b0?source=rss------programming-5) (2026-06-13)
-- [Why Doesn’t Everyone Get Rich With a Claude-Built Trading Bot?](https://casatrick.medium.com/why-doesnt-everyone-get-rich-with-a-claude-built-trading-bot-0a325b18cde2?source=rss------programming-5) (2026-06-13)
-- [How I Built My First Autonomous AI Agent (And How You Can Too)](https://medium.com/@rahulgs15/how-i-built-my-first-autonomous-ai-agent-and-how-you-can-too-c62ca74c5b2e?source=rss------programming-5) (2026-06-13)
+- [I Tested 9 Python Automation Libraries in 2026 — Here’s What Actually Works](https://medium.com/@atharvjaiswal56/i-tested-9-python-automation-libraries-in-2026-heres-what-actually-works-97d6ac294df6?source=rss------programming-5) (2026-06-14)
+- [Async/Await vs Combine in SwiftUI: Which One Should You Use in 2026?](https://medium.com/@garejakirit/async-await-vs-combine-in-swiftui-which-one-should-you-use-in-2026-7aea91ddd3bf?source=rss------programming-5) (2026-06-14)
+- [I Let an AI Agent Loose on My Laravel Codebase for a Week — Here’s What It Actually Did](https://sadiqueali.medium.com/i-let-an-ai-agent-loose-on-my-laravel-codebase-for-a-week-heres-what-it-actually-did-83fa71b6894e?source=rss------programming-5) (2026-06-14)
+- [How Daily Meditation Makes You a Faster and Smarter Programmer](https://medium.com/@baraiyapiyush682/how-daily-meditation-makes-you-a-faster-and-smarter-programmer-2954539c6433?source=rss------programming-5) (2026-06-14)
+- [I Got Tired of Opening GitHub Trending 28 Times a Day, So I Put It All on One Page](https://medium.com/@p32929/i-got-tired-of-opening-github-trending-28-times-a-day-so-i-put-it-all-on-one-page-55348c255136?source=rss------programming-5) (2026-06-14)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
-- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 - [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
+- [New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads](https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/) (2026-06-02)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/answer-support-calls-hand
 - [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) (2026-06-09)
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Coinbase for Agents: Automating portfolio trading with AI](https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/) (2026-06-12)
-- [Visa ChatGPT integration enables AI agent retail purchasing](https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/) (2026-06-11)
-- [Xebia: Why AI agents fail without the right data foundation](https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/) (2026-06-11)
-- [Siri AI arrives with Google inside, and much of the world is locked out](https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/) (2026-06-10)
-- [McDonald’s tests Google-backed AI drive-thru ordering system](https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/) (2026-06-10)
 
 </details>
 
