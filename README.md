@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Startup CEO Charlie Javice is reportedly angling for a Trump pardon](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/) (2026-06-14)
+- [UK may ban social media for children under 16](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/) (2026-06-14)
 - [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) (2026-06-14)
 - [TechCrunch Mobility: SpaceX rockets past Tesla](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/) (2026-06-14)
 - [The new Sonos Play has become my go-to desk and kitchen speaker](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/) (2026-06-14)
-- [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) (2026-06-14)
-- [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) (2026-06-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed) (2026-06-14)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) (2026-06-14)
-- [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/) (2026-06-14)
-- [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146) (2026-06-14)
-- [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779) (2026-06-14)
+- [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) (2026-06-15)
+- [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the) (2026-06-15)
+- [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/) (2026-06-15)
+- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) (2026-06-14)
+- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds) (2026-06-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The FBI built a small town to simulate cyberattacks](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range) (2026-06-14)
+- [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos) (2026-06-14)
 - [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review) (2026-06-14)
 - [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale) (2026-06-14)
 - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history) (2026-06-14)
-- [Solid-state batteries still aren’t ready, but gels are](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state) (2026-06-14)
-- [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) (2026-06-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Samiksha AI: Universal Review & comment Analyzer](https://dev.to/techsakhi/samiksha-ai-universal-review-comment-analyzer-1j4a) (2026-06-14)
-- [قمر — Complete Guide](https://dev.to/sahand1987/qmr-complete-guide-56pl) (2026-06-14)
-- [Self-Healing Data Pipelines: Where the Marketing Ends and the Engineering Begins](https://dev.to/justsoftlab_x01/self-healing-data-pipelines-where-the-marketing-ends-and-the-engineering-begins-55fe) (2026-06-14)
-- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77) (2026-06-14)
-- [I'm a web dev who has never touched 3D. Here's my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88) (2026-06-14)
+- [I tracked every GitHub traffic spike for my open source LLM proxy for 7 weeks. Then I did the exact same thing again, and it worked again.](https://dev.to/shouvik12/i-tracked-every-github-traffic-spike-for-my-open-source-llm-proxy-for-7-weeks-then-i-did-the-exact-39ln) (2026-06-15)
+- [Run GLM-5.2 Locally: The Open Model Nobody Can Ban](https://dev.to/max_quimby/run-glm-52-locally-the-open-model-nobody-can-ban-pnb) (2026-06-15)
+- [🐍 When to choose ansible roles over playbooks](https://dev.to/ptp2308/when-to-choose-ansible-roles-over-playbooks-f62) (2026-06-15)
+- [Making "files never leave your browser" verifiable with DevTools and CSP](https://dev.to/szp2005/making-files-never-leave-your-browser-verifiable-with-devtools-and-csp-4n99) (2026-06-15)
+- [Why we open sourced our Slack agent (and what we learned about the AI coworker space)](https://dev.to/richard_smith_154156d471ef/why-we-open-sourced-our-slack-agent-and-what-we-learned-about-the-ai-coworker-space-fck) (2026-06-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Fable Lasted 3 Days. Then its Own government banned it.](https://yadavdivy296.medium.com/claude-fable-lasted-3-days-then-its-own-government-banned-it-c6341e43cce5?source=rss------programming-5) (2026-06-14)
-- [AutoIt Obfuscator Integration with SciTE](https://pelock.medium.com/autoit-obfuscator-integration-with-scite-a60f300c41b0?source=rss------programming-5) (2026-06-14)
-- [From Zero to Hero: How Go’s Built-in expvar Streamlined My Monitoring Stack](https://medium.com/@monikasinghal713/from-zero-to-hero-how-gos-built-in-expvar-streamlined-my-monitoring-stack-38e6af74d4b1?source=rss------programming-5) (2026-06-14)
-- [The Fastest Way to Use Tigzig.com? Don’t Click. Point Your Claude / AI Agent at It.](https://medium.com/@amarharolikar/the-fastest-way-to-use-tigzig-com-dont-click-point-your-claude-ai-agent-at-it-8759ddd9a879?source=rss------programming-5) (2026-06-14)
-- [Partition Exchange Load (PEL) in Oracle — | Best of mrcaption49 | 45](https://medium.com/@pranavsb699/partition-exchange-load-pel-in-oracle-best-of-mrcaption49-45-78e943284d8b?source=rss------programming-5) (2026-06-14)
+- [5 Design Patterns Every Developer Should Know ](https://medium.com/@pawardipak/5-design-patterns-every-developer-should-know-9945e62ab952?source=rss------programming-5) (2026-06-15)
+- [Prompting Your Way into Google: 10 Real-World Examples of the New "AI-Assisted" Code Comprehension…](https://medium.com/@johirbuet/prompting-your-way-into-google-10-real-world-examples-of-the-new-ai-assisted-code-comprehension-4f8d16a14705?source=rss------programming-5) (2026-06-15)
+- [Spark on Kubernetes in Production: The Complete Guide!](https://medium.com/@shenoy.shashwath/spark-on-kubernetes-in-production-the-complete-guide-9513e22eccc0?source=rss------programming-5) (2026-06-15)
+- [std::shared_lock in C++ — Reader-Writer Locking with shared_mutex Explained](https://medium.com/@chetanp.verma98/std-shared-lock-in-c-reader-writer-locking-with-shared-mutex-explained-6b71734a419d?source=rss------programming-5) (2026-06-15)
+- [Your Brain Builds a Binary Tree Every Time You Learn Something — Here’s the Proof](https://medium.com/@trends24/your-brain-builds-a-binary-tree-every-time-you-learn-something-heres-the-proof-527fa2e21d76?source=rss------programming-5) (2026-06-15)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/) (2026-06-15)
 - [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/) (2026-06-01)
 - [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) (2026-05-26)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) (2026-05-20)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) (2026-05-15)
-- [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) (2026-05-15)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Best AI Productivity Tools for 2026](https://slack.com/blog/productivity/the-best-ai-productivity-tools-to-transform-your-workday) (2026-06-11)
+- [What is a Knowledge Base? How to Build One and More](https://slack.com/blog/collaboration/what-is-knowledge-base) (2026-06-11)
 - [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
 - [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
 - [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
-- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
-- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
 
 </details>
 
@@ -538,9 +538,9 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 
 - [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) (2026-06-12)
 - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) (2026-06-11)
-- [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) (2026-06-09)
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
+- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
 
 </details>
 
