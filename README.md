@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The AI layoff wave is becoming a powder keg](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) (2026-06-15)
-- [Orbio raises $21 million to automate hiring and onboarding for frontline workers](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/) (2026-06-15)
-- [Startup CEO Charlie Javice is reportedly angling for a Trump pardon](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/) (2026-06-14)
-- [UK may ban social media for children under 16](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/) (2026-06-14)
-- [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) (2026-06-14)
+- [Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) (2026-06-15)
+- [SpaceX’s biggest-ever IPO just grew to $85.7 billion raised](https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/) (2026-06-15)
+- [UK unveils sweeping social media ban for users under 16](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) (2026-06-15)
+- [Salesforce acquires AI customer service platform Fin for $3.6 billion](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) (2026-06-15)
+- [Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/) (2026-06-15)
-- [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz) (2026-06-15)
-- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) (2026-06-15)
-- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion) (2026-06-15)
-- [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office) (2026-06-15)
+- [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908) (2026-06-15)
+- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) (2026-06-15)
+- [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) (2026-06-15)
+- [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io) (2026-06-15)
+- [Show HN: Exploiting Slack's video embeds to achieve E2EE communication](https://v1c.rocks/log/exploiting-slack-video/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Fox is buying Roku](https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion) (2026-06-15)
-- [All the gear a 20-year gadget blogging veteran packs when traveling](https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear) (2026-06-15)
-- [Honor’s Magic V6 sets three foldable firsts](https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review) (2026-06-15)
-- [Under-16 social media ban announced by UK government](https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement) (2026-06-15)
-- [The FBI built a small town to simulate cyberattacks](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range) (2026-06-14)
+- [Xbox turmoil continues with a studio closure and executive departures](https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure) (2026-06-15)
+- [Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc) (2026-06-15)
+- [My favorite Qi2 power bank is cheaper than ever for Verge readers](https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale) (2026-06-15)
+- [The Verge’s Father’s Day 2026 gift guide](https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas) (2026-06-15)
+- [Happy birthday to the Trump phone](https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary) (2026-06-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [F1 in Spain: An old-fashioned strategy fight can still be thrilling](https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/) (2026-06-15)
+- [Russia appears set to finally address long-term, serious space station cracks](https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/) (2026-06-15)
 - [Did a medieval flying monk spot Halley's comet, twice? It's complicated](https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/) (2026-06-14)
 - [Review: Disclosure Day is big on action, light on ideas](https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/) (2026-06-13)
 - [Threads of underground fungal networks are long enough to reach beyond the Solar System](https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/) (2026-06-13)
-- [Anthropic shuts down Fable, Mythos models following Trump admin directive](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) (2026-06-13)
-- [SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/) (2026-06-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This man with ALS is “the first power user” of a brain implant that lets him speak](https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/) (2026-06-15)
+- [The Download: cutting AC emissions, and nature’s drug designer](https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/) (2026-06-15)
 - [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) (2026-06-15)
 - [The Download: “reprogramming” aging, and the hidden sense of interoception](https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/) (2026-06-12)
 - [You do your own time](https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/) (2026-06-12)
-- [Why “reprogramming” is the buzziest approach to reversing aging right now](https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/) (2026-06-12)
-- [Inside interoception: The hidden sense of how you feel inside](https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/) (2026-06-12)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/) (2026-06-15)
+- [AI agents expose the security checks you never actually wrote​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/) (2026-06-15)
 - [Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​‌‌‍‌‍​﻿​‍​﻿‍​​﻿‌‍​﻿​​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌​​﻿‍‌​﻿‌​​‍﻿‌​﻿‌​‌‍‌‌​﻿​‌​﻿‌​​‍﻿‌‌‍​‍​﻿‌​​﻿‍‌‌‍​‍​‍﻿‌​﻿‍​​﻿‌‍‌‍‌​‌‍​‍​﻿‌‍‌‍​‍​﻿​﻿​﻿‌‌​﻿​​​﻿‌﻿‌‍​‌‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​‌‌‍‌‍​﻿​‍​﻿‍​​﻿‌‍​﻿​​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌​​﻿‍‌​﻿‌​​‍﻿‌​﻿‌​‌‍‌‌​﻿​‌​﻿‌​​‍﻿‌‌‍​‍​﻿‌​​﻿‍‌‌‍​‍​‍﻿‌​﻿‍​​﻿‌‍‌‍‌​‌‍​‍​﻿‌‍‌‍​‍​﻿​﻿​﻿‌‌​﻿​​​﻿‌﻿‌‍​‌‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/) (2026-06-12)
-- [What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/) (2026-06-12)
+- [Paging Charity? How do I get my leaders to stop running teams Into the ground?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/) (2026-06-12)
 - [Developers are emotionally attached to their tools​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍‌‌‌‍‌​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍‌‍​‍﻿‌​﻿​﻿​﻿‌​‌‍​‍​﻿‍​​‍﻿‌​﻿‌​‌‍‌‍‌‍​﻿‌‍​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌‌​﻿​‍​‍﻿‌​﻿​‍‌‍​‍‌‍​﻿‌‍​﻿​﻿​‍​﻿‌‌‌‍​﻿​﻿​‌‌‍​﻿‌‍‌‌​﻿‌​​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍‌‌‌‍‌​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍‌‍​‍﻿‌​﻿​﻿​﻿‌​‌‍​‍​﻿‍​​‍﻿‌​﻿‌​‌‍‌‍‌‍​﻿‌‍​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌‌​﻿​‍​‍﻿‌​﻿​‍‌‍​‍‌‍​﻿‌‍​﻿​﻿​‍​﻿‌‌‌‍​﻿​﻿​‌‌‍​﻿‌‍‌‌​﻿‌​​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/) (2026-06-12)
-- [When the cost of code approaches zero, what does engineering leadership look like?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/) (2026-06-11)
-- [Announcing Stack Overflow for Agents​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/) (2026-06-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [EU AI Act Timeline: What Developers and AI Teams Need to Know](https://dev.to/annexops/eu-ai-act-timeline-what-developers-and-ai-teams-need-to-know-12na) (2026-06-15)
-- [Webhooks vs Polling for Agent Inboxes](https://dev.to/qasim157/webhooks-vs-polling-for-agent-inboxes-4dln) (2026-06-15)
-- [How Email Threading Works for AI Agents](https://dev.to/qasim157/how-email-threading-works-for-ai-agents-1j0a) (2026-06-15)
-- [Under the Hood: An Agent Account Is Just a Grant](https://dev.to/qasim157/under-the-hood-an-agent-account-is-just-a-grant-pmc) (2026-06-15)
-- [Agent Accounts vs Transactional Email APIs](https://dev.to/qasim157/agent-accounts-vs-transactional-email-apis-m0d) (2026-06-15)
+- [Your MCP Agent is Logging "Sucess: true" While the task never ran](https://dev.to/sasi_sundar/your-mcp-agent-is-logging-sucess-true-while-the-task-never-ran-4blb) (2026-06-15)
+- [The Human Is No Longer the Developer](https://dev.to/michael_maramzin/the-human-is-no-longer-the-developer-b56) (2026-06-15)
+- [The most popular AI coding skills right now](https://dev.to/aws/the-most-popular-ai-coding-skills-right-now-4183) (2026-06-15)
+- [The Agent Reviewed Its Own Code and Passed Itself. It Was Wrong.](https://dev.to/stkremen/the-agent-reviewed-its-own-code-and-passed-itself-it-was-wrong-4b94) (2026-06-15)
+- [Road To KiwiEngine #17: Why Using Your Own Software Changes Everything](https://dev.to/stinklewinks/road-to-kiwiengine-17-why-using-your-own-software-changes-everything-5gn7) (2026-06-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build a Chatbot with Fikra API in 10 Minutes (OpenAI-Compatible, M-Pesa Payments)](https://medium.com/@benjmiano/build-a-chatbot-with-fikra-api-in-10-minutes-openai-compatible-m-pesa-payments-dc2f80e0739c?source=rss------programming-5) (2026-06-15)
-- [If You Can’t Explain How Your Go Service Behaves When the Context Cancels, Read This](https://elsyarifx.medium.com/if-you-cant-explain-how-your-go-service-behaves-when-the-context-cancels-read-this-987eb54e0c65?source=rss------programming-5) (2026-06-15)
-- [You’re Paying for 600 MCP Tools When Your Agent Needs Three — Governance](https://medium.com/@wasowski.jarek/youre-paying-for-600-mcp-tools-when-your-agent-needs-three-governance-5d7159dca6f0?source=rss------programming-5) (2026-06-15)
-- [The Internet is DEAD](https://zach-saw.medium.com/the-internet-is-dead-96a3f3ed866e?source=rss------programming-5) (2026-06-15)
-- [Any Agent, Any Cloud: One Trace View for Your Whole Agent Fleet](https://itnext.io/any-agent-any-cloud-one-trace-view-for-your-whole-agent-fleet-03e28ec8a794?source=rss------programming-5) (2026-06-15)
+- [Elegant Global Error Handling Using Middleware In ASP.NET](https://medium.com/@mariammaurice/elegant-global-error-handling-using-middleware-in-asp-net-3b37481bd649?source=rss------programming-5) (2026-06-15)
+- [Value Objects in .NET 10: Stop Passing Strings Around Your Domain](https://medium.com/@michaelmaurice410/value-objects-in-net-10-stop-passing-strings-around-your-domain-6dacccc1f712?source=rss------programming-5) (2026-06-15)
+- [I Stopped Watching Tutorials and Built PCA From Scratch Today](https://medium.com/@mirunalini.dev/i-stopped-watching-tutorials-and-built-pca-from-scratch-today-4e3d36b1403b?source=rss------programming-5) (2026-06-15)
+- [The cost of doing business in today's world is not the tax paid to government.](https://medium.com/@cheeruvenkatesh/the-cost-of-doing-business-in-todays-world-is-not-the-tax-paid-to-government-a554557b300a?source=rss------programming-5) (2026-06-15)
+- [Play-First Programming: An AI-Augmented Constructionist Framework for Learning, Creativity, and…](https://medium.com/@citrus.lens/play-first-programming-an-ai-augmented-constructionist-framework-for-learning-creativity-and-cb7593ba28e0?source=rss------programming-5) (2026-06-15)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
 - [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 - [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) (2026-06-04)
-- [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/) (2026-06-03)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.](https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/) (2026-06-15)
 - [dotInsights | June 2026](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/) (2026-06-12)
 - [Inside JetPride: How JetBrains Employees Built an LGBTQIA+ Community](https://blog.jetbrains.com/life-at-jetbrains/2026/06/inside-jetpride-how-jetbrains-employees-built-an-lgbtqia-community/) (2026-06-12)
 - [MPS 2026.1 Release Candidate Arrives](https://blog.jetbrains.com/mps/2026/06/the-mps-2026-1-rc1/) (2026-06-11)
 - [Best Python AI Frameworks in 2026](https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/) (2026-06-11)
-- [Contribute to the State of PHP Survey](https://blog.jetbrains.com/phpstorm/2026/06/state-of-php-survey-2026/) (2026-06-11)
 
 </details>
 
@@ -339,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Functions can now run up to 30 minutes](https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes) (2026-06-15)
 - [Auth0 joins the Vercel Marketplace](https://vercel.com/changelog/auth0-joins-the-vercel-marketplace) (2026-06-15)
 - [Increased Blob store limit for Hobby users](https://vercel.com/changelog/increased-blob-store-limit-for-hobby-users) (2026-06-15)
 - [Workflow SDK now runs natively in Nitro v3](https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3) (2026-06-13)
 - [Claude Fable 5 access suspended on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-suspended-on-ai-gateway) (2026-06-12)
-- [Kimi K2.7 Code now available on AI Gateway](https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway) (2026-06-12)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Growing the Cloudflare AI team with talent from Ensemble AI](https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/) (2026-06-15)
 - [Scaling Security Insights: how we achieved a 10x increase in global scanning capacity](https://blog.cloudflare.com/scaling-security-scans/) (2026-06-12)
 - [Route public traffic to private applications with Cloudflare](https://blog.cloudflare.com/private-origins-dns-routing/) (2026-06-10)
 - [Defend against frontier cyber models: Cloudflare's architecture as customer zero](https://blog.cloudflare.com/frontier-model-defense/) (2026-06-09)
 - [Turning Cloudflare’s threat indicators into real-time WAF rules](https://blog.cloudflare.com/realtime-threat-intel-waf-rules/) (2026-06-08)
-- [Your AI bill is out of control. Cloudflare can fix it now. ](https://blog.cloudflare.com/ai-gateway-spend-limits/) (2026-06-05)
 
 </details>
 
@@ -392,12 +392,12 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Accelerating Developer Velocity: Announcing Auth0's Native Integration with Vercel](https://auth0.com/blog/auth0-native-integration-with-vercel/) (2026-06-15)
 - [Implementing the Device Authorization Flow in a C# Console App](https://auth0.com/blog/implementing-the-device-authorization-flow-in-a-csharp-console-app/) (2026-06-12)
 - [You Are in Control: Auth0 Enterprise Is Now Self-Service](https://auth0.com/blog/auth0-enterprise-self-service-plans/) (2026-06-11)
 - [Token Vault with Organizations Support Is Generally Available](https://auth0.com/blog/token-vault-with-organization-support-generally-available/) (2026-06-11)
 - [What Our Design Team Stopped Doing to Start Leading the System for Quality
 ](https://auth0.com/blog/what-our-design-team-stopped-doing/) (2026-06-10)
-- [How to Connect Any OAuth2 Service to AI Agents with Auth0 Token Vault](https://auth0.com/blog/connect-oauth2-service-to-ai-agents-with-auth0-token-vault/) (2026-06-10)
 
 </details>
 
@@ -415,11 +415,11 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [See what your database is doing right now with Connections](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) (2026-06-15)
 - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete) (2026-06-11)
 - [Egress problems and where to find them](https://planetscale.com/blog/database-egress) (2026-05-14)
 - [Problem solving with PlanetScale Insights](https://planetscale.com/blog/problem-solving-with-insights) (2026-05-07)
 - [On benchmarking](https://planetscale.com/blog/on-benchmarking) (2026-05-05)
-- [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) (2026-05-05)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Effectively Align with Claude Code](https://towardsdatascience.com/how-to-effectively-align-with-claude-code/) (2026-06-15)
+- [The Protocol That Cleaned Up Our Agent Architecture](https://towardsdatascience.com/the-protocol-that-cleaned-up-our-agent-architecture/) (2026-06-15)
+- [I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions.](https://towardsdatascience.com/i-built-11-models-to-predict-the-2026-world-cup-they-crown-four-different-champions/) (2026-06-15)
+- [The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem](https://towardsdatascience.com/the-system-always-knows/) (2026-06-15)
 - [4 Lines You Should Include in Your Claude Skill](https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/) (2026-06-14)
-- [Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG](https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/) (2026-06-14)
-- [GPU Time-Slicing for Concurrent LLM Agents on Kubernetes](https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/) (2026-06-14)
-- [Larger Context Windows Don’t Fix RAG — So I Built a System That Does](https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/) (2026-06-13)
-- [Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload](https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/) (2026-06-13)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Building Time-Series Machine Learning Models with sktime in Python](https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python) (2026-06-15)
+- [3 Pandas Tricks for Data Cleaning & Preparation](https://www.kdnuggets.com/3-pandas-tricks-for-data-cleaning-preparation) (2026-06-15)
 - [Pairing Claude Code with Local Models](https://www.kdnuggets.com/pairing-claude-code-with-local-models) (2026-06-12)
 - [3 NumPy Tricks for Numerical Performance](https://www.kdnuggets.com/3-numpy-tricks-for-numerical-performance) (2026-06-12)
 - [Feature Stores from Scratch: A Minimal Working Implementation](https://www.kdnuggets.com/feature-stores-from-scratch-a-minimal-working-implementation) (2026-06-11)
-- [7 Best Ways to Get Funding for Your Startup Idea](https://www.kdnuggets.com/7-best-ways-to-get-funding-for-your-startup-idea) (2026-06-11)
-- [Local Agentic Programming on the Cheap: Claude Code + Ollama + Gemma4](https://www.kdnuggets.com/local-agentic-programming-on-the-cheap-claude-code-ollama-gemma4) (2026-06-10)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [AI Agent Tool Design: What Works and What Doesn’t](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) (2026-06-15)
 - [Python Concepts Every AI Engineer Must Master](https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/) (2026-06-12)
 - [Multi-Label Text Classification with Scikit-LLM](https://machinelearningmastery.com/multi-label-text-classification-with-scikit-llm/) (2026-06-11)
 - [Multimodal Browser AI with Transformers.js for Images and Speech](https://machinelearningmastery.com/multimodal-browser-ai-with-transformers-js-for-images-and-speech/) (2026-06-10)
 - [The Practitioner’s Guide to AgentOps](https://machinelearningmastery.com/the-practitioners-guide-to-agentops/) (2026-06-08)
-- [Building Semantic Search with Transformers.js and Sentence Embeddings](https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/) (2026-06-05)
 
 </details>
 
