@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The AI layoff wave is becoming a powder keg](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) (2026-06-15)
+- [Orbio raises $21 million to automate hiring and onboarding for frontline workers](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/) (2026-06-15)
 - [Startup CEO Charlie Javice is reportedly angling for a Trump pardon](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/) (2026-06-14)
 - [UK may ban social media for children under 16](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/) (2026-06-14)
 - [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) (2026-06-14)
-- [TechCrunch Mobility: SpaceX rockets past Tesla](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/) (2026-06-14)
-- [The new Sonos Play has become my go-to desk and kitchen speaker](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/) (2026-06-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) (2026-06-15)
-- [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the) (2026-06-15)
-- [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/) (2026-06-15)
-- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) (2026-06-14)
-- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds) (2026-06-14)
+- [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/) (2026-06-15)
+- [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz) (2026-06-15)
+- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) (2026-06-15)
+- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion) (2026-06-15)
+- [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office) (2026-06-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fox is buying Roku](https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion) (2026-06-15)
+- [All the gear a 20-year gadget blogging veteran packs when traveling](https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear) (2026-06-15)
+- [Honor’s Magic V6 sets three foldable firsts](https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review) (2026-06-15)
+- [Under-16 social media ban announced by UK government](https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement) (2026-06-15)
 - [The FBI built a small town to simulate cyberattacks](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range) (2026-06-14)
-- [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos) (2026-06-14)
-- [Conclave is the sound of a NYC summer block party](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review) (2026-06-14)
-- [How to watch most of the World Cup matches with free trials](https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale) (2026-06-14)
-- [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history) (2026-06-14)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) (2026-06-15)
 - [The Download: “reprogramming” aging, and the hidden sense of interoception](https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/) (2026-06-12)
 - [You do your own time](https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/) (2026-06-12)
 - [Why “reprogramming” is the buzziest approach to reversing aging right now](https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/) (2026-06-12)
 - [Inside interoception: The hidden sense of how you feel inside](https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/) (2026-06-12)
-- [The Download: soccer’s data renaissance and China’s big nuclear plans](https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/) (2026-06-11)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I tracked every GitHub traffic spike for my open source LLM proxy for 7 weeks. Then I did the exact same thing again, and it worked again.](https://dev.to/shouvik12/i-tracked-every-github-traffic-spike-for-my-open-source-llm-proxy-for-7-weeks-then-i-did-the-exact-39ln) (2026-06-15)
-- [Run GLM-5.2 Locally: The Open Model Nobody Can Ban](https://dev.to/max_quimby/run-glm-52-locally-the-open-model-nobody-can-ban-pnb) (2026-06-15)
-- [🐍 When to choose ansible roles over playbooks](https://dev.to/ptp2308/when-to-choose-ansible-roles-over-playbooks-f62) (2026-06-15)
-- [Making "files never leave your browser" verifiable with DevTools and CSP](https://dev.to/szp2005/making-files-never-leave-your-browser-verifiable-with-devtools-and-csp-4n99) (2026-06-15)
-- [Why we open sourced our Slack agent (and what we learned about the AI coworker space)](https://dev.to/richard_smith_154156d471ef/why-we-open-sourced-our-slack-agent-and-what-we-learned-about-the-ai-coworker-space-fck) (2026-06-15)
+- [EU AI Act Timeline: What Developers and AI Teams Need to Know](https://dev.to/annexops/eu-ai-act-timeline-what-developers-and-ai-teams-need-to-know-12na) (2026-06-15)
+- [Webhooks vs Polling for Agent Inboxes](https://dev.to/qasim157/webhooks-vs-polling-for-agent-inboxes-4dln) (2026-06-15)
+- [How Email Threading Works for AI Agents](https://dev.to/qasim157/how-email-threading-works-for-ai-agents-1j0a) (2026-06-15)
+- [Under the Hood: An Agent Account Is Just a Grant](https://dev.to/qasim157/under-the-hood-an-agent-account-is-just-a-grant-pmc) (2026-06-15)
+- [Agent Accounts vs Transactional Email APIs](https://dev.to/qasim157/agent-accounts-vs-transactional-email-apis-m0d) (2026-06-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Design Patterns Every Developer Should Know ](https://medium.com/@pawardipak/5-design-patterns-every-developer-should-know-9945e62ab952?source=rss------programming-5) (2026-06-15)
-- [Prompting Your Way into Google: 10 Real-World Examples of the New "AI-Assisted" Code Comprehension…](https://medium.com/@johirbuet/prompting-your-way-into-google-10-real-world-examples-of-the-new-ai-assisted-code-comprehension-4f8d16a14705?source=rss------programming-5) (2026-06-15)
-- [Spark on Kubernetes in Production: The Complete Guide!](https://medium.com/@shenoy.shashwath/spark-on-kubernetes-in-production-the-complete-guide-9513e22eccc0?source=rss------programming-5) (2026-06-15)
-- [std::shared_lock in C++ — Reader-Writer Locking with shared_mutex Explained](https://medium.com/@chetanp.verma98/std-shared-lock-in-c-reader-writer-locking-with-shared-mutex-explained-6b71734a419d?source=rss------programming-5) (2026-06-15)
-- [Your Brain Builds a Binary Tree Every Time You Learn Something — Here’s the Proof](https://medium.com/@trends24/your-brain-builds-a-binary-tree-every-time-you-learn-something-heres-the-proof-527fa2e21d76?source=rss------programming-5) (2026-06-15)
+- [Build a Chatbot with Fikra API in 10 Minutes (OpenAI-Compatible, M-Pesa Payments)](https://medium.com/@benjmiano/build-a-chatbot-with-fikra-api-in-10-minutes-openai-compatible-m-pesa-payments-dc2f80e0739c?source=rss------programming-5) (2026-06-15)
+- [If You Can’t Explain How Your Go Service Behaves When the Context Cancels, Read This](https://elsyarifx.medium.com/if-you-cant-explain-how-your-go-service-behaves-when-the-context-cancels-read-this-987eb54e0c65?source=rss------programming-5) (2026-06-15)
+- [You’re Paying for 600 MCP Tools When Your Agent Needs Three — Governance](https://medium.com/@wasowski.jarek/youre-paying-for-600-mcp-tools-when-your-agent-needs-three-governance-5d7159dca6f0?source=rss------programming-5) (2026-06-15)
+- [The Internet is DEAD](https://zach-saw.medium.com/the-internet-is-dead-96a3f3ed866e?source=rss------programming-5) (2026-06-15)
+- [Any Agent, Any Cloud: One Trace View for Your Whole Agent Fleet](https://itnext.io/any-agent-any-cloud-one-trace-view-for-your-whole-agent-fleet-03e28ec8a794?source=rss------programming-5) (2026-06-15)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/) (2026-06-15)
 - [Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors](https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/) (2026-06-10)
 - [Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available](https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/) (2026-06-09)
 - [AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/) (2026-06-08)
 - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) (2026-06-05)
-- [Improve your application resilience with Amazon Cognito multi-Region replication](https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/) (2026-06-03)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Auth0 joins the Vercel Marketplace](https://vercel.com/changelog/auth0-joins-the-vercel-marketplace) (2026-06-15)
 - [Increased Blob store limit for Hobby users](https://vercel.com/changelog/increased-blob-store-limit-for-hobby-users) (2026-06-15)
 - [Workflow SDK now runs natively in Nitro v3](https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3) (2026-06-13)
 - [Claude Fable 5 access suspended on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-suspended-on-ai-gateway) (2026-06-12)
 - [Kimi K2.7 Code now available on AI Gateway](https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway) (2026-06-12)
-- [Program Claude Code, Codex, Pi and other agent harnesses with AI SDK](https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk) (2026-06-12)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Coinbase for Agents: Automating portfolio trading with AI](https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/) (2026-06-12)
-- [Visa ChatGPT integration enables AI agent retail purchasing](https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/) (2026-06-11)
-- [Xebia: Why AI agents fail without the right data foundation](https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/) (2026-06-11)
-- [Siri AI arrives with Google inside, and much of the world is locked out](https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/) (2026-06-10)
-- [McDonald’s tests Google-backed AI drive-thru ordering system](https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/) (2026-06-10)
 
 </details>
 
