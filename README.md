@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) (2026-06-15)
+- [SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/) (2026-06-15)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/) (2026-06-15)
 - [Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) (2026-06-15)
 - [SpaceX’s biggest-ever IPO just grew to $85.7 billion raised](https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/) (2026-06-15)
-- [UK unveils sweeping social media ban for users under 16](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) (2026-06-15)
-- [Salesforce acquires AI customer service platform Fin for $3.6 billion](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) (2026-06-15)
-- [Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908) (2026-06-15)
-- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) (2026-06-15)
-- [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) (2026-06-15)
-- [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io) (2026-06-15)
-- [Show HN: Exploiting Slack's video embeds to achieve E2EE communication](https://v1c.rocks/log/exploiting-slack-video/) (2026-06-15)
+- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) (2026-06-15)
+- [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083) (2026-06-15)
+- [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/) (2026-06-15)
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) (2026-06-15)
+- [The Alaska Server](https://serialport.org/blog/the-alaska-server/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Xbox turmoil continues with a studio closure and executive departures](https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure) (2026-06-15)
-- [Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc) (2026-06-15)
-- [My favorite Qi2 power bank is cheaper than ever for Verge readers](https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale) (2026-06-15)
-- [The Verge’s Father’s Day 2026 gift guide](https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas) (2026-06-15)
-- [Happy birthday to the Trump phone](https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary) (2026-06-15)
+- [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover) (2026-06-15)
+- [Amazon&#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale) (2026-06-15)
+- [All the news about Anthropic&#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown) (2026-06-15)
+- [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals) (2026-06-15)
+- [Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai) (2026-06-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [F1 in Spain: An old-fashioned strategy fight can still be thrilling](https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/) (2026-06-15)
-- [Russia appears set to finally address long-term, serious space station cracks](https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/) (2026-06-15)
-- [Did a medieval flying monk spot Halley's comet, twice? It's complicated](https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/) (2026-06-14)
-- [Review: Disclosure Day is big on action, light on ideas](https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/) (2026-06-13)
-- [Threads of underground fungal networks are long enough to reach beyond the Solar System](https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/) (2026-06-13)
+- [UK to ban social media for kids under 16, may impose overnight curfews](https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/) (2026-06-15)
+- [Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021](https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/) (2026-06-15)
+- [A Chinese rocket breaks apart dangerously close to the Starlink constellation](https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/) (2026-06-15)
+- [Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising](https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/) (2026-06-15)
+- [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) (2026-06-15)
 - [This man with ALS is “the first power user” of a brain implant that lets him speak](https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/) (2026-06-15)
 - [The Download: cutting AC emissions, and nature’s drug designer](https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/) (2026-06-15)
 - [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) (2026-06-15)
 - [The Download: “reprogramming” aging, and the hidden sense of interoception](https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/) (2026-06-12)
-- [You do your own time](https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/) (2026-06-12)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/) (2026-06-15)
+- [Accelerating researchers and developers building multilingual AI with a new open dataset](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/) (2026-06-15)
 - [How we made GitHub Copilot CLI more selective about delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/) (2026-06-12)
 - [GitHub availability report: May 2026](https://github.blog/news-insights/company-news/github-availability-report-may-2026/) (2026-06-11)
 - [Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/) (2026-06-11)
-- [Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/) (2026-06-10)
-- [From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/) (2026-06-09)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your MCP Agent is Logging "Sucess: true" While the task never ran](https://dev.to/sasi_sundar/your-mcp-agent-is-logging-sucess-true-while-the-task-never-ran-4blb) (2026-06-15)
-- [The Human Is No Longer the Developer](https://dev.to/michael_maramzin/the-human-is-no-longer-the-developer-b56) (2026-06-15)
-- [The most popular AI coding skills right now](https://dev.to/aws/the-most-popular-ai-coding-skills-right-now-4183) (2026-06-15)
-- [The Agent Reviewed Its Own Code and Passed Itself. It Was Wrong.](https://dev.to/stkremen/the-agent-reviewed-its-own-code-and-passed-itself-it-was-wrong-4b94) (2026-06-15)
-- [Road To KiwiEngine #17: Why Using Your Own Software Changes Everything](https://dev.to/stinklewinks/road-to-kiwiengine-17-why-using-your-own-software-changes-everything-5gn7) (2026-06-15)
+- [Adding Markdown Support End-to-End (Part 7)](https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1) (2026-06-15)
+- [LangChain overview for Node.js](https://dev.to/zsevic/langchain-overview-for-nodejs-54en) (2026-06-15)
+- [My Bookmark Engine Returned Chunks. I Added One Endpoint to Make It Answer.](https://dev.to/dannwaneri/my-bookmark-engine-returned-chunks-i-added-one-endpoint-to-make-it-answer-317j) (2026-06-15)
+- [How I Built a Zero-Dependency Token Compressor for AI Coding Agents (During My High School Exams)](https://dev.to/raxyl00/how-i-built-a-zero-dependency-token-compressor-for-ai-coding-agents-during-my-high-school-exams-3ihh) (2026-06-15)
+- [End of the Year idea for DEV?](https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p) (2026-06-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Elegant Global Error Handling Using Middleware In ASP.NET](https://medium.com/@mariammaurice/elegant-global-error-handling-using-middleware-in-asp-net-3b37481bd649?source=rss------programming-5) (2026-06-15)
-- [Value Objects in .NET 10: Stop Passing Strings Around Your Domain](https://medium.com/@michaelmaurice410/value-objects-in-net-10-stop-passing-strings-around-your-domain-6dacccc1f712?source=rss------programming-5) (2026-06-15)
-- [I Stopped Watching Tutorials and Built PCA From Scratch Today](https://medium.com/@mirunalini.dev/i-stopped-watching-tutorials-and-built-pca-from-scratch-today-4e3d36b1403b?source=rss------programming-5) (2026-06-15)
-- [The cost of doing business in today's world is not the tax paid to government.](https://medium.com/@cheeruvenkatesh/the-cost-of-doing-business-in-todays-world-is-not-the-tax-paid-to-government-a554557b300a?source=rss------programming-5) (2026-06-15)
-- [Play-First Programming: An AI-Augmented Constructionist Framework for Learning, Creativity, and…](https://medium.com/@citrus.lens/play-first-programming-an-ai-augmented-constructionist-framework-for-learning-creativity-and-cb7593ba28e0?source=rss------programming-5) (2026-06-15)
+- [Try my inverted agentic harness](https://thegoldenmule.medium.com/try-my-inverted-agentic-harness-2a5d83b631bb?source=rss------programming-5) (2026-06-15)
+- [Your CS Degree Is Not a Job Training Program (And That’s the Point)](https://medium.com/@usamahmoin/your-cs-degree-is-not-a-job-training-program-and-thats-the-point-ee0352fe7765?source=rss------programming-5) (2026-06-15)
+- [The World’s First Real-Time Periodic Table Chemistry Simulator: Invented by Stephanie Iketuonye…](https://medium.com/@smsoftware/the-worlds-first-real-time-periodic-table-chemistry-simulator-invented-by-stephanie-iketuonye-18a0a8b9960c?source=rss------programming-5) (2026-06-15)
+- [You Probably Don’t Need Redis: Put the Job Queue in Your SQLite File](https://medium.com/@arthurpro/you-probably-dont-need-redis-put-the-job-queue-in-your-sqlite-file-0a67cc9b50cb?source=rss------programming-5) (2026-06-15)
+- [Why Your PC Monitor Fails You: AI vs Thresholds - by Marcin Firmuga (PC Workman, Open Source)](https://medium.com/@MarcinFirmuga/why-your-pc-monitor-fails-you-ai-vs-thresholds-by-marcin-firmuga-pc-workman-open-source-337200c7c807?source=rss------programming-5) (2026-06-15)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access](https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/) (2026-06-15)
 - [AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/) (2026-06-15)
 - [Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors](https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/) (2026-06-10)
 - [Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available](https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/) (2026-06-09)
 - [AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/) (2026-06-08)
-- [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) (2026-06-05)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
-- [Deprecation of the ImageCreator class](https://developer.apple.com/news/?id=dz9wvq0r) (2026-06-11)
 - [WWDC26 survey](https://developer.apple.com/news/?id=15wishue) (2026-06-11)
 - [Find out what's new for Apple developers](https://developer.apple.com/news/?id=8rgqj83s) (2026-06-08)
 - [Introducing Time Allowances](https://developer.apple.com/news/?id=0d2gpmml) (2026-06-08)
 - [Updated Apple Developer Program License Agreement and App Review Guidelines now available ](https://developer.apple.com/news/?id=a233fmpw) (2026-06-08)
+- [Update for Apps Distributed in Texas](https://developer.apple.com/news/?id=sg176nne) (2026-06-03)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [What’s New in Android XR: Tooling, Engine Support, and Ecosystem Updates](https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html) (2026-06-15)
 - [Top 3 updates for Android developer productivity](https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html) (2026-06-09)
 - [Datadog delivers millions of in-depth performance insights with ProfilingManager](https://android-developers.googleblog.com/2026/06/datadog-profilingmanager-performance-insights.html) (2026-06-08)
 - [Prioritizing Memory Efficiency: Essential Steps for Android 17](https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html) (2026-06-02)
 - [Building Premium Android Experiences at Google I/O ‘26](https://android-developers.googleblog.com/2026/06/building-premium-android-experiences-google-io-26.html) (2026-06-02)
-- [Top AI on Android updates for building intelligent experiences from Google I/O ‘26 ](https://android-developers.googleblog.com/2026/05/android-ai-intelligence-system.html) (2026-05-26)
 
 </details>
 
