@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/) (2026-06-16)
-- [India orders temporary ban on Telegram over exam fraud concerns](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/) (2026-06-16)
-- [Payments startup Flutterwave hits $3.2B valuation, backed by Ripple](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/) (2026-06-16)
-- [DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’](https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/) (2026-06-16)
-- [Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers](https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/) (2026-06-16)
+- [SpaceX valuation balloons to $2.6T, briefly passes Amazon](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/) (2026-06-16)
+- [Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/) (2026-06-16)
+- [Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/) (2026-06-16)
+- [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) (2026-06-16)
+- [Mobileye’s US robotaxi launch will put it on both sides of the AV business](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/) (2026-06-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209) (2026-06-16)
-- [Apple's weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) (2026-06-16)
-- [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/) (2026-06-16)
-- [CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l) (2026-06-16)
-- [Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/) (2026-06-16)
+- [Frood, an Alpine Initramfs NAS](https://words.filippo.io/frood/) (2026-06-16)
+- [Nobody clicks your share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/) (2026-06-16)
+- [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical) (2026-06-16)
+- [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874) (2026-06-16)
+- [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/) (2026-06-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s](https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking) (2026-06-16)
-- [The Cybercab is the lightest, most efficient Tesla ever made](https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa) (2026-06-16)
-- [Pour one out for Roku City](https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation) (2026-06-16)
-- [Florida sues TikTok for allegedly violating its social media ban for kids](https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban) (2026-06-16)
-- [Amazon’s capable sound system is over $100 off ahead of Prime Day](https://www.theverge.com/gadgets/950210/amazon-fire-tv-plus-subwoofer-satellite-deal-sale) (2026-06-16)
+- [The Complete Calvin and Hobbes is a great last-minute Father’s Day gift](https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale) (2026-06-16)
+- [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr) (2026-06-16)
+- [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction) (2026-06-16)
+- [Google launches Wear OS 7 with Live Updates and a battery life boost](https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch) (2026-06-16)
+- [Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers](https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch) (2026-06-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Mobileye is entering the US robotaxi market with standalone service](https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/) (2026-06-16)
-- [The Ars Technica 2026 Reader Survey: Let your voice be heard!](https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/) (2026-06-16)
-- [Critical Copilot vulnerability allowed hackers to seal 2FA code from users](https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/) (2026-06-16)
-- [Commodore’s newest gadget is a flip phone that blocks social media and browsers](https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/) (2026-06-16)
-- [Key mission for Europe's commercial space enterprise scrubbed again](https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/) (2026-06-15)
+- [US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says](https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/) (2026-06-16)
+- [Pentagon boasts of using AI to write reports mandated by Congress](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/) (2026-06-16)
+- [Android 17 starts hitting Pixel phones and watches today](https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/) (2026-06-16)
+- [Trump admin abandons fight against wind energy as clean energy output surges](https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/) (2026-06-16)
+- [SpaceX to acquire AI coding platform Cursor for $60 billion](https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/) (2026-06-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SpaceX Is Buying Cursor for $60B: What Developers Should Know Right Now](https://dev.to/tonyspiro/spacex-is-buying-cursor-for-60b-what-developers-should-know-right-now-4en2) (2026-06-16)
-- [Reduce LLM Token Waste in RAG with Markdown](https://dev.to/alterlab/reduce-llm-token-waste-in-rag-with-markdown-1jck) (2026-06-16)
-- [Building a Polymarket Trading Bot: Architecture, Execution, and Risk Management](https://dev.to/casatrick/building-a-polymarket-trading-bot-architecture-execution-and-risk-management-4gd7) (2026-06-16)
-- [I couldn't test my VM sizing math without spinning up a real VM](https://dev.to/tiltedlunar123/i-couldnt-test-my-vm-sizing-math-without-spinning-up-a-real-vm-pof) (2026-06-16)
-- [Building an autonomous Slack agent with OpenCode](https://dev.to/ojabowalola/building-an-autonomous-slack-agent-with-opencode-19d1) (2026-06-16)
+- [Building AI agents with LangChain](https://dev.to/zsevic/building-ai-agents-with-langchain-5e69) (2026-06-16)
+- [Stop using AI as a search engine with extra steps.](https://dev.to/gmoustakas/stop-using-ai-as-a-search-engine-with-extra-steps-49oo) (2026-06-16)
+- [I Built a Local Apex Runtime - Nimbus](https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o) (2026-06-16)
+- [Valkey vs Redis: API Protocol, Data Format & Compatibility — The Technical Deep-Dive](https://dev.to/deploynix/valkey-vs-redis-api-protocol-data-format-compatibility-the-technical-deep-dive-4m2e) (2026-06-16)
+- [Notion AI's Pricing Trap: Why I Went Open Source Instead](https://dev.to/loyaldash/notion-ais-pricing-trap-why-i-went-open-source-instead-4e4l) (2026-06-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 127 of Learning Java & DSA: Recursive Binary Search](https://medium.com/@payalmehra3522/day-127-of-learning-java-dsa-recursive-binary-search-96d37af74be4?source=rss------programming-5) (2026-06-16)
-- [I will build wix website design, redesign wix website, wix online store](https://globalwebcraft.medium.com/i-will-build-wix-website-design-redesign-wix-website-wix-online-store-c6c9030b98ec?source=rss------programming-5) (2026-06-16)
-- [Microsoft Build: La nueva era del desarrollo en Windows impulsada por IA, automatización y entornos…](https://medium.com/@r.mutt1917/microsoft-build-la-nueva-era-del-desarrollo-en-windows-impulsada-por-ia-automatizaci%C3%B3n-y-entornos-3007bfe2bce2?source=rss------programming-5) (2026-06-16)
-- [My FastAPI App Crashed at 3 AM - I Traced the Bug to a Single Line of Asyncio Code — It Cost Me…](https://medium.com/@rameshkannanyt0078/my-fastapi-app-crashed-at-3-am-i-traced-the-bug-to-a-single-line-of-asyncio-code-it-cost-me-bc90f47471cf?source=rss------programming-5) (2026-06-16)
-- [Building BlueSky Engine: 60 FPS Ray Tracing on a 2011 Laptop](https://medium.com/@sohamanand409/building-bluesky-engine-60-fps-ray-tracing-on-a-2011-laptop-9a08e95d1a48?source=rss------programming-5) (2026-06-16)
+- [Your Team Got Cursor — and Got Slower](https://medium.com/@sergey.fce/your-team-got-cursor-and-got-slower-00d451f27e59?source=rss------programming-5) (2026-06-16)
+- [The Most Dangerous Advice Indian Developers Ever Believed About AI](https://medium.com/@unknownnarrator09/the-most-dangerous-advice-indian-developers-ever-believed-about-ai-bf41ffdb4b58?source=rss------programming-5) (2026-06-16)
+- [I Upgraded Our Framework in Minutes With AI. The Work Still Took Hours.](https://medium.com/@refactored-life/i-upgraded-our-framework-in-minutes-with-ai-the-work-still-took-hours-30f6741afa7c?source=rss------programming-5) (2026-06-16)
+- [The Mid-Level Engineer Is Losing the Most](https://medium.com/loop-of-thought/the-mid-level-engineer-is-losing-the-most-9424cd205671?source=rss------programming-5) (2026-06-16)
+- [How Time Tracking Improves Employee Productivity and Business Performance](https://medium.com/@trackpm2/how-time-tracking-improves-employee-productivity-and-business-performance-3d4d30012ce5?source=rss------programming-5) (2026-06-16)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
-- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html) (2026-06-16)
 - [What’s New in Android XR: Tooling, Engine Support, and Ecosystem Updates](https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html) (2026-06-15)
 - [Top 3 updates for Android developer productivity](https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html) (2026-06-09)
 - [Datadog delivers millions of in-depth performance insights with ProfilingManager](https://android-developers.googleblog.com/2026/06/datadog-profilingmanager-performance-insights.html) (2026-06-08)
 - [Prioritizing Memory Efficiency: Essential Steps for Android 17](https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html) (2026-06-02)
-- [Building Premium Android Experiences at Google I/O ‘26](https://android-developers.googleblog.com/2026/06/building-premium-android-experiences-google-io-26.html) (2026-06-02)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
 - [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
-- [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) (2026-06-04)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox can now run for up to 24 hours](https://vercel.com/changelog/vercel-sandbox-can-now-run-for-up-to-24-hours) (2026-06-16)
+- [GLM 5.2 now available on AI Gateway](https://vercel.com/changelog/glm-5-2-now-available-on-ai-gateway) (2026-06-16)
 - [Workflow SDK now supports inflight cancellation](https://vercel.com/changelog/workflow-sdk-now-supports-inflight-cancellation) (2026-06-16)
 - [Workflow SDK now supports TanStack Start](https://vercel.com/changelog/workflow-sdk-now-supports-tanstack-start) (2026-06-16)
 - [Vercel Functions can now run up to 30 minutes](https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes) (2026-06-15)
-- [Auth0 joins the Vercel Marketplace](https://vercel.com/changelog/auth0-joins-the-vercel-marketplace) (2026-06-15)
-- [Increased Blob store limit for Hobby users](https://vercel.com/changelog/increased-blob-store-limit-for-hobby-users) (2026-06-15)
 
 </details>
 
@@ -448,11 +448,11 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [Introducing GraphQL.js v17](https://graphql.org/blog/2026-06-15-introducing-graphql-js-v17) (2026-06-15)
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
 - [GraphQL Foundation Budget Report, 2025-2026](https://graphql.org/blog/2026-04-09-graphql-foundation-budget-2026) (2026-04-09)
-- [Announcing GraphQL Days 2026](https://graphql.org/blog/2026-04-02-graphql-day-2026) (2026-04-02)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Best AI Productivity Tools for 2026](https://slack.com/blog/productivity/the-best-ai-productivity-tools-to-transform-your-workday) (2026-06-11)
+- [What is a Knowledge Base? How to Build One and More](https://slack.com/blog/collaboration/what-is-knowledge-base) (2026-06-11)
 - [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
 - [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
 - [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
-- [How to Achieve Team Alignment: A Practical Guide for Modern Teams](https://slack.com/blog/collaboration/team-alignment) (2026-06-04)
-- [Tools for Creating Accountability in the Workplace](https://slack.com/blog/collaboration/accountability-in-the-workplace) (2026-06-04)
 
 </details>
 
