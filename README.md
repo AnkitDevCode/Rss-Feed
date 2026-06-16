@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/) (2026-06-15)
+- [The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/) (2026-06-15)
 - [Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) (2026-06-15)
 - [SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/) (2026-06-15)
 - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/) (2026-06-15)
-- [Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) (2026-06-15)
-- [SpaceX’s biggest-ever IPO just grew to $85.7 billion raised](https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) (2026-06-15)
-- [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083) (2026-06-15)
-- [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/) (2026-06-15)
-- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) (2026-06-15)
-- [The Alaska Server](https://serialport.org/blog/the-alaska-server/) (2026-06-15)
+- [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) (2026-06-16)
+- [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion) (2026-06-16)
+- [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/) (2026-06-16)
+- [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/) (2026-06-16)
+- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) (2026-06-16)
+- [Facebook’s new AI Mode search gets its info from public posts](https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook) (2026-06-15)
+- [Xbox is closing down Hellblade creator Ninja Theory](https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua) (2026-06-15)
 - [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover) (2026-06-15)
 - [Amazon&#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale) (2026-06-15)
-- [All the news about Anthropic&#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown) (2026-06-15)
-- [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals) (2026-06-15)
-- [Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai) (2026-06-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Key mission for Europe's commercial space enterprise scrubbed again](https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/) (2026-06-15)
+- [Heart protection from COVID shots remains amid updates, study finds](https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/) (2026-06-15)
 - [UK to ban social media for kids under 16, may impose overnight curfews](https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/) (2026-06-15)
 - [Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021](https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/) (2026-06-15)
 - [A Chinese rocket breaks apart dangerously close to the Starlink constellation](https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/) (2026-06-15)
-- [Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising](https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/) (2026-06-15)
-- [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/) (2026-06-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Adding Markdown Support End-to-End (Part 7)](https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1) (2026-06-15)
-- [LangChain overview for Node.js](https://dev.to/zsevic/langchain-overview-for-nodejs-54en) (2026-06-15)
-- [My Bookmark Engine Returned Chunks. I Added One Endpoint to Make It Answer.](https://dev.to/dannwaneri/my-bookmark-engine-returned-chunks-i-added-one-endpoint-to-make-it-answer-317j) (2026-06-15)
-- [How I Built a Zero-Dependency Token Compressor for AI Coding Agents (During My High School Exams)](https://dev.to/raxyl00/how-i-built-a-zero-dependency-token-compressor-for-ai-coding-agents-during-my-high-school-exams-3ihh) (2026-06-15)
-- [End of the Year idea for DEV?](https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p) (2026-06-15)
+- [Fixing WebSocket Silent Disconnects for Financial Market Data](https://dev.to/kels180/fixing-websocket-silent-disconnects-for-financial-market-data-6b6) (2026-06-16)
+- [The Agent Skills I Use for Development](https://dev.to/trapajim/the-agent-skills-i-use-for-development-5gi5) (2026-06-16)
+- [How to Scrape Google Maps for Local Business Leads (with Emails) - No API Key](https://dev.to/fruityp/how-to-scrape-google-maps-for-local-business-leads-with-emails-no-api-key-4hd2) (2026-06-16)
+- [If you're a software developer just starting out and you've ever wondered how senior devs think while they build, this is for you.](https://dev.to/oluwaseyivibex/if-youre-a-software-developer-just-starting-out-and-youve-ever-wondered-how-senior-devs-think-2m9d) (2026-06-16)
+- [Hardware Video Compression in Rust on macOS — ffmpeg with VideoToolbox](https://dev.to/hiyoyok/hardware-video-compression-in-rust-on-macos-ffmpeg-with-videotoolbox-4jpm) (2026-06-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Try my inverted agentic harness](https://thegoldenmule.medium.com/try-my-inverted-agentic-harness-2a5d83b631bb?source=rss------programming-5) (2026-06-15)
-- [Your CS Degree Is Not a Job Training Program (And That’s the Point)](https://medium.com/@usamahmoin/your-cs-degree-is-not-a-job-training-program-and-thats-the-point-ee0352fe7765?source=rss------programming-5) (2026-06-15)
-- [The World’s First Real-Time Periodic Table Chemistry Simulator: Invented by Stephanie Iketuonye…](https://medium.com/@smsoftware/the-worlds-first-real-time-periodic-table-chemistry-simulator-invented-by-stephanie-iketuonye-18a0a8b9960c?source=rss------programming-5) (2026-06-15)
-- [You Probably Don’t Need Redis: Put the Job Queue in Your SQLite File](https://medium.com/@arthurpro/you-probably-dont-need-redis-put-the-job-queue-in-your-sqlite-file-0a67cc9b50cb?source=rss------programming-5) (2026-06-15)
-- [Why Your PC Monitor Fails You: AI vs Thresholds - by Marcin Firmuga (PC Workman, Open Source)](https://medium.com/@MarcinFirmuga/why-your-pc-monitor-fails-you-ai-vs-thresholds-by-marcin-firmuga-pc-workman-open-source-337200c7c807?source=rss------programming-5) (2026-06-15)
+- [QEMU Internals Mastery: The Complete Week 1 Guide](https://medium.com/@bharadwajsri/qemu-internals-mastery-the-complete-week-1-guide-e8877d2b14b9?source=rss------programming-5) (2026-06-16)
+- [99% of New Python Developers Learn It Wrong. Here’s the Exact Roadmap I’d Follow](https://medium.com/@sourabhda1998/99-of-new-python-developers-learn-it-wrong-heres-the-exact-roadmap-i-d-follow-2b09bb572ab3?source=rss------programming-5) (2026-06-16)
+- [Velocity Executor: A Fast and Keyless Windows Executor Built for Performance](https://medium.com/@ahmetcankorkmaz0525/velocity-executor-a-fast-and-keyless-windows-executor-built-for-performance-e2dce11c3730?source=rss------programming-5) (2026-06-16)
+- [15 Python Skills Every Developer Thinks They Can Skip Until Reality Hits](https://medium.com/@sourabhda1998/15-python-skills-every-developer-thinks-they-can-skip-until-reality-hits-2d0395ba61c2?source=rss------programming-5) (2026-06-16)
+- [Nobody Promotes You for Writing Clean Code](https://medium.com/@kalpesh.panch90/nobody-promotes-you-for-writing-clean-code-d71560624250?source=rss------programming-5) (2026-06-16)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [New domain for Sign in with Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) (2026-06-15)
 - [WWDC26 survey](https://developer.apple.com/news/?id=15wishue) (2026-06-11)
 - [Find out what's new for Apple developers](https://developer.apple.com/news/?id=8rgqj83s) (2026-06-08)
 - [Introducing Time Allowances](https://developer.apple.com/news/?id=0d2gpmml) (2026-06-08)
 - [Updated Apple Developer Program License Agreement and App Review Guidelines now available ](https://developer.apple.com/news/?id=a233fmpw) (2026-06-08)
-- [Update for Apps Distributed in Texas](https://developer.apple.com/news/?id=sg176nne) (2026-06-03)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/insights/trends/rise-of-passwordless-authentic
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
 - [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) (2026-06-09)
 - [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) (2026-06-08)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [HarmonyOS 7 steps into the AI gap Apple left open in China](https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/) (2026-06-15)
+- [Accenture: Consumers show growing trust in AI shopping agents](https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/) (2026-06-15)
+- [The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble](https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/) (2026-06-15)
+- [Coinbase for Agents: Automating portfolio trading with AI](https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/) (2026-06-12)
+- [Visa ChatGPT integration enables AI agent retail purchasing](https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/) (2026-06-11)
 
 </details>
 
