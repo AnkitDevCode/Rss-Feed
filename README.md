@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/) (2026-06-17)
-- [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) (2026-06-16)
-- [NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html) (2026-06-16)
-- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/) (2026-06-16)
-- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) (2026-06-16)
+- [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) (2026-06-17)
+- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/) (2026-06-17)
+- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (2026-06-17)
+- [Most of the CVE-2026-4020 attackers are the same client](https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020) (2026-06-17)
+- [Hacker News but for Independent Blogs](https://bubbles.town/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The next humanoid robot might not look human at all](https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno) (2026-06-17)
 - [The Complete Calvin and Hobbes is a great last-minute Father’s Day gift](https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale) (2026-06-16)
 - [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr) (2026-06-16)
 - [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction) (2026-06-16)
 - [Google launches Wear OS 7 with Live Updates and a battery life boost](https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch) (2026-06-16)
-- [Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers](https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch) (2026-06-16)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Entrepreneurs in Nairobi make the case for going solar](https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/) (2026-06-17)
+- [Hacking the atmosphere: Geoengineering gets a reality check](https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/) (2026-06-17)
 - [Exclusive eBook: How AI is becoming the next military advisor](https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/) (2026-06-16)
 - [The Download: the first brain implant power user and South Korea’s AI obsession](https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/) (2026-06-16)
 - [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) (2026-06-16)
-- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) (2026-06-15)
-- [This man with ALS is “the first power user” of a brain implant that lets him speak](https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/) (2026-06-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Block the Merge if the Model Isn't Ready": Shifting Local AI Evaluations Left with CI Gates](https://dev.to/quantamind/block-the-merge-if-the-model-isnt-ready-shifting-local-ai-evaluations-left-with-ci-gates-5ge2) (2026-06-17)
-- [AI Made Development Faster. Testing Needs to Stop Living in Spreadsheets.](https://dev.to/marvin_ma_597e184518c2221/ai-made-development-faster-testing-needs-to-stop-living-in-spreadsheets-4ap0) (2026-06-17)
-- [IA en Admisión](https://dev.to/leojulieta/ia-en-admision-51cj) (2026-06-17)
-- [Subtítulos con Python](https://dev.to/leojulieta/subtitulos-con-python-mo6) (2026-06-17)
-- [Optimiza IA](https://dev.to/leojulieta/optimiza-ia-1doe) (2026-06-17)
+- [SignalMesh: The Open Source Ambient Context Layer for AI Agent Fleets](https://dev.to/ig0tu/signalmesh-the-open-source-ambient-context-layer-for-ai-agent-fleets-2b18) (2026-06-17)
+- [Understanding AWS Blocks as a CDK Developer](https://dev.to/aws-heroes/understanding-aws-blocks-as-a-cdk-developer-5gpo) (2026-06-17)
+- [I Built an AI-Native Trading Engine in Python. 5 Months Later, Here's What Changed](https://dev.to/alexey_polyakov_cfe2095e3/i-built-an-ai-native-trading-engine-in-python-5-months-later-heres-what-changed-317) (2026-06-17)
+- [Accessibility law and your PDFs: creating PDF/UA with Oicana](https://dev.to/niklasei/accessibility-law-and-your-pdfs-creating-pdfua-with-oicana-54c) (2026-06-17)
+- [I built a free browser-based JSON toolkit for everyday developer tasks](https://dev.to/kejie1/i-built-a-free-browser-based-json-toolkit-for-everyday-developer-tasks-o5c) (2026-06-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The One Data Structure Swap That Made Our API 10,000x Faster (And Why Nobody Caught It in Testing)](https://medium.com/@trends24/the-one-data-structure-swap-that-made-our-api-10-000x-faster-and-why-nobody-caught-it-in-testing-582581d779f4?source=rss------programming-5) (2026-06-17)
-- [std::scoped_lock in C++ — Deadlock-Free Multi-Mutex Locking (C++17)](https://medium.com/@chetanp.verma98/std-scoped-lock-in-c-deadlock-free-multi-mutex-locking-c-17-260e75cb5388?source=rss------programming-5) (2026-06-17)
-- [The PHP Developer’s Revenge: Why Laravel Beats Python for AI-Powered Web Apps in 2026](https://sadiqueali.medium.com/the-php-developers-revenge-why-laravel-beats-python-for-ai-powered-web-apps-in-2026-062dc058a44c?source=rss------programming-5) (2026-06-17)
-- [Python Data Science Course: AI & Machine Learning Guide](https://medium.com/@nightrider88028/python-data-science-course-ai-machine-learning-guide-e72a0b7116b0?source=rss------programming-5) (2026-06-17)
-- [The Small Linux Detail Hidden Inside Git Log](https://medium.com/@u.mair/the-small-linux-detail-hidden-inside-git-log-8341c5f92773?source=rss------programming-5) (2026-06-17)
+- [Upgrade Your Workday with One Simple Change](https://medium.com/@wrapcartseo/upgrade-your-workday-with-one-simple-change-effcec1746f0?source=rss------programming-5) (2026-06-17)
+- [Day 4: When You Almost Believe It’s Perfect — Until It’s Not.](https://medium.com/@millymaan11/day-4-when-you-almost-believe-its-perfect-until-it-s-not-f152b3fa20f7?source=rss------programming-5) (2026-06-17)
+- [The Art Of Winning In Tech](https://adilshamim8.medium.com/the-art-of-winning-in-tech-78b105f15744?source=rss------programming-5) (2026-06-17)
+- [How I Made Dynamic UIs Easier](https://medium.com/skillstuff/how-i-made-dynamic-uis-easier-8cb7141eebe7?source=rss------programming-5) (2026-06-17)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-bd6c8ddbe1c6?source=rss------programming-5) (2026-06-17)
 
 </details>
 
@@ -293,6 +293,17 @@
 </details>
 
 <details>
+<summary>💎 JetBrains Blog</summary>
+
+- [Junie: The JetBrains AI Coding Agent Leaves Beta.](https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/) (2026-06-17)
+- [Step Rejection Fine-Tuning: Squeezing More Signal from Noisy Agent Trajectories](https://blog.jetbrains.com/research/2026/06/step-rejection-fine-tuning/) (2026-06-17)
+- [Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.](https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/) (2026-06-15)
+- [dotInsights | June 2026](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/) (2026-06-12)
+- [Inside JetPride: How JetBrains Employees Built an LGBTQIA+ Community](https://blog.jetbrains.com/life-at-jetbrains/2026/06/inside-jetpride-how-jetbrains-employees-built-an-lgbtqia-community/) (2026-06-12)
+
+</details>
+
+<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
@@ -328,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Vercel Sandbox can now run for up to 24 hours](https://vercel.com/changelog/vercel-sandbox-can-now-run-for-up-to-24-hours) (2026-06-16)
-- [GLM 5.2 now available on AI Gateway](https://vercel.com/changelog/glm-5-2-now-available-on-ai-gateway) (2026-06-16)
-- [Workflow SDK now supports inflight cancellation](https://vercel.com/changelog/workflow-sdk-now-supports-inflight-cancellation) (2026-06-16)
-- [Workflow SDK now supports TanStack Start](https://vercel.com/changelog/workflow-sdk-now-supports-tanstack-start) (2026-06-16)
-- [Vercel Functions can now run up to 30 minutes](https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes) (2026-06-15)
+- [The Agent Stack](https://vercel.com/blog/agent-stack) (2026-06-18)
+- [Introducing Vercel Connect](https://vercel.com/blog/introducing-vercel-connect) (2026-06-17)
+- [Introducing eve](https://vercel.com/blog/introducing-eve) (2026-06-17)
+- [Vercel Passport is now in Public Beta](https://vercel.com/changelog/vercel-passport-is-now-in-public-beta) (2026-06-17)
+- [Introducing eve, an open-source agent framework](https://vercel.com/changelog/introducing-eve-an-open-source-agent-framework) (2026-06-17)
 
 </details>
 
@@ -344,6 +355,37 @@
 - [Scaling Security Insights: how we achieved a 10x increase in global scanning capacity](https://blog.cloudflare.com/scaling-security-scans/) (2026-06-12)
 - [Route public traffic to private applications with Cloudflare](https://blog.cloudflare.com/private-origins-dns-routing/) (2026-06-10)
 - [Defend against frontier cyber models: Cloudflare's architecture as customer zero](https://blog.cloudflare.com/frontier-model-defense/) (2026-06-09)
+
+</details>
+
+<details>
+<summary>📞 Twilio Blog</summary>
+
+- [
+From Customer Intelligence to Customer Engagement
+](
+https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence-to-customer-engagement
+) (2026-06-17)
+- [
+Voice Disaster Recovery Starts Before the Implementation
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cross-region-voice-recovery
+) (2026-06-15)
+- [
+Top user authentication trends for 2026
+](
+https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
+) (2026-06-12)
+- [
+What is voice AI and how does it work in 2026?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
+) (2026-06-12)
+- [
+13 contact center technologies and trends to support your agents and customers
+](
+https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
+) (2026-06-12)
 
 </details>
 
@@ -492,6 +534,28 @@
 </details>
 
 <details>
+<summary>🤗 Hugging Face</summary>
+
+- [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (2026-06-17)
+- [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) (2026-06-17)
+- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) (2026-06-12)
+- [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) (2026-06-11)
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) (2026-06-09)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Insurers pivot AI strategy toward core risk underwriting](https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/) (2026-06-16)
+- [EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline](https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/) (2026-06-16)
+- [AI Red Teaming Explained: What It Is and Why You Need It](https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/) (2026-06-16)
+- [How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations](https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/) (2026-06-16)
+- [HarmonyOS 7 steps into the AI gap Apple left open in China](https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/) (2026-06-15)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Drilling Into AI’s Financial Sustainability](https://towardsdatascience.com/drilling-into-ais-financial-sustainability/) (2026-06-16)
@@ -505,11 +569,11 @@
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenAI Just Launched 3 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/) (2026-06-17)
 - [Autoregressive Models: Predicting the Future Using the Past](https://www.analyticsvidhya.com/blog/2026/06/autoregressive-models-explained/) (2026-06-16)
 - [Gemini Omni: AI Video Generation Inside Gemini](https://www.analyticsvidhya.com/blog/2026/06/gemini-omni-ai-video-generation/) (2026-06-12)
 - [DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation ](https://www.analyticsvidhya.com/blog/2026/06/diffusiongemma-diffusion-based-open-model-for-faster-text-generation/) (2026-06-11)
 - [Top 10 AI Engineering Tools Everyone is Using in 2026](https://www.analyticsvidhya.com/blog/2026/06/ai-engineering-tools-everyone-is-using-in-2026/) (2026-06-10)
-- [I Tested Claude Fable 5: Can Anthropic’s Newest AI Deliver on the Hype?](https://www.analyticsvidhya.com/blog/2026/06/testing-claude-fable-5-hype-or-reality/) (2026-06-09)
 
 </details>
 
