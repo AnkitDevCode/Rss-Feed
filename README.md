@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/) (2026-06-16)
-- [Apple plans to change its Hide My Email privacy feature that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/) (2026-06-16)
-- [SpaceX valuation balloons to $2.6T, briefly passes Amazon](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/) (2026-06-16)
-- [Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/) (2026-06-16)
-- [Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/) (2026-06-16)
+- [Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it](https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/) (2026-06-17)
+- [Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI](https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/) (2026-06-17)
+- [SpaceX alum nabs $22M to turn rocket engines into geothermal power plants](https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/) (2026-06-17)
+- [Canadian pension giant joins race to fund India’s AI-fueled data center boom](https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/) (2026-06-17)
+- [DeepL acquires Mixhalo for live-event audio streaming and translation](https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) (2026-06-17)
-- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/) (2026-06-17)
-- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (2026-06-17)
-- [Most of the CVE-2026-4020 attackers are the same client](https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020) (2026-06-17)
-- [Hacker News but for Independent Blogs](https://bubbles.town/) (2026-06-17)
+- [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio) (2026-06-17)
+- [Epic Games announces Lore version control system](https://lore.org/) (2026-06-17)
+- [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline) (2026-06-17)
+- [ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker](https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/) (2026-06-17)
+- [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars) (2026-06-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The next humanoid robot might not look human at all](https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno) (2026-06-17)
-- [The Complete Calvin and Hobbes is a great last-minute Father’s Day gift](https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale) (2026-06-16)
-- [All the latest news on Android 17, Wear OS 7, and Android XR](https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr) (2026-06-16)
-- [Android 17 arrives on Pixel phones today](https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction) (2026-06-16)
-- [Google launches Wear OS 7 with Live Updates and a battery life boost](https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch) (2026-06-16)
+- [Paramount Plus is two dollars for two months of ad-free viewing](https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale) (2026-06-17)
+- [In a big year for horror, Widow’s Bay still stands apart](https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror) (2026-06-17)
+- [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals) (2026-06-17)
+- [How to find the best deals during Amazon’s Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find) (2026-06-17)
+- [In Toy Story 5, the problem really is these damn phones (and tablets)](https://www.theverge.com/entertainment/950739/toy-story-5-review) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Native NACS ports, infotainment upgrade for MY27 Porsche Taycan](https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/) (2026-06-17)
+- [Windows and Linux users: The deadline to update Secure Boot keys is near](https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/) (2026-06-17)
 - [Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines](https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/) (2026-06-16)
 - [Year of free HPE software a “step in the correct direction” in VMware rivalry](https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/) (2026-06-16)
 - [Cockroaches scurry around with thousands of pieces of bacterial genomes](https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/) (2026-06-16)
-- [Among the large new rockets Amazon was counting on, only Europe has delivered](https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/) (2026-06-16)
-- [Anthropic "pauses" token-based billing for its Claude Agent SDK](https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/) (2026-06-16)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a reality check for geoengineering and the science of interoception](https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/) (2026-06-17)
 - [Entrepreneurs in Nairobi make the case for going solar](https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/) (2026-06-17)
 - [Hacking the atmosphere: Geoengineering gets a reality check](https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/) (2026-06-17)
 - [Exclusive eBook: How AI is becoming the next military advisor](https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/) (2026-06-16)
 - [The Download: the first brain implant power user and South Korea’s AI obsession](https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/) (2026-06-16)
-- [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) (2026-06-16)
 
 </details>
 
@@ -75,9 +75,9 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI agents are a confused deputy with the keys to your kingdom​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/) (2026-06-17)
 - [If context is king, architecture is the castle​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/) (2026-06-16)
 - [Selenium vs. Cypress vs Playwright: Choosing your test automation framework​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/) (2026-06-15)
-- [AI agents expose the security checks you never actually wrote​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/) (2026-06-15)
 - [Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​‌‌‍‌‍​﻿​‍​﻿‍​​﻿‌‍​﻿​​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌​​﻿‍‌​﻿‌​​‍﻿‌​﻿‌​‌‍‌‌​﻿​‌​﻿‌​​‍﻿‌‌‍​‍​﻿‌​​﻿‍‌‌‍​‍​‍﻿‌​﻿‍​​﻿‌‍‌‍‌​‌‍​‍​﻿‌‍‌‍​‍​﻿​﻿​﻿‌‌​﻿​​​﻿‌﻿‌‍​‌‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​‌‌‍‌‍​﻿​‍​﻿‍​​﻿‌‍​﻿​​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌​​﻿‍‌​﻿‌​​‍﻿‌​﻿‌​‌‍‌‌​﻿​‌​﻿‌​​‍﻿‌‌‍​‍​﻿‌​​﻿‍‌‌‍​‍​‍﻿‌​﻿‍​​﻿‌‍‌‍‌​‌‍​‍​﻿‌‍‌‍​‍​﻿​﻿​﻿‌‌​﻿​​​﻿‌﻿‌‍​‌‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/) (2026-06-12)
 - [Paging Charity? How do I get my leaders to stop running teams Into the ground?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/) (2026-06-12)
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SignalMesh: The Open Source Ambient Context Layer for AI Agent Fleets](https://dev.to/ig0tu/signalmesh-the-open-source-ambient-context-layer-for-ai-agent-fleets-2b18) (2026-06-17)
-- [Understanding AWS Blocks as a CDK Developer](https://dev.to/aws-heroes/understanding-aws-blocks-as-a-cdk-developer-5gpo) (2026-06-17)
-- [I Built an AI-Native Trading Engine in Python. 5 Months Later, Here's What Changed](https://dev.to/alexey_polyakov_cfe2095e3/i-built-an-ai-native-trading-engine-in-python-5-months-later-heres-what-changed-317) (2026-06-17)
-- [Accessibility law and your PDFs: creating PDF/UA with Oicana](https://dev.to/niklasei/accessibility-law-and-your-pdfs-creating-pdfua-with-oicana-54c) (2026-06-17)
-- [I built a free browser-based JSON toolkit for everyday developer tasks](https://dev.to/kejie1/i-built-a-free-browser-based-json-toolkit-for-everyday-developer-tasks-o5c) (2026-06-17)
+- [Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent](https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon) (2026-06-17)
+- [DeepSeek vs Gemini 2.0 Pro: Which AI API Actually Wins in 2026?](https://dev.to/rileykim/deepseek-vs-gemini-20-pro-which-ai-api-actually-wins-in-2026-452f) (2026-06-17)
+- [Claude 3.5 Sonnet Isn't Just an Upgrade. It's a New Baseline.](https://dev.to/albertomontagnese/claude-35-sonnet-isnt-just-an-upgrade-its-a-new-baseline-27be) (2026-06-17)
+- [[Boost]](https://dev.to/linda_smith_68ebc385e331d/-i1c) (2026-06-17)
+- [Running PostgreSQL Correctly with Docker Compose](https://dev.to/bertrand_hartwig_309d1958/running-postgresql-correctly-with-docker-compose-20i) (2026-06-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Upgrade Your Workday with One Simple Change](https://medium.com/@wrapcartseo/upgrade-your-workday-with-one-simple-change-effcec1746f0?source=rss------programming-5) (2026-06-17)
-- [Day 4: When You Almost Believe It’s Perfect — Until It’s Not.](https://medium.com/@millymaan11/day-4-when-you-almost-believe-its-perfect-until-it-s-not-f152b3fa20f7?source=rss------programming-5) (2026-06-17)
-- [The Art Of Winning In Tech](https://adilshamim8.medium.com/the-art-of-winning-in-tech-78b105f15744?source=rss------programming-5) (2026-06-17)
-- [How I Made Dynamic UIs Easier](https://medium.com/skillstuff/how-i-made-dynamic-uis-easier-8cb7141eebe7?source=rss------programming-5) (2026-06-17)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-bd6c8ddbe1c6?source=rss------programming-5) (2026-06-17)
+- [Best Java Coding Practice Platforms for Beginners in 2026](https://medium.com/@flycodx/best-java-coding-practice-platforms-for-beginners-in-2026-a371bd402d8f?source=rss------programming-5) (2026-06-17)
+- [I Burned Through My Claude Code Weekly Limit in Two Days](https://medium.com/@velvetnode/i-burned-through-my-claude-code-weekly-limit-in-two-days-77580f58f5ee?source=rss------programming-5) (2026-06-17)
+- [What I Learned Building a Real-Time Event Processing Platform With .NET and Kafka](https://medium.com/c-sharp-programming/what-i-learned-building-a-real-time-event-processing-platform-with-net-and-kafka-cda7be89949e?source=rss------programming-5) (2026-06-17)
+- [Stop Injecting IEnumerable Just to Pick One Service](https://medium.com/c-sharp-programming/stop-injecting-ienumerable-just-to-pick-one-service-5320ecd87400?source=rss------programming-5) (2026-06-17)
+- [[CT스터디-입문&실전] 그래프 탐색에서 상태 설계까지: 4개의 코딩테스트 문제로 정리한 문제 해결 기록](https://medium.com/@jmin54492/ct%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%85%EB%AC%B8-%EC%8B%A4%EC%A0%84-%EA%B7%B8%EB%9E%98%ED%94%84-%ED%83%90%EC%83%89%EC%97%90%EC%84%9C-%EC%83%81%ED%83%9C-%EC%84%A4%EA%B3%84%EA%B9%8C%EC%A7%80-4%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%A1%9D-2dcec523a86d?source=rss------programming-5) (2026-06-17)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Your JetBrains IDE Expertise, Now on LinkedIn](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/) (2026-06-17)
 - [Junie: The JetBrains AI Coding Agent Leaves Beta.](https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/) (2026-06-17)
 - [Step Rejection Fine-Tuning: Squeezing More Signal from Noisy Agent Trajectories](https://blog.jetbrains.com/research/2026/06/step-rejection-fine-tuning/) (2026-06-17)
 - [Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.](https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/) (2026-06-15)
 - [dotInsights | June 2026](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/) (2026-06-12)
-- [Inside JetPride: How JetBrains Employees Built an LGBTQIA+ Community](https://blog.jetbrains.com/life-at-jetbrains/2026/06/inside-jetpride-how-jetbrains-employees-built-an-lgbtqia-community/) (2026-06-12)
 
 </details>
 
@@ -307,21 +307,21 @@
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
+- [Improving token efficiency in GitHub Copilot](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) (2026-06-17)
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
 - [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
 - [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
-- [Visual Studio Code 1.121](https://code.visualstudio.com/updates/v1_121) (2026-05-20)
 
 </details>
 
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab and Capgemini accelerate DevSecOps transformation](https://about.gitlab.com/blog/gitlab-and-capgemini-global-alliance-partnership/) (2026-06-17)
+- [Introducing the 2026 EMEA GitLab Partner Award winners](https://about.gitlab.com/blog/2026-emea-gitlab-partner-awards/) (2026-06-17)
 - [GitLab Patch Release: 19.0.2, 18.11.5, 18.10.8](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-0-2-released/) (2026-06-11)
 - [Introducing GitLab Orbit: Full code and lifecycle context, in one query](https://about.gitlab.com/blog/introducing-gitlab-orbit/) (2026-06-10)
 - [GitLab Flex: Commit once, reshape your seats and AI spend](https://about.gitlab.com/blog/introducing-gitlab-flex/) (2026-06-10)
-- [GitLab: Built for the agentic engineering era](https://about.gitlab.com/blog/gitlab-transcend-announcements/) (2026-06-10)
-- [GitLab on Google Cloud: Fully managed, compliant, and AI-ready](https://about.gitlab.com/blog/gitlab-expands-google-model-support/) (2026-06-10)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Introducing the Cloudflare One stack: agent-powered deployment](https://blog.cloudflare.com/cloudflare-one-stack/) (2026-06-17)
 - [Cloudflare DMARC Management is now generally available](https://blog.cloudflare.com/dmarc-management-ga/) (2026-06-16)
 - [Growing the Cloudflare AI team with talent from Ensemble AI](https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/) (2026-06-15)
 - [Scaling Security Insights: how we achieved a 10x increase in global scanning capacity](https://blog.cloudflare.com/scaling-security-scans/) (2026-06-12)
 - [Route public traffic to private applications with Cloudflare](https://blog.cloudflare.com/private-origins-dns-routing/) (2026-06-10)
-- [Defend against frontier cyber models: Cloudflare's architecture as customer zero](https://blog.cloudflare.com/frontier-model-defense/) (2026-06-09)
 
 </details>
 
@@ -428,7 +428,7 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 
 - [We Launched Prisma Compute with Custom Domains](https://www.prisma.io/blog/prisma-compute-custom-domains) (2026-06-12)
 - [We put Bun's Rust rewrite in production on Prisma Compute](https://www.prisma.io/blog/bun-rust-rewrite-prisma-compute) (2026-06-11)
-- [Prisma Next is 50% faster than Prisma 7 | Benchmark](https://www.prisma.io/blog/prisma-next-performance-benchmark) (2026-06-11)
+- [Prisma Next Is ~90% As Fast as Raw PG](https://www.prisma.io/blog/prisma-next-performance-benchmark) (2026-06-11)
 - [Gremlin: turning open tasks into pull requests](https://www.prisma.io/blog/gremlin-turning-open-tasks-into-pull-requests) (2026-06-09)
 - [Launching Prisma Compute in Public Beta](https://www.prisma.io/blog/launching-prisma-compute-public-beta) (2026-06-08)
 
@@ -547,22 +547,22 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 <details>
 <summary>🤖 AI News</summary>
 
+- [Google Cloud generative AI automates council planning operations](https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/) (2026-06-17)
 - [Insurers pivot AI strategy toward core risk underwriting](https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/) (2026-06-16)
 - [EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline](https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/) (2026-06-16)
 - [AI Red Teaming Explained: What It Is and Why You Need It](https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/) (2026-06-16)
 - [How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations](https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/) (2026-06-16)
-- [HarmonyOS 7 steps into the AI gap Apple left open in China](https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Secret to Reproducible and Portable Optimization: ORPilot’s Intermediate Representation (IR)](https://towardsdatascience.com/the-secret-to-reproducible-and-portable-optimization-orpilots-intermediate-representation-ir/) (2026-06-17)
+- [You Probably Don’t Need an Agent Framework](https://towardsdatascience.com/you-probably-dont-need-an-agent-framework/) (2026-06-17)
+- [What the Question Parser Extracts from a User String: Keywords, Scope, Shape, Decomposition, Clarification](https://towardsdatascience.com/what-the-question-parser-extracts-from-a-user-string-keywords-scope-shape-decomposition-clarification/) (2026-06-17)
 - [Drilling Into AI’s Financial Sustainability](https://towardsdatascience.com/drilling-into-ais-financial-sustainability/) (2026-06-16)
 - [Run a Local LLM with OpenClaw on Your Mac Mini](https://towardsdatascience.com/run-a-local-llm-with-openclaw-on-your-mac-mini/) (2026-06-16)
-- [LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer](https://towardsdatascience.com/llm-fallbacks-break-agent-pipelines-i-built-the-missing-recovery-layer/) (2026-06-16)
-- [RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation](https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search/) (2026-06-16)
-- [How to Effectively Align with Claude Code](https://towardsdatascience.com/how-to-effectively-align-with-claude-code/) (2026-06-15)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How (and Why) I Built an AI Assistant](https://www.kdnuggets.com/how-and-why-i-built-an-ai-assistant) (2026-06-17)
+- [5 Fun Projects Using OpenAI Codex](https://www.kdnuggets.com/5-fun-projects-using-openai-codex) (2026-06-17)
 - [The Roadmap to Becoming an LLM Engineer in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-llm-engineer-in-2026) (2026-06-16)
 - [Stop Writing Loops in Pandas: 7 Faster Alternatives to Try](https://www.kdnuggets.com/stop-writing-loops-in-pandas-7-faster-alternatives-to-try) (2026-06-16)
 - [Building Time-Series Machine Learning Models with sktime in Python](https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python) (2026-06-15)
-- [3 Pandas Tricks for Data Cleaning & Preparation](https://www.kdnuggets.com/3-pandas-tricks-for-data-cleaning-preparation) (2026-06-15)
-- [Pairing Claude Code with Local Models](https://www.kdnuggets.com/pairing-claude-code-with-local-models) (2026-06-12)
 
 </details>
 
