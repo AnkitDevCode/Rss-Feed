@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [FTC lawsuit reveals how subscription scam networks evade app store enforcement](https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/) (2026-06-17)
-- [World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) (2026-06-17)
-- [Anthropic becomes first AI startup to join the Frontier carbon removal coalition](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/) (2026-06-17)
-- [Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/) (2026-06-17)
-- [Social media’s next evolution: user-controlled algorithms](https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/) (2026-06-17)
+- [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) (2026-06-18)
+- [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/) (2026-06-17)
+- [Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/) (2026-06-17)
+- [Roelof Botha joins SpaceX’s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) (2026-06-17)
+- [After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3) (2026-06-17)
-- [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/) (2026-06-17)
-- [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/) (2026-06-17)
-- [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead) (2026-06-17)
-- [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch) (2026-06-17)
+- [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/) (2026-06-18)
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) (2026-06-18)
+- [ChatGPT's image generator can be manipulated to produce violent, sexual content](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt) (2026-06-18)
+- [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) (2026-06-17)
+- [Clojure Hosted on Go](https://github.com/glojurelang/glojure) (2026-06-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (2026-06-18)
+- [Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram) (2026-06-17)
+- [VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription) (2026-06-17)
 - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse) (2026-06-17)
 - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls) (2026-06-17)
-- [Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly) (2026-06-17)
-- [The Echo Dot Max is cheaper than ever in an early Prime Day sale](https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale) (2026-06-17)
-- [Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [AI coding agents can autonomously direct robot training](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/) (2026-06-17)
-- [The Slate Truck's price may have leaked, starts at $24,950](https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/) (2026-06-17)
-- ["Dangerous" AI models are coming no matter what](https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/) (2026-06-17)
-- [Ten months later, the $100 Google Home Speaker is finally available for preorder](https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/) (2026-06-17)
-- [Towers once planned for California shuttle launches leveled for SpaceX rockets](https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/) (2026-06-17)
+- [Second carcass-eating fly species cleared by FDA for maggot wound therapy](https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/) (2026-06-17)
+- [Sooner than expected? Useful quantum error correction promised for 2028.](https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/) (2026-06-17)
+- [California says AT&T lied to FCC in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/) (2026-06-17)
+- [Massive breach spills credentials for thousands of sensitive networks](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) (2026-06-17)
+- [Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) (2026-06-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Analyzed 44,000 Interview Practice Sessions to Find the Hardest Tech Companies to Interview At](https://dev.to/alex_bell_f2b96166c2d62f5/we-analyzed-44000-interview-practice-sessions-to-find-the-hardest-tech-companies-to-interview-at-4d1p) (2026-06-17)
-- [Astrophysics & AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound](https://dev.to/programmingcentral/astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound-1mh6) (2026-06-17)
-- [Nimmake: Simplifying C++ Project Management by Reducing Configuration Overhead Compared to CMake](https://dev.to/denlava/nimmake-simplifying-c-project-management-by-reducing-configuration-overhead-compared-to-cmake-1l61) (2026-06-17)
-- [How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j) (2026-06-17)
-- [How I Saved My Bootcamp Project Budget Using AI Data Extraction (A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k) (2026-06-17)
+- [The Quantization Audit: Why Leaderboard Scores Lie About Local Agent Capabilities](https://dev.to/quantamind/the-quantization-audit-why-leaderboard-scores-lie-about-local-agent-capabilities-1jk3) (2026-06-18)
+- [Building GitHub-Inspired Version Control and Forking Without Duplicating Project Files](https://dev.to/prashant_patil_49/building-github-inspired-version-control-and-forking-without-duplicating-project-files-5aap) (2026-06-18)
+- [Epic Games Open-Sourced Lore — A Version Control System Built for Massive Game Assets](https://dev.to/jamilxt/epic-games-open-sourced-lore-a-version-control-system-built-for-massive-game-assets-5hdn) (2026-06-18)
+- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7) (2026-06-18)
+- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b) (2026-06-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [LeetCode Is Dead. The Replacement Is Worse.](https://medium.com/loop-of-thought/leetcode-is-dead-the-replacement-is-worse-d44eee9b81c9?source=rss------programming-5) (2026-06-17)
-- [China’s Coding Model, Kimi K2.7 Code, is 6x Cheaper Than Claude. It also Grades Its Own Homework](https://pub.towardsai.net/chinas-coding-model-kimi-k2-7-code-is-6x-cheaper-than-claude-it-also-grades-its-own-homework-d7fd52c2532e?source=rss------programming-5) (2026-06-17)
-- [A 0.91 confidence score told me the plate was right. It wasn't.](https://ai.gopubby.com/a-0-91-confidence-score-told-me-the-plate-was-right-it-wasnt-44e9b404b395?source=rss------programming-5) (2026-06-17)
-- [A Thousand Transactions, Verified by Hand](https://chaesangjung.medium.com/a-thousand-transactions-verified-by-hand-04227d070222?source=rss------programming-5) (2026-06-17)
-- [Mahdi Shamlo | XSS Attacks Are Everywhere: Reflected, Stored, DOM-Based — How to Actually Fix Them…](https://medium.com/@shamlouprogrammer/mahdi-shamlo-uxss-attacks-are-everywhere-reflected-stored-dom-based-how-to-actually-fix-them-731006905779?source=rss------programming-5) (2026-06-17)
+- [I Deleted 10,000 Lines of Comments from Our Core Service, and the Principal Engineer Thanked Me](https://techpreneurr.medium.com/i-deleted-10-000-lines-of-comments-from-our-core-service-and-the-principal-engineer-thanked-me-b909acfa99e6?source=rss------programming-5) (2026-06-18)
+- [Harness Engineering: Cómo un CLI de la “Vieja Escuela” salvó la consistencia de mis Agentes de IA](https://medium.com/@nathandraco22/harness-engineering-c%C3%B3mo-un-cli-de-la-vieja-escuela-salv%C3%B3-la-consistencia-de-mis-agentes-de-ia-ccc8104bb29f?source=rss------programming-5) (2026-06-18)
+- [Python Lists Made Simple: Learn with Practical Examples](https://python.plainenglish.io/python-lists-made-simple-learn-with-practical-examples-d8cd60a9611a?source=rss------programming-5) (2026-06-18)
+- [9 AI Skills That Will Be More Valuable Than Coding Degrees by 2027](https://meetpan1048.medium.com/9-ai-skills-that-will-be-more-valuable-than-coding-degrees-by-2027-e46f2e99a8df?source=rss------programming-5) (2026-06-18)
+- [Day 37: Stop Writing Messy Shell Scripts: Master getopts in 15 Minutes](https://pawannatekar220.medium.com/day-37-stop-writing-messy-shell-scripts-master-getopts-in-15-minutes-b22cc3ccc755?source=rss------programming-5) (2026-06-18)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Building a Mixed-Reality Tour Guide with Android XR, the Geospatial API, and Gemini](https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html) (2026-06-17)
 - [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html) (2026-06-16)
 - [What’s New in Android XR: Tooling, Engine Support, and Ecosystem Updates](https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html) (2026-06-15)
 - [Top 3 updates for Android developer productivity](https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html) (2026-06-09)
 - [Datadog delivers millions of in-depth performance insights with ProfilingManager](https://android-developers.googleblog.com/2026/06/datadog-profilingmanager-performance-insights.html) (2026-06-08)
-- [Prioritizing Memory Efficiency: Essential Steps for Android 17](https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html) (2026-06-02)
 
 </details>
 
@@ -307,7 +307,7 @@
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
-- [Improving token efficiency in GitHub Copilot](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) (2026-06-17)
+- [Improving token efficiency for GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) (2026-06-17)
 - [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
 - [Visual Studio Code 1.123](https://code.visualstudio.com/updates/v1_123) (2026-06-03)
 - [Visual Studio Code 1.122](https://code.visualstudio.com/updates/v1_122) (2026-05-28)
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue](https://blog.cloudflare.com/agents-platform-flue-sdk/) (2026-06-17)
 - [Introducing the Cloudflare One stack: agent-powered deployment](https://blog.cloudflare.com/cloudflare-one-stack/) (2026-06-17)
 - [Cloudflare DMARC Management is now generally available](https://blog.cloudflare.com/dmarc-management-ga/) (2026-06-16)
 - [Growing the Cloudflare AI team with talent from Ensemble AI](https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/) (2026-06-15)
 - [Scaling Security Insights: how we achieved a 10x increase in global scanning capacity](https://blog.cloudflare.com/scaling-security-scans/) (2026-06-12)
-- [Route public traffic to private applications with Cloudflare](https://blog.cloudflare.com/private-origins-dns-routing/) (2026-06-10)
 
 </details>
 
@@ -365,11 +365,6 @@
 From Customer Intelligence to Customer Engagement
 ](
 https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence-to-customer-engagement
-) (2026-06-17)
-- [
-Zero to Global: Scaling AI-Native Startups with Twilio
-](
-https://www.twilio.com/en-us/blog/insights/ai-natives
 ) (2026-06-17)
 - [
 Voice Disaster Recovery Starts Before the Implementation
@@ -385,6 +380,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 What is voice AI and how does it work in 2026?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
+) (2026-06-12)
+- [
+13 contact center technologies and trends to support your agents and customers
+](
+https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 ) (2026-06-12)
 
 </details>
@@ -524,11 +524,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Schedule Now Available for KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China](https://pytorch.org/blog/schedule-now-available-for-kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) (2026-06-18)
 - [Nominations Open for the 2026 PyTorch Foundation Contributor Awards](https://pytorch.org/blog/nominations-open-for-the-2026-pytorch-foundation-contributor-awards/) (2026-06-17)
 - [PyTorch Meetup Singapore: A milestone in APAC](https://pytorch.org/blog/pytorch-meetup-singapore-a-milestone-in-apac/) (2026-06-12)
 - [Portable vLLM Model Inference Kernels in Helion](https://pytorch.org/blog/portable-vllm-model-inference-kernels-in-helion/) (2026-06-10)
 - [Using Muon Optimizer with DeepSpeed](https://pytorch.org/blog/using-muon-optimizer-with-deepspeed/) (2026-06-03)
-- [How LinkedIn Uses PyTorch to Solve Extreme-Scale Optimization Problems](https://pytorch.org/blog/how-linkedin-uses-pytorch-to-solve-extreme-scale-optimization-problems/) (2026-06-01)
 
 </details>
 
@@ -540,17 +540,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
 - [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) (2026-06-17)
 - [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) (2026-06-17)
 - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) (2026-06-11)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Google Cloud generative AI automates council planning operations](https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/) (2026-06-17)
-- [Insurers pivot AI strategy toward core risk underwriting](https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/) (2026-06-16)
-- [EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline](https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/) (2026-06-16)
-- [AI Red Teaming Explained: What It Is and Why You Need It](https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/) (2026-06-16)
-- [How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations](https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/) (2026-06-16)
 
 </details>
 
