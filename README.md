@@ -9,29 +9,29 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/) (2026-06-18)
 - [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) (2026-06-18)
 - [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/) (2026-06-17)
 - [Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/) (2026-06-17)
 - [Roelof Botha joins SpaceX’s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) (2026-06-17)
-- [After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/) (2026-06-18)
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) (2026-06-18)
-- [ChatGPT's image generator can be manipulated to produce violent, sexual content](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt) (2026-06-18)
-- [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) (2026-06-17)
-- [Clojure Hosted on Go](https://github.com/glojurelang/glojure) (2026-06-17)
+- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725) (2026-06-18)
+- [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change) (2026-06-18)
+- [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/) (2026-06-18)
+- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register) (2026-06-18)
+- [DeepSeek Introduces Vision](https://chat.deepseek.com/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (2026-06-18)
+- [Midjourney goes from generating cat images to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (2026-06-18)
 - [Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram) (2026-06-17)
 - [VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription) (2026-06-17)
 - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse) (2026-06-17)
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer](https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/) (2026-06-18)
 - [Second carcass-eating fly species cleared by FDA for maggot wound therapy](https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/) (2026-06-17)
 - [Sooner than expected? Useful quantum error correction promised for 2028.](https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/) (2026-06-17)
 - [California says AT&T lied to FCC in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/) (2026-06-17)
 - [Massive breach spills credentials for thousands of sensitive networks](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) (2026-06-17)
-- [Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The search for dark matter has been blown wide open](https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/) (2026-06-18)
 - [The Download: a reality check for geoengineering and the science of interoception](https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/) (2026-06-17)
 - [Entrepreneurs in Nairobi make the case for going solar](https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/) (2026-06-17)
 - [Hacking the atmosphere: Geoengineering gets a reality check](https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/) (2026-06-17)
 - [Exclusive eBook: How AI is becoming the next military advisor](https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/) (2026-06-16)
-- [The Download: the first brain implant power user and South Korea’s AI obsession](https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/) (2026-06-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Quantization Audit: Why Leaderboard Scores Lie About Local Agent Capabilities](https://dev.to/quantamind/the-quantization-audit-why-leaderboard-scores-lie-about-local-agent-capabilities-1jk3) (2026-06-18)
-- [Building GitHub-Inspired Version Control and Forking Without Duplicating Project Files](https://dev.to/prashant_patil_49/building-github-inspired-version-control-and-forking-without-duplicating-project-files-5aap) (2026-06-18)
-- [Epic Games Open-Sourced Lore — A Version Control System Built for Massive Game Assets](https://dev.to/jamilxt/epic-games-open-sourced-lore-a-version-control-system-built-for-massive-game-assets-5hdn) (2026-06-18)
-- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7) (2026-06-18)
-- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b) (2026-06-18)
+- [What is your cutoff for killing a bad Codex run?](https://dev.to/assili_salim_e3c07f9954de/what-is-your-cutoff-for-killing-a-bad-codex-run-14d9) (2026-06-18)
+- [Vercel launches eve, an open-source framework simplifying AI agent development](https://dev.to/davekurian/vercel-launches-eve-an-open-source-framework-simplifying-ai-agent-development-57oi) (2026-06-18)
+- [Build a GDPR-Compliant AI Pipeline with Intel TDX — Step by Step: 3 Hours vs 6 Months](https://dev.to/voltagegpu/build-a-gdpr-compliant-ai-pipeline-with-intel-tdx-step-by-step-3-hours-vs-6-months-3n62) (2026-06-18)
+- [JSON vs YAML vs TOML vs CSV vs Protobuf: Developer's Guide](https://dev.to/iurii_rogulia/json-vs-yaml-vs-toml-vs-csv-vs-protobuf-developers-guide-5g12) (2026-06-18)
+- [How I Stopped Regexing HTML Tables and Started Using AI for Data Extraction](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-regexing-html-tables-and-started-using-ai-for-data-extraction-1mmd) (2026-06-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Deleted 10,000 Lines of Comments from Our Core Service, and the Principal Engineer Thanked Me](https://techpreneurr.medium.com/i-deleted-10-000-lines-of-comments-from-our-core-service-and-the-principal-engineer-thanked-me-b909acfa99e6?source=rss------programming-5) (2026-06-18)
-- [Harness Engineering: Cómo un CLI de la “Vieja Escuela” salvó la consistencia de mis Agentes de IA](https://medium.com/@nathandraco22/harness-engineering-c%C3%B3mo-un-cli-de-la-vieja-escuela-salv%C3%B3-la-consistencia-de-mis-agentes-de-ia-ccc8104bb29f?source=rss------programming-5) (2026-06-18)
-- [Python Lists Made Simple: Learn with Practical Examples](https://python.plainenglish.io/python-lists-made-simple-learn-with-practical-examples-d8cd60a9611a?source=rss------programming-5) (2026-06-18)
-- [9 AI Skills That Will Be More Valuable Than Coding Degrees by 2027](https://meetpan1048.medium.com/9-ai-skills-that-will-be-more-valuable-than-coding-degrees-by-2027-e46f2e99a8df?source=rss------programming-5) (2026-06-18)
-- [Day 37: Stop Writing Messy Shell Scripts: Master getopts in 15 Minutes](https://pawannatekar220.medium.com/day-37-stop-writing-messy-shell-scripts-master-getopts-in-15-minutes-b22cc3ccc755?source=rss------programming-5) (2026-06-18)
+- [The .NET Developer Who Gets Replaced by AI Usually Has This Skill Gap](https://medium.com/@mohsho10/the-net-developer-who-gets-replaced-by-ai-usually-has-this-skill-gap-577903e7a972?source=rss------programming-5) (2026-06-18)
+- [Making Your Website AI-Ready](https://daviddalbusco.medium.com/making-your-website-ai-ready-509fac6f1ab9?source=rss------programming-5) (2026-06-18)
+- [The Future of Programming Isn’t What Most Developers Expect](https://medium.com/codetodeploy/the-future-of-programming-isnt-what-most-developers-expect-85383553e5d7?source=rss------programming-5) (2026-06-18)
+- [Isolate to Understand](https://medium.com/@halecolin1/isolate-to-understand-8be6a92ea88c?source=rss------programming-5) (2026-06-18)
+- [cgroups Explained: The Linux feature that makes Docker possible](https://blog.stackademic.com/cgroups-explained-the-linux-feature-that-makes-docker-possible-649bceaa8778?source=rss------programming-5) (2026-06-18)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
+- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [France Advances Europe’s AI Future With NVIDIA Technologies](https://blogs.nvidia.com/blog/france-advances-europes-ai-future/) (2026-06-18)
 - [Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses](https://blogs.nvidia.com/blog/nvidia-xr-ai/) (2026-06-16)
 - [Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone](https://blogs.nvidia.com/blog/coherent-texas-ai-optical/) (2026-06-16)
 - [HPE AI Factory With NVIDIA Expands for the Era of Agents](https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/) (2026-06-16)
 - [Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0](https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/) (2026-06-16)
-- [NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark](https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/) (2026-06-12)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.3.1 (Current)](https://nodejs.org/en/blog/release/v26.3.1) (2026-06-18)
+- [Node.js 24.17.0 (LTS)](https://nodejs.org/en/blog/release/v24.17.0) (2026-06-18)
+- [Node.js 22.23.0 (LTS)](https://nodejs.org/en/blog/release/v22.23.0) (2026-06-18)
 - [Wednesday, June 17, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/june-2026-security-releases) (2026-06-09)
 - [Node.js 26.3.0 (Current)](https://nodejs.org/en/blog/release/v26.3.0) (2026-06-01)
-- [Node.js 24.16.0 (LTS)](https://nodejs.org/en/blog/release/v24.16.0) (2026-05-21)
-- [Node.js 26.2.0 (Current)](https://nodejs.org/en/blog/release/v26.2.0) (2026-05-20)
-- [Node.js 22.22.3 (LTS)](https://nodejs.org/en/blog/release/v22.22.3) (2026-05-13)
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - [JetBrains Marketplace Ecosystem Security Update: Addressing Malicious Third-Party AI Plugins](https://blog.jetbrains.com/platform/2026/06/marketplace-ecosystem-security-update-malicious-ai-plugins/) (2026-06-17)
 - [Your JetBrains IDE Expertise, Now on LinkedIn](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/) (2026-06-17)
-- [Junie: The JetBrains AI Coding Agent Leaves Beta.](https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/) (2026-06-17)
+- [Junie: The JetBrains AI Coding Agent Leaves Beta](https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/) (2026-06-17)
 - [Step Rejection Fine-Tuning: Squeezing More Signal from Noisy Agent Trajectories](https://blog.jetbrains.com/research/2026/06/step-rejection-fine-tuning/) (2026-06-17)
 - [Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.](https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/) (2026-06-15)
 
@@ -367,6 +367,11 @@ From Customer Intelligence to Customer Engagement
 https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence-to-customer-engagement
 ) (2026-06-17)
 - [
+Zero to Global: Scaling AI-Native Startups with Twilio
+](
+https://www.twilio.com/en-us/blog/insights/ai-natives
+) (2026-06-17)
+- [
 Voice Disaster Recovery Starts Before the Implementation
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cross-region-voice-recovery
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 What is voice AI and how does it work in 2026?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-voice-ai
-) (2026-06-12)
-- [
-13 contact center technologies and trends to support your agents and customers
-](
-https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 ) (2026-06-12)
 
 </details>
@@ -447,11 +447,11 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [Announcing the H1 2026 Grants](https://graphql.org/blog/2026-06-16-announcing-h1-2026-graphql-community-grants) (2026-06-16)
 - [Introducing GraphQL.js v17](https://graphql.org/blog/2026-06-15-introducing-graphql-js-v17) (2026-06-15)
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
-- [GraphQL Foundation Budget Report, 2025-2026](https://graphql.org/blog/2026-04-09-graphql-foundation-budget-2026) (2026-04-09)
 
 </details>
 
@@ -540,6 +540,17 @@ https://www.twilio.com/en-us/blog/contact-center-technologies-to-know
 - [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) (2026-06-17)
 - [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) (2026-06-17)
 - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) (2026-06-11)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
+- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
+- [Google Cloud generative AI automates council planning operations](https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/) (2026-06-17)
+- [Insurers pivot AI strategy toward core risk underwriting](https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/) (2026-06-16)
+- [EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline](https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/) (2026-06-16)
 
 </details>
 
