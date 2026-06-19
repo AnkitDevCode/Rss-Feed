@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/) (2026-06-19)
+- [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) (2026-06-19)
+- [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) (2026-06-18)
+- [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) (2026-06-18)
 - [OpenAI is bringing on some big guns in the lead-up to its IPO ](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/) (2026-06-18)
-- [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/) (2026-06-18)
-- [Rivian owners file lawsuit alleging false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/) (2026-06-18)
-- [Almost half of U.S. singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/) (2026-06-18)
-- [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/) (2026-06-18)
-- [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/) (2026-06-18)
-- [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/) (2026-06-18)
-- [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html) (2026-06-18)
-- [The Harajuku Moment (2024)](https://tim.blog/2024/02/09/harajuku-moment/) (2026-06-18)
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) (2026-06-19)
+- [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) (2026-06-19)
+- [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative) (2026-06-18)
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) (2026-06-18)
+- [Show HN: Are You in the Weights?](https://www.intheweights.com/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date) (2026-06-18)
+- [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone) (2026-06-18)
 - [HBO Max&#8217;s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale) (2026-06-18)
 - [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast) (2026-06-18)
 - [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals) (2026-06-18)
-- [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet) (2026-06-18)
-- [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale) (2026-06-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [After Senate vote, Trump admin backs off plans to kill ocean monitoring](https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/) (2026-06-18)
-- [Before SpaceX IPO, investors in China secretly acquired stakes](https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/) (2026-06-18)
-- [Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry](https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/) (2026-06-18)
-- [Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago](https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/) (2026-06-18)
-- [The first long-duration resident of the ISS, a cosmonaut, has died](https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/) (2026-06-18)
+- [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) (2026-06-19)
+- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) (2026-06-18)
+- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) (2026-06-18)
+- [As China looms, Taiwan makes more drones for defense and the US military](https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/) (2026-06-18)
+- [NASA asks Northrop Grumman to stop working on lunar HALO module](https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/) (2026-06-18)
 
 </details>
 
@@ -86,44 +86,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I'm 18 and I built an AI Pomodoro timer that actually forces you to study](https://dev.to/cavalinhoxdd/im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study-2ipo) (2026-06-18)
-- [Astrophysics & AI with Python: Predicting Asteroid Positions with Skyfield](https://dev.to/programmingcentral/astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield-33a7) (2026-06-18)
-- [Your agent's memory should compute confidence, not store it](https://dev.to/hendrixxcnc/your-agents-memory-should-compute-confidence-not-store-it-c2a) (2026-06-18)
-- [Accidentally Pushed a `.env` Secret to a Public GitHub Repo? Here's What to Do](https://dev.to/kashafabdullah/accidentally-pushed-a-env-secret-to-a-public-github-repo-heres-what-to-do-33i3) (2026-06-18)
-- [AI x Crypto Tools: 60+ Resources for Trading, Analysis and Security](https://dev.to/0xrapzz/ai-x-crypto-tools-60-resources-for-trading-analysis-and-security-3255) (2026-06-18)
+- [From MERN to Next.js: My Journey as a Full Stack Developer](https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib) (2026-06-19)
+- [Putting a file in .gitignore does nothing if git already tracks it. I built a CLI to find the leftovers.](https://dev.to/_06a3df6b50aec966668fb/putting-a-file-in-gitignore-does-nothing-if-git-already-tracks-it-i-built-a-cli-to-find-the-31cl) (2026-06-19)
+- [The hard part of national ID OCR isn't the OCR](https://dev.to/deepfox/the-hard-part-of-national-id-ocr-isnt-the-ocr-1oon) (2026-06-19)
+- [How to Build a Multi-Step Agent Stress Test: Adversity Sandboxes and Oracle Checks](https://dev.to/quantamind/how-to-build-a-multi-step-agent-stress-test-adversity-sandboxes-and-oracle-checks-5f28) (2026-06-19)
+- [Eidetic Works Pro is live: persistent memory for your AI agents, $29/mo](https://dev.to/nucleusos/eidetic-works-pro-is-live-persistent-memory-for-your-ai-agents-29mo-49n5) (2026-06-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why the Algorithm Says You Should Fire Your Best Employee: The Secretary Problem Part II](https://medium.com/@yashbatra11111/why-the-algorithm-says-you-should-fire-your-best-employee-the-secretary-problem-part-ii-1771ab342c89?source=rss------programming-5) (2026-06-18)
-- [Most Async Bugs Start With One Wrong Assumption](https://medium.com/skillstuff/most-async-bugs-start-with-one-wrong-assumption-6a4770a0ee03?source=rss------programming-5) (2026-06-18)
-- [I Installed the 144K-Star Karpathy CLAUDE.md File — Here’s What Changed](https://medium.com/@aitrends24/i-installed-the-144k-star-karpathy-claude-md-file-heres-what-changed-d3dd31b8858d?source=rss------programming-5) (2026-06-18)
-- [Your Resume Looks Like Everyone Else’s Now](https://medium.com/loop-of-thought/your-resume-looks-like-everyone-elses-now-35ca8dab8c24?source=rss------programming-5) (2026-06-18)
-- [I Sat in Engineering Meetings for a Year Without Understanding What a Branch Was](https://medium.com/@vinnyagharia/i-sat-in-engineering-meetings-for-a-year-without-understanding-what-a-branch-was-dac9f31d4383?source=rss------programming-5) (2026-06-18)
+- [Laravel Vector Search: Semantic Search in Your App Without a PhD in Machine Learning](https://sadiqueali.medium.com/laravel-vector-search-semantic-search-in-your-app-without-a-phd-in-machine-learning-171046370a68?source=rss------programming-5) (2026-06-19)
+- [7 Scaling Myths: Why Your Microservices Can’t Handle 1M Users](https://medium.com/@CodersWorld99/7-scaling-myths-why-your-microservices-cant-handle-1m-users-87ece8af33be?source=rss------programming-5) (2026-06-19)
+- [Why Broadcast Joins in Distributed Systems More Powerful Than You Think (And How to Master Them)](https://medium.com/@Rohan_Dutt/why-broadcast-joins-in-distributed-systems-more-powerful-than-you-think-and-how-to-master-them-c99e23d103cb?source=rss------programming-5) (2026-06-19)
+- [std::condition_variable in C++ — wait, notify, Spurious Wakeup, and Zero CPU Waste](https://medium.com/@chetanp.verma98/std-condition-variable-in-c-wait-notify-spurious-wakeup-and-zero-cpu-waste-98d5b1435f33?source=rss------programming-5) (2026-06-19)
+- [This Data Structure Is 72 Years Old — and It Still Runs the Internet](https://medium.com/@trends24/this-data-structure-is-72-years-old-and-it-still-runs-the-internet-7a74c1af5542?source=rss------programming-5) (2026-06-19)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
+- [Amazon ECS introduces new high-resolution metrics for faster service auto scaling](https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/) (2026-06-18)
 - [Top announcements of the AWS Summit in New York, 2026](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/) (2026-06-17)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/) (2026-06-17)
 - [Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge](https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/) (2026-06-17)
-- [Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)](https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/) (2026-06-17)
-- [AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)](https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
-- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices](https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/) (2026-06-18)
 - [France Advances Europe’s AI Future With NVIDIA Technologies](https://blogs.nvidia.com/blog/france-advances-europes-ai-future/) (2026-06-18)
 - [Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses](https://blogs.nvidia.com/blog/nvidia-xr-ai/) (2026-06-16)
+
+</details>
+
+<details>
+<summary>🍎 Apple Developer News</summary>
+
+- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
+- [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
+- [New domain for Sign in with Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) (2026-06-15)
+- [WWDC26 survey](https://developer.apple.com/news/?id=15wishue) (2026-06-11)
+- [Find out what's new for Apple developers](https://developer.apple.com/news/?id=8rgqj83s) (2026-06-08)
 
 </details>
 
