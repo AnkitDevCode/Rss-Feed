@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) (2026-06-19)
+- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) (2026-06-19)
+- [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) (2026-06-19)
 - [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/) (2026-06-19)
-- [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) (2026-06-19)
-- [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/) (2026-06-19)
-- [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) (2026-06-19)
-- [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) (2026-06-18)
+- [The US says ASML’s top chip tool may be in China. ASML says it isn’t.](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/) (2026-06-19)
-- [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace) (2026-06-19)
-- [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/) (2026-06-19)
-- [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) (2026-06-19)
-- [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel) (2026-06-19)
+- [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/) (2026-06-19)
+- [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1) (2026-06-19)
+- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) (2026-06-19)
+- [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) (2026-06-19)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) (2026-06-19)
+- [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb) (2026-06-19)
 - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming) (2026-06-19)
 - [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) (2026-06-19)
 - [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health) (2026-06-19)
-- [T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further) (2026-06-19)
-- [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv) (2026-06-19)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) (2026-06-19)
 - [How pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) (2026-06-18)
 - [Getting more from each token: How Copilot improves context handling and model routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/) (2026-06-17)
 - [What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/) (2026-06-16)
 - [GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/) (2026-06-15)
-- [Accelerating researchers and developers building multilingual AI with a new open dataset](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/) (2026-06-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Missing AI agent cost data is not zero](https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3) (2026-06-19)
-- [What are your most liked agent skills?](https://dev.to/kaleman15/what-are-your-most-liked-agent-skills-1d0f) (2026-06-19)
-- [Why your lithium forklift's fuel gauge lies in the middle of the shift](https://dev.to/997_997_771630b632660f846/why-your-lithium-forklifts-fuel-gauge-lies-in-the-middle-of-the-shift-5e0) (2026-06-19)
-- [Running a Personal SOC: Bringing Production Security Practices Home](https://dev.to/po8rewq/running-a-personal-soc-bringing-production-security-practices-home-2172) (2026-06-19)
-- [Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b) (2026-06-19)
+- [System Design at Scale](https://dev.to/lavkeshdwivedi/system-design-at-scale-2437) (2026-06-19)
+- [Team Conflict in the Open](https://dev.to/lavkeshdwivedi/team-conflict-in-the-open-37ob) (2026-06-19)
+- [Pluck v1.0.2 — I built a floating clipboard manager for Windows (open source)](https://dev.to/phuc-nguyen/pluck-v102-i-built-a-floating-clipboard-manager-for-windows-open-source-di5) (2026-06-19)
+- [Your LLM Judge Costs More Than the Agent. Gate It in 40 Lines.](https://dev.to/alex_spinov/your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines-cc7) (2026-06-19)
+- [Text adventure: Alan Turing’s Ghost Was Not Ready for a Probabilistic Afterlife](https://dev.to/steampixel/text-adventure-alan-turings-ghost-was-not-ready-for-a-probabilistic-afterlife-4bbc) (2026-06-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Swift Developers With 5+ Years of Experience Still Get These Questions Wrong](https://medium.com/@mobileappdeveloper.koti/swift-developers-with-5-years-of-experience-still-get-these-questions-wrong-e48413ed1d7a?source=rss------programming-5) (2026-06-19)
-- [We Moved Our Background Jobs From Goroutines to a Queue. Here’s What Broke Immediately.](https://elsyarifx.medium.com/we-moved-our-background-jobs-from-goroutines-to-a-queue-heres-what-broke-immediately-1c95f0546842?source=rss------programming-5) (2026-06-19)
-- [La pregunta que más mejoró mis decisiones técnicas](https://medium.com/@juanmorisetti/la-pregunta-que-m%C3%A1s-mejor%C3%B3-mis-decisiones-t%C3%A9cnicas-38a868b95c50?source=rss------programming-5) (2026-06-19)
-- [Why Open Source Software Matters More Than Ever in 2026](https://medium.com/@freetechlearner/why-open-source-software-matters-more-than-ever-in-2026-bd105eef91ac?source=rss------programming-5) (2026-06-19)
-- [The Government Didn’t Try to Stop AI Because It Failed. They Tried Because It Succeeded.](https://blog.stackademic.com/the-government-didnt-try-to-stop-ai-because-it-failed-they-tried-because-it-succeeded-5ed6e6b38c01?source=rss------programming-5) (2026-06-19)
+- [AI Tools Can Read Every Line of Your Code. They Still Cannot Recognize the Shape of a Production](https://blog.stackademic.com/ai-tools-can-read-every-line-of-your-code-they-still-cannot-recognize-the-shape-of-a-production-ec6c71f8e906?source=rss------programming-5) (2026-06-19)
+- [I’m 43. My Computer Science Degree Is Worth Less Than My Art History Degree.](https://medium.com/mr-plan-publication/im-43-my-computer-science-degree-is-worth-less-than-my-art-history-degree-f84e62eb0cb8?source=rss------programming-5) (2026-06-19)
+- [One Client, Every LLM: Provider Fallback Without Five SDKs](https://medium.com/@arthurpro/one-client-every-llm-provider-fallback-without-five-sdks-e262bbd4630d?source=rss------programming-5) (2026-06-19)
+- [I Asked AI to Build a microservice-The results surprised me](https://medium.com/illumination/i-asked-ai-to-build-a-microservice-the-results-surprised-me-289a257c9a50?source=rss------programming-5) (2026-06-19)
+- [Why Challenge Games Inspire Kids to Learn Coding](https://medium.com/@juniorcoderzseo/why-challenge-games-inspire-kids-to-learn-coding-33945490c793?source=rss------programming-5) (2026-06-19)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 - [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
-- [Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/) (2026-06-02)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
-- [Coding Agent Horror Stories: The 13-Hour AWS Outage](https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/) (2026-06-18)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Python 3.14 and its New JIT Compiler](https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/) (2026-06-19)
+- [Building a Custom GStreamer Plugin for NVIDIA DeepStream](https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/) (2026-06-19)
+- [I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect.](https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/) (2026-06-19)
 - [Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document](https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/) (2026-06-19)
 - [GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU](https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/) (2026-06-19)
-- [Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each](https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/) (2026-06-18)
-- [How Powerful is Claude Fable (Mythos) 5 for Coding?](https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/) (2026-06-18)
-- [Proteins: A Mosaic Pattern to Rule Them All?](https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/) (2026-06-18)
 
 </details>
 
