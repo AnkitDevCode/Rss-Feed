@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/) (2026-06-19)
 - [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) (2026-06-19)
 - [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/) (2026-06-19)
 - [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) (2026-06-19)
 - [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) (2026-06-18)
-- [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) (2026-06-19)
-- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris) (2026-06-19)
-- [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/) (2026-06-19)
-- [Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885) (2026-06-19)
-- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) (2026-06-19)
+- [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/) (2026-06-19)
+- [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace) (2026-06-19)
+- [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/) (2026-06-19)
+- [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) (2026-06-19)
+- [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel) (2026-06-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab) (2026-06-19)
-- [Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date) (2026-06-18)
-- [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone) (2026-06-18)
-- [HBO Max&#8217;s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale) (2026-06-18)
-- [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast) (2026-06-18)
+- [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming) (2026-06-19)
+- [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) (2026-06-19)
+- [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health) (2026-06-19)
+- [T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further) (2026-06-19)
+- [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv) (2026-06-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/) (2026-06-19)
+- [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) (2026-06-19)
 - [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) (2026-06-19)
 - [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) (2026-06-18)
 - [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) (2026-06-18)
-- [As China looms, Taiwan makes more drones for defense and the US military](https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/) (2026-06-18)
-- [NASA asks Northrop Grumman to stop working on lunar HALO module](https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/) (2026-06-19)
+- [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) (2026-06-19)
 - [The inevitable weakness of metrics](https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/) (2026-06-19)
 - [Brain-computer interface trials are taking off](https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/) (2026-06-19)
 - [The Download: a new hunt for dark matter and Kenya’s case for going solar](https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/) (2026-06-18)
-- [Geoengineering still faces major practical challenges](https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/) (2026-06-18)
-- [The search for dark matter has been blown wide open](https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/) (2026-06-18)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Dispatches from O'Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/) (2026-06-19)
 - [You don’t understand DNS like you think you do​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌‌‌‍​﻿​﻿‌‌‌‍​‌​﻿​‍​﻿‍‌​﻿‍​​‍﻿‌​﻿​‍​﻿​‍​﻿​​​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‌﻿​‍﻿‌‌‍​‍​﻿‍​‌‍‌​‌‍​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍​‍‌‍​‌​﻿‌‌​﻿​﻿​﻿​‌‌‍​‌‌‍‌​‌‍​﻿​﻿‌‌​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌‌‌‍​﻿​﻿‌‌‌‍​‌​﻿​‍​﻿‍‌​﻿‍​​‍﻿‌​﻿​‍​﻿​‍​﻿​​​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‌﻿​‍﻿‌‌‍​‍​﻿‍​‌‍‌​‌‍​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍​‍‌‍​‌​﻿‌‌​﻿​﻿​﻿​‌‌‍​‌‌‍‌​‌‍​﻿​﻿‌‌​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/) (2026-06-19)
 - [The new bottleneck​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/18/the-new-bottleneck/) (2026-06-18)
 - [AI agents are a confused deputy with the keys to your kingdom​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/) (2026-06-17)
 - [If context is king, architecture is the castle​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/) (2026-06-16)
-- [Selenium vs. Cypress vs Playwright: Choosing your test automation framework​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/) (2026-06-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MCP Is Not Just a Developer Thing. Your Product Team Needs to Understand It Too.](https://dev.to/daviefano/mcp-is-not-just-a-developer-thing-your-product-team-needs-to-understand-it-too-3abm) (2026-06-19)
-- [Build an AI Video Editing Agent with Claude and FFmpeg Micro MCP](https://dev.to/javidjamae/build-an-ai-video-editing-agent-with-claude-and-ffmpeg-micro-mcp-4915) (2026-06-19)
-- [How to Use FFmpeg with TypeScript (No Installation Required)](https://dev.to/javidjamae/how-to-use-ffmpeg-with-typescript-no-installation-required-2geb) (2026-06-19)
-- [TSAuditor: A data quality auditing library for time-series tabular data](https://dev.to/imann_12/tsauditor-a-data-quality-auditing-library-for-time-series-tabular-data-41en) (2026-06-19)
-- [How I Built a Suite of 8 AI Tools with $0/Month in API Costs Using NVIDIA NIM](https://dev.to/maazkhanxo/how-i-built-a-suite-of-8-ai-tools-with-0month-in-api-costs-using-nvidia-nim-33ge) (2026-06-19)
+- [Missing AI agent cost data is not zero](https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3) (2026-06-19)
+- [What are your most liked agent skills?](https://dev.to/kaleman15/what-are-your-most-liked-agent-skills-1d0f) (2026-06-19)
+- [Why your lithium forklift's fuel gauge lies in the middle of the shift](https://dev.to/997_997_771630b632660f846/why-your-lithium-forklifts-fuel-gauge-lies-in-the-middle-of-the-shift-5e0) (2026-06-19)
+- [Running a Personal SOC: Bringing Production Security Practices Home](https://dev.to/po8rewq/running-a-personal-soc-bringing-production-security-practices-home-2172) (2026-06-19)
+- [Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b) (2026-06-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Decides Whether a Coding Session Succeeds?](https://medium.com/@amarharolikar/what-decides-whether-a-coding-session-succeeds-5a586628031e?source=rss------programming-5) (2026-06-19)
-- [Why Every Game Developer Needs a Curated Resource Library in 2026](https://medium.com/@GamineAI_Official/why-every-game-developer-needs-a-curated-resource-library-in-2026-75e908bf1a84?source=rss------programming-5) (2026-06-19)
-- [We Blamed AWS for 36 Hours. The Real Problem Was One Line of C#](https://medium.com/@mohsho10/we-blamed-aws-for-36-hours-the-real-problem-was-one-line-of-c-a14def2ec439?source=rss------programming-5) (2026-06-19)
-- [AI-Generated Code Smells Like Confidence](https://medium.com/@franziska.fink.rpllc/ai-generated-code-smells-like-confidence-bbe603a50356?source=rss------programming-5) (2026-06-19)
-- [The New Machine and New Craft of Programming: Part 2](https://medium.com/@abhi.heggere/the-new-machine-and-new-craft-of-programming-part-2-87dee96a13f3?source=rss------programming-5) (2026-06-19)
+- [Swift Developers With 5+ Years of Experience Still Get These Questions Wrong](https://medium.com/@mobileappdeveloper.koti/swift-developers-with-5-years-of-experience-still-get-these-questions-wrong-e48413ed1d7a?source=rss------programming-5) (2026-06-19)
+- [We Moved Our Background Jobs From Goroutines to a Queue. Here’s What Broke Immediately.](https://elsyarifx.medium.com/we-moved-our-background-jobs-from-goroutines-to-a-queue-heres-what-broke-immediately-1c95f0546842?source=rss------programming-5) (2026-06-19)
+- [La pregunta que más mejoró mis decisiones técnicas](https://medium.com/@juanmorisetti/la-pregunta-que-m%C3%A1s-mejor%C3%B3-mis-decisiones-t%C3%A9cnicas-38a868b95c50?source=rss------programming-5) (2026-06-19)
+- [Why Open Source Software Matters More Than Ever in 2026](https://medium.com/@freetechlearner/why-open-source-software-matters-more-than-ever-in-2026-bd105eef91ac?source=rss------programming-5) (2026-06-19)
+- [The Government Didn’t Try to Stop AI Because It Failed. They Tried Because It Succeeded.](https://blog.stackademic.com/the-government-didnt-try-to-stop-ai-because-it-failed-they-tried-because-it-succeeded-5ed6e6b38c01?source=rss------programming-5) (2026-06-19)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Bamboo End of Life: How to Prepare and Choose the Right CI/CD Replacement](https://blog.jetbrains.com/teamcity/2026/06/bamboo-end-of-life/) (2026-06-19)
+- [Structuring IntelliJ Plugins with Optional Content Modules](https://blog.jetbrains.com/platform/2026/06/structuring-intellij-plugins-with-optional-content-modules/) (2026-06-19)
+- [YouTrack Security Update: Upgrade Required for YouTrack Server](https://blog.jetbrains.com/youtrack/2026/06/youtrack-security-update-youtrack-server-upgrade-required/) (2026-06-19)
 - [Qodana Is a Finalist in the 2026 CODiE Awards for Best DevOps Tool](https://blog.jetbrains.com/qodana/2026/06/qodana-is-a-finalist-in-the-2026-codie-awards-for-best-devops-tool/) (2026-06-18)
 - [JetBrains Marketplace Ecosystem Security Update: Addressing Malicious Third-Party AI Plugins](https://blog.jetbrains.com/platform/2026/06/marketplace-ecosystem-security-update-malicious-ai-plugins/) (2026-06-17)
-- [Your JetBrains IDE Expertise, Now on LinkedIn](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/) (2026-06-17)
-- [Junie: The JetBrains AI Coding Agent Leaves Beta](https://blog.jetbrains.com/junie/2026/06/junie-coding-agent-out-of-beta/) (2026-06-17)
-- [Step Rejection Fine-Tuning: Squeezing More Signal from Noisy Agent Trajectories](https://blog.jetbrains.com/research/2026/06/step-rejection-fine-tuning/) (2026-06-17)
 
 </details>
 
@@ -307,10 +307,10 @@
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.126](https://code.visualstudio.com/updates/v1_126) (2026-06-24)
+- [What 50,000 Runs of a 5-Line Eval Taught Us](https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us) (2026-06-19)
 - [Use your own language model key in VS Code](https://code.visualstudio.com/blogs/2026/06/18/byok-vscode) (2026-06-18)
 - [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
 - [Improving token efficiency for GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) (2026-06-17)
-- [Visual Studio Code 1.124](https://code.visualstudio.com/updates/v1_124) (2026-06-10)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) (2026-06-19)
 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) (2026-06-18)
 - [Celebrating 12 years of Project Galileo](https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/) (2026-06-18)
 - [Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue](https://blog.cloudflare.com/agents-platform-flue-sdk/) (2026-06-17)
 - [Introducing the Cloudflare One stack: agent-powered deployment](https://blog.cloudflare.com/cloudflare-one-stack/) (2026-06-17)
-- [Cloudflare DMARC Management is now generally available](https://blog.cloudflare.com/dmarc-management-ga/) (2026-06-16)
 
 </details>
 
@@ -426,11 +426,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🔷 Prisma Blog</summary>
 
-- [We Launched Prisma Compute with Custom Domains](https://www.prisma.io/blog/prisma-compute-custom-domains) (2026-06-12)
-- [We put Bun's Rust rewrite in production on Prisma Compute](https://www.prisma.io/blog/bun-rust-rewrite-prisma-compute) (2026-06-11)
-- [Prisma Next Is ~90% As Fast as Raw PG](https://www.prisma.io/blog/prisma-next-performance-benchmark) (2026-06-11)
-- [Gremlin: turning open tasks into pull requests](https://www.prisma.io/blog/gremlin-turning-open-tasks-into-pull-requests) (2026-06-09)
-- [Launching Prisma Compute in Public Beta](https://www.prisma.io/blog/launching-prisma-compute-public-beta) (2026-06-08)
+- [App Hosting and Compute Platforms for AI Agents in 2026](https://www.prisma.io/blog/app-hosting-compute-platforms-for-ai-agents-2026) (2026-06-19)
+- [How I Built a Chat App That Never Drops a Token](https://www.prisma.io/blog/building-open-chat) (2026-06-19)
+- [Deploy Prisma Apps with create-prisma](https://www.prisma.io/blog/create-prisma-deploy-prisma-compute) (2026-06-19)
+- [Image Transformations with Bun on Prisma Compute](https://www.prisma.io/blog/image-transformations-with-bun-on-prisma-compute) (2026-06-19)
+- [Configure Prisma Compute deploys in TypeScript](https://www.prisma.io/blog/prisma-compute-config-file) (2026-06-19)
 
 </details>
 
@@ -547,33 +547,33 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document](https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/) (2026-06-19)
+- [GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU](https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/) (2026-06-19)
 - [Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each](https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/) (2026-06-18)
 - [How Powerful is Claude Fable (Mythos) 5 for Coding?](https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/) (2026-06-18)
 - [Proteins: A Mosaic Pattern to Rule Them All?](https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/) (2026-06-18)
-- [Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit](https://towardsdatascience.com/dispatching-the-parsed-rag-question-chunk-strategy-model-tier-activations-audit/) (2026-06-18)
-- [The Power and Pitfalls of Vector-Based Image Search](https://towardsdatascience.com/the-power-and-pitfalls-of-vector-based-image-search/) (2026-06-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [System Design for ML Interviews: 10 Real Problems Walked Through](https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/) (2026-06-19)
 - [Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-tips-and-features/) (2026-06-18)
 - [OpenAI Just Launched 3 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/) (2026-06-17)
 - [Autoregressive Models: Predicting the Future Using the Past](https://www.analyticsvidhya.com/blog/2026/06/autoregressive-models-explained/) (2026-06-16)
 - [Gemini Omni: AI Video Generation Inside Gemini](https://www.analyticsvidhya.com/blog/2026/06/gemini-omni-ai-video-generation/) (2026-06-12)
-- [DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation ](https://www.analyticsvidhya.com/blog/2026/06/diffusiongemma-diffusion-based-open-model-for-faster-text-generation/) (2026-06-11)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Loss Function Explained For Noobs (How Models Know They Are Wrong)](https://www.kdnuggets.com/noob-series-loss-function-explained-how-models-know-they-are-wrong) (2026-06-19)
+- [Practical SQL Tricks Every Data Scientist Should Know](https://www.kdnuggets.com/practical-sql-tricks-every-data-scientist-should-know) (2026-06-19)
+- [Python Dictionary Tips and Tricks You Should Always Remember](https://www.kdnuggets.com/python-dictionary-tips-and-tricks-you-should-always-remember) (2026-06-19)
 - [Advanced Join Techniques: LATERAL Joins, Semi Joins, Anti Joins](https://www.kdnuggets.com/advanced-join-techniques-lateral-joins-semi-joins-anti-joins) (2026-06-18)
 - [How (and Why) I Built an AI Assistant](https://www.kdnuggets.com/how-and-why-i-built-an-ai-assistant) (2026-06-17)
-- [5 Fun Projects Using OpenAI Codex](https://www.kdnuggets.com/5-fun-projects-using-openai-codex) (2026-06-17)
-- [The Roadmap to Becoming an LLM Engineer in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-llm-engineer-in-2026) (2026-06-16)
-- [Stop Writing Loops in Pandas: 7 Faster Alternatives to Try](https://www.kdnuggets.com/stop-writing-loops-in-pandas-7-faster-alternatives-to-try) (2026-06-16)
 
 </details>
 
