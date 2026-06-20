@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones) (2026-06-20)
+- [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating) (2026-06-20)
+- [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com) (2026-06-20)
+- [CSSQuake](https://cssquake.com/) (2026-06-20)
 - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) (2026-06-20)
-- [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html) (2026-06-20)
-- [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) (2026-06-20)
-- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) (2026-06-20)
-- [Hey, n00b, we didn't hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) (2026-06-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer) (2026-06-20)
 - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review) (2026-06-20)
 - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices) (2026-06-19)
 - [NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) (2026-06-19)
 - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb) (2026-06-19)
-- [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming) (2026-06-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed](https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/) (2026-06-20)
 - [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/) (2026-06-19)
 - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) (2026-06-19)
 - [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) (2026-06-19)
 - [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) (2026-06-18)
-- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) (2026-06-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Swift Functions — Handling Errors with do, try, and catch 🚨](https://dev.to/gamya_m/swift-functions-handling-errors-with-do-try-and-catch-2lkm) (2026-06-20)
-- [Your docs aren't burning your tokens — your tooling is](https://dev.to/kanfu-panda/your-docs-arent-burning-your-tokens-your-tooling-is-58ck) (2026-06-20)
-- [AIClaw Adds Configurable Web Search Without Hiding Execution Details](https://dev.to/chowyu12/aiclaw-adds-configurable-web-search-without-hiding-execution-details-70f) (2026-06-20)
-- [minbpe vs turboBPE: Two ways to think about tokenizer training](https://dev.to/cercie490/minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training-1i1o) (2026-06-20)
-- [I Spent $8,857 Using Claude Code to Build 6 Projects. Here's What I Learned.](https://dev.to/ethan0506/i-spent-8857-using-claude-code-to-build-6-projects-heres-what-i-learned-2hoj) (2026-06-20)
+- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn) (2026-06-20)
+- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i) (2026-06-20)
+- [I stopped writing throwaway scripts for messy CSVs and just use SQL now](https://dev.to/herbze/i-stopped-writing-throwaway-scripts-for-messy-csvs-and-just-use-sql-now-p6h) (2026-06-20)
+- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach) (2026-06-20)
+- ["How I contributed to Firefox DevTools"](https://dev.to/mahmutovicr/how-i-contributed-to-firefox-devtools-3ok6) (2026-06-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [دليل LibGDX الشامل 2026: تطوير ألعاب جافا من الصفر للاحتراف](https://fadyali.medium.com/%D8%AF%D9%84%D9%8A%D9%84-libgdx-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-2026-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%AC%D8%A7%D9%81%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81-b8b6f89b6a21?source=rss------programming-5) (2026-06-20)
-- [The Programming Skill I Ignored for Months Turned Out to Be Incredibly Useful](https://blog.stackademic.com/the-programming-skill-i-ignored-for-months-turned-out-to-be-incredibly-useful-dc23d3fdee59?source=rss------programming-5) (2026-06-20)
-- [The Dark Side of Vibe Coding Nobody Talks About](https://muhammad-zahid.medium.com/the-dark-side-of-vibe-coding-nobody-talks-about-bb496236e997?source=rss------programming-5) (2026-06-20)
-- [How to Choose Your Programming Language](https://medium.com/@thiruneelan45/how-to-choose-your-programming-language-40f50975f49b?source=rss------programming-5) (2026-06-20)
-- [Make localhost public using host2gateway](https://profide.medium.com/make-localhost-public-using-host2gateway-3ca9dbe75a03?source=rss------programming-5) (2026-06-20)
+- [5 Python Codes That Saved Me Hours of Work](https://blog.stackademic.com/5-python-codes-that-saved-me-hours-of-work-735648c4a88b?source=rss------programming-5) (2026-06-20)
+- [TOON: The Data Format That Could Reshape AI Infrastructure](https://medium.com/@dipankarsethi3012/toon-the-data-format-that-could-reshape-ai-infrastructure-2b6352345328?source=rss------programming-5) (2026-06-20)
+- [Code Review Is Not About Proving Someone Wrong](https://medium.com/@mohamadshahkhajeh/code-review-is-not-about-proving-someone-wrong-b7270be136a8?source=rss------programming-5) (2026-06-20)
+- [Golang Core Deep Dive (Part 2): Clean Code Engineering via Factored Imports (chapter 1)](https://medium.com/@Trvux115/golang-core-deep-dive-part-2-clean-code-engineering-via-factored-imports-chapter-1-822e6647840a?source=rss------programming-5) (2026-06-20)
+- [The Four-Layer Stack for Running Agentic AI on Kubernetes](https://blog.devops.dev/the-four-layer-stack-for-running-agentic-ai-on-kubernetes-a139c8d3fef2?source=rss------programming-5) (2026-06-20)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement](https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/) (2026-06-20)
 - [Python 3.14 and its New JIT Compiler](https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/) (2026-06-19)
 - [Building a Custom GStreamer Plugin for NVIDIA DeepStream](https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/) (2026-06-19)
 - [I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect.](https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/) (2026-06-19)
 - [Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document](https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/) (2026-06-19)
-- [GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU](https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/) (2026-06-19)
 
 </details>
 
