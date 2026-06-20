@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
+- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) (2026-06-20)
+- [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/) (2026-06-20)
 - [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) (2026-06-20)
 - [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) (2026-06-19)
-- [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) (2026-06-19)
-- [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/) (2026-06-19)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones) (2026-06-20)
-- [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating) (2026-06-20)
-- [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com) (2026-06-20)
-- [CSSQuake](https://cssquake.com/) (2026-06-20)
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) (2026-06-20)
+- [Agency stole bestselling author's book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) (2026-06-20)
+- [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303) (2026-06-20)
+- [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm) (2026-06-20)
+- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) (2026-06-20)
+- [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249) (2026-06-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview) (2026-06-20)
+- [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir) (2026-06-20)
 - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer) (2026-06-20)
 - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review) (2026-06-20)
 - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices) (2026-06-19)
-- [NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) (2026-06-19)
-- [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb) (2026-06-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn) (2026-06-20)
-- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i) (2026-06-20)
-- [I stopped writing throwaway scripts for messy CSVs and just use SQL now](https://dev.to/herbze/i-stopped-writing-throwaway-scripts-for-messy-csvs-and-just-use-sql-now-p6h) (2026-06-20)
-- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach) (2026-06-20)
-- ["How I contributed to Firefox DevTools"](https://dev.to/mahmutovicr/how-i-contributed-to-firefox-devtools-3ok6) (2026-06-20)
+- [AI productivity gains vanish when you measure them honestly](https://dev.to/adioof/ai-productivity-gains-vanish-when-you-measure-them-honestly-4a3a) (2026-06-20)
+- [Pandas and Data Visualization Using Matplotlib and Seaborn](https://dev.to/josengash/pandas-and-data-visualization-using-matplotlib-and-seaborn-1ek7) (2026-06-20)
+- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb) (2026-06-20)
+- [Building a Kernel-Integrated AI that Doesn't Hallucinate](https://dev.to/ionablokchain/building-a-kernel-integrated-ai-that-doesnt-hallucinate-1aik) (2026-06-20)
+- [proven-python: make your AI agent prove its Python before calling it done](https://dev.to/shan_wijenayaka_ecbe5dc32/proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done-3kj1) (2026-06-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Python Codes That Saved Me Hours of Work](https://blog.stackademic.com/5-python-codes-that-saved-me-hours-of-work-735648c4a88b?source=rss------programming-5) (2026-06-20)
-- [TOON: The Data Format That Could Reshape AI Infrastructure](https://medium.com/@dipankarsethi3012/toon-the-data-format-that-could-reshape-ai-infrastructure-2b6352345328?source=rss------programming-5) (2026-06-20)
-- [Code Review Is Not About Proving Someone Wrong](https://medium.com/@mohamadshahkhajeh/code-review-is-not-about-proving-someone-wrong-b7270be136a8?source=rss------programming-5) (2026-06-20)
-- [Golang Core Deep Dive (Part 2): Clean Code Engineering via Factored Imports (chapter 1)](https://medium.com/@Trvux115/golang-core-deep-dive-part-2-clean-code-engineering-via-factored-imports-chapter-1-822e6647840a?source=rss------programming-5) (2026-06-20)
-- [The Four-Layer Stack for Running Agentic AI on Kubernetes](https://blog.devops.dev/the-four-layer-stack-for-running-agentic-ai-on-kubernetes-a139c8d3fef2?source=rss------programming-5) (2026-06-20)
+- [The Hidden Cost of Model Complexity — You Only See It Under Data Stress](https://medium.com/@sarikasingh02z/the-hidden-cost-of-model-complexity-you-only-see-it-under-data-stress-779cb5defb00?source=rss------programming-5) (2026-06-20)
+- [I Reviewed More Than 100 AI Agents. Most Should Have Been Non-AI Code.](https://medium.com/@vndpal/i-reviewed-more-than-100-ai-agents-most-should-have-been-non-ai-code-d8272f33fa70?source=rss------programming-5) (2026-06-20)
+- [# What African Developers Can Learn From Open Source](https://medium.com/@kafeeromirembemercy/what-african-developers-can-learn-from-open-source-fd44ee7b2ae4?source=rss------programming-5) (2026-06-20)
+- [Lists vs Tuples in Python: Which One Should You Use?](https://medium.com/@dhanuja.g.2024.aiml/lists-vs-tuples-in-python-which-one-should-you-use-f32bc5c1c1d6?source=rss------programming-5) (2026-06-20)
+- [Day 40: Installing OpenSSH 8 Server from Source in Linux](https://pawannatekar220.medium.com/day-40-installing-openssh-8-server-from-source-in-linux-90d44b05fec9?source=rss------programming-5) (2026-06-20)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
-- [Coding Agent Horror Stories: The 13-Hour AWS Outage](https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/) (2026-06-18)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 
 </details>
 
@@ -545,13 +545,24 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
+- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
+- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
+- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
+- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture](https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/) (2026-06-20)
+- [Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All](https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/) (2026-06-20)
 - [Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement](https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/) (2026-06-20)
 - [Python 3.14 and its New JIT Compiler](https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/) (2026-06-19)
 - [Building a Custom GStreamer Plugin for NVIDIA DeepStream](https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/) (2026-06-19)
-- [I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect.](https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/) (2026-06-19)
-- [Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document](https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/) (2026-06-19)
 
 </details>
 
