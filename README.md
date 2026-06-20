@@ -10,7 +10,7 @@
 <summary>🚀 TechCrunch</summary>
 
 - [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) (2026-06-20)
-- [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) (2026-06-19)
+- [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) (2026-06-19)
 - [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) (2026-06-19)
 - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/) (2026-06-19)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) (2026-06-19)
@@ -20,10 +20,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [XLibre XServer 25.2.0 Released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes) (2026-06-20)
-- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film) (2026-06-20)
-- [I solved my mystery fatigue with AI](https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai) (2026-06-20)
-- [We built a lab to evaluate data agents – Hex](https://hex.tech/blog/evaluate-data-agents/) (2026-06-20)
+- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) (2026-06-20)
+- [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html) (2026-06-20)
+- [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) (2026-06-20)
+- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) (2026-06-20)
 - [Hey, n00b, we didn't hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) (2026-06-20)
 
 </details>
@@ -31,11 +31,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review) (2026-06-20)
 - [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices) (2026-06-19)
 - [NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) (2026-06-19)
 - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb) (2026-06-19)
 - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming) (2026-06-19)
-- [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) (2026-06-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rebuilding a Divi Blog with Custom Shortcodes: A Field Report](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g) (2026-06-20)
-- [MTP File Transfer in Rust on macOS — Why I Wrote My Own Stack](https://dev.to/hiyoyok/mtp-file-transfer-in-rust-on-macos-why-i-wrote-my-own-stack-3obg) (2026-06-20)
-- ["not a valid OPENSSH private key file" — building a compat layer for seven SSH private-key formats](https://dev.to/susumun/not-a-valid-openssh-private-key-file-building-a-compat-layer-for-seven-ssh-private-key-formats-fl8) (2026-06-20)
-- [Building a Voice AI Platform with 28 Modules in Python](https://dev.to/ryanwinston_134/building-a-voice-ai-platform-with-28-modules-in-python-4hbm) (2026-06-20)
-- [I Created a Gemini API Key and Got AQ. Instead of AIza](https://dev.to/rapls/i-created-a-gemini-api-key-and-got-aq-instead-of-aiza-3dp3) (2026-06-20)
+- [Swift Functions — Handling Errors with do, try, and catch 🚨](https://dev.to/gamya_m/swift-functions-handling-errors-with-do-try-and-catch-2lkm) (2026-06-20)
+- [Your docs aren't burning your tokens — your tooling is](https://dev.to/kanfu-panda/your-docs-arent-burning-your-tokens-your-tooling-is-58ck) (2026-06-20)
+- [AIClaw Adds Configurable Web Search Without Hiding Execution Details](https://dev.to/chowyu12/aiclaw-adds-configurable-web-search-without-hiding-execution-details-70f) (2026-06-20)
+- [minbpe vs turboBPE: Two ways to think about tokenizer training](https://dev.to/cercie490/minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training-1i1o) (2026-06-20)
+- [I Spent $8,857 Using Claude Code to Build 6 Projects. Here's What I Learned.](https://dev.to/ethan0506/i-spent-8857-using-claude-code-to-build-6-projects-heres-what-i-learned-2hoj) (2026-06-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [BasisData9 — Prosedur, Fungsi dan Trigger](https://medium.com/@dimassaputra_39022/basisdata9-prosedur-fungsi-dan-trigger-d6952d8a12b4?source=rss------programming-5) (2026-06-20)
-- [Stop Blaming PHP: How to Fix the Silent Database Killers in Your Laravel App](https://medium.com/@nanda_amanta/stop-blaming-php-how-to-fix-the-silent-database-killers-in-your-laravel-app-188f2ce6b5b8?source=rss------programming-5) (2026-06-20)
-- [Day 39: Automate Linux Backups in 10 Minutes Using Bash and Cron](https://pawannatekar220.medium.com/day-39-automate-linux-backups-in-10-minutes-using-bash-and-cron-89ab7a9b5922?source=rss------programming-5) (2026-06-20)
-- [The JavaScript Temporal API Is Finally Here — And It Makes Date Handling Actually Pleasant](https://sadiqueali.medium.com/the-javascript-temporal-api-is-finally-here-and-it-makes-date-handling-actually-pleasant-0b018869bbf2?source=rss------programming-5) (2026-06-20)
-- [The Real Reason Web3 Hasn’t Gone Mainstream (It’s Not UX)](https://medium.com/@onwumaugwum/the-real-reason-web3-hasnt-gone-mainstream-it-s-not-ux-73fc94fbcd5b?source=rss------programming-5) (2026-06-20)
+- [دليل LibGDX الشامل 2026: تطوير ألعاب جافا من الصفر للاحتراف](https://fadyali.medium.com/%D8%AF%D9%84%D9%8A%D9%84-libgdx-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-2026-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%AC%D8%A7%D9%81%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81-b8b6f89b6a21?source=rss------programming-5) (2026-06-20)
+- [The Programming Skill I Ignored for Months Turned Out to Be Incredibly Useful](https://blog.stackademic.com/the-programming-skill-i-ignored-for-months-turned-out-to-be-incredibly-useful-dc23d3fdee59?source=rss------programming-5) (2026-06-20)
+- [The Dark Side of Vibe Coding Nobody Talks About](https://muhammad-zahid.medium.com/the-dark-side-of-vibe-coding-nobody-talks-about-bb496236e997?source=rss------programming-5) (2026-06-20)
+- [How to Choose Your Programming Language](https://medium.com/@thiruneelan45/how-to-choose-your-programming-language-40f50975f49b?source=rss------programming-5) (2026-06-20)
+- [Make localhost public using host2gateway](https://profide.medium.com/make-localhost-public-using-host2gateway-3ca9dbe75a03?source=rss------programming-5) (2026-06-20)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (2026-06-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
-- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
-- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
-- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
-- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
 
 </details>
 
