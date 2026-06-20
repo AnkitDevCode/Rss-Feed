@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) (2026-06-20)
+- [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) (2026-06-19)
+- [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) (2026-06-19)
+- [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/) (2026-06-19)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) (2026-06-19)
-- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) (2026-06-19)
-- [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) (2026-06-19)
-- [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/) (2026-06-19)
-- [The US says ASML’s top chip tool may be in China. ASML says it isn’t.](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/) (2026-06-19)
-- [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1) (2026-06-19)
-- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) (2026-06-19)
-- [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) (2026-06-19)
-- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) (2026-06-19)
+- [XLibre XServer 25.2.0 Released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes) (2026-06-20)
+- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film) (2026-06-20)
+- [I solved my mystery fatigue with AI](https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai) (2026-06-20)
+- [We built a lab to evaluate data agents – Hex](https://hex.tech/blog/evaluate-data-agents/) (2026-06-20)
+- [Hey, n00b, we didn't hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) (2026-06-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices) (2026-06-19)
 - [NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars) (2026-06-19)
 - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb) (2026-06-19)
 - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming) (2026-06-19)
 - [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) (2026-06-19)
-- [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health) (2026-06-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [System Design at Scale](https://dev.to/lavkeshdwivedi/system-design-at-scale-2437) (2026-06-19)
-- [Team Conflict in the Open](https://dev.to/lavkeshdwivedi/team-conflict-in-the-open-37ob) (2026-06-19)
-- [Pluck v1.0.2 — I built a floating clipboard manager for Windows (open source)](https://dev.to/phuc-nguyen/pluck-v102-i-built-a-floating-clipboard-manager-for-windows-open-source-di5) (2026-06-19)
-- [Your LLM Judge Costs More Than the Agent. Gate It in 40 Lines.](https://dev.to/alex_spinov/your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines-cc7) (2026-06-19)
-- [Text adventure: Alan Turing’s Ghost Was Not Ready for a Probabilistic Afterlife](https://dev.to/steampixel/text-adventure-alan-turings-ghost-was-not-ready-for-a-probabilistic-afterlife-4bbc) (2026-06-19)
+- [Rebuilding a Divi Blog with Custom Shortcodes: A Field Report](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g) (2026-06-20)
+- [MTP File Transfer in Rust on macOS — Why I Wrote My Own Stack](https://dev.to/hiyoyok/mtp-file-transfer-in-rust-on-macos-why-i-wrote-my-own-stack-3obg) (2026-06-20)
+- ["not a valid OPENSSH private key file" — building a compat layer for seven SSH private-key formats](https://dev.to/susumun/not-a-valid-openssh-private-key-file-building-a-compat-layer-for-seven-ssh-private-key-formats-fl8) (2026-06-20)
+- [Building a Voice AI Platform with 28 Modules in Python](https://dev.to/ryanwinston_134/building-a-voice-ai-platform-with-28-modules-in-python-4hbm) (2026-06-20)
+- [I Created a Gemini API Key and Got AQ. Instead of AIza](https://dev.to/rapls/i-created-a-gemini-api-key-and-got-aq-instead-of-aiza-3dp3) (2026-06-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Tools Can Read Every Line of Your Code. They Still Cannot Recognize the Shape of a Production](https://blog.stackademic.com/ai-tools-can-read-every-line-of-your-code-they-still-cannot-recognize-the-shape-of-a-production-ec6c71f8e906?source=rss------programming-5) (2026-06-19)
-- [I’m 43. My Computer Science Degree Is Worth Less Than My Art History Degree.](https://medium.com/mr-plan-publication/im-43-my-computer-science-degree-is-worth-less-than-my-art-history-degree-f84e62eb0cb8?source=rss------programming-5) (2026-06-19)
-- [One Client, Every LLM: Provider Fallback Without Five SDKs](https://medium.com/@arthurpro/one-client-every-llm-provider-fallback-without-five-sdks-e262bbd4630d?source=rss------programming-5) (2026-06-19)
-- [I Asked AI to Build a microservice-The results surprised me](https://medium.com/illumination/i-asked-ai-to-build-a-microservice-the-results-surprised-me-289a257c9a50?source=rss------programming-5) (2026-06-19)
-- [Why Challenge Games Inspire Kids to Learn Coding](https://medium.com/@juniorcoderzseo/why-challenge-games-inspire-kids-to-learn-coding-33945490c793?source=rss------programming-5) (2026-06-19)
+- [BasisData9 — Prosedur, Fungsi dan Trigger](https://medium.com/@dimassaputra_39022/basisdata9-prosedur-fungsi-dan-trigger-d6952d8a12b4?source=rss------programming-5) (2026-06-20)
+- [Stop Blaming PHP: How to Fix the Silent Database Killers in Your Laravel App](https://medium.com/@nanda_amanta/stop-blaming-php-how-to-fix-the-silent-database-killers-in-your-laravel-app-188f2ce6b5b8?source=rss------programming-5) (2026-06-20)
+- [Day 39: Automate Linux Backups in 10 Minutes Using Bash and Cron](https://pawannatekar220.medium.com/day-39-automate-linux-backups-in-10-minutes-using-bash-and-cron-89ab7a9b5922?source=rss------programming-5) (2026-06-20)
+- [The JavaScript Temporal API Is Finally Here — And It Makes Date Handling Actually Pleasant](https://sadiqueali.medium.com/the-javascript-temporal-api-is-finally-here-and-it-makes-date-handling-actually-pleasant-0b018869bbf2?source=rss------programming-5) (2026-06-20)
+- [The Real Reason Web3 Hasn’t Gone Mainstream (It’s Not UX)](https://medium.com/@onwumaugwum/the-real-reason-web3-hasnt-gone-mainstream-it-s-not-ux-73fc94fbcd5b?source=rss------programming-5) (2026-06-20)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Coding Agent Horror Stories: The 13-Hour AWS Outage](https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/) (2026-06-18)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
-- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (2026-06-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
+- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
+- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
+- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
+- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
 
 </details>
 
