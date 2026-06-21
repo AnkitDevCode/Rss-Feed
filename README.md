@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
+- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) (2026-06-20)
+- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) (2026-06-20)
+- [This startup built a fish-killing robot and chefs love the results](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
 - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) (2026-06-20)
 - [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/) (2026-06-20)
-- [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) (2026-06-20)
-- [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Agency stole bestselling author's book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) (2026-06-20)
-- [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303) (2026-06-20)
-- [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm) (2026-06-20)
-- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) (2026-06-20)
-- [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249) (2026-06-20)
+- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) (2026-06-21)
+- [White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/) (2026-06-21)
+- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) (2026-06-21)
+- ['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo) (2026-06-21)
+- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two) (2026-06-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) (2026-06-20)
 - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview) (2026-06-20)
 - [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir) (2026-06-20)
 - [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer) (2026-06-20)
 - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review) (2026-06-20)
-- [Nothing cancels this year&#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices) (2026-06-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI productivity gains vanish when you measure them honestly](https://dev.to/adioof/ai-productivity-gains-vanish-when-you-measure-them-honestly-4a3a) (2026-06-20)
-- [Pandas and Data Visualization Using Matplotlib and Seaborn](https://dev.to/josengash/pandas-and-data-visualization-using-matplotlib-and-seaborn-1ek7) (2026-06-20)
-- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb) (2026-06-20)
-- [Building a Kernel-Integrated AI that Doesn't Hallucinate](https://dev.to/ionablokchain/building-a-kernel-integrated-ai-that-doesnt-hallucinate-1aik) (2026-06-20)
-- [proven-python: make your AI agent prove its Python before calling it done](https://dev.to/shan_wijenayaka_ecbe5dc32/proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done-3kj1) (2026-06-20)
+- [Tokenomics Foundation (introducción y perspectiva)](https://dev.to/barbara_gaspar/tokenomics-foundation-introduccion-y-perspectiva-4lni) (2026-06-21)
+- [Your AI feels slow? Maybe it's not dumb—you're making it work one thing at a time](https://dev.to/kanfu-panda/your-ai-feels-slow-maybe-its-not-dumb-youre-making-it-work-one-thing-at-a-time-3ipl) (2026-06-21)
+- [When an AI Agent Joins Your Yjs Room, Three Assumptions Break](https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8) (2026-06-21)
+- [AI Coding Agents Need a Control Layer](https://dev.to/agentleash/ai-coding-agents-need-a-control-layer-4neh) (2026-06-21)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-35je) (2026-06-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Hidden Cost of Model Complexity — You Only See It Under Data Stress](https://medium.com/@sarikasingh02z/the-hidden-cost-of-model-complexity-you-only-see-it-under-data-stress-779cb5defb00?source=rss------programming-5) (2026-06-20)
-- [I Reviewed More Than 100 AI Agents. Most Should Have Been Non-AI Code.](https://medium.com/@vndpal/i-reviewed-more-than-100-ai-agents-most-should-have-been-non-ai-code-d8272f33fa70?source=rss------programming-5) (2026-06-20)
-- [# What African Developers Can Learn From Open Source](https://medium.com/@kafeeromirembemercy/what-african-developers-can-learn-from-open-source-fd44ee7b2ae4?source=rss------programming-5) (2026-06-20)
-- [Lists vs Tuples in Python: Which One Should You Use?](https://medium.com/@dhanuja.g.2024.aiml/lists-vs-tuples-in-python-which-one-should-you-use-f32bc5c1c1d6?source=rss------programming-5) (2026-06-20)
-- [Day 40: Installing OpenSSH 8 Server from Source in Linux](https://pawannatekar220.medium.com/day-40-installing-openssh-8-server-from-source-in-linux-90d44b05fec9?source=rss------programming-5) (2026-06-20)
+- [3 Free Tools That Help Me With Weak English for Coding](https://medium.com/@zakirullahwrites/3-free-tools-that-help-me-with-weak-english-for-coding-3bac3131acde?source=rss------programming-5) (2026-06-21)
+- [I Built a REST API Without Writing Most of the Code](https://pub.towardsai.net/i-built-a-rest-api-without-writing-most-of-the-code-48d66d43f929?source=rss------programming-5) (2026-06-21)
+- [Best AI Text-to-Speech Generators in 2026: I Tested 30+ Tools](https://medium.com/@sunil17bbmp/best-ai-text-to-speech-generators-in-2026-i-tested-30-tools-66eadd584822?source=rss------programming-5) (2026-06-21)
+- [Three bugs that taught me more than any tutorial while building PaperDrop](https://medium.com/@yubraj002net/three-bugs-that-taught-me-more-than-any-tutorial-while-building-paperdrop-32e867531e57?source=rss------programming-5) (2026-06-21)
+- [Learning MATLAB On My Own](https://medium.com/@girlwhocodes_/learning-matlab-on-my-own-f4b13352ff17?source=rss------programming-5) (2026-06-21)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (2026-06-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
-- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
-- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
-- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
-- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
 
 </details>
 
