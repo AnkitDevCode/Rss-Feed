@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) (2026-06-21)
-- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) (2026-06-21)
-- [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html) (2026-06-21)
-- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai) (2026-06-21)
-- [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah) (2026-06-21)
+- [Artificial](https://www.inkandswitch.com/tangents/artificial/) (2026-06-21)
+- [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/) (2026-06-21)
+- [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg) (2026-06-21)
+- [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info) (2026-06-21)
+- [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html) (2026-06-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history) (2026-06-21)
+- [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits) (2026-06-21)
+- [Sony’s Xperia 1 VIII is still a phone for the fans](https://www.theverge.com/tech/952245/sony-xperia-1-viii-review) (2026-06-21)
 - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) (2026-06-20)
 - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview) (2026-06-20)
-- [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir) (2026-06-20)
-- [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer) (2026-06-20)
-- [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review) (2026-06-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Review: Widow's Bay is a boldly original take on comedic horror](https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/) (2026-06-21)
 - [The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed](https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/) (2026-06-20)
 - [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/) (2026-06-19)
 - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) (2026-06-19)
 - [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) (2026-06-19)
-- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) (2026-06-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Is CLAUDE.md? A Practical Guide to Configuring Claude Code](https://dev.to/promptmaster/what-is-claudemd-a-practical-guide-to-configuring-claude-code-2eb1) (2026-06-21)
-- [The Real Reason Everyone's Fighting About Tailwind CSS v4](https://dev.to/enjoy_kumawat/the-real-reason-everyones-fighting-about-tailwind-css-v4-4o0g) (2026-06-21)
-- [Shipping one Flutter codebase to 6 platforms: what I learned building Tuneline](https://dev.to/shamir_shakir_e293eb37a32/shipping-one-flutter-codebase-to-6-platforms-what-i-learned-building-tuneline-4jp8) (2026-06-21)
-- [Why Claude Code Ignores Your CLAUDE.md (And How to Fix It)](https://dev.to/promptmaster/why-claude-code-ignores-your-claudemd-and-how-to-fix-it-2bb0) (2026-06-21)
-- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb) (2026-06-21)
+- [Client-Side Databases Are Underrated](https://dev.to/ctrotech/client-side-databases-are-underrated-516m) (2026-06-21)
+- [🌠 Astral Warp Archive — Multi‑Game HoYoverse Gacha Tracker](https://dev.to/michaelinzo/astral-warp-archive-multi-game-hoyoverse-gacha-tracker-3lf0) (2026-06-21)
+- [Why I'm building yet another UML tool in 2026](https://dev.to/betschwa/why-im-building-yet-another-uml-tool-in-2026-12l1) (2026-06-21)
+- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma) (2026-06-21)
+- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i) (2026-06-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Anthropic Revealed AI Is Building Itself. Here’s What That Means.](https://pramodaiml.medium.com/anthropic-revealed-ai-is-building-itself-heres-what-that-means-e0f13b943795?source=rss------programming-5) (2026-06-21)
-- [How I Pulled CPU Time From Mainframe SMF Records (Beginner Guide)](https://medium.com/@ckarthick.msc/how-i-pulled-cpu-time-from-mainframe-smf-records-beginner-guide-999dfc6d60d8?source=rss------programming-5) (2026-06-21)
-- [How to Deploy a MERN Stack App on VPS with Nginx, PM2 and SSL — Everything I Learned](https://medium.com/@shkabid40/how-to-deploy-a-mern-stack-app-on-vps-with-nginx-pm2-and-ssl-everything-i-learned-70c57bfaf251?source=rss------programming-5) (2026-06-21)
-- [حل مشكلة تداخل الأجسام (Physics Glitch) في Unity عند السرعات العالية](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%AA%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-physics-glitch-%D9%81%D9%8A-unity-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-53f2b95bd9ef?source=rss------programming-5) (2026-06-21)
-- [I Used Python to Collect Website Data Automatically — And It Felt Like a Superpower](https://blog.stackademic.com/i-used-python-to-collect-website-data-automatically-and-it-felt-like-a-superpower-0c4da16e4088?source=rss------programming-5) (2026-06-21)
+- [Do you know Looking at Senior Developers’ Code (And It Changed How I Write Software )(And Why…](https://medium.com/@darwinjmathews38/do-you-know-looking-at-senior-developers-code-and-it-changed-how-i-write-software-and-why-03015c5bffe1?source=rss------programming-5) (2026-06-21)
+- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` & More](https://medium.com/@jackpritomsoren/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-529199ed8949?source=rss------programming-5) (2026-06-21)
+- [Build Work-Ready AI Agents with Microsoft Foundry and Work IQ, Govern Them with Agent 365](https://itnext.io/build-work-ready-ai-agents-with-microsoft-foundry-and-work-iq-govern-them-with-agent-365-0e1d8b6a934a?source=rss------programming-5) (2026-06-21)
+- [The AI Free Ride Is Ending: A Reckoning Is Coming for Software Engineering](https://ai.gopubby.com/the-ai-free-ride-is-ending-a-reckoning-is-coming-for-software-engineering-fa8d4621a587?source=rss------programming-5) (2026-06-21)
+- [AI Can Pass the Bar Exam. It Fails a Color Test a Third-Grader Can Do.](https://generativeai.pub/ai-can-pass-the-bar-exam-it-fails-a-color-test-a-third-grader-can-do-a45fda1e75b1?source=rss------programming-5) (2026-06-21)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Are the Possibilities to Build Date Tables in Self-Service Environments?](https://towardsdatascience.com/what-are-the-possibilities-to-build-date-tables-in-self-service-environments/) (2026-06-21)
 - [7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture](https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/) (2026-06-20)
 - [Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All](https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/) (2026-06-20)
 - [Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement](https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/) (2026-06-20)
 - [Python 3.14 and its New JIT Compiler](https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/) (2026-06-19)
-- [Building a Custom GStreamer Plugin for NVIDIA DeepStream](https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/) (2026-06-19)
 
 </details>
 
