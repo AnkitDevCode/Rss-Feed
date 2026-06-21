@@ -11,7 +11,7 @@
 
 - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) (2026-06-20)
 - [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) (2026-06-20)
-- [This startup built a fish-killing robot and chefs love the results](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
+- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
 - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) (2026-06-20)
 - [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/) (2026-06-20)
 
@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) (2026-06-21)
-- [White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/) (2026-06-21)
-- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) (2026-06-21)
-- ['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo) (2026-06-21)
-- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two) (2026-06-21)
+- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) (2026-06-21)
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) (2026-06-21)
+- [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html) (2026-06-21)
+- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai) (2026-06-21)
+- [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah) (2026-06-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Tokenomics Foundation (introducción y perspectiva)](https://dev.to/barbara_gaspar/tokenomics-foundation-introduccion-y-perspectiva-4lni) (2026-06-21)
-- [Your AI feels slow? Maybe it's not dumb—you're making it work one thing at a time](https://dev.to/kanfu-panda/your-ai-feels-slow-maybe-its-not-dumb-youre-making-it-work-one-thing-at-a-time-3ipl) (2026-06-21)
-- [When an AI Agent Joins Your Yjs Room, Three Assumptions Break](https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8) (2026-06-21)
-- [AI Coding Agents Need a Control Layer](https://dev.to/agentleash/ai-coding-agents-need-a-control-layer-4neh) (2026-06-21)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-35je) (2026-06-21)
+- [What Is CLAUDE.md? A Practical Guide to Configuring Claude Code](https://dev.to/promptmaster/what-is-claudemd-a-practical-guide-to-configuring-claude-code-2eb1) (2026-06-21)
+- [The Real Reason Everyone's Fighting About Tailwind CSS v4](https://dev.to/enjoy_kumawat/the-real-reason-everyones-fighting-about-tailwind-css-v4-4o0g) (2026-06-21)
+- [Shipping one Flutter codebase to 6 platforms: what I learned building Tuneline](https://dev.to/shamir_shakir_e293eb37a32/shipping-one-flutter-codebase-to-6-platforms-what-i-learned-building-tuneline-4jp8) (2026-06-21)
+- [Why Claude Code Ignores Your CLAUDE.md (And How to Fix It)](https://dev.to/promptmaster/why-claude-code-ignores-your-claudemd-and-how-to-fix-it-2bb0) (2026-06-21)
+- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb) (2026-06-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3 Free Tools That Help Me With Weak English for Coding](https://medium.com/@zakirullahwrites/3-free-tools-that-help-me-with-weak-english-for-coding-3bac3131acde?source=rss------programming-5) (2026-06-21)
-- [I Built a REST API Without Writing Most of the Code](https://pub.towardsai.net/i-built-a-rest-api-without-writing-most-of-the-code-48d66d43f929?source=rss------programming-5) (2026-06-21)
-- [Best AI Text-to-Speech Generators in 2026: I Tested 30+ Tools](https://medium.com/@sunil17bbmp/best-ai-text-to-speech-generators-in-2026-i-tested-30-tools-66eadd584822?source=rss------programming-5) (2026-06-21)
-- [Three bugs that taught me more than any tutorial while building PaperDrop](https://medium.com/@yubraj002net/three-bugs-that-taught-me-more-than-any-tutorial-while-building-paperdrop-32e867531e57?source=rss------programming-5) (2026-06-21)
-- [Learning MATLAB On My Own](https://medium.com/@girlwhocodes_/learning-matlab-on-my-own-f4b13352ff17?source=rss------programming-5) (2026-06-21)
+- [Anthropic Revealed AI Is Building Itself. Here’s What That Means.](https://pramodaiml.medium.com/anthropic-revealed-ai-is-building-itself-heres-what-that-means-e0f13b943795?source=rss------programming-5) (2026-06-21)
+- [How I Pulled CPU Time From Mainframe SMF Records (Beginner Guide)](https://medium.com/@ckarthick.msc/how-i-pulled-cpu-time-from-mainframe-smf-records-beginner-guide-999dfc6d60d8?source=rss------programming-5) (2026-06-21)
+- [How to Deploy a MERN Stack App on VPS with Nginx, PM2 and SSL — Everything I Learned](https://medium.com/@shkabid40/how-to-deploy-a-mern-stack-app-on-vps-with-nginx-pm2-and-ssl-everything-i-learned-70c57bfaf251?source=rss------programming-5) (2026-06-21)
+- [حل مشكلة تداخل الأجسام (Physics Glitch) في Unity عند السرعات العالية](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%AA%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-physics-glitch-%D9%81%D9%8A-unity-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-53f2b95bd9ef?source=rss------programming-5) (2026-06-21)
+- [I Used Python to Collect Website Data Automatically — And It Felt Like a Superpower](https://blog.stackademic.com/i-used-python-to-collect-website-data-automatically-and-it-felt-like-a-superpower-0c4da16e4088?source=rss------programming-5) (2026-06-21)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Coding Agent Horror Stories: The 13-Hour AWS Outage](https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/) (2026-06-18)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
-- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) (2026-06-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
+- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
+- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
+- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
+- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
 
 </details>
 
