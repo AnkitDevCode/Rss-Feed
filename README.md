@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) (2026-06-20)
-- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) (2026-06-20)
-- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) (2026-06-20)
-- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) (2026-06-20)
-- [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/) (2026-06-20)
+- [Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/) (2026-06-21)
+- [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/) (2026-06-21)
+- [TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/) (2026-06-21)
+- [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) (2026-06-21)
+- [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) (2026-06-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Artificial](https://www.inkandswitch.com/tangents/artificial/) (2026-06-21)
-- [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/) (2026-06-21)
-- [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg) (2026-06-21)
-- [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info) (2026-06-21)
-- [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html) (2026-06-21)
+- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) (2026-06-21)
+- [Wildcard (YC W25) is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer) (2026-06-21)
+- [Burnout is real for open source maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers) (2026-06-21)
+- [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit) (2026-06-21)
+- [The early hiring funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it) (2026-06-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company) (2026-06-21)
+- [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review) (2026-06-21)
+- [Polymarket reportedly paid people to post fake videos of themselves placing bets](https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets) (2026-06-21)
 - [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history) (2026-06-21)
 - [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits) (2026-06-21)
-- [Sony’s Xperia 1 VIII is still a phone for the fans](https://www.theverge.com/tech/952245/sony-xperia-1-viii-review) (2026-06-21)
-- [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data) (2026-06-20)
-- [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview) (2026-06-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump admin’s coal investments assist plants with repeated violations](https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/) (2026-06-21)
 - [Review: Widow's Bay is a boldly original take on comedic horror](https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/) (2026-06-21)
 - [The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed](https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/) (2026-06-20)
 - [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/) (2026-06-19)
 - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) (2026-06-19)
-- [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) (2026-06-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Client-Side Databases Are Underrated](https://dev.to/ctrotech/client-side-databases-are-underrated-516m) (2026-06-21)
-- [🌠 Astral Warp Archive — Multi‑Game HoYoverse Gacha Tracker](https://dev.to/michaelinzo/astral-warp-archive-multi-game-hoyoverse-gacha-tracker-3lf0) (2026-06-21)
-- [Why I'm building yet another UML tool in 2026](https://dev.to/betschwa/why-im-building-yet-another-uml-tool-in-2026-12l1) (2026-06-21)
-- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma) (2026-06-21)
-- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i) (2026-06-21)
+- [Junkyard Computing: The Engineering Case for Building Server Clusters from Dead Smartphones](https://dev.to/vaibhavk289/junkyard-computing-the-engineering-case-for-building-server-clusters-from-dead-smartphones-2d1i) (2026-06-21)
+- [Wiring AI Code Review into a Bitbucket + Jira Workflow](https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8) (2026-06-21)
+- [SOLSTICE, A shadow capture game in C](https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn) (2026-06-21)
+- [Racing a Next.js API route: coupon abuse with Prisma and SQLite](https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma) (2026-06-21)
+- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8) (2026-06-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Do you know Looking at Senior Developers’ Code (And It Changed How I Write Software )(And Why…](https://medium.com/@darwinjmathews38/do-you-know-looking-at-senior-developers-code-and-it-changed-how-i-write-software-and-why-03015c5bffe1?source=rss------programming-5) (2026-06-21)
-- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` & More](https://medium.com/@jackpritomsoren/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-529199ed8949?source=rss------programming-5) (2026-06-21)
-- [Build Work-Ready AI Agents with Microsoft Foundry and Work IQ, Govern Them with Agent 365](https://itnext.io/build-work-ready-ai-agents-with-microsoft-foundry-and-work-iq-govern-them-with-agent-365-0e1d8b6a934a?source=rss------programming-5) (2026-06-21)
-- [The AI Free Ride Is Ending: A Reckoning Is Coming for Software Engineering](https://ai.gopubby.com/the-ai-free-ride-is-ending-a-reckoning-is-coming-for-software-engineering-fa8d4621a587?source=rss------programming-5) (2026-06-21)
-- [AI Can Pass the Bar Exam. It Fails a Color Test a Third-Grader Can Do.](https://generativeai.pub/ai-can-pass-the-bar-exam-it-fails-a-color-test-a-third-grader-can-do-a45fda1e75b1?source=rss------programming-5) (2026-06-21)
+- [I Was Given a JSON File and Told: “Can You Put This in Excel?”](https://medium.com/@craig246810/i-was-given-a-json-file-and-told-can-you-put-this-in-excel-e8fd41f1af4c?source=rss------programming-5) (2026-06-21)
+- [From Idea to Launch: How Messenger2050 Creates High-Performance Games Across Multiple Platforms](https://medium.com/@shirleyeng456/from-idea-to-launch-how-messenger2050-creates-high-performance-games-across-multiple-platforms-f65f28a6434e?source=rss------programming-5) (2026-06-21)
+- [Event Sourcing Under Concurrent Writes](https://levelup.gitconnected.com/event-sourcing-under-concurrent-writes-89396e373b71?source=rss------programming-5) (2026-06-21)
+- [Implementing Server-Sent Events in Angular with Signals](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-with-signals-45472993178f?source=rss------programming-5) (2026-06-21)
+- [Senior engineers don’t write better code. They write code differently.](https://medium.com/@zaps.design/senior-engineers-dont-write-better-code-they-write-code-differently-0daa34e6b7a0?source=rss------programming-5) (2026-06-21)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Tool Calling, Explained: How AI Agents Decide What to Do Next](https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/) (2026-06-21)
+- [Reconstructing the Table of Contents a PDF Forgot to Ship, So RAG Can Scope by Section](https://towardsdatascience.com/reconstructing-the-table-of-contents-a-pdf-forgot-to-ship-so-rag-can-scope-by-section/) (2026-06-21)
 - [What Are the Possibilities to Build Date Tables in Self-Service Environments?](https://towardsdatascience.com/what-are-the-possibilities-to-build-date-tables-in-self-service-environments/) (2026-06-21)
 - [7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture](https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/) (2026-06-20)
 - [Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All](https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/) (2026-06-20)
-- [Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement](https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/) (2026-06-20)
-- [Python 3.14 and its New JIT Compiler](https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/) (2026-06-19)
 
 </details>
 
