@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) (2026-06-21)
-- [Wildcard (YC W25) is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer) (2026-06-21)
-- [Burnout is real for open source maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers) (2026-06-21)
-- [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit) (2026-06-21)
-- [The early hiring funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it) (2026-06-21)
+- [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b) (2026-06-22)
+- [Sakana Fugu](https://sakana.ai/fugu/) (2026-06-22)
+- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/) (2026-06-22)
+- [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/) (2026-06-21)
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) (2026-06-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Junkyard Computing: The Engineering Case for Building Server Clusters from Dead Smartphones](https://dev.to/vaibhavk289/junkyard-computing-the-engineering-case-for-building-server-clusters-from-dead-smartphones-2d1i) (2026-06-21)
-- [Wiring AI Code Review into a Bitbucket + Jira Workflow](https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8) (2026-06-21)
-- [SOLSTICE, A shadow capture game in C](https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn) (2026-06-21)
-- [Racing a Next.js API route: coupon abuse with Prisma and SQLite](https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma) (2026-06-21)
-- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8) (2026-06-21)
+- [When should you publish a dev post? I counted, and JP vs EN are mirror images](https://dev.to/jun_uen0/when-should-you-publish-a-dev-post-i-counted-and-jp-vs-en-are-mirror-images-2pc7) (2026-06-22)
+- [What 60+ Claude Code memory entries taught me about solo ops](https://dev.to/solosre/what-60-claude-code-memory-entries-taught-me-about-solo-ops-18eo) (2026-06-22)
+- [[Rust Guide] 13.5. Iterators - Definitions, the Iterator Trait, and the Next Method](https://dev.to/someb1oody/rust-guide-135-iterators-definitions-the-iterator-trait-and-the-next-method-3h93) (2026-06-22)
+- [Archive — A Narrative Investigation Game About Curating Human History](https://dev.to/adodanieln/archive-a-narrative-investigation-game-about-curating-human-history-1ca0) (2026-06-22)
+- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97) (2026-06-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Was Given a JSON File and Told: “Can You Put This in Excel?”](https://medium.com/@craig246810/i-was-given-a-json-file-and-told-can-you-put-this-in-excel-e8fd41f1af4c?source=rss------programming-5) (2026-06-21)
-- [From Idea to Launch: How Messenger2050 Creates High-Performance Games Across Multiple Platforms](https://medium.com/@shirleyeng456/from-idea-to-launch-how-messenger2050-creates-high-performance-games-across-multiple-platforms-f65f28a6434e?source=rss------programming-5) (2026-06-21)
-- [Event Sourcing Under Concurrent Writes](https://levelup.gitconnected.com/event-sourcing-under-concurrent-writes-89396e373b71?source=rss------programming-5) (2026-06-21)
-- [Implementing Server-Sent Events in Angular with Signals](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-with-signals-45472993178f?source=rss------programming-5) (2026-06-21)
-- [Senior engineers don’t write better code. They write code differently.](https://medium.com/@zaps.design/senior-engineers-dont-write-better-code-they-write-code-differently-0daa34e6b7a0?source=rss------programming-5) (2026-06-21)
+- [Flutter Apps Don’t Become Slow Overnight](https://medium.com/@tiger.chirag/flutter-apps-dont-become-slow-overnight-widget-optimization-2357a794108d?source=rss------programming-5) (2026-06-22)
+- [Never Ignore THESE 4 Career Growth Factors in the Corporate World](https://medium.com/@gaddamnaveen192/never-ignore-these-4-career-growth-factors-in-the-corporate-world-02b3d0c7d50d?source=rss------programming-5) (2026-06-22)
+- [Top 10 PHP Bugs Every Beginner Makes (And How to Fix Them)](https://medium.com/@bikkisingh/top-10-php-bugs-every-beginner-makes-and-how-to-fix-them-8e6c677b3721?source=rss------programming-5) (2026-06-22)
+- [Best Ways to Make Money Online in 2026](https://medium.com/@sajidgraphicsdesigner1/best-ways-to-make-money-online-in-2026-45106839c201?source=rss------programming-5) (2026-06-22)
+- [A Deep Dive Into Lexical Environments, Closures, And How They Affect Your Application’s Memory](https://medium.com/codetodeploy/a-deep-dive-into-lexical-environments-closures-and-how-they-affect-your-applications-memory-25c3e7466bab?source=rss------programming-5) (2026-06-22)
 
 </details>
 
