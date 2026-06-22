@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Ethan Thornton is trying to do everything all at once](https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/) (2026-06-22)
 - [Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/) (2026-06-21)
 - [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/) (2026-06-21)
 - [TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/) (2026-06-21)
 - [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) (2026-06-21)
-- [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) (2026-06-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b) (2026-06-22)
+- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224) (2026-06-22)
+- [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time) (2026-06-22)
+- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/) (2026-06-22)
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/) (2026-06-22)
 - [Sakana Fugu](https://sakana.ai/fugu/) (2026-06-22)
-- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/) (2026-06-22)
-- [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/) (2026-06-21)
-- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) (2026-06-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps) (2026-06-22)
 - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company) (2026-06-21)
 - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review) (2026-06-21)
 - [Polymarket reportedly paid people to post fake videos of themselves placing bets](https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets) (2026-06-21)
 - [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history) (2026-06-21)
-- [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits) (2026-06-21)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Inside the world’s deepest and longest subsea road tunnel](https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/) (2026-06-22)
 - [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/) (2026-06-19)
 - [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) (2026-06-19)
 - [The inevitable weakness of metrics](https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/) (2026-06-19)
 - [Brain-computer interface trials are taking off](https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/) (2026-06-19)
-- [The Download: a new hunt for dark matter and Kenya’s case for going solar](https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/) (2026-06-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When should you publish a dev post? I counted, and JP vs EN are mirror images](https://dev.to/jun_uen0/when-should-you-publish-a-dev-post-i-counted-and-jp-vs-en-are-mirror-images-2pc7) (2026-06-22)
-- [What 60+ Claude Code memory entries taught me about solo ops](https://dev.to/solosre/what-60-claude-code-memory-entries-taught-me-about-solo-ops-18eo) (2026-06-22)
-- [[Rust Guide] 13.5. Iterators - Definitions, the Iterator Trait, and the Next Method](https://dev.to/someb1oody/rust-guide-135-iterators-definitions-the-iterator-trait-and-the-next-method-3h93) (2026-06-22)
-- [Archive — A Narrative Investigation Game About Curating Human History](https://dev.to/adodanieln/archive-a-narrative-investigation-game-about-curating-human-history-1ca0) (2026-06-22)
-- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97) (2026-06-22)
+- [Why most MySQL to PostgreSQL converters break — and how real engines fix it](https://dev.to/hamidi_rasim_695ebc2f47a5/why-most-mysql-to-postgresql-converters-break-and-how-real-engines-fix-it-3nn4) (2026-06-22)
+- [Stop OpenAI Codex Writing 640 TB/Year to Your SSD](https://dev.to/indra_gustiprasetya_a80a/stop-openai-codex-writing-640-tbyear-to-your-ssd-2j8d) (2026-06-22)
+- [How I add Polar (Merchant of Record) + Stripe to any Next.js app in 10 minutes — without an SDK](https://dev.to/cekuu35/how-i-add-polar-merchant-of-record-stripe-to-any-nextjs-app-in-10-minutes-without-an-sdk-4o8l) (2026-06-22)
+- [How Data Moves in a Connected Factory: From Sensor to Dashboard](https://dev.to/promeraki-developments/how-data-moves-in-a-connected-factory-from-sensor-to-dashboard-4hap) (2026-06-22)
+- [What 'production-ready' actually means for a Next.js template — a single-source-of-truth architecture](https://dev.to/cekuu35/what-production-ready-actually-means-for-a-nextjs-template-a-single-source-of-truth-963) (2026-06-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Flutter Apps Don’t Become Slow Overnight](https://medium.com/@tiger.chirag/flutter-apps-dont-become-slow-overnight-widget-optimization-2357a794108d?source=rss------programming-5) (2026-06-22)
-- [Never Ignore THESE 4 Career Growth Factors in the Corporate World](https://medium.com/@gaddamnaveen192/never-ignore-these-4-career-growth-factors-in-the-corporate-world-02b3d0c7d50d?source=rss------programming-5) (2026-06-22)
-- [Top 10 PHP Bugs Every Beginner Makes (And How to Fix Them)](https://medium.com/@bikkisingh/top-10-php-bugs-every-beginner-makes-and-how-to-fix-them-8e6c677b3721?source=rss------programming-5) (2026-06-22)
-- [Best Ways to Make Money Online in 2026](https://medium.com/@sajidgraphicsdesigner1/best-ways-to-make-money-online-in-2026-45106839c201?source=rss------programming-5) (2026-06-22)
-- [A Deep Dive Into Lexical Environments, Closures, And How They Affect Your Application’s Memory](https://medium.com/codetodeploy/a-deep-dive-into-lexical-environments-closures-and-how-they-affect-your-applications-memory-25c3e7466bab?source=rss------programming-5) (2026-06-22)
+- [Data Science: The Skill That Powers the Future](https://medium.com/@vineethagadhe5/data-science-the-skill-that-powers-the-future-91fb0f4f07f9?source=rss------programming-5) (2026-06-22)
+- [VibeThinker 3B : 3B LLM beats DeepSeek, GPT, GLM](https://medium.com/data-science-in-your-pocket/vibethinker-3b-3b-llm-beats-deepseek-gpt-glm-85c87ecda389?source=rss------programming-5) (2026-06-22)
+- [Everyone Recommends Tkinter — But I Switched to This Instead](https://blog.stackademic.com/everyone-recommends-tkinter-but-i-switched-to-this-instead-4408d039eaa3?source=rss------programming-5) (2026-06-22)
+- [I Asked AI to Replace Me as a Programmer. What Happened Next Was Unexpected](https://medium.com/@sanchitgangwar457/i-asked-ai-to-replace-me-as-a-programmer-what-happened-next-was-unexpected-21a2131c2531?source=rss------programming-5) (2026-06-22)
+- [I Built the Same Desktop App in 6 Python Frameworks — Here’s the Winner](https://python.plainenglish.io/i-built-the-same-desktop-app-in-6-python-frameworks-heres-the-winner-0a6072e43f15?source=rss------programming-5) (2026-06-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) (2026-06-22)
 - [How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability](https://blogs.nvidia.com/blog/ferc-large-load-interconnection/) (2026-06-18)
 - [At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI](https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/) (2026-06-18)
 - [Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices](https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/) (2026-06-18)
 - [France Advances Europe’s AI Future With NVIDIA Technologies](https://blogs.nvidia.com/blog/france-advances-europes-ai-future/) (2026-06-18)
-- [Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses](https://blogs.nvidia.com/blog/nvidia-xr-ai/) (2026-06-16)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
-- [Coding Agent Horror Stories: The 13-Hour AWS Outage](https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/) (2026-06-18)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) (2026-06-05)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [PHP Version Migration That Doesn’t Break Everything](https://blog.jetbrains.com/qodana/2026/06/php-version-migration/) (2026-06-22)
 - [Bamboo End of Life: How to Prepare and Choose the Right CI/CD Replacement](https://blog.jetbrains.com/teamcity/2026/06/bamboo-end-of-life/) (2026-06-19)
 - [Structuring IntelliJ Plugins with Optional Content Modules](https://blog.jetbrains.com/platform/2026/06/structuring-intellij-plugins-with-optional-content-modules/) (2026-06-19)
 - [YouTrack Security Update: Upgrade Required for YouTrack Server](https://blog.jetbrains.com/youtrack/2026/06/youtrack-security-update-youtrack-server-upgrade-required/) (2026-06-19)
 - [Qodana Is a Finalist in the 2026 CODiE Awards for Best DevOps Tool](https://blog.jetbrains.com/qodana/2026/06/qodana-is-a-finalist-in-the-2026-codie-awards-for-best-devops-tool/) (2026-06-18)
-- [JetBrains Marketplace Ecosystem Security Update: Addressing Malicious Third-Party AI Plugins](https://blog.jetbrains.com/platform/2026/06/marketplace-ecosystem-security-update-malicious-ai-plugins/) (2026-06-17)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Sakana Fugu Ultra now available on AI Gateway](https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway) (2026-06-22)
 - [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-17)
 - [The Agent Stack](https://vercel.com/blog/agent-stack) (2026-06-17)
 - [Introducing Vercel Connect](https://vercel.com/blog/introducing-vercel-connect) (2026-06-17)
 - [Introducing eve](https://vercel.com/blog/introducing-eve) (2026-06-17)
-- [CLI deployment limits removed](https://vercel.com/changelog/cli-deployment-limits-removed) (2026-06-17)
 
 </details>
 
@@ -426,11 +426,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Evolving Agentic Engineering at Prisma](https://www.prisma.io/blog/evolving-agentic-engineering-at-prisma) (2026-06-22)
 - [App Hosting and Compute Platforms for AI Agents in 2026](https://www.prisma.io/blog/app-hosting-compute-platforms-for-ai-agents-2026) (2026-06-19)
 - [How I Built a Chat App That Never Drops a Token](https://www.prisma.io/blog/building-open-chat) (2026-06-19)
 - [Deploy Prisma Apps with create-prisma](https://www.prisma.io/blog/create-prisma-deploy-prisma-compute) (2026-06-19)
 - [Image Transformations with Bun on Prisma Compute](https://www.prisma.io/blog/image-transformations-with-bun-on-prisma-compute) (2026-06-19)
-- [Configure Prisma Compute deploys in TypeScript](https://www.prisma.io/blog/prisma-compute-config-file) (2026-06-19)
 
 </details>
 
@@ -545,17 +545,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
-- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
-- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
-- [HSBC expands AI banking partnership with Google Cloud](https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/) (2026-06-18)
-- [Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.](https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/) (2026-06-18)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Tool Calling, Explained: How AI Agents Decide What to Do Next](https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/) (2026-06-21)
@@ -569,11 +558,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude’s Hidden Art Skill: Making Illustrations With Code](https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/) (2026-06-22)
 - [System Design for ML Interviews: 10 Real Problems Walked Through](https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/) (2026-06-19)
 - [Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-tips-and-features/) (2026-06-18)
 - [OpenAI Just Launched 3 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/) (2026-06-17)
 - [Autoregressive Models: Predicting the Future Using the Past](https://www.analyticsvidhya.com/blog/2026/06/autoregressive-models-explained/) (2026-06-16)
-- [Gemini Omni: AI Video Generation Inside Gemini](https://www.analyticsvidhya.com/blog/2026/06/gemini-omni-ai-video-generation/) (2026-06-12)
 
 </details>
 
