@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup](https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/) (2026-06-22)
-- [Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app](https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/) (2026-06-22)
-- [The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/) (2026-06-22)
-- [Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’](https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/) (2026-06-22)
-- [Seedcamp raises $320M for its new fund to expand its US footprint](https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/) (2026-06-22)
+- [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/) (2026-06-22)
+- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/) (2026-06-22)
+- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/) (2026-06-22)
+- [Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/) (2026-06-22)
+- [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/) (2026-06-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0) (2026-06-22)
-- [Claude Code's "extended thinking" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/) (2026-06-22)
-- [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/) (2026-06-22)
-- [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/) (2026-06-22)
-- [Never Give Them Your Face](https://nevergivethemyourface.com/) (2026-06-22)
+- [Walt Disney Company is the most successful at monetizing human nostalgia](https://www.acquired.fm/episodes/the-walt-disney-company) (2026-06-22)
+- [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/) (2026-06-22)
+- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/) (2026-06-22)
+- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes) (2026-06-22)
+- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) (2026-06-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [RingConn&#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum](https://www.theverge.com/gadgets/953655/ringconn-lord-of-the-rings) (2026-06-22)
-- [AMD releases FSR 4.1 upscaling for older graphics cards](https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3) (2026-06-22)
-- [The Nintendo Switch 2 is up to $50 off for Prime Day](https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot) (2026-06-22)
-- [Apple’s latest AirTags are cheaper than ever for Prime Day](https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026) (2026-06-22)
-- [WhatsApp head Will Cathcart is stepping down after seven years](https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred) (2026-06-22)
+- [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings) (2026-06-22)
+- [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale) (2026-06-22)
+- [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix) (2026-06-22)
+- [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership) (2026-06-22)
+- [Valve is working with AMD to bring FSR 4 to the Steam Machine](https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet](https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/) (2026-06-22)
+- [NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home](https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/) (2026-06-22)
 - [Lucid lays off 1,500 workers in second big cut of the year](https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/) (2026-06-22)
 - [A US military exercise in space got underway with barely anyone noticing](https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/) (2026-06-22)
 - [1,250 hp hybrid Corvette shatters the Pikes Peak production record](https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/) (2026-06-22)
-- [This former hacker saw the light—and now wants to collect all of it](https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/) (2026-06-22)
-- [How Anthropic may have talked itself into an AI export ban](https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) (2026-06-22)
 - [The Download: record-breaking subsea tunnels and flexible data centers](https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/) (2026-06-22)
 - [Inside the world’s deepest and longest subsea road tunnel](https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/) (2026-06-22)
 - [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/) (2026-06-19)
 - [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) (2026-06-19)
-- [The inevitable weakness of metrics](https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [From pledge to practice: Building a more inclusive open source ecosystem](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/) (2026-06-22)
 - [How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) (2026-06-19)
 - [How pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) (2026-06-18)
 - [Getting more from each token: How Copilot improves context handling and model routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/) (2026-06-17)
 - [What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/) (2026-06-16)
-- [GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/) (2026-06-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [You Don't Have a Git Problem. You Have a Context Problem.](https://dev.to/kandeepa_sundaram/you-dont-have-a-git-problem-you-have-a-context-problem-1co2) (2026-06-22)
-- [Syntax is cheap, logic is hard: Why Linus Torvalds’ view of AI proves ‘vibe coding’ is a dead end.](https://dev.to/itzzsvr_tech74/linus-torvalds-is-right-ai-is-a-compiler-not-a-coder-and-why-vibe-coding-wont-survive-41eb) (2026-06-22)
-- [Are We Ignoring Cryptography's Golden Age?](https://dev.to/prabashanadev/are-we-ignoring-cryptographys-golden-age-5h) (2026-06-22)
-- [Azure DevOps issuer in WIF service connections heads for July 2027 retirement](https://dev.to/leobaniak/azure-devops-issuer-in-wif-service-connections-heads-for-july-2027-retirement-4al5) (2026-06-22)
-- [Top AI Papers on Hugging Face - 2026-06-22](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-22-402b) (2026-06-22)
+- [The 3% rule: how AMD accuracy keeps you TCPA-compliant](https://dev.to/nikolai_boutvine_3091a640/the-3-rule-how-amd-accuracy-keeps-you-tcpa-compliant-1k80) (2026-06-22)
+- [How I Built the Cloud Resume Challenge (And What Actually Tripped Me Up)](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo) (2026-06-22)
+- [. .. . ... . .... . .... . ... .](https://dev.to/lovestaco/--2kb7) (2026-06-22)
+- [I am behind, and I can't prove it but does it matter?](https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6) (2026-06-22)
+- [The LLM is an ALU](https://dev.to/matatbread/the-llm-is-an-alu-12c8) (2026-06-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python series 8a](https://medium.com/@Commoness/python-series-8a-72a8dcef829b?source=rss------programming-5) (2026-06-22)
-- [Google L5 SQL Interview: Optimizing a 10-Table Join](https://cloudwithazeem.medium.com/google-l5-sql-interview-optimizing-a-10-table-join-dd81c310f09f?source=rss------programming-5) (2026-06-22)
-- [Your Laptop Is Smarter Thank You Think — And It’s About to Prove It](https://medium.com/codetodeploy/your-laptop-is-smarter-thank-you-think-and-its-about-to-prove-it-a68b125e2495?source=rss------programming-5) (2026-06-22)
-- [From Empty Repo to Live Azure App: Building With a Team of AI Coding Agents](https://medium.com/codetodeploy/from-empty-repo-to-live-azure-app-building-with-a-team-of-ai-coding-agents-a6cb69b5950c?source=rss------programming-5) (2026-06-22)
-- [Understanding the Working of print() and input() Functions in Python](https://medium.com/@alvinreji851/understanding-the-working-of-print-and-input-functions-in-python-6ee7cd2a1e9e?source=rss------programming-5) (2026-06-22)
+- [Building a JavaScript interpreter, part 1 — Parsing with Pratt](https://medium.com/@vincentcorbee/building-a-javascript-interpreter-part-1-parsing-with-pratt-7f1e4a8a7a97?source=rss------programming-5) (2026-06-22)
+- [Unlocking the Flag Vault: A Complete TryHackMe Reverse Engineering Walkthrough](https://medium.com/@antor.csecu/unlocking-the-flag-vault-a-complete-tryhackme-reverse-engineering-walkthrough-d97173dcfcbe?source=rss------programming-5) (2026-06-22)
+- [Xiaomi MiMo-V2.5: Scaling Multimodal AI and Open-Source Reasoning](https://medium.com/@jiten.p.oswal/xiaomi-mimo-v2-5-scaling-multimodal-ai-and-open-source-reasoning-2c5bd36820b6?source=rss------programming-5) (2026-06-22)
+- [.NET Software Development for Medical Devices — Part 2](https://todayamerican.medium.com/net-software-development-for-medical-devices-part-2-aa23278e6b7d?source=rss------programming-5) (2026-06-22)
+- [.NET Software Development for Medical Devices — end to end code example](https://todayamerican.medium.com/net-software-development-for-medical-devices-end-to-end-code-example-10661688b02a?source=rss------programming-5) (2026-06-22)
 
 </details>
 
@@ -339,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel CLI now supports signing blob URLs](https://vercel.com/changelog/vercel-cli-now-supports-signing-blob-urls) (2026-06-22)
+- [Increased limit for projects per Git repo](https://vercel.com/changelog/increased-limit-for-projects-per-git-repo) (2026-06-22)
+- [WebSocket support is now in Public Beta](https://vercel.com/changelog/websocket-support-is-now-in-public-beta) (2026-06-22)
 - [Sakana Fugu Ultra now available on AI Gateway](https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway) (2026-06-22)
 - [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-17)
-- [The Agent Stack](https://vercel.com/blog/agent-stack) (2026-06-17)
-- [Introducing Vercel Connect](https://vercel.com/blog/introducing-vercel-connect) (2026-06-17)
-- [Introducing eve](https://vercel.com/blog/introducing-eve) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/) (2026-06-22)
 - [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) (2026-06-19)
 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) (2026-06-18)
 - [Celebrating 12 years of Project Galileo](https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/) (2026-06-18)
 - [Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue](https://blog.cloudflare.com/agents-platform-flue-sdk/) (2026-06-17)
-- [Introducing the Cloudflare One stack: agent-powered deployment](https://blog.cloudflare.com/cloudflare-one-stack/) (2026-06-17)
 
 </details>
 
@@ -392,12 +392,12 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Passkey Adoption Is Rising, but Is It Worth It Yet?](https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/) (2026-06-22)
 - [The Part of Software Engineering AI Cannot Replace
 ](https://auth0.com/blog/part-of-software-engineering-ai-cannot-replace/) (2026-06-18)
 - [LLMjacking and the Hidden Cost of a Stolen API Key](https://auth0.com/blog/llmjacking-stolen-api-key-hidden-cost/) (2026-06-18)
 - [AI Agents Are Not Users: Building an Identity Model That Reflects That](https://auth0.com/blog/ai-agents-are-not-users/) (2026-06-17)
 - [Accelerating Developer Velocity: Announcing Auth0's Native Integration with Vercel](https://auth0.com/blog/auth0-native-integration-with-vercel/) (2026-06-15)
-- [Implementing the Device Authorization Flow in a C# Console App](https://auth0.com/blog/implementing-the-device-authorization-flow-in-a-csharp-console-app/) (2026-06-12)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily Work](https://www.kdnuggets.com/2026/06/abacus/abacus-ai-chatllm-review) (2026-06-22)
 - [Here’s What Everyone Gets Wrong About Agentic AI](https://www.kdnuggets.com/heres-what-everyone-gets-wrong-about-agentic-ai) (2026-06-22)
 - [3 NLTK Tricks for Advanced Text Preprocessing & Linguistic Analysis](https://www.kdnuggets.com/3-nltk-tricks-for-advanced-text-preprocessing-linguistic-analysis) (2026-06-22)
 - [Loss Function Explained For Noobs (How Models Know They Are Wrong)](https://www.kdnuggets.com/noob-series-loss-function-explained-how-models-know-they-are-wrong) (2026-06-19)
 - [Practical SQL Tricks Every Data Scientist Should Know](https://www.kdnuggets.com/practical-sql-tricks-every-data-scientist-should-know) (2026-06-19)
-- [Python Dictionary Tips and Tricks You Should Always Remember](https://www.kdnuggets.com/python-dictionary-tips-and-tricks-you-should-always-remember) (2026-06-19)
 
 </details>
 
