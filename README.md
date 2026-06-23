@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/) (2026-06-22)
-- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/) (2026-06-22)
-- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/) (2026-06-22)
-- [Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/) (2026-06-22)
-- [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/) (2026-06-22)
+- [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-06-23)
+- [OpenAI launches new initiative to help find and patch open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) (2026-06-23)
+- [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/) (2026-06-22)
+- [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/) (2026-06-22)
+- [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/) (2026-06-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Walt Disney Company is the most successful at monetizing human nostalgia](https://www.acquired.fm/episodes/the-walt-disney-company) (2026-06-22)
-- [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/) (2026-06-22)
-- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/) (2026-06-22)
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes) (2026-06-22)
-- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) (2026-06-22)
+- [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses) (2026-06-23)
+- [In Praise of Memcached](https://jchri.st/blog/in-praise-of-memcached/) (2026-06-23)
+- [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/) (2026-06-23)
+- [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs) (2026-06-22)
+- [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2) (2026-06-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling) (2026-06-22)
+- [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis) (2026-06-22)
 - [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings) (2026-06-22)
 - [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale) (2026-06-22)
 - [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix) (2026-06-22)
-- [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership) (2026-06-22)
-- [Valve is working with AMD to bring FSR 4 to the Steam Machine](https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet](https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/) (2026-06-22)
-- [NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home](https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/) (2026-06-22)
-- [Lucid lays off 1,500 workers in second big cut of the year](https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/) (2026-06-22)
-- [A US military exercise in space got underway with barely anyone noticing](https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/) (2026-06-22)
-- [1,250 hp hybrid Corvette shatters the Pikes Peak production record](https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/) (2026-06-22)
+- [GM installs robots at flagship EV factory after laying off 1,300 workers](https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/) (2026-06-22)
+- [Report: Kennedy Space Center not ready for era of super heavy rockets](https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/) (2026-06-22)
+- [Man used massage gun on his tired eyeballs. It went as well as you'd expect.](https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/) (2026-06-22)
+- [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/) (2026-06-22)
+- [Following user outcry, AMD reinstates memory encryption in consumer CPUs](https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/) (2026-06-22)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The 3% rule: how AMD accuracy keeps you TCPA-compliant](https://dev.to/nikolai_boutvine_3091a640/the-3-rule-how-amd-accuracy-keeps-you-tcpa-compliant-1k80) (2026-06-22)
-- [How I Built the Cloud Resume Challenge (And What Actually Tripped Me Up)](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo) (2026-06-22)
-- [. .. . ... . .... . .... . ... .](https://dev.to/lovestaco/--2kb7) (2026-06-22)
-- [I am behind, and I can't prove it but does it matter?](https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6) (2026-06-22)
-- [The LLM is an ALU](https://dev.to/matatbread/the-llm-is-an-alu-12c8) (2026-06-22)
+- [Plasmo vs CRXJS vs WXT: Which Chrome Extension Framework Should You Use in 2026?](https://dev.to/quangpl/plasmo-vs-crxjs-vs-wxt-which-chrome-extension-framework-should-you-use-in-2026-37o4) (2026-06-23)
+- [Building the future for benefits tracking](https://dev.to/dylenbelanger/building-the-future-for-benefits-tracking-163k) (2026-06-23)
+- [Routing Hermes Agent Through a Local Headroom Proxy for Context Compression](https://dev.to/windhood-jza/routing-hermes-agent-through-a-local-headroom-proxy-for-context-compression-78f) (2026-06-23)
+- [How I built my own Turing-complete programming language engine from scratch using Go 🚀](https://dev.to/alejandrofinkelberg62/how-i-built-my-own-turing-complete-programming-language-engine-from-scratch-using-go-2dia) (2026-06-23)
+- [Foward Proxy / Reverse Proxy / SSL TLS Termination](https://dev.to/rohitsharmaj7/foward-proxy-reverse-proxy-ssl-tls-termination-mfh) (2026-06-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a JavaScript interpreter, part 1 — Parsing with Pratt](https://medium.com/@vincentcorbee/building-a-javascript-interpreter-part-1-parsing-with-pratt-7f1e4a8a7a97?source=rss------programming-5) (2026-06-22)
-- [Unlocking the Flag Vault: A Complete TryHackMe Reverse Engineering Walkthrough](https://medium.com/@antor.csecu/unlocking-the-flag-vault-a-complete-tryhackme-reverse-engineering-walkthrough-d97173dcfcbe?source=rss------programming-5) (2026-06-22)
-- [Xiaomi MiMo-V2.5: Scaling Multimodal AI and Open-Source Reasoning](https://medium.com/@jiten.p.oswal/xiaomi-mimo-v2-5-scaling-multimodal-ai-and-open-source-reasoning-2c5bd36820b6?source=rss------programming-5) (2026-06-22)
-- [.NET Software Development for Medical Devices — Part 2](https://todayamerican.medium.com/net-software-development-for-medical-devices-part-2-aa23278e6b7d?source=rss------programming-5) (2026-06-22)
-- [.NET Software Development for Medical Devices — end to end code example](https://todayamerican.medium.com/net-software-development-for-medical-devices-end-to-end-code-example-10661688b02a?source=rss------programming-5) (2026-06-22)
+- [From Legacy .NET Framework to Cloud-Native .NET: Lessons From a Real Migration](https://medium.com/c-sharp-programming/from-legacy-net-framework-to-cloud-native-net-lessons-from-a-real-migration-c2d5c7e39995?source=rss------programming-5) (2026-06-23)
+- [Senior Cloud and DevOps Engineer Interview Questions: 2026](https://medium.com/@preetjit82/senior-cloud-and-devops-engineer-interview-questions-2026-cab31b14022f?source=rss------programming-5) (2026-06-23)
+- [20 Production Debugging Questions for Senior Java Interviews](https://medium.com/@preetjit82/20-production-debugging-questions-for-senior-java-interviews-ec7ee55544da?source=rss------programming-5) (2026-06-23)
+- [Starting Out in Public](https://medium.com/@adejuwonvictor/starting-out-in-public-0773a3a5a38f?source=rss------programming-5) (2026-06-23)
+- [Day 42: You Don’t Need Any Other Linux Firewall Tutorial After This](https://pawannatekar220.medium.com/day-42-you-dont-need-any-other-linux-firewall-tutorial-after-this-9d9b33ade7ed?source=rss------programming-5) (2026-06-23)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) (2026-06-22)
 - [AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/) (2026-06-22)
 - [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
 - [Amazon ECS introduces new high-resolution metrics for faster service auto scaling](https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/) (2026-06-18)
 - [Top announcements of the AWS Summit in New York, 2026](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/) (2026-06-17)
-- [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/) (2026-06-17)
 
 </details>
 
@@ -223,6 +223,17 @@
 - [When history fails you, borrow from geography](https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4) (2026-06-02)
 - [Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure](https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4) (2026-05-19)
 - [Viaduct 1.0 and the future of Airbnb’s data mesh](https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4) (2026-05-13)
+
+</details>
+
+<details>
+<summary>🎬 Netflix Tech Blog</summary>
+
+- [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4) (2026-06-23)
+- [How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4) (2026-06-22)
+- [The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4) (2026-06-19)
+- [Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4) (2026-06-19)
+- [Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning](https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4) (2026-06-19)
 
 </details>
 
@@ -339,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Deploy from Claude Design to Vercel](https://vercel.com/changelog/claude-design-and-vercel) (2026-06-23)
+- [Vercel Flags: Platform-native feature flags](https://vercel.com/blog/vercel-flags-platform-native-feature-flags) (2026-06-22)
 - [Vercel CLI now supports signing blob URLs](https://vercel.com/changelog/vercel-cli-now-supports-signing-blob-urls) (2026-06-22)
 - [Increased limit for projects per Git repo](https://vercel.com/changelog/increased-limit-for-projects-per-git-repo) (2026-06-22)
 - [WebSocket support is now in Public Beta](https://vercel.com/changelog/websocket-support-is-now-in-public-beta) (2026-06-22)
-- [Sakana Fugu Ultra now available on AI Gateway](https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway) (2026-06-22)
-- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-17)
 
 </details>
 
@@ -541,17 +552,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora) (2026-06-18)
 - [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Mitigating vendor lock-in with Sakana AI Fugu multi-agent models](https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/) (2026-06-22)
-- [L’Oréal brings Maybelline virtual try-on to ChatGPT](https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/) (2026-06-22)
-- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
-- [e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments](https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/) (2026-06-19)
-- [Computer vision deployments drive retail productivity gains](https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/) (2026-06-18)
 
 </details>
 
