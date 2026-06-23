@@ -10,7 +10,7 @@
 <summary>🚀 TechCrunch</summary>
 
 - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-06-23)
-- [OpenAI launches new initiative to help find and patch open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) (2026-06-23)
+- [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) (2026-06-23)
 - [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/) (2026-06-22)
 - [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/) (2026-06-22)
 - [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/) (2026-06-22)
@@ -20,44 +20,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses) (2026-06-23)
-- [In Praise of Memcached](https://jchri.st/blog/in-praise-of-memcached/) (2026-06-23)
-- [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/) (2026-06-23)
-- [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs) (2026-06-22)
-- [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2) (2026-06-22)
+- [Gemini models increasingly stucking in thinking loop](https://news.ycombinator.com/item?id=48642229) (2026-06-23)
+- [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization) (2026-06-23)
+- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/) (2026-06-23)
+- [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html) (2026-06-23)
+- [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux) (2026-06-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure](https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure) (2026-06-23)
 - [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling) (2026-06-22)
 - [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis) (2026-06-22)
 - [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings) (2026-06-22)
 - [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale) (2026-06-22)
-- [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [With Starfall, SpaceX eyes an edge in global cargo delivery from orbit](https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/) (2026-06-23)
 - [GM installs robots at flagship EV factory after laying off 1,300 workers](https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/) (2026-06-22)
 - [Report: Kennedy Space Center not ready for era of super heavy rockets](https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/) (2026-06-22)
 - [Man used massage gun on his tired eyeballs. It went as well as you'd expect.](https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/) (2026-06-22)
 - [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/) (2026-06-22)
-- [Following user outcry, AMD reinstates memory encryption in consumer CPUs](https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/) (2026-06-23)
+- [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) (2026-06-23)
 - [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) (2026-06-22)
 - [The Download: record-breaking subsea tunnels and flexible data centers](https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/) (2026-06-22)
 - [Inside the world’s deepest and longest subsea road tunnel](https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/) (2026-06-22)
-- [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/) (2026-06-19)
-- [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/) (2026-06-19)
 
 </details>
 
@@ -75,33 +75,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Oh the places you’ll go with spatial data​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/) (2026-06-23)
 - [Dispatches from O'Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/) (2026-06-19)
 - [You don’t understand DNS like you think you do​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌‌‌‍​﻿​﻿‌‌‌‍​‌​﻿​‍​﻿‍‌​﻿‍​​‍﻿‌​﻿​‍​﻿​‍​﻿​​​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‌﻿​‍﻿‌‌‍​‍​﻿‍​‌‍‌​‌‍​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍​‍‌‍​‌​﻿‌‌​﻿​﻿​﻿​‌‌‍​‌‌‍‌​‌‍​﻿​﻿‌‌​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿‌‍‌‌‌‍​﻿​﻿‌‌‌‍​‌​﻿​‍​﻿‍‌​﻿‍​​‍﻿‌​﻿​‍​﻿​‍​﻿​​​﻿​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿​​​﻿‌﻿​‍﻿‌‌‍​‍​﻿‍​‌‍‌​‌‍​﻿​‍﻿‌​﻿‍‌​﻿‌‌‌‍​‍‌‍​‌​﻿‌‌​﻿​﻿​﻿​‌‌‍​‌‌‍‌​‌‍​﻿​﻿‌‌​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/) (2026-06-19)
 - [The new bottleneck​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/18/the-new-bottleneck/) (2026-06-18)
 - [AI agents are a confused deputy with the keys to your kingdom​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/) (2026-06-17)
-- [If context is king, architecture is the castle​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​‍​﻿​﻿‌‍​﻿​﻿​​​﻿‍‌‌‍​‍​﻿​‍​‍﻿‌​﻿‌​​﻿​‌​﻿​﻿‌‍‌​​‍﻿‌​﻿‌​‌‍​‌​﻿‌﻿​﻿​​​‍﻿‌​﻿‍‌‌‍​‌‌‍​‍‌‍​﻿​‍﻿‌‌‍‌‌​﻿‌​​﻿​﻿‌‍‌​​﻿​‌‌‍​‍​﻿‌﻿​﻿​​​﻿‌‍‌‍‌‍​﻿‌‍​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/) (2026-06-16)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Plasmo vs CRXJS vs WXT: Which Chrome Extension Framework Should You Use in 2026?](https://dev.to/quangpl/plasmo-vs-crxjs-vs-wxt-which-chrome-extension-framework-should-you-use-in-2026-37o4) (2026-06-23)
-- [Building the future for benefits tracking](https://dev.to/dylenbelanger/building-the-future-for-benefits-tracking-163k) (2026-06-23)
-- [Routing Hermes Agent Through a Local Headroom Proxy for Context Compression](https://dev.to/windhood-jza/routing-hermes-agent-through-a-local-headroom-proxy-for-context-compression-78f) (2026-06-23)
-- [How I built my own Turing-complete programming language engine from scratch using Go 🚀](https://dev.to/alejandrofinkelberg62/how-i-built-my-own-turing-complete-programming-language-engine-from-scratch-using-go-2dia) (2026-06-23)
-- [Foward Proxy / Reverse Proxy / SSL TLS Termination](https://dev.to/rohitsharmaj7/foward-proxy-reverse-proxy-ssl-tls-termination-mfh) (2026-06-23)
+- [Togetherness 🙌 we can shine ✨️ 😎 
+Let's build teamwork together ❤️ 💜](https://dev.to/jok_makurjok_910a8512704/togetherness-we-can-shine-lets-build-teamwork-together-3638) (2026-06-23)
+- [After 8 Months with Codex CLI, Here Is My Advanced AI Coding Workflow](https://dev.to/codewalk/after-8-months-with-codex-cli-here-is-my-advanced-ai-coding-workflow-4j12) (2026-06-23)
+- [Humanoid Robots built 30,000 BMWs and cleaned Airport Terminals for $15,400. Here's why the Pilot Era is over.](https://dev.to/xberry-tech/humanoid-robots-built-30000-bmws-and-cleaned-airport-terminals-for-15400-heres-why-the-pilot-480p) (2026-06-23)
+- [How to Create a GitHub Pull Request from the Terminal](https://dev.to/tahsin000/how-to-create-a-github-pull-request-from-the-terminal-3a0g) (2026-06-23)
+- [I'm moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀](https://dev.to/thormeier/im-moving-house-what-gadgets-furniture-and-whatnot-do-i-need-for-the-ultimate-setup-5bp9) (2026-06-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Legacy .NET Framework to Cloud-Native .NET: Lessons From a Real Migration](https://medium.com/c-sharp-programming/from-legacy-net-framework-to-cloud-native-net-lessons-from-a-real-migration-c2d5c7e39995?source=rss------programming-5) (2026-06-23)
-- [Senior Cloud and DevOps Engineer Interview Questions: 2026](https://medium.com/@preetjit82/senior-cloud-and-devops-engineer-interview-questions-2026-cab31b14022f?source=rss------programming-5) (2026-06-23)
-- [20 Production Debugging Questions for Senior Java Interviews](https://medium.com/@preetjit82/20-production-debugging-questions-for-senior-java-interviews-ec7ee55544da?source=rss------programming-5) (2026-06-23)
-- [Starting Out in Public](https://medium.com/@adejuwonvictor/starting-out-in-public-0773a3a5a38f?source=rss------programming-5) (2026-06-23)
-- [Day 42: You Don’t Need Any Other Linux Firewall Tutorial After This](https://pawannatekar220.medium.com/day-42-you-dont-need-any-other-linux-firewall-tutorial-after-this-9d9b33ade7ed?source=rss------programming-5) (2026-06-23)
+- [Arch Linux Isn’t for Everyone—And That’s Exactly the Point](https://medium.com/linux-for-everyone/arch-linux-isnt-for-everyone-and-that-s-exactly-the-point-e971f04aa395?source=rss------programming-5) (2026-06-23)
+- [Luxury Residential Projects In Ghaziabad With Modern Infrastructure And Security](https://medium.com/@aliciasilverstone004/luxury-residential-projects-in-ghaziabad-with-modern-infrastructure-and-security-4be45cff8945?source=rss------programming-5) (2026-06-23)
+- [Top 4 BHK Flats In Noida Offering Comfort, Convenience, And Elegance](https://medium.com/@aliciasilverstone004/top-4-bhk-flats-in-noida-offering-comfort-convenience-and-elegance-1885fe61eaa5?source=rss------programming-5) (2026-06-23)
+- [I Built a Project Using Only AI Assistance — Here’s What Happened](https://medium.com/@manishaa.011103/i-built-a-project-using-only-ai-assistance-heres-what-happened-dfa6559318c5?source=rss------programming-5) (2026-06-23)
+- [Your API Isn’t Slow. Your Backend Structure Is.](https://medium.com/skillstuff/your-api-isnt-slow-your-backend-structure-is-38ac783f69d6?source=rss------programming-5) (2026-06-23)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers](https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/) (2026-06-23)
+- [NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/) (2026-06-23)
 - [At ISC, JUPITER Shows What Exascale Science Looks Like](https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/) (2026-06-22)
 - [NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure](https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/) (2026-06-22)
-- [From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries](https://blogs.nvidia.com/blog/ai-for-science-software-cuda/) (2026-06-22)
 - [NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory](https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/) (2026-06-22)
-- [Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins](https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/) (2026-06-22)
 
 </details>
 
@@ -373,6 +374,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+7 top customer data platforms for AI agents in 2026
+](
+https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
+) (2026-06-22)
+- [
 From Customer Intelligence to Customer Engagement
 ](
 https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence-to-customer-engagement
@@ -392,11 +398,6 @@ Voice Disaster Recovery Starts Before the Implementation
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cross-region-voice-recovery
 ) (2026-06-15)
-- [
-Top user authentication trends for 2026
-](
-https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
-) (2026-06-12)
 
 </details>
 
@@ -437,11 +438,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Search the Prisma Docs Using Your Coding Agent](https://www.prisma.io/blog/search-prisma-docs-from-your-coding-agent) (2026-06-23)
 - [Evolving Agentic Engineering at Prisma](https://www.prisma.io/blog/evolving-agentic-engineering-at-prisma) (2026-06-22)
 - [App Hosting and Compute Platforms for AI Agents in 2026](https://www.prisma.io/blog/app-hosting-compute-platforms-for-ai-agents-2026) (2026-06-19)
 - [How I Built a Chat App That Never Drops a Token](https://www.prisma.io/blog/building-open-chat) (2026-06-19)
 - [Deploy Prisma Apps with create-prisma](https://www.prisma.io/blog/create-prisma-deploy-prisma-compute) (2026-06-19)
-- [Image Transformations with Bun on Prisma Compute](https://www.prisma.io/blog/image-transformations-with-bun-on-prisma-compute) (2026-06-19)
 
 </details>
 
@@ -503,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>💬 Slack API</summary>
 
-- [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
-- [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
-- [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
-- [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
-- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
+- [The Best AI Productivity Tools for 2026](https://slack.com/blog/productivity/the-best-ai-productivity-tools-to-transform-your-workday) (2026-06-11)
+- [What is a Knowledge Base? How to Build One and More](https://slack.com/blog/collaboration/what-is-knowledge-base) (2026-06-11)
+- [Slack vs. Asana: Which Tool Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-asana) (2026-06-05)
+- [Slack vs. Mattermost: Which Is Right for Your Team?](https://slack.com/blog/compare/slack-vs-mattermost) (2026-06-05)
+- [Slack vs. Trello: Which Tool Is Better for Teams?](https://slack.com/blog/compare/slack-vs-trello) (2026-06-05)
 
 </details>
 
@@ -547,11 +548,11 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) (2026-06-23)
 - [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) (2026-06-22)
+- [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) (2026-06-22)
 - [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks) (2026-06-18)
 - [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora) (2026-06-18)
-- [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (2026-06-18)
-- [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) (2026-06-17)
 
 </details>
 
