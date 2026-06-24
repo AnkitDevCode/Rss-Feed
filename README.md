@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/) (2026-06-24)
 - [Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/) (2026-06-24)
 - [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/) (2026-06-23)
 - [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) (2026-06-23)
 - [After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/) (2026-06-23)
-- [Klue says hackers stole credential from 2022 that led to customer data breaches](https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/) (2026-06-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/) (2026-06-24)
-- [Show HN: Y – A malleable coding-agent desktop app built with Electron](https://github.com/y-times-y/y) (2026-06-24)
-- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) (2026-06-23)
-- [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) (2026-06-23)
-- [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b) (2026-06-23)
+- [Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn) (2026-06-24)
+- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) (2026-06-24)
+- ["Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf) (2026-06-24)
+- [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html) (2026-06-24)
+- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) (2026-06-24)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This flying solar-powered platform could deliver better internet from the air](https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/) (2026-06-24)
+- [All challenges big and small](https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/) (2026-06-24)
 - [Heads in the game](https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/) (2026-06-23)
 - [Super Mario is mathier than you think](https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/) (2026-06-23)
 - [A man of many words](https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/) (2026-06-23)
-- [Sharing a love for calculus](https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/) (2026-06-23)
-- [Stand Up for Research, Innovation, and Education](https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/) (2026-06-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Every Developer Should Learn Browser Automation in 2026](https://dev.to/annalilith/why-every-developer-should-learn-browser-automation-in-2026-238k) (2026-06-24)
-- [Building an AI-Powered Storefront with Python: A Complete Guide](https://dev.to/annalilith/building-an-ai-powered-storefront-with-python-a-complete-guide-569c) (2026-06-24)
-- [Building High-Converting Product Pages for Niche Fashion E-Commerce: A Developer's Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-converting-product-pages-for-niche-fashion-e-commerce-a-developers-guide-4m7o) (2026-06-24)
-- [Building High-Performance E-Commerce Sites for Niche Fashion: A Developer's Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-performance-e-commerce-sites-for-niche-fashion-a-developers-guide-3el1) (2026-06-24)
-- [Building a High-Performance E-commerce Store for Niche Markets: A Developer's Guide](https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-markets-a-developers-guide-165l) (2026-06-24)
+- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8) (2026-06-24)
+- [Google Lost the Transformer's Co-Author. Then AlphaFold. Same Week.](https://dev.to/peremptory/google-lost-the-transformers-co-author-then-alphafold-same-week-4fhl) (2026-06-24)
+- [Superhuman Buys GPTZero: What AI Detection Means for SL Students](https://dev.to/induwara_ashinsana_9e4d5b/superhuman-buys-gptzero-what-ai-detection-means-for-sl-students-45dh) (2026-06-24)
+- [Governance and Detection Tell You What Happened. Design Determines Whether It Matters.](https://dev.to/ndegwaduncan/governance-and-detection-tell-you-what-happened-design-determines-whether-it-matters-5g3b) (2026-06-24)
+- [From Confusion to Running My First Bittensor Miner: My Learning Journey Through HackQuest Co-Learning Camp #21](https://dev.to/roan911/from-confusion-to-running-my-first-bittensor-miner-my-learning-journey-through-hackquest-2307) (2026-06-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Migrated to Angular 22. These 8 Signals Patterns Reduced Re-Renders by 73%.](https://medium.com/@pmLearners/we-migrated-to-angular-22-these-8-signals-patterns-reduced-re-renders-by-73-f94bce388f8a?source=rss------programming-5) (2026-06-24)
-- [Why I Chose Claude Over Copilot for My Siebel Project](https://eshitanandy.medium.com/why-i-chose-claude-over-copilot-for-my-siebel-project-b872db636383?source=rss------programming-5) (2026-06-24)
-- [Docker Solved a Problem That Cost Developers Thousands of Hours](https://pawannatekar220.medium.com/docker-solved-a-problem-that-cost-developers-thousands-of-hours-044528b24096?source=rss------programming-5) (2026-06-24)
-- [The Biggest Message from Google I/O and KotlinConf Wasn’t Just About AI](https://pednekarshashank33.medium.com/the-biggest-message-from-google-i-o-and-kotlinconf-wasnt-just-about-ai-b5d741f7e747?source=rss------programming-5) (2026-06-24)
-- [7 Claude Code Workflows That Replaced Hours of Manual Development Every Week](https://ai.plainenglish.io/7-claude-code-workflows-that-replaced-hours-of-manual-development-every-week-f8f0b7f1b816?source=rss------programming-5) (2026-06-24)
+- [We have officially OPEN-SOURCED ProjectBrain.md — A persistent memory layer for your projects.](https://mindmux.medium.com/we-have-officially-open-sourced-projectbrain-md-a-persistent-memory-layer-for-your-projects-2d08fa0cb2fc?source=rss------programming-5) (2026-06-24)
+- [Deep Dive into USART_D: A High-Performance AVR Communication Library](https://medium.com/@muazdawud307_31605/deep-dive-into-usart-d-a-high-performance-avr-communication-library-770d47e9cd9f?source=rss------programming-5) (2026-06-24)
+- [Schema-as-Spec: Data Model as an Executable SDD Artifact at Enterprise Scale](https://medium.com/@wasowski.jarek/schema-as-spec-data-model-as-an-executable-sdd-artifact-at-enterprise-scale-4a44c47905c2?source=rss------programming-5) (2026-06-24)
+- [Building a Real-Time AI Research Assistant with LangChain + SERP API](https://medium.com/@thordata019/building-a-real-time-ai-research-assistant-with-langchain-serp-api-bddff2eee333?source=rss------programming-5) (2026-06-24)
+- [Elon Musk’s Crisis. Two Countries Banned It. Twelve More Investigated It.](https://medium.com/illumination/elon-musks-crisis-two-countries-banned-it-twelve-more-investigated-it-b770d9dad5fc?source=rss------programming-5) (2026-06-24)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [YouTrack Helpdesk Now Includes Customer Groups](https://blog.jetbrains.com/youtrack/2026/06/youtrack-helpdesk-now-includes-customer-groups/) (2026-06-24)
 - [How to Win a Hackathon: Notes From the Judging Table](https://blog.jetbrains.com/ai/2026/06/how-to-win-a-hackathon-notes-from-the-judging-table/) (2026-06-22)
 - [How We Measure the ROI of JetBrains IDEs](https://blog.jetbrains.com/research/2026/06/how-we-measure-the-roi-of-jetbrains-ides/) (2026-06-22)
 - [AWS Image Builder Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2026/06/teamcity-aws-ami-builder/) (2026-06-22)
 - [PHP Version Migration That Doesn’t Break Everything](https://blog.jetbrains.com/qodana/2026/06/php-version-migration/) (2026-06-22)
-- [Bamboo End of Life: How to Prepare and Choose the Right CI/CD Replacement](https://blog.jetbrains.com/teamcity/2026/06/bamboo-end-of-life/) (2026-06-19)
 
 </details>
 
@@ -354,7 +354,7 @@
 - [Custom OIDC Token Audiences](https://vercel.com/changelog/custom-oidc-token-audiences) (2026-06-23)
 - [Deploy from Claude Design to Vercel](https://vercel.com/changelog/claude-design-and-vercel) (2026-06-23)
 - [Redesigned trace viewer for Vercel Workflows](https://vercel.com/changelog/redesigned-trace-viewer-for-vercel-workflows) (2026-06-23)
-- [Vercel Flags: Platform-native feature flags](https://vercel.com/blog/vercel-flags-platform-native-feature-flags) (2026-06-22)
+- [Chat SDK adds Kapso support](https://vercel.com/changelog/chat-sdk-adds-kapso-support) (2026-06-22)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications with RCS
+](
+https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
+) (2026-06-26)
+- [
+What is AI customer memory? How it works & getting started
+](
+https://www.twilio.com/en-us/blog/insights/ai-customer-memory
+) (2026-06-23)
+- [
 7 top customer data platforms for AI agents in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
@@ -387,16 +397,6 @@ Architecting a CRM-Native Messaging Platform on Salesforce with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/architecting-crm-native-messaging-twilio-for-salesforce
 ) (2026-06-17)
-- [
-Zero to Global: Scaling AI-Native Startups with Twilio
-](
-https://www.twilio.com/en-us/blog/insights/ai-natives
-) (2026-06-17)
-- [
-Voice Disaster Recovery Starts Before the Implementation
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cross-region-voice-recovery
-) (2026-06-15)
 
 </details>
 
