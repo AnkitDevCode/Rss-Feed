@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/) (2026-06-24)
+- [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/) (2026-06-23)
+- [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) (2026-06-23)
 - [After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/) (2026-06-23)
 - [Klue says hackers stole credential from 2022 that led to customer data breaches](https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/) (2026-06-23)
-- [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/) (2026-06-23)
-- [Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/) (2026-06-23)
-- [Password manager maker LastPass says hackers stole customer support case data during Klue breach](https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/) (2026-06-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jerry's Map](http://www.jerrysmap.com/the-map) (2026-06-23)
-- [Modal Auto Endpoints: Optimized inference you own](https://modal.com/blog/introducing-auto-endpoints) (2026-06-23)
-- [The End of Code Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175) (2026-06-23)
-- [Fired by Google for creating the Google workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602) (2026-06-23)
-- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) (2026-06-23)
+- [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/) (2026-06-24)
+- [Show HN: Y – A malleable coding-agent desktop app built with Electron](https://github.com/y-times-y/y) (2026-06-24)
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) (2026-06-23)
+- [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) (2026-06-23)
+- [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b) (2026-06-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Prime Day has served up several great deals on 4K TVs](https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale) (2026-06-23)
-- [Tesla claims driver &#8216;manually overrode self-driving&#8217; in deadly Texas crash](https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash) (2026-06-23)
-- [Here are the best Prime Day deals on the Verge staff’s favorite stuff](https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026) (2026-06-23)
-- [The Lenovo Legion Go S gaming handheld is $549 for Prime Day](https://www.theverge.com/gadgets/955090/lenovo-legion-go-s-prime-day-deal-sale) (2026-06-23)
-- [Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums](https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale) (2026-06-23)
+- [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-24)
+- [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-23)
+- [The Nex Playground is down to its pre-RAMageddon price during Prime Day](https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale) (2026-06-23)
+- [Google Home will soon get better at recognizing you](https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing) (2026-06-23)
+- [Hollywood is bending the knee to OpenAI](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt) (2026-06-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [White House drastically shortens deadline for dropping quantum-vulnerable crypto](https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/) (2026-06-23)
+- [US's climate.gov site, taken down by Trump, relaunched by nonprofit](https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/) (2026-06-23)
+- [Odd police video shows drone removing knife from motionless suspect](https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/) (2026-06-23)
+- [Oracle’s 21,000 layoffs help drive its debt-fueled AI investments](https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/) (2026-06-23)
 - [A curious crossover: The Toyota C-HR review](https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/) (2026-06-23)
-- [ABC asks viewers to protest FCC attempt to "control who is allowed" on The View](https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/) (2026-06-23)
-- [Early land animals skipped the tadpole phase](https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/) (2026-06-23)
-- [Trump may be mystery patient in odd case of 79yo getting experimental obesity drug](https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/) (2026-06-23)
-- [Everyone pays the price as patent holders on seeds stifle innovation](https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/) (2026-06-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: the future of chipmaking and Anthropic’s government clash](https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/) (2026-06-23)
-- [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/) (2026-06-23)
-- [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) (2026-06-23)
-- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) (2026-06-22)
-- [The Download: record-breaking subsea tunnels and flexible data centers](https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/) (2026-06-22)
+- [Heads in the game](https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/) (2026-06-23)
+- [Super Mario is mathier than you think](https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/) (2026-06-23)
+- [A man of many words](https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/) (2026-06-23)
+- [Sharing a love for calculus](https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/) (2026-06-23)
+- [Stand Up for Research, Innovation, and Education](https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/) (2026-06-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Measured MCP vs Direct API Calls: The Token Math No One Tells You](https://dev.to/mudassirworks/i-measured-mcp-vs-direct-api-calls-the-token-math-no-one-tells-you-371p) (2026-06-23)
-- [Porque o PostgreSQL é tão queridinho?](https://dev.to/matheusdsilva01/porque-o-postgresql-e-tao-queridinho-3eh0) (2026-06-23)
-- [My Journey from Electronics Student to Embedded Hardware Engineer](https://dev.to/vishal_kumarsahni/my-journey-from-electronics-student-to-embedded-hardware-engineer-67c) (2026-06-23)
-- [🚀 I Built an AI Team That Finds Leads, Decision Makers & Writes Outreach While I Sleep](https://dev.to/vivek_shetye/i-built-an-ai-team-that-finds-leads-decision-makers-writes-outreach-while-i-sleep-2hkj) (2026-06-23)
-- [The interview questions candidates score worst on are not the ones they prepare for. Real data from 816,000 sessions explains why.](https://dev.to/alex_bell_f2b96166c2d62f5/the-interview-questions-candidates-score-worst-on-are-not-the-ones-they-prepare-for-real-data-from-3dfh) (2026-06-23)
+- [Why Every Developer Should Learn Browser Automation in 2026](https://dev.to/annalilith/why-every-developer-should-learn-browser-automation-in-2026-238k) (2026-06-24)
+- [Building an AI-Powered Storefront with Python: A Complete Guide](https://dev.to/annalilith/building-an-ai-powered-storefront-with-python-a-complete-guide-569c) (2026-06-24)
+- [Building High-Converting Product Pages for Niche Fashion E-Commerce: A Developer's Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-converting-product-pages-for-niche-fashion-e-commerce-a-developers-guide-4m7o) (2026-06-24)
+- [Building High-Performance E-Commerce Sites for Niche Fashion: A Developer's Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-performance-e-commerce-sites-for-niche-fashion-a-developers-guide-3el1) (2026-06-24)
+- [Building a High-Performance E-commerce Store for Niche Markets: A Developer's Guide](https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-markets-a-developers-guide-165l) (2026-06-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Structure My Full Stack Projects (After Doing It Wrong Twice)](https://medium.com/@rajnamdev/how-i-structure-my-full-stack-projects-after-doing-it-wrong-twice-75702831bf75?source=rss------programming-5) (2026-06-23)
-- [I Built a File Storage Protocol Where No One Can See Your Files — Not Even the Nodes Storing Them](https://medium.com/@stablediffusion/i-built-a-file-storage-protocol-where-no-one-can-see-your-files-not-even-the-nodes-storing-them-5cbc29098418?source=rss------programming-5) (2026-06-23)
-- [Agents Don’t Just Need Better Models. They Need Better Repositories.](https://medium.com/@tashfiq61/agents-dont-just-need-better-models-they-need-better-repositories-bf6425e21366?source=rss------programming-5) (2026-06-23)
-- [Your Utility Folder Is Probably a Junk Drawer](https://medium.com/skillstuff/your-utility-folder-is-probably-a-junk-drawer-fe7395030303?source=rss------programming-5) (2026-06-23)
-- [Web development concepts for beginners](https://medium.com/@bananicabananica/web-development-concepts-for-beginners-0d80aacad5ca?source=rss------programming-5) (2026-06-23)
+- [We Migrated to Angular 22. These 8 Signals Patterns Reduced Re-Renders by 73%.](https://medium.com/@pmLearners/we-migrated-to-angular-22-these-8-signals-patterns-reduced-re-renders-by-73-f94bce388f8a?source=rss------programming-5) (2026-06-24)
+- [Why I Chose Claude Over Copilot for My Siebel Project](https://eshitanandy.medium.com/why-i-chose-claude-over-copilot-for-my-siebel-project-b872db636383?source=rss------programming-5) (2026-06-24)
+- [Docker Solved a Problem That Cost Developers Thousands of Hours](https://pawannatekar220.medium.com/docker-solved-a-problem-that-cost-developers-thousands-of-hours-044528b24096?source=rss------programming-5) (2026-06-24)
+- [The Biggest Message from Google I/O and KotlinConf Wasn’t Just About AI](https://pednekarshashank33.medium.com/the-biggest-message-from-google-i-o-and-kotlinconf-wasnt-just-about-ai-b5d741f7e747?source=rss------programming-5) (2026-06-24)
+- [7 Claude Code Workflows That Replaced Hours of Manual Development Every Week](https://ai.plainenglish.io/7-claude-code-workflows-that-replaced-hours-of-manual-development-every-week-f8f0b7f1b816?source=rss------programming-5) (2026-06-24)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and AWS Collaborate to Bring AI to Production at Scale](https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/) (2026-06-24)
 - [How Businesses Are Building Specialized AI They Can Trust](https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/) (2026-06-23)
 - [NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers](https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/) (2026-06-23)
 - [NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/) (2026-06-23)
 - [At ISC, JUPITER Shows What Exascale Science Looks Like](https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/) (2026-06-22)
-- [NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure](https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/) (2026-06-22)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
 - [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
 - [New domain for Sign in with Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) (2026-06-15)
 - [WWDC26 survey](https://developer.apple.com/news/?id=15wishue) (2026-06-11)
-- [Find out what's new for Apple developers](https://developer.apple.com/news/?id=8rgqj83s) (2026-06-08)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 24.18.0 (LTS)](https://nodejs.org/en/blog/release/v24.18.0) (2026-06-23)
 - [Node.js 22.23.1 (LTS)](https://nodejs.org/en/blog/release/v22.23.1) (2026-06-23)
 - [Node.js 26.3.1 (Current)](https://nodejs.org/en/blog/release/v26.3.1) (2026-06-18)
 - [Node.js 24.17.0 (LTS)](https://nodejs.org/en/blog/release/v24.17.0) (2026-06-18)
 - [Node.js 22.23.0 (LTS)](https://nodejs.org/en/blog/release/v22.23.0) (2026-06-18)
-- [Thursday, June 18, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/june-2026-security-releases) (2026-06-18)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Deploy Node servers with zero configuration](https://vercel.com/changelog/deploy-node-servers-with-zero-configuration) (2026-06-23)
 - [Custom OIDC Token Audiences](https://vercel.com/changelog/custom-oidc-token-audiences) (2026-06-23)
 - [Deploy from Claude Design to Vercel](https://vercel.com/changelog/claude-design-and-vercel) (2026-06-23)
 - [Redesigned trace viewer for Vercel Workflows](https://vercel.com/changelog/redesigned-trace-viewer-for-vercel-workflows) (2026-06-23)
 - [Vercel Flags: Platform-native feature flags](https://vercel.com/blog/vercel-flags-platform-native-feature-flags) (2026-06-22)
-- [Vercel CLI now supports signing blob URLs](https://vercel.com/changelog/vercel-cli-now-supports-signing-blob-urls) (2026-06-22)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cr
 - [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) (2026-06-23)
 - [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) (2026-06-22)
 - [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) (2026-06-22)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
-- [Top spy agencies say AI cyber threats will impact you within months. Here’s why](https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/) (2026-06-23)
-- [Mitigating vendor lock-in with Sakana AI Fugu multi-agent models](https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/) (2026-06-22)
-- [L’Oréal brings Maybelline virtual try-on to ChatGPT](https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/) (2026-06-22)
-- [SAP and Google Cloud deploy agentic commerce architecture](https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/) (2026-06-19)
 
 </details>
 
