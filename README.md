@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/) (2026-06-25)
-- [Bible as RAG Database](https://www.crosscanon.com/) (2026-06-25)
-- [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space) (2026-06-25)
-- [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections) (2026-06-25)
-- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855) (2026-06-25)
+- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition) (2026-06-25)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) (2026-06-25)
+- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/) (2026-06-25)
+- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies) (2026-06-25)
+- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) (2026-06-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a multi-agent loop where an adversarial Claude reviewer reads your actual codebase before approving plans](https://dev.to/execute25/i-built-a-multi-agent-loop-where-an-adversarial-claude-reviewer-reads-your-actual-codebase-before-2d8n) (2026-06-25)
-- [The AI Model Isn't Your Competitive Advantage.](https://dev.to/uigerhana/the-ai-model-isnt-your-competitive-advantage-1ib7) (2026-06-25)
-- [Why I Built BONDING on My Son's Birthday](https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622) (2026-06-25)
-- [Lịch Sử OCR và Sự Ra Đời Khái Niệm Vision-First OCR](https://dev.to/danh_hong_2ad24e11dd9a198/lich-su-ocr-va-su-ra-doi-khai-niem-vision-first-ocr-4f37) (2026-06-25)
-- [Stop Letting AI Generate Your PDFs From Scratch](https://dev.to/gerardo_barrera_538fc60b7/stop-letting-ai-generate-your-pdfs-from-scratch-59o4) (2026-06-25)
+- [Swift Closures — Trailing Syntax and Shorthand Magic ✨](https://dev.to/gamya_m/swift-closures-trailing-syntax-and-shorthand-magic-2134) (2026-06-25)
+- [Why Full Stack Developers Are Among the Most In-Demand IT Professionals in 2026](https://dev.to/mathu_suthanizeon_994bee/why-full-stack-developers-are-among-the-most-in-demand-it-professionals-in-2026-4806) (2026-06-25)
+- [Hoplyra: self-hosted orchestration for multi-hop VPN chains](https://dev.to/linchevatel/hoplyra-self-hosted-orchestration-for-multi-hop-vpn-chains-1jb4) (2026-06-25)
+- [Why AI Agents Fail Silently — And How to Fix It A technical deep-dive into the observability gap in multi-step LLM systems](https://dev.to/vignesh_reddy_53e403f62d2/why-ai-agents-fail-silently-and-how-to-fix-it-a-technical-deep-dive-into-the-observability-gap-in-jjk) (2026-06-25)
+- [AI Coding Agents Need Tests More Than Prompts](https://dev.to/stoefln6/ai-coding-agents-need-tests-more-than-prompts-11pm) (2026-06-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a Race Time Predictor](https://medium.com/@slingam00/building-a-race-time-predictor-86db2ff5be28?source=rss------programming-5) (2026-06-25)
-- [Why Are Women’s Reading Habits Still Judged So Harshly?](https://medium.com/@abdullahmanais4/why-are-womens-reading-habits-still-judged-so-harshly-e805725784d2?source=rss------programming-5) (2026-06-25)
-- [If You Understand These 5 Linux Concepts, You’re Ahead of 90% of Developers](https://osintteam.blog/if-you-understand-these-5-linux-concepts-youre-ahead-of-90-of-developers-e96a95edcbff?source=rss------programming-5) (2026-06-25)
-- [What I Learned About Functions Beyond Code Reuse](https://medium.com/@scosmexs/what-i-learned-about-functions-beyond-code-reuse-84b7a5ae9a7f?source=rss------programming-5) (2026-06-25)
-- [1,000 Errors, One Google Sheet, and Five Hours I Will Never Get Back](https://medium.com/@jaswanth.mk63/1-000-errors-one-google-sheet-and-five-hours-i-will-never-get-back-a04df405faeb?source=rss------programming-5) (2026-06-25)
+- [How to Write Better Claude Prompts for Coding Tasks](https://blog.stackademic.com/how-to-write-better-claude-prompts-for-coding-tasks-87ecebffd27b?source=rss------programming-5) (2026-06-25)
+- [Is Frontend Dead in 2026? No, It Just Evolved](https://medium.com/@lyueqi1019/is-frontend-dead-in-2026-no-it-just-evolved-3f8f10eb2eed?source=rss------programming-5) (2026-06-25)
+- [We Rewrote a Python Service in Rust. Six Months Later, I’m Honestly Not Sure It Was Worth It](https://medium.com/@the_atomic_architect/python-to-rust-rewrite-worth-it-57afd7c588e4?source=rss------programming-5) (2026-06-25)
+- [Data Science Training with Placement Assistance: Build a Future-Ready Career with Quality Thought](https://medium.com/@vineethagadhe5/data-science-training-with-placement-assistance-build-a-future-ready-career-with-quality-thought-6db5251d132b?source=rss------programming-5) (2026-06-25)
+- [The Malpractice Waiting Room](https://medium.com/@heftykoo/the-malpractice-waiting-room-74278a730168?source=rss------programming-5) (2026-06-25)
 
 </details>
 
@@ -113,6 +113,17 @@
 - [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
 - [Amazon ECS introduces new high-resolution metrics for faster service auto scaling](https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/) (2026-06-18)
 - [Top announcements of the AWS Summit in New York, 2026](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/) (2026-06-17)
+
+</details>
+
+<details>
+<summary>🔵 Azure Blog</summary>
+
+- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
+- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
+- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
+- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 
 </details>
 
@@ -295,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Explicit Lazy Imports Are Coming to Python 3.15](https://blog.jetbrains.com/pycharm/2026/06/explicit-lazy-imports-are-coming-to-python-3-15/) (2026-06-25)
 - [Kotlin Toolchain 0.11: The Next Step for Amper](https://blog.jetbrains.com/amper/2026/06/kotlin-toolchain-0-11/) (2026-06-24)
 - [YouTrack Helpdesk Now Includes Customer Groups](https://blog.jetbrains.com/youtrack/2026/06/youtrack-helpdesk-now-includes-customer-groups/) (2026-06-24)
 - [How to Win a Hackathon: Notes From the Judging Table](https://blog.jetbrains.com/ai/2026/06/how-to-win-a-hackathon-notes-from-the-judging-table/) (2026-06-22)
 - [How We Measure the ROI of JetBrains IDEs](https://blog.jetbrains.com/research/2026/06/how-we-measure-the-roi-of-jetbrains-ides/) (2026-06-22)
-- [AWS Image Builder Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2026/06/teamcity-aws-ami-builder/) (2026-06-22)
 
 </details>
 
@@ -328,22 +339,22 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [A 15-Second Health Check for Your Heroku Connect Data Pipeline](https://www.heroku.com/blog/health-check-for-your-heroku-connect-data-pipeline/) (2026-06-24)
 - [Heroku March 2026 Update](https://www.heroku.com/blog/march-2026-update/) (2026-03-19)
 - [Modernizing the Command Line: Heroku CLI v11](https://www.heroku.com/blog/modernizing-the-command-line-heroku-cli-v11/) (2026-03-19)
 - [Bigger Slugs and Greater Build Timeout Flexibility](https://www.heroku.com/blog/bigger-slugs-and-greater-build-timeout-flexibility/) (2026-03-19)
 - [Behind the Scenes: How Maintaining Cloud Native Buildpacks Powers Platforms Like Heroku](https://www.heroku.com/blog/how-maintaining-cloud-native-buildpacks-powers-platforms-like-heroku/) (2026-03-17)
-- [From Fragmented Logs to Full-Stack Visibility with SolarWinds Papertrail](https://www.heroku.com/blog/fragmented-logs-to-full-stack-visibility-solarwinds-papertrail/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Flags no longer requires SDK Keys for Vercel deployments](https://vercel.com/changelog/authenticate-vercel-flags-with-openid-connect-by-default) (2026-06-24)
 - [GLM 5.2 Fast via Wafer now available on AI Gateway](https://vercel.com/changelog/glm-5-2-fast-via-wafer-now-available-on-ai-gateway) (2026-06-24)
 - [Deploy Node servers with zero configuration](https://vercel.com/changelog/deploy-node-servers-with-zero-configuration) (2026-06-23)
 - [Custom OIDC Token Audiences](https://vercel.com/changelog/custom-oidc-token-audiences) (2026-06-23)
 - [Deploy from Claude Design to Vercel](https://vercel.com/changelog/claude-design-and-vercel) (2026-06-23)
-- [Redesigned trace viewer for Vercel Workflows](https://vercel.com/changelog/redesigned-trace-viewer-for-vercel-workflows) (2026-06-23)
 
 </details>
 
@@ -545,6 +556,17 @@ https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
+- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
+- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
+- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
+- [Top spy agencies say AI cyber threats will impact you within months. Here’s why](https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/) (2026-06-23)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [How to Build a Credit Scoring Grid From a Logistic Regression Model](https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/) (2026-06-24)
@@ -558,11 +580,11 @@ https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [The Self-Improving Loop in AI Agents: Architecture, Benefits, and How it Outperforms Traditional Agent Workflows](https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/) (2026-06-25)
 - [Harness-1: The 20B Retrieval Subagent That Beats GPT-5.4 at Search](https://www.analyticsvidhya.com/blog/2026/06/harness-1-ai-retrieval-agent/) (2026-06-24)
 - [Sakana Fugu: Multi-Agent System as a Model ](https://www.analyticsvidhya.com/blog/2026/06/sakana-fugu-multi-agent-system-as-a-model/) (2026-06-23)
 - [Claude’s Hidden Art Skill: Making Illustrations With Code](https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/) (2026-06-22)
 - [System Design for ML Interviews: 10 Real Problems Walked Through](https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/) (2026-06-19)
-- [Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-tips-and-features/) (2026-06-18)
 
 </details>
 
