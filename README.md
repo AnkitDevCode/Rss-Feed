@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit](https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/) (2026-06-25)
-- [Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla](https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/) (2026-06-25)
-- [Adobe acquires image and video enhancement tool maker Topaz Labs](https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/) (2026-06-25)
-- [Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/) (2026-06-25)
-- [Cellebrite said it cut off Russia, but Russia used its tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/) (2026-06-25)
+- [Xbox follows Apple with price increases ](https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/) (2026-06-25)
+- [Notion Mail shuts down amid agent takeover](https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/) (2026-06-25)
+- [a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/) (2026-06-25)
+- [Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/) (2026-06-25)
+- [General Intuition’s $2.3B bet that video games can train AI agents for the real world](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) (2026-06-25)
-- [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/) (2026-06-25)
-- [Show HN: Secs-man, a secrets manager you can (not) rely on](https://github.com/Fran314/secrets-manager-rs) (2026-06-25)
-- [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try) (2026-06-25)
-- [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) (2026-06-25)
+- [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data) (2026-06-25)
+- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) (2026-06-25)
+- [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/) (2026-06-25)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) (2026-06-25)
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) (2026-06-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [EverQuest Legends is a powerful nostalgia machine](https://www.theverge.com/games/954841/everquest-legends-nostalgia) (2026-06-25)
-- [Samsung&#8217;s new budget phone costs $50 more despite downgrades](https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs) (2026-06-25)
-- [Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video](https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price) (2026-06-25)
-- [Our 29 favorite gaming deals on Prime Day for Switch, PS5, and Xbox](https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale) (2026-06-25)
-- [Apple raises prices on Macs, iPads, and more by hundreds of dollars](https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage) (2026-06-25)
+- [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-25)
+- [It&#8217;s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve) (2026-06-25)
+- [You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike](https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes) (2026-06-25)
+- [Polestar has been muscled out of the US market](https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software) (2026-06-25)
+- [Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like](https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals) (2026-06-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Feds deny Polestar authorization to sell cars in US from model year 2027](https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/) (2026-06-25)
+- [Apple ratchets up prices, blames the cost of memory](https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/) (2026-06-25)
 - [The "sad inevitability" of Europe's heat wave](https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/) (2026-06-25)
 - [New effort will get genome sequences for entire Endangered Species list](https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/) (2026-06-25)
 - [Every Homo naledi we know of is female, and the implications are fascinating](https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/) (2026-06-25)
-- [IBM claims world’s first sub-1 nanometer chip technology](https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/) (2026-06-25)
-- [Hotly anticipated Grand Theft Auto VI will cost more than other AAA games](https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/) (2026-06-24)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/) (2026-06-25)
 - [The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law](https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/) (2026-06-25)
 - [What Europe’s heat wave means for the power grid](https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/) (2026-06-25)
 - [IBM has unveiled chip technology that could help extend Moore’s Law another decade](https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/) (2026-06-25)
 - [Europe’s extreme heat is shutting down power plants](https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/) (2026-06-24)
-- [The Download: introducing the Engineering issue](https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/) (2026-06-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [-hda vs virtio-blk: Match the Disk Bus to the Guest Image](https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc) (2026-06-25)
-- [Send server alerts from any box with the Nylas CLI](https://dev.to/mqasimca/send-server-alerts-from-any-box-with-the-nylas-cli-5fp9) (2026-06-25)
-- [Building SIBYL SYSTEM with Qwen Cloud — an engineer’s journey](https://dev.to/michaelinzo/building-sibyl-system-with-qwen-cloud-an-engineers-journey-1fo0) (2026-06-25)
-- [Building progress billing into a CRM: the UX and data challenges](https://dev.to/tcarter/building-progress-billing-into-a-crm-the-ux-and-data-challenges-1pd1) (2026-06-25)
-- [Knowing which model openrouter/auto actually ran (and what it cost)](https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f) (2026-06-25)
+- [Lessons from building a QR-paired browser handoff tool](https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk) (2026-06-25)
+- [The Feynman Technique Prompt: How to Make AI Explain Anything in 4 Layers of Depth](https://dev.to/blobxiaoyao/the-feynman-technique-prompt-how-to-make-ai-explain-anything-in-4-layers-of-depth-3076) (2026-06-25)
+- [AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf) (2026-06-25)
+- [9 GitHub Projects Worth Building If You're Serious About Physical AI and Robotics](https://dev.to/shaifurcodes/9-github-projects-worth-building-if-youre-serious-about-physical-ai-and-robotics-4m4n) (2026-06-25)
+- [I Built a 131-Test Eval Harness Before Writing New Features. Here's the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb) (2026-06-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Protobuf Was 14× Faster Than JSON. Then I Fed It Text.](https://medium.com/singular-articles/protobuf-was-14-faster-than-json-then-i-fed-it-text-25f54b73d61a?source=rss------programming-5) (2026-06-25)
-- [AWS + Go + Docker + Terraform: The Ultimate Deployment Workflow for Your Backend! ](https://medium.com/@anshusinghal703/aws-go-docker-terraform-the-ultimate-deployment-workflow-for-your-backend-fc05ed04e138?source=rss------programming-5) (2026-06-25)
-- [7 Python Class Designs That Power ML APIs](https://python.plainenglish.io/7-python-class-designs-that-power-ml-apis-ad3d3478bd1a?source=rss------programming-5) (2026-06-25)
-- [Java Interview Questions That Tripped Me Up (And How I Finally Got Them Right)](https://medium.com/@ethirajmurugan/java-interview-questions-that-tripped-me-up-and-how-i-finally-got-them-right-f9b5e1777df6?source=rss------programming-5) (2026-06-25)
-- [What Actually Happens When You Type “What is Python?” Into ChatGPT](https://medium.com/@jackpritomsoren/what-actually-happens-when-you-type-what-is-python-into-chatgpt-a55eaafe7ad3?source=rss------programming-5) (2026-06-25)
+- [Every Commit A Sentence: Git Commit Messages for Bloggers](https://brennanbrown.medium.com/every-commit-a-sentence-git-commit-messages-for-bloggers-3ce717b7a3c4?source=rss------programming-5) (2026-06-25)
+- [AI Can Write Code. Software Engineers Design Systems.](https://medium.com/@techie.bhavin/ai-can-write-code-software-engineers-design-systems-99f55a395006?source=rss------programming-5) (2026-06-25)
+- [I Finally Understood System Architecture, and All It Took Was a Cheeseburger](https://medium.com/@drajput_14416/i-finally-understood-system-architecture-and-all-it-took-was-a-cheeseburger-d4d39f98e34a?source=rss------programming-5) (2026-06-25)
+- [The Fucking Hot Shemale](https://medium.com/@umerk/the-fucking-hot-shemale-bf2c3d0999c1?source=rss------programming-5) (2026-06-25)
+- [AI Agents Share One Architecture. What You Own Is the Wiring.](https://medium.com/@sunilkumarvuppala/ai-agents-share-one-architecture-what-you-own-is-the-wiring-b58f2b895b5f?source=rss------programming-5) (2026-06-25)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
 - [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/) (2026-06-23)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 - [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
-- [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) (2026-06-08)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [How we used DSPy to turn AI evaluations into better responses in Dash Chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
 - [How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security) (2026-06-12)
 - [Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents) (2026-05-28)
 - [Introducing Nova, our internal platform for coding agents](https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents) (2026-05-21)
 - [Improving storage efficiency in Magic Pocket, our immutable blob store](https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store) (2026-04-02)
-- [Reducing our monorepo size to improve developer velocity](https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity) (2026-03-25)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Achieving Near-Linear Training Scalability for Pinterest’s Foundation Models](https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss-ef81ef829bcb------2) (2026-06-25)
 - [Automated Schema Evolution in Pinterest’s Next-Generation DB Ingestion Framework](https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss-ef81ef829bcb------2) (2026-06-24)
 - [Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use](https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss-ef81ef829bcb------2) (2026-05-21)
 - [An Engineer’s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent…](https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd?source=rss-ef81ef829bcb------2) (2026-05-12)
 - [Enhancing Ad Relevance: Integrating Real-Time Context into Sequential Recommender Models](https://medium.com/pinterest-engineering/enhancing-ad-relevance-integrating-real-time-context-into-sequential-recommender-models-bc3a2f9b682e?source=rss-ef81ef829bcb------2) (2026-05-08)
-- [Optimizing ML Workload Network Efficiency (Part I): Feature Trimmer](https://medium.com/pinterest-engineering/optimizing-ml-workload-network-efficiency-part-i-feature-trimmer-ae20beb08d69?source=rss-ef81ef829bcb------2) (2026-05-01)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [The Unglamorous Side of Rust Web Development ](https://blog.jetbrains.com/rust/2026/06/25/rust-web-development-2026/) (2026-06-25)
-- [Our Research on Membership Inference Attacks and Preventing Privacy Leaks](https://blog.jetbrains.com/research/2026/06/membership-inference/) (2026-06-25)
-- [Explicit Lazy Imports Are Coming to Python 3.15](https://blog.jetbrains.com/pycharm/2026/06/explicit-lazy-imports-are-coming-to-python-3-15/) (2026-06-25)
-- [Kotlin Toolchain 0.11: The Next Step for Amper](https://blog.jetbrains.com/amper/2026/06/kotlin-toolchain-0-11/) (2026-06-24)
-- [YouTrack Helpdesk Now Includes Customer Groups](https://blog.jetbrains.com/youtrack/2026/06/youtrack-helpdesk-now-includes-customer-groups/) (2026-06-24)
+- [The Dev Containers Story: Introducing EelApi for Plugin Authors](https://blog.jetbrains.com/platform/2026/06/the-dev-containers-story-introducing-eelapi-for-plugin-authors/) (2026-06-25)
+- [The real winner of Cursor’s $60B acquisition won’t be AI coding assistants](https://blog.jetbrains.com/qodana/2026/06/cursor-s-60b-acquisition/) (2026-06-25)
+- [Introducing the Recommended Agent in AI Chat with Codex as the current choice](https://blog.jetbrains.com/ai/2026/06/codex-is-now-the-recommended-agent-in-jetbrains-ai/) (2026-06-25)
+- [SSH Connections Are Moving to JetBrains Daemon in the Toolbox App 3.6 EAP](https://blog.jetbrains.com/toolbox-app/2026/06/ssh-connections-are-moving-to-jetbrains-daemon-in-the-toolbox-app-3-6-eap/) (2026-06-25)
+- [Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now.](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/) (2026-06-25)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Google Antigravity agents get full context with GitLab Orbit](https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/) (2026-06-25)
 - [GitLab Patch Release: 19.1.1, 19.0.3, 18.11.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-1-released/) (2026-06-24)
 - [One vulnerability view: From scanner coverage to AI governance](https://about.gitlab.com/blog/one-vulnerability-view/) (2026-06-18)
 - [GitLab 19.1 released](https://docs.gitlab.com/releases/19/gitlab-19-1-released/) (2026-06-18)
 - [AI Catalog updates for governance and operations](https://about.gitlab.com/blog/ai-catalog-updates-for-governance-and-operations/) (2026-06-18)
-- [GitLab named a Leader in the 2026 Gartner® Magic Quadrant™ for DevSecOps Platforms](https://about.gitlab.com/blog/gitlab-leader-2026-gartner-mq-devsecops-platforms/) (2026-06-17)
 
 </details>
 
@@ -536,33 +536,33 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference](https://pytorch.org/blog/lightseek-tokenspeed-kernel/) (2026-06-25)
 - [Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0](https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/) (2026-06-23)
 - [From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels](https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/) (2026-06-18)
 - [JUST LAUNCHED! PyTorch Certified Associate (PTCA)](https://pytorch.org/blog/just-launched-pytorch-certified-associate-ptca/) (2026-06-18)
 - [Schedule Now Available for KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China](https://pytorch.org/blog/schedule-now-available-for-kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) (2026-06-18)
-- [Nominations Open for the 2026 PyTorch Foundation Contributor Awards](https://pytorch.org/blog/nominations-open-for-the-2026-pytorch-foundation-contributor-awards/) (2026-06-17)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction) (2026-06-25)
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) (2026-06-24)
 - [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) (2026-06-24)
 - [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) (2026-06-23)
 - [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) (2026-06-23)
-- [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) (2026-06-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
-- [Letting an LLM Pick the Right RAG Page: The Arbiter Pattern at the End of Retrieval](https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/) (2026-06-25)
-- [One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About](https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/) (2026-06-25)
-- [How to Build a Credit Scoring Grid From a Logistic Regression Model](https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/) (2026-06-24)
-- [Your First Task as a Data Engineer in a New Company? Make the ETL Pipeline Testable](https://towardsdatascience.com/your-first-task-as-a-data-engineer-in-a-new-company-make-the-etl-pipeline-testable/) (2026-06-24)
-- [A Three-Phase Factual Recall Circuit in Gemma-2B and Gemma-12B-IT](https://towardsdatascience.com/a-three-phase-factual-recall-circuit-in-gemma-2b-and-gemma-12b-it/) (2026-06-24)
+- [Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/) (2026-06-25)
+- [The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark](https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/) (2026-06-25)
+- [Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression](https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/) (2026-06-25)
+- [3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal](https://towardsdatascience.com/3-agents-3-llms-1-aging-gpu-engineering-parallel-inference-on-bare-metal/) (2026-06-25)
+- [An LLM as arbiter in RAG retrieval: picking the right candidate with reasons](https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/) (2026-06-25)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Using Gemini to Create Google Sheets](https://www.kdnuggets.com/using-gemini-to-create-google-sheets) (2026-06-25)
 - [5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video](https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video) (2026-06-25)
 - [The Roadmap to Becoming an AI Architect in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026) (2026-06-25)
 - [Top 7 Coding Models You Can Run Locally in 2026](https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026) (2026-06-24)
 - [The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code](https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code) (2026-06-23)
-- [Here’s Why WebMCP is Exciting](https://www.kdnuggets.com/heres-why-webmcp-is-exciting) (2026-06-23)
 
 </details>
 
