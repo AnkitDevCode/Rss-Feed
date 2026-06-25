@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Here’s why Slate changed the battery in its cheap EV truck](https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/) (2026-06-24)
-- [Facebook rolls out an AI companion app for creators](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) (2026-06-24)
-- [Deezer says its new feature lets fans remix songs with artist consent](https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/) (2026-06-24)
-- [Agility Robotics plans to go public via SPAC in a $2.5B deal](https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/) (2026-06-24)
-- [NTSB launches probe into fatal Texas Tesla crash](https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/) (2026-06-24)
+- [Europe is pushing back on Washington’s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) (2026-06-25)
+- [Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/) (2026-06-24)
+- [Elon suffers another day short of trillionaire status](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/) (2026-06-24)
+- [Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/) (2026-06-24)
+- [AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) (2026-06-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/) (2026-06-24)
-- [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser) (2026-06-24)
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) (2026-06-24)
-- [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) (2026-06-24)
-- [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers) (2026-06-24)
+- [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/) (2026-06-25)
+- [Bible as RAG Database](https://www.crosscanon.com/) (2026-06-25)
+- [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space) (2026-06-25)
+- [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections) (2026-06-25)
+- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855) (2026-06-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude) (2026-06-24)
-- [GTA VI is a worrying sign for the future of physical games](https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games) (2026-06-24)
+- [The top tech Prime Day deals to shop on day two](https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale) (2026-06-24)
 - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-24)
-- [Google is finally opening the Play Store to outside payments](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust) (2026-06-24)
-- [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50) (2026-06-24)
+- [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-24)
+- [Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines](https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa) (2026-06-24)
+- [Microsoft introduces cheaper Surface devices with half the memory](https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram) (2026-06-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Formula E reveals first calendar for GEN4 with lots of real race tracks](https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/) (2026-06-24)
-- [Google starts lowering Play Store fees, making good on Epic Games settlement](https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/) (2026-06-24)
-- [Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother](https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/) (2026-06-24)
-- [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/) (2026-06-24)
-- [Slate Auto's truck builder goes live for its $25k electric pickup](https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/) (2026-06-24)
+- [Hotly anticipated Grand Theft Auto VI will cost more than other AAA games](https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/) (2026-06-24)
+- [OpenAI and Broadcom announce chip designed for LLM inference at scale](https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/) (2026-06-24)
+- [13 years and $500 million for a stage adapter? Report justifies NASA cancellations.](https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/) (2026-06-24)
+- [US ends hantavirus outbreak response with no answers on draconian quarantines](https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/) (2026-06-24)
+- [One-two punch delivered in global operation disrupts cybercrime "assembly line"](https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/) (2026-06-24)
 
 </details>
 
@@ -86,26 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [They say critical press is still good publicity, right? 
-
-A sharp piece accused us of grading our own exams. They aren't wrong. We wrote the tests, so we always pass. 
-
-The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoess/they-say-critical-press-is-still-good-publicity-right-a-sharp-piece-accused-us-of-grading-our-e9e) (2026-06-24)
-- [Refactoring Without Breaking Production: A Practical Guide for Modern Software Teams](https://dev.to/ufomadu_nnaemeka_89/refactoring-without-breaking-production-a-practical-guide-for-modern-software-teams-3883) (2026-06-24)
-- [Self-Hosted Hermes Agent on iOS: Cloudflare Tunnel + Access Service Tokens + Hermex](https://dev.to/mosesman831/self-hosted-hermes-agent-on-ios-cloudflare-tunnel-access-service-tokens-hermex-103e) (2026-06-24)
-- [How to implement per-user AI cost limits in your app (without rebuilding it every time)](https://dev.to/seanmcc22/how-to-implement-per-user-ai-cost-limits-in-your-app-without-rebuilding-it-every-time-36ca) (2026-06-24)
-- [How I Used Automated Red Teaming To Take My AI Agent from 6/9 Breaches to Zero](https://dev.to/morganwilliscloud/red-team-your-ai-agents-before-someone-else-does-o4i) (2026-06-24)
+- [I built a multi-agent loop where an adversarial Claude reviewer reads your actual codebase before approving plans](https://dev.to/execute25/i-built-a-multi-agent-loop-where-an-adversarial-claude-reviewer-reads-your-actual-codebase-before-2d8n) (2026-06-25)
+- [The AI Model Isn't Your Competitive Advantage.](https://dev.to/uigerhana/the-ai-model-isnt-your-competitive-advantage-1ib7) (2026-06-25)
+- [Why I Built BONDING on My Son's Birthday](https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622) (2026-06-25)
+- [Lịch Sử OCR và Sự Ra Đời Khái Niệm Vision-First OCR](https://dev.to/danh_hong_2ad24e11dd9a198/lich-su-ocr-va-su-ra-doi-khai-niem-vision-first-ocr-4f37) (2026-06-25)
+- [Stop Letting AI Generate Your PDFs From Scratch](https://dev.to/gerardo_barrera_538fc60b7/stop-letting-ai-generate-your-pdfs-from-scratch-59o4) (2026-06-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Most People Never Finish One Project. My Son Keeps Shipping Games.](https://medium.com/mr-plan-publication/most-people-never-finish-one-project-my-son-keeps-shipping-games-2a5a253d59de?source=rss------programming-5) (2026-06-24)
-- [SQL Window Functions: A Beginner-Friendly Guide for Data Analysts](https://medium.com/@rosybaj82/sql-window-functions-a-beginner-friendly-guide-for-data-analysts-f4334dce020e?source=rss------programming-5) (2026-06-24)
-- [Golang vs. Java in 2026: My Candid Take if I Had to Start Backend Again ](https://medium.com/@monikasinghal713/golang-vs-java-in-2026-my-candid-take-if-i-had-to-start-backend-again-b489740b9ddf?source=rss------programming-5) (2026-06-24)
-- [I Profiled A Slow Java App For A Week. The JVM Was Not The Problem. I Was.](https://medium.com/@maahisoft20/i-profiled-a-slow-java-app-for-a-week-the-jvm-was-not-the-problem-i-was-3779f871ea52?source=rss------programming-5) (2026-06-24)
-- [Hyperliquid is one of the most transparent DEXs in crypto.](https://medium.com/@blablacarcar228/i-built-a-free-hyperliquid-copy-trader-track-wallets-rate-traders-and-copy-their-moves-df5cd2e1e50d?source=rss------programming-5) (2026-06-24)
+- [Building a Race Time Predictor](https://medium.com/@slingam00/building-a-race-time-predictor-86db2ff5be28?source=rss------programming-5) (2026-06-25)
+- [Why Are Women’s Reading Habits Still Judged So Harshly?](https://medium.com/@abdullahmanais4/why-are-womens-reading-habits-still-judged-so-harshly-e805725784d2?source=rss------programming-5) (2026-06-25)
+- [If You Understand These 5 Linux Concepts, You’re Ahead of 90% of Developers](https://osintteam.blog/if-you-understand-these-5-linux-concepts-youre-ahead-of-90-of-developers-e96a95edcbff?source=rss------programming-5) (2026-06-25)
+- [What I Learned About Functions Beyond Code Reuse](https://medium.com/@scosmexs/what-i-learned-about-functions-beyond-code-reuse-84b7a5ae9a7f?source=rss------programming-5) (2026-06-25)
+- [1,000 Errors, One Google Sheet, and Five Hours I Will Never Get Back](https://medium.com/@jaswanth.mk63/1-000-errors-one-google-sheet-and-five-hours-i-will-never-get-back-a04df405faeb?source=rss------programming-5) (2026-06-25)
 
 </details>
 
@@ -117,17 +113,6 @@ The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoe
 - [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
 - [Amazon ECS introduces new high-resolution metrics for faster service auto scaling](https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/) (2026-06-18)
 - [Top announcements of the AWS Summit in New York, 2026](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/) (2026-06-17)
-
-</details>
-
-<details>
-<summary>🔵 Azure Blog</summary>
-
-- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
-- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
-- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
-- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
-- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 
 </details>
 
@@ -189,11 +174,11 @@ The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoe
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.4.0 (Current)](https://nodejs.org/en/blog/release/v26.4.0) (2026-06-24)
 - [Node.js 24.18.0 (LTS)](https://nodejs.org/en/blog/release/v24.18.0) (2026-06-23)
 - [Node.js 22.23.1 (LTS)](https://nodejs.org/en/blog/release/v22.23.1) (2026-06-23)
 - [Node.js 26.3.1 (Current)](https://nodejs.org/en/blog/release/v26.3.1) (2026-06-18)
 - [Node.js 24.17.0 (LTS)](https://nodejs.org/en/blog/release/v24.17.0) (2026-06-18)
-- [Node.js 22.23.0 (LTS)](https://nodejs.org/en/blog/release/v22.23.0) (2026-06-18)
 
 </details>
 
@@ -211,11 +196,11 @@ The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoe
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/) (2026-06-24)
 - [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/) (2026-06-15)
 - [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/) (2026-06-01)
 - [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) (2026-05-26)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) (2026-05-20)
-- [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) (2026-05-15)
 
 </details>
 
@@ -343,11 +328,11 @@ The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoe
 <details>
 <summary>💜 Heroku Blog</summary>
 
-- [A 15-Second Health Check for Your Heroku Connect Data Pipeline](https://www.heroku.com/blog/health-check-for-your-heroku-connect-data-pipeline/) (2026-06-24)
 - [Heroku March 2026 Update](https://www.heroku.com/blog/march-2026-update/) (2026-03-19)
 - [Modernizing the Command Line: Heroku CLI v11](https://www.heroku.com/blog/modernizing-the-command-line-heroku-cli-v11/) (2026-03-19)
 - [Bigger Slugs and Greater Build Timeout Flexibility](https://www.heroku.com/blog/bigger-slugs-and-greater-build-timeout-flexibility/) (2026-03-19)
 - [Behind the Scenes: How Maintaining Cloud Native Buildpacks Powers Platforms Like Heroku](https://www.heroku.com/blog/how-maintaining-cloud-native-buildpacks-powers-platforms-like-heroku/) (2026-03-17)
+- [From Fragmented Logs to Full-Stack Visibility with SolarWinds Papertrail](https://www.heroku.com/blog/fragmented-logs-to-full-stack-visibility-solarwinds-papertrail/) (2026-03-12)
 
 </details>
 
@@ -377,6 +362,21 @@ The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoe
 <summary>📞 Twilio Blog</summary>
 
 - [
+The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications with RCS
+](
+https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
+) (2026-06-26)
+- [
+How to Validate Twilio Event Streams Webhooks in Rust
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
+) (2026-06-24)
+- [
+What is AI customer memory? How it works & getting started
+](
+https://www.twilio.com/en-us/blog/insights/ai-customer-memory
+) (2026-06-23)
+- [
 7 top customer data platforms for AI agents in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
@@ -386,21 +386,6 @@ From Customer Intelligence to Customer Engagement
 ](
 https://www.twilio.com/en-us/blog/partners/spotlights/from-customer-intelligence-to-customer-engagement
 ) (2026-06-17)
-- [
-Architecting a CRM-Native Messaging Platform on Salesforce with Twilio
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/architecting-crm-native-messaging-twilio-for-salesforce
-) (2026-06-17)
-- [
-Zero to Global: Scaling AI-Native Startups with Twilio
-](
-https://www.twilio.com/en-us/blog/insights/ai-natives
-) (2026-06-17)
-- [
-Voice Disaster Recovery Starts Before the Implementation
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cross-region-voice-recovery
-) (2026-06-15)
 
 </details>
 
@@ -556,17 +541,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/scope-govern-plan-cr
 - [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) (2026-06-23)
 - [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) (2026-06-23)
 - [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) (2026-06-23)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
-- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
-- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
-- [Top spy agencies say AI cyber threats will impact you within months. Here’s why](https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/) (2026-06-23)
-- [Mitigating vendor lock-in with Sakana AI Fugu multi-agent models](https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/) (2026-06-22)
 
 </details>
 
