@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/) (2026-06-26)
-- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/) (2026-06-26)
-- [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) (2026-06-25)
-- [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/) (2026-06-25)
-- [Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/) (2026-06-25)
+- [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) (2026-06-26)
+- [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) (2026-06-26)
+- [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) (2026-06-26)
+- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) (2026-06-26)
+- [Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/) (2026-06-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) (2026-06-26)
-- [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA) (2026-06-26)
-- [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain) (2026-06-26)
-- [We all depend on open source. We will defend it together](https://akrites.org/letter/) (2026-06-26)
-- [Libre Barcode Project](https://graphicore.github.io/librebarcode/) (2026-06-26)
+- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/) (2026-06-26)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) (2026-06-26)
+- [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me) (2026-06-26)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) (2026-06-26)
+- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) (2026-06-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anthropic&#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations) (2026-06-26)
-- [Apple&#8217;s AirPods Max 2 headphones are still $150 off — for now](https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale) (2026-06-26)
-- [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale) (2026-06-26)
-- [With GTA looming, consoles are getting expensive at the worst possible time](https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes) (2026-06-26)
-- [Samsung will soon start charging to access its smart home API](https://www.theverge.com/tech/957597/samsung-smartthings-api-charges) (2026-06-26)
+- [The beautiful shame](https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump) (2026-06-26)
+- [This video bird feeder is the surprise hit of Prime Day](https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale) (2026-06-26)
+- [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four) (2026-06-26)
+- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) (2026-06-26)
+- [Smart lock maker Level has been gutted and its founders are out](https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud) (2026-06-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response](https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/) (2026-06-26)
-- [Microsoft adds another year to Windows 10 extended update program](https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/) (2026-06-25)
-- [FCC may kill $2B program that connects schools and libraries to Internet](https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/) (2026-06-25)
-- [Notion killing Skiff-influenced email app since most users use AI agents instead](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/) (2026-06-25)
-- [Google finally releases a Finance Android app, promises iOS version later in 2026](https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/) (2026-06-25)
+- [FCC accused of hiding Chairman Carr's messages with DOGE and Musk](https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/) (2026-06-26)
+- [Netflix now requires every user profile to be tied to unique email address](https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/) (2026-06-26)
+- [Antibiotic "megacluster" discovery provides new strategy to fight superbugs](https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/) (2026-06-26)
+- [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/) (2026-06-26)
+- [VW may close four factories to adapt to the future, report says](https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/) (2026-06-26)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
-- [Transitioning as a hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) (2026-06-26)
+- [GitHub and UNDP team up to advance development priorities in Ghana with open source](https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/) (2026-06-26)
+- [Transitioning as a Hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) (2026-06-26)
 - [Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) (2026-06-25)
 - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) (2026-06-23)
 - [GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) (2026-06-23)
-- [From pledge to practice: Building a more inclusive open source ecosystem](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/) (2026-06-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [You Already Know the Answer. So Why Did You Reach for Your Phone?](https://dev.to/icophy/you-already-know-the-answer-so-why-did-you-reach-for-your-phone-4n85) (2026-06-26)
-- [DevOps Security Best Practices Every Engineering Team Should Follow](https://dev.to/devopsaitoolkit/devops-security-best-practices-every-engineering-team-should-follow-18k5) (2026-06-26)
-- [OpenSparrow v2.8 – Kanban board, MySQL Gateway, and major security hardening](https://dev.to/wrobeltomasz/opensparrow-v28-kanban-board-mysql-gateway-and-major-security-hardening-41ic) (2026-06-26)
-- [Only Inert Definitions Cross the Boundary](https://dev.to/synthaicode_commander/only-inert-definitions-cross-the-boundary-1jdf) (2026-06-26)
-- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam) (2026-06-26)
+- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm) (2026-06-26)
+- [Building LSTMs with PyTorch and Lightning AI Part 4: Training Step and Initial Predictions](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-4-training-step-and-initial-predictions-33fj) (2026-06-26)
+- [Production-Ready CodeIgniter 4 + Docker Stack with CI/CD in Less than 10 Minutes](https://dev.to/viavi_dev/production-ready-codeigniter-4-docker-stack-with-cicd-in-less-than-10-minutes-221j) (2026-06-26)
+- [Free esports API for developers — 2026 guide](https://dev.to/domktt/free-esports-api-for-developers-2026-guide-65f) (2026-06-26)
+- [From ANSI to Ergo: Remapping the Transition](https://dev.to/argenkiwi/from-ansi-to-ergo-remapping-the-transition-3bd5) (2026-06-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Smart Assistants to ChatGPT: AI, ML, Deep Learning & Generative AI Explained](https://medium.com/@hebbarshree855/from-smart-assistants-to-chatgpt-ai-ml-deep-learning-generative-ai-explained-652864004ded?source=rss------programming-5) (2026-06-26)
-- [The Connected Smart Factory: How AIoT is Transforming OEM Automotive Manufacturing](https://medium.com/@cheeruvenkatesh/the-connected-smart-factory-how-aiot-is-transforming-oem-automotive-manufacturing-209955bb2f91?source=rss------programming-5) (2026-06-26)
-- [SpaceX Bought Its Way Into AI and Everything Got Weird](https://medium.com/@nuno.roberto/spacex-bought-its-way-into-ai-and-everything-got-weird-09653e176f45?source=rss------programming-5) (2026-06-26)
-- [YouTube Videos to Shorts, AI video-audio translation to 90+ languages](https://shreyvijayvargiya26.medium.com/youtube-videos-to-shorts-ai-video-audio-translation-to-90-languages-c3bf940af329?source=rss------programming-5) (2026-06-26)
-- [Why Changing a Namespace in UiPath Custom Activities Is a Breaking Change — Not Just a Refactor](https://medium.com/@ashish711297/why-changing-a-namespace-in-uipath-custom-activities-is-a-breaking-change-not-just-a-refactor-312993e4aad5?source=rss------programming-5) (2026-06-26)
+- [Your App Is Leaking Secrets and You Don’t Know It](https://levelup.gitconnected.com/your-app-is-leaking-secrets-and-you-dont-know-it-c1b2e31221a9?source=rss------programming-5) (2026-06-26)
+- [Google’s New Android Verification Rule Could End Anonymous App Publishing](https://levelup.gitconnected.com/google-android-developer-id-verification-c6715e787e02?source=rss------programming-5) (2026-06-26)
+- [Parallel Free Search Lands in OpenClaw: A Zero-Key Web Search MCP, Tested Against Tavily](https://levelup.gitconnected.com/parallel-free-search-lands-in-openclaw-a-zero-key-web-search-mcp-tested-against-tavily-74fdb2e53f36?source=rss------programming-5) (2026-06-26)
+- [Understanding Project Valhalla and Why JDK 28 Took a Decade](https://levelup.gitconnected.com/understanding-project-valhalla-and-why-jdk-28-took-a-decade-857b3821b9a9?source=rss------programming-5) (2026-06-26)
+- [Google’s Best AI Minds Are Leaving. They’re Not Chasing Money. They’re Chasing Compute.](https://levelup.gitconnected.com/googles-best-ai-minds-are-leaving-they-re-not-chasing-money-they-re-chasing-compute-89c89d753d5a?source=rss------programming-5) (2026-06-26)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Open-Sourcing the LSP Client API in IntelliJ IDEA 2026.2](https://blog.jetbrains.com/platform/2026/06/open-sourcing-the-lsp-client-api-in-intellij-idea-2026-2/) (2026-06-26)
 - [The Dev Containers Story: Introducing EelApi for Plugin Authors](https://blog.jetbrains.com/platform/2026/06/the-dev-containers-story-introducing-eelapi-for-plugin-authors/) (2026-06-25)
 - [The Real Winner of Cursor’s $60B Acquisition Won’t Be AI Coding Assistants](https://blog.jetbrains.com/qodana/2026/06/cursor-s-60b-acquisition/) (2026-06-25)
 - [Introducing a Recommended Agent in AI Chat, With Codex as the Current Default](https://blog.jetbrains.com/ai/2026/06/codex-is-now-the-recommended-agent-in-jetbrains-ai/) (2026-06-25)
 - [SSH Connections Are Moving to JetBrains Daemon in the Toolbox App 3.6 EAP](https://blog.jetbrains.com/toolbox-app/2026/06/ssh-connections-are-moving-to-jetbrains-daemon-in-the-toolbox-app-3-6-eap/) (2026-06-25)
-- [Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now.](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.127](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
+- [Visual Studio Code 1.127 (Insiders)](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
+- [Iterating faster with TypeScript 7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) (2026-06-26)
 - [Visual Studio Code 1.126](https://code.visualstudio.com/updates/v1_126) (2026-06-24)
 - [What 50,000 Runs of a 5-Line Eval Taught Us](https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us) (2026-06-19)
 - [Use your own language model key in VS Code](https://code.visualstudio.com/blogs/2026/06/18/byok-vscode) (2026-06-18)
-- [Visual Studio Code 1.125](https://code.visualstudio.com/updates/v1_125) (2026-06-17)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-26)
 - [Query Web Analytics from the Vercel CLI](https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli) (2026-06-26)
+- [Trace and debug eve agent sessions with Vercel Observability](https://vercel.com/changelog/eve-agent-observability) (2026-06-26)
 - [AI SDK 7](https://vercel.com/blog/ai-sdk-7) (2026-06-25)
 - [Teaching agents product design at Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel) (2026-06-25)
-- [AI SDK 7 is now available](https://vercel.com/changelog/ai-sdk-7) (2026-06-25)
-- [Deep Agents and OpenCode are now available in the AI SDK Harness](https://vercel.com/changelog/deepagents-and-opencode-harness-adapters) (2026-06-25)
 
 </details>
 
@@ -403,12 +403,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
 - [Embedded Login Advancements: Put Your Apps in Control of Identity to Accelerate Conversions](https://auth0.com/blog/embedded-login-advancements/) (2026-06-24)
 - [Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault.](https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/) (2026-06-23)
 - [Passkey Adoption Is Rising, but Is It Worth It Yet?](https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/) (2026-06-22)
 - [LLMjacking and the Hidden Cost of a Stolen API Key](https://auth0.com/blog/llmjacking-stolen-api-key-hidden-cost/) (2026-06-18)
-- [The Part of Software Engineering AI Cannot Replace
-](https://auth0.com/blog/part-of-software-engineering-ai-cannot-replace/) (2026-06-18)
 
 </details>
 
@@ -437,11 +436,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [How Prisma Compute Keeps Time Accurate in Long-Running Applications](https://www.prisma.io/blog/prisma-compute-time-synchronization) (2026-06-26)
 - [Prisma Postgres on Stripe Projects](https://www.prisma.io/blog/prisma-postgres-on-stripe-projects) (2026-06-26)
 - [Prisma Postgres vs Neon Pricing 2026](https://www.prisma.io/blog/prisma-postgres-vs-neon-pricing-2026) (2026-06-24)
 - [Price the Work, Not the Workflow](https://www.prisma.io/blog/price-the-work-not-the-workflow) (2026-06-23)
 - [Search the Prisma Docs Using Your Coding Agent](https://www.prisma.io/blog/search-prisma-docs-from-your-coding-agent) (2026-06-23)
-- [Evolving Agentic Engineering at Prisma](https://www.prisma.io/blog/evolving-agentic-engineering-at-prisma) (2026-06-22)
 
 </details>
 
@@ -556,13 +555,24 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [SAP aligns commerce data for AI personalisation](https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/) (2026-06-26)
+- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
+- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
+- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
+- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Local LLM to Tool-Using Agent](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) (2026-06-26)
+- [Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation](https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/) (2026-06-26)
 - [Amplify the Expert: A Philosophy for Building Enterprise RAG](https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/) (2026-06-26)
 - [How to Ace Data and ML Behavioural Interviews](https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/) (2026-06-26)
 - [Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/) (2026-06-25)
-- [The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark](https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/) (2026-06-25)
-- [Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression](https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/) (2026-06-25)
 
 </details>
 
@@ -580,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Fine-tuning Language Models on Apple Silicon with MLX](https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx) (2026-06-26)
 - [5 Agentic Workflows to Automate Your Data Science Pipeline](https://www.kdnuggets.com/5-agentic-workflows-to-automate-your-data-science-pipeline) (2026-06-26)
 - [Using Gemini to Create Google Sheets](https://www.kdnuggets.com/using-gemini-to-create-google-sheets) (2026-06-25)
 - [5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video](https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video) (2026-06-25)
 - [The Roadmap to Becoming an AI Architect in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026) (2026-06-25)
-- [Top 7 Coding Models You Can Run Locally in 2026](https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026) (2026-06-24)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The AI Agent Tech Stack Explained](https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/) (2026-06-26)
 - [Agentic Workflow vs. Autonomous Agent: What’s the Difference?](https://machinelearningmastery.com/agentic-workflow-vs-autonomous-agent-whats-the-difference/) (2026-06-25)
 - [Context Windows Are Not Memory: What AI Agent Developers Need to Understand](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) (2026-06-24)
 - [Clustering Unstructured Text with LLM Embeddings and HDBSCAN](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) (2026-06-23)
 - [Building Browser-Using AI Agents in Python](https://machinelearningmastery.com/building-browser-using-ai-agents-in-python/) (2026-06-22)
-- [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) (2026-06-18)
 
 </details>
 
