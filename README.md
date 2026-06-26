@@ -9,99 +9,99 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/) (2026-06-26)
+- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/) (2026-06-26)
 - [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) (2026-06-25)
 - [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/) (2026-06-25)
 - [Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/) (2026-06-25)
-- [Polymarket says hackers stole users’ funds](https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/) (2026-06-25)
-- [Xbox follows Apple with price increases ](https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs) (2026-06-26)
-- [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854) (2026-06-26)
-- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/) (2026-06-26)
+- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) (2026-06-26)
+- [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA) (2026-06-26)
+- [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain) (2026-06-26)
+- [We all depend on open source. We will defend it together](https://akrites.org/letter/) (2026-06-26)
 - [Libre Barcode Project](https://graphicore.github.io/librebarcode/) (2026-06-26)
-- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) (2026-06-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit) (2026-06-26)
-- [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-25)
-- [Android 17&#8217;s new foldable gaming mode could make flippy phones more fun](https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller) (2026-06-25)
-- [YouTube updates Shorts to make it even more like TikTok](https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok) (2026-06-25)
-- [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) (2026-06-25)
+- [Anthropic&#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations) (2026-06-26)
+- [Apple&#8217;s AirPods Max 2 headphones are still $150 off — for now](https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale) (2026-06-26)
+- [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale) (2026-06-26)
+- [With GTA looming, consoles are getting expensive at the worst possible time](https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes) (2026-06-26)
+- [Samsung will soon start charging to access its smart home API](https://www.theverge.com/tech/957597/samsung-smartthings-api-charges) (2026-06-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response](https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/) (2026-06-26)
 - [Microsoft adds another year to Windows 10 extended update program](https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/) (2026-06-25)
 - [FCC may kill $2B program that connects schools and libraries to Internet](https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/) (2026-06-25)
 - [Notion killing Skiff-influenced email app since most users use AI agents instead](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/) (2026-06-25)
 - [Google finally releases a Finance Android app, promises iOS version later in 2026](https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/) (2026-06-25)
-- [Anthropic says Alibaba must be punished for largest Claude cloning attack](https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: brain-melting heatwaves and unprecedented OpenAI restrictions](https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/) (2026-06-26)
+- [Heat waves mess with your brain. Scientists are trying to figure out why.](https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/) (2026-06-26)
 - [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/) (2026-06-25)
 - [The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law](https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/) (2026-06-25)
 - [What Europe’s heat wave means for the power grid](https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/) (2026-06-25)
-- [IBM has unveiled chip technology that could help extend Moore’s Law another decade](https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/) (2026-06-25)
-- [Europe’s extreme heat is shutting down power plants](https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/) (2026-06-24)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Transitioning as a hubber](https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/) (2026-06-26)
 - [Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) (2026-06-25)
 - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) (2026-06-23)
 - [GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) (2026-06-23)
 - [From pledge to practice: Building a more inclusive open source ecosystem](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/) (2026-06-22)
-- [How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Paging Charity! How can engineering leaders avoid becoming Bond villains?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/) (2026-06-26)
 - [Code isn’t the only thing causing your production failures​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/) (2026-06-25)
 - [Your AI shipped a backend that boots. That is the whole problem.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/23/your-ai-shipped-a-backend-that-boots-that-is-the-whole-problem/) (2026-06-23)
 - [The 2026 Developer Survey is now open (for human developers only)!​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only/) (2026-06-23)
 - [Oh the places you’ll go with spatial data​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/) (2026-06-23)
-- [Dispatches from O'Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Root Cause Analysis Across Every Signal, On One Screen](https://dev.to/epok/root-cause-analysis-across-every-signal-on-one-screen-34gn) (2026-06-26)
-- [🧹 Keeping Your Kubernetes Cluster Clean with the Descheduler](https://dev.to/hkhelil/keeping-your-kubernetes-cluster-clean-with-the-descheduler-41e5) (2026-06-26)
-- [Writing JSON-LD structured data by hand, and when to stop](https://dev.to/cleverutils_seo_4d16eef75/writing-json-ld-structured-data-by-hand-and-when-to-stop-31jn) (2026-06-26)
-- [I Built a Local Video Processing Workstation with AI — Here's the Complete Journey](https://dev.to/mayu888/i-built-a-local-video-processing-workstation-with-ai-heres-the-complete-journey-413l) (2026-06-26)
-- [Building Internal Events in Django Without Kafka or RabbitMQ](https://dev.to/seyed_alimoradi_e9f65c65/building-internal-events-in-django-without-kafka-or-rabbitmq-5c1n) (2026-06-26)
+- [You Already Know the Answer. So Why Did You Reach for Your Phone?](https://dev.to/icophy/you-already-know-the-answer-so-why-did-you-reach-for-your-phone-4n85) (2026-06-26)
+- [DevOps Security Best Practices Every Engineering Team Should Follow](https://dev.to/devopsaitoolkit/devops-security-best-practices-every-engineering-team-should-follow-18k5) (2026-06-26)
+- [OpenSparrow v2.8 – Kanban board, MySQL Gateway, and major security hardening](https://dev.to/wrobeltomasz/opensparrow-v28-kanban-board-mysql-gateway-and-major-security-hardening-41ic) (2026-06-26)
+- [Only Inert Definitions Cross the Boundary](https://dev.to/synthaicode_commander/only-inert-definitions-cross-the-boundary-1jdf) (2026-06-26)
+- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam) (2026-06-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Belum Berubah Bukan Berarti Berhenti: Dedikasi Tanpa Batas Posyandu Putik Kramat Pela](https://medium.com/@azzahrafatmatul/belum-berubah-bukan-berarti-berhenti-dedikasi-tanpa-batas-posyandu-putik-kramat-pela-11dee598d67c?source=rss------programming-5) (2026-06-26)
-- [What a 1,000-Year-Old Indian Divination System Can Teach Software Engineers About State Machines](https://medium.com/@schoolofgeomancy/what-a-1-000-year-old-indian-divination-system-can-teach-software-engineers-about-state-machines-a00ead07491d?source=rss------programming-5) (2026-06-26)
-- [Inilah Alasan React dan Vue Mendominasi Pengembangan Aplikasi Web Modern](https://medium.com/@infomediakuu/inilah-alasan-react-dan-vue-mendominasi-pengembangan-aplikasi-web-modern-569923685062?source=rss------programming-5) (2026-06-26)
-- [I Stopped Writing Repetitive Python Scripts After Discovering These 5 Automation Libraries](https://medium.com/codetodeploy/i-stopped-writing-repetitive-python-scripts-after-discovering-these-5-automation-libraries-6227305f29a0?source=rss------programming-5) (2026-06-26)
-- [Why Developers Don’t Need More Hosting Tools — They Need Better Collaboration Tools](https://medium.com/@onifkay/why-developers-dont-need-more-hosting-tools-they-need-better-collaboration-tools-8f84008dc2a4?source=rss------programming-5) (2026-06-26)
+- [From Smart Assistants to ChatGPT: AI, ML, Deep Learning & Generative AI Explained](https://medium.com/@hebbarshree855/from-smart-assistants-to-chatgpt-ai-ml-deep-learning-generative-ai-explained-652864004ded?source=rss------programming-5) (2026-06-26)
+- [The Connected Smart Factory: How AIoT is Transforming OEM Automotive Manufacturing](https://medium.com/@cheeruvenkatesh/the-connected-smart-factory-how-aiot-is-transforming-oem-automotive-manufacturing-209955bb2f91?source=rss------programming-5) (2026-06-26)
+- [SpaceX Bought Its Way Into AI and Everything Got Weird](https://medium.com/@nuno.roberto/spacex-bought-its-way-into-ai-and-everything-got-weird-09653e176f45?source=rss------programming-5) (2026-06-26)
+- [YouTube Videos to Shorts, AI video-audio translation to 90+ languages](https://shreyvijayvargiya26.medium.com/youtube-videos-to-shorts-ai-video-audio-translation-to-90-languages-c3bf940af329?source=rss------programming-5) (2026-06-26)
+- [Why Changing a Namespace in UiPath Custom Activities Is a Breaking Change — Not Just a Refactor](https://medium.com/@ashish711297/why-changing-a-namespace-in-uipath-custom-activities-is-a-breaking-change-not-just-a-refactor-312993e4aad5?source=rss------programming-5) (2026-06-26)
 
 </details>
 
@@ -174,11 +174,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App](https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4) (2026-06-26)
 - [Community Comebacks, Angular 21.1 Features, and Smarter Signal Forms ️⚡](https://blog.angular.dev/angular-community-weekly-14-25842ff36020?source=rss----447683c3d9a3---4) (2026-06-19)
 - [Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality! ](https://blog.angular.dev/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality-ff37df480574?source=rss----447683c3d9a3---4) (2026-06-05)
 - [Announcing Angular v22](https://blog.angular.dev/announcing-angular-v22-c52bb83a4664?source=rss----447683c3d9a3---4) (2026-06-03)
 - [Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️](https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-94c18a911a3a?source=rss----447683c3d9a3---4) (2026-05-22)
-- [Back from Baby Bonding: Agents, Building Blocks, and the Future of AI Engineering](https://blog.angular.dev/back-from-baby-bonding-agents-building-blocks-and-the-future-of-ai-engineering-07c0afb816a3?source=rss----447683c3d9a3---4) (2026-04-28)
 
 </details>
 
@@ -307,7 +307,7 @@
 <summary>💎 JetBrains Blog</summary>
 
 - [The Dev Containers Story: Introducing EelApi for Plugin Authors](https://blog.jetbrains.com/platform/2026/06/the-dev-containers-story-introducing-eelapi-for-plugin-authors/) (2026-06-25)
-- [The real winner of Cursor’s $60B acquisition won’t be AI coding assistants](https://blog.jetbrains.com/qodana/2026/06/cursor-s-60b-acquisition/) (2026-06-25)
+- [The Real Winner of Cursor’s $60B Acquisition Won’t Be AI Coding Assistants](https://blog.jetbrains.com/qodana/2026/06/cursor-s-60b-acquisition/) (2026-06-25)
 - [Introducing a Recommended Agent in AI Chat, With Codex as the Current Default](https://blog.jetbrains.com/ai/2026/06/codex-is-now-the-recommended-agent-in-jetbrains-ai/) (2026-06-25)
 - [SSH Connections Are Moving to JetBrains Daemon in the Toolbox App 3.6 EAP](https://blog.jetbrains.com/toolbox-app/2026/06/ssh-connections-are-moving-to-jetbrains-daemon-in-the-toolbox-app-3-6-eap/) (2026-06-25)
 - [Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now.](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/) (2026-06-25)
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Query Web Analytics from the Vercel CLI](https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli) (2026-06-26)
 - [AI SDK 7](https://vercel.com/blog/ai-sdk-7) (2026-06-25)
 - [Teaching agents product design at Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel) (2026-06-25)
 - [AI SDK 7 is now available](https://vercel.com/changelog/ai-sdk-7) (2026-06-25)
 - [Deep Agents and OpenCode are now available in the AI SDK Harness](https://vercel.com/changelog/deepagents-and-opencode-harness-adapters) (2026-06-25)
-- [Vercel Flags no longer requires SDK Keys for Vercel deployments](https://vercel.com/changelog/authenticate-vercel-flags-with-openid-connect-by-default) (2026-06-24)
 
 </details>
 
@@ -378,25 +378,25 @@ The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications w
 https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
 ) (2026-06-26)
 - [
-How to Validate Twilio Event Streams Webhooks in Rust
+Create High-Impact RCS Marketing Campaigns in Heymarket using Twilio
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
-) (2026-06-24)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-impact-rcs-marketing-campaigns-heymarket
+) (2026-06-25)
 - [
 Build and Test a Patient Appointment Scheduling Agent with Twilio and Bluejay
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/patient-appointment-scheduling-agent-twilio-bluejay
 ) (2026-06-24)
 - [
+How to Validate Twilio Event Streams Webhooks in Rust
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
+) (2026-06-24)
+- [
 What is AI customer memory? How it works & getting started
 ](
 https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 ) (2026-06-23)
-- [
-7 top customer data platforms for AI agents in 2026
-](
-https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
-) (2026-06-22)
 
 </details>
 
@@ -437,11 +437,11 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Prisma Postgres on Stripe Projects](https://www.prisma.io/blog/prisma-postgres-on-stripe-projects) (2026-06-26)
 - [Prisma Postgres vs Neon Pricing 2026](https://www.prisma.io/blog/prisma-postgres-vs-neon-pricing-2026) (2026-06-24)
 - [Price the Work, Not the Workflow](https://www.prisma.io/blog/price-the-work-not-the-workflow) (2026-06-23)
 - [Search the Prisma Docs Using Your Coding Agent](https://www.prisma.io/blog/search-prisma-docs-from-your-coding-agent) (2026-06-23)
 - [Evolving Agentic Engineering at Prisma](https://www.prisma.io/blog/evolving-agentic-engineering-at-prisma) (2026-06-22)
-- [App Hosting and Compute Platforms for AI Agents in 2026](https://www.prisma.io/blog/app-hosting-compute-platforms-for-ai-agents-2026) (2026-06-19)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
+- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
@@ -556,46 +556,35 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
-- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
-- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
-- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
-- [Top spy agencies say AI cyber threats will impact you within months. Here’s why](https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/) (2026-06-23)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Amplify the Expert: A Philosophy for Building Enterprise RAG](https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/) (2026-06-26)
+- [How to Ace Data and ML Behavioural Interviews](https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/) (2026-06-26)
 - [Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/) (2026-06-25)
 - [The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark](https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/) (2026-06-25)
 - [Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression](https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/) (2026-06-25)
-- [3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal](https://towardsdatascience.com/3-agents-3-llms-1-aging-gpu-engineering-parallel-inference-on-bare-metal/) (2026-06-25)
-- [An LLM as arbiter in RAG retrieval: picking the right candidate with reasons](https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Using AI When You Don’t Trust AI](https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/) (2026-06-26)
 - [The Loop That Makes AI Agents Get Smarter on Their Own](https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/) (2026-06-25)
 - [Harness-1: The 20B Retrieval Subagent That Beats GPT-5.4 at Search](https://www.analyticsvidhya.com/blog/2026/06/harness-1-ai-retrieval-agent/) (2026-06-24)
 - [Sakana Fugu: Multi-Agent System as a Model ](https://www.analyticsvidhya.com/blog/2026/06/sakana-fugu-multi-agent-system-as-a-model/) (2026-06-23)
 - [Claude’s Hidden Art Skill: Making Illustrations With Code](https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/) (2026-06-22)
-- [System Design for ML Interviews: 10 Real Problems Walked Through](https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/) (2026-06-19)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Agentic Workflows to Automate Your Data Science Pipeline](https://www.kdnuggets.com/5-agentic-workflows-to-automate-your-data-science-pipeline) (2026-06-26)
 - [Using Gemini to Create Google Sheets](https://www.kdnuggets.com/using-gemini-to-create-google-sheets) (2026-06-25)
 - [5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video](https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video) (2026-06-25)
 - [The Roadmap to Becoming an AI Architect in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026) (2026-06-25)
 - [Top 7 Coding Models You Can Run Locally in 2026](https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026) (2026-06-24)
-- [The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code](https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code) (2026-06-23)
 
 </details>
 
