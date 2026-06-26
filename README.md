@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) (2026-06-25)
+- [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/) (2026-06-25)
+- [Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/) (2026-06-25)
+- [Polymarket says hackers stole users’ funds](https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/) (2026-06-25)
 - [Xbox follows Apple with price increases ](https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/) (2026-06-25)
-- [Notion Mail shuts down amid agent takeover](https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/) (2026-06-25)
-- [a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/) (2026-06-25)
-- [Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/) (2026-06-25)
-- [General Intuition’s $2.3B bet that video games can train AI agents for the real world](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data) (2026-06-25)
-- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) (2026-06-25)
-- [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/) (2026-06-25)
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) (2026-06-25)
-- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) (2026-06-25)
+- [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/) (2026-06-26)
+- [AI children's books, body horror edition](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition) (2026-06-26)
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) (2026-06-26)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/) (2026-06-25)
+- [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-25)
-- [It&#8217;s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve) (2026-06-25)
-- [You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike](https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes) (2026-06-25)
-- [Polestar has been muscled out of the US market](https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software) (2026-06-25)
-- [Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like](https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals) (2026-06-25)
+- [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-25)
+- [Android 17&#8217;s new foldable gaming mode could make flippy phones more fun](https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller) (2026-06-25)
+- [YouTube updates Shorts to make it even more like TikTok](https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok) (2026-06-25)
+- [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) (2026-06-25)
+- [Framework has good news and bad news](https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu) (2026-06-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Feds deny Polestar authorization to sell cars in US from model year 2027](https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/) (2026-06-25)
-- [Apple ratchets up prices, blames the cost of memory](https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/) (2026-06-25)
-- [The "sad inevitability" of Europe's heat wave](https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/) (2026-06-25)
-- [New effort will get genome sequences for entire Endangered Species list](https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/) (2026-06-25)
-- [Every Homo naledi we know of is female, and the implications are fascinating](https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/) (2026-06-25)
+- [Microsoft adds another year to Windows 10 extended update program](https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/) (2026-06-25)
+- [FCC may kill $2B program that connects schools and libraries to Internet](https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/) (2026-06-25)
+- [Notion killing Skiff-influenced email app since most users use AI agents instead](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/) (2026-06-25)
+- [Google finally releases a Finance Android app, promises iOS version later in 2026](https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/) (2026-06-25)
+- [Anthropic says Alibaba must be punished for largest Claude cloning attack](https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/) (2026-06-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) (2026-06-25)
 - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) (2026-06-23)
 - [GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/) (2026-06-23)
 - [From pledge to practice: Building a more inclusive open source ecosystem](https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/) (2026-06-22)
 - [How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/) (2026-06-19)
-- [How pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) (2026-06-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lessons from building a QR-paired browser handoff tool](https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk) (2026-06-25)
-- [The Feynman Technique Prompt: How to Make AI Explain Anything in 4 Layers of Depth](https://dev.to/blobxiaoyao/the-feynman-technique-prompt-how-to-make-ai-explain-anything-in-4-layers-of-depth-3076) (2026-06-25)
-- [AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf) (2026-06-25)
-- [9 GitHub Projects Worth Building If You're Serious About Physical AI and Robotics](https://dev.to/shaifurcodes/9-github-projects-worth-building-if-youre-serious-about-physical-ai-and-robotics-4m4n) (2026-06-25)
-- [I Built a 131-Test Eval Harness Before Writing New Features. Here's the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb) (2026-06-25)
+- [Don't Trust the Checkmark: Verifying Agent Provenance From the Outside](https://dev.to/colonistone_34/dont-trust-the-checkmark-verifying-agent-provenance-from-the-outside-4cga) (2026-06-26)
+- [I Saw the Rosetta Stone. Here's What It Taught Me About B2B SaaS.](https://dev.to/erintomorri/i-saw-the-rosetta-stone-heres-what-it-taught-me-about-b2b-saas-dcn) (2026-06-26)
+- [Your Webhook Tool Can't Tell You What Actually Happened](https://dev.to/zenmesh/your-webhook-tool-cant-tell-you-what-actually-happened-4g06) (2026-06-26)
+- [Creating a Small Helper Class to Safely Handle CancellationTokenSource Cancel and Dispose](https://dev.to/gamedevtoollab/creating-a-small-helper-class-to-safely-handle-cancellationtokensource-cancel-and-dispose-11ca) (2026-06-26)
+- [I lost months of Google indexing to a single missing UA pattern](https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9) (2026-06-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Every Commit A Sentence: Git Commit Messages for Bloggers](https://brennanbrown.medium.com/every-commit-a-sentence-git-commit-messages-for-bloggers-3ce717b7a3c4?source=rss------programming-5) (2026-06-25)
-- [AI Can Write Code. Software Engineers Design Systems.](https://medium.com/@techie.bhavin/ai-can-write-code-software-engineers-design-systems-99f55a395006?source=rss------programming-5) (2026-06-25)
-- [I Finally Understood System Architecture, and All It Took Was a Cheeseburger](https://medium.com/@drajput_14416/i-finally-understood-system-architecture-and-all-it-took-was-a-cheeseburger-d4d39f98e34a?source=rss------programming-5) (2026-06-25)
-- [The Fucking Hot Shemale](https://medium.com/@umerk/the-fucking-hot-shemale-bf2c3d0999c1?source=rss------programming-5) (2026-06-25)
-- [AI Agents Share One Architecture. What You Own Is the Wiring.](https://medium.com/@sunilkumarvuppala/ai-agents-share-one-architecture-what-you-own-is-the-wiring-b58f2b895b5f?source=rss------programming-5) (2026-06-25)
+- [3739. Count Subarrays With Majority Element II](https://krishbhatia026.medium.com/3739-count-subarrays-with-majority-element-ii-916a99fa7406?source=rss------programming-5) (2026-06-26)
+- [Laravel JSON:API Resources: Your API Responses Are Probably Inconsistent and Your Clients Are…](https://sadiqueali.medium.com/laravel-json-api-resources-your-api-responses-are-probably-inconsistent-and-your-clients-are-ecb09502cf8f?source=rss------programming-5) (2026-06-26)
+- [Spring Boot REST API — The Ultimate Checklist Before Going to Production](https://medium.com/@codewithpushpak/spring-boot-rest-api-the-ultimate-checklist-before-going-to-production-357025949139?source=rss------programming-5) (2026-06-26)
+- [7 Angular Signals Patterns That Will Replace Half Your RxJS Code in 2026](https://medium.com/@sourabhda1998/7-angular-signals-patterns-that-will-replace-half-your-rxjs-code-in-2026-f9bb0c810ff2?source=rss------programming-5) (2026-06-26)
+- [Google Research Reveals How It Plans to Fight AI Spam at Scale](https://medium.com/predict/google-research-reveals-how-it-plans-to-fight-ai-spam-at-scale-896d92956172?source=rss------programming-5) (2026-06-26)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) (2026-06-25)
 - [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
 - [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/) (2026-06-23)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
-- [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) (2026-06-11)
 
 </details>
 
@@ -251,18 +251,18 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study](https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/) (2026-06-25)
 - [How Meta Engineered Ultra-Narrow Batteries for AI Glasses](https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/) (2026-06-23)
 - [Adopting AV1 for Real-Time Communication (RTC) at Scale](https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/) (2026-06-22)
 - [Lights Out, Systems On: Validating Instant Power Loss Readiness](https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/) (2026-06-03)
 - [SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems](https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/) (2026-05-26)
-- [Reel Friends: Building Social Discovery that Scales to Billions](https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/) (2026-05-13)
 
 </details>
 
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
-- [How we used DSPy to turn AI evaluations into better responses in Dash Chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
+- [How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
 - [How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security) (2026-06-12)
 - [Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents) (2026-05-28)
 - [Introducing Nova, our internal platform for coding agents](https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents) (2026-05-21)
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [AI SDK 7](https://vercel.com/blog/ai-sdk-7) (2026-06-25)
+- [Teaching agents product design at Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel) (2026-06-25)
 - [AI SDK 7 is now available](https://vercel.com/changelog/ai-sdk-7) (2026-06-25)
+- [Deep Agents and OpenCode are now available in the AI SDK Harness](https://vercel.com/changelog/deepagents-and-opencode-harness-adapters) (2026-06-25)
 - [Vercel Flags no longer requires SDK Keys for Vercel deployments](https://vercel.com/changelog/authenticate-vercel-flags-with-openid-connect-by-default) (2026-06-24)
-- [GLM 5.2 Fast via Wafer now available on AI Gateway](https://vercel.com/changelog/glm-5-2-fast-via-wafer-now-available-on-ai-gateway) (2026-06-24)
-- [Deploy Node servers with zero configuration](https://vercel.com/changelog/deploy-node-servers-with-zero-configuration) (2026-06-23)
 
 </details>
 
@@ -363,7 +363,7 @@
 
 - [How we built saga rollbacks for Cloudflare Workflows](https://blog.cloudflare.com/rollbacks-for-workflows/) (2026-06-25)
 - [Unlocking the Cloudflare app ecosystem with OAuth for all](https://blog.cloudflare.com/oauth-for-all/) (2026-06-24)
-- [The post-quantum EO is an important milestone. Now it’s time to get to work](https://blog.cloudflare.com/post-quantum-eo-2026/) (2026-06-23)
+- [The White House's post-quantum executive order is an important milestone. It’s time to get to work](https://blog.cloudflare.com/post-quantum-eo-2026/) (2026-06-23)
 - [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/) (2026-06-22)
 - [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) (2026-06-19)
 
@@ -378,25 +378,25 @@ The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications w
 https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
 ) (2026-06-26)
 - [
-How to Validate Twilio Event Streams Webhooks in Rust
+Create High-Impact RCS Marketing Campaigns in Heymarket using Twilio
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
-) (2026-06-24)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-impact-rcs-marketing-campaigns-heymarket
+) (2026-06-25)
 - [
 Build and Test a Patient Appointment Scheduling Agent with Twilio and Bluejay
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/patient-appointment-scheduling-agent-twilio-bluejay
 ) (2026-06-24)
 - [
+How to Validate Twilio Event Streams Webhooks in Rust
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
+) (2026-06-24)
+- [
 What is AI customer memory? How it works & getting started
 ](
 https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 ) (2026-06-23)
-- [
-7 top customer data platforms for AI agents in 2026
-](
-https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
-) (2026-06-22)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) (2026-06-26)
 - [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction) (2026-06-25)
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) (2026-06-24)
 - [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) (2026-06-24)
 - [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) (2026-06-23)
-- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) (2026-06-23)
 
 </details>
 
