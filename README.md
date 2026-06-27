@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) (2026-06-27)
+- [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) (2026-06-27)
+- [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/) (2026-06-26)
 - [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) (2026-06-26)
 - [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) (2026-06-26)
-- [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) (2026-06-26)
-- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) (2026-06-26)
-- [Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/) (2026-06-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/) (2026-06-26)
-- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) (2026-06-26)
-- [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me) (2026-06-26)
-- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) (2026-06-26)
-- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) (2026-06-26)
+- [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/) (2026-06-27)
+- [Om](https://daringfireball.net/2026/06/om) (2026-06-26)
+- [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/) (2026-06-26)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) (2026-06-26)
+- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) (2026-06-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The beautiful shame](https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump) (2026-06-26)
-- [This video bird feeder is the surprise hit of Prime Day](https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale) (2026-06-26)
-- [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four) (2026-06-26)
-- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) (2026-06-26)
-- [Smart lock maker Level has been gutted and its founders are out](https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud) (2026-06-26)
+- [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers) (2026-06-27)
+- [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-27)
+- [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) (2026-06-27)
+- [Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale) (2026-06-27)
+- [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [FCC accused of hiding Chairman Carr's messages with DOGE and Musk](https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/) (2026-06-26)
-- [Netflix now requires every user profile to be tied to unique email address](https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/) (2026-06-26)
-- [Antibiotic "megacluster" discovery provides new strategy to fight superbugs](https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/) (2026-06-26)
-- [Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?](https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/) (2026-06-26)
-- [VW may close four factories to adapt to the future, report says](https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/) (2026-06-26)
+- [South Korea plans to train entire military as "drone warriors"](https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/) (2026-06-26)
+- [Doctors suspected man had brain cancer. He actually had worms.](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/) (2026-06-26)
+- [Streaming services’ obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) (2026-06-26)
+- [Russian citizens told "switch to Android" after Apple blocks key Russian apps](https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/) (2026-06-26)
+- [NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/) (2026-06-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm) (2026-06-26)
-- [Building LSTMs with PyTorch and Lightning AI Part 4: Training Step and Initial Predictions](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-4-training-step-and-initial-predictions-33fj) (2026-06-26)
-- [Production-Ready CodeIgniter 4 + Docker Stack with CI/CD in Less than 10 Minutes](https://dev.to/viavi_dev/production-ready-codeigniter-4-docker-stack-with-cicd-in-less-than-10-minutes-221j) (2026-06-26)
-- [Free esports API for developers — 2026 guide](https://dev.to/domktt/free-esports-api-for-developers-2026-guide-65f) (2026-06-26)
-- [From ANSI to Ergo: Remapping the Transition](https://dev.to/argenkiwi/from-ansi-to-ergo-remapping-the-transition-3bd5) (2026-06-26)
+- [Terraform for Beginners: Your First Infrastructure as Code Project](https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd) (2026-06-27)
+- [I Built a Claude Code Skill That Finds Broken Callers Before You Deploy](https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2) (2026-06-27)
+- [Cloud Career Change: Zero to Cloud Engineer With No Experience](https://dev.to/citadel_cloudmanagement_/cloud-career-change-zero-to-cloud-engineer-with-no-experience-1egb) (2026-06-27)
+- [What Is DevOps? Everything You Need to Know in 2026](https://dev.to/citadel_cloudmanagement_/what-is-devops-everything-you-need-to-know-in-2026-1j7n) (2026-06-27)
+- [How to Become a Cloud Architect in 2026: Step-by-Step Career Guide](https://dev.to/citadel_cloudmanagement_/how-to-become-a-cloud-architect-in-2026-step-by-step-career-guide-4plp) (2026-06-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your App Is Leaking Secrets and You Don’t Know It](https://levelup.gitconnected.com/your-app-is-leaking-secrets-and-you-dont-know-it-c1b2e31221a9?source=rss------programming-5) (2026-06-26)
-- [Google’s New Android Verification Rule Could End Anonymous App Publishing](https://levelup.gitconnected.com/google-android-developer-id-verification-c6715e787e02?source=rss------programming-5) (2026-06-26)
-- [Parallel Free Search Lands in OpenClaw: A Zero-Key Web Search MCP, Tested Against Tavily](https://levelup.gitconnected.com/parallel-free-search-lands-in-openclaw-a-zero-key-web-search-mcp-tested-against-tavily-74fdb2e53f36?source=rss------programming-5) (2026-06-26)
-- [Understanding Project Valhalla and Why JDK 28 Took a Decade](https://levelup.gitconnected.com/understanding-project-valhalla-and-why-jdk-28-took-a-decade-857b3821b9a9?source=rss------programming-5) (2026-06-26)
-- [Google’s Best AI Minds Are Leaving. They’re Not Chasing Money. They’re Chasing Compute.](https://levelup.gitconnected.com/googles-best-ai-minds-are-leaving-they-re-not-chasing-money-they-re-chasing-compute-89c89d753d5a?source=rss------programming-5) (2026-06-26)
+- [The Plateau Is Not the End: What 41 Video Game Attempts Reveal About Learning](https://medium.com/@vladimirvolkovnc/the-plateau-is-not-the-end-what-41-video-game-attempts-reveal-about-learning-bfabe9d59856?source=rss------programming-5) (2026-06-27)
+- [Pair Programming and Mindfulness: How Meditation Improves Team Collaboration](https://medium.com/@baraiyapiyush682/pair-programming-and-mindfulness-how-meditation-improves-team-collaboration-02e6577be3e1?source=rss------programming-5) (2026-06-27)
+- [LXC (Linux Containers) Explained: Build Lightweight Containers Without Docker](https://medium.com/@alwinaji717/lxc-linux-containers-explained-build-lightweight-containers-without-docker-284246f23e01?source=rss------programming-5) (2026-06-27)
+- [حل مشاكل توافق PyQt6 مع ويندوز 11 (تحديث 24H2) نهائياً](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%AA%D9%88%D8%A7%D9%81%D9%82-pyqt6-%D9%85%D8%B9-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-11-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-24h2-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-62011d239695?source=rss------programming-5) (2026-06-27)
+- [حل مشكلة Manifest merger failed في أندرويد ستوديو نهائياً](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%A9-manifest-merger-failed-%D9%81%D9%8A-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%B3%D8%AA%D9%88%D8%AF%D9%8A%D9%88-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-40cc61bf879b?source=rss------programming-5) (2026-06-27)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) (2026-06-26)
 - [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) (2026-06-25)
 - [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/) (2026-06-25)
 - [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/) (2026-06-25)
 - [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/) (2026-06-24)
-- [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/) (2026-06-15)
 
 </details>
 
@@ -405,7 +405,7 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 
 - [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
 - [Embedded Login Advancements: Put Your Apps in Control of Identity to Accelerate Conversions](https://auth0.com/blog/embedded-login-advancements/) (2026-06-24)
-- [Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault.](https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/) (2026-06-23)
+- [Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault](https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/) (2026-06-23)
 - [Passkey Adoption Is Rising, but Is It Worth It Yet?](https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/) (2026-06-22)
 - [LLMjacking and the Hidden Cost of a Stolen API Key](https://auth0.com/blog/llmjacking-stolen-api-key-hidden-cost/) (2026-06-18)
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💬 Slack API</summary>
 
+- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
-- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) (2026-06-24)
 - [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) (2026-06-24)
 - [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) (2026-06-23)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [SAP aligns commerce data for AI personalisation](https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/) (2026-06-26)
-- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
-- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
-- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
-- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
 
 </details>
 
