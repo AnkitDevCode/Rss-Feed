@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) (2026-06-27)
+- [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) (2026-06-27)
 - [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) (2026-06-27)
 - [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) (2026-06-27)
 - [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) (2026-06-27)
-- [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/) (2026-06-26)
-- [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) (2026-06-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) (2026-06-27)
-- [OpenRA](https://www.openra.net/) (2026-06-27)
-- [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) (2026-06-27)
-- [If you can't hold it, you don't own it](https://dervis.de/physical/) (2026-06-27)
-- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) (2026-06-27)
+- [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/) (2026-06-27)
+- ["No, I swear I wrote this."](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this) (2026-06-27)
+- [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/) (2026-06-27)
+- [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) (2026-06-27)
+- [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study) (2026-06-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [This puzzle game&#8217;s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android) (2026-06-27)
-- [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer) (2026-06-27)
-- [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-27)
-- [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four) (2026-06-27)
-- [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers) (2026-06-27)
+- [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) (2026-06-27)
+- [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt) (2026-06-27)
+- [The Guardian&#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire) (2026-06-27)
+- [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games) (2026-06-27)
+- [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech) (2026-06-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Linear CLI Linear never shipped: driving your tracker from the terminal](https://dev.to/radial/the-linear-cli-linear-never-shipped-driving-your-tracker-from-the-terminal-29mb) (2026-06-27)
-- [Day 81 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-81-of-learning-mern-stack-3j6l) (2026-06-27)
-- [r/programming banned LLM posts. 6.9 million devs just exhaled.](https://dev.to/adioof/rprogramming-banned-llm-posts-69-million-devs-just-exhaled-3cnk) (2026-06-27)
-- [IBM 0.7nm Chip: What It Means for AI Computing Power](https://dev.to/newzlet_news/ibm-07nm-chip-what-it-means-for-ai-computing-power-p2a) (2026-06-27)
-- [Your product can answer questions about itself now](https://dev.to/dezsirazvan/your-product-can-answer-questions-about-itself-now-394a) (2026-06-27)
+- [Cursor Rules That Actually Improve AI Output (.mdc Project Rules)](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg) (2026-06-27)
+- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd) (2026-06-27)
+- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l) (2026-06-27)
+- [I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal & Hex, 246 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a) (2026-06-27)
+- [Reading a protected Next.js page with zero credentials (CVE-2025-29927)](https://dev.to/oopssec-store/reading-a-protected-nextjs-page-with-zero-credentials-cve-2025-29927-eej) (2026-06-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Beginner-Friendly Guide to the “Local and Global Variables” with Real-life Examples](https://medium.com/@susmitharajavolu/a-beginner-friendly-guide-to-the-local-and-global-variables-with-real-life-examples-f7ca210186a4?source=rss------programming-5) (2026-06-27)
-- [Stop throwing exceptions for control flow: the Result railway in C#](https://medium.com/@ivanball76/stop-throwing-exceptions-for-control-flow-the-result-railway-in-c-7a02050b554e?source=rss------programming-5) (2026-06-27)
-- [How a Kitchen Jar Saved Me from Programming Confusion! ](https://medium.com/@atiqahanif42/how-a-kitchen-jar-saved-me-from-programming-confusion-8215767c5bab?source=rss------programming-5) (2026-06-27)
-- [The Biggest Lie About Software Engineering](https://medium.com/mr-plan-publication/the-biggest-lie-about-software-engineering-14d887b6b3a7?source=rss------programming-5) (2026-06-27)
-- [Day 5](https://medium.com/@ankitamohanty1919191/25-6-26-26ba863d61a0?source=rss------programming-5) (2026-06-27)
+- [Introducing js-cache-shuttle: A Lightweight, Fast In-Memory Cache for Node.js](https://medium.com/@kishangaiwala487/introducing-js-cache-shuttle-a-lightweight-fast-in-memory-cache-for-node-js-cfc9fd4768bc?source=rss------programming-5) (2026-06-27)
+- [Seven weeks at Amazon and I’m already scared of forgetting.](https://medium.com/@mallikav/seven-weeks-at-amazon-and-im-already-scared-of-forgetting-007963c9170b?source=rss------programming-5) (2026-06-27)
+- [Python Dictionaries Explained: A Beginner’s Guide with Real-Life Examples](https://medium.com/@dhanuja.g.2024.aiml/python-dictionaries-explained-a-beginners-guide-with-real-life-examples-a21b724c0e7b?source=rss------programming-5) (2026-06-27)
+- [AI Can Generate Code Faster. The Bigger Challenge Is Reviewing It ](https://kirannaragund.medium.com/ai-can-generate-code-faster-the-bigger-challenge-is-reviewing-it-00e2ae457183?source=rss------programming-5) (2026-06-27)
+- [I Hired the Strongest Candidate I Had Ever Interviewed. He Was Unmanageable in](https://medium.com/@coding_with_tech/i-hired-the-strongest-candidate-i-had-ever-interviewed-f89d2c616ed8?source=rss------programming-5) (2026-06-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
+- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
 - [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
-- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
-- [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 
 </details>
 
@@ -555,24 +555,13 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [SAP aligns commerce data for AI personalisation](https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/) (2026-06-26)
-- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
-- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
-- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
-- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [We Built a Routing Layer to Cut Our AI Costs. It Broke the Product.](https://towardsdatascience.com/we-built-a-routing-layer-to-cut-our-ai-costs-it-broke-the-product/) (2026-06-27)
 - [How to Build a Powerful LLM Knowledge Base](https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/) (2026-06-27)
 - [From Local LLM to Tool-Using Agent](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) (2026-06-26)
 - [Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation](https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/) (2026-06-26)
 - [Amplify the Expert: A Philosophy for Building Enterprise RAG](https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/) (2026-06-26)
-- [How to Ace Data and ML Behavioural Interviews](https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/) (2026-06-26)
 
 </details>
 
