@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) (2026-06-27)
 - [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) (2026-06-27)
 - [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) (2026-06-27)
 - [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/) (2026-06-26)
 - [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) (2026-06-26)
-- [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) (2026-06-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Decline in IQ linked to frequent or dependent use of cannabis use in youth](https://www.cambridge.org/core/journals/psychological-medicine/article/intelligence-quotient-decline-following-frequent-or-dependent-cannabis-use-in-youth-a-systematic-review-and-metaanalysis-of-longitudinal-studies/26BEC9CBD2A39010C26100278F8CA813) (2026-06-27)
-- [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy) (2026-06-27)
-- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) (2026-06-27)
-- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1) (2026-06-27)
-- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm) (2026-06-27)
+- [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) (2026-06-27)
+- [OpenRA](https://www.openra.net/) (2026-06-27)
+- [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) (2026-06-27)
+- [If you can't hold it, you don't own it](https://dervis.de/physical/) (2026-06-27)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) (2026-06-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [This puzzle game&#8217;s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android) (2026-06-27)
+- [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer) (2026-06-27)
 - [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-27)
 - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four) (2026-06-27)
 - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers) (2026-06-27)
-- [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-27)
-- [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) (2026-06-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Apple and Audi alumni have made a luxe EV based on the moon buggy](https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/) (2026-06-27)
 - [South Korea plans to train entire military as "drone warriors"](https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/) (2026-06-26)
 - [Doctors suspected man had brain cancer. He actually had worms.](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/) (2026-06-26)
 - [Streaming services’ obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) (2026-06-26)
 - [Russian citizens told "switch to Android" after Apple blocks key Russian apps](https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/) (2026-06-26)
-- [NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/) (2026-06-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MCP is finally here: stop building REST boilerplate and start shipping](https://dev.to/lgpoliveira/mcp-is-finally-here-stop-building-rest-boilerplate-and-start-shipping-2fdj) (2026-06-27)
-- [DESIGN.md Anatomy: How Tokens and Prose Work Together](https://dev.to/promptmaster/designmd-anatomy-how-tokens-and-prose-work-together-1ie5) (2026-06-27)
-- [The DESIGN.md CLI: lint, diff, export and spec](https://dev.to/promptmaster/the-designmd-cli-lint-diff-export-and-spec-4jdm) (2026-06-27)
-- [DESIGN.md, CLAUDE.md, AGENTS.md: The Agent-Context File Family](https://dev.to/promptmaster/designmd-claudemd-agentsmd-the-agent-context-file-family-3651) (2026-06-27)
-- [Sizing a Mac mini M4 for Local AI: An Architect's Breakdown by Task](https://dev.to/sauvast/sizing-a-mac-mini-m4-for-local-ai-an-architects-breakdown-by-task-1cp2) (2026-06-27)
+- [The Linear CLI Linear never shipped: driving your tracker from the terminal](https://dev.to/radial/the-linear-cli-linear-never-shipped-driving-your-tracker-from-the-terminal-29mb) (2026-06-27)
+- [Day 81 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-81-of-learning-mern-stack-3j6l) (2026-06-27)
+- [r/programming banned LLM posts. 6.9 million devs just exhaled.](https://dev.to/adioof/rprogramming-banned-llm-posts-69-million-devs-just-exhaled-3cnk) (2026-06-27)
+- [IBM 0.7nm Chip: What It Means for AI Computing Power](https://dev.to/newzlet_news/ibm-07nm-chip-what-it-means-for-ai-computing-power-p2a) (2026-06-27)
+- [Your product can answer questions about itself now](https://dev.to/dezsirazvan/your-product-can-answer-questions-about-itself-now-394a) (2026-06-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Overcoming Imposter Syndrome: My Journey into Open Source](https://medium.com/@yusuf.temeldr/overcoming-imposter-syndrome-my-journey-into-open-source-17b076493c29?source=rss------programming-5) (2026-06-27)
-- [if condition — C language programs](https://medium.com/@keycomputereducation/if-condition-c-language-programs-ef445314ed38?source=rss------programming-5) (2026-06-27)
-- [Plan vs. Effort: The Two Dials That Control How Claude Codes](https://medium.com/@naeemhaque/plan-vs-effort-the-two-dials-that-control-how-claude-codes-4dbf27711214?source=rss------programming-5) (2026-06-27)
-- [Vikkram Sheoran Declares 'Blokista Smart Chain' the Most Powerful Blockchain of the Future!](https://vikkramsheoran.medium.com/vikkram-sheoran-declares-blokista-smart-chain-the-most-powerful-blockchain-of-the-future-97d495d32dcc?source=rss------programming-5) (2026-06-27)
-- [Your Codebase is Clean, But Your AI is a Disaster. Let’s Talk About Prompt Debt](https://medium.com/the-engineering-brief/your-codebase-is-clean-but-your-ai-is-a-disaster-lets-talk-about-prompt-debt-b59df35e4dc2?source=rss------programming-5) (2026-06-27)
+- [A Beginner-Friendly Guide to the “Local and Global Variables” with Real-life Examples](https://medium.com/@susmitharajavolu/a-beginner-friendly-guide-to-the-local-and-global-variables-with-real-life-examples-f7ca210186a4?source=rss------programming-5) (2026-06-27)
+- [Stop throwing exceptions for control flow: the Result railway in C#](https://medium.com/@ivanball76/stop-throwing-exceptions-for-control-flow-the-result-railway-in-c-7a02050b554e?source=rss------programming-5) (2026-06-27)
+- [How a Kitchen Jar Saved Me from Programming Confusion! ](https://medium.com/@atiqahanif42/how-a-kitchen-jar-saved-me-from-programming-confusion-8215767c5bab?source=rss------programming-5) (2026-06-27)
+- [The Biggest Lie About Software Engineering](https://medium.com/mr-plan-publication/the-biggest-lie-about-software-engineering-14d887b6b3a7?source=rss------programming-5) (2026-06-27)
+- [Day 5](https://medium.com/@ankitamohanty1919191/25-6-26-26ba863d61a0?source=rss------programming-5) (2026-06-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
 - [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 - [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
+- [Announcing Microsoft Discovery general availability and Microsoft Discovery app preview](https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/) (2026-06-02)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build a Powerful LLM Knowledge Base](https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/) (2026-06-27)
 - [From Local LLM to Tool-Using Agent](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) (2026-06-26)
 - [Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation](https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/) (2026-06-26)
 - [Amplify the Expert: A Philosophy for Building Enterprise RAG](https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/) (2026-06-26)
 - [How to Ace Data and ML Behavioural Interviews](https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/) (2026-06-26)
-- [Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/) (2026-06-25)
 
 </details>
 
