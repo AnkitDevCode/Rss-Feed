@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/) (2026-06-27)
-- [Om](https://daringfireball.net/2026/06/om) (2026-06-26)
-- [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/) (2026-06-26)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) (2026-06-26)
-- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) (2026-06-26)
+- [Decline in IQ linked to frequent or dependent use of cannabis use in youth](https://www.cambridge.org/core/journals/psychological-medicine/article/intelligence-quotient-decline-following-frequent-or-dependent-cannabis-use-in-youth-a-systematic-review-and-metaanalysis-of-longitudinal-studies/26BEC9CBD2A39010C26100278F8CA813) (2026-06-27)
+- [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy) (2026-06-27)
+- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) (2026-06-27)
+- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1) (2026-06-27)
+- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm) (2026-06-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-27)
+- [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four) (2026-06-27)
 - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers) (2026-06-27)
 - [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026) (2026-06-27)
 - [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) (2026-06-27)
-- [Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale) (2026-06-27)
-- [Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026) (2026-06-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Terraform for Beginners: Your First Infrastructure as Code Project](https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd) (2026-06-27)
-- [I Built a Claude Code Skill That Finds Broken Callers Before You Deploy](https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2) (2026-06-27)
-- [Cloud Career Change: Zero to Cloud Engineer With No Experience](https://dev.to/citadel_cloudmanagement_/cloud-career-change-zero-to-cloud-engineer-with-no-experience-1egb) (2026-06-27)
-- [What Is DevOps? Everything You Need to Know in 2026](https://dev.to/citadel_cloudmanagement_/what-is-devops-everything-you-need-to-know-in-2026-1j7n) (2026-06-27)
-- [How to Become a Cloud Architect in 2026: Step-by-Step Career Guide](https://dev.to/citadel_cloudmanagement_/how-to-become-a-cloud-architect-in-2026-step-by-step-career-guide-4plp) (2026-06-27)
+- [MCP is finally here: stop building REST boilerplate and start shipping](https://dev.to/lgpoliveira/mcp-is-finally-here-stop-building-rest-boilerplate-and-start-shipping-2fdj) (2026-06-27)
+- [DESIGN.md Anatomy: How Tokens and Prose Work Together](https://dev.to/promptmaster/designmd-anatomy-how-tokens-and-prose-work-together-1ie5) (2026-06-27)
+- [The DESIGN.md CLI: lint, diff, export and spec](https://dev.to/promptmaster/the-designmd-cli-lint-diff-export-and-spec-4jdm) (2026-06-27)
+- [DESIGN.md, CLAUDE.md, AGENTS.md: The Agent-Context File Family](https://dev.to/promptmaster/designmd-claudemd-agentsmd-the-agent-context-file-family-3651) (2026-06-27)
+- [Sizing a Mac mini M4 for Local AI: An Architect's Breakdown by Task](https://dev.to/sauvast/sizing-a-mac-mini-m4-for-local-ai-an-architects-breakdown-by-task-1cp2) (2026-06-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Plateau Is Not the End: What 41 Video Game Attempts Reveal About Learning](https://medium.com/@vladimirvolkovnc/the-plateau-is-not-the-end-what-41-video-game-attempts-reveal-about-learning-bfabe9d59856?source=rss------programming-5) (2026-06-27)
-- [Pair Programming and Mindfulness: How Meditation Improves Team Collaboration](https://medium.com/@baraiyapiyush682/pair-programming-and-mindfulness-how-meditation-improves-team-collaboration-02e6577be3e1?source=rss------programming-5) (2026-06-27)
-- [LXC (Linux Containers) Explained: Build Lightweight Containers Without Docker](https://medium.com/@alwinaji717/lxc-linux-containers-explained-build-lightweight-containers-without-docker-284246f23e01?source=rss------programming-5) (2026-06-27)
-- [حل مشاكل توافق PyQt6 مع ويندوز 11 (تحديث 24H2) نهائياً](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%AA%D9%88%D8%A7%D9%81%D9%82-pyqt6-%D9%85%D8%B9-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-11-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-24h2-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-62011d239695?source=rss------programming-5) (2026-06-27)
-- [حل مشكلة Manifest merger failed في أندرويد ستوديو نهائياً](https://fadyali.medium.com/%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84%D8%A9-manifest-merger-failed-%D9%81%D9%8A-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%B3%D8%AA%D9%88%D8%AF%D9%8A%D9%88-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-40cc61bf879b?source=rss------programming-5) (2026-06-27)
+- [Overcoming Imposter Syndrome: My Journey into Open Source](https://medium.com/@yusuf.temeldr/overcoming-imposter-syndrome-my-journey-into-open-source-17b076493c29?source=rss------programming-5) (2026-06-27)
+- [if condition — C language programs](https://medium.com/@keycomputereducation/if-condition-c-language-programs-ef445314ed38?source=rss------programming-5) (2026-06-27)
+- [Plan vs. Effort: The Two Dials That Control How Claude Codes](https://medium.com/@naeemhaque/plan-vs-effort-the-two-dials-that-control-how-claude-codes-4dbf27711214?source=rss------programming-5) (2026-06-27)
+- [Vikkram Sheoran Declares 'Blokista Smart Chain' the Most Powerful Blockchain of the Future!](https://vikkramsheoran.medium.com/vikkram-sheoran-declares-blokista-smart-chain-the-most-powerful-blockchain-of-the-future-97d495d32dcc?source=rss------programming-5) (2026-06-27)
+- [Your Codebase is Clean, But Your AI is a Disaster. Let’s Talk About Prompt Debt](https://medium.com/the-engineering-brief/your-codebase-is-clean-but-your-ai-is-a-disaster-lets-talk-about-prompt-debt-b59df35e4dc2?source=rss------programming-5) (2026-06-27)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/) (2026-06-27)
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) (2026-06-25)
 - [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
 - [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/) (2026-06-23)
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
-- [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) (2026-06-15)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) (2026-06-24)
 - [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) (2026-06-24)
 - [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) (2026-06-23)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [SAP aligns commerce data for AI personalisation](https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/) (2026-06-26)
+- [The math behind the OpenAI Jalapeño chip](https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/) (2026-06-25)
+- [Samsung opens ChatGPT Enterprise and Codex access after AI restrictions](https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/) (2026-06-24)
+- [Anthropic drops ‘workplace AI agents’ directly inside Slack](https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/) (2026-06-24)
+- [Omio scales travel product development using OpenAI models](https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/) (2026-06-23)
 
 </details>
 
