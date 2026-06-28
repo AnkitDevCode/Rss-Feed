@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/) (2026-06-28)
-- [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/) (2026-06-27)
-- [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) (2026-06-27)
-- [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) (2026-06-27)
-- [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) (2026-06-27)
+- [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) (2026-06-28)
+- [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/) (2026-06-28)
+- [TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/) (2026-06-28)
+- [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) (2026-06-28)
+- [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/) (2026-06-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The origins of the school system aimed to produce independent, critical thinkers](https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093) (2026-06-28)
-- [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc) (2026-06-28)
-- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847) (2026-06-28)
-- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online) (2026-06-28)
-- [More evidence of life on Mars but still no life (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645) (2026-06-28)
+- [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) (2026-06-28)
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) (2026-06-28)
+- [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html) (2026-06-28)
+- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) (2026-06-28)
+- [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html) (2026-06-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [China claims the world&#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer) (2026-06-28)
+- [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review) (2026-06-28)
+- [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial) (2026-06-28)
 - [Nest&#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history) (2026-06-28)
 - [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads) (2026-06-28)
-- [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review) (2026-06-28)
-- [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler) (2026-06-27)
-- [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) (2026-06-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) (2026-06-28)
 - [Apple and Audi alumni have made a luxe EV based on the moon buggy](https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/) (2026-06-27)
 - [South Korea plans to train entire military as "drone warriors"](https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/) (2026-06-26)
 - [Doctors suspected man had brain cancer. He actually had worms.](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/) (2026-06-26)
 - [Streaming services’ obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) (2026-06-26)
-- [Russian citizens told "switch to Android" after Apple blocks key Russian apps](https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/) (2026-06-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Ship a New Data Scraper Every Few Days. Here Is What I Have Learned](https://dev.to/scrapemint/i-ship-a-new-data-scraper-every-few-days-here-is-what-i-have-learned-49ph) (2026-06-28)
-- [A flat per-call endpoint for summarize / classify / extract in your n8n and Make automations](https://dev.to/chenxiao5580cmd/a-flat-per-call-endpoint-for-summarize-classify-extract-in-your-n8n-and-make-automations-548h) (2026-06-28)
-- [A homemade CI/CD pipeline with GitHub Actions](https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5) (2026-06-28)
-- [How I Built GitPulse: A Cinematic Developer Storyteller (and why standard GitHub profiles are boring)](https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano) (2026-06-28)
-- [I built a free UAE calculator platform that runs on live government data](https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e) (2026-06-28)
+- [I Started GCP ACE to Learn Cloud. It Taught Me How to Learn.](https://dev.to/camruthav/i-started-gcp-ace-to-learn-cloud-it-taught-me-how-to-learn-119k) (2026-06-28)
+- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96) (2026-06-28)
+- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR & PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g) (2026-06-28)
+- [Hash Identification Reference Guide](https://dev.to/ff02x9e/hash-identification-reference-guide-3kl7) (2026-06-28)
+- [A local AI chat app in a single HTML file. No build, no sign-up.](https://dev.to/luckyslevinkelevra/a-local-ai-chat-app-in-a-single-html-file-no-build-no-sign-up-3lk3) (2026-06-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The AI Agent Stack That Helped Me Build a SaaS Faster Than Any Project Before](https://medium.com/@SulemanSafdar/the-ai-agent-stack-that-helped-me-build-a-saas-faster-than-any-project-before-673753910a82?source=rss------programming-5) (2026-06-28)
-- [7 Steps to Teach Yourself the Senior Skills Agents Can’t Replace](https://medium.com/@vikpoca/7-steps-to-teach-yourself-the-senior-skills-agents-cant-replace-29ce69246038?source=rss------programming-5) (2026-06-28)
-- [5 Copywriting Tricks Hidden Inside Warren Buffett’s Shareholder Letters](https://medium.com/illumination/5-copywriting-tricks-hidden-inside-warren-buffetts-shareholder-letters-10439226de4a?source=rss------programming-5) (2026-06-28)
-- [“Building ideas into reality, one line of code at a time.”](https://medium.com/@hichembendali08/building-ideas-into-reality-one-line-of-code-at-a-time-f13d3650ae2d?source=rss------programming-5) (2026-06-28)
-- [One OS Everywhere: A Hands-On Deep Dive into Azure Linux 4.0 and Azure Container Linux](https://medium.com/codetodeploy/one-os-everywhere-a-hands-on-deep-dive-into-azure-linux-4-0-and-azure-container-linux-d38b97d56cc0?source=rss------programming-5) (2026-06-28)
+- [The little “!” in rust That Means More Than You Think](https://georgian3590.medium.com/the-little-in-rust-that-means-more-than-you-think-5d23b6e9cf10?source=rss------programming-5) (2026-06-28)
+- [Notes on Loop Engineering](https://medium.com/@benceroth/notes-on-loop-engineering-e5a47db3429b?source=rss------programming-5) (2026-06-28)
+- [ Why We Ditched Traditional Agile Project Management For The New AI Way in 2026](https://medium.com/@niranjanky14/why-we-ditched-traditional-agile-project-management-for-the-new-ai-way-in-2026-6f0d3c1a1fd2?source=rss------programming-5) (2026-06-28)
+- [Introduction of Python Programming Language](https://medium.com/@NiceinPython/introduction-of-python-programming-language-a5dce9f08047?source=rss------programming-5) (2026-06-28)
+- [I Taught Claude Code to Speak Kiro](https://medium.com/@imhish4m/i-taught-claude-code-to-speak-kiro-e42152e22a15?source=rss------programming-5) (2026-06-28)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💬 Slack API</summary>
 
+- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
-- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows](https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/) (2026-06-28)
 - [I Pitted XGBoost Against Logistic Regression on 358 Matches. The Boring Model Won.](https://towardsdatascience.com/i-pitted-xgboost-against-logistic-regression-on-358-matches-the-boring-model-won/) (2026-06-28)
 - [We Built a Routing Layer to Cut Our AI Costs. It Broke the Product.](https://towardsdatascience.com/we-built-a-routing-layer-to-cut-our-ai-costs-it-broke-the-product/) (2026-06-27)
 - [How to Build a Powerful LLM Knowledge Base](https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/) (2026-06-27)
 - [From Local LLM to Tool-Using Agent](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) (2026-06-26)
-- [Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation](https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/) (2026-06-26)
 
 </details>
 
