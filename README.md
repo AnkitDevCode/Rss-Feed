@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/) (2026-06-28)
 - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/) (2026-06-27)
 - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) (2026-06-27)
 - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) (2026-06-27)
 - [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) (2026-06-27)
-- [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) (2026-06-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/) (2026-06-28)
+- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) (2026-06-28)
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) (2026-06-28)
+- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) (2026-06-28)
 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) (2026-06-28)
-- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you) (2026-06-28)
-- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief) (2026-06-28)
-- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) (2026-06-28)
-- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) (2026-06-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review) (2026-06-28)
 - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler) (2026-06-27)
 - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) (2026-06-27)
 - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt) (2026-06-27)
 - [The Guardian&#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire) (2026-06-27)
-- [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games) (2026-06-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Update on Zen — we now have a package ecosystem](https://dev.to/jishith_mp_82b1b8f25ca17e/update-on-zen-we-now-have-a-package-ecosystem-68) (2026-06-28)
-- [A minimal, in-process event bus for Go](https://dev.to/f2077/a-minimal-in-process-event-bus-for-go-2hh3) (2026-06-28)
-- [Mem0 Memory Layer: 5 Hidden Uses of the 60K-Star Agent Memory Engine](https://dev.to/_cbd692d476c5faf3b61bcf/mem0-memory-layer-5-hidden-uses-of-the-60k-star-agent-memory-engine-4g9p) (2026-06-28)
-- [I built Sentinel: A blazing fast, regex-free secret scanner in Go 🛡️](https://dev.to/muslimkh09/i-built-sentinel-a-blazing-fast-regex-free-secret-scanner-in-go-3amm) (2026-06-28)
-- [AI Agent Scratchpad: Keep Coding Agents Fast Without Polluting Git](https://dev.to/jackm-singularity/ai-agent-scratchpad-keep-coding-agents-fast-without-polluting-git-329c) (2026-06-28)
+- [Day 2 — I Stopped Being a Student and Started Acting Like a DevOps Engineer](https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid) (2026-06-28)
+- [A published win rate is the actor auditing itself](https://dev.to/jugeni/a-published-win-rate-is-the-actor-auditing-itself-61c) (2026-06-28)
+- [Automate SSH 2FA Hardening with Google Authenticator](https://dev.to/devopsstart/automate-ssh-2fa-hardening-with-google-authenticator-2hhe) (2026-06-28)
+- [Container Queries vs Media Queries: When to Use Which](https://dev.to/utilitylab/container-queries-vs-media-queries-when-to-use-which-5m2) (2026-06-28)
+- [Stop Fighting Your CSS Framework: Markdown to Styled HTML in Java](https://dev.to/gaurav101/stop-fighting-your-css-framework-markdown-to-styled-html-in-java-5c06) (2026-06-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [If You Understand These 5 Behaviors of AI, You’ll Use It Better Than 90% of People](https://medium.com/@bvsarathc06/if-you-understand-these-5-behaviors-of-ai-youll-use-it-better-than-90-of-people-e15d00b37d1c?source=rss------programming-5) (2026-06-28)
-- [Why America Doesn’t Want Another China](https://medium.com/reflections-and-realities/why-america-doesnt-want-another-china-eea988f74bf4?source=rss------programming-5) (2026-06-28)
-- [The Senior Debugging Habit That Stops Me From Guessing](https://medium.com/skillstuff/the-senior-debugging-habit-that-stops-me-from-guessing-121cf67d542e?source=rss------programming-5) (2026-06-28)
-- [My Team Had a Production Incident Every Three Weeks for a Year.](https://blog.stackademic.com/my-team-had-a-production-incident-every-three-weeks-for-a-year-dcf78e0920a8?source=rss------programming-5) (2026-06-28)
-- [I Watched a Senior Engineer Fail a System Design Interview.](https://blog.stackademic.com/i-watched-a-senior-engineer-fail-a-system-design-interview-7bee77816350?source=rss------programming-5) (2026-06-28)
+- [In Lean 4: YouTube option](https://medium.com/@LeanOnMath/in-lean-4-youtube-option-92dd60dd6b80?source=rss------programming-5) (2026-06-28)
+- [Why Learning C Still Matters for Cybersecurity in 2026](https://medium.com/@naro7217/why-learning-c-still-matters-for-cybersecurity-in-2026-84c87dddba59?source=rss------programming-5) (2026-06-28)
+- [Mr. Vinod, this is a great opportunity to secure a plot near Mahindra SEZ at an attractive rate of…](https://medium.com/@yogeshnagar_83290/mr-vinod-this-is-a-great-opportunity-to-secure-a-plot-near-mahindra-sez-at-an-attractive-rate-of-d13891a05038?source=rss------programming-5) (2026-06-28)
+- [The Surprising Reason My Python Code Finally Started Improving](https://medium.com/@learnwithhercodingtut/the-surprising-reason-my-python-code-finally-started-improving-11e20aa6b033?source=rss------programming-5) (2026-06-28)
+- [Stop Prompting Your AI. Start Designing the Loop](https://www.designsystemscollective.com/stop-prompting-your-ai-start-designing-the-loop-8002cf70e556?source=rss------programming-5) (2026-06-28)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💬 Slack API</summary>
 
+- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
-- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
