@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/) (2026-06-28)
-- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) (2026-06-28)
-- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) (2026-06-28)
-- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) (2026-06-28)
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) (2026-06-28)
+- [The origins of the school system aimed to produce independent, critical thinkers](https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093) (2026-06-28)
+- [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc) (2026-06-28)
+- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847) (2026-06-28)
+- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online) (2026-06-28)
+- [More evidence of life on Mars but still no life (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645) (2026-06-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nest&#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history) (2026-06-28)
+- [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads) (2026-06-28)
 - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review) (2026-06-28)
 - [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler) (2026-06-27)
 - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) (2026-06-27)
-- [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt) (2026-06-27)
-- [The Guardian&#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire) (2026-06-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 2 — I Stopped Being a Student and Started Acting Like a DevOps Engineer](https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid) (2026-06-28)
-- [A published win rate is the actor auditing itself](https://dev.to/jugeni/a-published-win-rate-is-the-actor-auditing-itself-61c) (2026-06-28)
-- [Automate SSH 2FA Hardening with Google Authenticator](https://dev.to/devopsstart/automate-ssh-2fa-hardening-with-google-authenticator-2hhe) (2026-06-28)
-- [Container Queries vs Media Queries: When to Use Which](https://dev.to/utilitylab/container-queries-vs-media-queries-when-to-use-which-5m2) (2026-06-28)
-- [Stop Fighting Your CSS Framework: Markdown to Styled HTML in Java](https://dev.to/gaurav101/stop-fighting-your-css-framework-markdown-to-styled-html-in-java-5c06) (2026-06-28)
+- [I Ship a New Data Scraper Every Few Days. Here Is What I Have Learned](https://dev.to/scrapemint/i-ship-a-new-data-scraper-every-few-days-here-is-what-i-have-learned-49ph) (2026-06-28)
+- [A flat per-call endpoint for summarize / classify / extract in your n8n and Make automations](https://dev.to/chenxiao5580cmd/a-flat-per-call-endpoint-for-summarize-classify-extract-in-your-n8n-and-make-automations-548h) (2026-06-28)
+- [A homemade CI/CD pipeline with GitHub Actions](https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5) (2026-06-28)
+- [How I Built GitPulse: A Cinematic Developer Storyteller (and why standard GitHub profiles are boring)](https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano) (2026-06-28)
+- [I built a free UAE calculator platform that runs on live government data](https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e) (2026-06-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [In Lean 4: YouTube option](https://medium.com/@LeanOnMath/in-lean-4-youtube-option-92dd60dd6b80?source=rss------programming-5) (2026-06-28)
-- [Why Learning C Still Matters for Cybersecurity in 2026](https://medium.com/@naro7217/why-learning-c-still-matters-for-cybersecurity-in-2026-84c87dddba59?source=rss------programming-5) (2026-06-28)
-- [Mr. Vinod, this is a great opportunity to secure a plot near Mahindra SEZ at an attractive rate of…](https://medium.com/@yogeshnagar_83290/mr-vinod-this-is-a-great-opportunity-to-secure-a-plot-near-mahindra-sez-at-an-attractive-rate-of-d13891a05038?source=rss------programming-5) (2026-06-28)
-- [The Surprising Reason My Python Code Finally Started Improving](https://medium.com/@learnwithhercodingtut/the-surprising-reason-my-python-code-finally-started-improving-11e20aa6b033?source=rss------programming-5) (2026-06-28)
-- [Stop Prompting Your AI. Start Designing the Loop](https://www.designsystemscollective.com/stop-prompting-your-ai-start-designing-the-loop-8002cf70e556?source=rss------programming-5) (2026-06-28)
+- [The AI Agent Stack That Helped Me Build a SaaS Faster Than Any Project Before](https://medium.com/@SulemanSafdar/the-ai-agent-stack-that-helped-me-build-a-saas-faster-than-any-project-before-673753910a82?source=rss------programming-5) (2026-06-28)
+- [7 Steps to Teach Yourself the Senior Skills Agents Can’t Replace](https://medium.com/@vikpoca/7-steps-to-teach-yourself-the-senior-skills-agents-cant-replace-29ce69246038?source=rss------programming-5) (2026-06-28)
+- [5 Copywriting Tricks Hidden Inside Warren Buffett’s Shareholder Letters](https://medium.com/illumination/5-copywriting-tricks-hidden-inside-warren-buffetts-shareholder-letters-10439226de4a?source=rss------programming-5) (2026-06-28)
+- [“Building ideas into reality, one line of code at a time.”](https://medium.com/@hichembendali08/building-ideas-into-reality-one-line-of-code-at-a-time-f13d3650ae2d?source=rss------programming-5) (2026-06-28)
+- [One OS Everywhere: A Hands-On Deep Dive into Azure Linux 4.0 and Azure Container Linux](https://medium.com/codetodeploy/one-os-everywhere-a-hands-on-deep-dive-into-azure-linux-4-0-and-azure-container-linux-d38b97d56cc0?source=rss------programming-5) (2026-06-28)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
 - [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
 - [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
+- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💬 Slack API</summary>
 
-- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
+- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Pitted XGBoost Against Logistic Regression on 358 Matches. The Boring Model Won.](https://towardsdatascience.com/i-pitted-xgboost-against-logistic-regression-on-358-matches-the-boring-model-won/) (2026-06-28)
 - [We Built a Routing Layer to Cut Our AI Costs. It Broke the Product.](https://towardsdatascience.com/we-built-a-routing-layer-to-cut-our-ai-costs-it-broke-the-product/) (2026-06-27)
 - [How to Build a Powerful LLM Knowledge Base](https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/) (2026-06-27)
 - [From Local LLM to Tool-Using Agent](https://towardsdatascience.com/from-local-llm-to-tool-using-agent/) (2026-06-26)
 - [Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation](https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/) (2026-06-26)
-- [Amplify the Expert: A Philosophy for Building Enterprise RAG](https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/) (2026-06-26)
 
 </details>
 
