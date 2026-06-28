@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/) (2026-06-27)
+- [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) (2026-06-27)
 - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) (2026-06-27)
 - [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) (2026-06-27)
 - [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) (2026-06-27)
-- [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) (2026-06-27)
-- [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) (2026-06-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/) (2026-06-27)
-- ["No, I swear I wrote this."](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this) (2026-06-27)
-- [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/) (2026-06-27)
-- [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) (2026-06-27)
-- [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study) (2026-06-27)
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) (2026-06-28)
+- [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you) (2026-06-28)
+- [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief) (2026-06-28)
+- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) (2026-06-28)
+- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) (2026-06-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler) (2026-06-27)
 - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) (2026-06-27)
 - [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt) (2026-06-27)
 - [The Guardian&#8217;s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire) (2026-06-27)
 - [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games) (2026-06-27)
-- [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech) (2026-06-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cursor Rules That Actually Improve AI Output (.mdc Project Rules)](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg) (2026-06-27)
-- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd) (2026-06-27)
-- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l) (2026-06-27)
-- [I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal & Hex, 246 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a) (2026-06-27)
-- [Reading a protected Next.js page with zero credentials (CVE-2025-29927)](https://dev.to/oopssec-store/reading-a-protected-nextjs-page-with-zero-credentials-cve-2025-29927-eej) (2026-06-27)
+- [Update on Zen — we now have a package ecosystem](https://dev.to/jishith_mp_82b1b8f25ca17e/update-on-zen-we-now-have-a-package-ecosystem-68) (2026-06-28)
+- [A minimal, in-process event bus for Go](https://dev.to/f2077/a-minimal-in-process-event-bus-for-go-2hh3) (2026-06-28)
+- [Mem0 Memory Layer: 5 Hidden Uses of the 60K-Star Agent Memory Engine](https://dev.to/_cbd692d476c5faf3b61bcf/mem0-memory-layer-5-hidden-uses-of-the-60k-star-agent-memory-engine-4g9p) (2026-06-28)
+- [I built Sentinel: A blazing fast, regex-free secret scanner in Go 🛡️](https://dev.to/muslimkh09/i-built-sentinel-a-blazing-fast-regex-free-secret-scanner-in-go-3amm) (2026-06-28)
+- [AI Agent Scratchpad: Keep Coding Agents Fast Without Polluting Git](https://dev.to/jackm-singularity/ai-agent-scratchpad-keep-coding-agents-fast-without-polluting-git-329c) (2026-06-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Introducing js-cache-shuttle: A Lightweight, Fast In-Memory Cache for Node.js](https://medium.com/@kishangaiwala487/introducing-js-cache-shuttle-a-lightweight-fast-in-memory-cache-for-node-js-cfc9fd4768bc?source=rss------programming-5) (2026-06-27)
-- [Seven weeks at Amazon and I’m already scared of forgetting.](https://medium.com/@mallikav/seven-weeks-at-amazon-and-im-already-scared-of-forgetting-007963c9170b?source=rss------programming-5) (2026-06-27)
-- [Python Dictionaries Explained: A Beginner’s Guide with Real-Life Examples](https://medium.com/@dhanuja.g.2024.aiml/python-dictionaries-explained-a-beginners-guide-with-real-life-examples-a21b724c0e7b?source=rss------programming-5) (2026-06-27)
-- [AI Can Generate Code Faster. The Bigger Challenge Is Reviewing It ](https://kirannaragund.medium.com/ai-can-generate-code-faster-the-bigger-challenge-is-reviewing-it-00e2ae457183?source=rss------programming-5) (2026-06-27)
-- [I Hired the Strongest Candidate I Had Ever Interviewed. He Was Unmanageable in](https://medium.com/@coding_with_tech/i-hired-the-strongest-candidate-i-had-ever-interviewed-f89d2c616ed8?source=rss------programming-5) (2026-06-27)
+- [If You Understand These 5 Behaviors of AI, You’ll Use It Better Than 90% of People](https://medium.com/@bvsarathc06/if-you-understand-these-5-behaviors-of-ai-youll-use-it-better-than-90-of-people-e15d00b37d1c?source=rss------programming-5) (2026-06-28)
+- [Why America Doesn’t Want Another China](https://medium.com/reflections-and-realities/why-america-doesnt-want-another-china-eea988f74bf4?source=rss------programming-5) (2026-06-28)
+- [The Senior Debugging Habit That Stops Me From Guessing](https://medium.com/skillstuff/the-senior-debugging-habit-that-stops-me-from-guessing-121cf67d542e?source=rss------programming-5) (2026-06-28)
+- [My Team Had a Production Incident Every Three Weeks for a Year.](https://blog.stackademic.com/my-team-had-a-production-incident-every-three-weeks-for-a-year-dcf78e0920a8?source=rss------programming-5) (2026-06-28)
+- [I Watched a Senior Engineer Fail a System Design Interview.](https://blog.stackademic.com/i-watched-a-senior-engineer-fail-a-system-design-interview-7bee77816350?source=rss------programming-5) (2026-06-28)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>💬 Slack API</summary>
 
-- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 - [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
 - [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
 - [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
 - [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
+- [How Slack Keeps MCP Secure](https://slack.com/blog/news/slackbot-mcp-security) (2026-06-18)
 
 </details>
 
