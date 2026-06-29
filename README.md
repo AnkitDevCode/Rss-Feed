@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell Congress: Don't Force Age Checks Online](https://act.eff.org/action/tell-congress-don-t-force-age-checks-online) (2026-06-29)
-- [AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) (2026-06-29)
-- [You might not need a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/) (2026-06-29)
-- [Better Images of AI](https://betterimagesofai.org/) (2026-06-28)
-- [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) (2026-06-28)
+- [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) (2026-06-29)
+- [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) (2026-06-29)
+- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr) (2026-06-29)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) (2026-06-29)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats) (2026-06-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Adding server monitoring to my SSH manager without opening a second connection](https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2) (2026-06-29)
-- [I timed stair carries on my commute ? the spreadsheet column mobility apps skip](https://dev.to/kingsongeuc/i-timed-stair-carries-on-my-commute-the-spreadsheet-column-mobility-apps-skip-2cnp) (2026-06-29)
-- [How to Find $100k+ Jobs Without Losing Your Mind Checking 10 Sites Every Morning](https://dev.to/harun_mahmud_88/how-to-find-100k-jobs-without-losing-your-mind-checking-10-sites-every-morning-2o60) (2026-06-29)
-- [Blameless Postmortems in Practice](https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5) (2026-06-29)
-- [I Realized My Head Was Empty After Asking AI Everything](https://dev.to/4armsxlr8/i-realized-my-head-was-empty-after-asking-ai-everything-kbp) (2026-06-29)
+- [I Tested DeepSeek, Qwen, Kimi And GLM Heres The Real Winner](https://dev.to/eagerspark/i-tested-deepseek-qwen-kimi-and-glm-heres-the-real-winner-57n1) (2026-06-29)
+- [How Modern Transformer Blocks Work — From RMSNorm to MoE](https://dev.to/zeromathai/how-modern-transformer-blocks-work-from-rmsnorm-to-moe-44cc) (2026-06-29)
+- [Why Your Background Jobs Fail in Production](https://dev.to/damir-karimov/why-your-background-jobs-fail-in-production-3nne) (2026-06-29)
+- [The 3C Protocol: Paying Down the Debt You Didn't Know You Were Taking On](https://dev.to/bala_paranj_059d338e44e7e/the-3c-protocol-paying-down-the-debt-you-didnt-know-you-were-taking-on-1fgh) (2026-06-29)
+- [I Thought Python Was Easy. Then It Humbled Me. Here Is What Actually Helped.](https://dev.to/saeebarve/i-thought-python-was-easy-then-it-humbled-me-here-is-what-actually-helped-20d9) (2026-06-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Webpack can run single handedly but Vite needs ESbuild](https://medium.com/@piyalidas.it/webpack-can-run-single-handedly-but-vite-needs-esbuild-e12fe9784164?source=rss------programming-5) (2026-06-29)
-- [Why Quality Thought is Emerging as One of the Best Software Training Institutes in Hyderabad](https://medium.com/@vineethagadhe5/why-quality-thought-is-emerging-as-one-of-the-best-software-training-institutes-in-hyderabad-daf574d881d0?source=rss------programming-5) (2026-06-29)
-- [From Prompt to Payout: How My AI-Built Game Made $25,000](https://medium.com/@arpit_72335/from-prompt-to-payout-how-my-ai-built-game-made-25-000-c3e237c41a4b?source=rss------programming-5) (2026-06-29)
-- [How to build production APIs without Overengineering](https://blog.stackademic.com/how-to-build-production-apis-without-overengineering-01dd9da6c1ef?source=rss------programming-5) (2026-06-29)
-- [إصلاح مشاكل Gradle Sync في Android Studio 2026: دليل شامل](https://fadyali.medium.com/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%B4%D8%A7%D9%83%D9%84-gradle-sync-%D9%81%D9%8A-android-studio-2026-%D8%AF%D9%84%D9%8A%D9%84-%D8%B4%D8%A7%D9%85%D9%84-e8c675a464dd?source=rss------programming-5) (2026-06-29)
+- [Some Points About Your LLM’s Memory and Fine-Tuning](https://medium.com/@Hazall/some-points-about-your-llms-memory-and-fine-tuning-ec6ca3455d57?source=rss------programming-5) (2026-06-29)
+- [The Most Common Mistakes People Make When Using AI](https://medium.com/@aistory0611/the-most-common-mistakes-people-make-when-using-ai-c4f75f5d68f0?source=rss------programming-5) (2026-06-29)
+- [The Growing Demand for Kiosk Machines in Dubai](https://medium.com/@panashisolutions/the-growing-demand-for-kiosk-machines-in-dubai-43b0377e182b?source=rss------programming-5) (2026-06-29)
+- [What Is JSON? A Simple Explanation for Beginners](https://parvathishiva.medium.com/what-is-json-a-simple-explanation-for-beginners-b6d236ecfce6?source=rss------programming-5) (2026-06-29)
+- [I Audited 30 React Native Apps. The Same 5 Security Holes Showed Up Every Time.](https://medium.com/@russel_2175/i-audited-30-react-native-apps-the-same-5-security-holes-showed-up-every-time-d85e02f0ff94?source=rss------programming-5) (2026-06-29)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
 - [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
 - [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
 - [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
 - [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
-- [AI alone won’t change your business. The system running it will.](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/) (2026-06-02)
 
 </details>
 
@@ -352,9 +352,9 @@
 
 - [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-26)
 - [Query Web Analytics from the Vercel CLI](https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli) (2026-06-26)
+- [Sandboxes now expire based on last use](https://vercel.com/changelog/sandboxes-now-expire-based-on-last-use) (2026-06-26)
 - [Trace and debug eve agent sessions with Vercel Observability](https://vercel.com/changelog/eve-agent-observability) (2026-06-26)
 - [AI SDK 7](https://vercel.com/blog/ai-sdk-7) (2026-06-25)
-- [Teaching agents product design at Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel) (2026-06-25)
 
 </details>
 
@@ -555,6 +555,17 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Wimbledon adds IBM AI tools for live match coverage](https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/) (2026-06-29)
+- [Advances in Natural Language Processing Are Changing Professional Networking](https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/) (2026-06-29)
+- [Best Automated Security Testing Tools for Modern DevSecOps](https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/) (2026-06-29)
+- [xFusion scales enterprise AI from edge workstations to liquid-cooled data centres](https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/) (2026-06-29)
+- [Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026](https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/) (2026-06-29)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows](https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/) (2026-06-28)
@@ -568,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GraphRAG vs Vector RAG: Which Retrieval Method is Best?](https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/) (2026-06-29)
 - [Using AI When You Don’t Trust AI](https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/) (2026-06-26)
 - [The Loop That Makes AI Agents Get Smarter on Their Own](https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/) (2026-06-25)
 - [Harness-1: The 20B Retrieval Subagent That Beats GPT-5.4 at Search](https://www.analyticsvidhya.com/blog/2026/06/harness-1-ai-retrieval-agent/) (2026-06-24)
 - [Sakana Fugu: Multi-Agent System as a Model ](https://www.analyticsvidhya.com/blog/2026/06/sakana-fugu-multi-agent-system-as-a-model/) (2026-06-23)
-- [Claude’s Hidden Art Skill: Making Illustrations With Code](https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/) (2026-06-22)
 
 </details>
 
