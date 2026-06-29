@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/) (2026-06-28)
 - [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) (2026-06-28)
-- [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/) (2026-06-28)
+- [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/) (2026-06-28)
 - [TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/) (2026-06-28)
 - [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) (2026-06-28)
-- [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/) (2026-06-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) (2026-06-28)
-- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) (2026-06-28)
-- [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html) (2026-06-28)
-- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) (2026-06-28)
-- [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html) (2026-06-28)
+- [Tell Congress: Don't Force Age Checks Online](https://act.eff.org/action/tell-congress-don-t-force-age-checks-online) (2026-06-29)
+- [AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) (2026-06-29)
+- [You might not need a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/) (2026-06-29)
+- [Better Images of AI](https://betterimagesofai.org/) (2026-06-28)
+- [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) (2026-06-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) (2026-06-28)
+- [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine) (2026-06-28)
 - [China claims the world&#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer) (2026-06-28)
 - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review) (2026-06-28)
 - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial) (2026-06-28)
-- [Nest&#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history) (2026-06-28)
-- [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads) (2026-06-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Started GCP ACE to Learn Cloud. It Taught Me How to Learn.](https://dev.to/camruthav/i-started-gcp-ace-to-learn-cloud-it-taught-me-how-to-learn-119k) (2026-06-28)
-- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96) (2026-06-28)
-- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR & PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g) (2026-06-28)
-- [Hash Identification Reference Guide](https://dev.to/ff02x9e/hash-identification-reference-guide-3kl7) (2026-06-28)
-- [A local AI chat app in a single HTML file. No build, no sign-up.](https://dev.to/luckyslevinkelevra/a-local-ai-chat-app-in-a-single-html-file-no-build-no-sign-up-3lk3) (2026-06-28)
+- [Adding server monitoring to my SSH manager without opening a second connection](https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2) (2026-06-29)
+- [I timed stair carries on my commute ? the spreadsheet column mobility apps skip](https://dev.to/kingsongeuc/i-timed-stair-carries-on-my-commute-the-spreadsheet-column-mobility-apps-skip-2cnp) (2026-06-29)
+- [How to Find $100k+ Jobs Without Losing Your Mind Checking 10 Sites Every Morning](https://dev.to/harun_mahmud_88/how-to-find-100k-jobs-without-losing-your-mind-checking-10-sites-every-morning-2o60) (2026-06-29)
+- [Blameless Postmortems in Practice](https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5) (2026-06-29)
+- [I Realized My Head Was Empty After Asking AI Everything](https://dev.to/4armsxlr8/i-realized-my-head-was-empty-after-asking-ai-everything-kbp) (2026-06-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The little “!” in rust That Means More Than You Think](https://georgian3590.medium.com/the-little-in-rust-that-means-more-than-you-think-5d23b6e9cf10?source=rss------programming-5) (2026-06-28)
-- [Notes on Loop Engineering](https://medium.com/@benceroth/notes-on-loop-engineering-e5a47db3429b?source=rss------programming-5) (2026-06-28)
-- [ Why We Ditched Traditional Agile Project Management For The New AI Way in 2026](https://medium.com/@niranjanky14/why-we-ditched-traditional-agile-project-management-for-the-new-ai-way-in-2026-6f0d3c1a1fd2?source=rss------programming-5) (2026-06-28)
-- [Introduction of Python Programming Language](https://medium.com/@NiceinPython/introduction-of-python-programming-language-a5dce9f08047?source=rss------programming-5) (2026-06-28)
-- [I Taught Claude Code to Speak Kiro](https://medium.com/@imhish4m/i-taught-claude-code-to-speak-kiro-e42152e22a15?source=rss------programming-5) (2026-06-28)
+- [Webpack can run single handedly but Vite needs ESbuild](https://medium.com/@piyalidas.it/webpack-can-run-single-handedly-but-vite-needs-esbuild-e12fe9784164?source=rss------programming-5) (2026-06-29)
+- [Why Quality Thought is Emerging as One of the Best Software Training Institutes in Hyderabad](https://medium.com/@vineethagadhe5/why-quality-thought-is-emerging-as-one-of-the-best-software-training-institutes-in-hyderabad-daf574d881d0?source=rss------programming-5) (2026-06-29)
+- [From Prompt to Payout: How My AI-Built Game Made $25,000](https://medium.com/@arpit_72335/from-prompt-to-payout-how-my-ai-built-game-made-25-000-c3e237c41a4b?source=rss------programming-5) (2026-06-29)
+- [How to build production APIs without Overengineering](https://blog.stackademic.com/how-to-build-production-apis-without-overengineering-01dd9da6c1ef?source=rss------programming-5) (2026-06-29)
+- [إصلاح مشاكل Gradle Sync في Android Studio 2026: دليل شامل](https://fadyali.medium.com/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%B4%D8%A7%D9%83%D9%84-gradle-sync-%D9%81%D9%8A-android-studio-2026-%D8%AF%D9%84%D9%8A%D9%84-%D8%B4%D8%A7%D9%85%D9%84-e8c675a464dd?source=rss------programming-5) (2026-06-29)
 
 </details>
 
