@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Watch out, Amazon: the Kobo eReader now has a Goodreads rival](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/) (2026-06-29)
+- [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) (2026-06-30)
+- [Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) (2026-06-29)
+- [Gemini’s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) (2026-06-29)
+- [Watch out, Amazon: The Kobo eReader now has a Goodreads rival](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/) (2026-06-29)
 - [Waymo and Uber quietly part ways in Phoenix](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/) (2026-06-29)
-- [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) (2026-06-29)
-- [South Korean tech giants commit over $550B to ease ‘RAMageddon’](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) (2026-06-29)
-- [Arena, the AI leaderboard everyone uses, is now a $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/) (2026-06-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver) (2026-06-29)
-- [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627) (2026-06-29)
-- [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models) (2026-06-29)
-- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) (2026-06-29)
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) (2026-06-29)
+- [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/) (2026-06-30)
+- [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) (2026-06-30)
+- [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) (2026-06-30)
+- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) (2026-06-30)
+- [Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso](https://github.com/SMJAI/open-memory-protocol) (2026-06-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [T-Mobile is booting customers from its oldest plans](https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint) (2026-06-29)
+- [After a great start, DC’s new cinematic universe is already slowing down](https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop) (2026-06-29)
+- [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web) (2026-06-29)
 - [Tidal won’t pay royalties on AI-generated music but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label) (2026-06-29)
 - [Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room) (2026-06-29)
-- [OpenAI is teasing new hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder) (2026-06-29)
-- [At $499, Apple&#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale) (2026-06-29)
-- [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale) (2026-06-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google warns EU's plans to weaken its monopoly could expose user data](https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/) (2026-06-29)
-- [Quantum computing startup says it will leapfrog everybody](https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/) (2026-06-29)
-- [Kalshi sues Illinois over new tax on prediction market sports bets](https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/) (2026-06-29)
-- [F1 in Austria: Starts off exciting, then goes the opposite way](https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/) (2026-06-29)
-- [Wildwood featurette lifts the veil on building its stop-motion world](https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/) (2026-06-29)
+- [US offers $10 million for info on group behind Signal and WhatsApp hacking spree](https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/) (2026-06-29)
+- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) (2026-06-29)
+- [US renewable boom passes key milestone in April](https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/) (2026-06-29)
+- [Supreme Court ruling guts government’s use of geofence warrants](https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/) (2026-06-29)
+- [Sony erases digital content from libraries; we're reminded we don’t own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/) (2026-06-29)
 
 </details>
 
@@ -86,29 +86,29 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [how do you divide big instruction into small data set for large projects?](https://dev.to/whmcsexpert/how-do-you-divide-big-instruction-into-small-data-set-for-large-projects-23ec) (2026-06-29)
-- [Your Meta CAPI events from a Telegram bot are losing attribution. Here's the fix.](https://dev.to/lamas51/your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix-5c07) (2026-06-29)
-- [AI Code Assistants: Creating Efficiency or Dependency?](https://dev.to/merbayerp/ai-code-assistants-creating-efficiency-or-dependency-4lba) (2026-06-29)
-- [I got tired of vibe investing, so I built an AI committee that shows its work](https://dev.to/campnoumiracle2022/i-got-tired-of-vibe-investing-so-i-built-an-ai-committee-that-shows-its-work-44md) (2026-06-29)
-- [Atlarix vs opencode on Terminal-Bench 2.0 — same model, only the harness changes (k=1, receipts included)](https://dev.to/amariahak/atlarix-vs-opencode-on-terminal-bench-20-same-model-only-the-harness-changes-k1-receipts-54nk) (2026-06-29)
+- [Applying API Testing Frameworks: Real-World Microservices Examples](https://dev.to/andrecarbajal/applying-api-testing-frameworks-real-world-microservices-examples-53pm) (2026-06-30)
+- [Why I Stopped Recommending "Just Go Direct" for AI APIs](https://dev.to/gentlenode/why-i-stopped-recommending-just-go-direct-for-ai-apis-59j4) (2026-06-30)
+- [Beyond the Hype: Choosing the Right Model for Your Daily Workflow](https://dev.to/vishesh/beyond-the-hype-choosing-the-right-model-for-your-daily-workflow-1aka) (2026-06-30)
+- [matten: `Tensor` コア](https://dev.to/nabbisen/matten-tensor-koa-ea9) (2026-06-30)
+- [Your AI Agents Are Privileged Identities. You're Treating Them Like Interns.](https://dev.to/coridev/your-ai-agents-are-privileged-identities-youre-treating-them-like-interns-55ee) (2026-06-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Worked on Payments for Years. Here’s What Most Developers Get Wrong.](https://medium.com/@dickensjuma13/i-worked-on-payments-for-years-heres-what-most-developers-get-wrong-070766808c17?source=rss------programming-5) (2026-06-29)
-- [Why Every Engineer Should Write](https://blog.stackademic.com/why-every-engineer-should-write-7da3b454766b?source=rss------programming-5) (2026-06-29)
-- [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://proandroiddev.com/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566?source=rss------programming-5) (2026-06-29)
-- [Vibe Coding vs Spec-Driven Development: When the Shortcut Pays Off and When You Pay the Debt](https://medium.com/@wasowski.jarek/vibe-coding-vs-spec-driven-development-when-the-shortcut-pays-off-and-when-you-pay-the-debt-49700e764e7e?source=rss------programming-5) (2026-06-29)
-- [Model View StateMachine: The library is out, the future is here.](https://proandroiddev.com/model-view-statemachine-the-library-is-out-the-future-is-here-4e3a7bd5fcd7?source=rss------programming-5) (2026-06-29)
+- [FastMCP 3.0 Cut My MCP Server Code in Half. Here’s How.](https://medium.com/@chenyuan19920509/fastmcp-3-0-cut-my-mcp-server-code-in-half-heres-how-9492a2be6a18?source=rss------programming-5) (2026-06-30)
+- [Your Android Location App Is Doing It Wrong — Here’s the Battery-Friendly Way](https://medium.com/@alaxhenry0121/your-android-location-app-is-doing-it-wrong-heres-the-battery-friendly-way-607eff90ebd3?source=rss------programming-5) (2026-06-30)
+- [Elton Disner Blog.](https://medium.com/@lobinolobinhoxp/elton-disner-blog-218bfa6d665e?source=rss------programming-5) (2026-06-30)
+- [Spoke to 100+ IT Professionals Over 40. These 5 Career Lessons Changed How I Think](https://medium.com/@gaddamnaveen192/spoke-to-100-it-professionals-over-40-these-5-career-lessons-changed-how-i-think-86b1f3ccde8b?source=rss------programming-5) (2026-06-30)
+- [Most Go Developers Haven’t Seen This Go 1.26 Generics Feature Yet](https://elsyarifx.medium.com/most-go-developers-havent-seen-this-go-1-26-generics-feature-yet-921688355019?source=rss------programming-5) (2026-06-30)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
-- [AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/) (2026-06-29)
+- [AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/) (2026-06-29)
 - [Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) (2026-06-22)
 - [AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/) (2026-06-22)
 - [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Eclipsa Video: HDR That Looks Right on Every Screen](https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html) (2026-06-29)
 - [Expanded billing choice and lower fees on Google Play](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) (2026-06-24)
 - [Android developer verification: Building a safer ecosystem together](https://android-developers.googleblog.com/2026/06/android-developer-verification.html) (2026-06-18)
 - [Building a Mixed-Reality Tour Guide with Android XR, the Geospatial API, and Gemini](https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html) (2026-06-17)
 - [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html) (2026-06-16)
-- [What’s New in Android XR: Tooling, Engine Support, and Ecosystem Updates](https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html) (2026-06-15)
 
 </details>
 
@@ -352,9 +352,9 @@
 
 - [Query Speed Insights from the Vercel CLI](https://vercel.com/changelog/query-speed-insights-from-the-vercel-cli) (2026-06-29)
 - [Build realtime voice agents on AI Gateway](https://vercel.com/blog/realtime-voice-agents-on-ai-gateway) (2026-06-29)
+- [Sandboxes now expire based on last use](https://vercel.com/changelog/sandboxes-now-expire-based-on-last-use) (2026-06-29)
 - [xAI Grok audio models now available on Vercel AI Gateway](https://vercel.com/changelog/xai-grok-audio-models-now-available-on-vercel-ai-gateway) (2026-06-29)
 - [Realtime voice, speech, and transcription now supported on AI Gateway](https://vercel.com/changelog/realtime-voice-speech-and-transcription-now-supported-on-ai-gateway) (2026-06-29)
-- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-26)
 
 </details>
 
