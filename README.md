@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) (2026-07-01)
-- [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) (2026-07-01)
-- [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) (2026-07-01)
-- [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/) (2026-06-30)
-- [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/) (2026-06-30)
+- [Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/) (2026-07-01)
+- [Gemini Spark, Google’s agentic assistant, is now available on Mac](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/) (2026-07-01)
+- [Sony to end physical PlayStation game disc sales in 2028](https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/) (2026-07-01)
+- [Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/) (2026-07-01)
+- [Meta, like SpaceX, looks to turn excess AI compute into cash](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/) (2026-07-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213) (2026-07-01)
-- [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374) (2026-07-01)
-- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) (2026-07-01)
-- [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/) (2026-07-01)
-- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells) (2026-07-01)
+- [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle) (2026-07-01)
+- [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752) (2026-07-01)
+- [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) (2026-07-01)
+- [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/) (2026-07-01)
+- [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart](https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination) (2026-07-01)
-- [Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit) (2026-07-01)
-- [Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) (2026-07-01)
-- [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy) (2026-06-30)
-- [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine) (2026-06-30)
+- [Sony is closing the PS3 and Vita digital stores](https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down) (2026-07-01)
+- [Sony is killing all physical PlayStation game discs](https://www.theverge.com/games/960160/sony-playstation-disc-production-ending) (2026-07-01)
+- [Google built a great smart speaker, but Gemini isn’t ready for it](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home) (2026-07-01)
+- [Rhythm Heaven never misses a beat](https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch) (2026-07-01)
+- [Range anxiety](https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain) (2026-07-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Scientists find no link between Tylenol and autism, again, after Trump warning](https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/) (2026-07-01)
 - [June research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/) (2026-06-30)
 - [Reddit will require you to log in to use old.reddit.com](https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/) (2026-06-30)
 - [Amazon blames piracy apps with malware for killing new Fire Stick sideloading](https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/) (2026-06-30)
 - [NASA may send a backup, nuclear-powered Mars rover to the Moon](https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/) (2026-06-30)
-- [Google kills Tenor GIF API, forcing changes at X, Discord, and more](https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Anthropic launches Claude Science, and California’s carbon manure math](https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/) (2026-07-01)
 - [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) (2026-06-30)
 - [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/) (2026-06-30)
 - [The Download: AI “coworkers” and stratospheric internet](https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/) (2026-06-30)
 - [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) (2026-06-30)
-- [Building tech in the world’s secret R&D hub](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/) (2026-06-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76) (2026-07-01)
-- [Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9) (2026-07-01)
-- [I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code](https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea) (2026-07-01)
-- [Bikin "Otak" AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula](https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05) (2026-07-01)
-- [AI Metrics Baseline: Prove Your Feature Works Before Scaling It](https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg) (2026-07-01)
+- [Effects Without Middleware — How Pipeline Stages Replace Thunks and Sagas](https://dev.to/sdux-vault/effects-without-middleware-how-pipeline-stages-replace-thunks-and-sagas-4cjd) (2026-07-01)
+- [Optimizing for Agents with llms.txt](https://dev.to/dailycontext/optimizing-for-agents-with-llmstxt-14l0) (2026-07-01)
+- [Financial Statement APIs: What Most Accounting Platforms Won't Give You (and How to Get It Anyway)](https://dev.to/apideck/financial-statement-apis-what-most-accounting-platforms-wont-give-you-and-how-to-get-it-anyway-3b7h) (2026-07-01)
+- [From Zero to 10 Apps: My Multi-App Productivity System](https://dev.to/hiyoyok/from-zero-to-10-apps-my-multi-app-productivity-system-47pd) (2026-07-01)
+- [CSS Grid vs Flexbox: Why It's the Wrong Question](https://dev.to/brendon_oneill__/css-grid-vs-flexbox-why-its-the-wrong-question-32p9) (2026-07-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [“Don’t Waste Your Time”](https://medium.com/@Jaruzel/dont-waste-your-time-6e26440988e5?source=rss------programming-5) (2026-07-01)
-- [5 Modern CSS Features That Let Me Delete JavaScript](https://medium.com/@tobilobaolugbemi/5-modern-css-features-that-let-me-delete-javascript-099717039964?source=rss------programming-5) (2026-07-01)
-- [Stop Using UUIDv4 as Keys — UUIDv7 Cut Our Index Bloat 30%](https://medium.com/@maahisoft20/stop-using-uuidv4-as-keys-uuidv7-cut-our-index-bloat-30-28df1576fd09?source=rss------programming-5) (2026-07-01)
-- [I Started a YouTube Channel With 0 Subscribers — Here’s What I Learned](https://medium.com/@mianawaismianawais19200/i-started-a-youtube-channel-with-0-subscribers-heres-what-i-learned-04ad6dd1f216?source=rss------programming-5) (2026-07-01)
-- [Built an AI-Powered WAF for PHP/Laravel Apps in Africa — Here’s What It Catches](https://medium.com/@jnchiminyi/built-an-ai-powered-waf-for-php-laravel-apps-in-africa-heres-what-it-catches-5e48c6ffacd2?source=rss------programming-5) (2026-07-01)
+- [AI security in one week: the same force, three faces](https://medium.com/@penquestr/ai-security-in-one-week-the-same-force-three-faces-565e6c69f140?source=rss------programming-5) (2026-07-01)
+- [The Biggest AI Opportunity of 2026 Might Disappear in Weeks](https://medium.com/@aiguy7854/the-biggest-ai-opportunity-of-2026-might-disappear-in-weeks-70b9b4fda02c?source=rss------programming-5) (2026-07-01)
+- [5 Java 21 Features That Quietly Replace Thousands of Lines You Still Write by Hand](https://medium.com/@Krishnajlathi/5-java-21-features-that-quietly-replace-thousands-of-lines-you-still-write-by-hand-0f69cddd031e?source=rss------programming-5) (2026-07-01)
+- [The Bugs Hidden Inside Variables and Data Types](https://medium.com/@dhruv2552/the-bugs-hidden-inside-variables-and-data-types-ef4f6141fda2?source=rss------programming-5) (2026-07-01)
+- [Your Password Is Already For Sale. You Just Don’t Know It Yet.](https://hartarto.medium.com/your-password-is-already-for-sale-you-just-dont-know-it-yet-a76c43817223?source=rss------programming-5) (2026-07-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/) (2026-07-01)
 - [NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science](https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/) (2026-06-30)
 - [How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost](https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/) (2026-06-30)
 - [How Jaiveer Singh Is Helping Robots — and Developers — Move Faster](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/) (2026-06-30)
 - [Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/) (2026-06-30)
-- [Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure](https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/) (2026-06-29)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/) (2026-07-01)
 - [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/) (2026-06-27)
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) (2026-06-25)
 - [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
 - [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/) (2026-06-23)
-- [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) (2026-06-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin Comes to BlueJ](https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/) (2026-07-01)
 - [Improving Embedded Software Quality With Parasoft C/C++test, CLion, and AI](https://blog.jetbrains.com/clion/2026/07/improving-embedded-software-quality-parasoft-clion-ai/) (2026-07-01)
 - [Kodee’s Kotlin Roundup: Kotlin Turns 15, Kotlin 2.4.0, and the Kotlin Toolchain](https://blog.jetbrains.com/kotlin/2026/06/kodees-kotlin-roundup-kotlin-turns-15-kotlin-2-4-0-and-the-kotlin-toolchain/) (2026-06-30)
 - [GitHub Copilot now an Integrated Agent in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/06/github-copilot-now-an-integrated-agent/) (2026-06-30)
 - [JetBrains Air lands on Windows](https://blog.jetbrains.com/air/2026/06/jetbrains-air-lands-on-windows/) (2026-06-29)
-- [The Role of Static Code Analysis in Fintech Compliance](https://blog.jetbrains.com/qodana/2026/06/sast-in-fintech-compliance/) (2026-06-29)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [How we built saga rollbacks for Cloudflare Workflows](https://blog.cloudflare.com/rollbacks-for-workflows/) (2026-06-25)
-- [Unlocking the Cloudflare app ecosystem with OAuth for all](https://blog.cloudflare.com/oauth-for-all/) (2026-06-24)
-- [The White House's post-quantum executive order is an important milestone. It’s time to get to work](https://blog.cloudflare.com/post-quantum-eo-2026/) (2026-06-23)
-- [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/) (2026-06-22)
-- [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) (2026-06-19)
+- [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) (2026-07-01)
+- [Content Independence Day, one year on: building the business model for the agentic Internet](https://blog.cloudflare.com/agentic-internet-bot-report/) (2026-07-01)
+- [Making AI search smarter](https://blog.cloudflare.com/making-ai-search-smarter/) (2026-07-01)
+- [Your site, your rules: new AI traffic options for all customers](https://blog.cloudflare.com/content-independence-day-ai-options/) (2026-07-01)
+- [Unmasking the crawls with Attribution Business Insights](https://blog.cloudflare.com/attribution-business-insights/) (2026-07-01)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Auth0 and Incode Boost Authentication Security with Biometric Identity Verification](https://auth0.com/blog/auth0-incode-bringing-biometric-identity-to-logins/) (2026-07-01)
 - [Add Auth0 Documentation to Claude Code](https://auth0.com/blog/add-auth0-documentation-claude-code/) (2026-06-29)
 - [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
 - [Embedded Login Advancements: Put Your Apps in Control of Identity to Accelerate Conversions](https://auth0.com/blog/embedded-login-advancements/) (2026-06-24)
 - [Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault](https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/) (2026-06-23)
-- [Passkey Adoption Is Rising, but Is It Worth It Yet?](https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/) (2026-06-22)
 
 </details>
 
@@ -469,11 +469,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [What’s new in Schema Proposals](https://www.apollographql.com/blog/whats-new-in-schema-proposals) (2026-07-01)
 - [API Key Management now in GraphOS Studio](https://www.apollographql.com/blog/api-key-management-now-in-graphos-studio) (2026-06-02)
 - [What’s New in Apollo Client 4.2](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-2) (2026-05-27)
 - [Apollo Kotlin 5 Is Now Available](https://www.apollographql.com/blog/apollo-kotlin-5-is-now-available) (2026-05-13)
 - [Apollo Federation Goes Full Rust](https://www.apollographql.com/blog/apollo-federation-goes-full-rust) (2026-05-07)
-- [Apollo is Recognized in Gartner® Voice of the Customer ](https://www.apollographql.com/blog/apollo-is-recognized-in-gartner-voice-of-the-customer) (2026-04-29)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Too Hot to Context-Switch](https://slack.com/blog/news/slack-feature-drop-june2026) (2026-06-30)
+- [Slack vs. WhatsApp: Which Tool Is Better for Work?](https://slack.com/blog/compare/slack-vs-whatsapp) (2026-06-29)
+- [Best CRM Software Solutions in 2026](https://slack.com/blog/crm/best-crm-software) (2026-06-29)
+- [AI in CRM: Benefits, Use Cases, and Tools](https://slack.com/blog/crm/ai-in-crm) (2026-06-29)
 - [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
-- [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
-- [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
-- [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
-- [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
 
 </details>
 
@@ -555,24 +555,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Anthropic deploys Claude Sonnet 5, Fable and Mythos restored](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/) (2026-07-01)
-- [HP accelerates enterprise workflows with OpenAI Frontier](https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/) (2026-06-29)
-- [Wimbledon adds IBM AI tools for live match coverage](https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/) (2026-06-29)
-- [Advances in Natural Language Processing Are Changing Professional Networking](https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/) (2026-06-29)
-- [Best Automated Security Testing Tools for Modern DevSecOps](https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/) (2026-06-29)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Can We Do When Memory Becomes the New Bottleneck in Data Engineering?](https://towardsdatascience.com/when-memory-becomes-the-new-bottleneck-in-data-engineering-what-can-we-do/) (2026-07-01)
+- [Build and Run Your Own AI Agent in the Cloud](https://towardsdatascience.com/build-and-run-your-own-ai-agent-in-the-cloud/) (2026-07-01)
 - [Context Engineering for RAG : The Four Typed Inputs Behind Every RAG Answer](https://towardsdatascience.com/context-engineering-for-rag-the-four-typed-inputs-behind-every-rag-answer/) (2026-06-30)
 - [Surviving the Data Science Behavioral Interview](https://towardsdatascience.com/surviving-the-data-science-behavioral-interview/) (2026-06-30)
 - [How to Maximize Codex Exec Command](https://towardsdatascience.com/how-to-maximize-codex-exec-command/) (2026-06-30)
-- [Stop Choosing Between Local and Cloud LLMs: A Field Guide to Hybrid Patterns](https://towardsdatascience.com/stop-choosing-between-local-and-cloud-llms-a-field-guide-to-hybrid-patterns/) (2026-06-30)
-- [How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification](https://towardsdatascience.com/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification/) (2026-06-29)
 
 </details>
 
@@ -590,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 AI Coding Platforms to Build Apps Without the Headache](https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache) (2026-07-01)
 - [Building Local AI Systems: Qwen3.6 + MCPs](https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps) (2026-06-30)
 - [7 Real-World Python Projects You Can Build in 2026 (With Guides)](https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides) (2026-06-30)
 - [Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative](https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative) (2026-06-29)
 - [5 AI Coding Subscription Plans That Give Developers the Best Value](https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value) (2026-06-29)
-- [Fine-tuning Language Models on Apple Silicon with MLX](https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx) (2026-06-26)
 
 </details>
 
