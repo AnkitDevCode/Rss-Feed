@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/) (2026-06-30)
-- [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/) (2026-06-30)
-- [Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/) (2026-06-30)
-- [Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/) (2026-06-30)
-- [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) (2026-06-30)
+- [The “Father of the Internet” is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) (2026-07-01)
+- [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) (2026-07-01)
+- [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) (2026-07-01)
+- [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/) (2026-06-30)
+- [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map) (2026-06-30)
-- [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226) (2026-06-30)
-- [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees) (2026-06-30)
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) (2026-06-30)
-- [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar) (2026-06-30)
+- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) (2026-07-01)
+- [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) (2026-07-01)
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) (2026-06-30)
+- [Google copybara: moving code between repositories](https://github.com/google/copybara) (2026-06-30)
+- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html) (2026-06-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [007 First Light&#8217;s developer lays off staff but claims its next franchise will continue](https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs) (2026-06-30)
-- [Moto&#8217;s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale) (2026-06-30)
-- [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder) (2026-06-30)
-- [Rockstar workers push to unionize ahead of GTA VI’s launch](https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi) (2026-06-30)
-- [Google&#8217;s killing off Tenor GIF searches in other apps](https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker) (2026-06-30)
+- [Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit) (2026-07-01)
+- [Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) (2026-07-01)
+- [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy) (2026-06-30)
+- [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine) (2026-06-30)
+- [Acer&#8217;s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet](https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/) (2026-06-30)
-- [RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access](https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/) (2026-06-30)
-- [Trump's plan to redesign every .gov website leads to AI-designed horrors](https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/) (2026-06-30)
-- [The US going 100% EV by 2040 would save more than 100k lives, study says](https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/) (2026-06-30)
-- [Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says](https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/) (2026-06-30)
+- [June research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/) (2026-06-30)
+- [Reddit will require you to log in to use old.reddit.com](https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/) (2026-06-30)
+- [Amazon blames piracy apps with malware for killing new Fire Stick sideloading](https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/) (2026-06-30)
+- [NASA may send a backup, nuclear-powered Mars rover to the Moon](https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/) (2026-06-30)
+- [Google kills Tenor GIF API, forcing changes at X, Discord, and more](https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) (2026-06-30)
 - [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/) (2026-06-30)
 - [The Download: AI “coworkers” and stratospheric internet](https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/) (2026-06-30)
 - [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) (2026-06-30)
 - [Building tech in the world’s secret R&D hub](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/) (2026-06-30)
-- [AI agents are not your “coworkers”](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/) (2026-06-29)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I'm re-discovering computer science with LLM revolution](https://dev.to/popiol/how-im-re-discovering-computer-science-with-llm-revolution-3oa) (2026-06-30)
-- [Inventory Display and Messaging Strategy](https://dev.to/barancevik/inventory-display-and-messaging-strategy-2emj) (2026-06-30)
-- [Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation & Utilities Server](https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92) (2026-06-30)
-- [Common Next.js Errors (and How I Solved Them)](https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o) (2026-06-30)
-- [What Really Happens When You Write x = 10](https://dev.to/storvus/what-really-happens-when-you-write-x-10-p0b) (2026-06-30)
+- [Memory Chips](https://dev.to/hknova/memory-chips-4am) (2026-07-01)
+- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7) (2026-07-01)
+- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62) (2026-07-01)
+- [I found 10 bugs in my own security scanner. Here's what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m) (2026-07-01)
+- [The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic](https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95) (2026-07-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Programming Language Beginners Should Learn First in 2025 (Data-Backed)](https://medium.com/@AlexMorgan24/the-programming-language-beginners-should-learn-first-in-2025-data-backed-87d939755246?source=rss------programming-5) (2026-06-30)
-- [The AI Shift & The Developer Persona: Why Great Developers Matter](https://medium.com/@codecareer4u/the-ai-shift-the-developer-persona-why-great-developers-will-always-matter-in-the-ai-era-fe44acaf7ab7?source=rss------programming-5) (2026-06-30)
-- [I Replaced Stack Overflow With AI — My Honest Experience](https://medium.com/@AlexMorgan24/i-replaced-stack-overflow-with-ai-my-honest-experience-08f5ddda28c9?source=rss------programming-5) (2026-06-30)
-- [Eu Auditei um SaaS Feito com Vibe Coding — As Falhas de Segurança Eram Assustadoras](https://medium.com/@pauloviana_12609/eu-auditei-um-saas-feito-com-vibe-coding-as-falhas-de-seguran%C3%A7a-eram-assustadoras-520f1631b8e0?source=rss------programming-5) (2026-06-30)
-- [What a SIEM Actually Does (And Why It Needs AI to Keep Up)](https://medium.com/@shafiqulsumon007/what-a-siem-actually-does-and-why-it-needs-ai-to-keep-up-ae79d4b15e58?source=rss------programming-5) (2026-06-30)
+- [.NET Interview Questions That Separate Real Project Experience from Theoretical Knowledge](https://medium.com/@preetjit82/net-interview-questions-that-separate-real-project-experience-from-theoretical-knowledge-4e02a6ceac39?source=rss------programming-5) (2026-07-01)
+- [Top 10 Linux Interview Questions Every DevOps, Cloud, and System Administrator Should Know](https://medium.com/@preetjit82/top-10-linux-interview-questions-every-devops-cloud-and-system-administrator-should-know-72ea512105a6?source=rss------programming-5) (2026-07-01)
+- [Teknologi 2026: Transformasi Digital yang Mengubah Cara Manusia Bekerja, Belajar, dan Berinteraksi](https://medium.com/@kapsul4dnew/teknologi-2026-transformasi-digital-yang-mengubah-cara-manusia-bekerja-belajar-dan-berinteraksi-af069a65d404?source=rss------programming-5) (2026-07-01)
+- [5 Signs Your Codebase Has Outgrown Its Architecture](https://medium.com/@agarwal24garima/5-signs-your-codebase-has-outgrown-its-architecture-c782a8af184f?source=rss------programming-5) (2026-07-01)
+- [Memorizing Design Patterns Is a Waste of Time. Use This Decision Tree Instead.](https://pravash-techie.medium.com/memorizing-design-patterns-is-a-waste-of-time-use-this-decision-tree-instead-37c8ae4840e3?source=rss------programming-5) (2026-07-01)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode](https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/) (2026-06-30)
+- [Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/) (2026-06-30)
+- [Automate public TLS certificate issuance with ACME support in AWS Certificate Manager](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/) (2026-06-30)
 - [AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/) (2026-06-29)
 - [Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) (2026-06-22)
-- [AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/) (2026-06-22)
-- [Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/) (2026-06-18)
-- [Amazon ECS introduces new high-resolution metrics for faster service auto scaling](https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/) (2026-06-18)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/) (2026-06-30)
 - [What's new in Git 2.55.0?](https://about.gitlab.com/blog/whats-new-in-git-2-55-0/) (2026-06-29)
 - [Google Antigravity agents get full context with GitLab Orbit](https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/) (2026-06-25)
 - [GitLab Patch Release: 19.1.1, 19.0.3, 18.11.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-1-released/) (2026-06-24)
 - [One vulnerability view: From scanner coverage to AI governance](https://about.gitlab.com/blog/one-vulnerability-view/) (2026-06-18)
-- [GitLab 19.1 released](https://docs.gitlab.com/releases/19/gitlab-19-1-released/) (2026-06-18)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Run any Dockerfile on Vercel](https://vercel.com/blog/dockerfile-on-vercel) (2026-06-30)
+- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-06-30)
 - [Vercel and Shopify are rebuilding Hydrogen](https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen) (2026-06-30)
 - [Vercel Services: Run full stack on Vercel](https://vercel.com/blog/vercel-services-run-full-stack-on-vercel) (2026-06-30)
 - [Vercel Agent has updated pricing](https://vercel.com/changelog/vercel-agent-has-updated-pricing) (2026-06-30)
-- [Claude Sonnet 5 now available on Vercel AI Gateway](https://vercel.com/changelog/claude-sonnet-5-ai-gateway) (2026-06-30)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
 - [The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/) (2026-06-30)
 - [GraphRAG vs Vector RAG: Which Retrieval Method is Best?](https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/) (2026-06-29)
 - [Using AI When You Don’t Trust AI](https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/) (2026-06-26)
 - [The Loop That Makes AI Agents Get Smarter on Their Own](https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/) (2026-06-25)
-- [Harness-1: The 20B Retrieval Subagent That Beats GPT-5.4 at Search](https://www.analyticsvidhya.com/blog/2026/06/harness-1-ai-retrieval-agent/) (2026-06-24)
 
 </details>
 
