@@ -9,7 +9,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The “Father of the Internet” is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) (2026-07-01)
+- [The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) (2026-07-01)
 - [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) (2026-07-01)
 - [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) (2026-07-01)
 - [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/) (2026-06-30)
@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) (2026-07-01)
-- [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) (2026-07-01)
-- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) (2026-06-30)
-- [Google copybara: moving code between repositories](https://github.com/google/copybara) (2026-06-30)
-- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html) (2026-06-30)
+- [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213) (2026-07-01)
+- [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374) (2026-07-01)
+- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) (2026-07-01)
+- [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/) (2026-07-01)
+- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart](https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination) (2026-07-01)
 - [Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit) (2026-07-01)
 - [Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) (2026-07-01)
 - [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy) (2026-06-30)
 - [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine) (2026-06-30)
-- [Acer&#8217;s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale) (2026-06-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Memory Chips](https://dev.to/hknova/memory-chips-4am) (2026-07-01)
-- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7) (2026-07-01)
-- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62) (2026-07-01)
-- [I found 10 bugs in my own security scanner. Here's what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m) (2026-07-01)
-- [The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic](https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95) (2026-07-01)
+- [Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76) (2026-07-01)
+- [Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9) (2026-07-01)
+- [I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code](https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea) (2026-07-01)
+- [Bikin "Otak" AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula](https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05) (2026-07-01)
+- [AI Metrics Baseline: Prove Your Feature Works Before Scaling It](https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg) (2026-07-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [.NET Interview Questions That Separate Real Project Experience from Theoretical Knowledge](https://medium.com/@preetjit82/net-interview-questions-that-separate-real-project-experience-from-theoretical-knowledge-4e02a6ceac39?source=rss------programming-5) (2026-07-01)
-- [Top 10 Linux Interview Questions Every DevOps, Cloud, and System Administrator Should Know](https://medium.com/@preetjit82/top-10-linux-interview-questions-every-devops-cloud-and-system-administrator-should-know-72ea512105a6?source=rss------programming-5) (2026-07-01)
-- [Teknologi 2026: Transformasi Digital yang Mengubah Cara Manusia Bekerja, Belajar, dan Berinteraksi](https://medium.com/@kapsul4dnew/teknologi-2026-transformasi-digital-yang-mengubah-cara-manusia-bekerja-belajar-dan-berinteraksi-af069a65d404?source=rss------programming-5) (2026-07-01)
-- [5 Signs Your Codebase Has Outgrown Its Architecture](https://medium.com/@agarwal24garima/5-signs-your-codebase-has-outgrown-its-architecture-c782a8af184f?source=rss------programming-5) (2026-07-01)
-- [Memorizing Design Patterns Is a Waste of Time. Use This Decision Tree Instead.](https://pravash-techie.medium.com/memorizing-design-patterns-is-a-waste-of-time-use-this-decision-tree-instead-37c8ae4840e3?source=rss------programming-5) (2026-07-01)
+- [“Don’t Waste Your Time”](https://medium.com/@Jaruzel/dont-waste-your-time-6e26440988e5?source=rss------programming-5) (2026-07-01)
+- [5 Modern CSS Features That Let Me Delete JavaScript](https://medium.com/@tobilobaolugbemi/5-modern-css-features-that-let-me-delete-javascript-099717039964?source=rss------programming-5) (2026-07-01)
+- [Stop Using UUIDv4 as Keys — UUIDv7 Cut Our Index Bloat 30%](https://medium.com/@maahisoft20/stop-using-uuidv4-as-keys-uuidv7-cut-our-index-bloat-30-28df1576fd09?source=rss------programming-5) (2026-07-01)
+- [I Started a YouTube Channel With 0 Subscribers — Here’s What I Learned](https://medium.com/@mianawaismianawais19200/i-started-a-youtube-channel-with-0-subscribers-heres-what-i-learned-04ad6dd1f216?source=rss------programming-5) (2026-07-01)
+- [Built an AI-Powered WAF for PHP/Laravel Apps in Africa — Here’s What It Catches](https://medium.com/@jnchiminyi/built-an-ai-powered-waf-for-php-laravel-apps-in-africa-heres-what-it-catches-5e48c6ffacd2?source=rss------programming-5) (2026-07-01)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Improving Embedded Software Quality With Parasoft C/C++test, CLion, and AI](https://blog.jetbrains.com/clion/2026/07/improving-embedded-software-quality-parasoft-clion-ai/) (2026-07-01)
 - [Kodee’s Kotlin Roundup: Kotlin Turns 15, Kotlin 2.4.0, and the Kotlin Toolchain](https://blog.jetbrains.com/kotlin/2026/06/kodees-kotlin-roundup-kotlin-turns-15-kotlin-2-4-0-and-the-kotlin-toolchain/) (2026-06-30)
 - [GitHub Copilot now an Integrated Agent in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/06/github-copilot-now-an-integrated-agent/) (2026-06-30)
 - [JetBrains Air lands on Windows](https://blog.jetbrains.com/air/2026/06/jetbrains-air-lands-on-windows/) (2026-06-29)
 - [The Role of Static Code Analysis in Fintech Compliance](https://blog.jetbrains.com/qodana/2026/06/sast-in-fintech-compliance/) (2026-06-29)
-- [Kotlin Notebook Sunset](https://blog.jetbrains.com/idea/2026/06/kotlin-notebook-sunset/) (2026-06-29)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.127 (Insiders)](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
+- [Visual Studio Code 1.127](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
+- [Visual Studio Code 1.128 (Insiders)](https://code.visualstudio.com/updates/v1_128) (2026-07-01)
 - [Iterating faster with TypeScript 7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) (2026-06-26)
 - [Visual Studio Code 1.126](https://code.visualstudio.com/updates/v1_126) (2026-06-24)
 - [What 50,000 Runs of a 5-Line Eval Taught Us](https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us) (2026-06-19)
-- [Use your own language model key in VS Code](https://code.visualstudio.com/blogs/2026/06/18/byok-vscode) (2026-06-18)
 
 </details>
 
@@ -373,6 +373,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build Real-Time Speech to Speech with Twilio Media Streams and NVIDIA PersonaPlex
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-speech-to-speech-media-streams-nvidia-personaplex
+) (2026-06-30)
+- [
+June 2026 Fraud Update: Securing Your Secrets and CI/CD from the Supply Chain
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-june-2026
+) (2026-06-30)
+- [
+21 conversational AI examples and use cases in 2026
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-examples-use-cases
+) (2026-06-30)
+- [
 The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications with RCS
 ](
 https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
@@ -382,21 +397,6 @@ Create High-Impact RCS Marketing Campaigns in Heymarket using Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-impact-rcs-marketing-campaigns-heymarket
 ) (2026-06-25)
-- [
-Build and Test a Patient Appointment Scheduling Agent with Twilio and Bluejay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/patient-appointment-scheduling-agent-twilio-bluejay
-) (2026-06-24)
-- [
-How to Validate Twilio Event Streams Webhooks in Rust
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/validate-twilio-event-streams-webhooks-rust
-) (2026-06-24)
-- [
-What is AI customer memory? How it works & getting started
-](
-https://www.twilio.com/en-us/blog/insights/ai-customer-memory
-) (2026-06-23)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/ai-customer-memory
 - [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) (2026-06-30)
 - [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) (2026-06-29)
 - [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) (2026-06-26)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Anthropic deploys Claude Sonnet 5, Fable and Mythos restored](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/) (2026-07-01)
+- [HP accelerates enterprise workflows with OpenAI Frontier](https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/) (2026-06-29)
+- [Wimbledon adds IBM AI tools for live match coverage](https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/) (2026-06-29)
+- [Advances in Natural Language Processing Are Changing Professional Networking](https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/) (2026-06-29)
+- [Best Automated Security Testing Tools for Modern DevSecOps](https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/) (2026-06-29)
 
 </details>
 
