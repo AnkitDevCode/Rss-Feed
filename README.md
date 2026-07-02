@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year](https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/) (2026-07-01)
+- [Bending Spoons defies SaaS slump, surges 40% on first day of trading](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) (2026-07-01)
+- [After $18B IPO, Bending Spoons founder says success comes from minimizing luck](https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/) (2026-07-01)
+- [WhatsApp usernames are already raising impersonation red flags](https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/) (2026-07-01)
 - [Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims](https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/) (2026-07-01)
-- [SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/) (2026-07-01)
-- [Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/) (2026-07-01)
-- [Neocloud Together AI raises $800M, leaps to $8.3B valuation](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/) (2026-07-01)
-- [Lime begins life as a public company after years of uncertainty](https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/) (2026-07-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381) (2026-07-01)
-- [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/) (2026-07-01)
-- [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn) (2026-07-01)
-- [Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries](https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch) (2026-07-01)
-- [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) (2026-07-01)
+- [Avoiding Fallback in Distributed Systems](https://builder.aws.com) (2026-07-02)
+- [LibreCAD in the Browser](https://magik.net/librecad/) (2026-07-02)
+- [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) (2026-07-02)
+- [Global review confirms mRNA vaccines are safe, effective and full of promise ](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) (2026-07-02)
+- [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s entry-level MacBook Pro could be up for a redesign](https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update) (2026-07-01)
+- [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores) (2026-07-01)
+- [Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures](https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures) (2026-07-01)
+- [Elon Musk denies a report about SpaceX&#8217;s AI phone prototype](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk) (2026-07-01)
 - [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds) (2026-07-01)
-- [Xbox testing disc-to-digital feature that digitizes a physical game collection](https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection) (2026-07-01)
-- [My favorite Kindle alternative is $30 off after a recent price increase](https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale) (2026-07-01)
-- [Comcast’s split could make or break Peacock](https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming) (2026-07-01)
-- [The best Switch 2 case I’ve tried is cheaper than usual](https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale) (2026-07-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Sony will stop making physical copies of PlayStation games in 2028](https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/) (2026-07-01)
-- [A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country](https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/) (2026-07-01)
-- [Ithaca's king defies the gods in final The Odyssey trailer](https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/) (2026-07-01)
-- [After spooking Trump into safety testing, Anthropic AI models get global release](https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/) (2026-07-01)
-- [NASA inspector general suggests Boeing's Starliner will now be a decade late](https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/) (2026-07-01)
+- [T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit](https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/) (2026-07-01)
+- [NASA chief praises progress Blue Origin is making after launch failure](https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/) (2026-07-01)
+- [US home battery installations hit record high on rising electricity costs](https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/) (2026-07-01)
+- [Superworms could replace beetles for cleaning skeletal remains](https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/) (2026-07-01)
+- [Sony announces end of PlayStation discs, parts of digital store in the same day](https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/) (2026-07-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your SearXNG JSON integration works on your own instance and silently breaks on everyone else's. Here's why.](https://dev.to/wrencastellan/your-searxng-json-integration-works-on-your-own-instance-and-silently-breaks-on-everyone-elses-d7o) (2026-07-01)
-- [The Amnesia Tax](https://dev.to/threadctx_dev/the-amnesia-tax-35h8) (2026-07-01)
-- [How I Built a Free Image Toolkit : freeimgkit (Next.js + WebAssembly)](https://dev.to/amanuel_snit_e92602511eb4/how-i-built-a-free-image-toolkit-freeimgkit-nextjs-webassembly-47g) (2026-07-01)
-- [Today I got a very painful reminder of the importance of using transactions in database migrations.](https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f) (2026-07-01)
-- [Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi](https://dev.to/iamshadrac/episia-building-an-open-source-epidemiology-library-in-python-validated-against-openepi-4ap1) (2026-07-01)
+- [Building a Search Modal for a Membership-Gated WordPress Site](https://dev.to/highcenburg/building-a-search-modal-for-a-membership-gated-wordpress-site-b92) (2026-07-02)
+- [Monitoramento de Logs com Grafana + Loki + Promtail + Prometheus](https://dev.to/edivan/monitoramento-de-logs-com-grafana-loki-promtail-prometheus-25a8) (2026-07-02)
+- [The AWS Bill Says $4,000. It Won't Tell You Which Database Owes What.](https://dev.to/hifx_itservices_/the-aws-bill-says-4000-it-wont-tell-you-which-database-owes-what-5b2) (2026-07-02)
+- [Transcrevendo áudio e gerando capítulos com IA (Whisper + GPT) sem estourar o custo](https://dev.to/felipegazolla/transcrevendo-audio-e-gerando-capitulos-com-ia-whisper-gpt-sem-estourar-o-custo-3lk6) (2026-07-02)
+- [網紅程式設計師回應炒股一年虧130萬：當流量主體走進散戶敘事，虧損也成了內容](https://dev.to/cindyching0101/wang-hong-cheng-shi-she-ji-shi-hui-ying-chao-gu-nian-kui-130wan-dang-liu-liang-zhu-ti-zou-jin-san-hu-xu-shi-kui-sun-ye-cheng-liao-nei-rong-3ld4) (2026-07-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [1a. You Don’t Need to Understand B+ Trees to Understand Indexes](https://medium.com/@ashugoyal6799/1a-you-dont-need-to-understand-b-trees-to-understand-indexes-6536bb091cbf?source=rss------programming-5) (2026-07-01)
-- [Why Spreading Your Money Thin Can Make You Poorer](https://medium.com/illumination/why-spreading-your-money-thin-can-make-you-poorer-b7782b8ea560?source=rss------programming-5) (2026-07-01)
-- [Flutter Pills — Your Flutter Form Works. That’s Not Enough.](https://medium.com/@blooapp/flutter-pills-your-flutter-form-works-thats-not-enough-03a85570fc4c?source=rss------programming-5) (2026-07-01)
-- [7. Maintainability: Why Great Software Isn’t Built Once — It’s Improved Thousands of Times(Part 2)](https://medium.com/kanak-club/7-maintainability-why-great-software-isnt-built-once-it-s-improved-thousands-of-times-part-2-e5b3d2a691af?source=rss------programming-5) (2026-07-01)
-- [Machine Learning Concepts Explained #1: Why Machines Need to Learn](https://medium.com/@bskky001/machine-learning-concepts-explained-1-why-machines-need-to-learn-2b81ce48c1e5?source=rss------programming-5) (2026-07-01)
+- [7 Angular Pipe Techniques Only Senior Developers Know](https://medium.com/@sourabhda1998/7-angular-pipe-techniques-only-senior-developers-know-e417f2917cc8?source=rss------programming-5) (2026-07-02)
+- [Generics Made Simple](https://serticode.medium.com/generics-made-simple-43aacfca92f0?source=rss------programming-5) (2026-07-02)
+- [Elevating Observability: From Reactive Metrics to System Insight](https://medium.com/@im2021071086/elevating-observability-from-reactive-metrics-to-system-insight-e49c97926444?source=rss------programming-5) (2026-07-02)
+- [The Hidden HTTP Header That Made My API 20% Faster](https://medium.com/@Krishnajlathi/the-hidden-http-header-that-made-my-api-20-faster-9edc3ebe41d6?source=rss------programming-5) (2026-07-02)
+- [From Pride to Embarrassment](https://kengkreingkrai.medium.com/from-pride-to-embarrassment-bea1cf7f3de8?source=rss------programming-5) (2026-07-02)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Securing Heroku CLI Credentials with System Keychain Storage](https://www.heroku.com/blog/securing-heroku-cli-credentials-with-system-keychain-storage/) (2026-07-01)
 - [A 15-Second Health Check for Your Heroku Connect Data Pipeline](https://www.heroku.com/blog/health-check-for-your-heroku-connect-data-pipeline/) (2026-06-24)
 - [Heroku March 2026 Update](https://www.heroku.com/blog/march-2026-update/) (2026-03-19)
 - [Modernizing the Command Line: Heroku CLI v11](https://www.heroku.com/blog/modernizing-the-command-line-heroku-cli-v11/) (2026-03-19)
 - [Bigger Slugs and Greater Build Timeout Flexibility](https://www.heroku.com/blog/bigger-slugs-and-greater-build-timeout-flexibility/) (2026-03-19)
-- [Behind the Scenes: How Maintaining Cloud Native Buildpacks Powers Platforms Like Heroku](https://www.heroku.com/blog/how-maintaining-cloud-native-buildpacks-powers-platforms-like-heroku/) (2026-03-17)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/create-high-
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) (2026-06-30)
 - [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) (2026-06-30)
 - [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) (2026-06-29)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
-- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
-- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
-- [Anthropic deploys Claude Sonnet 5, Fable and Mythos restored](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/) (2026-07-01)
-- [HP accelerates enterprise workflows with OpenAI Frontier](https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/) (2026-06-29)
 
 </details>
 
