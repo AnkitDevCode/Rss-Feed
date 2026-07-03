@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [A warning sign about AI’s real cost, courtesy of Google and Amazon](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/) (2026-07-02)
-- [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/) (2026-07-02)
-- [Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/) (2026-07-02)
-- [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/) (2026-07-02)
-- [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/) (2026-07-02)
+- [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) (2026-07-03)
+- [Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) (2026-07-02)
+- [Private space pilots are flying orbital missions for the US Space Force](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/) (2026-07-02)
+- [Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/) (2026-07-02)
+- [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/) (2026-07-02)
-- [Exapunks](https://www.zachtronics.com/exapunks/) (2026-07-02)
-- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) (2026-07-02)
-- [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com) (2026-07-02)
-- [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv) (2026-07-02)
+- [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl) (2026-07-03)
+- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) (2026-07-03)
+- [Right to Local Intelligence](https://righttointelligence.org/) (2026-07-02)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) (2026-07-02)
+- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) (2026-07-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead) (2026-07-03)
+- [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges) (2026-07-02)
+- [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai) (2026-07-02)
+- [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale) (2026-07-02)
 - [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal) (2026-07-02)
-- [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast) (2026-07-02)
-- [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings) (2026-07-02)
-- [Godox’s feature-packed key light is down to its best price yet](https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale) (2026-07-02)
-- [Tesla&#8217;s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report) (2026-07-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/) (2026-07-02)
 - [FAA proposal: Supersonic airliners can fly over US cities if they’re quiet](https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/) (2026-07-02)
 - [Ars Live recap: When are the big rockets NASA desperately needs going to be ready?](https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/) (2026-07-02)
 - [Plex debuts 5-year membership pass for $250](https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/) (2026-07-02)
 - [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/) (2026-07-02)
-- [Artificial cell manages a few rounds of cell division](https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/) (2026-07-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Who actually feels lost about Germany's new automatic platform and crypto tax reporting? (a pandas cut)](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4) (2026-07-02)
-- [I built hundreds of AI-generated websites. Here's what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3) (2026-07-02)
-- [Does the month you start predict whether you keep a habit? 1.1M piano learners say yes](https://dev.to/mlvolkmar/does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes-4970) (2026-07-02)
-- [Block Google's AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii) (2026-07-02)
-- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb) (2026-07-02)
+- [Dory Now Supports Snowflake](https://dev.to/dory-nemo/dory-now-supports-snowflake-38ei) (2026-07-03)
+- [I submitted a real PR to a Brazilian open source project — live, using AI as my right hand](https://dev.to/pimenta/i-submitted-a-real-pr-to-a-brazilian-open-source-project-live-using-ai-as-my-right-hand-3hko) (2026-07-03)
+- [WordPress Pre-Launch Checklist for Client Handoff — What to Check, Clean Up, and Prove Before Delivery](https://dev.to/nokazehayato/wordpress-pre-launch-checklist-for-client-handoff-what-to-check-clean-up-and-prove-before-5ejd) (2026-07-03)
+- [How TypeScript Infers Types Through Async Generators in 2026](https://dev.to/jsmanifest/how-typescript-infers-types-through-async-generators-in-2026-54km) (2026-07-03)
+- [A RAG evaluator that admits what it can't judge](https://dev.to/monongahelahellbender/a-rag-evaluator-that-admits-what-it-cant-judge-ad2) (2026-07-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Modern AI Concepts That Finally Made Sense After I Automated My Inbox With Claude](https://yadavdivy296.medium.com/9-modern-ai-concepts-that-finally-made-sense-after-i-automated-my-inbox-with-claude-96906b3f5166?source=rss------programming-5) (2026-07-02)
-- [Return of the King: Mythos is Back… with Friends](https://medium.com/@cdcore/return-of-the-king-mythos-is-back-with-friends-df1c30423ced?source=rss------programming-5) (2026-07-02)
-- [Agents-A1: How a 35B AI Model is Challenging Trillion-Parameter AI Agents](https://medium.com/data-science-in-your-pocket/agents-a1-how-a-35b-ai-model-is-challenging-trillion-parameter-ai-agents-08641f2de39a?source=rss------programming-5) (2026-07-02)
-- [MyClaw.ai: Agents That Deliver, OpenClaw & Hermes, Ready to Work](https://medium.com/@mehulgupta_7991/myclaw-ai-agents-that-deliver-openclaw-hermes-ready-to-work-107879d5a19c?source=rss------programming-5) (2026-07-02)
-- [There Is No Single SDD — Three Levels Exist, and Most Teams Are Stuck on Level One](https://medium.com/@wasowski.jarek/there-is-no-single-sdd-three-levels-exist-and-most-teams-are-stuck-on-level-one-afb4efb06734?source=rss------programming-5) (2026-07-02)
+- [Migrating a 200k-Line Codebase from TypeScript 5.x to 6.0: What Actually Broke](https://medium.com/@jsmanifest/migrating-a-200k-line-codebase-from-typescript-5-x-to-6-0-what-actually-broke-65e6b9c737a6?source=rss------programming-5) (2026-07-03)
+- [[Android Development] Dependency Inversion in My Real Android Projects](https://medium.com/@tahn98/android-development-dependency-inversion-in-my-real-android-projects-85f98c7f17e5?source=rss------programming-5) (2026-07-03)
+- [The Most Suspicious Success in Programming](https://kengkreingkrai.medium.com/the-most-suspicious-success-in-programming-1d99844923c6?source=rss------programming-5) (2026-07-03)
+- [A better way to write bug reports with AI](https://medium.com/codetodeploy/a-better-way-to-write-bug-reports-with-ai-5ea9956a84d7?source=rss------programming-5) (2026-07-03)
+- [I Ran Three AI Coding Agents at Once and Turned Into Young Steve Jobs](https://medium.com/data-science-collective/i-ran-three-ai-coding-agents-at-once-and-turned-into-young-steve-jobs-e0fc319745fa?source=rss------programming-5) (2026-07-03)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
 - [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 - [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
-- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/) (2026-07-02)
 - [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-07-01)
 - [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/) (2026-06-30)
 - [Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends](https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends/) (2026-06-29)
 - [TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference](https://pytorch.org/blog/lightseek-tokenspeed-kernel/) (2026-06-25)
-- [Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0](https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/) (2026-06-23)
 
 </details>
 
