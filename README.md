@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) (2026-07-03)
 - [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) (2026-07-03)
 - [Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) (2026-07-02)
 - [Private space pilots are flying orbital missions for the US Space Force](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/) (2026-07-02)
 - [Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/) (2026-07-02)
-- [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl) (2026-07-03)
-- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) (2026-07-03)
-- [Right to Local Intelligence](https://righttointelligence.org/) (2026-07-02)
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) (2026-07-02)
-- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) (2026-07-02)
+- [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) (2026-07-03)
+- [Why Switzerland has 25 gbit internet and America doesn't](https://stefan.schueller.net/posts/the-free-market-lie/) (2026-07-03)
+- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/) (2026-07-03)
+- [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o) (2026-07-03)
+- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) (2026-07-03)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The good, the bad, and the AI apps​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/) (2026-07-03)
 - [How do you turn AI coding chaos into a repeatable playbook?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/) (2026-07-02)
 - [Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/) (2026-06-30)
 - [Paging Charity! How can engineering leaders avoid becoming Bond villains?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/) (2026-06-26)
 - [Code isn’t the only thing causing your production failures​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/) (2026-06-25)
-- [Your AI shipped a backend that boots. That is the whole problem.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/23/your-ai-shipped-a-backend-that-boots-that-is-the-whole-problem/) (2026-06-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dory Now Supports Snowflake](https://dev.to/dory-nemo/dory-now-supports-snowflake-38ei) (2026-07-03)
-- [I submitted a real PR to a Brazilian open source project — live, using AI as my right hand](https://dev.to/pimenta/i-submitted-a-real-pr-to-a-brazilian-open-source-project-live-using-ai-as-my-right-hand-3hko) (2026-07-03)
-- [WordPress Pre-Launch Checklist for Client Handoff — What to Check, Clean Up, and Prove Before Delivery](https://dev.to/nokazehayato/wordpress-pre-launch-checklist-for-client-handoff-what-to-check-clean-up-and-prove-before-5ejd) (2026-07-03)
-- [How TypeScript Infers Types Through Async Generators in 2026](https://dev.to/jsmanifest/how-typescript-infers-types-through-async-generators-in-2026-54km) (2026-07-03)
-- [A RAG evaluator that admits what it can't judge](https://dev.to/monongahelahellbender/a-rag-evaluator-that-admits-what-it-cant-judge-ad2) (2026-07-03)
+- [Dev Log: 2026-07-02 — disable means drain, and case never matters](https://dev.to/nasrulhazim/dev-log-2026-07-02-disable-means-drain-and-case-never-matters-cp6) (2026-07-03)
+- [What I learned about Astro 5 glob loader path resolution in a pnpm monorepo](https://dev.to/morinaga/what-i-learned-about-astro-5-glob-loader-path-resolution-in-a-pnpm-monorepo-2ed4) (2026-07-03)
+- [Things I Wish Someone Had Told Me Before Starting iOS Development](https://dev.to/gamya_m/things-i-wish-someone-had-told-me-before-starting-ios-development-3o4b) (2026-07-03)
+- [State of AI Agent Memory 2026: Where AI Memory is Heading](https://dev.to/ponmiledaniel/state-of-ai-agent-memory-2026-where-ai-memory-is-heading-78c) (2026-07-03)
+- [GPT-5.6 Sol Admitted It Did Things Nobody Asked It To Do](https://dev.to/peremptory/gpt-56-sol-admitted-it-did-things-nobody-asked-it-to-do-4b5d) (2026-07-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Migrating a 200k-Line Codebase from TypeScript 5.x to 6.0: What Actually Broke](https://medium.com/@jsmanifest/migrating-a-200k-line-codebase-from-typescript-5-x-to-6-0-what-actually-broke-65e6b9c737a6?source=rss------programming-5) (2026-07-03)
-- [[Android Development] Dependency Inversion in My Real Android Projects](https://medium.com/@tahn98/android-development-dependency-inversion-in-my-real-android-projects-85f98c7f17e5?source=rss------programming-5) (2026-07-03)
-- [The Most Suspicious Success in Programming](https://kengkreingkrai.medium.com/the-most-suspicious-success-in-programming-1d99844923c6?source=rss------programming-5) (2026-07-03)
-- [A better way to write bug reports with AI](https://medium.com/codetodeploy/a-better-way-to-write-bug-reports-with-ai-5ea9956a84d7?source=rss------programming-5) (2026-07-03)
-- [I Ran Three AI Coding Agents at Once and Turned Into Young Steve Jobs](https://medium.com/data-science-collective/i-ran-three-ai-coding-agents-at-once-and-turned-into-young-steve-jobs-e0fc319745fa?source=rss------programming-5) (2026-07-03)
+- [A Clean Repo Turned My AI Coding Agent Into Malware](https://medium.com/@harshit10eja006/a-clean-repo-turned-my-ai-coding-agent-into-malware-f73462e8630b?source=rss------programming-5) (2026-07-03)
+- [Why Most AI Workflow Agents Forget Everything Between Runs (And How EasyClaw Fixes It)](https://pub.towardsai.net/why-most-ai-workflow-agents-forget-everything-between-runs-and-how-easyclaw-fixes-it-dc7d4c3db4d4?source=rss------programming-5) (2026-07-03)
+- [How can I automatically cancel an order if it is not paid within 30 minutes?](https://blog.stackademic.com/how-can-i-automatically-cancel-an-order-if-it-is-not-paid-within-30-minutes-34ab2c5621fc?source=rss------programming-5) (2026-07-03)
+- [Loop Engineering: The Next Layer After Prompt and Context Engineering](https://medium.com/@raajan.works/loop-engineering-the-next-layer-after-prompt-and-context-engineering-1826567bcab5?source=rss------programming-5) (2026-07-03)
+- [MyStudy: Aplikasi Mobile untuk Mengelola Tugas dan Pengingat Jadwal](https://medium.com/@syasyaadlina207/mystudy-aplikasi-mobile-untuk-mengelola-tugas-dan-pengingat-jadwal-962b981af6d7?source=rss------programming-5) (2026-07-03)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
-- [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
-- [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
-- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 - [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
+- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
+- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
+- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
+- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Too Hot to Context-Switch](https://slack.com/blog/news/slack-feature-drop-june2026) (2026-06-30)
+- [Slack vs. WhatsApp: Which Tool Is Better for Work?](https://slack.com/blog/compare/slack-vs-whatsapp) (2026-06-29)
+- [Best CRM Software Solutions in 2026](https://slack.com/blog/crm/best-crm-software) (2026-06-29)
+- [AI in CRM: Benefits, Use Cases, and Tools](https://slack.com/blog/crm/ai-in-crm) (2026-06-29)
 - [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
-- [Reminder Systems: Best Apps, Benefits, and How They Work](https://slack.com/blog/productivity/reminder-systems) (2026-06-19)
-- [The Top AI Search Engines for 2026](https://slack.com/blog/productivity/top-ai-search-engines) (2026-06-19)
-- [12 Ways to Optimize Task Scheduling](https://slack.com/blog/productivity/task-scheduling) (2026-06-19)
-- [The Shift to Multiplayer Work: Say Hello to Slackbot’s MCP Client](https://slack.com/blog/news/slackbots-mcp-client) (2026-06-18)
 
 </details>
 
