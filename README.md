@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-07-03)
+- [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/) (2026-07-03)
+- [Chevy built an all-American EV truck — why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/) (2026-07-03)
 - [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) (2026-07-03)
 - [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) (2026-07-03)
-- [Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) (2026-07-02)
-- [Private space pilots are flying orbital missions for the US Space Force](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/) (2026-07-02)
-- [Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) (2026-07-03)
-- [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) (2026-07-03)
-- [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html) (2026-07-03)
-- [Please Stop the AI Confidence Theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater) (2026-07-03)
-- [Goodebye Forever Probably: Why I'm leaving developer relations](https://whitep4nth3r.com/blog/goodbye-forever-probably/) (2026-07-03)
+- [I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type) (2026-07-03)
+- [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/) (2026-07-03)
+- [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop) (2026-07-03)
+- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) (2026-07-03)
+- [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe) (2026-07-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak) (2026-07-03)
-- [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list) (2026-07-03)
-- [Apple TV is hitting its stride](https://www.theverge.com/entertainment/960985/apple-tv-hits-2026) (2026-07-03)
-- [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video) (2026-07-03)
-- [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead) (2026-07-03)
+- [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update) (2026-07-03)
+- [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras) (2026-07-03)
+- [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen) (2026-07-03)
+- [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions) (2026-07-03)
+- [Hydration isn’t complicated: Just drink water](https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave) (2026-07-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) (2026-07-03)
 - [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) (2026-07-03)
 - [Despite the darkness, I still see signs of hope in America](https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/) (2026-07-03)
 - [Visiting the stars (and planets, and telescopes) in VR](https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/) (2026-07-03)
 - [Wing Commander IV and the FMV future that never quite was](https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/) (2026-07-03)
-- [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [ A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) (2026-07-03)
 - [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
 - [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/) (2026-07-03)
 - [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) (2026-07-02)
 - [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) (2026-07-02)
-- [The Download: a startup has a solution for AI’s groupthink problem](https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/) (2026-07-02)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Future of Agentic AI Memory Systems](https://dev.to/xenocoregiger31/the-future-of-agentic-ai-memory-systems-5fdp) (2026-07-03)
-- [If Stripe is not available in your country, check this before rebuilding your SaaS billing](https://dev.to/cekuu35/if-stripe-is-not-available-in-your-country-check-this-before-rebuilding-your-saas-billing-4702) (2026-07-03)
-- [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) (2026-07-03)
-- [Another Tale of Two Threads (C or C++ vs. Python)](https://dev.to/pauljlucas/another-tale-of-two-threads-c-or-c-vs-python-hhl) (2026-07-03)
-- [We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n) (2026-07-03)
+- [Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB](https://dev.to/aman179102/building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb-57al) (2026-07-03)
+- [Open Knowledge Format (OKF): The Markdown Standard Your AI Agents Have Been Waiting For 📚](https://dev.to/suhas_mallesh/open-knowledge-format-okf-the-markdown-standard-your-ai-agents-have-been-waiting-for-3mfb) (2026-07-03)
+- [개발 지식 없이도 외주 앱 개발 과정을 직접 점검하는 방법](https://dev.to/potenlab/gaebal-jisig-eobsido-oeju-aeb-gaebal-gwajeongeul-jigjeob-jeomgeomhaneun-bangbeob-po7) (2026-07-03)
+- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e) (2026-07-03)
+- [I built an AI that plays GeoGuessr. Here is how single-image geolocation actually works.](https://dev.to/atlasgeoai/i-built-an-ai-that-plays-geoguessr-here-is-how-single-image-geolocation-actually-works-39dm) (2026-07-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most Freelancers Quit Too Early
-The first time I tried freelancing, I thought getting clients…](https://medium.com/@moizamjad279/why-most-freelancers-quit-too-early-the-first-time-i-tried-freelancing-i-thought-getting-clients-9b8a861170f9?source=rss------programming-5) (2026-07-03)
-- [count() Method in Python](https://medium.com/@mystiquelord123/count-method-in-python-adab23e5a948?source=rss------programming-5) (2026-07-03)
-- [The History of the Internet, Explained: From Sputnik to AI Slop (1957–2026)](https://medium.com/@reactjsbd/the-history-of-the-internet-explained-from-sputnik-to-ai-slop-1957-2026-da2ed3de5db7?source=rss------programming-5) (2026-07-03)
-- [Andrej Karpathy Said He Had Never Felt So Behind as a Programmer.](https://medium.com/the-engineering-brief/andrej-karpathy-said-he-had-never-felt-so-behind-as-a-programmer-0386e7527b60?source=rss------programming-5) (2026-07-03)
-- [Infinity and Meaning](https://medium.com/@alernczk/infinity-and-meaning-4b028e9b27ad?source=rss------programming-5) (2026-07-03)
+- [The FBI Just Caught Your Cheap Smart TV Box Committing Cybercrimes](https://medium.com/techx-official/the-fbi-just-caught-your-cheap-smart-tv-box-committing-cybercrimes-233cef893c4c?source=rss------programming-5) (2026-07-03)
+- [Africa Needs to Lead in Open Source AI, Not Just Consume It](https://medium.com/@kafeeromirembemercy/africa-needs-to-lead-in-open-source-ai-not-just-consume-it-ba0a3d2be309?source=rss------programming-5) (2026-07-03)
+- [Stop Swallowing Exceptions. Here’s How Senior Developers Handle Errors Properly.](https://blog.stackademic.com/stop-swallowing-exceptions-heres-how-senior-developers-handle-errors-properly-ed119cc67688?source=rss------programming-5) (2026-07-03)
+- [This 10-Line Data Structure Beats What Your Professor Taught You.](https://medium.com/@swastikraj619/this-10-line-data-structure-beats-what-your-professor-taught-you-55fbdab7d423?source=rss------programming-5) (2026-07-03)
+- [Agentic AI Is Here And It Is Bigger Than Chatbots](https://medium.com/@kafeeromirembemercy/agentic-ai-is-here-and-it-is-bigger-than-chatbots-d77428ce4a4e?source=rss------programming-5) (2026-07-03)
 
 </details>
 
@@ -120,11 +119,11 @@ The first time I tried freelancing, I thought getting clients…](https://medium
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code](https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/) (2026-06-26)
-- [From insight to action: The next phase of agentic cloud operations](https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/) (2026-06-23)
-- [Modernize your data with Azure Storage: Plan and migrate with confidence](https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/) (2026-06-16)
-- [3 things leaders need to know from Microsoft Build 2026](https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/) (2026-06-11)
-- [Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents](https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/) (2026-06-09)
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
+- [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
+- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
+- [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
+- [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
 
 </details>
 
@@ -351,11 +350,11 @@ The first time I tried freelancing, I thought getting clients…](https://medium
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox now supports FUSE-based filesystems](https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems) (2026-07-03)
 - [Manage Vercel Flags segments with Vercel CLI](https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli) (2026-07-03)
+- [eve Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/eve-agent-runs-vercel-mcp-cli) (2026-07-03)
 - [ Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules) (2026-07-02)
 - [Secure internal communication between services](https://vercel.com/changelog/secure-internal-communication-between-services) (2026-07-01)
-- [Claude Fable 5 access restored on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway) (2026-07-01)
-- [Enforce consistent code for agents and humans with konsistent](https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent) (2026-07-01)
 
 </details>
 
@@ -437,11 +436,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Claude Generated 50 Websites Overnight with Prisma Compute](https://www.prisma.io/blog/claude-generated-50-websites-overnight-prisma-compute) (2026-07-01)
+- [Prisma Compute vs Vercel Pricing](https://www.prisma.io/blog/prisma-compute-vs-vercel-pricing) (2026-07-01)
 - [How One Founder Builds a Live Sports Platform with Prisma](https://www.prisma.io/blog/how-xeito-builds-features-not-database-infrastructure-with-prisma) (2026-06-30)
 - [Evaluating Object Storage Providers for Prisma Compute](https://www.prisma.io/blog/evaluating-object-storage-providers-for-prisma-compute) (2026-06-26)
 - [How Prisma Compute Keeps Time Accurate in Long-Running Applications](https://www.prisma.io/blog/prisma-compute-time-synchronization) (2026-06-26)
-- [Prisma Postgres on Stripe Projects](https://www.prisma.io/blog/prisma-postgres-on-stripe-projects) (2026-06-26)
-- [Prisma Postgres vs Neon Pricing 2026](https://www.prisma.io/blog/prisma-postgres-vs-neon-pricing-2026) (2026-06-24)
 
 </details>
 
@@ -536,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/) (2026-07-03)
 - [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/) (2026-07-02)
 - [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-07-01)
 - [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/) (2026-06-30)
 - [Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends](https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends/) (2026-06-29)
-- [TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference](https://pytorch.org/blog/lightseek-tokenspeed-kernel/) (2026-06-25)
 
 </details>
 
@@ -569,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
+- [Long Context vs. Short Context Model: When Does a Long Context Model Win?](https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/) (2026-07-03)
 - [LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/) (2026-07-03)
 - [The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation](https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/) (2026-07-03)
 - [Tokenminning: How to Get More from Your Chatbot for Less](https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/) (2026-07-02)
-- [Design Loops, Not Prompts](https://towardsdatascience.com/design-loops-not-prompts/) (2026-07-02)
-- [Time-Series LLMs, Explained with t0-alpha](https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/) (2026-07-02)
 
 </details>
 
@@ -624,11 +623,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) (2026-07-03)
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) (2026-06-30)
 - [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) (2026-06-24)
 - [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) (2026-06-16)
 - [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/) (2026-06-16)
-- [DiffusionGemma: 4x faster text generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/) (2026-06-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
