@@ -20,44 +20,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) (2026-07-03)
-- [Why Switzerland has 25 gbit internet and America doesn't](https://stefan.schueller.net/posts/the-free-market-lie/) (2026-07-03)
-- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/) (2026-07-03)
-- [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o) (2026-07-03)
-- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) (2026-07-03)
+- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) (2026-07-03)
+- [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) (2026-07-03)
+- [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html) (2026-07-03)
+- [Please Stop the AI Confidence Theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater) (2026-07-03)
+- [Goodebye Forever Probably: Why I'm leaving developer relations](https://whitep4nth3r.com/blog/goodbye-forever-probably/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak) (2026-07-03)
+- [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list) (2026-07-03)
+- [Apple TV is hitting its stride](https://www.theverge.com/entertainment/960985/apple-tv-hits-2026) (2026-07-03)
+- [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video) (2026-07-03)
 - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead) (2026-07-03)
-- [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges) (2026-07-02)
-- [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai) (2026-07-02)
-- [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale) (2026-07-02)
-- [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal) (2026-07-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) (2026-07-03)
+- [Despite the darkness, I still see signs of hope in America](https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/) (2026-07-03)
+- [Visiting the stars (and planets, and telescopes) in VR](https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/) (2026-07-03)
+- [Wing Commander IV and the FMV future that never quite was](https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/) (2026-07-03)
 - [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/) (2026-07-02)
-- [FAA proposal: Supersonic airliners can fly over US cities if they’re quiet](https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/) (2026-07-02)
-- [Ars Live recap: When are the big rockets NASA desperately needs going to be ready?](https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/) (2026-07-02)
-- [Plex debuts 5-year membership pass for $250](https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/) (2026-07-02)
-- [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
+- [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/) (2026-07-03)
 - [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) (2026-07-02)
 - [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) (2026-07-02)
 - [The Download: a startup has a solution for AI’s groupthink problem](https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/) (2026-07-02)
-- [Why California’s carbon manure math doesn’t add up](https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/) (2026-07-02)
-- [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/) (2026-07-01)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dev Log: 2026-07-02 — disable means drain, and case never matters](https://dev.to/nasrulhazim/dev-log-2026-07-02-disable-means-drain-and-case-never-matters-cp6) (2026-07-03)
-- [What I learned about Astro 5 glob loader path resolution in a pnpm monorepo](https://dev.to/morinaga/what-i-learned-about-astro-5-glob-loader-path-resolution-in-a-pnpm-monorepo-2ed4) (2026-07-03)
-- [Things I Wish Someone Had Told Me Before Starting iOS Development](https://dev.to/gamya_m/things-i-wish-someone-had-told-me-before-starting-ios-development-3o4b) (2026-07-03)
-- [State of AI Agent Memory 2026: Where AI Memory is Heading](https://dev.to/ponmiledaniel/state-of-ai-agent-memory-2026-where-ai-memory-is-heading-78c) (2026-07-03)
-- [GPT-5.6 Sol Admitted It Did Things Nobody Asked It To Do](https://dev.to/peremptory/gpt-56-sol-admitted-it-did-things-nobody-asked-it-to-do-4b5d) (2026-07-03)
+- [The Future of Agentic AI Memory Systems](https://dev.to/xenocoregiger31/the-future-of-agentic-ai-memory-systems-5fdp) (2026-07-03)
+- [If Stripe is not available in your country, check this before rebuilding your SaaS billing](https://dev.to/cekuu35/if-stripe-is-not-available-in-your-country-check-this-before-rebuilding-your-saas-billing-4702) (2026-07-03)
+- [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn) (2026-07-03)
+- [Another Tale of Two Threads (C or C++ vs. Python)](https://dev.to/pauljlucas/another-tale-of-two-threads-c-or-c-vs-python-hhl) (2026-07-03)
+- [We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n) (2026-07-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Clean Repo Turned My AI Coding Agent Into Malware](https://medium.com/@harshit10eja006/a-clean-repo-turned-my-ai-coding-agent-into-malware-f73462e8630b?source=rss------programming-5) (2026-07-03)
-- [Why Most AI Workflow Agents Forget Everything Between Runs (And How EasyClaw Fixes It)](https://pub.towardsai.net/why-most-ai-workflow-agents-forget-everything-between-runs-and-how-easyclaw-fixes-it-dc7d4c3db4d4?source=rss------programming-5) (2026-07-03)
-- [How can I automatically cancel an order if it is not paid within 30 minutes?](https://blog.stackademic.com/how-can-i-automatically-cancel-an-order-if-it-is-not-paid-within-30-minutes-34ab2c5621fc?source=rss------programming-5) (2026-07-03)
-- [Loop Engineering: The Next Layer After Prompt and Context Engineering](https://medium.com/@raajan.works/loop-engineering-the-next-layer-after-prompt-and-context-engineering-1826567bcab5?source=rss------programming-5) (2026-07-03)
-- [MyStudy: Aplikasi Mobile untuk Mengelola Tugas dan Pengingat Jadwal](https://medium.com/@syasyaadlina207/mystudy-aplikasi-mobile-untuk-mengelola-tugas-dan-pengingat-jadwal-962b981af6d7?source=rss------programming-5) (2026-07-03)
+- [Why Most Freelancers Quit Too Early
+The first time I tried freelancing, I thought getting clients…](https://medium.com/@moizamjad279/why-most-freelancers-quit-too-early-the-first-time-i-tried-freelancing-i-thought-getting-clients-9b8a861170f9?source=rss------programming-5) (2026-07-03)
+- [count() Method in Python](https://medium.com/@mystiquelord123/count-method-in-python-adab23e5a948?source=rss------programming-5) (2026-07-03)
+- [The History of the Internet, Explained: From Sputnik to AI Slop (1957–2026)](https://medium.com/@reactjsbd/the-history-of-the-internet-explained-from-sputnik-to-ai-slop-1957-2026-da2ed3de5db7?source=rss------programming-5) (2026-07-03)
+- [Andrej Karpathy Said He Had Never Felt So Behind as a Programmer.](https://medium.com/the-engineering-brief/andrej-karpathy-said-he-had-never-felt-so-behind-as-a-programmer-0386e7527b60?source=rss------programming-5) (2026-07-03)
+- [Infinity and Meaning](https://medium.com/@alernczk/infinity-and-meaning-4b028e9b27ad?source=rss------programming-5) (2026-07-03)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [In Conversation With the Golden Kodee Winners](https://blog.jetbrains.com/kotlin/2026/07/in-conversation-with-the-golden-kodee-winners/) (2026-07-03)
 - [Toolbox App 3.6: Smarter Storage Cleanup, Windows installation diagnostics, and More](https://blog.jetbrains.com/toolbox-app/2026/07/toolbox-app-3-6-smarter-storage-cleanup-windows-installation-diagnostics-and-more/) (2026-07-02)
 - [IntelliJ IDEA 2026.1.4 Is Out!](https://blog.jetbrains.com/idea/2026/07/intellij-idea-2026-1-4/) (2026-07-02)
 - [TeamCity 2026.1.2 and 2025.11.6 Are Now Available](https://blog.jetbrains.com/teamcity/2026/07/teamcity-2026-1-2-and-2025-11-6/) (2026-07-01)
 - [JetBrains Engineering Hiring Process: A Recruiter Explains What to Expect (And How to Prepare)](https://blog.jetbrains.com/life-at-jetbrains/2026/07/jetbrains-engineering-hiring/) (2026-07-01)
-- [Kotlin Comes to BlueJ](https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/) (2026-07-01)
 
 </details>
 
@@ -350,11 +351,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Manage Vercel Flags segments with Vercel CLI](https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli) (2026-07-03)
 - [ Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules) (2026-07-02)
 - [Secure internal communication between services](https://vercel.com/changelog/secure-internal-communication-between-services) (2026-07-01)
 - [Claude Fable 5 access restored on AI Gateway](https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway) (2026-07-01)
 - [Enforce consistent code for agents and humans with konsistent](https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent) (2026-07-01)
-- [Dry-run deployments with Vercel CLI](https://vercel.com/changelog/dry-run-deployments-with-vercel-cli) (2026-07-01)
 
 </details>
 
@@ -557,22 +558,22 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🤖 AI News</summary>
 
+- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
 - [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
 - [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
 - [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
 - [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
-- [Anthropic deploys Claude Sonnet 5, Fable and Mythos restored](https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/) (2026-07-03)
+- [The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation](https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/) (2026-07-03)
 - [Tokenminning: How to Get More from Your Chatbot for Less](https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/) (2026-07-02)
 - [Design Loops, Not Prompts](https://towardsdatascience.com/design-loops-not-prompts/) (2026-07-02)
 - [Time-Series LLMs, Explained with t0-alpha](https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/) (2026-07-02)
-- [The Untaught Lessons of RAG Question Parsing: Structure Before You Search](https://towardsdatascience.com/the-untaught-lessons-of-rag-question-parsing-structure-before-you-search/) (2026-07-02)
-- [Why Powerful ML Is Deceptively Easy — Part 2](https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy-part-2/) (2026-07-01)
 
 </details>
 
@@ -590,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with the Claude API in Python](https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python) (2026-07-03)
 - [10 Agentic AI Frameworks You Should Know in 2026](https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026) (2026-07-02)
 - [Humanity’s Last Exam is a Distraction](https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction) (2026-07-02)
 - [5 AI Coding Platforms to Build Apps Without the Headache](https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache) (2026-07-01)
 - [Building Local AI Systems: Qwen3.6 + MCPs](https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps) (2026-06-30)
-- [7 Real-World Python Projects You Can Build in 2026 (With Guides)](https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides) (2026-06-30)
 
 </details>
 
