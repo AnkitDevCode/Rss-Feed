@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-07-03)
 - [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-07-03)
 - [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/) (2026-07-03)
 - [Chevy built an all-American EV truck — why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/) (2026-07-03)
 - [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) (2026-07-03)
-- [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type) (2026-07-03)
-- [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/) (2026-07-03)
-- [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop) (2026-07-03)
-- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) (2026-07-03)
-- [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe) (2026-07-03)
+- [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev) (2026-07-04)
+- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) (2026-07-04)
+- [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/) (2026-07-03)
+- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) (2026-07-03)
+- [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) (2026-07-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB](https://dev.to/aman179102/building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb-57al) (2026-07-03)
-- [Open Knowledge Format (OKF): The Markdown Standard Your AI Agents Have Been Waiting For 📚](https://dev.to/suhas_mallesh/open-knowledge-format-okf-the-markdown-standard-your-ai-agents-have-been-waiting-for-3mfb) (2026-07-03)
-- [개발 지식 없이도 외주 앱 개발 과정을 직접 점검하는 방법](https://dev.to/potenlab/gaebal-jisig-eobsido-oeju-aeb-gaebal-gwajeongeul-jigjeob-jeomgeomhaneun-bangbeob-po7) (2026-07-03)
-- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e) (2026-07-03)
-- [I built an AI that plays GeoGuessr. Here is how single-image geolocation actually works.](https://dev.to/atlasgeoai/i-built-an-ai-that-plays-geoguessr-here-is-how-single-image-geolocation-actually-works-39dm) (2026-07-03)
+- [I built a free before/after image slider on Cloudflare Workers (to show off my game mods)](https://dev.to/henrik_7c448da6b214e2348b/i-built-a-free-beforeafter-image-slider-on-cloudflare-workers-to-show-off-my-game-mods-2k8) (2026-07-04)
+- [Workflow Series (06): Security — Cross-Step Injection Propagation and Four Defense Principles](https://dev.to/wonderlab/workflow-series-06-security-cross-step-injection-propagation-and-four-defense-principles-3oo) (2026-07-04)
+- [How the Internet Works: From Typing a URL to Seeing a Website](https://dev.to/juma_evans_34e389ef539266/how-the-internet-works-from-typing-a-url-to-seeing-a-website-3255) (2026-07-04)
+- [Chapter 8. Stage 3 - Engine](https://dev.to/sadhiqali/chapter-8-stage-3-engine-2oii) (2026-07-04)
+- [The Agent Can Drive. You Still Need to Know the Route.](https://dev.to/jaikora/the-agent-can-drive-you-still-need-to-know-the-route-274) (2026-07-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The FBI Just Caught Your Cheap Smart TV Box Committing Cybercrimes](https://medium.com/techx-official/the-fbi-just-caught-your-cheap-smart-tv-box-committing-cybercrimes-233cef893c4c?source=rss------programming-5) (2026-07-03)
-- [Africa Needs to Lead in Open Source AI, Not Just Consume It](https://medium.com/@kafeeromirembemercy/africa-needs-to-lead-in-open-source-ai-not-just-consume-it-ba0a3d2be309?source=rss------programming-5) (2026-07-03)
-- [Stop Swallowing Exceptions. Here’s How Senior Developers Handle Errors Properly.](https://blog.stackademic.com/stop-swallowing-exceptions-heres-how-senior-developers-handle-errors-properly-ed119cc67688?source=rss------programming-5) (2026-07-03)
-- [This 10-Line Data Structure Beats What Your Professor Taught You.](https://medium.com/@swastikraj619/this-10-line-data-structure-beats-what-your-professor-taught-you-55fbdab7d423?source=rss------programming-5) (2026-07-03)
-- [Agentic AI Is Here And It Is Bigger Than Chatbots](https://medium.com/@kafeeromirembemercy/agentic-ai-is-here-and-it-is-bigger-than-chatbots-d77428ce4a4e?source=rss------programming-5) (2026-07-03)
+- [I Reverse-Engineered 3 WYSIWYG Editors. Here’s What I Found.](https://medium.com/@chenyuan19920509/i-reverse-engineered-3-wysiwyg-editors-heres-what-i-found-ec20e8884c3e?source=rss------programming-5) (2026-07-04)
+- [Titel:5 Free Ai tools I use on my phone on dacope, banisanta village](https://medium.com/@sagorsarker500000/titel-5-free-ai-tools-i-use-on-my-phone-on-dacope-banisanta-village-5bfd469650b8?source=rss------programming-5) (2026-07-04)
+- [ เรียน Python For New Gen 101 แล้วเด็กจะได้อะไร?](https://medium.com/@tapattan/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-python-for-new-gen-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-a245c7e8706a?source=rss------programming-5) (2026-07-04)
+- [DOM-Based XSS: Three Labs, Three Sinks](https://medium.com/@cyberforge/dom-based-xss-three-labs-three-sinks-df6acf54800e?source=rss------programming-5) (2026-07-04)
+- [Stop Memorizing JavaScript. Build Mental Models Instead.](https://javascript.plainenglish.io/stop-memorizing-javascript-build-mental-models-instead-cec13b28ba8d?source=rss------programming-5) (2026-07-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
+- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
@@ -352,7 +352,7 @@
 
 - [Vercel Sandbox now supports FUSE-based filesystems](https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems) (2026-07-03)
 - [Manage Vercel Flags segments with Vercel CLI](https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli) (2026-07-03)
-- [eve Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/eve-agent-runs-vercel-mcp-cli) (2026-07-03)
+- [Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/agent-runs-vercel-mcp-cli) (2026-07-03)
 - [ Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules) (2026-07-02)
 - [Secure internal communication between services](https://vercel.com/changelog/secure-internal-communication-between-services) (2026-07-01)
 
@@ -555,17 +555,6 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
-- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
-- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
-- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
-- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
@@ -579,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/) (2026-07-03)
 - [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
 - [The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/) (2026-06-30)
 - [GraphRAG vs Vector RAG: Which Retrieval Method is Best?](https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/) (2026-06-29)
 - [Using AI When You Don’t Trust AI](https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/) (2026-06-26)
-- [The Loop That Makes AI Agents Get Smarter on Their Own](https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/) (2026-06-25)
 
 </details>
 
