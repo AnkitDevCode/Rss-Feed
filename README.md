@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) (2026-07-04)
 - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) (2026-07-04)
-- [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html) (2026-07-04)
+- [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results) (2026-07-04)
 - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) (2026-07-04)
 - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) (2026-07-04)
-- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/) (2026-07-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on) (2026-07-04)
+- [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector) (2026-07-04)
+- [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works) (2026-07-04)
 - [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update) (2026-07-03)
 - [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras) (2026-07-03)
-- [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen) (2026-07-03)
-- [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions) (2026-07-03)
-- [Hydration isn’t complicated: Just drink water](https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave) (2026-07-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) (2026-07-04)
+- [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) (2026-07-04)
 - [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) (2026-07-03)
 - [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) (2026-07-03)
 - [Despite the darkness, I still see signs of hope in America](https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/) (2026-07-03)
-- [Visiting the stars (and planets, and telescopes) in VR](https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/) (2026-07-03)
-- [Wing Commander IV and the FMV future that never quite was](https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/) (2026-07-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj) (2026-07-04)
-- [Dockerizing a crypto ETL pipeline](https://dev.to/abdiomari/dockerizing-a-crypto-etl-pipeline-29me) (2026-07-04)
-- [The Soul Question: Can a Language Model Have Psyche?](https://dev.to/daimones/the-soul-question-can-a-language-model-have-psyche-22m7) (2026-07-04)
-- [Role of statistics in data science.](https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp) (2026-07-04)
-- [DPO vs RLHF: The Alignment Tax You Pay Without Knowing](https://dev.to/daimones/dpo-vs-rlhf-the-alignment-tax-you-pay-without-knowing-6mm) (2026-07-04)
+- [Building a Crash-Proof Terminal Loop Calculator in Python from Scratch 🚀](https://dev.to/toshan-dev/building-a-crash-proof-terminal-loop-calculator-in-python-from-scratch-2mga) (2026-07-04)
+- [Run the Readiness Audit Before You Flip DNS](https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07) (2026-07-04)
+- [ChatGPT Plus and Claude Pro reject your card? It is probably the billing country, not the card](https://dev.to/tung_fizen/chatgpt-plus-and-claude-pro-reject-your-card-it-is-probably-the-billing-country-not-the-card-222o) (2026-07-04)
+- [Figma-to-code: the real shift happening](https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3) (2026-07-04)
+- [I Built a Free Local Service Cost Calculator Website](https://dev.to/michael_odaumeh_48c9b0b35/i-built-a-free-local-service-cost-calculator-website-1985) (2026-07-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Telecom Service Providers Are Powering India’s Digital Transformation](https://medium.com/@narendra007singhshekhawat/how-telecom-service-providers-are-powering-indias-digital-transformation-8bfb772f5b85?source=rss------programming-5) (2026-07-04)
-- [What Is BSNL AirFiber and How Does It Work?](https://medium.com/@narendra007singhshekhawat/what-is-bsnl-airfiber-and-how-does-it-work-238b47d22658?source=rss------programming-5) (2026-07-04)
-- [I Thought I Knew Python — Until I Started Using These 8 Features](https://medium.com/codetodeploy/i-thought-i-knew-python-until-i-started-using-these-8-features-2f32a7f9a4d5?source=rss------programming-5) (2026-07-04)
-- [OpenAI Chat Completions API: How to Add GPT-Powered Chat to Any App (Beginner’s Guide)](https://acedatacloud.medium.com/openai-chat-completions-api-how-to-add-gpt-powered-chat-to-any-app-beginners-guide-aeb3d7deef0d?source=rss------programming-5) (2026-07-04)
-- [“It works on my machine” and other lies Docker will stop you from telling](https://medium.com/@arshtiwari12345/it-works-on-my-machine-and-other-lies-docker-will-stop-you-from-telling-0fd6e10e295d?source=rss------programming-5) (2026-07-04)
+- [Microsoft Discovery Deep Dive: Running Autonomous Science With the Discovery Engine and GraphRAG](https://itnext.io/microsoft-discovery-deep-dive-running-autonomous-science-with-the-discovery-engine-and-graphrag-fc793dbbfc9f?source=rss------programming-5) (2026-07-04)
+- [I Stopped Chasing Better Models. I Started Building Better Architecture](https://medium.com/@annias/i-stopped-chasing-better-models-i-started-building-better-architecture-43e71f100b42?source=rss------programming-5) (2026-07-04)
+- [Data Engineering for AI Agents: What Actually Changes in Your Pipeline Design!](https://medium.com/@shenoy.shashwath/data-engineering-for-ai-agents-what-actually-changes-in-your-pipeline-design-682858705cc9?source=rss------programming-5) (2026-07-04)
+- [Alpha Meets Attention: A First-Principles Guide to the Transformer Encoder-Decoder](https://parasuram19.medium.com/alpha-meets-attention-a-first-principles-guide-to-the-transformer-encoder-decoder-f7589fbb75a5?source=rss------programming-5) (2026-07-04)
+- [I’m Still Figuring It Out](https://medium.com/@ayushishah150520072/im-still-figuring-it-out-ce7d08b54934?source=rss------programming-5) (2026-07-04)
 
 </details>
 
@@ -555,24 +555,13 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
-- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
-- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
-- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
-- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination](https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/) (2026-07-04)
 - [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
 - [Long Context vs. Short Context Model: When Does a Long Context Model Win?](https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/) (2026-07-03)
 - [LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/) (2026-07-03)
 - [The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation](https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/) (2026-07-03)
-- [Tokenminning: How to Get More from Your Chatbot for Less](https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/) (2026-07-02)
 
 </details>
 
