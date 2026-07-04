@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev) (2026-07-04)
-- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) (2026-07-04)
-- [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/) (2026-07-03)
-- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) (2026-07-03)
-- [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) (2026-07-03)
+- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) (2026-07-04)
+- [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html) (2026-07-04)
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) (2026-07-04)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) (2026-07-04)
+- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/) (2026-07-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a free before/after image slider on Cloudflare Workers (to show off my game mods)](https://dev.to/henrik_7c448da6b214e2348b/i-built-a-free-beforeafter-image-slider-on-cloudflare-workers-to-show-off-my-game-mods-2k8) (2026-07-04)
-- [Workflow Series (06): Security — Cross-Step Injection Propagation and Four Defense Principles](https://dev.to/wonderlab/workflow-series-06-security-cross-step-injection-propagation-and-four-defense-principles-3oo) (2026-07-04)
-- [How the Internet Works: From Typing a URL to Seeing a Website](https://dev.to/juma_evans_34e389ef539266/how-the-internet-works-from-typing-a-url-to-seeing-a-website-3255) (2026-07-04)
-- [Chapter 8. Stage 3 - Engine](https://dev.to/sadhiqali/chapter-8-stage-3-engine-2oii) (2026-07-04)
-- [The Agent Can Drive. You Still Need to Know the Route.](https://dev.to/jaikora/the-agent-can-drive-you-still-need-to-know-the-route-274) (2026-07-04)
+- [Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj) (2026-07-04)
+- [Dockerizing a crypto ETL pipeline](https://dev.to/abdiomari/dockerizing-a-crypto-etl-pipeline-29me) (2026-07-04)
+- [The Soul Question: Can a Language Model Have Psyche?](https://dev.to/daimones/the-soul-question-can-a-language-model-have-psyche-22m7) (2026-07-04)
+- [Role of statistics in data science.](https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp) (2026-07-04)
+- [DPO vs RLHF: The Alignment Tax You Pay Without Knowing](https://dev.to/daimones/dpo-vs-rlhf-the-alignment-tax-you-pay-without-knowing-6mm) (2026-07-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Reverse-Engineered 3 WYSIWYG Editors. Here’s What I Found.](https://medium.com/@chenyuan19920509/i-reverse-engineered-3-wysiwyg-editors-heres-what-i-found-ec20e8884c3e?source=rss------programming-5) (2026-07-04)
-- [Titel:5 Free Ai tools I use on my phone on dacope, banisanta village](https://medium.com/@sagorsarker500000/titel-5-free-ai-tools-i-use-on-my-phone-on-dacope-banisanta-village-5bfd469650b8?source=rss------programming-5) (2026-07-04)
-- [ เรียน Python For New Gen 101 แล้วเด็กจะได้อะไร?](https://medium.com/@tapattan/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-python-for-new-gen-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-a245c7e8706a?source=rss------programming-5) (2026-07-04)
-- [DOM-Based XSS: Three Labs, Three Sinks](https://medium.com/@cyberforge/dom-based-xss-three-labs-three-sinks-df6acf54800e?source=rss------programming-5) (2026-07-04)
-- [Stop Memorizing JavaScript. Build Mental Models Instead.](https://javascript.plainenglish.io/stop-memorizing-javascript-build-mental-models-instead-cec13b28ba8d?source=rss------programming-5) (2026-07-04)
+- [How Telecom Service Providers Are Powering India’s Digital Transformation](https://medium.com/@narendra007singhshekhawat/how-telecom-service-providers-are-powering-indias-digital-transformation-8bfb772f5b85?source=rss------programming-5) (2026-07-04)
+- [What Is BSNL AirFiber and How Does It Work?](https://medium.com/@narendra007singhshekhawat/what-is-bsnl-airfiber-and-how-does-it-work-238b47d22658?source=rss------programming-5) (2026-07-04)
+- [I Thought I Knew Python — Until I Started Using These 8 Features](https://medium.com/codetodeploy/i-thought-i-knew-python-until-i-started-using-these-8-features-2f32a7f9a4d5?source=rss------programming-5) (2026-07-04)
+- [OpenAI Chat Completions API: How to Add GPT-Powered Chat to Any App (Beginner’s Guide)](https://acedatacloud.medium.com/openai-chat-completions-api-how-to-add-gpt-powered-chat-to-any-app-beginners-guide-aeb3d7deef0d?source=rss------programming-5) (2026-07-04)
+- [“It works on my machine” and other lies Docker will stop you from telling](https://medium.com/@arshtiwari12345/it-works-on-my-machine-and-other-lies-docker-will-stop-you-from-telling-0fd6e10e295d?source=rss------programming-5) (2026-07-04)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) (2026-06-30)
 - [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) (2026-06-30)
 - [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) (2026-06-29)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
+- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
+- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
+- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
+- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
 
 </details>
 
