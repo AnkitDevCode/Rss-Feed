@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) (2026-07-04)
+- [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) (2026-07-04)
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2026-07-04)
 - [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-07-03)
 - [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-07-03)
-- [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/) (2026-07-03)
-- [Chevy built an all-American EV truck — why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/) (2026-07-03)
-- [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) (2026-07-04)
-- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) (2026-07-04)
-- [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results) (2026-07-04)
-- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) (2026-07-04)
-- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) (2026-07-04)
+- [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/) (2026-07-04)
+- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches) (2026-07-04)
+- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper) (2026-07-04)
+- [Sick leave: Germany rising but not the worst in Europe](https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488) (2026-07-04)
+- [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/) (2026-07-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion) (2026-07-04)
+- [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy) (2026-07-04)
+- [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview) (2026-07-04)
+- [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review) (2026-07-04)
 - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on) (2026-07-04)
-- [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector) (2026-07-04)
-- [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works) (2026-07-04)
-- [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update) (2026-07-03)
-- [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras) (2026-07-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) (2026-07-04)
 - [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) (2026-07-04)
 - [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) (2026-07-04)
 - [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) (2026-07-03)
 - [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) (2026-07-03)
-- [Despite the darkness, I still see signs of hope in America](https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/) (2026-07-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Crash-Proof Terminal Loop Calculator in Python from Scratch 🚀](https://dev.to/toshan-dev/building-a-crash-proof-terminal-loop-calculator-in-python-from-scratch-2mga) (2026-07-04)
-- [Run the Readiness Audit Before You Flip DNS](https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07) (2026-07-04)
-- [ChatGPT Plus and Claude Pro reject your card? It is probably the billing country, not the card](https://dev.to/tung_fizen/chatgpt-plus-and-claude-pro-reject-your-card-it-is-probably-the-billing-country-not-the-card-222o) (2026-07-04)
-- [Figma-to-code: the real shift happening](https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3) (2026-07-04)
-- [I Built a Free Local Service Cost Calculator Website](https://dev.to/michael_odaumeh_48c9b0b35/i-built-a-free-local-service-cost-calculator-website-1985) (2026-07-04)
+- [I analyzed 292 open Forward Deployed Engineer jobs. Here is the data.](https://dev.to/tech_t_e23de7b66d4559a055/i-analyzed-292-open-forward-deployed-engineer-jobs-here-is-the-data-5ekl) (2026-07-04)
+- [Stop Creating a React Project Just to Preview a JSX File](https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6) (2026-07-04)
+- [The Beginner App Idea Checklist Before You Ask AI To Code In 2026](https://dev.to/marcusykim/the-beginner-app-idea-checklist-before-you-ask-ai-to-code-in-2026-2a4j) (2026-07-04)
+- [LOOM: a language that proves what AI-written code is allowed to do](https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i) (2026-07-04)
+- [Your Guardrails Are a Firewall. Your Failures Are a Cascade](https://dev.to/aiexplore369zoho/your-guardrails-are-a-firewall-your-failures-are-a-cascade-3j0a) (2026-07-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Microsoft Discovery Deep Dive: Running Autonomous Science With the Discovery Engine and GraphRAG](https://itnext.io/microsoft-discovery-deep-dive-running-autonomous-science-with-the-discovery-engine-and-graphrag-fc793dbbfc9f?source=rss------programming-5) (2026-07-04)
-- [I Stopped Chasing Better Models. I Started Building Better Architecture](https://medium.com/@annias/i-stopped-chasing-better-models-i-started-building-better-architecture-43e71f100b42?source=rss------programming-5) (2026-07-04)
-- [Data Engineering for AI Agents: What Actually Changes in Your Pipeline Design!](https://medium.com/@shenoy.shashwath/data-engineering-for-ai-agents-what-actually-changes-in-your-pipeline-design-682858705cc9?source=rss------programming-5) (2026-07-04)
-- [Alpha Meets Attention: A First-Principles Guide to the Transformer Encoder-Decoder](https://parasuram19.medium.com/alpha-meets-attention-a-first-principles-guide-to-the-transformer-encoder-decoder-f7589fbb75a5?source=rss------programming-5) (2026-07-04)
-- [I’m Still Figuring It Out](https://medium.com/@ayushishah150520072/im-still-figuring-it-out-ce7d08b54934?source=rss------programming-5) (2026-07-04)
+- [Asynchronous API Communication in Microservices — Part 1](https://medium.com/coding-odyssey/asynchronous-api-communication-in-microservices-part-1-ddfb11438d5d?source=rss------programming-5) (2026-07-04)
+- [Five Governments Didn’t Say “Don’t Use AI Agents.” They Said Something Far More Useful.](https://pramodaiml.medium.com/five-governments-didnt-say-don-t-use-ai-agents-they-said-something-far-more-useful-e0b7665c9f49?source=rss------programming-5) (2026-07-04)
+- [Day 169 of Everyday Programming](https://medium.com/@ayush.mishra24/day-169-of-everyday-programming-4f3f96a6152a?source=rss------programming-5) (2026-07-04)
+- [The New HTTP QUERY Method Explained: A Better Way to Build Search APIs](https://akash-shah.medium.com/the-new-http-query-method-explained-a-better-way-to-build-search-apis-5d1411b412dd?source=rss------programming-5) (2026-07-04)
+- [I Stopped Coding for Months. Here is What Happened.](https://medium.com/illumination/i-stopped-coding-for-months-here-is-what-happened-3a37c430c58c?source=rss------programming-5) (2026-07-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
-- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Setting Up Your Own Large Language Model](https://towardsdatascience.com/setting-up-your-own-large-language-model/) (2026-07-04)
 - [Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination](https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/) (2026-07-04)
 - [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
 - [Long Context vs. Short Context Model: When Does a Long Context Model Win?](https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/) (2026-07-03)
 - [LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/) (2026-07-03)
-- [The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation](https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/) (2026-07-03)
 
 </details>
 
