@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) (2026-07-05)
+- [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/) (2026-07-05)
+- [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2026-07-05)
 - [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) (2026-07-05)
 - [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) (2026-07-04)
-- [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) (2026-07-04)
-- [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) (2026-07-04)
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2026-07-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: KiCad in the Browser](https://demo.pcbjam.com/) (2026-07-05)
-- [Cannabis Users Face Substantially Higher Risk of Heart Attack](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk) (2026-07-05)
-- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) (2026-07-05)
-- [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o) (2026-07-05)
-- [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt) (2026-07-05)
+- [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c) (2026-07-05)
+- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html) (2026-07-05)
+- [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219) (2026-07-05)
+- ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239) (2026-07-05)
+- [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) (2026-07-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review) (2026-07-05)
-- [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster) (2026-07-05)
-- [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies) (2026-07-04)
-- [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion) (2026-07-04)
-- [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy) (2026-07-04)
+- [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review) (2026-07-05)
+- [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy) (2026-07-05)
+- [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) (2026-07-05)
+- [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter) (2026-07-05)
+- [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history) (2026-07-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MIT Technology Review's 10 Things That Matter in AI Right Now: A Developer's Breakdown (2026)](https://dev.to/akaranjkar08/mit-technology-reviews-10-things-that-matter-in-ai-right-now-a-developers-breakdown-2026-3he3) (2026-07-05)
-- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj) (2026-07-05)
-- [One command adds import, WhatsApp drip and campaigns to self-hosted Chatwoot](https://dev.to/achiya-automation/one-command-adds-import-whatsapp-drip-and-campaigns-to-self-hosted-chatwoot-mkh) (2026-07-05)
-- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c) (2026-07-05)
-- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi) (2026-07-05)
+- [I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8) (2026-07-05)
+- [PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a) (2026-07-05)
+- [Building in public, week 17: turning one feature into a page cluster (and the internal-linking layer nobody sees)](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-17-turning-one-feature-into-a-page-cluster-and-the-internal-linking-2nap) (2026-07-05)
+- [CNTRL by Omnikon Org Selected for Elite Coders Summer of Code (ECSoC) 2026](https://dev.to/rishibyte/cntrl-by-omnikon-org-selected-for-elite-coders-summer-of-code-ecsoc-2026-3kag) (2026-07-05)
+- [Guardrails for LLM Apps in Python](https://dev.to/gpuneet/guardrails-for-llm-apps-in-python-3h0j) (2026-07-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Tech Behind the Trend | Issue #001](https://medium.com/@piantoebeli/the-tech-behind-the-trend-issue-001-472585f793ce?source=rss------programming-5) (2026-07-05)
-- [Do you know the five things a woman likes the most about her husband that many men don’t understand?](https://medium.com/@moviesecrets/do-you-know-the-five-things-a-woman-likes-the-most-about-her-husband-that-many-men-dont-understand-0344ae74ffba?source=rss------programming-5) (2026-07-05)
-- [“Apple’s AI Is Free on Linux”: A Weekend of Install Logs and One Honest Caveat.](https://medium.com/@danielvalev/apples-ai-is-free-on-linux-a-weekend-of-install-logs-and-one-honest-caveat-d7a399f83164?source=rss------programming-5) (2026-07-05)
-- [Why gRPC in PHP Needs a Sidecar — The Threading Problem Explained](https://medium.com/@annxsa/why-grpc-in-php-needs-a-sidecar-the-threading-problem-explained-dad5e5184dd3?source=rss------programming-5) (2026-07-05)
-- [Toolboxes in Foundry: One Endpoint for Every Tool Your AI Agents Use](https://blog.stackademic.com/toolboxes-in-foundry-one-endpoint-for-every-tool-your-ai-agents-use-bf6da4a5642f?source=rss------programming-5) (2026-07-05)
+- [Loop Engineering vs. Harness Engineering: When to Use Each (And Why Most Teams Confuse Them)](https://pub.towardsai.net/loop-engineering-vs-harness-engineering-when-to-use-each-and-why-most-teams-confuse-them-df1e0c3d21da?source=rss------programming-5) (2026-07-05)
+- [How I Escaped a Dead End Job by Coding](https://medium.com/illumination/how-i-escaped-a-dead-end-job-by-coding-4ec8c79cd810?source=rss------programming-5) (2026-07-05)
+- [The “Godfather of AI” Believes That AI Chatbots Are Conscious. Here’s Why This Is a Huge Problem](https://sergeykleftzov.medium.com/the-godfather-of-ai-believes-that-ai-chatbots-are-conscious-heres-why-this-is-a-huge-problem-0f8d77f2667b?source=rss------programming-5) (2026-07-05)
+- [What Actually Worked When I Tried to Make My Music Project Understandable to AI](https://medium.com/@innastory/what-actually-worked-when-i-tried-to-make-my-music-project-understandable-to-ai-f4446e5699d9?source=rss------programming-5) (2026-07-05)
+- [Something extraordinary is happening in software development right now.](https://medium.com/@rajat.shukla49/something-extraordinary-is-happening-in-software-development-right-now-94db2f0d8891?source=rss------programming-5) (2026-07-05)
 
 </details>
 
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
+- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
+- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
+- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
+- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs](https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/) (2026-07-05)
 - [PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up](https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/) (2026-07-05)
 - [Setting Up Your Own Large Language Model](https://towardsdatascience.com/setting-up-your-own-large-language-model/) (2026-07-04)
 - [Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination](https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/) (2026-07-04)
 - [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
-- [Long Context vs. Short Context Model: When Does a Long Context Model Win?](https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/) (2026-07-03)
 
 </details>
 
