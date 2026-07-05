@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) (2026-07-04)
 - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) (2026-07-04)
 - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) (2026-07-04)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2026-07-04)
 - [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-07-03)
-- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/) (2026-07-04)
-- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches) (2026-07-04)
-- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper) (2026-07-04)
-- [Sick leave: Germany rising but not the worst in Europe](https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488) (2026-07-04)
-- [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/) (2026-07-04)
+- [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/) (2026-07-05)
+- [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/) (2026-07-05)
+- [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/) (2026-07-04)
+- [Reflections on the Guillotine](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine) (2026-07-04)
+- [Mapping with In-Memory Layers to Reduce LLM Overload](https://ridgetext.com/blog/mapbox-llm-composition) (2026-07-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies) (2026-07-04)
 - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion) (2026-07-04)
 - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy) (2026-07-04)
 - [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview) (2026-07-04)
 - [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review) (2026-07-04)
-- [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on) (2026-07-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I analyzed 292 open Forward Deployed Engineer jobs. Here is the data.](https://dev.to/tech_t_e23de7b66d4559a055/i-analyzed-292-open-forward-deployed-engineer-jobs-here-is-the-data-5ekl) (2026-07-04)
-- [Stop Creating a React Project Just to Preview a JSX File](https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6) (2026-07-04)
-- [The Beginner App Idea Checklist Before You Ask AI To Code In 2026](https://dev.to/marcusykim/the-beginner-app-idea-checklist-before-you-ask-ai-to-code-in-2026-2a4j) (2026-07-04)
-- [LOOM: a language that proves what AI-written code is allowed to do](https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i) (2026-07-04)
-- [Your Guardrails Are a Firewall. Your Failures Are a Cascade](https://dev.to/aiexplore369zoho/your-guardrails-are-a-firewall-your-failures-are-a-cascade-3j0a) (2026-07-04)
+- [Strategic Logging: The Debugging Skill Nobody Taught Me](https://dev.to/zikthemaker/strategic-logging-the-debugging-skill-nobody-taught-me-1de2) (2026-07-05)
+- [How I Built an MT5 Trading Bot with Python and Smart Money Concept](https://dev.to/nimnambui/how-i-built-an-mt5-trading-bot-with-python-and-smart-money-concept-2j5i) (2026-07-05)
+- [Ten Layers of AI Skill Construction: A Systematic Framework from Prompts to Business Closed Loops](https://dev.to/__b01666abd57fb7bb91f9/ten-layers-of-ai-skill-construction-a-systematic-framework-from-prompts-to-business-closed-loops-1k45) (2026-07-05)
+- [AI Guard Gateway v0.1.0: Mitigando el Secuestro de Endpoints de IA y la Inyección de Prompts](https://dev.to/magopredator/ai-guard-gateway-v010-mitigando-el-secuestro-de-endpoints-de-ia-y-la-inyeccion-de-prompts-o0a) (2026-07-05)
+- [Architecting a 100% Offline Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-100-offline-geofencing-engine-for-android-4mib) (2026-07-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Asynchronous API Communication in Microservices — Part 1](https://medium.com/coding-odyssey/asynchronous-api-communication-in-microservices-part-1-ddfb11438d5d?source=rss------programming-5) (2026-07-04)
-- [Five Governments Didn’t Say “Don’t Use AI Agents.” They Said Something Far More Useful.](https://pramodaiml.medium.com/five-governments-didnt-say-don-t-use-ai-agents-they-said-something-far-more-useful-e0b7665c9f49?source=rss------programming-5) (2026-07-04)
-- [Day 169 of Everyday Programming](https://medium.com/@ayush.mishra24/day-169-of-everyday-programming-4f3f96a6152a?source=rss------programming-5) (2026-07-04)
-- [The New HTTP QUERY Method Explained: A Better Way to Build Search APIs](https://akash-shah.medium.com/the-new-http-query-method-explained-a-better-way-to-build-search-apis-5d1411b412dd?source=rss------programming-5) (2026-07-04)
-- [I Stopped Coding for Months. Here is What Happened.](https://medium.com/illumination/i-stopped-coding-for-months-here-is-what-happened-3a37c430c58c?source=rss------programming-5) (2026-07-04)
+- [MapStruct vs Immuto: Where the Records Gap Actually Is](https://medium.com/@dinuka.mkarunarathna/mapstruct-vs-immuto-where-the-records-gap-actually-is-295fe43b854b?source=rss------programming-5) (2026-07-05)
+- [Dart’s Next Chapter Is Bigger Than One Company](https://medium.com/@escolastico_62169/darts-next-chapter-is-bigger-than-one-company-1b4ff1cd02cd?source=rss------programming-5) (2026-07-05)
+- [TypeScript any: The Lie That Breaks Your Types](https://medium.com/@najmul.hasan284/typescript-any-the-lie-that-breaks-your-types-2bb9a684ce21?source=rss------programming-5) (2026-07-05)
+- [The Event Loop Is Simpler Than You Think — And More Dangerous](https://javascript.plainenglish.io/the-event-loop-is-simpler-than-you-think-and-more-dangerous-8f47d9519196?source=rss------programming-5) (2026-07-05)
+- [Necropolis C2: decentralised command and control mesh network.](https://medium.com/@lewisgames1995/necropolis-c2-decentralised-command-and-control-mesh-network-f26163ce66dc?source=rss------programming-5) (2026-07-05)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
+- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [YOLO26 Tutorial: Object Detection, Pose Estimation & More](https://www.analyticsvidhya.com/blog/2026/07/yolo26-tutorial/) (2026-07-04)
 - [Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/) (2026-07-03)
 - [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
 - [The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/) (2026-06-30)
 - [GraphRAG vs Vector RAG: Which Retrieval Method is Best?](https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/) (2026-06-29)
-- [Using AI When You Don’t Trust AI](https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/) (2026-06-26)
 
 </details>
 
