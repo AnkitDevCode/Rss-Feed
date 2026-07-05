@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/) (2026-07-05)
-- [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/) (2026-07-05)
-- [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/) (2026-07-04)
-- [Reflections on the Guillotine](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine) (2026-07-04)
-- [Mapping with In-Memory Layers to Reduce LLM Overload](https://ridgetext.com/blog/mapbox-llm-composition) (2026-07-04)
+- [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) (2026-07-05)
+- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13) (2026-07-05)
+- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) (2026-07-05)
+- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html) (2026-07-05)
+- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com) (2026-07-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Strategic Logging: The Debugging Skill Nobody Taught Me](https://dev.to/zikthemaker/strategic-logging-the-debugging-skill-nobody-taught-me-1de2) (2026-07-05)
-- [How I Built an MT5 Trading Bot with Python and Smart Money Concept](https://dev.to/nimnambui/how-i-built-an-mt5-trading-bot-with-python-and-smart-money-concept-2j5i) (2026-07-05)
-- [Ten Layers of AI Skill Construction: A Systematic Framework from Prompts to Business Closed Loops](https://dev.to/__b01666abd57fb7bb91f9/ten-layers-of-ai-skill-construction-a-systematic-framework-from-prompts-to-business-closed-loops-1k45) (2026-07-05)
-- [AI Guard Gateway v0.1.0: Mitigando el Secuestro de Endpoints de IA y la Inyección de Prompts](https://dev.to/magopredator/ai-guard-gateway-v010-mitigando-el-secuestro-de-endpoints-de-ia-y-la-inyeccion-de-prompts-o0a) (2026-07-05)
-- [Architecting a 100% Offline Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-100-offline-geofencing-engine-for-android-4mib) (2026-07-05)
+- [Moving the source from GitHub to Codeberg](https://dev.to/turva-dev/moving-the-source-from-github-to-codeberg-2543) (2026-07-05)
+- [Anthropic swaps per-developer Claude Code secrets for an OIDC gateway](https://dev.to/leobaniak/anthropic-swaps-per-developer-claude-code-secrets-for-an-oidc-gateway-3go8) (2026-07-05)
+- [How to Validate an IBAN (MOD-97 Check Digit, Explained)](https://dev.to/rosariov25/how-to-validate-an-iban-mod-97-check-digit-explained-1436) (2026-07-05)
+- [Where Claude Code's Tokens Actually Go (and How I Cut My Bill in Half)](https://dev.to/lynkr/where-claude-codes-tokens-actually-go-and-how-i-cut-my-bill-in-half-13g6) (2026-07-05)
+- [GPT-5.5 Codex: Is Reasoning-Token Clustering Hurting Performance?](https://dev.to/onsen/gpt-55-codex-is-reasoning-token-clustering-hurting-performance-2j12) (2026-07-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [MapStruct vs Immuto: Where the Records Gap Actually Is](https://medium.com/@dinuka.mkarunarathna/mapstruct-vs-immuto-where-the-records-gap-actually-is-295fe43b854b?source=rss------programming-5) (2026-07-05)
-- [Dart’s Next Chapter Is Bigger Than One Company](https://medium.com/@escolastico_62169/darts-next-chapter-is-bigger-than-one-company-1b4ff1cd02cd?source=rss------programming-5) (2026-07-05)
-- [TypeScript any: The Lie That Breaks Your Types](https://medium.com/@najmul.hasan284/typescript-any-the-lie-that-breaks-your-types-2bb9a684ce21?source=rss------programming-5) (2026-07-05)
-- [The Event Loop Is Simpler Than You Think — And More Dangerous](https://javascript.plainenglish.io/the-event-loop-is-simpler-than-you-think-and-more-dangerous-8f47d9519196?source=rss------programming-5) (2026-07-05)
-- [Necropolis C2: decentralised command and control mesh network.](https://medium.com/@lewisgames1995/necropolis-c2-decentralised-command-and-control-mesh-network-f26163ce66dc?source=rss------programming-5) (2026-07-05)
+- [Why Top AI Companies Use Feature Flags (And Why You’re Deploying Blind)](https://medium.com/@moksh.9/why-top-ai-companies-use-feature-flags-and-why-youre-deploying-blind-195447ab1961?source=rss------programming-5) (2026-07-05)
+- [Before You Buy More Claude Code Credits, Read This](https://medium.com/@ayshindhe/before-you-buy-more-claude-code-credits-read-this-b1811c260e7d?source=rss------programming-5) (2026-07-05)
+- [The Better the Model Gets, the More Your Unknowns Cost You](https://medium.com/autocomplete-real-world-ai/the-better-the-model-gets-the-more-your-unknowns-cost-you-bbafc35b34ba?source=rss------programming-5) (2026-07-05)
+- [5 AI Skills You Can Learn in 30 Minutes a Day That Actually Pay in 2026](https://medium.com/@meerhadi0238/5-ai-skills-you-can-learn-in-30-minutes-a-day-that-actually-pay-in-2026-f6d44c335558?source=rss------programming-5) (2026-07-05)
+- [Stop Confusing the JVM, JRE, & JDK (A Simple Guide for Beginners)](https://medium.com/@gayanthasandeepamapa/stop-confusing-the-jvm-jre-jdk-a-simple-guide-for-beginners-c9452a8343dd?source=rss------programming-5) (2026-07-05)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
-- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
