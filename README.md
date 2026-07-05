@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) (2026-07-05)
 - [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) (2026-07-04)
 - [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) (2026-07-04)
 - [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) (2026-07-04)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2026-07-04)
-- [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) (2026-07-05)
-- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13) (2026-07-05)
-- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) (2026-07-05)
-- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html) (2026-07-05)
-- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com) (2026-07-05)
+- [Show HN: KiCad in the Browser](https://demo.pcbjam.com/) (2026-07-05)
+- [Cannabis Users Face Substantially Higher Risk of Heart Attack](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk) (2026-07-05)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) (2026-07-05)
+- [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o) (2026-07-05)
+- [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt) (2026-07-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review) (2026-07-05)
+- [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster) (2026-07-05)
 - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies) (2026-07-04)
 - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion) (2026-07-04)
 - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy) (2026-07-04)
-- [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview) (2026-07-04)
-- [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review) (2026-07-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Chemical accidents rise as Trump administration proposes weakening safety rules](https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/) (2026-07-05)
+- [The missing 500 million: Cosmic bombardment melted Earth's first crust](https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/) (2026-07-05)
 - [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) (2026-07-04)
 - [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) (2026-07-04)
 - [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) (2026-07-04)
-- [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) (2026-07-03)
-- [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) (2026-07-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Moving the source from GitHub to Codeberg](https://dev.to/turva-dev/moving-the-source-from-github-to-codeberg-2543) (2026-07-05)
-- [Anthropic swaps per-developer Claude Code secrets for an OIDC gateway](https://dev.to/leobaniak/anthropic-swaps-per-developer-claude-code-secrets-for-an-oidc-gateway-3go8) (2026-07-05)
-- [How to Validate an IBAN (MOD-97 Check Digit, Explained)](https://dev.to/rosariov25/how-to-validate-an-iban-mod-97-check-digit-explained-1436) (2026-07-05)
-- [Where Claude Code's Tokens Actually Go (and How I Cut My Bill in Half)](https://dev.to/lynkr/where-claude-codes-tokens-actually-go-and-how-i-cut-my-bill-in-half-13g6) (2026-07-05)
-- [GPT-5.5 Codex: Is Reasoning-Token Clustering Hurting Performance?](https://dev.to/onsen/gpt-55-codex-is-reasoning-token-clustering-hurting-performance-2j12) (2026-07-05)
+- [MIT Technology Review's 10 Things That Matter in AI Right Now: A Developer's Breakdown (2026)](https://dev.to/akaranjkar08/mit-technology-reviews-10-things-that-matter-in-ai-right-now-a-developers-breakdown-2026-3he3) (2026-07-05)
+- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj) (2026-07-05)
+- [One command adds import, WhatsApp drip and campaigns to self-hosted Chatwoot](https://dev.to/achiya-automation/one-command-adds-import-whatsapp-drip-and-campaigns-to-self-hosted-chatwoot-mkh) (2026-07-05)
+- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c) (2026-07-05)
+- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi) (2026-07-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Top AI Companies Use Feature Flags (And Why You’re Deploying Blind)](https://medium.com/@moksh.9/why-top-ai-companies-use-feature-flags-and-why-youre-deploying-blind-195447ab1961?source=rss------programming-5) (2026-07-05)
-- [Before You Buy More Claude Code Credits, Read This](https://medium.com/@ayshindhe/before-you-buy-more-claude-code-credits-read-this-b1811c260e7d?source=rss------programming-5) (2026-07-05)
-- [The Better the Model Gets, the More Your Unknowns Cost You](https://medium.com/autocomplete-real-world-ai/the-better-the-model-gets-the-more-your-unknowns-cost-you-bbafc35b34ba?source=rss------programming-5) (2026-07-05)
-- [5 AI Skills You Can Learn in 30 Minutes a Day That Actually Pay in 2026](https://medium.com/@meerhadi0238/5-ai-skills-you-can-learn-in-30-minutes-a-day-that-actually-pay-in-2026-f6d44c335558?source=rss------programming-5) (2026-07-05)
-- [Stop Confusing the JVM, JRE, & JDK (A Simple Guide for Beginners)](https://medium.com/@gayanthasandeepamapa/stop-confusing-the-jvm-jre-jdk-a-simple-guide-for-beginners-c9452a8343dd?source=rss------programming-5) (2026-07-05)
+- [The Tech Behind the Trend | Issue #001](https://medium.com/@piantoebeli/the-tech-behind-the-trend-issue-001-472585f793ce?source=rss------programming-5) (2026-07-05)
+- [Do you know the five things a woman likes the most about her husband that many men don’t understand?](https://medium.com/@moviesecrets/do-you-know-the-five-things-a-woman-likes-the-most-about-her-husband-that-many-men-dont-understand-0344ae74ffba?source=rss------programming-5) (2026-07-05)
+- [“Apple’s AI Is Free on Linux”: A Weekend of Install Logs and One Honest Caveat.](https://medium.com/@danielvalev/apples-ai-is-free-on-linux-a-weekend-of-install-logs-and-one-honest-caveat-d7a399f83164?source=rss------programming-5) (2026-07-05)
+- [Why gRPC in PHP Needs a Sidecar — The Threading Problem Explained](https://medium.com/@annxsa/why-grpc-in-php-needs-a-sidecar-the-threading-problem-explained-dad5e5184dd3?source=rss------programming-5) (2026-07-05)
+- [Toolboxes in Foundry: One Endpoint for Every Tool Your AI Agents Use](https://blog.stackademic.com/toolboxes-in-foundry-one-endpoint-for-every-tool-your-ai-agents-use-bf6da4a5642f?source=rss------programming-5) (2026-07-05)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
+- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up](https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/) (2026-07-05)
 - [Setting Up Your Own Large Language Model](https://towardsdatascience.com/setting-up-your-own-large-language-model/) (2026-07-04)
 - [Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination](https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/) (2026-07-04)
 - [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
 - [Long Context vs. Short Context Model: When Does a Long Context Model Win?](https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/) (2026-07-03)
-- [LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/) (2026-07-03)
 
 </details>
 
