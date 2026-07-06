@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/) (2026-07-06)
-- [This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/) (2026-07-06)
-- [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/) (2026-07-05)
-- [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/) (2026-07-05)
-- [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) (2026-07-05)
+- [Reddit is using LLMs to solve a problem LLMs largely created](https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/) (2026-07-06)
+- [Microsoft lays off nearly 5,000 employees across Xbox, commercial sales](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/) (2026-07-06)
+- [Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/) (2026-07-06)
+- [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/) (2026-07-06)
+- [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/) (2026-07-06)
-- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/) (2026-07-06)
-- [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support) (2026-07-06)
-- [The Sneakerweb](https://sneakerweb.org/) (2026-07-06)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) (2026-07-06)
+- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) (2026-07-06)
+- [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/) (2026-07-06)
+- [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot) (2026-07-06)
+- [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat) (2026-07-06)
+- [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep) (2026-07-05)
-- [Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review) (2026-07-05)
-- [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy) (2026-07-05)
-- [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) (2026-07-05)
-- [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter) (2026-07-05)
+- [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale) (2026-07-06)
+- [Inside the big business of the creator economy, with the agents making it happen](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing) (2026-07-06)
+- [Nintendo will stop selling the original Switch in Europe next year](https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued) (2026-07-06)
+- [Can Partiful keep the party going?](https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir) (2026-07-06)
+- [Microsoft is selling off four Xbox studios as part of significant gaming cuts](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Bentley teases its first EV, the Torcal](https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/) (2026-07-06)
+- [The Czinger 21C might be the wildest car we drive all year](https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/) (2026-07-06)
 - [Chemical accidents rise as Trump administration proposes weakening safety rules](https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/) (2026-07-05)
 - [The missing 500 million: Cosmic bombardment melted Earth's first crust](https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/) (2026-07-05)
 - [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) (2026-07-04)
-- [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) (2026-07-04)
-- [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) (2026-07-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: South Korea’s hottest bachelors, and advancing eye transplants](https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/) (2026-07-06)
 - [South Korea’s hottest new bachelors are chip workers](https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/) (2026-07-06)
 - [ A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) (2026-07-03)
 - [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
 - [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/) (2026-07-03)
-- [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) (2026-07-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a LinkedIn Easy Apply Bot in Python Here’s What I Learned About Browser Automation](https://dev.to/arul_cornelious/i-built-a-linkedin-easy-apply-bot-in-python-heres-what-i-learned-about-browser-automation-4j3p) (2026-07-06)
-- [What Happened When We Gave Our Sales Team an AI Assistant](https://dev.to/mohamed0x/what-happened-when-we-gave-our-sales-team-an-ai-assistant-4ogo) (2026-07-06)
-- [DedrooM: loop detection + context compression for Claude Code (open source)](https://dev.to/tanmay_devare_45/dedroom-loop-detection-context-compression-for-claude-code-open-source-2emf) (2026-07-06)
-- [Best Headless CRM in 2026: Twenty vs EspoCRM vs Custom Build](https://dev.to/iurii_rogulia/best-headless-crm-in-2026-twenty-vs-espocrm-vs-custom-build-501c) (2026-07-06)
-- [Insurance Claims Fraud: How Altered PDFs Bypass Adjuster Review](https://dev.to/iurii_rogulia/insurance-claims-fraud-how-altered-pdfs-bypass-adjuster-review-1l52) (2026-07-06)
+- [What looks like AI slop from the outside is my accessibility tool](https://dev.to/nazarii-ahapevych/what-looks-like-ai-slop-from-the-outside-is-my-accessibility-tool-54lc) (2026-07-06)
+- [EyeNet: Turning a Webcam Feed Into Actionable Security Incidents](https://dev.to/splintersword/eyenet-turning-a-webcam-feed-into-actionable-security-incidents-28e5) (2026-07-06)
+- [Running Hugging Face Inference with Kiro: From Prompt to Working Summarizer](https://dev.to/avani_1ddeec48cfa80546e1e/running-hugging-face-inference-with-kiro-from-prompt-to-working-summarizer-4g77) (2026-07-06)
+- [Setting up a local Kubernetes cluster with minikube](https://dev.to/ferztyle/setting-up-a-local-kubernetes-cluster-with-minikube-11l2) (2026-07-06)
+- [Cohere's Aya 23 Release: A Practical Look at Open, Multilingual Models](https://dev.to/albertomontagnese/coheres-aya-23-release-a-practical-look-at-open-multilingual-models-429e) (2026-07-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Every Tool in Spring Boot Already Existed in Spring. So What Did Boot Actually Add?](https://medium.com/@rajatraghav7797/every-tool-in-spring-boot-already-existed-in-spring-so-what-did-boot-actually-add-5d2920cfa3d8?source=rss------programming-5) (2026-07-06)
-- [AI Is Replacing Jobs? Here’s Why Skilled Developers Are Still in High Demand](https://medium.com/@skillsitacademyfaculty/ai-is-replacing-jobs-heres-why-skilled-developers-are-still-in-high-demand-3bc575541d54?source=rss------programming-5) (2026-07-06)
-- [The sandbox](https://medium.com/@dsgbdomingo/the-sandbox-e54ed595938b?source=rss------programming-5) (2026-07-06)
-- [I Interviewed 100 Senior .NET Developers. Almost All Missed This Question](https://medium.com/@mohsho10/i-interviewed-100-senior-net-developers-almost-all-missed-this-question-3ae60506f314?source=rss------programming-5) (2026-07-06)
-- [How Indonesian Developers Can Land Remote Jobs That Pay in US Dollars (2026 Guide)](https://medium.com/@kelvindesman/how-indonesian-developers-can-land-remote-jobs-that-pay-in-us-dollars-2026-guide-e37583dce5c1?source=rss------programming-5) (2026-07-06)
+- [Skills Needed for AI Careers in 2026](https://medium.com/@aimoneyproofficial/skills-needed-for-ai-careers-in-2026-4a8df409533b?source=rss------programming-5) (2026-07-06)
+- [The JavaScript Concept I Mastered the Most: Loops and Conditional Statements](https://medium.com/@vnassuuna/the-javascript-concept-i-mastered-the-most-loops-and-conditional-statements-718a193ba1b5?source=rss------programming-5) (2026-07-06)
+- [Fatal Error](https://medium.com/@vaishugandhian/fatal-error-11559cd89e00?source=rss------programming-5) (2026-07-06)
+- [Short Polling vs Long Polling Explained (Simple Guide with Real Behavior Examples)](https://medium.com/@cse20160007/short-polling-vs-long-polling-explained-simple-guide-with-real-behavior-examples-cf93cd08c706?source=rss------programming-5) (2026-07-06)
+- [  2D collections in Python](https://medium.com/@isaacjatto01/2d-collections-in-python-695bedaf3612?source=rss------programming-5) (2026-07-06)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 - [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
-- [Accelerate modern Linux workloads with Azure Files](https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/) (2026-06-29)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/) (2026-07-06)
 - [Joyride Through July With 12 Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/) (2026-07-02)
 - [NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/) (2026-07-02)
 - [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/) (2026-07-01)
 - [NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science](https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/) (2026-06-30)
-- [How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost](https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/) (2026-06-30)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/) (2026-07-06)
+- [Does Speaking to Agents Like Cavemen Really Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/) (2026-07-06)
 - [In Conversation With the Golden Kodee Winners](https://blog.jetbrains.com/kotlin/2026/07/in-conversation-with-the-golden-kodee-winners/) (2026-07-03)
 - [Toolbox App 3.6: Smarter Storage Cleanup, Windows installation diagnostics, and More](https://blog.jetbrains.com/toolbox-app/2026/07/toolbox-app-3-6-smarter-storage-cleanup-windows-installation-diagnostics-and-more/) (2026-07-02)
 - [IntelliJ IDEA 2026.1.4 Is Out!](https://blog.jetbrains.com/idea/2026/07/intellij-idea-2026-1-4/) (2026-07-02)
-- [TeamCity 2026.1.2 and 2025.11.6 Are Now Available](https://blog.jetbrains.com/teamcity/2026/07/teamcity-2026-1-2-and-2025-11-6/) (2026-07-01)
-- [JetBrains Engineering Hiring Process: A Recruiter Explains What to Expect (And How to Prepare)](https://blog.jetbrains.com/life-at-jetbrains/2026/07/jetbrains-engineering-hiring/) (2026-07-01)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Your Worker can now have its own cache in front of it](https://blog.cloudflare.com/workers-cache/) (2026-07-06)
 - [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) (2026-07-01)
 - [Content Independence Day, one year on: building the business model for the agentic Internet](https://blog.cloudflare.com/agentic-internet-bot-report/) (2026-07-01)
 - [Making AI search smarter](https://blog.cloudflare.com/making-ai-search-smarter/) (2026-07-01)
 - [Your site, your rules: new AI traffic options for all customers](https://blog.cloudflare.com/content-independence-day-ai-options/) (2026-07-01)
-- [Unmasking the crawls with Attribution Business Insights](https://blog.cloudflare.com/attribution-business-insights/) (2026-07-01)
 
 </details>
 
@@ -546,33 +546,33 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) (2026-07-07)
 - [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) (2026-07-06)
 - [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) (2026-07-01)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (2026-06-30)
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) (2026-06-30)
-- [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
-- [Takeda signs US$600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
+- [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
+- [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
 - [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
 - [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
 - [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
-- [Bank of England reviews AI rules for agentic AI in finance](https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Run End-to-End Tests with Claude Code](https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/) (2026-07-06)
+- [Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop](https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/) (2026-07-06)
+- [Stop Ranking Agent Configs by Average Score](https://towardsdatascience.com/stop-ranking-agent-configs-by-average-score/) (2026-07-06)
 - [Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs](https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/) (2026-07-05)
 - [PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up](https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/) (2026-07-05)
-- [Setting Up Your Own Large Language Model](https://towardsdatascience.com/setting-up-your-own-large-language-model/) (2026-07-04)
-- [Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination](https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/) (2026-07-04)
-- [AI Agents Explained: What Is a ReAct Loop and How Does It Work?](https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/) (2026-07-03)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with Hugging Face ML Intern: Your First ML Agent](https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent) (2026-07-06)
+- [5 Ways Small Language Models Are Powering Next-Gen Agents](https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents) (2026-07-06)
 - [Getting Started with the Claude API in Python](https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python) (2026-07-03)
 - [10 Agentic AI Frameworks You Should Know in 2026](https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026) (2026-07-02)
 - [Humanity’s Last Exam is a Distraction](https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction) (2026-07-02)
-- [5 AI Coding Platforms to Build Apps Without the Headache](https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache) (2026-07-01)
-- [Building Local AI Systems: Qwen3.6 + MCPs](https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) (2026-07-06)
 - [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) (2026-07-02)
 - [Context Window Management for Long-Running Agents: Strategies and Tradeoffs](https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/) (2026-06-30)
 - [Model Context Protocol Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/) (2026-06-29)
 - [The AI Agent Tech Stack Explained](https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/) (2026-06-26)
-- [Agentic Workflow vs. Autonomous Agent: What’s the Difference?](https://machinelearningmastery.com/agentic-workflow-vs-autonomous-agent-whats-the-difference/) (2026-06-25)
 
 </details>
 
