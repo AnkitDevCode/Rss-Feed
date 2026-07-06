@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/) (2026-07-05)
+- [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/) (2026-07-05)
 - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) (2026-07-05)
 - [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/) (2026-07-05)
 - [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2026-07-05)
-- [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) (2026-07-05)
-- [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) (2026-07-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c) (2026-07-05)
-- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html) (2026-07-05)
-- [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219) (2026-07-05)
-- ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239) (2026-07-05)
-- [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) (2026-07-05)
+- [The Sneakerweb](https://sneakerweb.org/) (2026-07-06)
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) (2026-07-06)
+- [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) (2026-07-06)
+- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius) (2026-07-05)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/) (2026-07-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep) (2026-07-05)
 - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review) (2026-07-05)
 - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy) (2026-07-05)
 - [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) (2026-07-05)
 - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter) (2026-07-05)
-- [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history) (2026-07-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8) (2026-07-05)
-- [PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a) (2026-07-05)
-- [Building in public, week 17: turning one feature into a page cluster (and the internal-linking layer nobody sees)](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-17-turning-one-feature-into-a-page-cluster-and-the-internal-linking-2nap) (2026-07-05)
-- [CNTRL by Omnikon Org Selected for Elite Coders Summer of Code (ECSoC) 2026](https://dev.to/rishibyte/cntrl-by-omnikon-org-selected-for-elite-coders-summer-of-code-ecsoc-2026-3kag) (2026-07-05)
-- [Guardrails for LLM Apps in Python](https://dev.to/gpuneet/guardrails-for-llm-apps-in-python-3h0j) (2026-07-05)
+- [D365 Customer Insights for Our Own Sales Team (Customer Zero) (1) Setting Up Customer Insights - Data](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-1-setting-up-customer-insights--3mng) (2026-07-06)
+- [We Got Zero Upvotes on Product Hunt — And Learned More Than Any Launch Spike](https://dev.to/zwiserfit/we-got-zero-upvotes-on-product-hunt-and-learned-more-than-any-launch-spike-18ki) (2026-07-06)
+- [The overlooked PDF problem in upload forms: fixed file-size limits](https://dev.to/nikoo_li_06a1e02c73785324/the-overlooked-pdf-problem-in-upload-forms-fixed-file-size-limits-5b65) (2026-07-06)
+- [# Compila e Reza? — Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/matheusarmando/-compila-e-reza-seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-omm) (2026-07-06)
+- [How to Get Canadian Charity Data by API (2026)](https://dev.to/truenorthdata/how-to-get-canadian-charity-data-by-api-2026-2cc9) (2026-07-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Loop Engineering vs. Harness Engineering: When to Use Each (And Why Most Teams Confuse Them)](https://pub.towardsai.net/loop-engineering-vs-harness-engineering-when-to-use-each-and-why-most-teams-confuse-them-df1e0c3d21da?source=rss------programming-5) (2026-07-05)
-- [How I Escaped a Dead End Job by Coding](https://medium.com/illumination/how-i-escaped-a-dead-end-job-by-coding-4ec8c79cd810?source=rss------programming-5) (2026-07-05)
-- [The “Godfather of AI” Believes That AI Chatbots Are Conscious. Here’s Why This Is a Huge Problem](https://sergeykleftzov.medium.com/the-godfather-of-ai-believes-that-ai-chatbots-are-conscious-heres-why-this-is-a-huge-problem-0f8d77f2667b?source=rss------programming-5) (2026-07-05)
-- [What Actually Worked When I Tried to Make My Music Project Understandable to AI](https://medium.com/@innastory/what-actually-worked-when-i-tried-to-make-my-music-project-understandable-to-ai-f4446e5699d9?source=rss------programming-5) (2026-07-05)
-- [Something extraordinary is happening in software development right now.](https://medium.com/@rajat.shukla49/something-extraordinary-is-happening-in-software-development-right-now-94db2f0d8891?source=rss------programming-5) (2026-07-05)
+- [AI 自動化寫 Code 之後，DevOps 還有價值嗎？直擊 DevOpsDays 2026 的 3 大轉型反思](https://medium.com/osi-tech-blog/ai-%E8%87%AA%E5%8B%95%E5%8C%96%E5%AF%AB-code-%E4%B9%8B%E5%BE%8C-devops-%E9%82%84%E6%9C%89%E5%83%B9%E5%80%BC%E5%97%8E-%E7%9B%B4%E6%93%8A-devopsdays-2026-%E7%9A%84-3-%E5%A4%A7%E8%BD%89%E5%9E%8B%E5%8F%8D%E6%80%9D-d5d5e289b053?source=rss------programming-5) (2026-07-06)
+- [TypeScript Generics Without the Headache](https://medium.com/@najmul.hasan284/typescript-generics-without-the-headache-c8a196b4f89e?source=rss------programming-5) (2026-07-06)
+- [When a Dart Package Needs to Patch Its Own Dependency](https://shiwei.medium.com/when-a-dart-package-needs-to-patch-its-own-dependency-ecd445e52fdb?source=rss------programming-5) (2026-07-06)
+- [PlayStation's Digital Future Sparks Fresh Debate as Fans Raise Concerns ](https://medium.com/@lordsky.gg/playstations-digital-future-sparks-fresh-debate-as-fans-raise-concerns-bacf54425a70?source=rss------programming-5) (2026-07-06)
+- [Spec-Driven Development With AI: How We Ship AI Features Without Losing Engineering Discipline](https://medium.com/@lycore/spec-driven-development-with-ai-how-we-ship-ai-features-without-losing-engineering-discipline-054a23f78acd?source=rss------programming-5) (2026-07-06)
 
 </details>
 
