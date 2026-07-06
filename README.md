@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/) (2026-07-06)
+- [This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/) (2026-07-06)
 - [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/) (2026-07-05)
 - [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/) (2026-07-05)
 - [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) (2026-07-05)
-- [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/) (2026-07-05)
-- [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2026-07-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/) (2026-07-06)
+- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/) (2026-07-06)
+- [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support) (2026-07-06)
 - [The Sneakerweb](https://sneakerweb.org/) (2026-07-06)
 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) (2026-07-06)
-- [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) (2026-07-06)
-- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius) (2026-07-05)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/) (2026-07-05)
 
 </details>
 
@@ -32,7 +32,7 @@
 <summary>📱 The Verge</summary>
 
 - [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep) (2026-07-05)
-- [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review) (2026-07-05)
+- [Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review) (2026-07-05)
 - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy) (2026-07-05)
 - [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence) (2026-07-05)
 - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter) (2026-07-05)
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [South Korea’s hottest new bachelors are chip workers](https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/) (2026-07-06)
 - [ A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) (2026-07-03)
 - [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
 - [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/) (2026-07-03)
 - [Achieving operational excellence with AI](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/) (2026-07-02)
-- [Teaching AI to run with the turbines](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/) (2026-07-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [D365 Customer Insights for Our Own Sales Team (Customer Zero) (1) Setting Up Customer Insights - Data](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-1-setting-up-customer-insights--3mng) (2026-07-06)
-- [We Got Zero Upvotes on Product Hunt — And Learned More Than Any Launch Spike](https://dev.to/zwiserfit/we-got-zero-upvotes-on-product-hunt-and-learned-more-than-any-launch-spike-18ki) (2026-07-06)
-- [The overlooked PDF problem in upload forms: fixed file-size limits](https://dev.to/nikoo_li_06a1e02c73785324/the-overlooked-pdf-problem-in-upload-forms-fixed-file-size-limits-5b65) (2026-07-06)
-- [# Compila e Reza? — Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/matheusarmando/-compila-e-reza-seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-omm) (2026-07-06)
-- [How to Get Canadian Charity Data by API (2026)](https://dev.to/truenorthdata/how-to-get-canadian-charity-data-by-api-2026-2cc9) (2026-07-06)
+- [I Built a LinkedIn Easy Apply Bot in Python Here’s What I Learned About Browser Automation](https://dev.to/arul_cornelious/i-built-a-linkedin-easy-apply-bot-in-python-heres-what-i-learned-about-browser-automation-4j3p) (2026-07-06)
+- [What Happened When We Gave Our Sales Team an AI Assistant](https://dev.to/mohamed0x/what-happened-when-we-gave-our-sales-team-an-ai-assistant-4ogo) (2026-07-06)
+- [DedrooM: loop detection + context compression for Claude Code (open source)](https://dev.to/tanmay_devare_45/dedroom-loop-detection-context-compression-for-claude-code-open-source-2emf) (2026-07-06)
+- [Best Headless CRM in 2026: Twenty vs EspoCRM vs Custom Build](https://dev.to/iurii_rogulia/best-headless-crm-in-2026-twenty-vs-espocrm-vs-custom-build-501c) (2026-07-06)
+- [Insurance Claims Fraud: How Altered PDFs Bypass Adjuster Review](https://dev.to/iurii_rogulia/insurance-claims-fraud-how-altered-pdfs-bypass-adjuster-review-1l52) (2026-07-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI 自動化寫 Code 之後，DevOps 還有價值嗎？直擊 DevOpsDays 2026 的 3 大轉型反思](https://medium.com/osi-tech-blog/ai-%E8%87%AA%E5%8B%95%E5%8C%96%E5%AF%AB-code-%E4%B9%8B%E5%BE%8C-devops-%E9%82%84%E6%9C%89%E5%83%B9%E5%80%BC%E5%97%8E-%E7%9B%B4%E6%93%8A-devopsdays-2026-%E7%9A%84-3-%E5%A4%A7%E8%BD%89%E5%9E%8B%E5%8F%8D%E6%80%9D-d5d5e289b053?source=rss------programming-5) (2026-07-06)
-- [TypeScript Generics Without the Headache](https://medium.com/@najmul.hasan284/typescript-generics-without-the-headache-c8a196b4f89e?source=rss------programming-5) (2026-07-06)
-- [When a Dart Package Needs to Patch Its Own Dependency](https://shiwei.medium.com/when-a-dart-package-needs-to-patch-its-own-dependency-ecd445e52fdb?source=rss------programming-5) (2026-07-06)
-- [PlayStation's Digital Future Sparks Fresh Debate as Fans Raise Concerns ](https://medium.com/@lordsky.gg/playstations-digital-future-sparks-fresh-debate-as-fans-raise-concerns-bacf54425a70?source=rss------programming-5) (2026-07-06)
-- [Spec-Driven Development With AI: How We Ship AI Features Without Losing Engineering Discipline](https://medium.com/@lycore/spec-driven-development-with-ai-how-we-ship-ai-features-without-losing-engineering-discipline-054a23f78acd?source=rss------programming-5) (2026-07-06)
+- [Every Tool in Spring Boot Already Existed in Spring. So What Did Boot Actually Add?](https://medium.com/@rajatraghav7797/every-tool-in-spring-boot-already-existed-in-spring-so-what-did-boot-actually-add-5d2920cfa3d8?source=rss------programming-5) (2026-07-06)
+- [AI Is Replacing Jobs? Here’s Why Skilled Developers Are Still in High Demand](https://medium.com/@skillsitacademyfaculty/ai-is-replacing-jobs-heres-why-skilled-developers-are-still-in-high-demand-3bc575541d54?source=rss------programming-5) (2026-07-06)
+- [The sandbox](https://medium.com/@dsgbdomingo/the-sandbox-e54ed595938b?source=rss------programming-5) (2026-07-06)
+- [I Interviewed 100 Senior .NET Developers. Almost All Missed This Question](https://medium.com/@mohsho10/i-interviewed-100-senior-net-developers-almost-all-missed-this-question-3ae60506f314?source=rss------programming-5) (2026-07-06)
+- [How Indonesian Developers Can Land Remote Jobs That Pay in US Dollars (2026 Guide)](https://medium.com/@kelvindesman/how-indonesian-developers-can-land-remote-jobs-that-pay-in-us-dollars-2026-guide-e37583dce5c1?source=rss------programming-5) (2026-07-06)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) (2026-07-06)
 - [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) (2026-07-01)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (2026-06-30)
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) (2026-06-30)
 - [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) (2026-06-30)
-- [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) (2026-06-29)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Modern VLMs Explained: How GPT-4o, Gemini, Claude Vision, and Qwen-VL Work ](https://www.analyticsvidhya.com/blog/2026/07/modern-vlms-explained/) (2026-07-06)
 - [YOLO26 Tutorial: Object Detection, Pose Estimation & More](https://www.analyticsvidhya.com/blog/2026/07/yolo26-tutorial/) (2026-07-04)
 - [Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/) (2026-07-03)
 - [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
 - [The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/) (2026-06-30)
-- [GraphRAG vs Vector RAG: Which Retrieval Method is Best?](https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/) (2026-06-29)
 
 </details>
 
