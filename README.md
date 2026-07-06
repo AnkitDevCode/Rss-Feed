@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Reddit is using LLMs to solve a problem LLMs largely created](https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/) (2026-07-06)
-- [Microsoft lays off nearly 5,000 employees across Xbox, commercial sales](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/) (2026-07-06)
-- [Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/) (2026-07-06)
-- [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/) (2026-07-06)
-- [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/) (2026-07-06)
+- [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) (2026-07-06)
+- [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) (2026-07-06)
+- [Every major tech layoff in 2026 that has name-checked AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-07-06)
+- [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/) (2026-07-06)
+- [If you use Google, you’re training its AI. Here’s how to opt out.](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) (2026-07-06)
-- [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/) (2026-07-06)
-- [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot) (2026-07-06)
-- [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat) (2026-07-06)
-- [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) (2026-07-06)
+- [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/) (2026-07-06)
+- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/) (2026-07-06)
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) (2026-07-06)
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) (2026-07-06)
+- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape) (2026-07-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [America’s greatest idea is still under threat](https://www.theverge.com/policy/961802/america-250-free-speech) (2026-07-06)
+- [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview) (2026-07-06)
+- [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie) (2026-07-06)
+- [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy) (2026-07-06)
 - [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale) (2026-07-06)
-- [Inside the big business of the creator economy, with the agents making it happen](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing) (2026-07-06)
-- [Nintendo will stop selling the original Switch in Europe next year](https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued) (2026-07-06)
-- [Can Partiful keep the party going?](https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir) (2026-07-06)
-- [Microsoft is selling off four Xbox studios as part of significant gaming cuts](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Bentley teases its first EV, the Torcal](https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/) (2026-07-06)
-- [The Czinger 21C might be the wildest car we drive all year](https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/) (2026-07-06)
-- [Chemical accidents rise as Trump administration proposes weakening safety rules](https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/) (2026-07-05)
-- [The missing 500 million: Cosmic bombardment melted Earth's first crust](https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/) (2026-07-05)
-- [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) (2026-07-04)
+- [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/) (2026-07-06)
+- [Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/) (2026-07-06)
+- [The incredible shrinking Xbox: Five studios, 3,200 employees let go](https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/) (2026-07-06)
+- [F1 in Britain: Automated software to blame for crushing expectations](https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/) (2026-07-06)
+- [There were not one, but two asteroid encounters this weekend](https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) (2026-07-06)
 - [The Download: South Korea’s hottest bachelors, and advancing eye transplants](https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/) (2026-07-06)
 - [South Korea’s hottest new bachelors are chip workers](https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/) (2026-07-06)
 - [ A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) (2026-07-03)
 - [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
-- [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/) (2026-07-03)
 
 </details>
 
@@ -75,44 +75,44 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌‍‌‍​﻿​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌​‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌​‌‍‌​​﻿‍‌​﻿‍​​‍﻿‌​﻿‍​​﻿‌‍​﻿‌​​﻿​‌​‍﻿‌‌‍‌‌‌‍​﻿‌‍‌‌‌‍‌‍‌‍​﻿​﻿‌﻿​﻿​‌​﻿​‌‌‍‌‍​﻿​​‌‍‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌‍‌‍​﻿​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌​‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌​‌‍‌​​﻿‍‌​﻿‍​​‍﻿‌​﻿‍​​﻿‌‍​﻿‌​​﻿​‌​‍﻿‌‌‍‌‌‌‍​﻿‌‍‌‌‌‍‌‍‌‍​﻿​﻿‌﻿​﻿​‌​﻿​‌‌‍‌‍​﻿​​‌‍‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/) (2026-07-06)
 - [The good, the bad, and the AI apps​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/) (2026-07-03)
 - [How do you turn AI coding chaos into a repeatable playbook?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/) (2026-07-02)
 - [Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/) (2026-06-30)
 - [Paging Charity! How can engineering leaders avoid becoming Bond villains?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿‍​‌‍‌‌​﻿‌‌​﻿‌‍​﻿​​‌‍​‌‌‍‌‍​‍﻿‌‌‍‌‍​﻿​​‌‍​‌‌‍​‌​‍﻿‌​﻿‌​‌‍‌​​﻿‌​​﻿‌‍​‍﻿‌‌‍​‍‌‍‌​​﻿‍‌​﻿​​​‍﻿‌‌‍‌‍​﻿‌​​﻿​﻿​﻿‌‌‌‍​‌‌‍‌​​﻿‌‍​﻿​​​﻿‌​‌‍​‌‌‍​‌​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/) (2026-06-26)
-- [Code isn’t the only thing causing your production failures​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/) (2026-06-25)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What looks like AI slop from the outside is my accessibility tool](https://dev.to/nazarii-ahapevych/what-looks-like-ai-slop-from-the-outside-is-my-accessibility-tool-54lc) (2026-07-06)
-- [EyeNet: Turning a Webcam Feed Into Actionable Security Incidents](https://dev.to/splintersword/eyenet-turning-a-webcam-feed-into-actionable-security-incidents-28e5) (2026-07-06)
-- [Running Hugging Face Inference with Kiro: From Prompt to Working Summarizer](https://dev.to/avani_1ddeec48cfa80546e1e/running-hugging-face-inference-with-kiro-from-prompt-to-working-summarizer-4g77) (2026-07-06)
-- [Setting up a local Kubernetes cluster with minikube](https://dev.to/ferztyle/setting-up-a-local-kubernetes-cluster-with-minikube-11l2) (2026-07-06)
-- [Cohere's Aya 23 Release: A Practical Look at Open, Multilingual Models](https://dev.to/albertomontagnese/coheres-aya-23-release-a-practical-look-at-open-multilingual-models-429e) (2026-07-06)
+- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13) (2026-07-06)
+- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh) (2026-07-06)
+- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co) (2026-07-06)
+- [Automating Flutter Android Releases to Google Play using GitHub Actions](https://dev.to/madhan_gannarapu/automating-flutter-android-releases-to-google-play-using-github-actions-9lj) (2026-07-06)
+- [Your Postgres already knows why it's slow — you just have to ask it](https://dev.to/kalpesh_parihar/your-postgres-already-knows-why-its-slow-you-just-have-to-ask-it-2d06) (2026-07-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Skills Needed for AI Careers in 2026](https://medium.com/@aimoneyproofficial/skills-needed-for-ai-careers-in-2026-4a8df409533b?source=rss------programming-5) (2026-07-06)
-- [The JavaScript Concept I Mastered the Most: Loops and Conditional Statements](https://medium.com/@vnassuuna/the-javascript-concept-i-mastered-the-most-loops-and-conditional-statements-718a193ba1b5?source=rss------programming-5) (2026-07-06)
-- [Fatal Error](https://medium.com/@vaishugandhian/fatal-error-11559cd89e00?source=rss------programming-5) (2026-07-06)
-- [Short Polling vs Long Polling Explained (Simple Guide with Real Behavior Examples)](https://medium.com/@cse20160007/short-polling-vs-long-polling-explained-simple-guide-with-real-behavior-examples-cf93cd08c706?source=rss------programming-5) (2026-07-06)
-- [  2D collections in Python](https://medium.com/@isaacjatto01/2d-collections-in-python-695bedaf3612?source=rss------programming-5) (2026-07-06)
+- [What Is Federated Learning and Why Should You Care?](https://medium.com/@kafeeromirembemercy/what-is-federated-learning-and-why-should-you-care-14891d368bf0?source=rss------programming-5) (2026-07-06)
+- [Three llama.cpp Flags Turned a 1.4TB Model Into a 239GB File](https://medium.com/@sebuzdugan/three-llama-cpp-flags-turned-a-1-4tb-model-into-a-239gb-file-9983b488dd75?source=rss------programming-5) (2026-07-06)
+- [How I Stopped Worrying and Love the Vibe (A Grateful Study in Applied Occultism)](https://generativeai.pub/how-i-stopped-worrying-and-love-the-vibe-a-grateful-study-in-applied-occultism-6266e6256d71?source=rss------programming-5) (2026-07-06)
+- [I Miss When Programming Felt Like an Adventure](https://medium.com/@eslieh/i-miss-when-programming-felt-like-an-adventure-64c7747f01be?source=rss------programming-5) (2026-07-06)
+- [Database Normalization — A Senior Engineer’s Guide With Real Production Examples](https://medium.com/@ethirajmurugan/database-normalization-a-senior-engineers-guide-with-real-production-examples-6f17ab381a80?source=rss------programming-5) (2026-07-06)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/) (2026-07-06)
 - [Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks](https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/) (2026-07-01)
 - [Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode](https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/) (2026-06-30)
 - [Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/) (2026-06-30)
 - [Automate public TLS certificate issuance with ACME support in AWS Certificate Manager](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/) (2026-06-30)
-- [AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/) (2026-06-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [How Open Models Are Driving AI Research](https://blogs.nvidia.com/blog/open-models-icml-2026/) (2026-07-06)
 - [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/) (2026-07-06)
 - [Joyride Through July With 12 Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/) (2026-07-02)
 - [NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/) (2026-07-02)
 - [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/) (2026-07-01)
-- [NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science](https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/) (2026-06-30)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Google Play launches the first Indie Games Fund in Africa](https://android-developers.googleblog.com/2026/07/Indie-Games-Fund-Africa.html) (2026-07-06)
 - [Eclipsa Video: HDR That Looks Right on Every Screen](https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html) (2026-06-29)
 - [Expanded billing choice and lower fees on Google Play](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) (2026-06-24)
 - [Android developer verification: Building a safer ecosystem together](https://android-developers.googleblog.com/2026/06/android-developer-verification.html) (2026-06-18)
 - [Building a Mixed-Reality Tour Guide with Android XR, the Geospatial API, and Gemini](https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html) (2026-06-17)
-- [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html) (2026-06-16)
 
 </details>
 
@@ -317,22 +317,22 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [How Prompt Tuning Improved GPT-5.5 in VS Code](https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers) (2026-07-06)
 - [Visual Studio Code 1.127](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
 - [Visual Studio Code 1.128 (Insiders)](https://code.visualstudio.com/updates/v1_128) (2026-07-01)
 - [Iterating faster with TypeScript 7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) (2026-06-26)
 - [Visual Studio Code 1.126](https://code.visualstudio.com/updates/v1_126) (2026-06-24)
-- [What 50,000 Runs of a 5-Line Eval Taught Us](https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us) (2026-06-19)
 
 </details>
 
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Keep your GitLab seats in check with restricted access](https://about.gitlab.com/blog/gitlab-restricted-access-improvements/) (2026-07-06)
 - [GitLab Patch Release: 18.8.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-8-11-released/) (2026-07-01)
 - [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/) (2026-06-30)
 - [What's new in Git 2.55.0?](https://about.gitlab.com/blog/whats-new-in-git-2-55-0/) (2026-06-29)
 - [Google Antigravity agents get full context with GitLab Orbit](https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/) (2026-06-25)
-- [GitLab Patch Release: 19.1.1, 19.0.3, 18.11.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-1-released/) (2026-06-24)
 
 </details>
 
@@ -403,11 +403,12 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [The Single-Tenant Trap: Why Testing in Production Kills Uptime 
+](https://auth0.com/blog/the-single-tenant-trap-why-testing-in-production-kills-uptime/) (2026-07-06)
 - [Auth0 and Incode Boost Authentication Security with Biometric Identity Verification](https://auth0.com/blog/auth0-incode-bringing-biometric-identity-to-logins/) (2026-07-01)
 - [Add Auth0 Documentation to Claude Code](https://auth0.com/blog/add-auth0-documentation-claude-code/) (2026-06-29)
 - [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
 - [Embedded Login Advancements: Put Your Apps in Control of Identity to Accelerate Conversions](https://auth0.com/blog/embedded-login-advancements/) (2026-06-24)
-- [Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault](https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/) (2026-06-23)
 
 </details>
 
@@ -547,21 +548,10 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <summary>🤗 Hugging Face</summary>
 
 - [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) (2026-07-07)
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) (2026-07-06)
 - [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) (2026-07-06)
 - [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) (2026-07-01)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (2026-06-30)
-- [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) (2026-06-30)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
-- [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
-- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
-- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
-- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
 
 </details>
 
@@ -590,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Data Scientists Are Becoming AI Managers, Not Model Builders](https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders) (2026-07-06)
 - [Getting Started with Hugging Face ML Intern: Your First ML Agent](https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent) (2026-07-06)
 - [5 Ways Small Language Models Are Powering Next-Gen Agents](https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents) (2026-07-06)
 - [Getting Started with the Claude API in Python](https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python) (2026-07-03)
 - [10 Agentic AI Frameworks You Should Know in 2026](https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026) (2026-07-02)
-- [Humanity’s Last Exam is a Distraction](https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction) (2026-07-02)
 
 </details>
 
