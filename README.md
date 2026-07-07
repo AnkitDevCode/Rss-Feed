@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/) (2026-07-07)
+- [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) (2026-07-06)
+- [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/) (2026-07-06)
 - [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) (2026-07-06)
 - [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) (2026-07-06)
-- [Every major tech layoff in 2026 that has name-checked AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-07-06)
-- [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/) (2026-07-06)
-- [If you use Google, you’re training its AI. Here’s how to opt out.](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/) (2026-07-06)
-- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/) (2026-07-06)
-- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) (2026-07-06)
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) (2026-07-06)
-- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape) (2026-07-06)
+- [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt) (2026-07-07)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) (2026-07-07)
+- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) (2026-07-06)
+- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html) (2026-07-06)
+- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale) (2026-07-06)
 - [America’s greatest idea is still under threat](https://www.theverge.com/policy/961802/america-250-free-speech) (2026-07-06)
 - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview) (2026-07-06)
 - [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie) (2026-07-06)
 - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy) (2026-07-06)
-- [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/) (2026-07-06)
-- [Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/) (2026-07-06)
-- [The incredible shrinking Xbox: Five studios, 3,200 employees let go](https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/) (2026-07-06)
-- [F1 in Britain: Automated software to blame for crushing expectations](https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/) (2026-07-06)
-- [There were not one, but two asteroid encounters this weekend](https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/) (2026-07-06)
+- [FCC to end Biden-era rule that forces ISPs to list all their fees](https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/) (2026-07-06)
+- [Kremlin suspected of flying drones over Europe using Russian shadow fleet](https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/) (2026-07-06)
+- [What is the oldest American object ever launched into space?](https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/) (2026-07-06)
+- [NRC is (sort of) getting rid of "as low as reasonably achievable" standard](https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/) (2026-07-06)
+- [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/) (2026-07-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13) (2026-07-06)
-- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh) (2026-07-06)
-- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co) (2026-07-06)
-- [Automating Flutter Android Releases to Google Play using GitHub Actions](https://dev.to/madhan_gannarapu/automating-flutter-android-releases-to-google-play-using-github-actions-9lj) (2026-07-06)
-- [Your Postgres already knows why it's slow — you just have to ask it](https://dev.to/kalpesh_parihar/your-postgres-already-knows-why-its-slow-you-just-have-to-ask-it-2d06) (2026-07-06)
+- [I Gave My AI Agent Its Own Email Address — Here's What Happened](https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11) (2026-07-07)
+- [The 10-Line Prompt That Turns ChatGPT Into a Fully Autonomous AI Agent](https://dev.to/blobxiaoyao/the-10-line-prompt-that-turns-chatgpt-into-a-fully-autonomous-ai-agent-2bgf) (2026-07-07)
+- [The Hidden Cost of Building an MVP Too Fast](https://dev.to/6sensehq/the-hidden-cost-of-building-an-mvp-too-fast-2g8o) (2026-07-07)
+- [How I Validate App Ideas With Real Data Before Writing a Single Line of Code](https://dev.to/dajilabs/how-i-validate-app-ideas-with-real-data-before-writing-a-single-line-of-code-1o6e) (2026-07-07)
+- [One API endpoint, 18 registries: verifying Australian businesses without the SOAP and CSV mess](https://dev.to/mathiasahlgren/one-api-endpoint-18-registries-verifying-australian-businesses-without-the-soap-and-csv-mess-1nmp) (2026-07-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Is Federated Learning and Why Should You Care?](https://medium.com/@kafeeromirembemercy/what-is-federated-learning-and-why-should-you-care-14891d368bf0?source=rss------programming-5) (2026-07-06)
-- [Three llama.cpp Flags Turned a 1.4TB Model Into a 239GB File](https://medium.com/@sebuzdugan/three-llama-cpp-flags-turned-a-1-4tb-model-into-a-239gb-file-9983b488dd75?source=rss------programming-5) (2026-07-06)
-- [How I Stopped Worrying and Love the Vibe (A Grateful Study in Applied Occultism)](https://generativeai.pub/how-i-stopped-worrying-and-love-the-vibe-a-grateful-study-in-applied-occultism-6266e6256d71?source=rss------programming-5) (2026-07-06)
-- [I Miss When Programming Felt Like an Adventure](https://medium.com/@eslieh/i-miss-when-programming-felt-like-an-adventure-64c7747f01be?source=rss------programming-5) (2026-07-06)
-- [Database Normalization — A Senior Engineer’s Guide With Real Production Examples](https://medium.com/@ethirajmurugan/database-normalization-a-senior-engineers-guide-with-real-production-examples-6f17ab381a80?source=rss------programming-5) (2026-07-06)
+- [WSL2 Explained: The Smartest Way to Run Linux on Windows](https://pawannatekar220.medium.com/wsl2-explained-the-smartest-way-to-run-linux-on-windows-92451e31a85b?source=rss------programming-5) (2026-07-07)
+- [Laravel Inertia.js vs Livewire in 2026: The Honest Answer After Building the Same App Both Ways](https://sadiqueali.medium.com/laravel-inertia-js-vs-livewire-in-2026-the-honest-answer-after-building-the-same-app-both-ways-f1acfdd49614?source=rss------programming-5) (2026-07-07)
+- [Docker vs Podman in 2026: I Migrated Our Servers and Kept My Laptop — Here’s the Split That…](https://blog.stackademic.com/docker-vs-podman-in-2026-i-migrated-our-servers-and-kept-my-laptop-heres-the-split-that-4cc8d13ad3cb?source=rss------programming-5) (2026-07-07)
+- [Your Payment Webhook Charged $4,200 Twice Because Nobody Sent Idempotency-Key](https://blog.stackademic.com/your-payment-webhook-charged-4-200-twice-because-nobody-sent-idempotency-key-ba5186baa2df?source=rss------programming-5) (2026-07-07)
+- [I Said “Just Add More Servers” in a System Design Interview. That Was the Wrong Answer.](https://blog.stackademic.com/i-said-just-add-more-servers-in-a-system-design-interview-that-was-the-wrong-answer-43c8a96d87de?source=rss------programming-5) (2026-07-07)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-06)
 - [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/) (2026-07-03)
 - [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/) (2026-07-02)
 - [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-07-01)
 - [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/) (2026-06-30)
-- [Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends](https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends/) (2026-06-29)
 
 </details>
 
@@ -552,6 +552,17 @@ https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communic
 - [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) (2026-07-06)
 - [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) (2026-07-01)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) (2026-06-30)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
+- [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
+- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
+- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
+- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
 
 </details>
 
