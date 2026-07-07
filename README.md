@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [This startup pits dealerships against each other to bid on your used car](https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/) (2026-07-07)
+- [Hacktivists call out Trump by hacking and defacing US Army websites](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/) (2026-07-07)
+- [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/) (2026-07-07)
 - [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/) (2026-07-07)
 - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/) (2026-07-07)
-- [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) (2026-07-06)
-- [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/) (2026-07-06)
-- [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device) (2026-07-07)
-- [YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media) (2026-07-07)
-- [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago) (2026-07-07)
-- [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) (2026-07-07)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) (2026-07-07)
+- [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html) (2026-07-07)
+- [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal) (2026-07-07)
+- [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/) (2026-07-07)
+- [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk) (2026-07-07)
+- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) (2026-07-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale) (2026-07-06)
-- [America’s greatest idea is still under threat](https://www.theverge.com/policy/961802/america-250-free-speech) (2026-07-06)
-- [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview) (2026-07-06)
-- [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie) (2026-07-06)
-- [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy) (2026-07-06)
+- [iRobot’s newest floor cleaner isn’t a robot](https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums) (2026-07-07)
+- [Microsoft fixes storage-hogging Windows 11 folder](https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder) (2026-07-07)
+- [Solos debuts an even lighter version of its camera-less smart glasses](https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy) (2026-07-07)
+- [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties) (2026-07-07)
+- [iFixit has a new toolkit for fixing appliances, building furniture, and household repairs](https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs) (2026-07-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner](https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/) (2026-07-07)
+- [How AI could enable autonomous robot workers in workplaces—and maybe homes](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/) (2026-07-07)
 - [FCC to end Biden-era rule that forces ISPs to list all their fees](https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/) (2026-07-06)
 - [Kremlin suspected of flying drones over Europe using Russian shadow fleet](https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/) (2026-07-06)
 - [What is the oldest American object ever launched into space?](https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/) (2026-07-06)
-- [NRC is (sort of) getting rid of "as low as reasonably achievable" standard](https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/) (2026-07-06)
-- [Katalyst's satellite rescue mission is now in pursuit of NASA's Swift](https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
+- [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) (2026-07-07)
+- [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/) (2026-07-07)
 - [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) (2026-07-06)
 - [The Download: South Korea’s hottest bachelors, and advancing eye transplants](https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/) (2026-07-06)
-- [South Korea’s hottest new bachelors are chip workers](https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/) (2026-07-06)
-- [ A device that revives eyeballs from dead donors could make eye transplants possible](https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/) (2026-07-03)
-- [The Download: a smoking “endgame” and a new Elizabeth Bear story](https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/) (2026-07-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Flutter Core Widgets — Part 1](https://dev.to/gochev/flutter-core-widgets-part-1-4pdh) (2026-07-07)
-- [Using Azure Policy to prevent unscoped blob lifecycle rules](https://dev.to/evdbogaard/using-azure-policy-to-prevent-unscoped-blob-lifecycle-rules-35l5) (2026-07-07)
-- [Claude Code for Backup Automation: How I Stopped Trusting Backups I Had Never Actually Restored](https://dev.to/nextools/claude-code-for-backup-automation-how-i-stopped-trusting-backups-i-had-never-actually-restored-3m83) (2026-07-07)
-- [Adding GPU backends to a pure-C TTS engine: Metal, CUDA, and the rented-Mac trick](https://dev.to/gabrielemastrapasqua/adding-gpu-backends-to-a-pure-c-tts-engine-metal-cuda-and-the-rented-mac-trick-16hh) (2026-07-07)
-- [The Loneliness Epidemic: What the Data Says About Ageing Alone in India](https://dev.to/iavatars/the-loneliness-epidemic-what-the-data-says-about-ageing-alone-in-india-57a9) (2026-07-07)
+- [Pure Shell Script to Compress IPv6 Addresses](https://dev.to/michaelfv/pure-shell-script-to-compress-ipv6-addresses-12ic) (2026-07-07)
+- [ORVIX, Open-source Self-Organizing AI Engineering Company](https://dev.to/mirshah12/orvix-open-source-self-organizing-ai-engineering-company-4cd1) (2026-07-07)
+- [The caller heard silence for two seconds before the agent spoke](https://dev.to/realmarcuschen/the-caller-heard-silence-for-two-seconds-before-the-agent-spoke-21m1) (2026-07-07)
+- [4 things writing an HTTP prober in Rust taught me](https://dev.to/slima4/4-things-writing-an-http-prober-in-rust-taught-me-gn6) (2026-07-07)
+- [I Gave AI Agents Actual Job Descriptions. My Team's Delivery Speed Went Up 300%. Here's the Setup](https://dev.to/sergii-kravtsov/i-gave-ai-agents-actual-job-descriptions-my-teams-delivery-speed-went-up-300-heres-the-setup-52jd) (2026-07-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [None of This Is Advanced. That's Exactly Why It Matters.](https://medium.com/@varshagowda0728/none-of-this-is-advanced-thats-exactly-why-it-matters-bf9093c8b747?source=rss------programming-5) (2026-07-07)
-- [Part 2 — Creating a TCP Server in C++](https://medium.com/@anidotdev/part-2-creating-a-tcp-server-in-c-504ed0dc8a92?source=rss------programming-5) (2026-07-07)
-- [The rm Command in Linux: A Complete Tutorial (And the Mistake That Kills Servers)](https://medium.com/@xpert4cyber/the-rm-command-in-linux-a-complete-tutorial-and-the-mistake-that-kills-servers-053fc253b7a2?source=rss------programming-5) (2026-07-07)
-- [Instructions vs. Skills: Designing a Sustainable Context Layer for AI Coding Agents](https://medium.com/@alphanogun/instructions-vs-skills-designing-a-sustainable-context-layer-for-ai-coding-agents-2c25ca6e2ad9?source=rss------programming-5) (2026-07-07)
-- [Katalog Buku Gramedia Terbaik: Rekomendasi Lengkap untuk Semua Genre (Original)](https://medium.com/@pramudya.a.rosadi/katalog-buku-gramedia-terbaik-rekomendasi-lengkap-untuk-semua-genre-original-a596610e2b7c?source=rss------programming-5) (2026-07-07)
+- [Why You Don’t Need a Huge AI Model to do Easy Work](https://medium.com/@penquestr/why-you-dont-need-a-huge-ai-model-to-do-easy-work-d596c76a563d?source=rss------programming-5) (2026-07-07)
+- [Why Python Is Secretly the Most Dangerous Skill You Can Learn in 2026](https://medium.com/@vaishnavi.singh0324/why-python-is-secretly-the-most-dangerous-skill-you-can-learn-in-2026-c45fc45ef82b?source=rss------programming-5) (2026-07-07)
+- [*Why the Tech Industry Wants to Take Away Your Screen*](https://medium.com/@victoriasterling_73989/why-the-tech-industry-wants-to-take-away-your-screen-ab78bf865344?source=rss------programming-5) (2026-07-07)
+- [Database vs Redis vs Kafka vs Kubernetes](https://medium.com/@piyalidas.it/database-vs-redis-vs-kafka-vs-kubernetes-d2bfb24cc72b?source=rss------programming-5) (2026-07-07)
+- [The Missing Piece Between GET and POST: What HTTP’s New QUERY Method Means for Frontend Developers.](https://medium.com/@bhagyag/the-missing-piece-between-get-and-post-what-https-new-query-method-means-for-frontend-developers-b252e76c14a0?source=rss------programming-5) (2026-07-07)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Benchmark Meaning Gap](https://blog.jetbrains.com/research/2026/07/benchmark-meaning-gap/) (2026-07-07)
+- [JetBrains AI for Teams and Organizations: From Fragmented AI Usage to Coordinated Software Development](https://blog.jetbrains.com/blog/2026/07/07/jetbrains-ai-for-teams-and-organizations-from-fragmented-ai-usage-to-coordinated-software-development/) (2026-07-07)
+- [Java Annotated Monthly – July 2026 ](https://blog.jetbrains.com/idea/2026/07/java-annotated-monthly-july-2026/) (2026-07-07)
 - [Shift-Left Static Code Analysis](https://blog.jetbrains.com/qodana/2026/07/shift-left-static-analysis/) (2026-07-07)
 - [Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/) (2026-07-06)
-- [Does Speaking to Agents Like Cavemen Really Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/) (2026-07-06)
-- [In Conversation With the Golden Kodee Winners](https://blog.jetbrains.com/kotlin/2026/07/in-conversation-with-the-golden-kodee-winners/) (2026-07-03)
-- [Toolbox App 3.6: Smarter Storage Cleanup, Windows installation diagnostics, and More](https://blog.jetbrains.com/toolbox-app/2026/07/toolbox-app-3-6-smarter-storage-cleanup-windows-installation-diagnostics-and-more/) (2026-07-02)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Give your eve agent GitHub tools](https://vercel.com/changelog/github-tools-eve) (2026-07-07)
 - [Vercel Sandbox now supports FUSE-based filesystems](https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems) (2026-07-03)
 - [Manage Vercel Flags segments with Vercel CLI](https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli) (2026-07-03)
 - [Agent Runs now available in the Vercel MCP and CLI](https://vercel.com/changelog/agent-runs-vercel-mcp-cli) (2026-07-03)
 - [ Routing rules now available on AI Gateway](https://vercel.com/changelog/ai-gateway-routing-rules) (2026-07-02)
-- [Secure internal communication between services](https://vercel.com/changelog/secure-internal-communication-between-services) (2026-07-01)
 
 </details>
 
@@ -372,11 +372,6 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
-- [
-11 conversational AI design best practices to implement
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
-) (2026-07-06)
 - [
 Twilio's Compliance Toolkit now Generally Available
 ](
@@ -397,18 +392,24 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-examples-use-cases
 ) (2026-06-30)
+- [
+The On-Ramp to Verified Messaging: Modernizing Toll and Transit Communications with RCS
+](
+https://www.twilio.com/en-us/blog/insights/modernizing-toll-and-transit-communications-with-verified-messaging
+) (2026-06-26)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Adding Auth0 to Hono on Cloudflare Workers: A Practical Guide
+](https://auth0.com/blog/adding-auth0-hono-cloudflare-workers-guide/) (2026-07-07)
 - [The Single-Tenant Trap: Why Testing in Production Kills Uptime 
 ](https://auth0.com/blog/the-single-tenant-trap-why-testing-in-production-kills-uptime/) (2026-07-06)
 - [Auth0 and Incode Boost Authentication Security with Biometric Identity Verification](https://auth0.com/blog/auth0-incode-bringing-biometric-identity-to-logins/) (2026-07-01)
 - [Add Auth0 Documentation to Claude Code](https://auth0.com/blog/add-auth0-documentation-claude-code/) (2026-06-29)
 - [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
-- [Embedded Login Advancements: Put Your Apps in Control of Identity to Accelerate Conversions](https://auth0.com/blog/embedded-login-advancements/) (2026-06-24)
 
 </details>
 
@@ -558,44 +559,44 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-examples-use-cases
 <details>
 <summary>🤖 AI News</summary>
 
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
 - [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
 - [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
 - [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
-- [Deploying retail AI to scale personalisation and customer insight](https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/) (2026-07-01)
-- [Japan’s answer to its worker shortage: An AI model for 10 million robots](https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/) (2026-07-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Identifying Microbes in Space](https://towardsdatascience.com/space-mould/) (2026-07-07)
+- [Survival Analysis for Data Drift and ML Reliability](https://towardsdatascience.com/survival-analysis-for-data-drift-and-ml-reliability/) (2026-07-07)
 - [How to Run End-to-End Tests with Claude Code](https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/) (2026-07-06)
 - [Validating the RAG Answer Before the User Sees It: Spans, Quotes, and the Feedback Loop](https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/) (2026-07-06)
 - [Stop Ranking Agent Configs by Average Score](https://towardsdatascience.com/stop-ranking-agent-configs-by-average-score/) (2026-07-06)
-- [Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs](https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/) (2026-07-05)
-- [PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up](https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/) (2026-07-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OKF: Redefining Knowledge Bases for AI Agents](https://www.analyticsvidhya.com/blog/2026/07/open-knowledge-format-okf/) (2026-07-07)
 - [Modern VLMs Explained: How GPT-4o, Gemini, Claude Vision, and Qwen-VL Work ](https://www.analyticsvidhya.com/blog/2026/07/modern-vlms-explained/) (2026-07-06)
 - [YOLO26 Tutorial: Object Detection, Pose Estimation & More](https://www.analyticsvidhya.com/blog/2026/07/yolo26-tutorial/) (2026-07-04)
 - [Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/) (2026-07-03)
 - [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
-- [The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro](https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images](https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images) (2026-07-07)
+- [10 Probability Concepts for Machine Learning Explained Simply](https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply) (2026-07-07)
 - [Data Scientists Are Becoming AI Managers, Not Model Builders](https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders) (2026-07-06)
 - [Getting Started with Hugging Face ML Intern: Your First ML Agent](https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent) (2026-07-06)
 - [5 Ways Small Language Models Are Powering Next-Gen Agents](https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents) (2026-07-06)
-- [Getting Started with the Claude API in Python](https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python) (2026-07-03)
-- [10 Agentic AI Frameworks You Should Know in 2026](https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026) (2026-07-02)
 
 </details>
 
