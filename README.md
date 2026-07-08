@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Venus Williams-backed WeWard can now lock your apps until you hit your steps](https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/) (2026-07-08)
-- [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/) (2026-07-08)
-- [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/) (2026-07-08)
-- [AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/) (2026-07-08)
-- [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/) (2026-07-07)
+- [Elon Musk says X will send DMs when posts you’ve engaged with are corrected](https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/) (2026-07-08)
+- [Google Photos adds a new AI ‘Video Remix’ tool](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/) (2026-07-08)
+- [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/) (2026-07-08)
+- [Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.](https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/) (2026-07-08)
+- [OpenAI releases new voice models for more natural live conversations](https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/) (2026-07-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558) (2026-07-08)
-- [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/) (2026-07-08)
-- [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work) (2026-07-08)
-- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) (2026-07-08)
-- [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) (2026-07-08)
+- [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997) (2026-07-08)
+- [Grok 4.5](https://x.ai/news/grok-4-5) (2026-07-08)
+- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) (2026-07-08)
+- [PlayStation can delete all your digital games after 3 years of inactivity (EU)](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582) (2026-07-08)
+- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview) (2026-07-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Fi&#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&#8217;t](https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date) (2026-07-08)
-- [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life) (2026-07-08)
-- [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla) (2026-07-08)
-- [Samsung will launch its new wide foldable on July 22nd](https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july) (2026-07-08)
-- [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update) (2026-07-07)
+- [Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs) (2026-07-08)
+- [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty) (2026-07-08)
+- [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review) (2026-07-08)
+- [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma) (2026-07-08)
+- [Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale) (2026-07-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Blue Origin, for the first time, is expected to raise private capital](https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/) (2026-07-08)
-- [Hackers can use 9 of the most popular AI tools to assemble massive botnets](https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/) (2026-07-08)
-- [Michigan sees explosive outbreak of diarrheal parasite with over 700 cases](https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/) (2026-07-07)
-- [Data centers’ energy demand threatens Trump’s “Made in America” plan](https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/) (2026-07-07)
-- [Surprisingly large number of people may have marker for tick-linked meat allergy](https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/) (2026-07-07)
+- [Aussie gov't tells volunteers to throw out thousands of functioning test routers](https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/) (2026-07-08)
+- [TikTok users don't have as much agency over their FYPs as they think](https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/) (2026-07-08)
+- [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/) (2026-07-08)
+- [Miami-based City Labs achieves a first for commercial nuclear power in space](https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/) (2026-07-08)
+- [Google updates Android Bench with new LLMs, but Gemini still lags behind](https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/) (2026-07-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) (2026-07-08)
 - [The Download: worms fight pollution, and geoengineering faces reality](https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/) (2026-07-08)
 - [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
 - [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) (2026-07-07)
 - [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/) (2026-07-07)
-- [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) (2026-07-06)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How GitHub Copilot enables zero DNS configuration for GitHub Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/) (2026-07-08)
 - [Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide](https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/) (2026-07-07)
 - [How GitHub used secret scanning to reach inbox zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) (2026-07-02)
 - [6 security settings every GitHub maintainer should enable this week](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/) (2026-07-01)
 - [How GitHub maintains compliance for open source dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) (2026-06-30)
-- [Highlights from Git 2.55](https://github.blog/open-source/git/highlights-from-git-2-55/) (2026-06-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Time Data Series: Written In Our Stars](https://dev.to/leonadato/time-data-series-written-in-our-stars-2jhi) (2026-07-08)
-- [Database Agnostic Queries: Easing the Pain of Engine Migration](https://dev.to/maskdatabases/database-agnostic-queries-easing-the-pain-of-engine-migration-4e88) (2026-07-08)
-- [How to Handle References on Your Resume (2026)](https://dev.to/sarah_m/how-to-handle-references-on-your-resume-2026-apg) (2026-07-08)
-- [matten: コンパニオン crates と、次のステップへの移行](https://dev.to/nabbisen/matten-konpanion-crates-to-ci-nosutetupuhenoyi-xing-5ahc) (2026-07-08)
-- [matten: Companion crates and when to move on](https://dev.to/nabbisen/matten-companion-crates-and-when-to-move-on-4fkf) (2026-07-08)
+- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4) (2026-07-08)
+- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j) (2026-07-08)
+- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo) (2026-07-08)
+- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo) (2026-07-08)
+- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k) (2026-07-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Security Rotated the JWT Keys at 9 AM. 40,000 Sessions Died by 9:04.](https://medium.com/engineering-playbook/security-rotated-the-jwt-keys-at-9-am-40-000-sessions-died-by-9-04-450f07149d98?source=rss------programming-5) (2026-07-08)
-- [The Init Container Hung on DNS. Our Deployment Stuck for Four Hours.](https://medium.com/@tercanyldz/the-init-container-hung-on-dns-our-deployment-stuck-for-four-hours-72fa02e4999a?source=rss------programming-5) (2026-07-08)
-- [An Idle Transaction Held a Row Lock for 38 Minutes. Checkout Died.](https://blog.stackademic.com/an-idle-transaction-held-a-row-lock-for-38-minutes-checkout-died-9f98a2ecd7bb?source=rss------programming-5) (2026-07-08)
-- [AI Didn’t Replace Developers — It Replaced Bad Workflows](https://medium.com/codetodeploy/ai-didnt-replace-developers-it-replaced-bad-workflows-20bdd4c96a58?source=rss------programming-5) (2026-07-08)
-- [Entry-Level Developer Hiring Is Down 67% — I’ve Watched 8 Juniors Break In Anyway.](https://blog.stackademic.com/entry-level-developer-hiring-is-down-67-ive-watched-8-juniors-break-in-anyway-d9df4b339a5a?source=rss------programming-5) (2026-07-08)
+- [The MCP Ecosystem in Mid 2026: Which Servers Are Actually Worth Adding to Your Stack](https://medium.com/@mudassir00seven/the-mcp-ecosystem-in-mid-2026-which-servers-are-actually-worth-adding-to-your-stack-3cbbf0f0fe36?source=rss------programming-5) (2026-07-08)
+- [Why I Started Refactoring Old Exercises](https://medium.com/@scosmexs/why-i-started-refactoring-old-exercises-9daf1d014f3a?source=rss------programming-5) (2026-07-08)
+- [Security Review, Audit, Pentest ต่างกันตรงไหน ต้องทำอะไรก่อน Launch](https://medium.com/algorithmtut/security-review-audit-pentest-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%99-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-launch-bb94dc79967f?source=rss------programming-5) (2026-07-08)
+- [OWASP Top 10 ฉบับที่ต้องรู้จริง ไม่ต้องท่องทั้ง 10 ข้อ](https://medium.com/algorithmtut/owasp-top-10-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87-10-%E0%B8%82%E0%B9%89%E0%B8%AD-004afb8c45ed?source=rss------programming-5) (2026-07-08)
+- [The TLS Handshake: What Happens Before Your Request Is Even HTTP](https://medium.com/@shivanksingh01/the-tls-handshake-what-happens-before-your-request-is-even-http-600398224b7c?source=rss------programming-5) (2026-07-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) (2026-07-08)
 - [AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters](https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/) (2026-07-07)
 - [NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/) (2026-07-07)
 - [How Open Models Are Driving AI Research](https://blogs.nvidia.com/blog/open-models-icml-2026/) (2026-07-06)
 - [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/) (2026-07-06)
-- [Joyride Through July With 12 Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/) (2026-07-02)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Evolving how LLMs are measured for Android: the next era of Android Bench](https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html) (2026-07-08)
 - [Google Play launches the first Indie Games Fund in Africa](https://android-developers.googleblog.com/2026/07/Indie-Games-Fund-Africa.html) (2026-07-06)
 - [Eclipsa Video: HDR That Looks Right on Every Screen](https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html) (2026-06-29)
 - [Expanded billing choice and lower fees on Google Play](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) (2026-06-24)
 - [Android developer verification: Building a safer ecosystem together](https://android-developers.googleblog.com/2026/06/android-developer-verification.html) (2026-06-18)
-- [Building a Mixed-Reality Tour Guide with Android XR, the Geospatial API, and Gemini](https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html) (2026-06-17)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/) (2026-07-08)
 - [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) (2026-06-26)
 - [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) (2026-06-25)
 - [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/) (2026-06-25)
 - [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/) (2026-06-25)
-- [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/) (2026-06-24)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Patch Release: 19.1.2, 19.0.4, 18.11.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-2-released/) (2026-07-08)
+- [How we used AI agents to migrate GitLab rate limiting](https://about.gitlab.com/blog/ai-agents-for-migrating-rate-limiting-system/) (2026-07-08)
 - [Keep your GitLab seats in check with restricted access](https://about.gitlab.com/blog/gitlab-restricted-access-improvements/) (2026-07-06)
 - [GitLab Patch Release: 18.8.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-8-11-released/) (2026-07-01)
 - [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/) (2026-06-30)
-- [What's new in Git 2.55.0?](https://about.gitlab.com/blog/whats-new-in-git-2-55-0/) (2026-06-29)
-- [Google Antigravity agents get full context with GitLab Orbit](https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/) (2026-06-25)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway) (2026-07-08)
+- [Update Project Settings from the Vercel CLI](https://vercel.com/changelog/update-project-settings-from-the-vercel-cli) (2026-07-08)
+- [Vercel Microfrontends checks for missing configuration](https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration) (2026-07-08)
 - [Flags SDK now evaluates flags 10x faster](https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster) (2026-07-08)
 - [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel) (2026-07-08)
-- [Chat SDK now supports Vercel Connect](https://vercel.com/changelog/chat-sdk-vercel-connect) (2026-07-08)
-- [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support) (2026-07-08)
-- [Chat SDK adds Photon support](https://vercel.com/changelog/chat-sdk-adds-photon-support) (2026-07-08)
 
 </details>
 
@@ -403,13 +403,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [How to Pick the Right Auth0 Customization for Your App](https://auth0.com/blog/picking-the-right-auth0-customization-for-apps/) (2026-07-08)
 - [Adding Auth0 to Hono on Cloudflare Workers: A Practical Guide
 ](https://auth0.com/blog/adding-auth0-hono-cloudflare-workers-guide/) (2026-07-07)
 - [The Single-Tenant Trap: Why Testing in Production Kills Uptime 
 ](https://auth0.com/blog/the-single-tenant-trap-why-testing-in-production-kills-uptime/) (2026-07-06)
 - [Auth0 and Incode Boost Authentication Security with Biometric Identity Verification](https://auth0.com/blog/auth0-incode-bringing-biometric-identity-to-logins/) (2026-07-01)
 - [Add Auth0 Documentation to Claude Code](https://auth0.com/blog/add-auth0-documentation-claude-code/) (2026-06-29)
-- [Want AI Agents That Don't Spill Secrets? Don't Give Them Secrets](https://auth0.com/blog/want-ai-agents-that-don-t-spill-secrets-don-t-give-them-secrets/) (2026-06-26)
 
 </details>
 
@@ -427,11 +427,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) (2026-07-08)
 - [One Postgres cluster, many apps](https://planetscale.com/blog/one-postgres-cluster-many-apps) (2026-06-25)
 - [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) (2026-06-16)
 - [See what your database is doing right now with Connections](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) (2026-06-15)
 - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete) (2026-06-11)
-- [Egress problems and where to find them](https://planetscale.com/blog/database-egress) (2026-05-14)
 
 </details>
 
@@ -537,33 +537,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.13 Release Blog](https://pytorch.org/blog/pytorch-2-13-release-blog/) (2026-07-08)
 - [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-06)
 - [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/) (2026-07-03)
 - [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/) (2026-07-02)
 - [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-07-01)
-- [Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training](https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents) (2026-07-08)
+- [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) (2026-07-08)
 - [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) (2026-07-07)
 - [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) (2026-07-07)
 - [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage) (2026-07-07)
-- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) (2026-07-07)
-- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) (2026-07-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Real Challenge Limiting AI Models Today](https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/) (2026-07-08)
+- [Redesign Work Before You Add More AI Agents](https://towardsdatascience.com/redesign-work-before-you-add-more-ai-agents/) (2026-07-08)
 - [Inside the Subspace Where Spurious Correlations Are Born](https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/) (2026-07-08)
 - [The Threshold Is a Price, Not a Percentage](https://towardsdatascience.com/the-threshold-is-a-price-not-a-percentage/) (2026-07-08)
 - [Information Theory and Ensemble Models](https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/) (2026-07-08)
-- [Granger Causal Networks and Indirect Feedback](https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/) (2026-07-08)
-- [Measuring Structure Stability of Econometric Models](https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/) (2026-07-08)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Clean Messy CSV Files with Python: A Beginner’s Guide](https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide) (2026-07-08)
 - [SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?](https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best) (2026-07-07)
 - [Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images](https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images) (2026-07-07)
 - [10 Probability Concepts for Machine Learning Explained Simply](https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply) (2026-07-07)
 - [Data Scientists Are Becoming AI Managers, Not Model Builders](https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders) (2026-07-06)
-- [Getting Started with Hugging Face ML Intern: Your First ML Agent](https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent) (2026-07-06)
 
 </details>
 
