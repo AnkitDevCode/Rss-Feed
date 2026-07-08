@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Venus Williams-backed WeWard can now lock your apps until you hit your steps](https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/) (2026-07-08)
+- [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/) (2026-07-08)
 - [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/) (2026-07-08)
 - [AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/) (2026-07-08)
 - [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/) (2026-07-07)
-- [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/) (2026-07-07)
-- [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) (2026-07-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) (2026-07-08)
-- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299) (2026-07-08)
-- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/) (2026-07-08)
-- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/) (2026-07-08)
-- [LineageOS Statistics](https://stats.lineageos.org) (2026-07-08)
+- [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558) (2026-07-08)
+- [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/) (2026-07-08)
+- [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work) (2026-07-08)
+- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) (2026-07-08)
+- [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) (2026-07-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fi&#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&#8217;t](https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date) (2026-07-08)
+- [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life) (2026-07-08)
+- [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla) (2026-07-08)
 - [Samsung will launch its new wide foldable on July 22nd](https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july) (2026-07-08)
 - [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update) (2026-07-07)
-- [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok) (2026-07-07)
-- [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming) (2026-07-07)
-- [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram) (2026-07-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Blue Origin, for the first time, is expected to raise private capital](https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/) (2026-07-08)
 - [Hackers can use 9 of the most popular AI tools to assemble massive botnets](https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/) (2026-07-08)
 - [Michigan sees explosive outbreak of diarrheal parasite with over 700 cases](https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/) (2026-07-07)
 - [Data centers’ energy demand threatens Trump’s “Made in America” plan](https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/) (2026-07-07)
 - [Surprisingly large number of people may have marker for tick-linked meat allergy](https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/) (2026-07-07)
-- [SCOTUS lets Texas enforce app store law that Big Tech calls "censorship regime"](https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/) (2026-07-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: worms fight pollution, and geoengineering faces reality](https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/) (2026-07-08)
 - [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
 - [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) (2026-07-07)
 - [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/) (2026-07-07)
 - [Your family’s $300 stake in OpenAI](https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/) (2026-07-06)
-- [The Download: South Korea’s hottest bachelors, and advancing eye transplants](https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/) (2026-07-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Wiring Designers Into Your EAS Preview Loop](https://dev.to/famitha_ma_b9c13ab1d324e/wiring-designers-into-your-eas-preview-loop-1hil) (2026-07-08)
-- [Hello World! 👋 I'm Pablo, Android Dev & Creator of Aura Finance](https://dev.to/pablo_vegas/hello-world-im-pablo-android-dev-creator-of-aura-finance-285i) (2026-07-08)
-- [Nginx Proxy Manager on Your Home Lab: Performance Tuning Beyond the Defaults](https://dev.to/ericwoooo_kr/nginx-proxy-manager-on-your-home-lab-performance-tuning-beyond-the-defaults-5d1j) (2026-07-08)
-- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h) (2026-07-08)
-- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393) (2026-07-08)
+- [Time Data Series: Written In Our Stars](https://dev.to/leonadato/time-data-series-written-in-our-stars-2jhi) (2026-07-08)
+- [Database Agnostic Queries: Easing the Pain of Engine Migration](https://dev.to/maskdatabases/database-agnostic-queries-easing-the-pain-of-engine-migration-4e88) (2026-07-08)
+- [How to Handle References on Your Resume (2026)](https://dev.to/sarah_m/how-to-handle-references-on-your-resume-2026-apg) (2026-07-08)
+- [matten: コンパニオン crates と、次のステップへの移行](https://dev.to/nabbisen/matten-konpanion-crates-to-ci-nosutetupuhenoyi-xing-5ahc) (2026-07-08)
+- [matten: Companion crates and when to move on](https://dev.to/nabbisen/matten-companion-crates-and-when-to-move-on-4fkf) (2026-07-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Static Reflection in C++26 — Part 2](https://medium.com/@sagarmadala/cpp26-reflection-meta-header-introspection-guide-8dc33a9f61ad?source=rss------programming-5) (2026-07-08)
-- [09032543127](https://medium.com/@devayjphonetcom/09032543127-5736c21a6353?source=rss------programming-5) (2026-07-08)
-- [Prevent C Memory Issues on macOS](https://medium.com/@standardloop/prevent-c-memory-issues-on-macos-c02afc46657a?source=rss------programming-5) (2026-07-08)
-- [09032543127](https://medium.com/@devayjphonetcom/09032543127-a939e7ee6c12?source=rss------programming-5) (2026-07-08)
-- [Swift Concurrency: The Explanation I Wish Someone Gave Me](https://medium.com/@thecodingdiaries8/swift-concurrency-the-explanation-i-wish-someone-gave-me-c6b377002894?source=rss------programming-5) (2026-07-08)
+- [Security Rotated the JWT Keys at 9 AM. 40,000 Sessions Died by 9:04.](https://medium.com/engineering-playbook/security-rotated-the-jwt-keys-at-9-am-40-000-sessions-died-by-9-04-450f07149d98?source=rss------programming-5) (2026-07-08)
+- [The Init Container Hung on DNS. Our Deployment Stuck for Four Hours.](https://medium.com/@tercanyldz/the-init-container-hung-on-dns-our-deployment-stuck-for-four-hours-72fa02e4999a?source=rss------programming-5) (2026-07-08)
+- [An Idle Transaction Held a Row Lock for 38 Minutes. Checkout Died.](https://blog.stackademic.com/an-idle-transaction-held-a-row-lock-for-38-minutes-checkout-died-9f98a2ecd7bb?source=rss------programming-5) (2026-07-08)
+- [AI Didn’t Replace Developers — It Replaced Bad Workflows](https://medium.com/codetodeploy/ai-didnt-replace-developers-it-replaced-bad-workflows-20bdd4c96a58?source=rss------programming-5) (2026-07-08)
+- [Entry-Level Developer Hiring Is Down 67% — I’ve Watched 8 Juniors Break In Anyway.](https://blog.stackademic.com/entry-level-developer-hiring-is-down-67-ive-watched-8-juniors-break-in-anyway-d9df4b339a5a?source=rss------programming-5) (2026-07-08)
 
 </details>
 
@@ -185,22 +185,22 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.5.0 (Current)](https://nodejs.org/en/blog/release/v26.5.0) (2026-07-08)
 - [Node.js 26.4.0 (Current)](https://nodejs.org/en/blog/release/v26.4.0) (2026-06-24)
 - [Node.js 24.18.0 (LTS)](https://nodejs.org/en/blog/release/v24.18.0) (2026-06-23)
 - [Node.js 22.23.1 (LTS)](https://nodejs.org/en/blog/release/v22.23.1) (2026-06-23)
 - [Node.js 26.3.1 (Current)](https://nodejs.org/en/blog/release/v26.3.1) (2026-06-18)
-- [Node.js 24.17.0 (LTS)](https://nodejs.org/en/blog/release/v24.17.0) (2026-06-18)
 
 </details>
 
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/) (2026-07-08)
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/) (2026-07-01)
 - [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/) (2026-06-27)
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) (2026-06-25)
 - [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
-- [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/) (2026-06-23)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Flags SDK now evaluates flags 10x faster](https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster) (2026-07-08)
 - [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel) (2026-07-08)
 - [Chat SDK now supports Vercel Connect](https://vercel.com/changelog/chat-sdk-vercel-connect) (2026-07-08)
 - [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support) (2026-07-08)
 - [Chat SDK adds Photon support](https://vercel.com/changelog/chat-sdk-adds-photon-support) (2026-07-08)
-- [You can now view the Activity Log at a project-level](https://vercel.com/changelog/you-can-now-view-the-activity-log-at-a-project-level) (2026-07-07)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) (2026-07-08)
 - [Cloudflare proudly joins the UK government's Cyber Resilience Pledge](https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/) (2026-07-07)
 - [Your Worker can now have its own cache in front of it](https://blog.cloudflare.com/workers-cache/) (2026-07-06)
 - [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) (2026-07-01)
 - [Content Independence Day, one year on: building the business model for the agentic Internet](https://blog.cloudflare.com/agentic-internet-bot-report/) (2026-07-01)
-- [Making AI search smarter](https://blog.cloudflare.com/making-ai-search-smarter/) (2026-07-01)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Inside the Subspace Where Spurious Correlations Are Born](https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/) (2026-07-08)
+- [The Threshold Is a Price, Not a Percentage](https://towardsdatascience.com/the-threshold-is-a-price-not-a-percentage/) (2026-07-08)
 - [Information Theory and Ensemble Models](https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/) (2026-07-08)
 - [Granger Causal Networks and Indirect Feedback](https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/) (2026-07-08)
 - [Measuring Structure Stability of Econometric Models](https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/) (2026-07-08)
-- [A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers](https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/) (2026-07-07)
-- [Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation](https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/) (2026-07-07)
 
 </details>
 
