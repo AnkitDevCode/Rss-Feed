@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/) (2026-07-07)
+- [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/) (2026-07-07)
+- [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) (2026-07-07)
+- [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/) (2026-07-07)
 - [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/) (2026-07-07)
-- [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/) (2026-07-07)
-- [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/) (2026-07-07)
-- [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/) (2026-07-07)
-- [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/) (2026-07-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Davit, a Apple Containers UI](https://davit.app) (2026-07-07)
-- [Ask HN: Is GitHub preparing to go behind a login wall?](https://news.ycombinator.com/item?id=48821803) (2026-07-07)
-- [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/) (2026-07-07)
-- [Decrypting View State Messages](https://zeroed.tech/blog/decrypting-viewstate-messages/) (2026-07-07)
-- [Astro 7.0](https://astro.build/blog/astro-7/) (2026-07-07)
+- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/) (2026-07-08)
+- [Rlm-Workflow](https://try.works/projects#rlm-workflow) (2026-07-08)
+- [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/) (2026-07-08)
+- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) (2026-07-08)
+- [Show HN: Fortress – a stealth Chromium so your agents stop getting blocked](https://github.com/tiliondev/fortress) (2026-07-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update) (2026-07-07)
+- [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok) (2026-07-07)
+- [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming) (2026-07-07)
+- [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram) (2026-07-07)
 - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content) (2026-07-07)
-- [The ‘G-Wagen of golf carts’ could be the ideal second car](https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs) (2026-07-07)
-- [ABC tells the government to get out of its newsrooms](https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech) (2026-07-07)
-- [Anthropic is launching Claude Cowork on mobile and web](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web) (2026-07-07)
-- [Google announces Pixel 11 launch event in August](https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event) (2026-07-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google's Pixel 11 launch event is set for August 12, with possible price increases](https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/) (2026-07-07)
-- [The Weather Channel increases streaming subscription prices by up to $20](https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/) (2026-07-07)
-- [The Nintendo Switch's days are numbered—but what is that number?](https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/) (2026-07-07)
-- [This race car is made from plant fibers, volcanoes, ... and seawater?](https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/) (2026-07-07)
-- [Facing US export controls, China's DeepSeek plans to make its own chips](https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/) (2026-07-07)
+- [Michigan sees explosive outbreak of diarrheal parasite with over 700 cases](https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/) (2026-07-07)
+- [Data centers’ energy demand threatens Trump’s “Made in America” plan](https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/) (2026-07-07)
+- [Surprisingly large number of people may have marker for tick-linked meat allergy](https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/) (2026-07-07)
+- [SCOTUS lets Texas enforce app store law that Big Tech calls "censorship regime"](https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/) (2026-07-07)
+- [Bethesda, id Software reportedly hit hard by Microsoft layoffs](https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/) (2026-07-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 We're Hiring Software Engineers at 10xHire](https://dev.to/shivanshu814/were-hiring-software-engineers-at-10xhire-1g0h) (2026-07-07)
-- [I Benchmarked China's Top 4 LLMs — The Numbers Don't Lie](https://dev.to/rileykim/i-benchmarked-chinas-top-4-llms-the-numbers-dont-lie-40d2) (2026-07-07)
-- [How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about](https://dev.to/mbilalkhan192003/how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-3239) (2026-07-07)
-- [Atlases: 16 Interactive Learning Guides That Run Code in Your Browser](https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650) (2026-07-07)
-- [Scrapling MCP: Giving Claude Code a Real Web Scraper](https://dev.to/bsymbolic/scrapling-mcp-giving-claude-code-a-real-web-scraper-3j04) (2026-07-07)
+- [O que é uma rede e como a Internet funciona?](https://dev.to/lucassfernando/o-que-e-uma-rede-e-como-a-internet-funciona-4f0m) (2026-07-08)
+- [AI Builders Do Not Need More Cold Outreach. They Need Private Introductions.](https://dev.to/usepairoa/ai-builders-do-not-need-more-cold-outreach-they-need-private-introductions-1pbo) (2026-07-08)
+- [Toward an AI Operating System: Context Engineering as the First Runtime Primitive](https://dev.to/orieken/toward-an-ai-operating-system-context-engineering-as-the-first-runtime-primitive-58go) (2026-07-08)
+- [Pick your first AI model from evidence, not memory](https://dev.to/edward_li_71f26791eac62b8/pick-your-first-ai-model-from-evidence-not-memory-1c33) (2026-07-08)
+- [Do not choose an AI model from a leaderboard alone](https://dev.to/edward_li_71f26791eac62b8/do-not-choose-an-ai-model-from-a-leaderboard-alone-26c2) (2026-07-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Practice Algorithms and DS the Structured Way](https://medium.com/deuk/practice-algorithms-and-ds-the-structured-way-147f881eb243?source=rss------programming-5) (2026-07-07)
-- [Simple zine text example + Zine synthesis!](https://medium.com/@screwlisp/simple-zine-text-example-zine-synthesis-5a38da847214?source=rss------programming-5) (2026-07-07)
-- [Generic Methods Are Coming in Go 1.27 — and It’s the End of the Go Rob Pike Designed](https://medium.com/@the_atomic_architect/go-generic-methods-go-1-27-6483d7f85e6a?source=rss------programming-5) (2026-07-07)
-- [Best Coding Platform to Start Coding in 2026: Why Beginners Should Choose the Right Platform](https://medium.com/@flycodx/best-coding-platform-to-start-coding-in-2026-why-beginners-should-choose-the-right-platform-d719ec8aae91?source=rss------programming-5) (2026-07-07)
-- [Before You Switch From Claude Code to Codex, Look at Your Own Data](https://stevie658jjh.medium.com/before-you-switch-from-claude-code-to-codex-look-at-your-own-data-df48c5e48abc?source=rss------programming-5) (2026-07-07)
+- [My Favourite High-Probability Intraday Setup](https://medium.com/@sayedali_3166/my-favourite-high-probability-intraday-setup-3a101bfeb545?source=rss------programming-5) (2026-07-08)
+- [Dark Coding Music for the Bug That Won’t Let You Sleep](https://medium.com/@builderprotocol/dark-coding-music-for-the-bug-that-wont-let-you-sleep-e098ffaa86f4?source=rss------programming-5) (2026-07-08)
+- [ How Redis Works Internally: The Secret Behind Millions of Operations Per Second](https://sauravsku.medium.com/how-redis-works-internally-the-secret-behind-millions-of-operations-per-second-64c92304b49f?source=rss------programming-5) (2026-07-08)
+- [Prompt Engineering Had a Good Run. The New Job Is Loop Engineering — Here’s the Complete Blueprint.](https://medium.com/@reactjsbd/prompt-engineering-had-a-good-run-the-new-job-is-loop-engineering-heres-the-complete-blueprint-15033f18adf2?source=rss------programming-5) (2026-07-08)
+- [How Golang Changed My Career as a Software Engineer](https://medium.com/@m.khurshidshah786/how-golang-changed-my-career-as-a-software-engineer-8e6a82f6a8a7?source=rss------programming-5) (2026-07-08)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel) (2026-07-08)
+- [Chat SDK now supports Vercel Connect](https://vercel.com/changelog/chat-sdk-vercel-connect) (2026-07-08)
+- [Chat SDK adds Dial support](https://vercel.com/changelog/chat-sdk-adds-dial-support) (2026-07-08)
+- [Chat SDK adds Photon support](https://vercel.com/changelog/chat-sdk-adds-photon-support) (2026-07-08)
 - [You can now view the Activity Log at a project-level](https://vercel.com/changelog/you-can-now-view-the-activity-log-at-a-project-level) (2026-07-07)
-- [Vercel acquires Better Auth to accelerate open source auth](https://vercel.com/blog/vercel-acquires-better-auth) (2026-07-07)
-- [More granular observability for Vercel Sandbox](https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox) (2026-07-07)
-- [Give your eve agent GitHub tools](https://vercel.com/changelog/github-tools-eve) (2026-07-07)
-- [Vercel Sandbox now supports FUSE-based filesystems](https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems) (2026-07-03)
 
 </details>
 
@@ -548,22 +548,22 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-examples-use-cases
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) (2026-07-07)
 - [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) (2026-07-07)
 - [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage) (2026-07-07)
 - [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) (2026-07-07)
 - [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) (2026-07-06)
-- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) (2026-07-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Information Theory and Ensemble Models](https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/) (2026-07-08)
+- [Granger Causal Networks and Indirect Feedback](https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/) (2026-07-08)
+- [Measuring Structure Stability of Econometric Models](https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/) (2026-07-08)
 - [A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers](https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/) (2026-07-07)
 - [Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation](https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/) (2026-07-07)
-- [Identifying Microbes in Space](https://towardsdatascience.com/space-mould/) (2026-07-07)
-- [Survival Analysis for Data Drift and ML Reliability](https://towardsdatascience.com/survival-analysis-for-data-drift-and-ml-reliability/) (2026-07-07)
-- [How to Run End-to-End Tests with Claude Code](https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/) (2026-07-06)
 
 </details>
 
