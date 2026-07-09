@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users](https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/) (2026-07-09)
+- [Character.AI enters the microdrama arena with its own productions, but there’s a twist](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/) (2026-07-09)
+- [Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund](https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/) (2026-07-09)
 - [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/) (2026-07-09)
 - [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/) (2026-07-08)
-- [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/) (2026-07-08)
-- [Feds demand autonomous vehicle companies stop interfering with first responders](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/) (2026-07-08)
-- [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/) (2026-07-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/) (2026-07-09)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) (2026-07-09)
-- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) (2026-07-09)
-- [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/) (2026-07-09)
-- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming) (2026-07-09)
+- [Show HN: Analog Watch](https://analog.watch) (2026-07-09)
+- [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt) (2026-07-09)
+- [Maxwell's Equations Were Discovered [video]](https://www.youtube.com/watch?v=-hua8RWopfw) (2026-07-09)
+- [Transparency efforts behind the Helium Browser](https://helium.computer/blog/transparency) (2026-07-09)
+- [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1) (2026-07-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai) (2026-07-08)
-- [Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder) (2026-07-08)
-- [Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs) (2026-07-08)
-- [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty) (2026-07-08)
-- [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review) (2026-07-08)
+- [Sonos Ace wireless headphones are steeply discounted](https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale) (2026-07-09)
+- [The PocketMage resurrects the PDA with an e-paper screen](https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply) (2026-07-09)
+- [Sony brings back the superzoom RX10 with a stacked sensor and a high price](https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on) (2026-07-09)
+- [Comcast is breaking up with NBCU. Why did it ever buy it in the first place?](https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband) (2026-07-09)
+- [Meta says its new AI model is ready to compete on coding](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api) (2026-07-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Free Waymo rides in California? You can thank a regulatory quirk.](https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/) (2026-07-09)
+- [The newest entrant in the military’s launch competition isn't actually a launch company](https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/) (2026-07-09)
+- [Payloads used to dictate the terms of launch. That's finally changing.](https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/) (2026-07-09)
 - [Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/) (2026-07-08)
 - [Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself](https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/) (2026-07-08)
-- [Judge rejects Kalshi attempt to override New York state gambling laws](https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/) (2026-07-08)
-- [Google pays $250K for Linux vulnerability allowing guest VM escapes](https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/) (2026-07-08)
-- [Aussie gov't tells volunteers to throw out thousands of functioning test routers](https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/) (2026-07-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a nuclear landmark, and China eyes Nvidia chips](https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/) (2026-07-09)
 - [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) (2026-07-09)
 - [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) (2026-07-08)
 - [The Download: worms fight pollution, and geoengineering faces reality](https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/) (2026-07-08)
 - [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
-- [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) (2026-07-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [4 Cool Open-Source Hardware Projects to Spark Your Next Build](https://dev.to/lucas_ding/4-cool-open-source-hardware-projects-to-spark-your-next-build-5cl6) (2026-07-09)
-- [Robinhood Chain Goes Live, Agentic Payments Take Shape, Updated Lean Ethereum Roadmap](https://dev.to/etherspot/robinhood-chain-goes-live-agentic-payments-take-shape-updated-lean-ethereum-roadmap-fpo) (2026-07-09)
-- [Your Data Pipeline Is Probably More Fragile Than You Think](https://dev.to/sampada_sharma_842c114249/your-data-pipeline-is-probably-more-fragile-than-you-think-3bc9) (2026-07-09)
-- [OLTP vs OLAP : Understanding the Foundation of Modern Data Systems](https://dev.to/sirsona/oltp-vs-olap-understanding-the-foundation-of-modern-data-systems-3agm) (2026-07-09)
-- [Modernising the Lifted Workload: The Architectural Decisions That Separate Cloud-Native from Cloud-Hosted](https://dev.to/aloknecessary/modernising-the-lifted-workload-the-architectural-decisions-that-separate-cloud-native-from-2omp) (2026-07-09)
+- [Thursday Thoughts: Why Anthropic Is the Next AWS, but Potentially Worse](https://dev.to/carryologist/thursday-thoughts-why-anthropic-is-the-next-aws-but-potentially-worse-4e8i) (2026-07-09)
+- [Data Types](https://dev.to/keerthana_2004/data-types-and-variables-1bk4) (2026-07-09)
+- [Meta-Cognition Is the Future of AI Personalization — A 4-Quadrant Framework to Build It](https://dev.to/yuhaolin2005/meta-cognition-is-the-future-of-ai-personalization-a-4-quadrant-framework-to-build-it-5fki) (2026-07-09)
+- [Unboxable in Tech: The Evidence Locker](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4) (2026-07-09)
+- [Building a Secure Authentication System](https://dev.to/codemaster_121482/building-a-secure-authentication-system-dch) (2026-07-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [SDD vs. Model-Driven Development: Why History Is Repeating Itself](https://medium.com/@wasowski.jarek/sdd-vs-model-driven-development-why-history-is-repeating-itself-948ce89a6b50?source=rss------programming-5) (2026-07-09)
-- [I ran GTA San Andreas on my own engine in the browser — solo with Claude, in 3 weeks](https://medium.com/@gooddev.sergey/i-ran-gta-san-andreas-on-my-own-engine-in-the-browser-solo-with-claude-in-3-weeks-d77947dcc3b2?source=rss------programming-5) (2026-07-09)
-- [I’m building a course on Cursor — help me make it right for you!](https://medium.com/realworld-ai-use-cases/im-building-a-course-on-cursor-help-me-make-it-right-for-you-70ecf1dc8ced?source=rss------programming-5) (2026-07-09)
-- [du -sh vs du -ah](https://medium.com/@nirbhaysingh281/du-sh-vs-du-ah-76005757ed8c?source=rss------programming-5) (2026-07-09)
-- [Building a RAG Application with Spring Boot and Vector Databases](https://medium.com/codetodeploy/building-a-rag-application-with-spring-boot-and-vector-databases-216a811b9c85?source=rss------programming-5) (2026-07-09)
+- [One Wildcard Character — $88,337 from Google: How brutecat Broke Cloud Tenant Isolation — A…](https://medium.com/@vivekps143/one-wildcard-character-88-337-from-google-how-brutecat-broke-cloud-tenant-isolation-a-7110a0efaa30?source=rss------programming-5) (2026-07-09)
+- [SELECT FOR UPDATE Skipped in Code Review. We Double-Booked 340 Seats.](https://python.plainenglish.io/select-for-update-skipped-in-code-review-we-double-booked-340-seats-97a673ef4073?source=rss------programming-5) (2026-07-09)
+- [Why relying solely on high-level Python libraries is limiting your growth as an AI professional…](https://medium.com/@anasahmedadawy/why-relying-solely-on-high-level-python-libraries-is-limiting-your-growth-as-an-ai-professional-8a18dad3d7a9?source=rss------programming-5) (2026-07-09)
+- [Why Unoptimized Images Are Secretly Ruining Your Web App’s SEO and User Experience](https://mazharuldmweb.medium.com/why-unoptimized-images-are-secretly-ruining-your-web-apps-seo-and-user-experience-e72f92f24c69?source=rss------programming-5) (2026-07-09)
+- [We Resolved the Merge Conflict Wrong. The Hotfix Shipped Last Week’s Code.](https://medium.com/engineering-playbook/we-resolved-the-merge-conflict-wrong-the-hotfix-shipped-last-weeks-code-1c74dfe72cbd?source=rss------programming-5) (2026-07-09)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
-- [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/) (2026-07-09)
 - [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) (2026-07-08)
 - [AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters](https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/) (2026-07-07)
 - [NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/) (2026-07-07)
 - [How Open Models Are Driving AI Research](https://blogs.nvidia.com/blog/open-models-icml-2026/) (2026-07-06)
-- [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/) (2026-07-06)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Green DevOps: Why carbon measurement belongs in your CI/CD pipeline](https://about.gitlab.com/blog/green-devops-carbon-measurement-cicd-pipeline/) (2026-07-09)
 - [GitLab Patch Release: 19.1.2, 19.0.4, 18.11.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-2-released/) (2026-07-08)
 - [How we used AI agents to migrate GitLab rate limiting](https://about.gitlab.com/blog/ai-agents-for-migrating-rate-limiting-system/) (2026-07-08)
 - [Keep your GitLab seats in check with restricted access](https://about.gitlab.com/blog/gitlab-restricted-access-improvements/) (2026-07-06)
 - [GitLab Patch Release: 18.8.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-8-11-released/) (2026-07-01)
-- [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/) (2026-06-30)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Why we cannot wait for better post-quantum signature algorithms](https://blog.cloudflare.com/ml-dsa-will-have-to-do/) (2026-07-09)
 - [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) (2026-07-08)
 - [Cloudflare proudly joins the UK government's Cyber Resilience Pledge](https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/) (2026-07-07)
 - [Your Worker can now have its own cache in front of it](https://blog.cloudflare.com/workers-cache/) (2026-07-06)
 - [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) (2026-07-01)
-- [Content Independence Day, one year on: building the business model for the agentic Internet](https://blog.cloudflare.com/agentic-internet-bot-report/) (2026-07-01)
 
 </details>
 
@@ -559,22 +559,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>🤖 AI News</summary>
 
+- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
 - [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
 - [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
 - [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
 - [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
-- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents](https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/) (2026-07-09)
+- [Where Does an AI’s Personality Actually Come From?](https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/) (2026-07-09)
 - [The Real Challenge Limiting AI Models Today](https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/) (2026-07-08)
 - [Redesign Work Before You Add More AI Agents](https://towardsdatascience.com/redesign-work-before-you-add-more-ai-agents/) (2026-07-08)
 - [Inside the Subspace Where Spurious Correlations Are Born](https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/) (2026-07-08)
-- [The Threshold Is a Price, Not a Percentage](https://towardsdatascience.com/the-threshold-is-a-price-not-a-percentage/) (2026-07-08)
-- [Information Theory and Ensemble Models](https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/) (2026-07-08)
 
 </details>
 
@@ -592,11 +592,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Running OpenClaw with Ollama](https://www.kdnuggets.com/running-openclaw-with-ollama) (2026-07-09)
+- [7 Steps to Automating Descriptive Statistics with Python](https://www.kdnuggets.com/7-steps-to-automating-descriptive-statistics-with-python) (2026-07-09)
 - [How to Clean Messy CSV Files with Python: A Beginner’s Guide](https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide) (2026-07-08)
 - [SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?](https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best) (2026-07-07)
 - [Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images](https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images) (2026-07-07)
-- [10 Probability Concepts for Machine Learning Explained Simply](https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply) (2026-07-07)
-- [Data Scientists Are Becoming AI Managers, Not Model Builders](https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders) (2026-07-06)
 
 </details>
 
