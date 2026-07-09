@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Elon Musk says X will send DMs when posts you’ve engaged with are corrected](https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/) (2026-07-08)
-- [Google Photos adds a new AI ‘Video Remix’ tool](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/) (2026-07-08)
-- [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/) (2026-07-08)
-- [Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.](https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/) (2026-07-08)
-- [OpenAI releases new voice models for more natural live conversations](https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/) (2026-07-08)
+- [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/) (2026-07-09)
+- [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/) (2026-07-08)
+- [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/) (2026-07-08)
+- [Feds demand autonomous vehicle companies stop interfering with first responders](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/) (2026-07-08)
+- [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/) (2026-07-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997) (2026-07-08)
-- [Grok 4.5](https://x.ai/news/grok-4-5) (2026-07-08)
-- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) (2026-07-08)
-- [PlayStation can delete all your digital games after 3 years of inactivity (EU)](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582) (2026-07-08)
-- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview) (2026-07-08)
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) (2026-07-09)
+- [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) (2026-07-09)
+- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) (2026-07-09)
+- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/) (2026-07-09)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) (2026-07-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai) (2026-07-08)
+- [Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder) (2026-07-08)
 - [Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs) (2026-07-08)
 - [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty) (2026-07-08)
 - [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review) (2026-07-08)
-- [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma) (2026-07-08)
-- [Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale) (2026-07-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/) (2026-07-08)
+- [Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself](https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/) (2026-07-08)
+- [Judge rejects Kalshi attempt to override New York state gambling laws](https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/) (2026-07-08)
+- [Google pays $250K for Linux vulnerability allowing guest VM escapes](https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/) (2026-07-08)
 - [Aussie gov't tells volunteers to throw out thousands of functioning test routers](https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/) (2026-07-08)
-- [TikTok users don't have as much agency over their FYPs as they think](https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/) (2026-07-08)
-- [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/) (2026-07-08)
-- [Miami-based City Labs achieves a first for commercial nuclear power in space](https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/) (2026-07-08)
-- [Google updates Android Bench with new LLMs, but Gemini still lags behind](https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/) (2026-07-08)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/) (2026-07-08)
+- [GitHub availability report: June 2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/) (2026-07-08)
 - [How GitHub Copilot enables zero DNS configuration for GitHub Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/) (2026-07-08)
 - [Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide](https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/) (2026-07-07)
 - [How GitHub used secret scanning to reach inbox zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) (2026-07-02)
-- [6 security settings every GitHub maintainer should enable this week](https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/) (2026-07-01)
-- [How GitHub maintains compliance for open source dependencies](https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/) (2026-06-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4) (2026-07-08)
-- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j) (2026-07-08)
-- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo) (2026-07-08)
-- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo) (2026-07-08)
-- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k) (2026-07-08)
+- [What makes an HTML website template actually useful for developers and small businesses?](https://dev.to/_909943fe1be4e14c3390f/what-makes-an-html-website-template-actually-useful-for-developers-and-small-businesses-55ge) (2026-07-09)
+- [React useLocalStorage Hook: SSR-Safe Persistent State (2026)](https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43) (2026-07-09)
+- [When AI Agents Write the Code, What's Missing Are the Reins — Introducing basou](https://dev.to/takashimatsuyama/when-ai-agents-write-the-code-whats-missing-are-the-reins-introducing-basou-1m62) (2026-07-09)
+- [Benchmarking Mitii AI Agent: 78% Success Rate on 500+ Tasks Using a Local Qwen3-Coder (30B)](https://dev.to/codewithshinde/benchmarking-mitii-ai-agent-78-success-rate-on-500-tasks-using-a-local-qwen3-coder-30b-134g) (2026-07-09)
+- [Three pitfalls in a dashboard cache lifetime — boot-time restore, TTL, and partial invalidation](https://dev.to/susumun/three-pitfalls-in-a-dashboard-cache-lifetime-boot-time-restore-ttl-and-partial-invalidation-42pp) (2026-07-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The MCP Ecosystem in Mid 2026: Which Servers Are Actually Worth Adding to Your Stack](https://medium.com/@mudassir00seven/the-mcp-ecosystem-in-mid-2026-which-servers-are-actually-worth-adding-to-your-stack-3cbbf0f0fe36?source=rss------programming-5) (2026-07-08)
-- [Why I Started Refactoring Old Exercises](https://medium.com/@scosmexs/why-i-started-refactoring-old-exercises-9daf1d014f3a?source=rss------programming-5) (2026-07-08)
-- [Security Review, Audit, Pentest ต่างกันตรงไหน ต้องทำอะไรก่อน Launch](https://medium.com/algorithmtut/security-review-audit-pentest-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%99-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-launch-bb94dc79967f?source=rss------programming-5) (2026-07-08)
-- [OWASP Top 10 ฉบับที่ต้องรู้จริง ไม่ต้องท่องทั้ง 10 ข้อ](https://medium.com/algorithmtut/owasp-top-10-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87-10-%E0%B8%82%E0%B9%89%E0%B8%AD-004afb8c45ed?source=rss------programming-5) (2026-07-08)
-- [The TLS Handshake: What Happens Before Your Request Is Even HTTP](https://medium.com/@shivanksingh01/the-tls-handshake-what-happens-before-your-request-is-even-http-600398224b7c?source=rss------programming-5) (2026-07-08)
+- [Windows CMD vs PowerShell: What Is the Difference and Which One Should You Use?](https://pawannatekar220.medium.com/windows-cmd-vs-powershell-what-is-the-difference-and-which-one-should-you-use-4b08e83563fe?source=rss------programming-5) (2026-07-09)
+- [reCAPTCHA: The Biggest AI Project You Never Knew You Worked On](https://medium.com/@zaid.writes/recaptcha-the-biggest-ai-project-you-never-knew-you-worked-on-a6ea95c07107?source=rss------programming-5) (2026-07-09)
+- [This TradingView Indicator Feels Like Cheating… Here’s Why](https://medium.com/@sayedali_3166/this-tradingview-indicator-feels-like-cheating-heres-why-8db6274ee799?source=rss------programming-5) (2026-07-09)
+- [Your AI is dumb, and MCP Is Why That’s Fixable](https://medium.com/analysts-corner/your-ai-is-dumb-and-mcp-is-why-thats-fixable-9c24146b6c5a?source=rss------programming-5) (2026-07-09)
+- [Richard Feynman’s Genius Wasn’t Talent — It Was This Simple Thinking Habit](https://medium.com/@ahmadirfan44343/richard-feynmans-genius-wasn-t-talent-it-was-this-simple-thinking-habit-eb5a4c34c4e4?source=rss------programming-5) (2026-07-09)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Agent: An agent you can let near production](https://vercel.com/blog/vercel-agent) (2026-07-08)
 - [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway) (2026-07-08)
 - [Update Project Settings from the Vercel CLI](https://vercel.com/changelog/update-project-settings-from-the-vercel-cli) (2026-07-08)
 - [Vercel Microfrontends checks for missing configuration](https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration) (2026-07-08)
 - [Flags SDK now evaluates flags 10x faster](https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster) (2026-07-08)
-- [Use any Chat SDK adapter with eve](https://vercel.com/changelog/eve-chat-sdk-channel) (2026-07-08)
 
 </details>
 
@@ -557,6 +557,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
+- [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
+- [Takeda signs $600M AI drug discovery deal with Insilico](https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/) (2026-07-03)
+- [NVIDIA BioNeMo accelerates Anthropic Claude Science](https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/) (2026-07-02)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [The Real Challenge Limiting AI Models Today](https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/) (2026-07-08)
@@ -570,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/real-time-sp
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepSeek DSpark: The Speculative Decoding Trick Behind 400% Faster LLM ](https://www.analyticsvidhya.com/blog/2026/07/deepseek-dspark-speculative-decoding/) (2026-07-08)
 - [OKF: Redefining Knowledge Bases for AI Agents](https://www.analyticsvidhya.com/blog/2026/07/open-knowledge-format-okf/) (2026-07-07)
 - [Modern VLMs Explained: How GPT-4o, Gemini, Claude Vision, and Qwen-VL Work ](https://www.analyticsvidhya.com/blog/2026/07/modern-vlms-explained/) (2026-07-06)
 - [YOLO26 Tutorial: Object Detection, Pose Estimation & More](https://www.analyticsvidhya.com/blog/2026/07/yolo26-tutorial/) (2026-07-04)
 - [Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/) (2026-07-03)
-- [Claude Sonnet 5: The Fable 5 at Home](https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/) (2026-06-30)
 
 </details>
 
