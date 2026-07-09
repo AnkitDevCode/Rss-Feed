@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) (2026-07-09)
-- [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) (2026-07-09)
-- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) (2026-07-09)
-- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/) (2026-07-09)
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) (2026-07-08)
+- [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/) (2026-07-09)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) (2026-07-09)
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) (2026-07-09)
+- [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/) (2026-07-09)
+- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming) (2026-07-09)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) (2026-07-09)
 - [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) (2026-07-08)
 - [The Download: worms fight pollution, and geoengineering faces reality](https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/) (2026-07-08)
 - [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
 - [The foundational elements of AI architecture that IT leaders need to scale](https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/) (2026-07-07)
-- [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/) (2026-07-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What makes an HTML website template actually useful for developers and small businesses?](https://dev.to/_909943fe1be4e14c3390f/what-makes-an-html-website-template-actually-useful-for-developers-and-small-businesses-55ge) (2026-07-09)
-- [React useLocalStorage Hook: SSR-Safe Persistent State (2026)](https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43) (2026-07-09)
-- [When AI Agents Write the Code, What's Missing Are the Reins — Introducing basou](https://dev.to/takashimatsuyama/when-ai-agents-write-the-code-whats-missing-are-the-reins-introducing-basou-1m62) (2026-07-09)
-- [Benchmarking Mitii AI Agent: 78% Success Rate on 500+ Tasks Using a Local Qwen3-Coder (30B)](https://dev.to/codewithshinde/benchmarking-mitii-ai-agent-78-success-rate-on-500-tasks-using-a-local-qwen3-coder-30b-134g) (2026-07-09)
-- [Three pitfalls in a dashboard cache lifetime — boot-time restore, TTL, and partial invalidation](https://dev.to/susumun/three-pitfalls-in-a-dashboard-cache-lifetime-boot-time-restore-ttl-and-partial-invalidation-42pp) (2026-07-09)
+- [4 Cool Open-Source Hardware Projects to Spark Your Next Build](https://dev.to/lucas_ding/4-cool-open-source-hardware-projects-to-spark-your-next-build-5cl6) (2026-07-09)
+- [Robinhood Chain Goes Live, Agentic Payments Take Shape, Updated Lean Ethereum Roadmap](https://dev.to/etherspot/robinhood-chain-goes-live-agentic-payments-take-shape-updated-lean-ethereum-roadmap-fpo) (2026-07-09)
+- [Your Data Pipeline Is Probably More Fragile Than You Think](https://dev.to/sampada_sharma_842c114249/your-data-pipeline-is-probably-more-fragile-than-you-think-3bc9) (2026-07-09)
+- [OLTP vs OLAP : Understanding the Foundation of Modern Data Systems](https://dev.to/sirsona/oltp-vs-olap-understanding-the-foundation-of-modern-data-systems-3agm) (2026-07-09)
+- [Modernising the Lifted Workload: The Architectural Decisions That Separate Cloud-Native from Cloud-Hosted](https://dev.to/aloknecessary/modernising-the-lifted-workload-the-architectural-decisions-that-separate-cloud-native-from-2omp) (2026-07-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Windows CMD vs PowerShell: What Is the Difference and Which One Should You Use?](https://pawannatekar220.medium.com/windows-cmd-vs-powershell-what-is-the-difference-and-which-one-should-you-use-4b08e83563fe?source=rss------programming-5) (2026-07-09)
-- [reCAPTCHA: The Biggest AI Project You Never Knew You Worked On](https://medium.com/@zaid.writes/recaptcha-the-biggest-ai-project-you-never-knew-you-worked-on-a6ea95c07107?source=rss------programming-5) (2026-07-09)
-- [This TradingView Indicator Feels Like Cheating… Here’s Why](https://medium.com/@sayedali_3166/this-tradingview-indicator-feels-like-cheating-heres-why-8db6274ee799?source=rss------programming-5) (2026-07-09)
-- [Your AI is dumb, and MCP Is Why That’s Fixable](https://medium.com/analysts-corner/your-ai-is-dumb-and-mcp-is-why-thats-fixable-9c24146b6c5a?source=rss------programming-5) (2026-07-09)
-- [Richard Feynman’s Genius Wasn’t Talent — It Was This Simple Thinking Habit](https://medium.com/@ahmadirfan44343/richard-feynmans-genius-wasn-t-talent-it-was-this-simple-thinking-habit-eb5a4c34c4e4?source=rss------programming-5) (2026-07-09)
+- [SDD vs. Model-Driven Development: Why History Is Repeating Itself](https://medium.com/@wasowski.jarek/sdd-vs-model-driven-development-why-history-is-repeating-itself-948ce89a6b50?source=rss------programming-5) (2026-07-09)
+- [I ran GTA San Andreas on my own engine in the browser — solo with Claude, in 3 weeks](https://medium.com/@gooddev.sergey/i-ran-gta-san-andreas-on-my-own-engine-in-the-browser-solo-with-claude-in-3-weeks-d77947dcc3b2?source=rss------programming-5) (2026-07-09)
+- [I’m building a course on Cursor — help me make it right for you!](https://medium.com/realworld-ai-use-cases/im-building-a-course-on-cursor-help-me-make-it-right-for-you-70ecf1dc8ced?source=rss------programming-5) (2026-07-09)
+- [du -sh vs du -ah](https://medium.com/@nirbhaysingh281/du-sh-vs-du-ah-76005757ed8c?source=rss------programming-5) (2026-07-09)
+- [Building a RAG Application with Spring Boot and Vector Databases](https://medium.com/codetodeploy/building-a-rag-application-with-spring-boot-and-vector-databases-216a811b9c85?source=rss------programming-5) (2026-07-09)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 - [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
-- [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
 
 </details>
 
