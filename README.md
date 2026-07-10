@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Florida ransomware negotiator convicted for helping ransomware gang extort US companies](https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/) (2026-07-10)
-- [After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/) (2026-07-10)
-- [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/) (2026-07-10)
-- [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/) (2026-07-10)
-- [Fidji Simo steps down from OpenAI’s No. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) (2026-07-09)
+- [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/) (2026-07-10)
+- [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/) (2026-07-10)
+- [A new app, HyperTexting, turns the open web into a scrollable social media-like feed](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/) (2026-07-10)
+- [China is catching up to Elon Musk’s reusable rockets](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/) (2026-07-10)
+- [Disney+ is considering a free streaming tier, report says](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ActivityPub over ATProto](https://berjon.com/ap-at/) (2026-07-10)
-- [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc) (2026-07-10)
-- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it) (2026-07-10)
-- [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/) (2026-07-10)
-- [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html) (2026-07-10)
+- [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism) (2026-07-10)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) (2026-07-10)
+- [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) (2026-07-10)
+- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) (2026-07-10)
+- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I’m filling in at The Verge for 6 weeks. Ask me anything!](https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything) (2026-07-10)
-- [Empathy for the optimizers](https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health) (2026-07-10)
-- [Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters) (2026-07-10)
-- [Would you host part of an AI data center in your home?](https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center) (2026-07-10)
-- [Xreal&#8217;s new AR glasses are way cheaper and almost just right](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (2026-07-10)
+- [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo) (2026-07-10)
+- [Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut) (2026-07-10)
+- [Spotify will let you fine-tune your weekly Release Radar playlist](https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls) (2026-07-10)
+- [Netflix is turning into YouTube](https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast) (2026-07-10)
+- [Disney Plus is reportedly looking into a free streaming tier](https://www.theverge.com/streaming/964056/disney-plus-free-tier-report) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [VW Group and unions disagree on plan to streamline the automaker](https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/) (2026-07-10)
+- [Disable auto-play and infinite scroll or risk massive fines, EU tells Meta](https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/) (2026-07-10)
+- [NASA sure seems to be asking an awful lot of private space stations](https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/) (2026-07-10)
+- [Volkswagen Group tells its board how to fix it, unions disagree](https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/) (2026-07-10)
 - [Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87](https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/) (2026-07-10)
 - [Is an air-conditioning revolution coming to Europe?](https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/) (2026-07-10)
-- [Rocket Report: "Panic" over Transporter availability; Isar to launch from Canada](https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/) (2026-07-10)
-- [Like a cheat code for your car: We investigate ECU tuning](https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/) (2026-07-10)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) (2026-07-10)
 - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/) (2026-07-09)
 - [Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/) (2026-07-08)
 - [GitHub availability report: June 2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/) (2026-07-08)
 - [How GitHub Copilot enables zero DNS configuration for GitHub Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/) (2026-07-08)
-- [Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide](https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/) (2026-07-07)
 
 </details>
 
@@ -86,28 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Azure Monitoring in Practice: Application Insights and the KQL Queries](https://dev.to/manoharij/azure-monitoring-in-practice-application-insights-and-the-kql-queries-4jbi) (2026-07-10)
-- [Render PDF invoices from an HTML template without putting Chromium in your backend](https://dev.to/clausenetizen/render-pdf-invoices-from-an-html-template-without-putting-chromium-in-your-backend-265n) (2026-07-10)
-- [AI Agents for DevOps in 2026: Tools That Are Actually Worth Using](https://dev.to/ajey_k_b3b392e7c4138059db/ai-agents-for-devops-in-2026-tools-that-are-actually-worth-using-136j) (2026-07-10)
-- [A Study on the I-V Characteristics and Physics of BJT and MOSFET via LTspice](https://dev.to/insu/a-study-on-the-i-v-characteristics-and-physics-of-bjt-and-mosfet-via-ltspice-2ce5) (2026-07-10)
-- [I built an HTTP client in TypeScript that handles auth, encryption, caching, dedup, and pagination - all without any extra packages.
-
-Here is @pings/phtps
-
-Github - https://github.com/sovankandar/Phtps
-
-let me know what is missing. I read all the comments!](https://dev.to/sovan_kandar_cfc10d231218/i-built-an-http-client-in-typescript-that-handles-auth-encryption-caching-dedup-and-pagination-44o7) (2026-07-10)
+- [From Natural Language to SQL with AI: Building an Intelligent SQL Query Generator Using Hugging Face and Streamlit](https://dev.to/vincenzo_rafaelllanosni/from-natural-language-to-sql-with-ai-building-an-intelligent-sql-query-generator-using-hugging-3cgj) (2026-07-10)
+- [I Was Building a Social App. Then I Accidentally Built an AI Startup.](https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj) (2026-07-10)
+- [# GhostLine Development Update: From Features to Stability](https://dev.to/sonu_samrat_a10b0defcb70f/-ghostline-development-update-from-features-to-stability-4946) (2026-07-10)
+- [The Archaeology of Git Blame: Why AI Doesn’t Understand the Panic Behind Your Code](https://dev.to/bhavnish_e35294bf0fd0b2df/the-archaeology-of-git-blame-why-ai-doesnt-understand-the-panic-behind-your-code-5cok) (2026-07-10)
+- [Stop Writing Prompt Strings: Meet PromptForge Core](https://dev.to/pranav_thawait_4c3d1f4766/stop-writing-prompt-strings-meet-promptforge-core-5h63) (2026-07-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Longest Common Prefix(python-leetcode problem)](https://medium.com/@ampatimaneesha/longest-common-prefix-python-leetcode-problem-d4f9cfc6b2d5?source=rss------programming-5) (2026-07-10)
-- [10 Python Automation Scripts That Save Me Hours Every Week](https://medium.com/@fadliyurisman/10-python-automation-scripts-that-save-me-hours-every-week-b9c1a04b1813?source=rss------programming-5) (2026-07-10)
-- [I Thought You Couldn’t Test AI Apps. Then I Built an Eval Pipeline That Caught 47 Regressions.](https://medium.com/@chenyuan19920509/i-thought-you-couldnt-test-ai-apps-then-i-built-an-eval-pipeline-that-caught-47-regressions-e178f581af80?source=rss------programming-5) (2026-07-10)
-- [I tried to own my AI instead of renting it I gave up at the 340-gigabyte mark.](https://medium.com/@fullExpert/i-tried-to-own-my-ai-instead-of-renting-it-i-gave-up-at-the-340-gigabyte-mark-205cac16d832?source=rss------programming-5) (2026-07-10)
-- [Remote sensing — (the thing that finally made it click)](https://medium.com/@veronicakehindeabiodun/remote-sensing-the-thing-that-finally-made-it-click-6891a3a857e0?source=rss------programming-5) (2026-07-10)
+- [E‑‑: The middle ground between English and Python](https://medium.com/@frmoded/e-the-middle-ground-between-english-and-python-5d5393d6b162?source=rss------programming-5) (2026-07-10)
+- [ANN Algorithm Selection Under Production Constraints](https://parasuram19.medium.com/ann-algorithm-selection-under-production-constraints-7de48092e699?source=rss------programming-5) (2026-07-10)
+- [Components vs. Microservices: Why Your “Microservices” Might Actually Be a Monolith in Disguise](https://medium.com/@ojwiya/components-vs-microservices-why-your-microservices-might-actually-be-a-monolith-in-disguise-7c1e08b47297?source=rss------programming-5) (2026-07-10)
+- [Turing Basic Ruby Interview — Part 5: Rails Essentials Every Developer Must Know (Controllers…](https://medium.com/@hassanobaidkhan999160/turing-basic-ruby-interview-part-5-rails-essentials-every-developer-must-know-controllers-3e344d73590e?source=rss------programming-5) (2026-07-10)
+- [The Kotlin Stdlib Functions You’ve Been Reimplementing by Hand](https://medium.com/@himanshugaur684/the-kotlin-stdlib-functions-youve-been-reimplementing-by-hand-338c8211ca34?source=rss------programming-5) (2026-07-10)
 
 </details>
 
@@ -356,11 +350,11 @@ let me know what is missing. I read all the comments!](https://dev.to/sovan_kand
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Traces now support Tree and Waterfall views](https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views) (2026-07-10)
+- [You can now deploy Lovable apps to Vercel](https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel) (2026-07-09)
 - [Build logs now redact Sensitive Environment Variable values](https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values) (2026-07-09)
 - [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway) (2026-07-09)
 - [GPT 5.6 Sol, Luna, and Terra now available on AI Gateway](https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway) (2026-07-09)
-- [Vercel Agent: An agent you can let near production](https://vercel.com/blog/vercel-agent) (2026-07-08)
-- [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway) (2026-07-08)
 
 </details>
 
@@ -445,10 +439,10 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <summary>🔷 Prisma Blog</summary>
 
 - [npx create-db: Instant Postgres for Your Coding Agent](https://www.prisma.io/blog/give-your-agent-a-database) (2026-07-09)
+- [Serverless Postgres: How It Works and Who Offers It (2026)](https://www.prisma.io/blog/serverless-postgres) (2026-07-09)
+- [TypeScript 7 Native Compiler: 3x Faster Type Checks in a Real Monorepo](https://www.prisma.io/blog/typescript-7-native-compiler-faster-type-checking) (2026-07-09)
 - [Claude Generated 50 Websites Overnight with Prisma Compute](https://www.prisma.io/blog/claude-generated-50-websites-overnight-prisma-compute) (2026-07-01)
 - [Prisma Compute vs Vercel Pricing](https://www.prisma.io/blog/prisma-compute-vs-vercel-pricing) (2026-07-01)
-- [How One Founder Builds a Live Sports Platform with Prisma](https://www.prisma.io/blog/how-xeito-builds-features-not-database-infrastructure-with-prisma) (2026-06-30)
-- [Evaluating Object Storage Providers for Prisma Compute](https://www.prisma.io/blog/evaluating-object-storage-providers-for-prisma-compute) (2026-06-26)
 
 </details>
 
@@ -499,11 +493,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
+- [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
 - [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
+- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
 - [The best Salesforce automation tools in 2026](https://zapier.com/blog/salesforce-automation-tools) (2026-07-09)
 - [How to automate ChatGPT (GPT-5.6 Sol, GPT-5.6 Terra, and more)](https://zapier.com/blog/automate-chatgpt) (2026-07-09)
-- [Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.5 Flash, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-07-09)
 
 </details>
 
@@ -554,11 +548,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels](https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/) (2026-07-10)
 - [PyTorch 2.13 Release Blog](https://pytorch.org/blog/pytorch-2-13-release-blog/) (2026-07-08)
 - [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-06)
 - [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/) (2026-07-03)
 - [Building the Future of On-Device AI at the ExecuTorch Hackathon](https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon/) (2026-07-02)
-- [Shopify Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-07-01)
 
 </details>
 
@@ -576,11 +570,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
+- [PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/) (2026-07-10)
 - [RAG Was Always a Temporary Workaround. What is Next?](https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/) (2026-07-10)
 - [The Big Con of Agentic AI](https://towardsdatascience.com/the-big-con-of-agentic-ai/) (2026-07-10)
 - [Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy](https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/) (2026-07-09)
-- [How to Find the Optimal Coding Agent Interface](https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/) (2026-07-09)
-- [Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents](https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/) (2026-07-09)
 
 </details>
 
