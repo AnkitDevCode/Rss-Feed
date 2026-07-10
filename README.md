@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/) (2026-07-09)
-- [New York Times says OpenAI hid evidence in ChatGPT copyright trial](https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/) (2026-07-09)
-- [Slate Auto teams up with Crayola to color its EV truck](https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/) (2026-07-09)
-- [FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem](https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/) (2026-07-09)
-- [Mercor is in talks for a $20B valuation](https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/) (2026-07-09)
+- [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/) (2026-07-10)
+- [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/) (2026-07-10)
+- [Fidji Simo steps down from OpenAI’s no. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) (2026-07-09)
+- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (2026-07-09)
+- [An AI agent startup just let its agent run its $100M fundraise](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/) (2026-07-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark) (2026-07-09)
-- [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/) (2026-07-09)
-- [How should group chats work in decentralized systems?](https://marindedic.com/groups/) (2026-07-09)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) (2026-07-09)
-- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/) (2026-07-09)
+- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) (2026-07-10)
+- [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) (2026-07-10)
+- [Focus](https://boz.com/articles/focus) (2026-07-10)
+- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are) (2026-07-09)
+- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms) (2026-07-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google&#8217;s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale) (2026-07-09)
-- [Microsoft’s patch Tuesdays are about to get bigger](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates) (2026-07-09)
-- [OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work) (2026-07-09)
-- [Schlage’s Sense Pro unlocks the door so I don’t have to](https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock) (2026-07-09)
-- [Sonos Ace wireless headphones are steeply discounted](https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale) (2026-07-09)
+- [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026) (2026-07-10)
+- [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) (2026-07-09)
+- [Netflix reportedly considers adding always-on channels](https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles) (2026-07-09)
+- [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset) (2026-07-09)
+- [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale) (2026-07-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Judge doesn't like Elon Musk settlement with SEC, but says court can't block it](https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/) (2026-07-09)
-- [OpenAI may have made a fatal misstep in copyright fight with news orgs](https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/) (2026-07-09)
-- [Surprised doctors find 10-inch worm in man's groin during elective surgery](https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/) (2026-07-09)
-- [Conspiracies and regrets abound in Dune: Part Three trailer](https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/) (2026-07-09)
-- [Ruf debuts new flat-eight engine at Goodwood](https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/) (2026-07-09)
+- [Flores Hobbits' eating habits offer clues about their evolutionary past](https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/) (2026-07-09)
+- [Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases](https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/) (2026-07-09)
+- [OpenAI wants its new tool to do your work for you and with you](https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/) (2026-07-09)
+- [Patch for Windows Defender 0-day could allow attackers to fill hard disk](https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/) (2026-07-09)
+- [Allstate accuses Broadcom of auditing it because it quit VMware, CA](https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/) (2026-07-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) (2026-07-09)
 - [The Download: a nuclear landmark, and China eyes Nvidia chips](https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/) (2026-07-09)
 - [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) (2026-07-09)
 - [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) (2026-07-08)
 - [The Download: worms fight pollution, and geoengineering faces reality](https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/) (2026-07-08)
-- [The Download: your stake in OpenAI, and the Treasury’s AI warning](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/) (2026-07-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Every AI Agent Eventually Becomes an Operating System](https://dev.to/truehannan/why-every-ai-agent-eventually-becomes-an-operating-system-ljo) (2026-07-09)
-- [Understanding cPanel SMTP Restrictions: Security, External SMTP, and the Trade-Offs](https://dev.to/mshannaq/understanding-cpanel-smtp-restrictions-security-external-smtp-and-the-trade-offs-2n29) (2026-07-09)
-- [5 AI Agent Mistakes That Can Destroy Your Production Database (And How to Fix Them)](https://dev.to/prit_indiangamer_1dfa3c5/5-ai-agent-mistakes-that-can-destroy-your-production-database-and-how-to-fix-them-19o7) (2026-07-09)
-- [Codex is now ChatGPT Codex.](https://dev.to/alexgetmancom/codex-is-now-chatgpt-codex-kjb) (2026-07-09)
-- [I built a security scanner, never shipped it, and finally finished the job](https://dev.to/thisissecurl/i-built-a-security-scanner-never-shipped-it-and-finally-finished-the-job-ipl) (2026-07-09)
+- [Reverse Proxy Setup + SSL Self-Sign (Root CA + Wildcard)](https://dev.to/seno21/reverse-proxy-setup-ssl-self-sign-root-ca-wildcard-59k6) (2026-07-10)
+- [Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn't Know the Knife Was in the Contract.](https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj) (2026-07-10)
+- [Testing Face Embedding Nearest Neighbor Search with OpenCV SFace](https://dev.to/kiarina/testing-face-embedding-nearest-neighbor-search-with-opencv-sface-153j) (2026-07-10)
+- [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5) (2026-07-10)
+- [Sveltekit การทำงานกับ remote function [Part 2]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-2-4l2g) (2026-07-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Object in Your Field Is Not the Object You Wrote](https://medium.com/@rajatraghav7797/the-object-in-your-field-is-not-the-object-you-wrote-c077f16b1e9d?source=rss------programming-5) (2026-07-09)
-- [The Professor Who Invented Silicon Valley](https://medium.com/it-chronicles/the-professor-who-invented-silicon-valley-53fe0140d194?source=rss------programming-5) (2026-07-09)
-- [A County Welcomed 37 Data Centers Then Told Its Schools to Turn Off the Lights](https://medium.com/it-chronicles/a-county-welcomed-37-data-centers-then-told-its-schools-to-turn-off-the-lights-11e7a24fe4fc?source=rss------programming-5) (2026-07-09)
-- [Why agents ignore your CLAUDE.md](https://medium.com/@bartkru/why-agents-ignore-your-claude-md-2149871647ca?source=rss------programming-5) (2026-07-09)
-- [Everything You Know About Palantir Creators Peter Thiel and Alex Karp Is Just the Tip of the…](https://sergeykleftzov.medium.com/everything-you-know-about-palantir-creators-peter-thiel-and-alex-karp-is-just-the-tip-of-the-fcea2eae6f3e?source=rss------programming-5) (2026-07-09)
+- [How to Install WSL2 on Windows: The Complete Beginner’s Guide (2026)](https://pawannatekar220.medium.com/how-to-install-wsl2-on-windows-the-complete-beginners-guide-2026-5682fccf634f?source=rss------programming-5) (2026-07-10)
+- [Can Your Mindset Influence Your Health? The Science Behind Positive Thinking](https://medium.com/@Deservecure.io/can-your-mindset-influence-your-health-the-science-behind-positive-thinking-5d466b20de1e?source=rss------programming-5) (2026-07-10)
+- [Zed vs VS Code: When Switching Editors Is Actually Worth It](https://medium.com/@yalovoy/zed-vs-vs-code-when-switching-editors-is-actually-worth-it-6547b2265a34?source=rss------programming-5) (2026-07-10)
+- [The Bun Rewrite Is Amazing. I Still Don’t Trust It](https://medium.com/@headmonk/the-bun-rewrite-is-amazing-i-still-dont-trust-it-ce85c339e4b9?source=rss------programming-5) (2026-07-10)
+- [The Difference Between Bad, Good, and Great AI Prompts (With Real Examples)](https://levelup.gitconnected.com/the-difference-between-bad-good-and-great-ai-prompts-with-real-examples-bde58cd42c55?source=rss------programming-5) (2026-07-10)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
 - [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
 - [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
 - [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
-- [New domain for Sign in with Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) (2026-06-15)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Build logs now redact Sensitive Environment Variable values](https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values) (2026-07-09)
 - [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway) (2026-07-09)
 - [GPT 5.6 Sol, Luna, and Terra now available on AI Gateway](https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway) (2026-07-09)
 - [Vercel Agent: An agent you can let near production](https://vercel.com/blog/vercel-agent) (2026-07-08)
 - [Grok 4.5 now available on AI Gateway](https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway) (2026-07-08)
-- [Update Project Settings from the Vercel CLI](https://vercel.com/changelog/update-project-settings-from-the-vercel-cli) (2026-07-08)
 
 </details>
 
@@ -487,6 +487,17 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 - [Airtable is now available in AWS Marketplace](https://blog.airtable.com/airtable-available-in-aws-marketplace/) (2024-11-12)
 - [It’s time to change the way we build digital products. Introducing, ProductCentral.](https://blog.airtable.com/change-way-build-digital-products/) (2024-10-15)
 - [New capabilities to unlock agility at scale](https://blog.airtable.com/launching-new-capabilities-for-the-enterprise/) (2024-09-26)
+
+</details>
+
+<details>
+<summary>⚡ Zapier Blog</summary>
+
+- [How to automate ChatGPT (GPT-5.6 Sol, GPT-5.6 Terra, and more)](https://zapier.com/blog/automate-chatgpt) (2026-07-09)
+- [Prevent lock-in with AI model flexibility on Zapier](https://zapier.com/blog/ai-model-flexibility) (2026-07-09)
+- [Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.5 Flash, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-07-09)
+- [The 6 best UiPath alternatives in 2026](https://zapier.com/blog/uipath-alternatives) (2026-07-08)
+- [The 6 best API integration platforms in 2026](https://zapier.com/blog/api-integration-platform) (2026-07-08)
 
 </details>
 
