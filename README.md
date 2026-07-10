@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Florida ransomware negotiator convicted for helping ransomware gang extort US companies](https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/) (2026-07-10)
 - [After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/) (2026-07-10)
 - [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/) (2026-07-10)
 - [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/) (2026-07-10)
-- [Fidji Simo steps down from OpenAI’s no. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) (2026-07-09)
-- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (2026-07-09)
+- [Fidji Simo steps down from OpenAI’s No. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) (2026-07-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) (2026-07-10)
-- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are) (2026-07-09)
-- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms) (2026-07-09)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) (2026-07-09)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) (2026-07-09)
+- [ActivityPub over ATProto](https://berjon.com/ap-at/) (2026-07-10)
+- [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc) (2026-07-10)
+- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it) (2026-07-10)
+- [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/) (2026-07-10)
+- [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026) (2026-07-10)
-- [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) (2026-07-09)
-- [Netflix reportedly considers adding always-on channels](https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles) (2026-07-09)
-- [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset) (2026-07-09)
-- [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale) (2026-07-09)
+- [I’m filling in at The Verge for 6 weeks. Ask me anything!](https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything) (2026-07-10)
+- [Empathy for the optimizers](https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health) (2026-07-10)
+- [Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters) (2026-07-10)
+- [Would you host part of an AI data center in your home?](https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center) (2026-07-10)
+- [Xreal&#8217;s new AR glasses are way cheaper and almost just right](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Flores Hobbits' eating habits offer clues about their evolutionary past](https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/) (2026-07-09)
-- [Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases](https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/) (2026-07-09)
-- [OpenAI wants its new tool to do your work for you and with you](https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/) (2026-07-09)
-- [Patch for Windows Defender 0-day could allow attackers to fill hard disk](https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/) (2026-07-09)
-- [Allstate accuses Broadcom of auditing it because it quit VMware, CA](https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/) (2026-07-09)
+- [VW Group and unions disagree on plan to streamline the automaker](https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/) (2026-07-10)
+- [Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87](https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/) (2026-07-10)
+- [Is an air-conditioning revolution coming to Europe?](https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/) (2026-07-10)
+- [Rocket Report: "Panic" over Transporter availability; Isar to launch from Canada](https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/) (2026-07-10)
+- [Like a cheat code for your car: We investigate ECU tuning](https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Claude’s inner workings and OpenAI’s “super app”](https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/) (2026-07-10)
 - [Sperm donors need limits, says a European fertility group](https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/) (2026-07-10)
 - [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) (2026-07-09)
 - [The Download: a nuclear landmark, and China eyes Nvidia chips](https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/) (2026-07-09)
 - [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) (2026-07-09)
-- [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) (2026-07-08)
 
 </details>
 
@@ -86,22 +86,28 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Trust Is an Engineering Output](https://dev.to/sakurasky/trust-is-an-engineering-output-4g06) (2026-07-10)
-- [One shared AI API key is not a team workflow](https://dev.to/edward_li_71f26791eac62b8/one-shared-ai-api-key-is-not-a-team-workflow-4kcd) (2026-07-10)
-- [Tool calling Returns HTTP 200, But I “Assumed” the Tool Ran — Have You Seen This?](https://dev.to/gwenj/tool-calling-returns-http-200-but-i-assumed-the-tool-ran-have-you-seen-this-50h9) (2026-07-10)
-- [How Spotify Streams Audio and Builds Discover Weekly](https://dev.to/roni_das_b1b76c5ee6583027/how-spotify-streams-audio-and-builds-discover-weekly-51po) (2026-07-10)
-- [How Airbnb Search and Booking Avoid Double-Booking](https://dev.to/roni_das_b1b76c5ee6583027/how-airbnb-search-and-booking-avoid-double-booking-3omf) (2026-07-10)
+- [Azure Monitoring in Practice: Application Insights and the KQL Queries](https://dev.to/manoharij/azure-monitoring-in-practice-application-insights-and-the-kql-queries-4jbi) (2026-07-10)
+- [Render PDF invoices from an HTML template without putting Chromium in your backend](https://dev.to/clausenetizen/render-pdf-invoices-from-an-html-template-without-putting-chromium-in-your-backend-265n) (2026-07-10)
+- [AI Agents for DevOps in 2026: Tools That Are Actually Worth Using](https://dev.to/ajey_k_b3b392e7c4138059db/ai-agents-for-devops-in-2026-tools-that-are-actually-worth-using-136j) (2026-07-10)
+- [A Study on the I-V Characteristics and Physics of BJT and MOSFET via LTspice](https://dev.to/insu/a-study-on-the-i-v-characteristics-and-physics-of-bjt-and-mosfet-via-ltspice-2ce5) (2026-07-10)
+- [I built an HTTP client in TypeScript that handles auth, encryption, caching, dedup, and pagination - all without any extra packages.
+
+Here is @pings/phtps
+
+Github - https://github.com/sovankandar/Phtps
+
+let me know what is missing. I read all the comments!](https://dev.to/sovan_kandar_cfc10d231218/i-built-an-http-client-in-typescript-that-handles-auth-encryption-caching-dedup-and-pagination-44o7) (2026-07-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [aiUnderstanding the Difference Between import.meta.env and process.env](https://medium.com/devmap/aiunderstanding-the-difference-between-import-meta-env-and-process-env-2157263569d8?source=rss------programming-5) (2026-07-10)
-- [How I Built Several Internal Web Apps Using Google Apps Script + ChatGPT (Vibe Coding)](https://medium.com/@rbhamdani/how-i-built-several-internal-web-apps-using-google-apps-script-chatgpt-vibe-coding-2fb1dc601405?source=rss------programming-5) (2026-07-10)
-- [How do hackers bypass two step authentication?](https://medium.com/@kevinchacko58/how-do-hackers-bypass-two-step-authentication-8c02c73c4258?source=rss------programming-5) (2026-07-10)
-- [Learn Java Variables Easily with Practical Examples](https://medium.com/@v2958239/learn-java-variables-easily-with-practical-examples-28651ab58e5f?source=rss------programming-5) (2026-07-10)
-- [Best Skills Every College Student Should Learn in 2026](https://medium.com/@biyanibot.2003/best-skills-every-college-student-should-learn-in-2026-2e926849588a?source=rss------programming-5) (2026-07-10)
+- [Longest Common Prefix(python-leetcode problem)](https://medium.com/@ampatimaneesha/longest-common-prefix-python-leetcode-problem-d4f9cfc6b2d5?source=rss------programming-5) (2026-07-10)
+- [10 Python Automation Scripts That Save Me Hours Every Week](https://medium.com/@fadliyurisman/10-python-automation-scripts-that-save-me-hours-every-week-b9c1a04b1813?source=rss------programming-5) (2026-07-10)
+- [I Thought You Couldn’t Test AI Apps. Then I Built an Eval Pipeline That Caught 47 Regressions.](https://medium.com/@chenyuan19920509/i-thought-you-couldnt-test-ai-apps-then-i-built-an-eval-pipeline-that-caught-47-regressions-e178f581af80?source=rss------programming-5) (2026-07-10)
+- [I tried to own my AI instead of renting it I gave up at the 340-gigabyte mark.](https://medium.com/@fullExpert/i-tried-to-own-my-ai-instead-of-renting-it-i-gave-up-at-the-340-gigabyte-mark-205cac16d832?source=rss------programming-5) (2026-07-10)
+- [Remote sensing — (the thing that finally made it click)](https://medium.com/@veronicakehindeabiodun/remote-sensing-the-thing-that-finally-made-it-click-6891a3a857e0?source=rss------programming-5) (2026-07-10)
 
 </details>
 
@@ -119,11 +125,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
+- [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 - [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
-- [Claude in Microsoft Foundry is now generally available](https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/) (2026-06-29)
-- [The 2026 Agent Confidence Index: Where 300 builders see real momentum](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/) (2026-06-29)
 
 </details>
 
@@ -306,11 +312,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [dotInsights | July 2026](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/) (2026-07-10)
 - [The History of Kodee, Kotlin’s Mascot](https://blog.jetbrains.com/research/2026/07/the-history-of-kodee/) (2026-07-09)
 - [JetBrains Academy – June Digest](https://blog.jetbrains.com/education/2026/07/09/jetbrains-academy-june-2026-2/) (2026-07-09)
 - [Introducing the Kotlin Benchmark for AI Coding Agents](https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/) (2026-07-08)
 - [Best Object Detection Models for Machine Learning in 2026](https://blog.jetbrains.com/pycharm/2026/07/best-object-detection-models-for-machine-learning-in-2026/) (2026-07-07)
-- [What’s Next for TeamCity – CI/CD by JetBrains](https://blog.jetbrains.com/teamcity/2026/07/whats-next-for-teamcity/) (2026-07-07)
 
 </details>
 
@@ -361,11 +367,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Improving Smart Tiered Cache for Public Cloud Regions](https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/) (2026-07-10)
 - [Why we cannot wait for better post-quantum signature algorithms](https://blog.cloudflare.com/ml-dsa-will-have-to-do/) (2026-07-09)
 - [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) (2026-07-08)
 - [Cloudflare proudly joins the UK government's Cyber Resilience Pledge](https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/) (2026-07-07)
 - [Your Worker can now have its own cache in front of it](https://blog.cloudflare.com/workers-cache/) (2026-07-06)
-- [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/) (2026-07-01)
 
 </details>
 
@@ -438,11 +444,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [npx create-db: Instant Postgres for Your Coding Agent](https://www.prisma.io/blog/give-your-agent-a-database) (2026-07-09)
 - [Claude Generated 50 Websites Overnight with Prisma Compute](https://www.prisma.io/blog/claude-generated-50-websites-overnight-prisma-compute) (2026-07-01)
 - [Prisma Compute vs Vercel Pricing](https://www.prisma.io/blog/prisma-compute-vs-vercel-pricing) (2026-07-01)
 - [How One Founder Builds a Live Sports Platform with Prisma](https://www.prisma.io/blog/how-xeito-builds-features-not-database-infrastructure-with-prisma) (2026-06-30)
 - [Evaluating Object Storage Providers for Prisma Compute](https://www.prisma.io/blog/evaluating-object-storage-providers-for-prisma-compute) (2026-06-26)
-- [How Prisma Compute Keeps Time Accurate in Long-Running Applications](https://www.prisma.io/blog/prisma-compute-time-synchronization) (2026-06-26)
 
 </details>
 
@@ -493,11 +499,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
 - [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
 - [The best Salesforce automation tools in 2026](https://zapier.com/blog/salesforce-automation-tools) (2026-07-09)
 - [How to automate ChatGPT (GPT-5.6 Sol, GPT-5.6 Terra, and more)](https://zapier.com/blog/automate-chatgpt) (2026-07-09)
 - [Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.5 Flash, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-07-09)
-- [Prevent lock-in with AI model flexibility on Zapier](https://zapier.com/blog/ai-model-flexibility) (2026-07-09)
 
 </details>
 
@@ -568,24 +574,13 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
-- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
-- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
-- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
-- [China’s AI companion rules: what Beijing is really going after](https://www.artificialintelligence-news.com/news/china-ai-companion-rules/) (2026-07-06)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG Was Always a Temporary Workaround. What is Next?](https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/) (2026-07-10)
+- [The Big Con of Agentic AI](https://towardsdatascience.com/the-big-con-of-agentic-ai/) (2026-07-10)
 - [Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy](https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/) (2026-07-09)
 - [How to Find the Optimal Coding Agent Interface](https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/) (2026-07-09)
 - [Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents](https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/) (2026-07-09)
-- [Where Does an AI’s Personality Actually Come From?](https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/) (2026-07-09)
-- [The Real Challenge Limiting AI Models Today](https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/) (2026-07-08)
 
 </details>
 
@@ -603,11 +598,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)](https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills) (2026-07-10)
+- [Local Video Summarization Pipeline: Processing Frames with SmolVLM2-2.2B](https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b) (2026-07-10)
 - [Running OpenClaw with Ollama](https://www.kdnuggets.com/running-openclaw-with-ollama) (2026-07-09)
 - [7 Steps to Automating Descriptive Statistics with Python](https://www.kdnuggets.com/7-steps-to-automating-descriptive-statistics-with-python) (2026-07-09)
 - [How to Clean Messy CSV Files with Python: A Beginner’s Guide](https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide) (2026-07-08)
-- [SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?](https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best) (2026-07-07)
-- [Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images](https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images) (2026-07-07)
 
 </details>
 
