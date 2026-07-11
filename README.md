@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/) (2026-07-11)
+- [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) (2026-07-11)
 - [US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
 - [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) (2026-07-11)
 - [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) (2026-07-10)
-- [Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/) (2026-07-10)
-- [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/) (2026-07-11)
-- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html) (2026-07-11)
-- [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) (2026-07-11)
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) (2026-07-10)
-- [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) (2026-07-10)
+- [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones) (2026-07-11)
+- [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) (2026-07-11)
+- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/) (2026-07-11)
+- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) (2026-07-11)
+- [BLISS](https://en.wikipedia.org/wiki/BLISS) (2026-07-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch) (2026-07-11)
-- [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer) (2026-07-11)
-- [Are you filthy enough for a $700 portable shower? ](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review) (2026-07-11)
-- [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter) (2026-07-11)
-- [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes) (2026-07-10)
+- [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger) (2026-07-11)
+- [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview) (2026-07-11)
+- [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale) (2026-07-11)
+- [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council) (2026-07-11)
+- [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings) (2026-07-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf) (2026-07-11)
-- [How to Thrive (Not Just Survive) as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp) (2026-07-11)
-- [How to Prove a Prediction Was Made Before the Event (with OpenTimestamps)](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d) (2026-07-11)
-- [A Beginner's Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc) (2026-07-11)
-- [The IPv6 email mirage: 55.2% of MX "support" it, but two companies carry the entire story](https://dev.to/mailtester-ninja/the-ipv6-email-mirage-552-of-mx-support-it-but-two-companies-carry-the-entire-story-2p4g) (2026-07-11)
+- [Leetcode for the win!](https://dev.to/xbill/leetcode-for-the-win-3le8) (2026-07-11)
+- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm) (2026-07-11)
+- [I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef) (2026-07-11)
+- [The Key That Unlocks Everything: Prototype Pollution in JavaScript](https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o) (2026-07-11)
+- [PassionQA: Turning My Passion for Software Quality into AI-Powered Test Intelligence](https://dev.to/dhanashri_ugalmugale_6528/passionqa-turning-my-passion-for-software-quality-into-ai-powered-test-intelligence-lpo) (2026-07-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Our Fastest Read Became the Most Expensive Write in Production](https://medium.com/@Krishnajlathi/our-fastest-read-became-the-most-expensive-write-in-production-c181002655d9?source=rss------programming-5) (2026-07-11)
-- [The Brutal Reality of Coding LLMs in July 2026: The Data-Driven Benchmarks](https://pub.towardsai.net/the-brutal-reality-of-coding-llms-in-july-2026-the-data-driven-benchmarks-63439d730146?source=rss------programming-5) (2026-07-11)
-- [Dari Manual ke Otomatis: Membuat Zoom Meeting Lewat Bot dengan Zoom API](https://medium.com/@NoAbsen13/dari-manual-ke-otomatis-membuat-zoom-meeting-lewat-bot-dengan-zoom-api-666e9e8b924e?source=rss------programming-5) (2026-07-11)
-- [Dart enums: The complete guide](https://medium.com/@yurinovicow/dart-enums-the-complete-guide-cfc4a193e3e8?source=rss------programming-5) (2026-07-11)
-- [The Master Coding Blueprint: Every Beginner Should Know This…](https://medium.com/@CodeWithMasood/the-master-coding-blueprint-every-beginner-should-know-this-1116fb142184?source=rss------programming-5) (2026-07-11)
+- [ SweetByte Factory — How a Tiny Candy Shop Accidentally Learned Every Major System Design Concept](https://medium.com/@jinalkharose0000007/sweetbyte-factory-how-a-tiny-candy-shop-accidentally-learned-every-major-system-design-concept-a810b056bd00?source=rss------programming-5) (2026-07-11)
+- [The Psychology of Processors: Why a Quantum Computer Thinks Like a Mind with ADHD](https://medium.com/@luisrodriguezweb3/the-psychology-of-processors-why-a-quantum-computer-thinks-like-a-mind-with-adhd-4faa18cc9096?source=rss------programming-5) (2026-07-11)
+- [☕ Java Concepts — Quick Revision (Q&A)](https://medium.com/@richiaditya25/java-concepts-quick-revision-q-a-d280c299a45a?source=rss------programming-5) (2026-07-11)
+- [Speak Their Language, Get Your Vision](https://medium.com/@liyu4947/speak-their-language-get-your-vision-83a5e988beb4?source=rss------programming-5) (2026-07-11)
+- [Turn Your iPhone into a Remote Terminal for Your Mac — Completely Free and Open Source](https://medium.com/@yu.cao20041208/turn-your-iphone-into-a-remote-terminal-for-your-mac-completely-free-and-open-source-8a656f45e1be?source=rss------programming-5) (2026-07-11)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How To Build An AI Phone Agent With Twilio Conversation Relay in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-node
+) (2026-07-10)
+- [
+How to Build an AI Phone Agent with Twilio Conversation Relay in C Sharp
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-csharp
+) (2026-07-10)
+- [
 Validate Phone Numbers in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/validate-phone-numbers-rust
@@ -387,16 +397,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-ve
 ](
 https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 ) (2026-07-07)
-- [
-11 conversational AI design best practices to implement
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
-) (2026-07-06)
-- [
-Twilio's Compliance Toolkit now Generally Available
-](
-https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-available
-) (2026-07-01)
 
 </details>
 
@@ -465,17 +465,6 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [What’s new in Schema Proposals](https://www.apollographql.com/blog/whats-new-in-schema-proposals) (2026-07-01)
-- [API Key Management now in GraphOS Studio](https://www.apollographql.com/blog/api-key-management-now-in-graphos-studio) (2026-06-02)
-- [What’s New in Apollo Client 4.2](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-2) (2026-05-27)
-- [Apollo Kotlin 5 Is Now Available](https://www.apollographql.com/blog/apollo-kotlin-5-is-now-available) (2026-05-13)
-- [Apollo Federation Goes Full Rust](https://www.apollographql.com/blog/apollo-federation-goes-full-rust) (2026-05-07)
 
 </details>
 
@@ -568,24 +557,13 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
-- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
-- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
-- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
-- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work](https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/) (2026-07-11)
 - [That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It](https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/) (2026-07-11)
 - [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
 - [PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/) (2026-07-10)
 - [RAG Was Always a Temporary Workaround. What is Next?](https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/) (2026-07-10)
-- [The Big Con of Agentic AI](https://towardsdatascience.com/the-big-con-of-agentic-ai/) (2026-07-10)
 
 </details>
 
