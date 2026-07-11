@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token) (2026-07-11)
-- [The Vintage Beauty of Soviet Control Rooms](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) (2026-07-11)
+- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/) (2026-07-11)
+- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html) (2026-07-11)
+- [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) (2026-07-11)
 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) (2026-07-10)
 - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) (2026-07-10)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch) (2026-07-11)
+- [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer) (2026-07-11)
 - [Are you filthy enough for a $700 portable shower? ](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review) (2026-07-11)
 - [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter) (2026-07-11)
 - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes) (2026-07-10)
-- [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab) (2026-07-10)
-- [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A Jupiter-size planet that escaped its star's death](https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/) (2026-07-11)
+- [Overhaul of public lands grazing regulations seeks to cut public involvement](https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/) (2026-07-11)
 - [Quantum error correction can constantly recalibrate a processor](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) (2026-07-10)
 - [Increased drone surveillance of illegal July 4th fireworks led to $100K fine](https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/) (2026-07-10)
 - [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) (2026-07-10)
-- [Check out the first images of Quest shipwreck](https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/) (2026-07-10)
-- [Ransomware negotiator hired to represent victims was working for the attackers](https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/) (2026-07-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Convert a whole folder of images to WebP — locally, no upload, one command](https://dev.to/nathmaxx/convert-a-whole-folder-of-images-to-webp-locally-no-upload-one-command-42od) (2026-07-11)
-- [Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what's confusing. 👇](https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda) (2026-07-11)
-- [Moving MySQL, Postgres, SQLite, or SQL Server to Cloudflare D1? @zintrust/d1-migrator does it resumably — checkpoints, row-count + checksum verification, dry-run preview, and zero downtime. No more silent data loss halfway through a million-row import.](https://dev.to/diadal/moving-mysql-postgres-sqlite-or-sql-server-to-cloudflare-d1-zintrustd1-migrator-does-it-1p51) (2026-07-11)
-- [Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS](https://dev.to/zintrustjs/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-cg) (2026-07-11)
-- [What edge cases would you test for stablecoin checkout webhooks?](https://dev.to/chainpaytopoetic/what-edge-cases-would-you-test-for-stablecoin-checkout-webhooks-12df) (2026-07-11)
+- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf) (2026-07-11)
+- [How to Thrive (Not Just Survive) as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp) (2026-07-11)
+- [How to Prove a Prediction Was Made Before the Event (with OpenTimestamps)](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d) (2026-07-11)
+- [A Beginner's Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc) (2026-07-11)
+- [The IPv6 email mirage: 55.2% of MX "support" it, but two companies carry the entire story](https://dev.to/mailtester-ninja/the-ipv6-email-mirage-552-of-mx-support-it-but-two-companies-carry-the-entire-story-2p4g) (2026-07-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Agents Are Writing 180% More Code.](https://medium.com/@noahblogwriter2025/ai-coding-agents-are-writing-180-more-code-888ab270ad53?source=rss------programming-5) (2026-07-11)
-- [Weak Pointers Are in Go Now. Most Teams Shouldn’t Use Them.](https://blog.stackademic.com/weak-pointers-are-in-go-now-most-teams-shouldnt-use-them-efe9e584f313?source=rss------programming-5) (2026-07-11)
-- [I Stopped Prompt Engineering. I Started Engineering Better Context.](https://blog.stackademic.com/i-stopped-prompt-engineering-i-started-engineering-better-context-7e79a2de19ce?source=rss------programming-5) (2026-07-11)
-- [The Future of AI Programming: How Artificial Intelligence Is Transforming Software Development and…](https://blog.stackademic.com/the-future-of-ai-programming-how-artificial-intelligence-is-transforming-software-development-and-b8b05689ebea?source=rss------programming-5) (2026-07-11)
-- [I Built a Dead Letter Queue in Go After Retry Was Not Enough](https://blog.stackademic.com/i-built-a-dead-letter-queue-in-go-after-retry-was-not-enough-dcd23db00cab?source=rss------programming-5) (2026-07-11)
+- [Our Fastest Read Became the Most Expensive Write in Production](https://medium.com/@Krishnajlathi/our-fastest-read-became-the-most-expensive-write-in-production-c181002655d9?source=rss------programming-5) (2026-07-11)
+- [The Brutal Reality of Coding LLMs in July 2026: The Data-Driven Benchmarks](https://pub.towardsai.net/the-brutal-reality-of-coding-llms-in-july-2026-the-data-driven-benchmarks-63439d730146?source=rss------programming-5) (2026-07-11)
+- [Dari Manual ke Otomatis: Membuat Zoom Meeting Lewat Bot dengan Zoom API](https://medium.com/@NoAbsen13/dari-manual-ke-otomatis-membuat-zoom-meeting-lewat-bot-dengan-zoom-api-666e9e8b924e?source=rss------programming-5) (2026-07-11)
+- [Dart enums: The complete guide](https://medium.com/@yurinovicow/dart-enums-the-complete-guide-cfc4a193e3e8?source=rss------programming-5) (2026-07-11)
+- [The Master Coding Blueprint: Every Beginner Should Know This…](https://medium.com/@CodeWithMasood/the-master-coding-blueprint-every-beginner-should-know-this-1116fb142184?source=rss------programming-5) (2026-07-11)
 
 </details>
 
@@ -373,16 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How To Build An AI Phone Agent With Twilio Conversation Relay in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-node
-) (2026-07-10)
-- [
-How to Build an AI Phone Agent with Twilio Conversation Relay in C Sharp
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-csharp
-) (2026-07-10)
-- [
 Validate Phone Numbers in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/validate-phone-numbers-rust
@@ -397,6 +387,16 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-ve
 ](
 https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 ) (2026-07-07)
+- [
+11 conversational AI design best practices to implement
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
+) (2026-07-06)
+- [
+Twilio's Compliance Toolkit now Generally Available
+](
+https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-available
+) (2026-07-01)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It](https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/) (2026-07-11)
 - [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
 - [PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/) (2026-07-10)
 - [RAG Was Always a Temporary Workaround. What is Next?](https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/) (2026-07-10)
 - [The Big Con of Agentic AI](https://towardsdatascience.com/the-big-con-of-agentic-ai/) (2026-07-10)
-- [Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy](https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/) (2026-07-09)
 
 </details>
 
