@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/) (2026-07-10)
-- [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/) (2026-07-10)
-- [A new app, HyperTexting, turns the open web into a scrollable social media-like feed](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/) (2026-07-10)
-- [China is catching up to Elon Musk’s reusable rockets](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/) (2026-07-10)
-- [Disney+ is considering a free streaming tier, report says](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/) (2026-07-10)
+- [US cyber agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
+- [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) (2026-07-11)
+- [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) (2026-07-10)
+- [Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/) (2026-07-10)
+- [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism) (2026-07-10)
-- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) (2026-07-10)
-- [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) (2026-07-10)
-- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) (2026-07-10)
-- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) (2026-07-10)
+- [I've been building this alone for months. Roast it before I lose any more time](https://peakd.io) (2026-07-11)
+- [FreeCAD in the Browser](https://magik.net/freecad/) (2026-07-11)
+- [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (2026-07-11)
+- [Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o) (2026-07-11)
+- [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents) (2026-07-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo) (2026-07-10)
-- [Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut) (2026-07-10)
-- [Spotify will let you fine-tune your weekly Release Radar playlist](https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls) (2026-07-10)
-- [Netflix is turning into YouTube](https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast) (2026-07-10)
-- [Disney Plus is reportedly looking into a free streaming tier](https://www.theverge.com/streaming/964056/disney-plus-free-tier-report) (2026-07-10)
+- [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter) (2026-07-11)
+- [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes) (2026-07-10)
+- [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab) (2026-07-10)
+- [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) (2026-07-10)
+- [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Disable auto-play and infinite scroll or risk massive fines, EU tells Meta](https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/) (2026-07-10)
-- [NASA sure seems to be asking an awful lot of private space stations](https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/) (2026-07-10)
-- [Volkswagen Group tells its board how to fix it, unions disagree](https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/) (2026-07-10)
-- [Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87](https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/) (2026-07-10)
-- [Is an air-conditioning revolution coming to Europe?](https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/) (2026-07-10)
+- [Quantum error correction can constantly recalibrate a processor](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) (2026-07-10)
+- [Increased drone surveillance of illegal July 4th fireworks led to $100K fine](https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/) (2026-07-10)
+- [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) (2026-07-10)
+- [Check out the first images of Quest shipwreck](https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/) (2026-07-10)
+- [Ransomware negotiator hired to represent victims was working for the attackers](https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/) (2026-07-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Natural Language to SQL with AI: Building an Intelligent SQL Query Generator Using Hugging Face and Streamlit](https://dev.to/vincenzo_rafaelllanosni/from-natural-language-to-sql-with-ai-building-an-intelligent-sql-query-generator-using-hugging-3cgj) (2026-07-10)
-- [I Was Building a Social App. Then I Accidentally Built an AI Startup.](https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj) (2026-07-10)
-- [# GhostLine Development Update: From Features to Stability](https://dev.to/sonu_samrat_a10b0defcb70f/-ghostline-development-update-from-features-to-stability-4946) (2026-07-10)
-- [The Archaeology of Git Blame: Why AI Doesn’t Understand the Panic Behind Your Code](https://dev.to/bhavnish_e35294bf0fd0b2df/the-archaeology-of-git-blame-why-ai-doesnt-understand-the-panic-behind-your-code-5cok) (2026-07-10)
-- [Stop Writing Prompt Strings: Meet PromptForge Core](https://dev.to/pranav_thawait_4c3d1f4766/stop-writing-prompt-strings-meet-promptforge-core-5h63) (2026-07-10)
+- [Building a Local-Only Browser Extension That Translates GitHub's UI—Not Your Content](https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m) (2026-07-11)
+- [Building an LLM System from Scratch in Pure Python & NumPy: Architecture, Invariants, and Clean Code](https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c) (2026-07-11)
+- [Franklin: a coffee-shop AI that treats neurodivergent customers as regulars](https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe) (2026-07-11)
+- [The AI Senior Dev Dilemma: Am I Coding or Just Prompting?](https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78) (2026-07-11)
+- [I couldn't find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7) (2026-07-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [E‑‑: The middle ground between English and Python](https://medium.com/@frmoded/e-the-middle-ground-between-english-and-python-5d5393d6b162?source=rss------programming-5) (2026-07-10)
-- [ANN Algorithm Selection Under Production Constraints](https://parasuram19.medium.com/ann-algorithm-selection-under-production-constraints-7de48092e699?source=rss------programming-5) (2026-07-10)
-- [Components vs. Microservices: Why Your “Microservices” Might Actually Be a Monolith in Disguise](https://medium.com/@ojwiya/components-vs-microservices-why-your-microservices-might-actually-be-a-monolith-in-disguise-7c1e08b47297?source=rss------programming-5) (2026-07-10)
-- [Turing Basic Ruby Interview — Part 5: Rails Essentials Every Developer Must Know (Controllers…](https://medium.com/@hassanobaidkhan999160/turing-basic-ruby-interview-part-5-rails-essentials-every-developer-must-know-controllers-3e344d73590e?source=rss------programming-5) (2026-07-10)
-- [The Kotlin Stdlib Functions You’ve Been Reimplementing by Hand](https://medium.com/@himanshugaur684/the-kotlin-stdlib-functions-youve-been-reimplementing-by-hand-338c8211ca34?source=rss------programming-5) (2026-07-10)
+- [iowait Hit 90%. CPU Looked Idle. Every Request Took 8 Seconds.](https://medium.com/@DevGrowthHub/iowait-hit-90-cpu-looked-idle-every-request-took-8-seconds-39359576a82f?source=rss------programming-5) (2026-07-11)
+- [5 AI Engineer Projects to Build in 2026](https://medium.com/lets-code-future/5-ai-engineer-projects-to-build-in-2026-7c529e11f119?source=rss------programming-5) (2026-07-11)
+- [The JavaScript Features I Stopped Using](https://javascript.plainenglish.io/the-javascript-features-i-stopped-using-5061ad44f158?source=rss------programming-5) (2026-07-11)
+- [I Spent a Week Deploying an Enterprise Server, Just to Wire It Into Our Own Ideation Week Project](https://medium.com/@ngobij576/i-spent-a-week-deploying-an-enterprise-server-just-to-wire-it-into-our-own-ideation-week-project-1e2c26e4759d?source=rss------programming-5) (2026-07-11)
+- [Code That Works Isn’t Always Good Code](https://medium.com/@scosmexs/code-that-works-isnt-always-good-code-99ba14b9cf4f?source=rss------programming-5) (2026-07-11)
 
 </details>
 
@@ -493,9 +493,9 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
-- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
 - [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
+- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
+- [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
 - [The best Salesforce automation tools in 2026](https://zapier.com/blog/salesforce-automation-tools) (2026-07-09)
 - [How to automate ChatGPT (GPT-5.6 Sol, GPT-5.6 Terra, and more)](https://zapier.com/blog/automate-chatgpt) (2026-07-09)
 
@@ -568,6 +568,17 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
+- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
+- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
@@ -603,11 +614,11 @@ https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-availabl
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (2026-07-10)
 - [LLM Orchestration Frameworks Compared: LangChain vs. LlamaIndex vs. Raw API Calls](https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/) (2026-07-09)
 - [Tools vs. Subagents: Building Effective AI Agents Without Over-Engineering](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) (2026-07-07)
 - [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) (2026-07-06)
 - [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) (2026-07-02)
-- [Context Window Management for Long-Running Agents: Strategies and Tradeoffs](https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/) (2026-06-30)
 
 </details>
 
