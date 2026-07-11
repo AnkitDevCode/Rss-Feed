@@ -9,7 +9,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [US cyber agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
+- [US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
 - [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) (2026-07-11)
 - [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) (2026-07-10)
 - [Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/) (2026-07-10)
@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I've been building this alone for months. Roast it before I lose any more time](https://peakd.io) (2026-07-11)
-- [FreeCAD in the Browser](https://magik.net/freecad/) (2026-07-11)
-- [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (2026-07-11)
-- [Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o) (2026-07-11)
-- [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents) (2026-07-11)
+- [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token) (2026-07-11)
+- [The Vintage Beauty of Soviet Control Rooms](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) (2026-07-11)
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) (2026-07-10)
+- [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) (2026-07-10)
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Are you filthy enough for a $700 portable shower? ](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review) (2026-07-11)
 - [No, Flock isn&#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter) (2026-07-11)
 - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes) (2026-07-10)
 - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab) (2026-07-10)
 - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) (2026-07-10)
-- [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026) (2026-07-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Local-Only Browser Extension That Translates GitHub's UI—Not Your Content](https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m) (2026-07-11)
-- [Building an LLM System from Scratch in Pure Python & NumPy: Architecture, Invariants, and Clean Code](https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c) (2026-07-11)
-- [Franklin: a coffee-shop AI that treats neurodivergent customers as regulars](https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe) (2026-07-11)
-- [The AI Senior Dev Dilemma: Am I Coding or Just Prompting?](https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78) (2026-07-11)
-- [I couldn't find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7) (2026-07-11)
+- [Convert a whole folder of images to WebP — locally, no upload, one command](https://dev.to/nathmaxx/convert-a-whole-folder-of-images-to-webp-locally-no-upload-one-command-42od) (2026-07-11)
+- [Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what's confusing. 👇](https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda) (2026-07-11)
+- [Moving MySQL, Postgres, SQLite, or SQL Server to Cloudflare D1? @zintrust/d1-migrator does it resumably — checkpoints, row-count + checksum verification, dry-run preview, and zero downtime. No more silent data loss halfway through a million-row import.](https://dev.to/diadal/moving-mysql-postgres-sqlite-or-sql-server-to-cloudflare-d1-zintrustd1-migrator-does-it-1p51) (2026-07-11)
+- [Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS](https://dev.to/zintrustjs/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-cg) (2026-07-11)
+- [What edge cases would you test for stablecoin checkout webhooks?](https://dev.to/chainpaytopoetic/what-edge-cases-would-you-test-for-stablecoin-checkout-webhooks-12df) (2026-07-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [iowait Hit 90%. CPU Looked Idle. Every Request Took 8 Seconds.](https://medium.com/@DevGrowthHub/iowait-hit-90-cpu-looked-idle-every-request-took-8-seconds-39359576a82f?source=rss------programming-5) (2026-07-11)
-- [5 AI Engineer Projects to Build in 2026](https://medium.com/lets-code-future/5-ai-engineer-projects-to-build-in-2026-7c529e11f119?source=rss------programming-5) (2026-07-11)
-- [The JavaScript Features I Stopped Using](https://javascript.plainenglish.io/the-javascript-features-i-stopped-using-5061ad44f158?source=rss------programming-5) (2026-07-11)
-- [I Spent a Week Deploying an Enterprise Server, Just to Wire It Into Our Own Ideation Week Project](https://medium.com/@ngobij576/i-spent-a-week-deploying-an-enterprise-server-just-to-wire-it-into-our-own-ideation-week-project-1e2c26e4759d?source=rss------programming-5) (2026-07-11)
-- [Code That Works Isn’t Always Good Code](https://medium.com/@scosmexs/code-that-works-isnt-always-good-code-99ba14b9cf4f?source=rss------programming-5) (2026-07-11)
+- [AI Coding Agents Are Writing 180% More Code.](https://medium.com/@noahblogwriter2025/ai-coding-agents-are-writing-180-more-code-888ab270ad53?source=rss------programming-5) (2026-07-11)
+- [Weak Pointers Are in Go Now. Most Teams Shouldn’t Use Them.](https://blog.stackademic.com/weak-pointers-are-in-go-now-most-teams-shouldnt-use-them-efe9e584f313?source=rss------programming-5) (2026-07-11)
+- [I Stopped Prompt Engineering. I Started Engineering Better Context.](https://blog.stackademic.com/i-stopped-prompt-engineering-i-started-engineering-better-context-7e79a2de19ce?source=rss------programming-5) (2026-07-11)
+- [The Future of AI Programming: How Artificial Intelligence Is Transforming Software Development and…](https://blog.stackademic.com/the-future-of-ai-programming-how-artificial-intelligence-is-transforming-software-development-and-b8b05689ebea?source=rss------programming-5) (2026-07-11)
+- [I Built a Dead Letter Queue in Go After Retry Was Not Enough](https://blog.stackademic.com/i-built-a-dead-letter-queue-in-go-after-retry-was-not-enough-dcd23db00cab?source=rss------programming-5) (2026-07-11)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How To Build An AI Phone Agent With Twilio Conversation Relay in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-node
+) (2026-07-10)
+- [
+How to Build an AI Phone Agent with Twilio Conversation Relay in C Sharp
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-csharp
+) (2026-07-10)
+- [
 Validate Phone Numbers in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/validate-phone-numbers-rust
@@ -387,16 +397,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-ve
 ](
 https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 ) (2026-07-07)
-- [
-11 conversational AI design best practices to implement
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
-) (2026-07-06)
-- [
-Twilio's Compliance Toolkit now Generally Available
-](
-https://www.twilio.com/en-us/blog/products/compliance-toolkit-generally-available
-) (2026-07-01)
 
 </details>
 
