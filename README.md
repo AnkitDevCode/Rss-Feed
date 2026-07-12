@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/) (2026-07-12)
+- [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/) (2026-07-11)
 - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/) (2026-07-11)
 - [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) (2026-07-11)
 - [US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
-- [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) (2026-07-11)
-- [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones) (2026-07-11)
-- [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) (2026-07-11)
-- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/) (2026-07-11)
-- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) (2026-07-11)
-- [BLISS](https://en.wikipedia.org/wiki/BLISS) (2026-07-11)
+- [A pure scheme web programming tool](https://goeteia.dev) (2026-07-12)
+- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) (2026-07-12)
+- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext) (2026-07-12)
+- [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491) (2026-07-12)
+- [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com) (2026-07-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo) (2026-07-11)
 - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger) (2026-07-11)
 - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview) (2026-07-11)
 - [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale) (2026-07-11)
 - [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council) (2026-07-11)
-- [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings) (2026-07-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Leetcode for the win!](https://dev.to/xbill/leetcode-for-the-win-3le8) (2026-07-11)
-- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm) (2026-07-11)
-- [I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef) (2026-07-11)
-- [The Key That Unlocks Everything: Prototype Pollution in JavaScript](https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o) (2026-07-11)
-- [PassionQA: Turning My Passion for Software Quality into AI-Powered Test Intelligence](https://dev.to/dhanashri_ugalmugale_6528/passionqa-turning-my-passion-for-software-quality-into-ai-powered-test-intelligence-lpo) (2026-07-11)
+- [RAGFlow + MCP: Turning Your Best RAG Config Into a Production Assistant](https://dev.to/ahmetozel/ragflow-mcp-turning-your-best-rag-config-into-a-production-assistant-28d5) (2026-07-12)
+- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj) (2026-07-12)
+- [Managing Dependencies in Legacy Front-end Projects: A Practical Guide to Cleaning Up a Messy package.json](https://dev.to/mllgll/managing-dependencies-in-legacy-front-end-projects-a-practical-guide-to-cleaning-up-a-messy-4map) (2026-07-12)
+- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn) (2026-07-12)
+- [You don't know how to use constants in C++.](https://dev.to/mizton/you-dont-know-how-to-use-constants-in-c-582e) (2026-07-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ SweetByte Factory — How a Tiny Candy Shop Accidentally Learned Every Major System Design Concept](https://medium.com/@jinalkharose0000007/sweetbyte-factory-how-a-tiny-candy-shop-accidentally-learned-every-major-system-design-concept-a810b056bd00?source=rss------programming-5) (2026-07-11)
-- [The Psychology of Processors: Why a Quantum Computer Thinks Like a Mind with ADHD](https://medium.com/@luisrodriguezweb3/the-psychology-of-processors-why-a-quantum-computer-thinks-like-a-mind-with-adhd-4faa18cc9096?source=rss------programming-5) (2026-07-11)
-- [☕ Java Concepts — Quick Revision (Q&A)](https://medium.com/@richiaditya25/java-concepts-quick-revision-q-a-d280c299a45a?source=rss------programming-5) (2026-07-11)
-- [Speak Their Language, Get Your Vision](https://medium.com/@liyu4947/speak-their-language-get-your-vision-83a5e988beb4?source=rss------programming-5) (2026-07-11)
-- [Turn Your iPhone into a Remote Terminal for Your Mac — Completely Free and Open Source](https://medium.com/@yu.cao20041208/turn-your-iphone-into-a-remote-terminal-for-your-mac-completely-free-and-open-source-8a656f45e1be?source=rss------programming-5) (2026-07-11)
+- [macOS Terminal: A Comprehensive Guide](https://medium.com/@nirbhaysingh281/macos-terminal-a-comprehensive-guide-5ffaf758645d?source=rss------programming-5) (2026-07-12)
+- [Quick Verdict](https://medium.com/@wuledan1985/quick-verdict-d574a7b93c25?source=rss------programming-5) (2026-07-12)
+- [The World’s Hardest Programming Language Has 8 Commands — and It Teaches You Exactly How to Pick…](https://medium.com/@reactjsbd/the-worlds-hardest-programming-language-has-8-commands-and-it-teaches-you-exactly-how-to-pick-1620adc2e5da?source=rss------programming-5) (2026-07-12)
+- [Why JavaScript Feels Easy Until Production](https://javascript.plainenglish.io/why-javascript-feels-easy-until-production-24a3bb28b9ff?source=rss------programming-5) (2026-07-12)
+- [Why GPT 5.6 Is Not So Much Better Than Fable 5 And Opus 4.8 — Here The Result](https://medium.com/@GaoDalie_AI/why-gpt-5-6-is-not-so-much-better-than-fable-5-and-opus-4-8-here-the-result-ef6b270cac3f?source=rss------programming-5) (2026-07-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
-- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Seedream 5.0 Pro is now available on AI Gateway](https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway) (2026-07-11)
 - [Traces now support Tree and Waterfall views](https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views) (2026-07-10)
 - [You can now deploy Lovable apps to Vercel](https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel) (2026-07-09)
 - [Build logs now redact Sensitive Environment Variable values](https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values) (2026-07-09)
 - [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway) (2026-07-09)
-- [GPT 5.6 Sol, Luna, and Terra now available on AI Gateway](https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway) (2026-07-09)
 
 </details>
 
@@ -469,6 +469,17 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [What’s new in Schema Proposals](https://www.apollographql.com/blog/whats-new-in-schema-proposals) (2026-07-01)
+- [API Key Management now in GraphOS Studio](https://www.apollographql.com/blog/api-key-management-now-in-graphos-studio) (2026-06-02)
+- [What’s New in Apollo Client 4.2](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-2) (2026-05-27)
+- [Apollo Kotlin 5 Is Now Available](https://www.apollographql.com/blog/apollo-kotlin-5-is-now-available) (2026-05-13)
+- [Apollo Federation Goes Full Rust](https://www.apollographql.com/blog/apollo-federation-goes-full-rust) (2026-05-07)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -504,11 +515,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: Too Hot to Context-Switch](https://slack.com/blog/news/slack-feature-drop-june2026) (2026-06-30)
-- [Slack vs. WhatsApp: Which Tool Is Better for Work?](https://slack.com/blog/compare/slack-vs-whatsapp) (2026-06-29)
-- [Best CRM Software Solutions in 2026](https://slack.com/blog/crm/best-crm-software) (2026-06-29)
-- [AI in CRM: Benefits, Use Cases, and Tools](https://slack.com/blog/crm/ai-in-crm) (2026-06-29)
-- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
+- [How AI Organization Tools Can Transform the Way You Work](https://slack.com/blog/productivity/ai-organization-tools) (2026-07-10)
+- [Eight Best CRMs for Startups in 2026: Features, Benefits, and Tips](https://slack.com/blog/crm/best-crms-for-startups) (2026-07-10)
+- [Seven CRM Best Practices for Teams in 2026](https://slack.com/blog/crm/crm-best-practices) (2026-07-10)
+- [Guide to CRM Integration: Architecture, Benefits, and Best Practices](https://slack.com/blog/crm/crm-integration) (2026-07-10)
+- [10 Discord Alternatives for Teams and Businesses](https://slack.com/blog/compare/discord-alternatives) (2026-07-10)
 
 </details>
 
@@ -570,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval](https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/) (2026-07-11)
 - [GPT-5.6 Is Here: Sol, Terra, and Luna](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-terra-luna/) (2026-07-10)
 - [Loop Engineering for AI Agents: How /loop is Changing AI Workflows ](https://www.analyticsvidhya.com/blog/2026/07/loop-engineering-for-ai-agents/) (2026-07-09)
 - [DeepSeek DSpark: The Speculative Decoding Trick Behind 400% Faster LLM ](https://www.analyticsvidhya.com/blog/2026/07/deepseek-dspark-speculative-decoding/) (2026-07-08)
 - [OKF: Redefining Knowledge Bases for AI Agents](https://www.analyticsvidhya.com/blog/2026/07/open-knowledge-format-okf/) (2026-07-07)
-- [Modern VLMs Explained: How GPT-4o, Gemini, Claude Vision, and Qwen-VL Work ](https://www.analyticsvidhya.com/blog/2026/07/modern-vlms-explained/) (2026-07-06)
 
 </details>
 
