@@ -9,22 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/) (2026-07-12)
 - [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/) (2026-07-12)
 - [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/) (2026-07-11)
 - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/) (2026-07-11)
 - [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) (2026-07-11)
-- [US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) (2026-07-11)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness) (2026-07-12)
+- [LARP – Revenue infrastructure for serious founders](https://www.larp.website/) (2026-07-12)
+- [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/) (2026-07-12)
+- [Automation Without Understanding](https://arxiv.org/abs/2607.06377) (2026-07-12)
+- [Theo de Raadt: "You've been smoking something mind altering" (2007)](https://marc.info/?l=openbsd-misc&m=119318909016582) (2026-07-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra) (2026-07-12)
+- [One of SteelSeries&#8217; best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale) (2026-07-12)
+- [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history) (2026-07-12)
+- [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables) (2026-07-12)
 - [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding) (2026-07-12)
-- [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight) (2026-07-12)
-- [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo) (2026-07-11)
-- [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger) (2026-07-11)
-- [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview) (2026-07-11)
 
 </details>
 
@@ -75,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Agent works one repo at a time. Work doesn't.](https://dev.to/firespark/agent-works-one-repo-at-a-time-work-doesnt-3588) (2026-07-12)
-- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop) (2026-07-12)
-- [Building a Multi-Agent AI System from Scratch (No Frameworks)](https://dev.to/amrendra_n_mishra/building-a-multi-agent-ai-system-from-scratch-no-frameworks-435p) (2026-07-12)
-- [How I Automated 9 YouTube Channels at ₹0/month](https://dev.to/amrendra_n_mishra/how-i-automated-9-youtube-channels-at-0month-18b2) (2026-07-12)
-- [Building an Internal AI Knowledge Assistant Your Team Can Actually Trust](https://dev.to/renolu/building-an-internal-ai-knowledge-assistant-your-team-can-actually-trust-2kf9) (2026-07-12)
+- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2) (2026-07-12)
+- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j) (2026-07-12)
+- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0) (2026-07-12)
+- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7) (2026-07-12)
+- [I scanned 15 public Lovable apps. 40% load their database in the browser.](https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p) (2026-07-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Python Libraries That Made Me Write Less Code and Build More](https://blog.stackademic.com/8-python-libraries-that-made-me-write-less-code-and-build-more-7a2c63fd7171?source=rss------programming-5) (2026-07-12)
-- [Local AI on Windows: How AMD Lemonade and AI Playbooks Cut the Path From Idea to First Commit](https://blog.stackademic.com/local-ai-on-windows-how-amd-lemonade-and-ai-playbooks-cut-the-path-from-idea-to-first-commit-fb173eea40d3?source=rss------programming-5) (2026-07-12)
-- [How to Master C++](https://medium.com/@Bit_by_Byte_na/how-to-master-c-e1dfc6a878b3?source=rss------programming-5) (2026-07-12)
-- [From Knowing Nothing About Programming to Becoming a Cybersecurity Intern](https://medium.com/@kvasanthkumar1724/from-knowing-nothing-about-programming-to-becoming-a-cybersecurity-intern-596127c961f2?source=rss------programming-5) (2026-07-12)
-- [Your AI Agent Reads the Web From a Single Address](https://medium.com/@aethyn.io/your-ai-agent-reads-the-web-from-a-single-address-2103c1d30538?source=rss------programming-5) (2026-07-12)
+- [What Actually Happens When You Fine-Tune a Language Model, Explained Simply](https://medium.com/@athulkrish262/what-actually-happens-when-you-fine-tune-a-language-model-explained-simply-c6b5ae1528dd?source=rss------programming-5) (2026-07-12)
+- [The History of Kohistani: People, Land, and Legacy](https://medium.com/@jkpay96050/the-history-of-kohistani-people-land-and-legacy-0a32827736e3?source=rss------programming-5) (2026-07-12)
+- [Choosing an automotive software development company uae](https://faizkrm.medium.com/choosing-an-automotive-software-development-company-uae-8d8d4ec4bf19?source=rss------programming-5) (2026-07-12)
+- [How to Build a Scalable LLM-Powered README Generator](https://itnext.io/how-to-build-a-scalable-llm-powered-readme-generator-ea45d6adc4ed?source=rss------programming-5) (2026-07-12)
+- [The Only 4 Claude Prompts I Use Every Single Day](https://medium.com/@hii_mohit/the-only-4-claude-prompts-i-use-every-single-day-6302be0ea8e3?source=rss------programming-5) (2026-07-12)
 
 </details>
 
@@ -108,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
-- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 
 </details>
 
@@ -570,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each](https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/) (2026-07-12)
 - [How to Orchestrate 100+ Agents With Claude Code](https://towardsdatascience.com/how-to-orchestrate-100-agents-with-claude-code/) (2026-07-12)
 - [Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work](https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/) (2026-07-11)
 - [That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It](https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/) (2026-07-11)
 - [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
-- [PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/) (2026-07-10)
 
 </details>
 
