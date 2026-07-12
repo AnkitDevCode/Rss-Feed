@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A pure scheme web programming tool](https://goeteia.dev) (2026-07-12)
-- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) (2026-07-12)
-- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext) (2026-07-12)
-- [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491) (2026-07-12)
-- [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com) (2026-07-12)
+- [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk) (2026-07-12)
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html) (2026-07-12)
+- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans) (2026-07-12)
+- [Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) (2026-07-12)
+- [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426) (2026-07-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [RAGFlow + MCP: Turning Your Best RAG Config Into a Production Assistant](https://dev.to/ahmetozel/ragflow-mcp-turning-your-best-rag-config-into-a-production-assistant-28d5) (2026-07-12)
-- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj) (2026-07-12)
-- [Managing Dependencies in Legacy Front-end Projects: A Practical Guide to Cleaning Up a Messy package.json](https://dev.to/mllgll/managing-dependencies-in-legacy-front-end-projects-a-practical-guide-to-cleaning-up-a-messy-4map) (2026-07-12)
-- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn) (2026-07-12)
-- [You don't know how to use constants in C++.](https://dev.to/mizton/you-dont-know-how-to-use-constants-in-c-582e) (2026-07-12)
+- [The Caste of Intelligence and the Big Tech Blueprint: The Unfiltered Reality of LLM Infrastructure](https://dev.to/wsdn/the-caste-of-intelligence-and-the-big-tech-blueprint-the-unfiltered-reality-of-llm-infrastructure-392o) (2026-07-12)
+- [🤗 Find the Pokemon you are w. PokéAPI, your resume & embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5) (2026-07-12)
+- [Part 2: Prompt Engineering for Growth: Creating Viral Wizarding Content](https://dev.to/amastr92/part-2-prompt-engineering-for-growth-creating-viral-wizarding-content-4bcm) (2026-07-12)
+- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn) (2026-07-12)
+- [Cut your LLM bill by 30 to 70%: the levers that work](https://dev.to/guinat_ai/cut-your-llm-bill-by-30-to-70-the-levers-that-work-2nmo) (2026-07-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [macOS Terminal: A Comprehensive Guide](https://medium.com/@nirbhaysingh281/macos-terminal-a-comprehensive-guide-5ffaf758645d?source=rss------programming-5) (2026-07-12)
-- [Quick Verdict](https://medium.com/@wuledan1985/quick-verdict-d574a7b93c25?source=rss------programming-5) (2026-07-12)
-- [The World’s Hardest Programming Language Has 8 Commands — and It Teaches You Exactly How to Pick…](https://medium.com/@reactjsbd/the-worlds-hardest-programming-language-has-8-commands-and-it-teaches-you-exactly-how-to-pick-1620adc2e5da?source=rss------programming-5) (2026-07-12)
-- [Why JavaScript Feels Easy Until Production](https://javascript.plainenglish.io/why-javascript-feels-easy-until-production-24a3bb28b9ff?source=rss------programming-5) (2026-07-12)
-- [Why GPT 5.6 Is Not So Much Better Than Fable 5 And Opus 4.8 — Here The Result](https://medium.com/@GaoDalie_AI/why-gpt-5-6-is-not-so-much-better-than-fable-5-and-opus-4-8-here-the-result-ef6b270cac3f?source=rss------programming-5) (2026-07-12)
+- [8 Mistakes That Make Good Code Difficult to Maintain](https://medium.com/skillstuff/8-mistakes-that-make-good-code-difficult-to-maintain-4e4ca8ae6ea0?source=rss------programming-5) (2026-07-12)
+- [Inside the KPMG Frontend Developer Interview: ReactJS, Performance, and Problem-Solving](https://medium.com/techtrends-digest/inside-the-kpmg-frontend-developer-interview-reactjs-performance-and-problem-solving-63d09628470a?source=rss------programming-5) (2026-07-12)
+- [DNS Abuse Trends Every Security Team Should Monitor](https://medium.com/@paritoshblogs/dns-abuse-trends-every-security-team-should-monitor-ec23bf2057b9?source=rss------programming-5) (2026-07-12)
+- [TryHackMe CCT2019 Write-Up: Reverse Engineering Walkthrough Using ilspycmd](https://medium.com/@antor.csecu/tryhackme-cct2019-write-up-reverse-engineering-walkthrough-using-ilspycmd-e2251f7bc7d0?source=rss------programming-5) (2026-07-12)
+- [Do You Really Need Another Terminal Tool?](https://tomdeneire.medium.com/do-you-really-need-another-terminal-tool-815c52651903?source=rss------programming-5) (2026-07-12)
 
 </details>
 
