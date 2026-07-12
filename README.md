@@ -18,35 +18,24 @@
 </details>
 
 <details>
-<summary>💻 Hacker News</summary>
-
-- [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk) (2026-07-12)
-- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html) (2026-07-12)
-- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans) (2026-07-12)
-- [Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) (2026-07-12)
-- [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426) (2026-07-12)
-
-</details>
-
-<details>
 <summary>📱 The Verge</summary>
 
+- [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding) (2026-07-12)
+- [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight) (2026-07-12)
 - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo) (2026-07-11)
 - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger) (2026-07-11)
 - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview) (2026-07-11)
-- [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale) (2026-07-11)
-- [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council) (2026-07-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?](https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/) (2026-07-12)
 - [A Jupiter-size planet that escaped its star's death](https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/) (2026-07-11)
 - [Overhaul of public lands grazing regulations seeks to cut public involvement](https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/) (2026-07-11)
 - [Quantum error correction can constantly recalibrate a processor](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) (2026-07-10)
 - [Increased drone surveillance of illegal July 4th fireworks led to $100K fine](https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/) (2026-07-10)
-- [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) (2026-07-10)
 
 </details>
 
@@ -86,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Caste of Intelligence and the Big Tech Blueprint: The Unfiltered Reality of LLM Infrastructure](https://dev.to/wsdn/the-caste-of-intelligence-and-the-big-tech-blueprint-the-unfiltered-reality-of-llm-infrastructure-392o) (2026-07-12)
-- [🤗 Find the Pokemon you are w. PokéAPI, your resume & embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5) (2026-07-12)
-- [Part 2: Prompt Engineering for Growth: Creating Viral Wizarding Content](https://dev.to/amastr92/part-2-prompt-engineering-for-growth-creating-viral-wizarding-content-4bcm) (2026-07-12)
-- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn) (2026-07-12)
-- [Cut your LLM bill by 30 to 70%: the levers that work](https://dev.to/guinat_ai/cut-your-llm-bill-by-30-to-70-the-levers-that-work-2nmo) (2026-07-12)
+- [Agent works one repo at a time. Work doesn't.](https://dev.to/firespark/agent-works-one-repo-at-a-time-work-doesnt-3588) (2026-07-12)
+- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop) (2026-07-12)
+- [Building a Multi-Agent AI System from Scratch (No Frameworks)](https://dev.to/amrendra_n_mishra/building-a-multi-agent-ai-system-from-scratch-no-frameworks-435p) (2026-07-12)
+- [How I Automated 9 YouTube Channels at ₹0/month](https://dev.to/amrendra_n_mishra/how-i-automated-9-youtube-channels-at-0month-18b2) (2026-07-12)
+- [Building an Internal AI Knowledge Assistant Your Team Can Actually Trust](https://dev.to/renolu/building-an-internal-ai-knowledge-assistant-your-team-can-actually-trust-2kf9) (2026-07-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Mistakes That Make Good Code Difficult to Maintain](https://medium.com/skillstuff/8-mistakes-that-make-good-code-difficult-to-maintain-4e4ca8ae6ea0?source=rss------programming-5) (2026-07-12)
-- [Inside the KPMG Frontend Developer Interview: ReactJS, Performance, and Problem-Solving](https://medium.com/techtrends-digest/inside-the-kpmg-frontend-developer-interview-reactjs-performance-and-problem-solving-63d09628470a?source=rss------programming-5) (2026-07-12)
-- [DNS Abuse Trends Every Security Team Should Monitor](https://medium.com/@paritoshblogs/dns-abuse-trends-every-security-team-should-monitor-ec23bf2057b9?source=rss------programming-5) (2026-07-12)
-- [TryHackMe CCT2019 Write-Up: Reverse Engineering Walkthrough Using ilspycmd](https://medium.com/@antor.csecu/tryhackme-cct2019-write-up-reverse-engineering-walkthrough-using-ilspycmd-e2251f7bc7d0?source=rss------programming-5) (2026-07-12)
-- [Do You Really Need Another Terminal Tool?](https://tomdeneire.medium.com/do-you-really-need-another-terminal-tool-815c52651903?source=rss------programming-5) (2026-07-12)
+- [8 Python Libraries That Made Me Write Less Code and Build More](https://blog.stackademic.com/8-python-libraries-that-made-me-write-less-code-and-build-more-7a2c63fd7171?source=rss------programming-5) (2026-07-12)
+- [Local AI on Windows: How AMD Lemonade and AI Playbooks Cut the Path From Idea to First Commit](https://blog.stackademic.com/local-ai-on-windows-how-amd-lemonade-and-ai-playbooks-cut-the-path-from-idea-to-first-commit-fb173eea40d3?source=rss------programming-5) (2026-07-12)
+- [How to Master C++](https://medium.com/@Bit_by_Byte_na/how-to-master-c-e1dfc6a878b3?source=rss------programming-5) (2026-07-12)
+- [From Knowing Nothing About Programming to Becoming a Cybersecurity Intern](https://medium.com/@kvasanthkumar1724/from-knowing-nothing-about-programming-to-becoming-a-cybersecurity-intern-596127c961f2?source=rss------programming-5) (2026-07-12)
+- [Your AI Agent Reads the Web From a Single Address](https://medium.com/@aethyn.io/your-ai-agent-reads-the-web-from-a-single-address-2103c1d30538?source=rss------programming-5) (2026-07-12)
 
 </details>
 
@@ -119,11 +108,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
+- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 
 </details>
 
@@ -515,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>💬 Slack API</summary>
 
-- [How AI Organization Tools Can Transform the Way You Work](https://slack.com/blog/productivity/ai-organization-tools) (2026-07-10)
-- [Eight Best CRMs for Startups in 2026: Features, Benefits, and Tips](https://slack.com/blog/crm/best-crms-for-startups) (2026-07-10)
-- [Seven CRM Best Practices for Teams in 2026](https://slack.com/blog/crm/crm-best-practices) (2026-07-10)
-- [Guide to CRM Integration: Architecture, Benefits, and Best Practices](https://slack.com/blog/crm/crm-integration) (2026-07-10)
-- [10 Discord Alternatives for Teams and Businesses](https://slack.com/blog/compare/discord-alternatives) (2026-07-10)
+- [Slack Feature Drop: Too Hot to Context-Switch](https://slack.com/blog/news/slack-feature-drop-june2026) (2026-06-30)
+- [Slack vs. WhatsApp: Which Tool Is Better for Work?](https://slack.com/blog/compare/slack-vs-whatsapp) (2026-06-29)
+- [Best CRM Software Solutions in 2026](https://slack.com/blog/crm/best-crm-software) (2026-06-29)
+- [AI in CRM: Benefits, Use Cases, and Tools](https://slack.com/blog/crm/ai-in-crm) (2026-06-29)
+- [The AI that knows your work and organization](https://slack.com/blog/news/the-ai-that-knows-your-work-and-organization) (2026-06-24)
 
 </details>
 
@@ -568,24 +557,35 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
+- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
+- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Orchestrate 100+ Agents With Claude Code](https://towardsdatascience.com/how-to-orchestrate-100-agents-with-claude-code/) (2026-07-12)
 - [Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work](https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/) (2026-07-11)
 - [That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It](https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/) (2026-07-11)
 - [I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer](https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/) (2026-07-10)
 - [PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/) (2026-07-10)
-- [RAG Was Always a Temporary Workaround. What is Next?](https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Handling Imbalanced Classification: What Works Better Than SMOTE](https://www.analyticsvidhya.com/blog/2026/07/class-imbalance-ml/) (2026-07-12)
 - [RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval](https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/) (2026-07-11)
 - [GPT-5.6 Is Here: Sol, Terra, and Luna](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-terra-luna/) (2026-07-10)
 - [Loop Engineering for AI Agents: How /loop is Changing AI Workflows ](https://www.analyticsvidhya.com/blog/2026/07/loop-engineering-for-ai-agents/) (2026-07-09)
 - [DeepSeek DSpark: The Speculative Decoding Trick Behind 400% Faster LLM ](https://www.analyticsvidhya.com/blog/2026/07/deepseek-dspark-speculative-decoding/) (2026-07-08)
-- [OKF: Redefining Knowledge Bases for AI Agents](https://www.analyticsvidhya.com/blog/2026/07/open-knowledge-format-okf/) (2026-07-07)
 
 </details>
 
