@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SpaceX cleared to fly Starship again after booster failure in May](https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/) (2026-07-13)
-- [Waze adds new AI-powered features and customization updates](https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/) (2026-07-13)
-- [LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) (2026-07-13)
-- [Uber’s robotaxi lobbying effort puts it on a collision course with Waymo](https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/) (2026-07-13)
-- [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/) (2026-07-12)
+- [The wildest allegations in Apple’s trade secrets lawsuit against OpenAI](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/) (2026-07-13)
+- [Sam Altman’s space data center trash talk is what most experts already believe](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/) (2026-07-13)
+- [Investors send General Fusion soaring in debut as first publicly traded fusion company](https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/) (2026-07-13)
+- [12 states sue to block Paramount’s $110B Warner Bros. deal](https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/) (2026-07-13)
+- [Should AI help you get away with killing your spouse?](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/) (2026-07-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159) (2026-07-13)
-- [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159) (2026-07-13)
-- [A Right Too Expensive to Exercise Isn't a Right](https://deepbluedynamics.com/blog/right-too-expensive-to-exercise) (2026-07-13)
-- [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx) (2026-07-13)
-- [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop) (2026-07-13)
+- [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models) (2026-07-13)
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) (2026-07-13)
+- [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump) (2026-07-13)
+- [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/) (2026-07-13)
+- [Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents](https://github.com/morganwilliscloud/billai-bass) (2026-07-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [This free Mac app reveals the truth about your mystery USB-C cables](https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac) (2026-07-13)
-- [Social media limits are coming for teens across Europe](https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules) (2026-07-13)
-- [Waze is getting a bunch of new AI-powered features](https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty) (2026-07-13)
-- [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy) (2026-07-12)
-- [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review) (2026-07-12)
+- [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit) (2026-07-13)
+- [The EV market is on the road to recovery thanks to high gas prices](https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota) (2026-07-13)
+- [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims) (2026-07-13)
+- [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla) (2026-07-13)
+- [The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100](https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale) (2026-07-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?](https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/) (2026-07-12)
-- [A Jupiter-size planet that escaped its star's death](https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/) (2026-07-11)
-- [Overhaul of public lands grazing regulations seeks to cut public involvement](https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/) (2026-07-11)
-- [Quantum error correction can constantly recalibrate a processor](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) (2026-07-10)
-- [Increased drone surveillance of illegal July 4th fireworks led to $100K fine](https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/) (2026-07-10)
+- [Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows](https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/) (2026-07-13)
+- [Colorado will decide whether a "right to natural gas" is added to state constitution](https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/) (2026-07-13)
+- [Hackers quickly prove that Neo Geo Doom ports are not "impossible"](https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/) (2026-07-13)
+- [A "disaster waiting to happen"? Industry officials worry about Crew Dragon availability.](https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/) (2026-07-13)
+- [Now, defenders are embracing the prompt injection, too](https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/) (2026-07-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) (2026-07-13)
 - [The Download: a donor conception cap and world models for AI](https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/) (2026-07-13)
 - [The Download: Claude’s inner workings and OpenAI’s “super app”](https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/) (2026-07-10)
 - [Sperm donors need limits, says a European fertility group](https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/) (2026-07-10)
 - [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) (2026-07-09)
-- [The Download: a nuclear landmark, and China eyes Nvidia chips](https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/) (2026-07-09)
 
 </details>
 
@@ -86,44 +86,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Test a Pocket AI Device Across Battery, Offline, and Permission Loss](https://dev.to/roronoa_/test-a-pocket-ai-device-across-battery-offline-and-permission-loss-33dm) (2026-07-13)
-- [Benchmark an AI Agent Migration Without Believing One Speedup Number](https://dev.to/robinzzz/benchmark-an-ai-agent-migration-without-believing-one-speedup-number-33jd) (2026-07-13)
-- [Build a 30-Line Provenance Log for AI-Generated Code](https://dev.to/rivera123/build-a-30-line-provenance-log-for-ai-generated-code-32bi) (2026-07-13)
-- [Turn the Linux GhostLock Report Into a Fleet Patch Plan](https://dev.to/odd_background_328/turn-the-linux-ghostlock-report-into-a-fleet-patch-plan-1i3g) (2026-07-13)
-- [Learn Emulators by Writing One CHIP-8 Instruction](https://dev.to/magickong/learn-emulators-by-writing-one-chip-8-instruction-4a83) (2026-07-13)
+- [CVE-2026-42271: How a Popular AI Gateway Became an RCE Vector — And What to Audit in Your Stack](https://dev.to/alejandxr/cve-2026-42271-how-a-popular-ai-gateway-became-an-rce-vector-and-what-to-audit-in-your-stack-2718) (2026-07-13)
+- [EF Core Mapping for DDD — for Dummies](https://dev.to/stevsharp/ef-core-mapping-for-ddd-for-dummies-26fp) (2026-07-13)
+- [I built a VS Code extension that reads your code aloud and narrates git diffs with AI](https://dev.to/abhishek_sharma_a9792aee8/i-built-a-vs-code-extension-that-reads-your-code-aloud-and-narrates-git-diffs-with-ai-31b4) (2026-07-13)
+- [Where usability files actually break — and what I do about it](https://dev.to/jwithfield_qa/where-usability-files-actually-break-and-what-i-do-about-it-27aa) (2026-07-13)
+- [How to Use AI for Sprint Planning (And Stop Guessing Deadlines)](https://dev.to/muhammad_azhar_3826652565/how-to-use-ai-for-sprint-planning-and-stop-guessing-deadlines-40ln) (2026-07-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DB Modeling with ERWin](https://bryantson.medium.com/db-modeling-with-erwin-2113f6d7f667?source=rss------programming-5) (2026-07-13)
-- [RF-DETR CUDA (Part 1): Building a Fused Image Preprocessing Kernel from Scratch](https://farukalamai.medium.com/rf-detr-cuda-part-1-building-a-fused-image-preprocessing-kernel-from-scratch-26b0b4db3607?source=rss------programming-5) (2026-07-13)
-- [How to Bypass hCaptcha and reCAPTCHA in Python: A Step-by-Step Developer Guide](https://medium.com/@doniramdani810/how-to-bypass-hcaptcha-and-recaptcha-in-python-a-step-by-step-developer-guide-232199cc1a88?source=rss------programming-5) (2026-07-13)
-- [Spec Engineering: The Skill That Replaces Prompt Engineering](https://bluetickconsultants.medium.com/spec-engineering-the-skill-that-replaces-prompt-engineering-ddb218eaf78f?source=rss------programming-5) (2026-07-13)
-- [The Automation System is quietly running every AITool](https://pub.towardsai.net/the-automation-system-is-quietly-running-every-aitool-df91e87b68ba?source=rss------programming-5) (2026-07-13)
+- [Part 7B — Section 2 — React Event Handling Explained: Forms, Event Object & User Input.](https://medium.com/codetodeploy/part-7b-section-2-react-event-handling-explained-forms-event-object-user-input-d2d62e190400?source=rss------programming-5) (2026-07-13)
+- [Why Senior Developers Prefer Simpler Architectures](https://medium.com/real-world-net/why-senior-developers-prefer-simpler-architectures-542bb7d27dd7?source=rss------programming-5) (2026-07-13)
+- [SSH Over TLS Sounds Safer — Until You Remember Heartbleed](https://medium.com/@the_atomic_architect/why-ssh-doesnt-use-tls-heartbleed-2a72bb5a8501?source=rss------programming-5) (2026-07-13)
+- [Stop picking your poison in Next.js: How PPR kills the static vs dynamic tradeoff](https://medium.com/@contato.blense/stop-picking-your-poison-in-next-js-how-ppr-kills-the-static-vs-dynamic-tradeoff-0bc87b330823?source=rss------programming-5) (2026-07-13)
+- [AI Didn’t Kill Open Source. It Turned Maintainers Into Unpaid Code Reviewers.](https://medium.com/@samurai.stateless.coder/ai-pull-requests-open-source-maintainers-982fb6144ba6?source=rss------programming-5) (2026-07-13)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon SQS turns 20: Two decades of reliable messaging at scale](https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/) (2026-07-13)
+- [AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/) (2026-07-13)
 - [AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/) (2026-07-06)
 - [Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks](https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/) (2026-07-01)
 - [Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode](https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/) (2026-06-30)
-- [Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/) (2026-06-30)
-- [Automate public TLS certificate issuance with ACME support in AWS Certificate Manager](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/) (2026-06-30)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
-- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/) (2026-07-13)
 - [Meta’s AI Storage Blueprint at Scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/) (2026-07-01)
 - [10 Years of Meta’s Commitment to Python](https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/) (2026-06-30)
 - [Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study](https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/) (2026-06-25)
 - [How Meta Engineered Ultra-Narrow Batteries for AI Glasses](https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/) (2026-06-23)
-- [Adopting AV1 for Real-Time Communication (RTC) at Scale](https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/) (2026-06-22)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026) (2026-07-13)
 - [Seedream 5.0 Pro is now available on AI Gateway](https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway) (2026-07-11)
 - [Traces now support Tree and Waterfall views](https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views) (2026-07-10)
 - [You can now deploy Lovable apps to Vercel](https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel) (2026-07-09)
 - [Build logs now redact Sensitive Environment Variable values](https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values) (2026-07-09)
-- [Muse Spark 1.1 is now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway) (2026-07-09)
 
 </details>
 
@@ -427,11 +427,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [When the Postgres query planner goes rogue](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) (2026-07-13)
 - [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) (2026-07-08)
 - [One Postgres cluster, many apps](https://planetscale.com/blog/one-postgres-cluster-many-apps) (2026-06-25)
 - [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) (2026-06-16)
 - [See what your database is doing right now with Connections](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) (2026-06-15)
-- [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete) (2026-06-11)
 
 </details>
 
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [Pipedream vs. Zapier: Which is best? [2026]](https://zapier.com/blog/pipedream-vs-zapier) (2026-07-13)
 - [Zapier vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/zapier-vs-power-automate) (2026-07-13)
-- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
-- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
+- [Pipedream vs. Zapier: Which is best? [2026]](https://zapier.com/blog/pipedream-vs-zapier) (2026-07-13)
 - [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
+- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-10)
+- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
 
 </details>
 
@@ -568,13 +568,24 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
+- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
+- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic RAG: Let the Agent Search](https://towardsdatascience.com/agentic-rag-let-the-agent-search/) (2026-07-13)
+- [Context Rot: Why Claude Code Sessions Decay, and How to Govern Them](https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/) (2026-07-13)
 - [Building Models in Two Worlds: From Latent Constructs to Behavioral Signals](https://towardsdatascience.com/building-models-in-two-worlds-from-latent-constructs-to-behavioral-signals/) (2026-07-13)
 - [The Three Dimensions of Custom Agentic Alignment: Purpose, Principles and Practices](https://towardsdatascience.com/the-three-dimensions-of-custom-agentic-alignment-purpose-principles-and-practices/) (2026-07-13)
 - [RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each](https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/) (2026-07-12)
-- [How to Orchestrate 100+ Agents With Claude Code](https://towardsdatascience.com/how-to-orchestrate-100-agents-with-claude-code/) (2026-07-12)
-- [Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work](https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/) (2026-07-11)
 
 </details>
 
