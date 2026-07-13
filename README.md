@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness) (2026-07-12)
-- [LARP – Revenue infrastructure for serious founders](https://www.larp.website/) (2026-07-12)
-- [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/) (2026-07-12)
-- [Automation Without Understanding](https://arxiv.org/abs/2607.06377) (2026-07-12)
-- [Theo de Raadt: "You've been smoking something mind altering" (2007)](https://marc.info/?l=openbsd-misc&m=119318909016582) (2026-07-12)
+- [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county) (2026-07-13)
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) (2026-07-13)
+- [MacKenzie Scott's giving, in quality-adjusted life years](https://maxghenis.com/mackenzie-scott-qaly/) (2026-07-13)
+- [Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/) (2026-07-12)
+- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html) (2026-07-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy) (2026-07-12)
+- [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review) (2026-07-12)
 - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra) (2026-07-12)
 - [One of SteelSeries&#8217; best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale) (2026-07-12)
 - [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history) (2026-07-12)
-- [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables) (2026-07-12)
-- [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding) (2026-07-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2) (2026-07-12)
-- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j) (2026-07-12)
-- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0) (2026-07-12)
-- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7) (2026-07-12)
-- [I scanned 15 public Lovable apps. 40% load their database in the browser.](https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p) (2026-07-12)
+- [Weekend Hack-a-thon Post](https://dev.to/nexai2024/weekend-hack-a-thon-post-3ilm) (2026-07-13)
+- [Upcoming in ServeSense - SFTP/FTPS/FTP Server v26.7.18](https://dev.to/ducwuji/upcoming-in-servesense-sftpftpsftp-server-v26718-37mo) (2026-07-13)
+- [Rain Alert: A Voice Bot That Warns You Before Rain Catches You Off Guard](https://dev.to/ik_8a78062fd65be769dd835/rain-alert-a-voice-bot-that-warns-you-before-rain-catches-you-off-guard-2060) (2026-07-13)
+- [Context Engineering Is Changing How I Think — From Inside the Context Window](https://dev.to/hermestomagent/context-engineering-is-changing-how-i-think-from-inside-the-context-window-4gk6) (2026-07-13)
+- [How to Know If Your Claude SKILL.md Actually Works](https://dev.to/dileeppandiya/how-to-know-if-your-claude-skillmd-actually-works-3j4f) (2026-07-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Actually Happens When You Fine-Tune a Language Model, Explained Simply](https://medium.com/@athulkrish262/what-actually-happens-when-you-fine-tune-a-language-model-explained-simply-c6b5ae1528dd?source=rss------programming-5) (2026-07-12)
-- [The History of Kohistani: People, Land, and Legacy](https://medium.com/@jkpay96050/the-history-of-kohistani-people-land-and-legacy-0a32827736e3?source=rss------programming-5) (2026-07-12)
-- [Choosing an automotive software development company uae](https://faizkrm.medium.com/choosing-an-automotive-software-development-company-uae-8d8d4ec4bf19?source=rss------programming-5) (2026-07-12)
-- [How to Build a Scalable LLM-Powered README Generator](https://itnext.io/how-to-build-a-scalable-llm-powered-readme-generator-ea45d6adc4ed?source=rss------programming-5) (2026-07-12)
-- [The Only 4 Claude Prompts I Use Every Single Day](https://medium.com/@hii_mohit/the-only-4-claude-prompts-i-use-every-single-day-6302be0ea8e3?source=rss------programming-5) (2026-07-12)
+- [Race Conditions and Locks in Concurrency, Demystified](https://medium.com/@najmul.hasan284/race-conditions-and-locks-in-concurrency-demystified-551a5dd471a5?source=rss------programming-5) (2026-07-13)
+- [What Python Skills AI Still Can’t Replace in 2026](https://python.plainenglish.io/what-python-skills-ai-still-cant-replace-in-2026-57c1fa5b359b?source=rss------programming-5) (2026-07-13)
+- [I Let AI Review My Python Code Every Day](https://python.plainenglish.io/i-let-ai-review-my-python-code-every-day-fe17d08c0df1?source=rss------programming-5) (2026-07-13)
+- [How AI Is Changing the Way Java Developers Write Code in 2026](https://www.towardsdeeplearning.com/how-ai-is-changing-the-way-java-developers-write-code-in-2026-a2780d7c91e7?source=rss------programming-5) (2026-07-13)
+- [Python: The Language That Ate Software Development](https://medium.com/@yellowstone.kenya.254/python-the-language-that-ate-software-development-4ae50e651107?source=rss------programming-5) (2026-07-13)
 
 </details>
 
@@ -564,17 +564,6 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 - [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) (2026-07-08)
 - [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) (2026-07-07)
 - [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) (2026-07-07)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
-- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
-- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
-- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
-- [L’Oreal, Mondelez, and Nestle use AI to speed product development](https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/) (2026-07-07)
 
 </details>
 
