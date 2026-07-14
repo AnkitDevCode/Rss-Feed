@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Pinwheel launches a retro-inspired landline phone for kids](https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/) (2026-07-14)
 - [Already rich, already successful, why the last wave of tech winners is grinding again](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/) (2026-07-14)
-- [Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/) (2026-07-14)
+- [Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/) (2026-07-14)
 - [Video-generation startup PixVerse raises $439M, valuation soars past $2B](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/) (2026-07-14)
 - [X just tweaked its algorithm to make it more friendly, less battleground](https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/) (2026-07-13)
-- [Hermes agent maker Nous Research in talks for new funding at $1.5B valuation](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) (2026-07-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/) (2026-07-14)
-- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb) (2026-07-14)
-- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch) (2026-07-14)
-- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) (2026-07-14)
-- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html) (2026-07-14)
+- [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai) (2026-07-14)
+- [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/) (2026-07-14)
+- [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188) (2026-07-14)
+- [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html) (2026-07-14)
+- [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695) (2026-07-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft tests Windows Search without all the ads and fluff](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads) (2026-07-13)
-- [OnePlus is reportedly bailing on the US](https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe) (2026-07-13)
-- [A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut](https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale) (2026-07-13)
-- [The Shokz OpenRun Pro are the cheapest they’ve been since January](https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale) (2026-07-13)
-- [The Pixel colors might rule this year](https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor) (2026-07-13)
+- [EverQuest’s biggest fans are leading its revival](https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers) (2026-07-14)
+- [Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) (2026-07-14)
+- [The first sunlight reflecting space mirror has been cleared for launch](https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance) (2026-07-14)
+- [Let’s build a children’s public internet](https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal) (2026-07-14)
+- [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium) (2026-07-14)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Claude’s inner workings, and the future of world models](https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/) (2026-07-14)
+- [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/) (2026-07-14)
 - [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) (2026-07-13)
 - [The Download: a donor conception cap and world models for AI](https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/) (2026-07-13)
 - [The Download: Claude’s inner workings and OpenAI’s “super app”](https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/) (2026-07-10)
-- [Sperm donors need limits, says a European fertility group](https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/) (2026-07-10)
-- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) (2026-07-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Australian Exchange Rates: A Free Currency Converter API for Developers](https://dev.to/mathiasahlgren/australian-exchange-rates-a-free-currency-converter-api-for-developers-58i6) (2026-07-14)
-- [The 33k-token preamble is a bet. Here's how to check if it's paying off.](https://dev.to/wrencalloway/the-33k-token-preamble-is-a-bet-heres-how-to-check-if-its-paying-off-3d5h) (2026-07-14)
-- [nuqs: URL State Management in Next.js (2026)](https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn) (2026-07-14)
-- [--- title: Day 1: Starting My Web Dev Journey on a Tablet description: Learning HTML from scratch learning on my phone using my tablet and Acode. ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-on-a-tablet-description-learning-html-from-scratch-379) (2026-07-14)
-- [Turn one devlog into posts for every channel with n8n + AI](https://dev.to/shrisab_shrestha_ba84e9a3/turn-one-devlog-into-posts-for-every-channel-with-n8n-ai-35dp) (2026-07-14)
+- [AI-Assisted Coding: Is It Dullating Developer Skills?](https://dev.to/merbayerp/ai-assisted-coding-is-it-dullating-developer-skills-j3h) (2026-07-14)
+- [Implementation Control Matrix:[Part-7]: State-Owned ICS Cybersecurity Blueprint](https://dev.to/mike_anderson_d01f52129fb/implementation-control-matrixpart-7-state-owned-ics-cybersecurity-blueprint-1kjo) (2026-07-14)
+- [Python Design Patterns: Factory, Singleton, Observer](https://dev.to/qingluan/python-design-patterns-factory-singleton-observer-1eaa) (2026-07-14)
+- [Why Music Metadata Matching Is Harder Than It Looks](https://dev.to/birrings/why-music-metadata-matching-is-harder-than-it-looks-231k) (2026-07-14)
+- [Harmonic mixing over MCP: the DJ set-builder Spotify never shipped](https://dev.to/birrings/harmonic-mixing-over-mcp-the-dj-set-builder-spotify-never-shipped-2dgo) (2026-07-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Functions : A Beginner-Friendly Guide](https://medium.com/@karanveernetsquaresoftwares/python-functions-a-beginner-friendly-guide-f6918533940d?source=rss------programming-5) (2026-07-14)
-- [Understanding React’s useEffect Hook: More Than Just Running Code After Render](https://medium.com/@ddhote780/understanding-reacts-useeffect-hook-more-than-just-running-code-after-render-834ffb04576d?source=rss------programming-5) (2026-07-14)
-- [I Thought `const` Meant ‘Never Change.’ My Colleague’s Face Didn’t.](https://medium.com/@pazpaz25/i-thought-const-meant-never-change-i-was-wrong-875a7c454a73?source=rss------programming-5) (2026-07-14)
-- [7 HTML Table Elements You’ve Probably Ignored But Should Start Using Today](https://medium.com/@muhammadrafay9865/7-html-table-elements-youve-probably-ignored-but-should-start-using-today-4451b2a7ed6f?source=rss------programming-5) (2026-07-14)
-- [You Don’t Understand Python Until You Understand Its Object Model](https://medium.com/python-for-everything/you-dont-understand-python-until-you-understand-its-object-model-8221a38d5812?source=rss------programming-5) (2026-07-14)
+- [25 PostgreSQL Tricks Every Backend Engineer Should Know](https://blog.stackademic.com/25-postgresql-tricks-every-backend-engineer-should-know-702b07681b1c?source=rss------programming-5) (2026-07-14)
+- [Web Penetration Testing with Python](https://infosecwriteups.com/web-penetration-testing-with-python-144863bbcaab?source=rss------programming-5) (2026-07-14)
+- [Turn Wireshark PCAPs into sequence diagrams — and let an AI read them](https://medium.com/5g-nr/turn-wireshark-pcaps-into-sequence-diagrams-and-let-an-ai-read-them-2171bd2f7a37?source=rss------programming-5) (2026-07-14)
+- [Nine Screens of Pain: The UX of Submitting to the App Store](https://medium.com/@jules.sarah088/nine-screens-of-pain-the-ux-of-submitting-to-the-app-store-fc6caaa35922?source=rss------programming-5) (2026-07-14)
+- [I Almost Quit Learning to Code Because I Compared Myself to Everyone Else](https://medium.com/@vtnlabs/i-almost-quit-learning-to-code-because-i-compared-myself-to-everyone-else-8d152d871039?source=rss------programming-5) (2026-07-14)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/) (2026-07-14)
 - [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/) (2026-07-08)
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/) (2026-07-01)
 - [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/) (2026-06-27)
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) (2026-06-25)
-- [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) (2026-06-25)
 
 </details>
 
@@ -447,17 +447,6 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 </details>
 
 <details>
-<summary>⚡ Hasura Blog</summary>
-
-- [Data access layer: Unlocking the full potential of financial data](https://hasura.io/blog/data-access-layer-unlocking-the-full-potential-of-financial-data/) (2025-03-24)
-- [Time-traveling through your data architecture: Using data agents to understand change](https://hasura.io/blog/time-traveling-through-your-data-architecture-using-data-agents-to-understand-change/) (2025-03-19)
-- [Data products, data contracts: A new model for data management in financial services](https://hasura.io/blog/data-products-data-contracts-a-new-model-for-data-management-in-financial-services/) (2025-03-18)
-- [How PromptQL achieves 100% accuracy for AI on enterprise data](https://hasura.io/blog/how-promptql-achieves-100-accuracy-for-ai-on-enterprise-data/) (2025-03-11)
-- [Hasura: Powerful access control on MongoDB data](https://hasura.io/blog/hasura-powerful-access-control-on-mongodb-data/) (2025-03-05)
-
-</details>
-
-<details>
 <summary>🔗 GraphQL Blog</summary>
 
 - [Announcing the H1 2026 Grants](https://graphql.org/blog/2026-06-16-announcing-h1-2026-graphql-community-grants) (2026-06-16)
@@ -494,10 +483,10 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <summary>⚡ Zapier Blog</summary>
 
 - [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-14)
+- [What is an AI agent? ](https://zapier.com/blog/ai-agent) (2026-07-14)
 - [Zapier vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/zapier-vs-power-automate) (2026-07-13)
 - [Pipedream vs. Zapier: Which is best? [2026]](https://zapier.com/blog/pipedream-vs-zapier) (2026-07-13)
 - [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
-- [The best predictive analytics software in 2026](https://zapier.com/blog/predictive-analytics-software) (2026-07-10)
 
 </details>
 
@@ -568,13 +557,24 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
+- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
+- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
+- [Insilico Medicine advances AI drug for IPF to Phase III trials](https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/) (2026-07-07)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs](https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/) (2026-07-14)
 - [Agentic RAG: Let the Agent Search](https://towardsdatascience.com/agentic-rag-let-the-agent-search/) (2026-07-13)
 - [Context Rot: Why Claude Code Sessions Decay, and How to Govern Them](https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/) (2026-07-13)
 - [Building Models in Two Worlds: From Latent Constructs to Behavioral Signals](https://towardsdatascience.com/building-models-in-two-worlds-from-latent-constructs-to-behavioral-signals/) (2026-07-13)
 - [The Three Dimensions of Custom Agentic Alignment: Purpose, Principles and Practices](https://towardsdatascience.com/the-three-dimensions-of-custom-agentic-alignment-purpose-principles-and-practices/) (2026-07-13)
-- [RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each](https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/) (2026-07-12)
 
 </details>
 
@@ -592,22 +592,22 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [12 Ways to Reduce LLM Latency and Inference Costs in Production](https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production) (2026-07-14)
 - [Structured Language Model Generation with Outlines](https://www.kdnuggets.com/structured-language-model-generation-with-outlines) (2026-07-13)
 - [5 Real-World SQL Projects to Build Your Data Portfolio](https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio) (2026-07-13)
 - [Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)](https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills) (2026-07-10)
 - [Local Video Summarization Pipeline: Processing Frames with SmolVLM2-2.2B](https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b) (2026-07-10)
-- [Running OpenClaw with Ollama](https://www.kdnuggets.com/running-openclaw-with-ollama) (2026-07-09)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) (2026-07-14)
 - [Building AI Agents? Here Are Some Anti-Patterns to Avoid.](https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/) (2026-07-13)
 - [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (2026-07-10)
 - [LLM Orchestration Frameworks Compared: LangChain vs. LlamaIndex vs. Raw API Calls](https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/) (2026-07-09)
 - [Tools vs. Subagents: Building Effective AI Agents Without Over-Engineering](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) (2026-07-07)
-- [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) (2026-07-06)
 
 </details>
 
