@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The wildest allegations in Apple’s trade secrets lawsuit against OpenAI](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/) (2026-07-13)
-- [Sam Altman’s space data center trash talk is what most experts already believe](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/) (2026-07-13)
-- [Investors send General Fusion soaring in debut as first publicly traded fusion company](https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/) (2026-07-13)
-- [12 states sue to block Paramount’s $110B Warner Bros. deal](https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/) (2026-07-13)
-- [Should AI help you get away with killing your spouse?](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/) (2026-07-13)
+- [Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/) (2026-07-14)
+- [Video-generation startup PixVerse raises $439M, valuation soars past $2B](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/) (2026-07-14)
+- [X just tweaked its algorithm to make it more friendly, less battleground](https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/) (2026-07-13)
+- [Hermes agent maker Nous Research in talks for new funding at $1.5B valuation](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) (2026-07-13)
+- [Satya Nadella has issued a shocking warning to companies using AI](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/) (2026-07-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models) (2026-07-13)
-- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) (2026-07-13)
-- [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump) (2026-07-13)
-- [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/) (2026-07-13)
-- [Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents](https://github.com/morganwilliscloud/billai-bass) (2026-07-13)
+- [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/) (2026-07-14)
+- [ESBMC-Arduino: Closing the Deployment Gap for Formal Verification](https://arxiv.org/abs/2607.08550) (2026-07-14)
+- [The Git history command deserves more attention](https://lalitm.com/post/git-history/) (2026-07-14)
+- [What did SFFA vs. Harvard reveal about admissions?](https://sorting-machine.pages.dev/) (2026-07-14)
+- [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter) (2026-07-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit) (2026-07-13)
-- [The EV market is on the road to recovery thanks to high gas prices](https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota) (2026-07-13)
-- [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims) (2026-07-13)
-- [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla) (2026-07-13)
-- [The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100](https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale) (2026-07-13)
+- [Microsoft tests Windows Search without all the ads and fluff](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads) (2026-07-13)
+- [OnePlus is reportedly bailing on the US](https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe) (2026-07-13)
+- [A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut](https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale) (2026-07-13)
+- [The Shokz OpenRun Pro are the cheapest they’ve been since January](https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale) (2026-07-13)
+- [The Pixel colors might rule this year](https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor) (2026-07-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows](https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/) (2026-07-13)
-- [Colorado will decide whether a "right to natural gas" is added to state constitution](https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/) (2026-07-13)
-- [Hackers quickly prove that Neo Geo Doom ports are not "impossible"](https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/) (2026-07-13)
-- [A "disaster waiting to happen"? Industry officials worry about Crew Dragon availability.](https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/) (2026-07-13)
-- [Now, defenders are embracing the prompt injection, too](https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/) (2026-07-13)
+- [US continues to shun Ebola-infected citizens; second American sent to Germany](https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/) (2026-07-13)
+- [The US government warns that Russia state hackers are coming after your router](https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/) (2026-07-13)
+- [Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor](https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/) (2026-07-13)
+- [California creates $3,500 rebate for new electric vehicle buyers](https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/) (2026-07-13)
+- [Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets](https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/) (2026-07-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CVE-2026-42271: How a Popular AI Gateway Became an RCE Vector — And What to Audit in Your Stack](https://dev.to/alejandxr/cve-2026-42271-how-a-popular-ai-gateway-became-an-rce-vector-and-what-to-audit-in-your-stack-2718) (2026-07-13)
-- [EF Core Mapping for DDD — for Dummies](https://dev.to/stevsharp/ef-core-mapping-for-ddd-for-dummies-26fp) (2026-07-13)
-- [I built a VS Code extension that reads your code aloud and narrates git diffs with AI](https://dev.to/abhishek_sharma_a9792aee8/i-built-a-vs-code-extension-that-reads-your-code-aloud-and-narrates-git-diffs-with-ai-31b4) (2026-07-13)
-- [Where usability files actually break — and what I do about it](https://dev.to/jwithfield_qa/where-usability-files-actually-break-and-what-i-do-about-it-27aa) (2026-07-13)
-- [How to Use AI for Sprint Planning (And Stop Guessing Deadlines)](https://dev.to/muhammad_azhar_3826652565/how-to-use-ai-for-sprint-planning-and-stop-guessing-deadlines-40ln) (2026-07-13)
+- [Breaking the Clipboard: Why Copy-Pasting Across Different OS is Still Painful](https://dev.to/simpledrop/breaking-the-clipboard-why-copy-pasting-across-different-os-is-still-painful-20ec) (2026-07-14)
+- [Local-first RAG for privileged legal documents: why citations need verification](https://dev.to/janderswag/local-first-rag-for-privileged-legal-documents-why-citations-need-verification-4936) (2026-07-14)
+- [Pollux: Let's explore Nigerian political sentiment](https://dev.to/akcumeh/pollux-lets-explore-nigerian-political-sentiment-ifo) (2026-07-14)
+- [A Folder of Docs Is Not a Knowledge Base](https://dev.to/agentiknet/a-folder-of-docs-is-not-a-knowledge-base-55b9) (2026-07-14)
+- [An Agent That Can Spawn Agents Is a Fork Bomb With Good Intentions](https://dev.to/agentiknet/an-agent-that-can-spawn-agents-is-a-fork-bomb-with-good-intentions-2kjh) (2026-07-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Part 7B — Section 2 — React Event Handling Explained: Forms, Event Object & User Input.](https://medium.com/codetodeploy/part-7b-section-2-react-event-handling-explained-forms-event-object-user-input-d2d62e190400?source=rss------programming-5) (2026-07-13)
-- [Why Senior Developers Prefer Simpler Architectures](https://medium.com/real-world-net/why-senior-developers-prefer-simpler-architectures-542bb7d27dd7?source=rss------programming-5) (2026-07-13)
-- [SSH Over TLS Sounds Safer — Until You Remember Heartbleed](https://medium.com/@the_atomic_architect/why-ssh-doesnt-use-tls-heartbleed-2a72bb5a8501?source=rss------programming-5) (2026-07-13)
-- [Stop picking your poison in Next.js: How PPR kills the static vs dynamic tradeoff](https://medium.com/@contato.blense/stop-picking-your-poison-in-next-js-how-ppr-kills-the-static-vs-dynamic-tradeoff-0bc87b330823?source=rss------programming-5) (2026-07-13)
-- [AI Didn’t Kill Open Source. It Turned Maintainers Into Unpaid Code Reviewers.](https://medium.com/@samurai.stateless.coder/ai-pull-requests-open-source-maintainers-982fb6144ba6?source=rss------programming-5) (2026-07-13)
+- [Demystifying the 'Personal Trading Agent': The Real Work Behind the Curtain](https://medium.com/@yaswanth.thod/demystifying-the-personal-trading-agent-the-real-work-behind-the-curtain-291820617d6b?source=rss------programming-5) (2026-07-14)
+- [Software Engineering Taught Me a Better Way to Fail](https://code.likeagirl.io/software-engineering-taught-me-a-better-way-to-fail-4f74580ff5d0?source=rss------programming-5) (2026-07-14)
+- [I Gave Netflix's New Always-On Channels a Spin and Here's My Take](https://medium.com/@codingguy/i-gave-netflixs-new-always-on-channels-a-spin-and-here-s-my-take-bb00b6c16023?source=rss------programming-5) (2026-07-14)
+- [Israel from the Six-Day War to 3 Years. The Math Is Breaking.](https://medium.com/reflections-and-realities/israel-from-the-six-day-war-to-3-years-the-math-is-breaking-9cfbae9eeece?source=rss------programming-5) (2026-07-14)
+- [The Hidden Cost of “Convenient” JavaScript](https://javascript.plainenglish.io/the-hidden-cost-of-convenient-javascript-63b49763f1f3?source=rss------programming-5) (2026-07-14)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 - [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
+- [Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency](https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/) (2026-06-30)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
+- [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) (2026-07-13)
 - [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/) (2026-07-08)
 - [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) (2026-06-26)
 - [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) (2026-06-25)
-- [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/) (2026-06-25)
-- [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/) (2026-06-25)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4) (2026-07-13)
 - [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4) (2026-06-29)
 - [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4) (2026-06-23)
 - [How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4) (2026-06-22)
 - [The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4) (2026-06-19)
-- [Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4) (2026-06-19)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support) (2026-07-14)
 - [Open-weight models surge to 29% of volume, price per token flattens](https://vercel.com/blog/ai-gateway-production-index-july-2026) (2026-07-13)
-- [Seedream 5.0 Pro is now available on AI Gateway](https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway) (2026-07-11)
-- [Traces now support Tree and Waterfall views](https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views) (2026-07-10)
-- [You can now deploy Lovable apps to Vercel](https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel) (2026-07-09)
-- [Build logs now redact Sensitive Environment Variable values](https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values) (2026-07-09)
+- [Agent Runs now show subagent activity on eve projects](https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects) (2026-07-13)
+- [Manage Vercel Flags targeting rules from the CLI](https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli) (2026-07-13)
+- [Configure which sources can create deployments with Deployment Policies](https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies) (2026-07-13)
 
 </details>
 
