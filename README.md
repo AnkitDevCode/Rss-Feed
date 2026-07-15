@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/) (2026-07-15)
-- [Lorde says AI glasses are ‘not sexy’](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/) (2026-07-14)
-- [OpenAI’s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/) (2026-07-14)
-- [OpenAI pushes back on Apple trade secret lawsuit](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/) (2026-07-14)
-- [OpenAI’s new flagship model deletes files on its own, people keep warning](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/) (2026-07-14)
+- [Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/) (2026-07-15)
+- [Rime picks up $24M Series A to help enterprises field customer calls](https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/) (2026-07-15)
+- [Reelful’s AI turns your camera roll into short-form videos for social media](https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/) (2026-07-15)
+- [Indian AI coding startup Emergent becomes a unicorn with $130M Series C](https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/) (2026-07-15)
+- [Vint Cerf is working on a plan to unleash AI agents on the open internet](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) (2026-07-15)
-- [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/) (2026-07-15)
-- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) (2026-07-15)
-- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) (2026-07-15)
-- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) (2026-07-15)
+- [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541) (2026-07-15)
+- [Jiga (YC W21) is hiring the best people to make manufacturing great again](https://jiga.io/about-us/) (2026-07-15)
+- [Show HN: Make senders work to get into your inbox](https://www.captchainbox.com) (2026-07-15)
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269) (2026-07-15)
+- [Filmgrab: Films A-Z](https://film-grab.com/movies-a-z/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Starlink’s V5 dish is now available — here’s how it compares](https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison) (2026-07-15)
-- [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play) (2026-07-15)
-- [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale) (2026-07-14)
-- [Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates) (2026-07-14)
-- [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device) (2026-07-14)
+- [The tiniest MMO](https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest) (2026-07-15)
+- [The Motorola Edge 70 Max is all about power](https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability) (2026-07-15)
+- [Home Depot’s viral 12-foot skeleton now talks](https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds) (2026-07-15)
+- [Samsung’s new foldable display is harder to crease and damage](https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables) (2026-07-15)
+- [Spotify’s Daniel Ek is bringing his body-scanning clinics to the US](https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push) (2026-07-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A most improbable astronaut just went to space](https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/) (2026-07-15)
+- [How hard is it to build orbital data centers, actually?](https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/) (2026-07-15)
+- [Sotheby's big T. rex auction raises concerns hype and wealth are upending science](https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/) (2026-07-15)
 - [Microsoft’s Secure Boot has been broken for a decade and no one noticed until now](https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/) (2026-07-14)
 - [Trump admin puts Americans in Congo on "do-not-board" list, barring return](https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/) (2026-07-14)
-- [Lawsuit claims Meta's layoff decisions were made by AI, not humans](https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/) (2026-07-14)
-- [Probe into explosive diarrheal cases points to Taco Bell and bad lettuce](https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/) (2026-07-14)
-- [US military sent explosive drone boats into combat for the first time](https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/) (2026-07-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a useful quantum machine and a record-breaking subsea tunnel](https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/) (2026-07-15)
 - [The Download: Claude’s inner workings, and the future of world models](https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/) (2026-07-14)
 - [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/) (2026-07-14)
 - [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) (2026-07-13)
 - [The Download: a donor conception cap and world models for AI](https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/) (2026-07-13)
-- [The Download: Claude’s inner workings and OpenAI’s “super app”](https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/) (2026-07-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [FullAgenticStack: Semantic Behavior Type: LinearAutoDestroy](https://dev.to/fullagenticstack/fullagenticstack-semantic-behavior-type-linearautodestroy-4bi3) (2026-07-15)
-- [I Merged 348 PRs. Here Are The 11 Bugs That Tested My Sanity.](https://dev.to/aniruddhaadak/i-merged-348-prs-here-are-the-11-bugs-that-tested-my-sanity-1ne8) (2026-07-15)
-- [Making Film Format Searchable](https://dev.to/alistairjcbrown/making-film-format-searchable-cgi) (2026-07-15)
-- [RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That Actually Matters](https://dev.to/jps27cse/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-mid) (2026-07-15)
-- [RAG vs Fine-tuning](https://dev.to/vahid_aghajani_60ce9dbec9/rag-vs-fine-tuning-2m64) (2026-07-15)
+- [My First Open Source Contribution That Got Merged](https://dev.to/prashant_patil_49/my-first-open-source-contribution-that-got-merged-4jc9) (2026-07-15)
+- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f) (2026-07-15)
+- [A Black Box Drawn Over a PDF Isn't Redaction — Here's How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd) (2026-07-15)
+- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48) (2026-07-15)
+- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8) (2026-07-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The JavaScript Mistakes That Only Show Up in Production](https://javascript.plainenglish.io/the-javascript-mistakes-that-only-show-up-in-production-7bea652ad73d?source=rss------programming-5) (2026-07-15)
-- [RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That…](https://medium.com/@jackpritomsoren/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-9108710f10cd?source=rss------programming-5) (2026-07-15)
-- [The Middleware Shortcut That Became a Security Problem](https://medium.com/skillstuff/the-middleware-shortcut-that-became-a-security-problem-63ad5614c73c?source=rss------programming-5) (2026-07-15)
-- [Classes And Objects in Python](https://medium.com/@karanveernetsquaresoftwares/classes-and-objects-in-python-cdb96bcaadf2?source=rss------programming-5) (2026-07-15)
-- [5 HTML Form Tags Every Beginner Should Master](https://medium.com/@muhammadrafay9865/5-html-form-tags-every-beginner-should-master-3b020160d867?source=rss------programming-5) (2026-07-15)
+- [How HashMap Works Internally (Java & Kotlin)](https://medium.com/@hajiyevelnur04/how-hashmap-works-internally-java-kotlin-509a6e64d9a4?source=rss------programming-5) (2026-07-15)
+- [為什麼你問資料庫一個問題，還需要先學 SQL？](https://medium.com/@jamesju/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%95%8F%E8%B3%87%E6%96%99%E5%BA%AB%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C-%E9%82%84%E9%9C%80%E8%A6%81%E5%85%88%E5%AD%B8-sql-464f0fd2cf4f?source=rss------programming-5) (2026-07-15)
+- [Why Do You Still Need SQL to Ask Your Database a Simple Question?](https://medium.com/@jamesju/why-do-you-still-need-sql-to-ask-your-database-a-simple-question-0dec0a7a6752?source=rss------programming-5) (2026-07-15)
+- [I Stopped Grinding LeetCode Randomly — Here’s What Actually Worked” or “The Pattern Recognition…](https://medium.com/@wahidashaik12/i-stopped-grinding-leetcode-randomly-heres-what-actually-worked-or-the-pattern-recognition-52d9ae521e5c?source=rss------programming-5) (2026-07-15)
+- [HubSpot to Salesforce Migration](https://medium.com/@elena.james/hubspot-to-salesforce-migration-49c239bc22d5?source=rss------programming-5) (2026-07-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/) (2026-07-15)
 - [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/) (2026-07-14)
 - [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/) (2026-07-14)
 - [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/) (2026-07-09)
 - [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) (2026-07-08)
-- [AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters](https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/) (2026-07-07)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Rider 2026.2 Release Candidate Is Out!](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/) (2026-07-15)
+- [ReSharper 2026.2 Release Candidate Released!](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/) (2026-07-15)
+- [JetBrains GameDev Days 2026 – Call for Speakers](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/) (2026-07-15)
 - [MPS 2026.1 Has Been Released!](https://blog.jetbrains.com/mps/2026/07/mps-2026-1-released/) (2026-07-14)
 - [What’s New in ReSharper 2026.2 for VS Code-compatible editors ](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/) (2026-07-13)
-- [Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/) (2026-07-13)
-- [dotInsights | July 2026](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/) (2026-07-10)
-- [The History of Kodee, Kotlin’s Mascot](https://blog.jetbrains.com/research/2026/07/the-history-of-kodee/) (2026-07-09)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How To Build An AI Phone Agent With Twilio Conversation Relay in Node.js
+How to Build An AI Phone Agent With Twilio Conversation Relay in PHP
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-node
-) (2026-07-10)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php
+) (2026-07-15)
 - [
-How to Build an AI Phone Agent with Twilio Conversation Relay in C Sharp
+How To Build An AI Phone Agent With Twilio Conversation Relay
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-csharp
-) (2026-07-10)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay
+) (2026-07-14)
 - [
-Validate Phone Numbers in Rust
+Overcoming the Spam Epidemic: Twilio Branded Calling Enters Public Beta in the UK, Canada, and Germany
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/validate-phone-numbers-rust
-) (2026-07-09)
+https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-uk-canada-germany
+) (2026-07-14)
 - [
-How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+Announcing Twilio Lookup Line Status Public Beta: Verify Number Deliverability Before You Send   
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
-) (2026-07-07)
+https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-beta
+) (2026-07-14)
 - [
-8 top AI-powered contact center platforms in 2026
+What is a webhook? Endpoints, examples, and how they work
 ](
-https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
-) (2026-07-07)
+https://www.twilio.com/en-us/blog/insights/whats-webhook
+) (2026-07-14)
 
 </details>
 
@@ -558,33 +558,22 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) (2026-07-15)
 - [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) (2026-07-10)
 - [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents) (2026-07-08)
 - [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) (2026-07-08)
 - [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) (2026-07-07)
-- [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) (2026-07-07)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
-- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
-- [NHS AI blood test could reduce invasive womb cancer checks](https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/) (2026-07-09)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Most RAG Hallucinations Are Retrieval Failures: How the Retrieval Brick Decides What the Model Can Invent](https://towardsdatascience.com/most-rag-hallucinations-are-retrieval-failures-how-the-retrieval-brick-decides-what-the-model-can-invent/) (2026-07-15)
 - [How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI](https://towardsdatascience.com/how-im-making-sure-my-analytics-career-doesnt-get-eaten-by-ai/) (2026-07-14)
 - [A Gentle Introduction to Autoencoders & Latent Space](https://towardsdatascience.com/gentle-introduction-to-autoencoders-latent-space/) (2026-07-14)
 - [How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured)](https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/) (2026-07-14)
 - [Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs](https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/) (2026-07-14)
-- [Agentic RAG: Let the Agent Search](https://towardsdatascience.com/agentic-rag-let-the-agent-search/) (2026-07-13)
 
 </details>
 
@@ -602,22 +591,22 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Python Frameworks for Orchestrating Local AI Agents](https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents) (2026-07-15)
 - [Getting Started with Conductor for Gemini CLI](https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli) (2026-07-14)
 - [12 Ways to Reduce LLM Latency and Inference Costs in Production](https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production) (2026-07-14)
 - [Structured Language Model Generation with Outlines](https://www.kdnuggets.com/structured-language-model-generation-with-outlines) (2026-07-13)
 - [5 Real-World SQL Projects to Build Your Data Portfolio](https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio) (2026-07-13)
-- [Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)](https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills) (2026-07-10)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) (2026-07-15)
 - [LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) (2026-07-14)
 - [Building AI Agents? Here Are Some Anti-Patterns to Avoid.](https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/) (2026-07-13)
 - [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (2026-07-10)
 - [LLM Orchestration Frameworks Compared: LangChain vs. LlamaIndex vs. Raw API Calls](https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/) (2026-07-09)
-- [Tools vs. Subagents: Building Effective AI Agents Without Over-Engineering](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) (2026-07-07)
 
 </details>
 
