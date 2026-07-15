@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist) (2026-07-15)
+- [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/) (2026-07-15)
+- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) (2026-07-15)
 - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) (2026-07-15)
-- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/) (2026-07-15)
 - [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) (2026-07-15)
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) (2026-07-15)
-- [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator) (2026-07-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Starlink’s V5 dish is now available — here’s how it compares](https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison) (2026-07-15)
+- [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play) (2026-07-15)
 - [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale) (2026-07-14)
-- [Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates) (2026-07-14)
+- [Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates) (2026-07-14)
 - [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device) (2026-07-14)
-- [SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload) (2026-07-14)
-- [Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price](https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale) (2026-07-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [意件（ideaware）诞生与Python/Java正在变成汇编语言](https://dev.to/cognitalk/yi-jian-ideawaredan-sheng-yu-pythonjavazheng-zai-bian-cheng-hui-bian-yu-yan-9fc) (2026-07-15)
-- [Smarter Syncing: The Rise of AI in Your Cloud Storage](https://dev.to/fuadhusnan_f44f3e13/smarter-syncing-the-rise-of-ai-in-your-cloud-storage-4p3o) (2026-07-15)
-- [[Boost]](https://dev.to/theycallmeswift/-nom) (2026-07-15)
-- [Best Railway Alternatives for Agencies in 2026: Do Not Put Client Production Work on a Prototype Platform](https://dev.to/engineeringjournal/best-railway-alternatives-for-agencies-in-2026-do-not-put-client-production-work-on-a-prototype-mih) (2026-07-15)
-- [The PRNG draw-tape: eager versus lazy](https://dev.to/ernestohs/the-prng-draw-tape-eager-versus-lazy-1408) (2026-07-15)
+- [FullAgenticStack: Semantic Behavior Type: LinearAutoDestroy](https://dev.to/fullagenticstack/fullagenticstack-semantic-behavior-type-linearautodestroy-4bi3) (2026-07-15)
+- [I Merged 348 PRs. Here Are The 11 Bugs That Tested My Sanity.](https://dev.to/aniruddhaadak/i-merged-348-prs-here-are-the-11-bugs-that-tested-my-sanity-1ne8) (2026-07-15)
+- [Making Film Format Searchable](https://dev.to/alistairjcbrown/making-film-format-searchable-cgi) (2026-07-15)
+- [RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That Actually Matters](https://dev.to/jps27cse/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-mid) (2026-07-15)
+- [RAG vs Fine-tuning](https://dev.to/vahid_aghajani_60ce9dbec9/rag-vs-fine-tuning-2m64) (2026-07-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Programming Languages: The Invisible Tools That Quietly Shape the Digital World](https://medium.com/@kishorekommu4/programming-languages-the-invisible-tools-that-quietly-shape-the-digital-world-8569c42212cb?source=rss------programming-5) (2026-07-15)
-- [I Was a Software Engineer for Years. Owning My Own App Taught Me More in 3 Months.](https://medium.com/@rehanali_24650/i-was-a-software-engineer-for-years-owning-my-own-app-taught-me-more-in-3-months-ce93c39f02bd?source=rss------programming-5) (2026-07-15)
-- [We Cut CPU by 42%. A 6-Minute Outage Erased Every Performance Win.](https://medium.com/@Krishnajlathi/we-cut-cpu-by-42-a-6-minute-outage-erased-every-performance-win-f9d9c0b2e8e6?source=rss------programming-5) (2026-07-15)
-- [NeetCode 150 — Problem Solving in java — #5 Top K Frequent Elements](https://medium.com/@mohanaavishnupriyad/neetcode-150-problem-solving-in-java-5-top-k-frequent-elements-360bc4c48983?source=rss------programming-5) (2026-07-15)
-- [What is LLM Observability](https://medium.com/data-science-collective/what-is-llm-observability-6d1afd441e38?source=rss------programming-5) (2026-07-15)
+- [The JavaScript Mistakes That Only Show Up in Production](https://javascript.plainenglish.io/the-javascript-mistakes-that-only-show-up-in-production-7bea652ad73d?source=rss------programming-5) (2026-07-15)
+- [RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That…](https://medium.com/@jackpritomsoren/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-9108710f10cd?source=rss------programming-5) (2026-07-15)
+- [The Middleware Shortcut That Became a Security Problem](https://medium.com/skillstuff/the-middleware-shortcut-that-became-a-security-problem-63ad5614c73c?source=rss------programming-5) (2026-07-15)
+- [Classes And Objects in Python](https://medium.com/@karanveernetsquaresoftwares/classes-and-objects-in-python-cdb96bcaadf2?source=rss------programming-5) (2026-07-15)
+- [5 HTML Form Tags Every Beginner Should Master](https://medium.com/@muhammadrafay9865/5-html-form-tags-every-beginner-should-master-3b020160d867?source=rss------programming-5) (2026-07-15)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-14)
+- [84% of companies have AI pilots that never reach deployment. Here's what's keeping them locked in limbo.](https://zapier.com/blog/ai-pilot-survey) (2026-07-14)
 - [What is an AI agent? ](https://zapier.com/blog/ai-agent) (2026-07-14)
-- [Zapier vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/zapier-vs-power-automate) (2026-07-13)
+- [OpenAI models: Every model (including GPT-5.6) and what it's best for](https://zapier.com/blog/openai-models) (2026-07-14)
 - [Pipedream vs. Zapier: Which is best? [2026]](https://zapier.com/blog/pipedream-vs-zapier) (2026-07-13)
-- [AI agents for marketing: What they are, benefits, and examples](https://zapier.com/blog/ai-agents-for-marketing) (2026-07-10)
+- [Zapier vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/zapier-vs-power-automate) (2026-07-13)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/ai-contact-center-platforms
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Inside the Claude Fable 5 System Prompt: A Full Breakdown](https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/) (2026-07-15)
 - [What is Meta Prompting and How does it work?](https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/) (2026-07-14)
 - [How to Measure Video Similarity: 6 Techniques I Tested (and the One I Shipped) ](https://www.analyticsvidhya.com/blog/2026/07/video-similarity-measurement/) (2026-07-13)
 - [Handling Imbalanced Classification: What Works Better Than SMOTE](https://www.analyticsvidhya.com/blog/2026/07/class-imbalance-ml/) (2026-07-12)
 - [RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval](https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/) (2026-07-11)
-- [GPT-5.6 Is Here: Sol, Terra, and Luna](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-terra-luna/) (2026-07-10)
 
 </details>
 
