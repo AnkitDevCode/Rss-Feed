@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Lucid Motors denies report it’s considering bankruptcy](https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/) (2026-07-14)
-- [Google faces another AI training lawsuit from major publishers](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/) (2026-07-14)
-- [DeepMind CEO calls for an independent standards body to regulate frontier AI](https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/) (2026-07-14)
-- [DeepSeek reportedly in talks to raise $1.5B, then IPO](https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/) (2026-07-14)
-- [Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/) (2026-07-14)
+- [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/) (2026-07-15)
+- [Lorde says AI glasses are ‘not sexy’](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/) (2026-07-14)
+- [OpenAI’s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/) (2026-07-14)
+- [OpenAI pushes back on Apple trade secret lawsuit](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/) (2026-07-14)
+- [OpenAI’s new flagship model deletes files on its own, people keep warning](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/) (2026-07-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b) (2026-07-14)
-- [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security) (2026-07-14)
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) (2026-07-14)
-- [S&P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html) (2026-07-14)
-- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/) (2026-07-14)
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) (2026-07-15)
+- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/) (2026-07-15)
+- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) (2026-07-15)
+- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) (2026-07-15)
+- [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator) (2026-07-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale) (2026-07-14)
+- [Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates) (2026-07-14)
+- [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device) (2026-07-14)
+- [SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload) (2026-07-14)
 - [Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price](https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale) (2026-07-14)
-- [Plex problems prevented users from streaming movies and shows](https://www.theverge.com/tech/965518/plex-tv-down-outage-issues) (2026-07-14)
-- [Nintendo’s Switch 2 bundle that includes a game is $50 off](https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale) (2026-07-14)
-- [Meta accused of using biased AI targeting for mass layoffs](https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs) (2026-07-14)
-- [Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries](https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant) (2026-07-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [US military sent explosive drone boats into combat for the first time](https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/) (2026-07-14)
-- [These painted e-tattoos could be the future of wearable biosensors](https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/) (2026-07-14)
-- [Google revamps image search for its 25th anniversary with more images and more AI](https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/) (2026-07-14)
-- [New York bans data center construction for a year, rattling AI industry](https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/) (2026-07-14)
+- [Microsoft’s Secure Boot has been broken for a decade and no one noticed until now](https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/) (2026-07-14)
+- [Trump admin puts Americans in Congo on "do-not-board" list, barring return](https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/) (2026-07-14)
+- [Lawsuit claims Meta's layoff decisions were made by AI, not humans](https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/) (2026-07-14)
 - [Probe into explosive diarrheal cases points to Taco Bell and bad lettuce](https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/) (2026-07-14)
+- [US military sent explosive drone boats into combat for the first time](https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/) (2026-07-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲](https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk) (2026-07-14)
-- [Lesson 2 - Security: Secure as you build](https://dev.to/smukker/lesson-2-security-secure-as-you-build-3c5b) (2026-07-14)
-- [Advanced SPF Record Configuration: A Technical Step-by-Step Guide to Prevent 550 SPF Check Failed Errors](https://dev.to/azeem_malik/advanced-spf-record-configuration-a-technical-step-by-step-guide-to-prevent-550-spf-check-failed-48af) (2026-07-14)
-- [How to Use Claude Code Plugins (Install from a Marketplace or Build Your Own)](https://dev.to/thryx/how-to-use-claude-code-plugins-install-from-a-marketplace-or-build-your-own-574) (2026-07-14)
-- [Production-Ready AI Agents in Node.js: Iteration Caps and Tracing](https://dev.to/swapnali_dashrath_8827f08/production-ready-ai-agents-in-nodejs-iteration-caps-and-tracing-3nh1) (2026-07-14)
+- [意件（ideaware）诞生与Python/Java正在变成汇编语言](https://dev.to/cognitalk/yi-jian-ideawaredan-sheng-yu-pythonjavazheng-zai-bian-cheng-hui-bian-yu-yan-9fc) (2026-07-15)
+- [Smarter Syncing: The Rise of AI in Your Cloud Storage](https://dev.to/fuadhusnan_f44f3e13/smarter-syncing-the-rise-of-ai-in-your-cloud-storage-4p3o) (2026-07-15)
+- [[Boost]](https://dev.to/theycallmeswift/-nom) (2026-07-15)
+- [Best Railway Alternatives for Agencies in 2026: Do Not Put Client Production Work on a Prototype Platform](https://dev.to/engineeringjournal/best-railway-alternatives-for-agencies-in-2026-do-not-put-client-production-work-on-a-prototype-mih) (2026-07-15)
+- [The PRNG draw-tape: eager versus lazy](https://dev.to/ernestohs/the-prng-draw-tape-eager-versus-lazy-1408) (2026-07-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Thought Spring Security Was Overkill. Then My Filter Hit 120 Lines.](https://medium.com/@rajatraghav7797/i-thought-spring-security-was-overkill-then-my-filter-hit-120-lines-a0d79eff7494?source=rss------programming-5) (2026-07-14)
-- [Part 7C — Advanced React Event Handling: Event Bubbling, stopPropagation & Best Practices ()](https://medium.com/@theDevBluePrint/part-7c-advanced-react-event-handling-event-bubbling-stoppropagation-best-practices-0777410e7060?source=rss------programming-5) (2026-07-14)
-- [How Embracing Gemini API Transformed My Workflows](https://medium.com/@codingguy/how-embracing-gemini-api-transformed-my-workflows-eb784f5c20f2?source=rss------programming-5) (2026-07-14)
-- [The Mistake That Made Server and Client Logic Fight Each Other](https://medium.com/skillstuff/the-mistake-that-made-server-and-client-logic-fight-each-other-483668c84897?source=rss------programming-5) (2026-07-14)
-- [what is Cross Site Scripting XSS?](https://medium.com/@kevinchacko58/what-is-cross-site-scripting-xss-ac2cba9f341a?source=rss------programming-5) (2026-07-14)
+- [Programming Languages: The Invisible Tools That Quietly Shape the Digital World](https://medium.com/@kishorekommu4/programming-languages-the-invisible-tools-that-quietly-shape-the-digital-world-8569c42212cb?source=rss------programming-5) (2026-07-15)
+- [I Was a Software Engineer for Years. Owning My Own App Taught Me More in 3 Months.](https://medium.com/@rehanali_24650/i-was-a-software-engineer-for-years-owning-my-own-app-taught-me-more-in-3-months-ce93c39f02bd?source=rss------programming-5) (2026-07-15)
+- [We Cut CPU by 42%. A 6-Minute Outage Erased Every Performance Win.](https://medium.com/@Krishnajlathi/we-cut-cpu-by-42-a-6-minute-outage-erased-every-performance-win-f9d9c0b2e8e6?source=rss------programming-5) (2026-07-15)
+- [NeetCode 150 — Problem Solving in java — #5 Top K Frequent Elements](https://medium.com/@mohanaavishnupriyad/neetcode-150-problem-solving-in-java-5-top-k-frequent-elements-360bc4c48983?source=rss------programming-5) (2026-07-15)
+- [What is LLM Observability](https://medium.com/data-science-collective/what-is-llm-observability-6d1afd441e38?source=rss------programming-5) (2026-07-15)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) (2026-07-14)
 - [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
 - [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) (2026-07-13)
 - [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/) (2026-07-08)
 - [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) (2026-06-26)
-- [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) (2026-06-25)
 
 </details>
 
@@ -240,11 +240,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
-- [How Spotify Deployed Kong's AI Gateway to Power Generative AI at Scale](https://engineering.atspotify.com/2026/7/how-spotify-deployed-kongs-ai-gateway-to-power-generative-ai-at-scale/) (2026-07-14)
 - [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) (2026-06-10)
 - [Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) (2026-06-03)
 - [Better Experiments with LLM Evals — A funnel, not a fork](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) (2026-05-18)
 - [Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) (2026-05-01)
+- [Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) (2026-04-22)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Node.js 20 is being deprecated on October 1, 2026](https://vercel.com/changelog/node-js-20-is-being-deprecated) (2026-07-14)
+- [Vercel Blob now supports consistent reads on private storage](https://vercel.com/changelog/vercel-blob-now-supports-consistent-reads-on-private-storage) (2026-07-14)
+- [Vercel Plugin now available in VS Code and GitHub Copilot CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli) (2026-07-14)
+- [Node.js 20 is being deprecated on October 1, 2026](https://vercel.com/changelog/node-js-20-is-being-deprecated) (2026-07-14)
 - [Endform joins the Vercel Marketplace](https://vercel.com/changelog/endform-joins-the-vercel-marketplace) (2026-07-14)
 - [AgentMail joins the Vercel Marketplace](https://vercel.com/changelog/agentmail-vercel-marketplace) (2026-07-14)
-- [Chat SDK adds X adapter support](https://vercel.com/changelog/chat-sdk-adds-x-adapter-support) (2026-07-14)
-- [Access and share AI Gateway leaderboard data](https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards) (2026-07-14)
 
 </details>
 
