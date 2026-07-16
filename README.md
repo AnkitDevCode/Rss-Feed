@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/) (2026-07-16)
+- [Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/) (2026-07-16)
 - [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/) (2026-07-16)
 - [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) (2026-07-15)
 - [Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/) (2026-07-15)
-- [Daniel Ek’s body-scanning startup Neko Health raises another $700M](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/) (2026-07-15)
-- [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: One More Letter](https://playonemoreletter.com/) (2026-07-15)
-- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) (2026-07-15)
-- [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) (2026-07-15)
-- [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/) (2026-07-15)
-- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) (2026-07-15)
+- [Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt) (2026-07-16)
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) (2026-07-16)
+- [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser) (2026-07-16)
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/) (2026-07-16)
+- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) (2026-07-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LLM Evals For Developer Tools: Useful, Correct, Safe](https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg) (2026-07-16)
-- [In an AI Builder + AI Reviewer World, What Should Developers Actually Review?](https://dev.to/tom-takeru/in-an-ai-builder-ai-reviewer-world-what-should-developers-actually-review-34oa) (2026-07-16)
-- [Real-time chatroom](https://dev.to/arhamkabir/real-time-chatroom-i40) (2026-07-16)
-- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9) (2026-07-16)
-- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp) (2026-07-16)
+- [Your AI agent should not have unrestricted power](https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e) (2026-07-16)
+- [Streaming AI Responses in Laravel with Server-Sent Events](https://dev.to/adityakdevin/streaming-ai-responses-in-laravel-with-server-sent-events-3bob) (2026-07-16)
+- [BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison](https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k) (2026-07-16)
+- [Cursor Makes Me Faster—but Is It Making Me a Worse Developer?](https://dev.to/richardj46/cursor-makes-me-faster-but-is-it-making-me-a-worse-developer-p5c) (2026-07-16)
+- [Mobilerun vs DuoPlus: Which one to choose?](https://dev.to/priya_negi_9ffd29931ea408/mobilerun-vs-duoplus-which-one-to-choose-3eb6) (2026-07-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The First Computer-Use Test Should Protect the Host Desktop](https://medium.com/@tangweigang/the-first-computer-use-test-should-protect-the-host-desktop-fabc9b88b483?source=rss------programming-5) (2026-07-16)
-- [Windows vs Ubuntu for Software Developers in 2026](https://medium.com/@nanda_amanta/windows-vs-ubuntu-for-software-developers-in-2026-ecd077da970b?source=rss------programming-5) (2026-07-16)
-- [Git Essentials: Perintah Git yang Wajib Dikuasai Setiap Programmer](https://medium.com/@suryaschvarla/git-essentials-perintah-git-yang-wajib-dikuasai-setiap-programmer-4ba52a5fd374?source=rss------programming-5) (2026-07-16)
-- [Git Basic Command](https://medium.com/@muhammadhideakiisdianto/git-basic-command-75b1dc43236c?source=rss------programming-5) (2026-07-16)
-- [I will build mobile app development app developer flutter react native ai app creation](https://globalwebcraft.medium.com/i-will-build-mobile-app-development-app-developer-flutter-react-native-ai-app-creation-6b7d687ecdc3?source=rss------programming-5) (2026-07-16)
+- [The Angular 22 State Architecture: Pure Signals vs SignalStore vs NgRx](https://medium.com/@contato.blense/the-angular-22-state-architecture-pure-signals-vs-signalstore-vs-ngrx-afa08b4f3ff2?source=rss------programming-5) (2026-07-16)
+- [Top Coding Interview Questions Asked by Product Companies (With Clean Java Solutions)](https://medium.com/@004abhishek/top-coding-interview-questions-asked-by-product-companies-with-clean-java-solutions-735cdd415cb4?source=rss------programming-5) (2026-07-16)
+- [Broken Lean Code](https://medium.com/@LeanOnMath/broken-lean-code-17998e3c06f3?source=rss------programming-5) (2026-07-16)
+- [The Cheapest Way to Cut Your AI Bill Is a More Expensive Model](https://medium.com/ai-all-in/the-cheapest-way-to-cut-your-ai-bill-is-a-more-expensive-model-250fd7040ff5?source=rss------programming-5) (2026-07-16)
+- [10x Your Productivity in Programming with AI](https://eddygte.medium.com/10x-your-productivity-in-programming-with-ai-3547bca3b2b0?source=rss------programming-5) (2026-07-16)
 
 </details>
 
@@ -378,6 +378,11 @@ How to Build An AI Phone Agent With Twilio Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php
 ) (2026-07-15)
 - [
+What is AI customer memory? How it works & getting started
+](
+https://www.twilio.com/en-us/blog/insights/ai-customer-memory
+) (2026-07-15)
+- [
 How To Build An AI Phone Agent With Twilio Conversation Relay
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 Announcing Twilio Lookup Line Status Public Beta: Verify Number Deliverability Before You Send   
 ](
 https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-beta
-) (2026-07-14)
-- [
-What is a webhook? Endpoints, examples, and how they work
-](
-https://www.twilio.com/en-us/blog/insights/whats-webhook
 ) (2026-07-14)
 
 </details>
@@ -493,10 +493,10 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 <summary>⚡ Zapier Blog</summary>
 
 - [The 4 best read it later apps to save content in 2026](https://zapier.com/blog/best-bookmaking-read-it-later-app) (2026-07-15)
-- [84% of companies have AI pilots that never reach deployment. Here's what's keeping them locked in limbo.](https://zapier.com/blog/ai-pilot-survey) (2026-07-14)
 - [The 8 best data integration tools in 2026](https://zapier.com/blog/data-integration-tools) (2026-07-14)
-- [Meet the June 2026 Zappy Award monthly winners](https://zapier.com/blog/zappy-award-monthly-winners-june-2026) (2026-07-14)
+- [84% of companies have AI pilots that never reach deployment. Here's what's keeping them locked in limbo.](https://zapier.com/blog/ai-pilot-survey) (2026-07-14)
 - [What is an AI agent? ](https://zapier.com/blog/ai-agent) (2026-07-14)
+- [Meet the June 2026 Zappy Award monthly winners](https://zapier.com/blog/zappy-award-monthly-winners-june-2026) (2026-07-14)
 
 </details>
 
@@ -556,13 +556,13 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 </details>
 
 <details>
-<summary>🤗 Hugging Face</summary>
+<summary>🤖 AI News</summary>
 
-- [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
-- [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
-- [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) (2026-07-15)
-- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) (2026-07-15)
-- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) (2026-07-10)
+- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
+- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
+- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
+- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
 
 </details>
 
