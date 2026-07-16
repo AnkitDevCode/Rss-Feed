@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft patches bug in video game Age of Empires II](https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/) (2026-07-15)
-- [Apple quietly reveals how its Maps ads will differ from Google’s](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/) (2026-07-15)
-- [SpaceX slips below its $135 IPO price ahead of Starship launch](https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/) (2026-07-15)
-- [Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/) (2026-07-15)
-- [Phone maker OnePlus reportedly plans to wind down US and Europe operations](https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/) (2026-07-15)
+- [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/) (2026-07-16)
+- [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) (2026-07-15)
+- [Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/) (2026-07-15)
+- [Daniel Ek’s body-scanning startup Neko Health raises another $700M](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/) (2026-07-15)
+- [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/) (2026-07-15)
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) (2026-07-15)
-- [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie) (2026-07-15)
-- [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1) (2026-07-15)
-- [Collection of Digital Clock Designs](https://clocks.dev) (2026-07-15)
+- [Show HN: One More Letter](https://playonemoreletter.com/) (2026-07-15)
+- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) (2026-07-15)
+- [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) (2026-07-15)
+- [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/) (2026-07-15)
+- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Our ‘explosive diarrhea parasite’ future](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell) (2026-07-15)
-- [Something&#8217;s glowing on the Pixel 11&#8217;s camera bar](https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser) (2026-07-15)
-- [Suno snatched millions of songs from YouTube, Genius, and Deezer](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack) (2026-07-15)
-- [Lucid’s bankruptcy rumor is a bad sign for the EV future](https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future) (2026-07-15)
-- [Netflix tries to recapture Stranger Things magic with nostalgic re-release](https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix) (2026-07-15)
+- [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones) (2026-07-16)
+- [HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale) (2026-07-15)
+- [Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads](https://www.theverge.com/tech/966219/apple-care-plus-price-increase) (2026-07-15)
+- [Valve says iFixit will keep selling Steam Deck batteries after all](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery) (2026-07-15)
+- [xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam) (2026-07-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs](https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/) (2026-07-15)
-- [In memoriam: 7 of our favorite Sam Neill films](https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/) (2026-07-15)
-- [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/) (2026-07-15)
-- [OpenAI's first branded hardware is... a light-up keyboard?](https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/) (2026-07-15)
-- [A most improbable astronaut just went to space](https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/) (2026-07-15)
+- [Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there](https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/) (2026-07-15)
+- [Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon](https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/) (2026-07-15)
+- [Sheetz is quitting VMware, migrating 11,000 virtual machines](https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/) (2026-07-15)
+- [Judge: Trump can’t deport researchers just for working in content moderation](https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/) (2026-07-15)
+- [Engineer identifies and explains every '90s computer seen in Jurassic Park](https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/) (2026-07-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/xbill/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) (2026-07-15)
-- [My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs](https://dev.to/xbill/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) (2026-07-15)
-- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc) (2026-07-15)
-- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9) (2026-07-15)
-- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o) (2026-07-15)
+- [LLM Evals For Developer Tools: Useful, Correct, Safe](https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg) (2026-07-16)
+- [In an AI Builder + AI Reviewer World, What Should Developers Actually Review?](https://dev.to/tom-takeru/in-an-ai-builder-ai-reviewer-world-what-should-developers-actually-review-34oa) (2026-07-16)
+- [Real-time chatroom](https://dev.to/arhamkabir/real-time-chatroom-i40) (2026-07-16)
+- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9) (2026-07-16)
+- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp) (2026-07-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why care about software?](https://medium.com/@codesculpturersh/why-care-about-software-8fc4d758b43f?source=rss------programming-5) (2026-07-15)
-- [GPT-5.6 Is An Absolute Game Changer](https://medium.com/coding-beauty/new-gpt-5-6-f59402a92356?source=rss------programming-5) (2026-07-15)
-- [50,000 Go Projects Depended on His Error Fix. Then Go Copied It and Broke His Package.](https://medium.com/programmers-career/50-000-go-projects-depended-on-his-error-fix-then-go-copied-it-and-broke-his-package-3f9f9b0cf586?source=rss------programming-5) (2026-07-15)
-- [Shrink Your Docker Image by 10x: A Hands-On Guide to Multi-Stage Builds](https://blog.devops.dev/shrink-your-docker-image-by-10x-a-hands-on-guide-to-multi-stage-builds-6528a8c5ef32?source=rss------programming-5) (2026-07-15)
-- [Stop Watching ‘Best Programming Language in 2026’ Videos.](https://medium.com/@thenashcode/stop-watching-best-programming-language-in-2026-videos-ca5a416720c1?source=rss------programming-5) (2026-07-15)
+- [The First Computer-Use Test Should Protect the Host Desktop](https://medium.com/@tangweigang/the-first-computer-use-test-should-protect-the-host-desktop-fabc9b88b483?source=rss------programming-5) (2026-07-16)
+- [Windows vs Ubuntu for Software Developers in 2026](https://medium.com/@nanda_amanta/windows-vs-ubuntu-for-software-developers-in-2026-ecd077da970b?source=rss------programming-5) (2026-07-16)
+- [Git Essentials: Perintah Git yang Wajib Dikuasai Setiap Programmer](https://medium.com/@suryaschvarla/git-essentials-perintah-git-yang-wajib-dikuasai-setiap-programmer-4ba52a5fd374?source=rss------programming-5) (2026-07-16)
+- [Git Basic Command](https://medium.com/@muhammadhideakiisdianto/git-basic-command-75b1dc43236c?source=rss------programming-5) (2026-07-16)
+- [I will build mobile app development app developer flutter react native ai app creation](https://globalwebcraft.medium.com/i-will-build-mobile-app-development-app-developer-flutter-react-native-ai-app-creation-6b7d687ecdc3?source=rss------programming-5) (2026-07-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/) (2026-07-15)
 - [NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/) (2026-07-15)
 - [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/) (2026-07-14)
 - [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/) (2026-07-14)
 - [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/) (2026-07-09)
-- [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/) (2026-07-08)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.130 (Insiders)](https://code.visualstudio.com/updates/v1_130) (2026-07-22)
+- [Visual Studio Code 1.129](https://code.visualstudio.com/updates/v1_129) (2026-07-15)
 - [Visual Studio Code 1.128](https://code.visualstudio.com/updates/v1_128) (2026-07-08)
-- [Visual Studio Code 1.129 (Insiders)](https://code.visualstudio.com/updates/v1_129) (2026-07-08)
 - [How Prompt Tuning Improved GPT-5.5 in VS Code](https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers) (2026-07-06)
 - [Visual Studio Code 1.127](https://code.visualstudio.com/updates/v1_127) (2026-07-01)
-- [Iterating faster with TypeScript 7](https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7) (2026-06-26)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [How Speechify serves 500,000 dynamic pages to 60 million users on Vercel](https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel) (2026-07-15)
+- [Vercel Connect support in GitHub Tools](https://vercel.com/changelog/vercel-connect-support-in-github-tools) (2026-07-15)
+- [Faster, predictable project linking in the Vercel CLI](https://vercel.com/changelog/faster-predictable-project-linking-in-the-vercel-cli) (2026-07-15)
+- [Inkling from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway) (2026-07-15)
 - [Vercel Workflows trace viewer now has a minimap](https://vercel.com/changelog/vercel-workflows-trace-viewer-now-has-a-minimap) (2026-07-15)
-- [Chat SDK adds Discord Components V2 support](https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support) (2026-07-15)
-- [Vercel Blob now supports consistent reads on private storage](https://vercel.com/changelog/vercel-blob-now-supports-consistent-reads-on-private-storage) (2026-07-14)
-- [Vercel Plugin now available in VS Code and GitHub Copilot CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli) (2026-07-14)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 - [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) (2026-07-15)
 - [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) (2026-07-15)
 - [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) (2026-07-10)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
-- [AWS GraphRAG deployment cuts drug research cycles by 87%](https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/) (2026-07-09)
 
 </details>
 
