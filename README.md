@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Apple Intelligence approved for launch in China with Alibaba and Baidu](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/) (2026-07-16)
-- [Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/) (2026-07-16)
-- [Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/) (2026-07-16)
-- [Phone maker OnePlus says it won’t release new phones in the US and Europe](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/) (2026-07-16)
-- [Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/) (2026-07-16)
+- [Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/) (2026-07-16)
+- [Roblox launches an AI-powered game creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/) (2026-07-16)
+- [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/) (2026-07-16)
+- [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/) (2026-07-16)
+- [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: I've built a words game based on binary search](https://hilogame.cc/) (2026-07-16)
-- [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/) (2026-07-16)
-- [Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/) (2026-07-16)
-- [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno) (2026-07-16)
-- [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/) (2026-07-16)
+- [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/) (2026-07-16)
+- [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/) (2026-07-16)
+- [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html) (2026-07-16)
+- [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs) (2026-07-16)
+- [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020) (2026-07-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ninja’s microwave air fryer could be the fix for soggy reheated pizza](https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance) (2026-07-16)
-- [Samsung&#8217;s Galaxy Z Flip 8 leaks a week before launch event](https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked) (2026-07-16)
-- [OnePlus never had a chance in the US](https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us) (2026-07-16)
-- [Claude can now use your 1Password credentials for you](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration) (2026-07-16)
-- [Google ordered to open Android and Search to rivals in Europe](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma) (2026-07-16)
+- [Kalshi says it caught Trump&#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation) (2026-07-16)
+- [New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies) (2026-07-16)
+- [Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price](https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale) (2026-07-16)
+- [Google is better at playing the AI regulations game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai) (2026-07-16)
+- [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games) (2026-07-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback](https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/) (2026-07-16)
-- [Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there](https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/) (2026-07-15)
-- [Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon](https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/) (2026-07-15)
-- [Sheetz is quitting VMware, migrating 11,000 virtual machines](https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/) (2026-07-15)
-- [Judge: Trump can’t deport researchers just for working in content moderation](https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/) (2026-07-15)
+- [We've seen helium baked off a rocky exoplanet's atmosphere](https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/) (2026-07-16)
+- [OnePlus confirms shutdown in the US and Europe, ending months of speculation](https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/) (2026-07-16)
+- [Could China and Russia really destroy Starlink? Only with a boomerang.](https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/) (2026-07-16)
+- [Energy IPOs surge as investors hunt for ways to play AI boom](https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/) (2026-07-16)
+- [Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds](https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/) (2026-07-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to set a freelance day rate (it's not hourly 8)](https://dev.to/mholtsberg/how-to-set-a-freelance-day-rate-its-not-hourly-x-8-dpk) (2026-07-16)
-- [How Ordinals Work Under the Hood: Taproot, Witness Data, and the Commit-Reveal Pattern](https://dev.to/aturo_phil/how-ordinals-work-under-the-hood-taproot-witness-data-and-the-commit-reveal-pattern-3hi9) (2026-07-16)
-- [What Google Just Formalized (And What We've Been Building All Along)](https://dev.to/diyaburman/what-google-just-formalized-and-what-weve-been-building-all-along-21bd) (2026-07-16)
-- [Claude in Chrome doesn't work on WSL2. Here's the fix: one logged-in Chrome, two drivers, cheap tokens](https://dev.to/karthik_rathod_592ae48161/claude-in-chrome-doesnt-work-on-wsl2-heres-the-fix-one-logged-in-chrome-two-drivers-cheap-5ke) (2026-07-16)
-- [I forked an archived graph database and started dreaming about healthcare AI](https://dev.to/lechibang1512/i-forked-a-dead-graph-database-and-started-dreaming-about-healthcare-ai-29gf) (2026-07-16)
+- [Give your Laravel AI agent real-time web knowledge](https://dev.to/juststevemcd/give-your-laravel-ai-agent-real-time-web-knowledge-478h) (2026-07-16)
+- [Simplifying Authorization in NestJS: A New Approach](https://dev.to/gsmithun4/simplifying-authorization-in-nestjs-a-new-approach-1ahg) (2026-07-16)
+- [I Kept Losing the "Why" Behind My Code Every Time I Closed an AI Chat, So I Built a Tiny Tool to Save It](https://dev.to/alpheonsolutions/i-kept-losing-the-why-behind-my-code-every-time-i-closed-an-ai-chat-so-i-built-a-tiny-tool-to-49mg) (2026-07-16)
+- [Wanted: Beginners-Friendly Open Source Projects](https://dev.to/adiatiayu/wanted-beginners-friendly-open-source-projects-59k9) (2026-07-16)
+- [Next.js App Router, there are always things that get forgotten. Let's anticipate its errors!](https://dev.to/javapixastudio/nextjs-app-router-there-are-always-things-that-get-forgotten-lets-anticipate-its-errors-4cng) (2026-07-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The LLM Memory Wall: Why Serving AI Is a RAM Problem, Not a GPU Problem](https://medium.com/@reactjsbd/the-llm-memory-wall-why-serving-ai-is-a-ram-problem-not-a-gpu-problem-f80b8d0ef3a3?source=rss------programming-5) (2026-07-16)
-- [Learning SQL with Apple Music’s Top 20 Songs of 2024](https://medium.com/@sumeyyatas24/learning-sql-with-apple-musics-top-20-songs-of-2024-508587a9a87d?source=rss------programming-5) (2026-07-16)
-- [Vibe Coding Is Over: What Every AI Developer Needs to Know in 2026](https://medium.com/skillstuff/vibe-coding-is-over-what-every-ai-developer-needs-to-know-in-2026-254946d0bc3e?source=rss------programming-5) (2026-07-16)
-- [Episode 2: EC2 — Your First Cloud Server](https://medium.com/@LearnWithPrashik/episode-2-ec2-your-first-cloud-server-c1612c736be2?source=rss------programming-5) (2026-07-16)
-- [How Third Mainland Bridge Taught Me Linked Lists](https://medium.com/@emogoghena/how-third-mainland-bridge-taught-me-linked-lists-511fbb9df3c4?source=rss------programming-5) (2026-07-16)
+- [Python’s weakref Module Solves a Problem You Didn’t Know You Had](https://medium.com/python-for-everything/pythons-weakref-module-solves-a-problem-you-didn-t-know-you-had-737a106a358d?source=rss------programming-5) (2026-07-16)
+- [Mahira Learning Accadmy](https://medium.com/@mahiralearningaccadmy/mahira-learning-accadmy-5a6b3378287e?source=rss------programming-5) (2026-07-16)
+- [How One GitHub Repository Changed the Way I Think About Building Software](https://medium.com/@carbon-crumb-churn/how-one-github-repository-changed-the-way-i-think-about-building-software-301a94405012?source=rss------programming-5) (2026-07-16)
+- [The Webhook Fired Eleven Times. We Charged the Card Eleven Times. Idempotency-Key Was Optional](https://python.plainenglish.io/the-webhook-fired-eleven-times-we-charged-the-card-eleven-times-idempotency-key-was-optional-1e35da6bfc6e?source=rss------programming-5) (2026-07-16)
+- [I Reviewed 52 On-Call Handoffs. The Ones That Failed All Skipped the Same Three Sentences](https://blog.stackademic.com/i-reviewed-52-on-call-handoffs-the-ones-that-failed-all-skipped-the-same-three-sentences-d18fef28e960?source=rss------programming-5) (2026-07-16)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) (2026-07-16)
 - [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/) (2026-07-16)
 - [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/) (2026-07-16)
 - [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/) (2026-07-14)
 - [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/) (2026-07-08)
-- [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/) (2026-07-01)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [Rider 2026.2 Release Candidate Is Out!](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/) (2026-07-15)
-- [ReSharper 2026.2 Release Candidate Released!](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/) (2026-07-15)
-- [JetBrains GameDev Days 2026 – Call for Speakers](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/) (2026-07-15)
-- [MPS 2026.1 Has Been Released!](https://blog.jetbrains.com/mps/2026/07/mps-2026-1-released/) (2026-07-14)
-- [What’s New in ReSharper 2026.2 for VS Code-compatible editors ](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/) (2026-07-13)
+- [What’s New in IntelliJ IDEA 2026.2](https://blog.jetbrains.com/idea/2026/07/intellij-idea-2026-2/) (2026-07-16)
+- [What’s fixed in IntelliJ IDEA 2026.2](https://blog.jetbrains.com/idea/2026/07/whats-fixed-intellij-idea-2026-2/) (2026-07-16)
+- [CLion 2026.2 Is Here](https://blog.jetbrains.com/clion/2026/07/2026-2-release/) (2026-07-16)
+- [DataGrip 2026.2: AI Agent Skills, MCP Tools and CLI Commands for Data Source Management, Bundled JDBC Drivers, and Improved Session Control](https://blog.jetbrains.com/datagrip/2026/07/16/datagrip-2026-2-ai-agent-skills-mcp-tools-and-cli-commands-for-data-source-management-bundled-jdbc-drivers-and-improved-session-control/) (2026-07-16)
+- [WebStorm 2026.2: TypeScript 7 Support, GitHub Copilot Integration, Agent Skills, and More](https://blog.jetbrains.com/webstorm/2026/07/webstorm-2026-2/) (2026-07-16)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons) (2026-07-17)
+- [Write utilization now available in ISR Observability](https://vercel.com/changelog/write-utilization-now-available-in-isr-observability) (2026-07-16)
+- [Kimi K3 is now available on AI Gateway](https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway) (2026-07-16)
 - [How Speechify serves 500,000 dynamic pages to 60 million users on Vercel](https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel) (2026-07-15)
 - [Vercel Connect support in GitHub Tools](https://vercel.com/changelog/vercel-connect-support-in-github-tools) (2026-07-15)
-- [Faster, predictable project linking in the Vercel CLI](https://vercel.com/changelog/faster-predictable-project-linking-in-the-vercel-cli) (2026-07-15)
-- [Inkling from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway) (2026-07-15)
-- [Vercel Workflows trace viewer now has a minimap](https://vercel.com/changelog/vercel-workflows-trace-viewer-now-has-a-minimap) (2026-07-15)
 
 </details>
 
@@ -378,6 +378,11 @@ How to Build An AI Phone Agent With Twilio Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php
 ) (2026-07-15)
 - [
+What is AI customer memory? How it works & getting started
+](
+https://www.twilio.com/en-us/blog/insights/ai-customer-memory
+) (2026-07-15)
+- [
 How To Build An AI Phone Agent With Twilio Conversation Relay
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay
@@ -392,23 +397,18 @@ Announcing Twilio Lookup Line Status Public Beta: Verify Number Deliverability B
 ](
 https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-beta
 ) (2026-07-14)
-- [
-What is a webhook? Endpoints, examples, and how they work
-](
-https://www.twilio.com/en-us/blog/insights/whats-webhook
-) (2026-07-14)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [The Art of Consent Management in the OAuth World](https://auth0.com/blog/the-art-of-user-consent-management-oauth/) (2026-07-16)
 - [You Are Using Auth0 The Hard Way
 ](https://auth0.com/blog/you-are-using-auth0-the-hard-way/) (2026-07-15)
 - [Introducing Third-Party Applications for Organizations](https://auth0.com/blog/introducing-third-party-apps-for-organizations/) (2026-07-14)
 - [Closing the Audit Gap in Human-to-Agent Delegation](https://auth0.com/blog/closing-audit-gap-human-to-agent-delegation/) (2026-07-13)
 - [Delegation Is a Form of Respect. Here Is What That Actually Means](https://auth0.com/blog/delegation-is-a-form-of-respect/) (2026-07-09)
-- [How to Pick the Right Auth0 Customization for Your App](https://auth0.com/blog/picking-the-right-auth0-customization-for-apps/) (2026-07-08)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Workato vs. Zapier for large businesses: Which is best? [2026]](https://zapier.com/blog/workato-vs-zapier-for-large-businesses) (2026-07-16)
+- [Zapier vs. Gumloop: Which is best? [2026]](https://zapier.com/blog/gumloop-vs-zapier) (2026-07-16)
+- [AI agent frameworks: Definition, comparison, and guide](https://zapier.com/blog/ai-agent-frameworks) (2026-07-15)
 - [The 4 best read it later apps to save content in 2026](https://zapier.com/blog/best-bookmaking-read-it-later-app) (2026-07-15)
 - [The 8 best data integration tools in 2026](https://zapier.com/blog/data-integration-tools) (2026-07-14)
-- [84% of companies have AI pilots that never reach deployment. Here's what's keeping them locked in limbo.](https://zapier.com/blog/ai-pilot-survey) (2026-07-14)
-- [What is an AI agent? ](https://zapier.com/blog/ai-agent) (2026-07-14)
-- [Meet the June 2026 Zappy Award monthly winners](https://zapier.com/blog/zappy-award-monthly-winners-june-2026) (2026-07-14)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb) (2026-07-16)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
 - [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
-- [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) (2026-07-15)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
 - [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
 - [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
 - [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
 - [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/) (2026-07-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Prepare These 5 Assets Before Your AI Agents Take On More Work](https://towardsdatascience.com/prepare-these-5-assets-before-your-ai-agents-take-on-more-work/) (2026-07-16)
+- [Context Engineering for RAG Question Parsing: From a Raw Question to Typed Fields That Steer Retrieval and Generation](https://towardsdatascience.com/context-engineering-for-rag-question-parsing-from-a-raw-question-to-typed-fields-that-steer-retrieval-and-generation/) (2026-07-16)
 - [How to Get the Most Out of Claude Fable 5](https://towardsdatascience.com/how-to-get-the-most-out-of-claude-fable-5/) (2026-07-16)
 - [Why Your Betas Explode: The Hidden Geometry of Multicollinearity](https://towardsdatascience.com/why-your-betas-explode-the-hidden-geometry-of-multicollinearity/) (2026-07-16)
 - [Don’t Let Claude Grade Its Own Homework](https://towardsdatascience.com/dont-let-claude-gaslight-you/) (2026-07-15)
-- [Building Trustworthy Production RAG Systems Through Continuous Evaluation](https://towardsdatascience.com/building-trustworthy-production-rag-systems-through-continuous-evaluation/) (2026-07-15)
-- [How I Mastered Data Structures and Algorithms for ML (In 6 Weeks)](https://towardsdatascience.com/how-i-mastered-data-structures-algorithms-for-ml-in-6-weeks/) (2026-07-15)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/insights/whats-webhook
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Working with Pi Coding Agents](https://www.kdnuggets.com/working-with-pi-coding-agents) (2026-07-16)
 - [10 YouTube Channels Keeping You Ahead in AI](https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai) (2026-07-16)
 - [Stop Using If-Else Chains: Use the Registry Pattern in Python Instead](https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead) (2026-07-15)
 - [7 Python Frameworks for Orchestrating Local AI Agents](https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents) (2026-07-15)
 - [Getting Started with Conductor for Gemini CLI](https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli) (2026-07-14)
-- [12 Ways to Reduce LLM Latency and Inference Costs in Production](https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production) (2026-07-14)
 
 </details>
 
