@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/) (2026-07-16)
+- [SpaceX suddenly aborts second Starship V3 launch after ignition](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/) (2026-07-16)
+- [Coca-Cola suspended production at its Fairlife dairy after a ransomware attack](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/) (2026-07-16)
+- [Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)](https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/) (2026-07-16)
 - [Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/) (2026-07-16)
-- [Roblox launches an AI-powered game creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/) (2026-07-16)
-- [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/) (2026-07-16)
-- [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/) (2026-07-16)
-- [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/) (2026-07-16)
-- [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/) (2026-07-16)
-- [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html) (2026-07-16)
-- [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs) (2026-07-16)
-- [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020) (2026-07-16)
+- [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/) (2026-07-17)
+- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) (2026-07-17)
+- [Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map) (2026-07-17)
+- [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/) (2026-07-16)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas) (2026-07-16)
+- [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale) (2026-07-16)
+- [Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings) (2026-07-16)
+- [Why are people buying so many CDs?](https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate) (2026-07-16)
 - [Kalshi says it caught Trump&#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation) (2026-07-16)
-- [New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies) (2026-07-16)
-- [Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price](https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale) (2026-07-16)
-- [Google is better at playing the AI regulations game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai) (2026-07-16)
-- [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games) (2026-07-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [We've seen helium baked off a rocky exoplanet's atmosphere](https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/) (2026-07-16)
-- [OnePlus confirms shutdown in the US and Europe, ending months of speculation](https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/) (2026-07-16)
-- [Could China and Russia really destroy Starlink? Only with a boomerang.](https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/) (2026-07-16)
-- [Energy IPOs surge as investors hunt for ways to play AI boom](https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/) (2026-07-16)
-- [Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds](https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/) (2026-07-16)
+- [SpaceX scrubs Starship launch after some of its engines didn't start](https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/) (2026-07-17)
+- [Two Trump health nominees crash and burn in tense Senate hearing](https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/) (2026-07-16)
+- [HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs](https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/) (2026-07-16)
+- [T-Mobile bungled forced plan migration, canceling some users' free lines](https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/) (2026-07-16)
+- [It's official: EU will force Google to share search data and open up AI on Android](https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/) (2026-07-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Give your Laravel AI agent real-time web knowledge](https://dev.to/juststevemcd/give-your-laravel-ai-agent-real-time-web-knowledge-478h) (2026-07-16)
-- [Simplifying Authorization in NestJS: A New Approach](https://dev.to/gsmithun4/simplifying-authorization-in-nestjs-a-new-approach-1ahg) (2026-07-16)
-- [I Kept Losing the "Why" Behind My Code Every Time I Closed an AI Chat, So I Built a Tiny Tool to Save It](https://dev.to/alpheonsolutions/i-kept-losing-the-why-behind-my-code-every-time-i-closed-an-ai-chat-so-i-built-a-tiny-tool-to-49mg) (2026-07-16)
-- [Wanted: Beginners-Friendly Open Source Projects](https://dev.to/adiatiayu/wanted-beginners-friendly-open-source-projects-59k9) (2026-07-16)
-- [Next.js App Router, there are always things that get forgotten. Let's anticipate its errors!](https://dev.to/javapixastudio/nextjs-app-router-there-are-always-things-that-get-forgotten-lets-anticipate-its-errors-4cng) (2026-07-16)
+- [Solid Queue has no alerting, so I built QueuePulse](https://dev.to/michiya59/solid-queue-has-no-alerting-so-i-built-queuepulse-1lfm) (2026-07-17)
+- [Sveltekit การทำงานกับ remote function [Part 3]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-3-5218) (2026-07-17)
+- [You Almost Never Think. That's Why Your Brain Doesn't Crash.](https://dev.to/synthaicode_commander/you-almost-never-think-thats-why-your-brain-doesnt-crash-218a) (2026-07-17)
+- [Can YAMNet Detect Unseen Sudden Sounds in Real Time? A 48-Stream Evaluation](https://dev.to/kiarina/can-yamnet-detect-unseen-sudden-sounds-in-real-time-a-48-stream-evaluation-49d7) (2026-07-17)
+- [A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83) (2026-07-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python’s weakref Module Solves a Problem You Didn’t Know You Had](https://medium.com/python-for-everything/pythons-weakref-module-solves-a-problem-you-didn-t-know-you-had-737a106a358d?source=rss------programming-5) (2026-07-16)
-- [Mahira Learning Accadmy](https://medium.com/@mahiralearningaccadmy/mahira-learning-accadmy-5a6b3378287e?source=rss------programming-5) (2026-07-16)
-- [How One GitHub Repository Changed the Way I Think About Building Software](https://medium.com/@carbon-crumb-churn/how-one-github-repository-changed-the-way-i-think-about-building-software-301a94405012?source=rss------programming-5) (2026-07-16)
-- [The Webhook Fired Eleven Times. We Charged the Card Eleven Times. Idempotency-Key Was Optional](https://python.plainenglish.io/the-webhook-fired-eleven-times-we-charged-the-card-eleven-times-idempotency-key-was-optional-1e35da6bfc6e?source=rss------programming-5) (2026-07-16)
-- [I Reviewed 52 On-Call Handoffs. The Ones That Failed All Skipped the Same Three Sentences](https://blog.stackademic.com/i-reviewed-52-on-call-handoffs-the-ones-that-failed-all-skipped-the-same-three-sentences-d18fef28e960?source=rss------programming-5) (2026-07-16)
+- [Berteman Dengan VSCode](https://medium.com/@faishalnugrohofaiz/berteman-dengan-vscode-f414dcf7f053?source=rss------programming-5) (2026-07-17)
+- [Compact Object Headers in Java: Part 2](https://medium.com/heap-wire/compact-object-headers-in-java-part-2-e5f0a6bb204d?source=rss------programming-5) (2026-07-17)
+- [Claude Code Is Quietly Deleting Your Work History. Most Developers Haven’t Noticed Yet.](https://stevie658jjh.medium.com/claude-code-is-quietly-deleting-your-work-history-most-developers-havent-noticed-yet-5ecbb022f70f?source=rss------programming-5) (2026-07-17)
+- [What I Learned After Completing OverTheWire Bandit Level 1–25](https://level13.medium.com/what-i-learned-after-completing-overthewire-bandit-level-1-25-046e1f360e7d?source=rss------programming-5) (2026-07-17)
+- [The First Time I Saw Claude Code Get It Wrong](https://medium.com/@spoigai21/the-first-time-i-saw-claude-code-get-it-wrong-0e3fae6d3677?source=rss------programming-5) (2026-07-17)
 
 </details>
 
@@ -328,22 +328,22 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Turn multi-step software delivery into agentic flows you can trust](https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/) (2026-07-16)
+- [GitLab Duo Security Review spots logic flaws scanners miss](https://about.gitlab.com/blog/gitlab-duo-security-review-flow/) (2026-07-16)
+- [Bring GitLab Duo Agent Platform to your terminal](https://about.gitlab.com/blog/gitlab-duo-cli-generally-available/) (2026-07-16)
 - [Forrester Consulting: GitLab Duo Agent Platform delivers 400% ROI](https://about.gitlab.com/blog/gitlab-duo-agent-platform-delivers-400-percent-roi/) (2026-07-16)
-- [Green DevOps: Why carbon measurement belongs in your CI/CD pipeline](https://about.gitlab.com/blog/green-devops-carbon-measurement-cicd-pipeline/) (2026-07-09)
-- [GitLab Patch Release: 19.1.2, 19.0.4, 18.11.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-2-released/) (2026-07-08)
-- [How we used AI agents to migrate GitLab rate limiting](https://about.gitlab.com/blog/ai-agents-for-migrating-rate-limiting-system/) (2026-07-08)
-- [Keep your GitLab seats in check with restricted access](https://about.gitlab.com/blog/gitlab-restricted-access-improvements/) (2026-07-06)
+- [GitLab 19.2 released](https://docs.gitlab.com/releases/19/gitlab-19-2-released/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [How To Set Up a Staging Environment on Heroku in 3 Easy Steps](https://www.heroku.com/blog/how-to-set-up-staging-environment-3-easy-steps/) (2026-07-16)
 - [Securing Heroku CLI Credentials with System Keychain Storage](https://www.heroku.com/blog/securing-heroku-cli-credentials-with-system-keychain-storage/) (2026-07-01)
 - [A 15-Second Health Check for Your Heroku Connect Data Pipeline](https://www.heroku.com/blog/health-check-for-your-heroku-connect-data-pipeline/) (2026-06-24)
 - [Heroku March 2026 Update](https://www.heroku.com/blog/march-2026-update/) (2026-03-19)
 - [Modernizing the Command Line: Heroku CLI v11](https://www.heroku.com/blog/modernizing-the-command-line-heroku-cli-v11/) (2026-03-19)
-- [Bigger Slugs and Greater Build Timeout Flexibility](https://www.heroku.com/blog/bigger-slugs-and-greater-build-timeout-flexibility/) (2026-03-19)
 
 </details>
 
@@ -567,17 +567,6 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
-- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-- [AI agent crawlers now need permission. Here’s how to get it](https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/) (2026-07-13)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Prepare These 5 Assets Before Your AI Agents Take On More Work](https://towardsdatascience.com/prepare-these-5-assets-before-your-ai-agents-take-on-more-work/) (2026-07-16)
@@ -591,11 +580,11 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/) (2026-07-16)
 - [Inside the Claude Fable 5 System Prompt: A Full Breakdown](https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/) (2026-07-15)
 - [What is Meta Prompting and How does it work?](https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/) (2026-07-14)
 - [How to Measure Video Similarity: 6 Techniques I Tested (and the One I Shipped) ](https://www.analyticsvidhya.com/blog/2026/07/video-similarity-measurement/) (2026-07-13)
 - [Handling Imbalanced Classification: What Works Better Than SMOTE](https://www.analyticsvidhya.com/blog/2026/07/class-imbalance-ml/) (2026-07-12)
-- [RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval](https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/) (2026-07-11)
 
 </details>
 
