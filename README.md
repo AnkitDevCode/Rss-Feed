@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) (2026-07-18)
-- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) (2026-07-18)
-- [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) (2026-07-18)
-- [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) (2026-07-18)
-- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/) (2026-07-18)
+- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) (2026-07-18)
+- [Why do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) (2026-07-18)
+- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) (2026-07-18)
+- [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/) (2026-07-18)
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) (2026-07-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review) (2026-07-18)
+- [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review) (2026-07-18)
+- [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer) (2026-07-18)
 - [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters) (2026-07-18)
 - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce) (2026-07-17)
-- [Shark&#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale) (2026-07-17)
-- [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool) (2026-07-17)
-- [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview) (2026-07-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Will AI fix prior authorization—or make it worse?](https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/) (2026-07-18)
 - [Google-backed satellites for wildfire detection launch as smoke chokes US, Canada](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/) (2026-07-17)
 - [The Pentagon's Space Development Agency hasn't moved as fast as anyone would like](https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/) (2026-07-17)
 - [Hegseth wants a "High-T" military; doctors call it a clinical minefield](https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/) (2026-07-17)
 - [Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states](https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/) (2026-07-17)
-- [Troubling new details emerge on diabetes ouster controversy](https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Catch False “Done” Claims in AI-Generated Code](https://dev.to/reliableaiddelivery/how-to-catch-false-done-claims-in-ai-generated-code-2gp8) (2026-07-18)
-- [Why I Built Opposition Into My AI Council](https://dev.to/j3nnning/why-i-built-opposition-into-my-ai-council-30p2) (2026-07-18)
-- [Building AI That Matters: Why We Started Ventara](https://dev.to/ventara/building-ai-that-matters-why-we-started-ventara-30lb) (2026-07-18)
-- [View Transitions in Next.js: How I Added Animated Page Changes Without a Library](https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a) (2026-07-18)
-- [I built a toolbox where your files never leave the browser](https://dev.to/s971153/i-built-a-toolbox-where-your-files-never-leave-the-browser-10cb) (2026-07-18)
+- [Lucy 2.5 Real-Time AI Video Editing: Decart's 40ms Live Stream Revolution](https://dev.to/khuram_youraj_6c4b6780ae1/lucy-25-real-time-ai-video-editing-decarts-40ms-live-stream-revolution-1agl) (2026-07-18)
+- [Why I built a SQL client when 10 already exist — then let AI agents into it](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) (2026-07-18)
+- [A cut list is not a cut plan: audit kerf and stock assignments with KerfPlan](https://dev.to/nekoautomata/a-cut-list-is-not-a-cut-plan-audit-kerf-and-stock-assignments-with-kerfplan-2kgc) (2026-07-18)
+- [Argo - LLM-native static vulnerability detection](https://dev.to/mr_limitless_abe15f71d2fe/argo-llm-native-static-vulnerability-detection-4k9a) (2026-07-18)
+- [[Boost]](https://dev.to/anthonymax/-2anb) (2026-07-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Most Companies Buy Agents, Not a Factory — Here Are the Five Missing Layers](https://medium.com/@wasowski.jarek/most-companies-buy-agents-not-a-factory-here-are-the-five-missing-layers-06a7269bf55e?source=rss------programming-5) (2026-07-18)
-- [What a 40-Comment Go Debate Teaches on Software Stability](https://medium.com/@godlessspirit/what-a-40-comment-go-debate-teaches-on-software-stability-89fb16057cd0?source=rss------programming-5) (2026-07-18)
-- [Laravel 13.20 Finally Ships First-Party Image Processing — Here’s Why It Matters](https://medium.com/@andipyk/laravel-13-20-finally-ships-first-party-image-processing-heres-why-it-matters-0f633b1c4396?source=rss------programming-5) (2026-07-18)
-- [Python Web App Development, One Step Further: Dash 2.14](https://medium.com/jin-system-architect/python-web-app-development-one-step-further-dash-2-14-d5b74b7c301f?source=rss------programming-5) (2026-07-18)
-- [itertools.groupby: The Runs-Not-Groups Function That Demands Sorted Input](https://medium.com/@tihomir.manushev/itertools-groupby-the-runs-not-groups-function-that-demands-sorted-input-7ed5a0491153?source=rss------programming-5) (2026-07-18)
+- [Go From Zero: A Beginner's Guide to Golang Fundamentals — Part B](https://medium.com/@microclip.lakeesha/go-from-zero-a-beginners-guide-to-golang-fundamentals-part-b-d6b22a81d160?source=rss------programming-5) (2026-07-18)
+- [Python3: Mutable, Immutable… Everything is Object!](https://medium.com/@m.munezero/python3-mutable-immutable-everything-is-object-a542a03cd257?source=rss------programming-5) (2026-07-18)
+- [Orchestrating Agents with NVIDIA Nemotron Models on Microsoft Foundry](https://blog.devops.dev/orchestrating-agents-with-nvidia-nemotron-models-on-microsoft-foundry-0a9fc0d6968a?source=rss------programming-5) (2026-07-18)
+- [Gemini Omni Flash: Google Just Turned Video Generation Into a Conversation | Shourya Saxena](https://office10am.medium.com/gemini-omni-flash-google-just-turned-video-generation-into-a-conversation-shourya-saxena-7e5b057f99d7?source=rss------programming-5) (2026-07-18)
+- [He Called Linux Obsolete in 1992. His Own OS Now Hides in Your CPU.](https://canartuc.medium.com/he-called-linux-obsolete-in-1992-his-own-os-now-hides-in-your-cpu-86970c75de1a?source=rss------programming-5) (2026-07-18)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
+- [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 
 </details>
 
@@ -567,24 +567,13 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
-- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Improve Customer Retention in FinTech](https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/) (2026-07-18)
 - [How to Work Effectively with GPT-5.6](https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/) (2026-07-17)
 - [Using Classical ML to Empower AI Agents](https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/) (2026-07-17)
 - [Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop](https://towardsdatascience.com/context-engineering-isnt-enough-a-loop-engineering-experiment-with-no-llm-inside-the-loop/) (2026-07-17)
 - [Analog AI Is Back, But Can It Survive Its Own Noise?](https://towardsdatascience.com/analog-ai-is-back-can-it-survive-its-own-noise/) (2026-07-17)
-- [One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited](https://towardsdatascience.com/one-rag-pipeline-four-very-different-pdfs-same-four-bricks-every-answer-typed-and-cited/) (2026-07-17)
 
 </details>
 
@@ -602,11 +591,11 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [KDnuggets Weekly Roundup: Week of July 13, 2026](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13) (2026-07-18)
 - [Git Worktrees for AI Development](https://www.kdnuggets.com/git-worktrees-for-ai-development) (2026-07-17)
 - [5 FREE Resources on Agentic AI](https://www.kdnuggets.com/5-free-resources-on-agentic-ai) (2026-07-17)
 - [Working with Pi Coding Agents](https://www.kdnuggets.com/working-with-pi-coding-agents) (2026-07-16)
 - [10 YouTube Channels Keeping You Ahead in AI](https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai) (2026-07-16)
-- [Stop Using If-Else Chains: Use the Registry Pattern in Python Instead](https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead) (2026-07-15)
 
 </details>
 
