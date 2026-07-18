@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) (2026-07-18)
+- [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/) (2026-07-18)
+- [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/) (2026-07-18)
+- [A 600-mile road trip (and data) proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/) (2026-07-18)
 - [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) (2026-07-18)
-- [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/) (2026-07-17)
-- [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) (2026-07-17)
-- [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) (2026-07-17)
-- [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/) (2026-07-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) (2026-07-18)
-- [Why do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) (2026-07-18)
-- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) (2026-07-18)
-- [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/) (2026-07-18)
-- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) (2026-07-18)
+- [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com) (2026-07-18)
+- [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/) (2026-07-18)
+- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) (2026-07-18)
+- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) (2026-07-18)
+- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji) (2026-07-18)
+- [GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale) (2026-07-18)
+- [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview) (2026-07-18)
+- [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review) (2026-07-18)
 - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review) (2026-07-18)
-- [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review) (2026-07-18)
-- [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer) (2026-07-18)
-- [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters) (2026-07-18)
-- [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lucy 2.5 Real-Time AI Video Editing: Decart's 40ms Live Stream Revolution](https://dev.to/khuram_youraj_6c4b6780ae1/lucy-25-real-time-ai-video-editing-decarts-40ms-live-stream-revolution-1agl) (2026-07-18)
-- [Why I built a SQL client when 10 already exist — then let AI agents into it](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) (2026-07-18)
-- [A cut list is not a cut plan: audit kerf and stock assignments with KerfPlan](https://dev.to/nekoautomata/a-cut-list-is-not-a-cut-plan-audit-kerf-and-stock-assignments-with-kerfplan-2kgc) (2026-07-18)
-- [Argo - LLM-native static vulnerability detection](https://dev.to/mr_limitless_abe15f71d2fe/argo-llm-native-static-vulnerability-detection-4k9a) (2026-07-18)
-- [[Boost]](https://dev.to/anthonymax/-2anb) (2026-07-18)
+- [Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI](https://dev.to/sanjaysah/why-i-stopped-copy-pasting-repositories-and-started-building-my-own-starter-cli-246j) (2026-07-18)
+- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo) (2026-07-18)
+- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m) (2026-07-18)
+- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej) (2026-07-18)
+- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l) (2026-07-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Go From Zero: A Beginner's Guide to Golang Fundamentals — Part B](https://medium.com/@microclip.lakeesha/go-from-zero-a-beginners-guide-to-golang-fundamentals-part-b-d6b22a81d160?source=rss------programming-5) (2026-07-18)
-- [Python3: Mutable, Immutable… Everything is Object!](https://medium.com/@m.munezero/python3-mutable-immutable-everything-is-object-a542a03cd257?source=rss------programming-5) (2026-07-18)
-- [Orchestrating Agents with NVIDIA Nemotron Models on Microsoft Foundry](https://blog.devops.dev/orchestrating-agents-with-nvidia-nemotron-models-on-microsoft-foundry-0a9fc0d6968a?source=rss------programming-5) (2026-07-18)
-- [Gemini Omni Flash: Google Just Turned Video Generation Into a Conversation | Shourya Saxena](https://office10am.medium.com/gemini-omni-flash-google-just-turned-video-generation-into-a-conversation-shourya-saxena-7e5b057f99d7?source=rss------programming-5) (2026-07-18)
-- [He Called Linux Obsolete in 1992. His Own OS Now Hides in Your CPU.](https://canartuc.medium.com/he-called-linux-obsolete-in-1992-his-own-os-now-hides-in-your-cpu-86970c75de1a?source=rss------programming-5) (2026-07-18)
+- [sysberries it software development company abu dhabi uae](https://faizkrm.medium.com/sysberries-it-software-development-company-abu-dhabi-uae-6f28c1365623?source=rss------programming-5) (2026-07-18)
+- [Top 5 Reasons Why Malek Ibrahim is Gujarat’s №1 Developer in 2026 published: true tags: webdev…](https://medium.com/@gulamahamedmalek/top-5-reasons-why-malek-ibrahim-is-gujarats-1-developer-in-2026-published-true-tags-webdev-a84e5c8da11d?source=rss------programming-5) (2026-07-18)
+- [Getting Started with Git: A Beginner’s Guide to Installing Git and Using Basic Git Commands](https://medium.com/@hamsikbi/getting-started-with-git-a-beginners-guide-to-installing-git-and-using-basic-git-commands-835f44e27c07?source=rss------programming-5) (2026-07-18)
+- [Who is Malek Ibrahim?](https://medium.com/@gulamahamedmalek/who-is-malek-ibrahim-36a92df09964?source=rss------programming-5) (2026-07-18)
+- [Colibri for Running GLM 5.2 in 25GBs RAM is a WASTE? Here’s Why](https://medium.com/data-science-in-your-pocket/colibri-for-running-glm-5-2-in-25gbs-ram-is-a-waste-heres-why-9c1d585cc031?source=rss------programming-5) (2026-07-18)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+14 conversational AI design best practices to implement
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
+) (2026-07-16)
+- [
 How to Build An AI Phone Agent With Twilio Conversation Relay in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-tw
 Overcoming the Spam Epidemic: Twilio Branded Calling Enters Public Beta in the UK, Canada, and Germany
 ](
 https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-uk-canada-germany
-) (2026-07-14)
-- [
-Announcing Twilio Lookup Line Status Public Beta: Verify Number Deliverability Before You Send   
-](
-https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-beta
 ) (2026-07-14)
 
 </details>
@@ -493,9 +493,9 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 <summary>⚡ Zapier Blog</summary>
 
 - [OpenClaw vs. Zapier: What's the difference? [2026]](https://zapier.com/blog/openclaw-vs-zapier) (2026-07-17)
-- [The best CRM software for real estate agents in 2026](https://zapier.com/blog/crm-for-real-estate) (2026-07-17)
 - [Agentic AI vs. RPA: Everything you need to know](https://zapier.com/blog/agentic-ai-vs-rpa) (2026-07-17)
 - [16 AI prompt templates for better AI agent outputs](https://zapier.com/blog/ai-prompt-templates) (2026-07-17)
+- [The best CRM software for real estate agents in 2026](https://zapier.com/blog/crm-for-real-estate) (2026-07-17)
 - [Integrately vs. Zapier: Which is best? [2026]](https://zapier.com/blog/integrately-vs-zapier) (2026-07-16)
 
 </details>
@@ -567,13 +567,24 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
+- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
+- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
+- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
+- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform.](https://towardsdatascience.com/many-companies-use-ai-few-know-how-to-build-an-ai-native-enterprise-data-platform/) (2026-07-18)
+- [Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It](https://towardsdatascience.com/loop-engineering-with-adaptive-pdf-parsing-start-cheap-pay-for-a-heavier-parser-only-when-the-page-needs-it/) (2026-07-18)
 - [How to Improve Customer Retention in FinTech](https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/) (2026-07-18)
 - [How to Work Effectively with GPT-5.6](https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/) (2026-07-17)
 - [Using Classical ML to Empower AI Agents](https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/) (2026-07-17)
-- [Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop](https://towardsdatascience.com/context-engineering-isnt-enough-a-loop-engineering-experiment-with-no-llm-inside-the-loop/) (2026-07-17)
-- [Analog AI Is Back, But Can It Survive Its Own Noise?](https://towardsdatascience.com/analog-ai-is-back-can-it-survive-its-own-noise/) (2026-07-17)
 
 </details>
 
