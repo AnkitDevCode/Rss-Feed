@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [I replaced my space heater and ceiling fan with one Dyson appliance](https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/) (2026-07-17)
-- [How Apple’s big lawsuit could disrupt OpenAI’s IPO plans](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/) (2026-07-17)
-- [FBI arrests man accused of using Steam games to drain victims’ crypto wallets](https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/) (2026-07-17)
-- [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/) (2026-07-17)
-- [Amazon fixing bug that billed some AWS customers billions of dollars](https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/) (2026-07-17)
+- [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/) (2026-07-17)
+- [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) (2026-07-17)
+- [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) (2026-07-17)
+- [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/) (2026-07-17)
+- [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/) (2026-07-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) (2026-07-17)
-- [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/) (2026-07-17)
-- [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/) (2026-07-17)
-- [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/) (2026-07-17)
-- [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html) (2026-07-17)
+- [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871) (2026-07-18)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) (2026-07-18)
+- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) (2026-07-18)
+- [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) (2026-07-18)
+- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce) (2026-07-17)
+- [Shark&#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale) (2026-07-17)
+- [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool) (2026-07-17)
+- [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview) (2026-07-17)
 - [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase) (2026-07-17)
-- [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast) (2026-07-17)
-- [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale) (2026-07-17)
-- [Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak) (2026-07-17)
-- [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price) (2026-07-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Google-backed satellites for wildfire detection launch as smoke chokes US, Canada](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/) (2026-07-17)
+- [The Pentagon's Space Development Agency hasn't moved as fast as anyone would like](https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/) (2026-07-17)
+- [Hegseth wants a "High-T" military; doctors call it a clinical minefield](https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/) (2026-07-17)
+- [Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states](https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/) (2026-07-17)
 - [Troubling new details emerge on diabetes ouster controversy](https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/) (2026-07-17)
-- [Will Russia's answer to the Falcon 9 rocket ever take flight?](https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/) (2026-07-17)
-- [Fubo hikes prices by $15 after restoring some NBCU channels lost in November](https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/) (2026-07-17)
-- [San Francisco orders Apple, Google to remove nudify apps from app stores](https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/) (2026-07-17)
-- [Ars is looking for a senior technology reporter, and you might be it!](https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Installing Apache Kafka 4.2 on Ubuntu (WSL2): A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf) (2026-07-17)
-- [Polling, SSE, or WebSockets for Mobile Upload Status?](https://dev.to/gathmo/polling-sse-or-websockets-for-mobile-upload-status-4m55) (2026-07-17)
-- [Impact of deployment topology on rate-limiting and trust proxy](https://dev.to/rushier/impact-of-deployment-topology-on-rate-limiting-and-trust-proxy-4pfo) (2026-07-17)
-- [Designing Upload Expiration as a Recoverable State](https://dev.to/gathmo/designing-upload-expiration-as-a-recoverable-state-1c8e) (2026-07-17)
-- [Network Performance for Web Teams: DNS, TLS, HTTP, CDN, and Cache Rules](https://dev.to/apogeewatcher/network-performance-for-web-teams-dns-tls-http-cdn-and-cache-rules-32dh) (2026-07-17)
+- [The AI Era: Democratizing the Ivory Tower and Reclaiming the Latin American Mind](https://dev.to/sothiss/the-ai-era-democratizing-the-ivory-tower-and-reclaiming-the-latin-american-mind-2jge) (2026-07-18)
+- [Introducing Schemd: a small text-to-SVG compiler for circuits and UML](https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p) (2026-07-18)
+- [There's no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6) (2026-07-18)
+- [Title: Why I gave my coding agent a memory (and how Cortex works)](https://dev.to/gsl0001/title-why-i-gave-my-coding-agent-a-memory-and-how-cortex-works-4nnm) (2026-07-18)
+- [Its a Post](https://dev.to/john_inuhh_9bd5cfc/its-a-post-4hi8) (2026-07-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The LLM Cost-Cutting Move That Backfired — And What Actually Works](https://medium.com/@bartkru/the-llm-cost-cutting-move-that-backfired-and-what-actually-works-24e50b80505f?source=rss------programming-5) (2026-07-17)
-- [Gemini Video API on Ace Data Cloud: Text to Video, Image to Video, and Real Video Editing…](https://acedatacloud.medium.com/gemini-video-api-on-ace-data-cloud-text-to-video-image-to-video-and-real-video-editing-b2ea44b9511c?source=rss------programming-5) (2026-07-17)
-- [If You Think DynamoDB Indexes Work Like SQL Indexes, You’re Thinking About the Wrong Problem…](https://medium.com/@muskaang1607/if-you-think-dynamodb-indexes-work-like-sql-indexes-youre-thinking-about-the-wrong-problem-6155d84fb057?source=rss------programming-5) (2026-07-17)
-- [The Biggest Mistake Developers Make With AI Tools](https://medium.com/@nagatomopedro05/the-biggest-mistake-developers-make-with-ai-tools-5c05ff16d1e7?source=rss------programming-5) (2026-07-17)
-- [How Does a Computer Remember a Single Bit?](https://shiviraj.medium.com/how-does-a-computer-remember-a-single-bit-2767a3a2af76?source=rss------programming-5) (2026-07-17)
+- [Implementing a Custom io.Reader](https://medium.com/@erwindev/implementing-a-custom-io-reader-d66408ebf9e1?source=rss------programming-5) (2026-07-18)
+- [Circuit Breaker — เบรกเกอร์ตัดไฟของโลกซอฟต์แวร์ กันระบบพังต่อกันเป็นโดมิโน](https://medium.com/algorithmtut/circuit-breaker-%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%99-76232b105a81?source=rss------programming-5) (2026-07-18)
+- [Authentication Is Not Just A Login Screen: A Beginner’s Guide To Account Boundaries In AI-Built…](https://marcusykim.medium.com/authentication-is-not-just-a-login-screen-a-beginners-guide-to-account-boundaries-in-ai-built-b94831dfcad8?source=rss------programming-5) (2026-07-18)
+- [Learning Concepts, Not Programming Languages](https://medium.com/@scosmexs/learning-concepts-not-programming-languages-19cf9815fb09?source=rss------programming-5) (2026-07-18)
+- [The Hidden Journey of Web Hosting: Challenges Developers Face When Bringing Projects to Life](https://medium.com/@kipkemeigideon69/the-hidden-journey-of-web-hosting-challenges-developers-face-when-bringing-projects-to-life-5df0ed31d8d1?source=rss------programming-5) (2026-07-18)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4) (2026-07-17)
 - [Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4) (2026-07-13)
 - [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4) (2026-06-29)
 - [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4) (2026-06-23)
 - [How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4) (2026-06-22)
-- [The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4) (2026-06-19)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Data downloaded by Vercel Sandbox is now free](https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free) (2026-07-17)
 - [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons) (2026-07-17)
 - [GLM 5.2 is 35% off via Novita on AI Gateway](https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway) (2026-07-17)
-- [Chat SDK adds native Slack agent support](https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support) (2026-07-17)
-- [Write utilization now available in ISR Observability](https://vercel.com/changelog/write-utilization-now-available-in-isr-observability) (2026-07-16)
-- [Kimi K3 is now available on AI Gateway](https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway) (2026-07-16)
+- [Optimized CDN caching and deploying of immutable static assets](https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets) (2026-07-17)
+- [Vercel Plugin now available in Kimi Code CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli) (2026-07-17)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
 - [A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) (2026-07-14)
 - [Introducing Precursor: detecting agentic behavior with continuous client-side signals](https://blog.cloudflare.com/introducing-precursor/) (2026-07-13)
 - [Improving Smart Tiered Cache for Public Cloud Regions](https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/) (2026-07-10)
 - [Why we cannot wait for better post-quantum signature algorithms](https://blog.cloudflare.com/ml-dsa-will-have-to-do/) (2026-07-09)
-- [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/) (2026-07-08)
 
 </details>
 
@@ -494,8 +494,8 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 
 - [OpenClaw vs. Zapier: What's the difference? [2026]](https://zapier.com/blog/openclaw-vs-zapier) (2026-07-17)
 - [The best CRM software for real estate agents in 2026](https://zapier.com/blog/crm-for-real-estate) (2026-07-17)
-- [16 AI prompt templates for better AI agent outputs](https://zapier.com/blog/ai-prompt-templates) (2026-07-17)
 - [Agentic AI vs. RPA: Everything you need to know](https://zapier.com/blog/agentic-ai-vs-rpa) (2026-07-17)
+- [16 AI prompt templates for better AI agent outputs](https://zapier.com/blog/ai-prompt-templates) (2026-07-17)
 - [Integrately vs. Zapier: Which is best? [2026]](https://zapier.com/blog/integrately-vs-zapier) (2026-07-16)
 
 </details>
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/products/launches/lookup-line-status-public-be
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
 - [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
+- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
+- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
+- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
+- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
 
 </details>
 
