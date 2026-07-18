@@ -9,20 +9,20 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) (2026-07-18)
 - [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/) (2026-07-17)
 - [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) (2026-07-17)
 - [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) (2026-07-17)
 - [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/) (2026-07-17)
-- [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/) (2026-07-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871) (2026-07-18)
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) (2026-07-18)
 - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) (2026-07-18)
-- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) (2026-07-18)
+- [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) (2026-07-18)
 - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) (2026-07-18)
 - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/) (2026-07-18)
 
@@ -31,11 +31,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters) (2026-07-18)
 - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce) (2026-07-17)
 - [Shark&#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale) (2026-07-17)
 - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool) (2026-07-17)
 - [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview) (2026-07-17)
-- [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The AI Era: Democratizing the Ivory Tower and Reclaiming the Latin American Mind](https://dev.to/sothiss/the-ai-era-democratizing-the-ivory-tower-and-reclaiming-the-latin-american-mind-2jge) (2026-07-18)
-- [Introducing Schemd: a small text-to-SVG compiler for circuits and UML](https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p) (2026-07-18)
-- [There's no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6) (2026-07-18)
-- [Title: Why I gave my coding agent a memory (and how Cortex works)](https://dev.to/gsl0001/title-why-i-gave-my-coding-agent-a-memory-and-how-cortex-works-4nnm) (2026-07-18)
-- [Its a Post](https://dev.to/john_inuhh_9bd5cfc/its-a-post-4hi8) (2026-07-18)
+- [How to Catch False “Done” Claims in AI-Generated Code](https://dev.to/reliableaiddelivery/how-to-catch-false-done-claims-in-ai-generated-code-2gp8) (2026-07-18)
+- [Why I Built Opposition Into My AI Council](https://dev.to/j3nnning/why-i-built-opposition-into-my-ai-council-30p2) (2026-07-18)
+- [Building AI That Matters: Why We Started Ventara](https://dev.to/ventara/building-ai-that-matters-why-we-started-ventara-30lb) (2026-07-18)
+- [View Transitions in Next.js: How I Added Animated Page Changes Without a Library](https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a) (2026-07-18)
+- [I built a toolbox where your files never leave the browser](https://dev.to/s971153/i-built-a-toolbox-where-your-files-never-leave-the-browser-10cb) (2026-07-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Implementing a Custom io.Reader](https://medium.com/@erwindev/implementing-a-custom-io-reader-d66408ebf9e1?source=rss------programming-5) (2026-07-18)
-- [Circuit Breaker — เบรกเกอร์ตัดไฟของโลกซอฟต์แวร์ กันระบบพังต่อกันเป็นโดมิโน](https://medium.com/algorithmtut/circuit-breaker-%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%99-76232b105a81?source=rss------programming-5) (2026-07-18)
-- [Authentication Is Not Just A Login Screen: A Beginner’s Guide To Account Boundaries In AI-Built…](https://marcusykim.medium.com/authentication-is-not-just-a-login-screen-a-beginners-guide-to-account-boundaries-in-ai-built-b94831dfcad8?source=rss------programming-5) (2026-07-18)
-- [Learning Concepts, Not Programming Languages](https://medium.com/@scosmexs/learning-concepts-not-programming-languages-19cf9815fb09?source=rss------programming-5) (2026-07-18)
-- [The Hidden Journey of Web Hosting: Challenges Developers Face When Bringing Projects to Life](https://medium.com/@kipkemeigideon69/the-hidden-journey-of-web-hosting-challenges-developers-face-when-bringing-projects-to-life-5df0ed31d8d1?source=rss------programming-5) (2026-07-18)
+- [Most Companies Buy Agents, Not a Factory — Here Are the Five Missing Layers](https://medium.com/@wasowski.jarek/most-companies-buy-agents-not-a-factory-here-are-the-five-missing-layers-06a7269bf55e?source=rss------programming-5) (2026-07-18)
+- [What a 40-Comment Go Debate Teaches on Software Stability](https://medium.com/@godlessspirit/what-a-40-comment-go-debate-teaches-on-software-stability-89fb16057cd0?source=rss------programming-5) (2026-07-18)
+- [Laravel 13.20 Finally Ships First-Party Image Processing — Here’s Why It Matters](https://medium.com/@andipyk/laravel-13-20-finally-ships-first-party-image-processing-heres-why-it-matters-0f633b1c4396?source=rss------programming-5) (2026-07-18)
+- [Python Web App Development, One Step Further: Dash 2.14](https://medium.com/jin-system-architect/python-web-app-development-one-step-further-dash-2-14-d5b74b7c301f?source=rss------programming-5) (2026-07-18)
+- [itertools.groupby: The Runs-Not-Groups Function That Demands Sorted Input](https://medium.com/@tihomir.manushev/itertools-groupby-the-runs-not-groups-function-that-demands-sorted-input-7ed5a0491153?source=rss------programming-5) (2026-07-18)
 
 </details>
 
