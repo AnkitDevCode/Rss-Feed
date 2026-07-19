@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea) (2026-07-19)
-- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/) (2026-07-19)
-- [Deepsec](https://github.com/vercel-labs/deepsec) (2026-07-19)
-- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3) (2026-07-19)
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor) (2026-07-19)
+- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/) (2026-07-19)
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) (2026-07-19)
+- [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/) (2026-07-19)
+- [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/) (2026-07-19)
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) (2026-07-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games) (2026-07-19)
+- [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas) (2026-07-19)
 - [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation) (2026-07-18)
 - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak) (2026-07-18)
 - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji) (2026-07-18)
-- [GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale) (2026-07-18)
-- [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview) (2026-07-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [As mosquito ranges expand, better monitoring is key to preventing disease](https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/) (2026-07-19)
 - [Will AI fix prior authorization—or make it worse?](https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/) (2026-07-18)
 - [Google-backed satellites for wildfire detection launch as smoke chokes US, Canada](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/) (2026-07-17)
 - [The Pentagon's Space Development Agency hasn't moved as fast as anyone would like](https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/) (2026-07-17)
 - [Hegseth wants a "High-T" military; doctors call it a clinical minefield](https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/) (2026-07-17)
-- [Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states](https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Where Code Meets Medicine, Chemistry, and Even Religion](https://dev.to/danielioni/where-code-meets-medicine-chemistry-and-even-religion-4kb0) (2026-07-19)
-- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c) (2026-07-19)
-- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma) (2026-07-19)
-- [What happens after a write? Reworking Squirix's WAL in preview.6](https://dev.to/__2d3e61e/what-happens-after-a-write-reworking-squirixs-wal-in-preview6-5ha4) (2026-07-19)
-- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf) (2026-07-19)
+- [Reading a Rust crate's capabilities out of its compiled symbols](https://dev.to/booyaka101/reading-a-rust-crates-capabilities-out-of-its-compiled-symbols-58pb) (2026-07-19)
+- [Stop Using 'password123': A Developer's Guide to Strong Passwords](https://dev.to/zhihu_wu_dea1d82af01a04d7/stop-using-password123-a-developers-guide-to-strong-passwords-1on1) (2026-07-19)
+- [Orchestrating 16 Cursor subagents in a single session — what actually stuck](https://dev.to/baolin_tikool_43da6f2b56f/orchestrating-16-cursor-subagents-in-a-single-session-what-actually-stuck-546m) (2026-07-19)
+- [Sending Gmail from behind China's Great Firewall — six attempts that failed](https://dev.to/baolin_tikool_43da6f2b56f/sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed-1khf) (2026-07-19)
+- [Advanced Prompt Engineering: Techniques That Transform AI Response Quality](https://dev.to/andr_diasmoreiraprol_b/advanced-prompt-engineering-techniques-that-transform-ai-response-quality-47m6) (2026-07-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Native vs New Alternatives: What’s Next?](https://javascript.plainenglish.io/react-native-vs-new-alternatives-whats-next-ec3c48983e84?source=rss------programming-5) (2026-07-19)
-- [How CMP, JMP, and JE Make Malware Smart And Detect Debuggers (The Boss’s Decision Doors)](https://medium.com/@anees78788878/how-cmp-jmp-and-je-make-malware-smart-and-detect-debuggers-the-bosss-decision-doors-b8ddef919b4e?source=rss------programming-5) (2026-07-19)
-- [AI agent TCO vs. junior developer: the hidden bill for maintaining the code](https://medium.com/@wasowski.jarek/ai-agent-tco-vs-junior-developer-the-hidden-bill-for-maintaining-the-code-6af5a839eac8?source=rss------programming-5) (2026-07-19)
-- [I Challenged Myself to Build a New Python Tool Every Week — Here’s What Happened](https://medium.com/codetodeploy/i-challenged-myself-to-build-a-new-python-tool-every-week-heres-what-happened-880ffaf8a195?source=rss------programming-5) (2026-07-19)
-- [Grouping and Aggregating Data Like a Pro](https://medium.com/@emmanuelowusuadu10/grouping-and-aggregating-data-like-a-pro-5068a02a8ed1?source=rss------programming-5) (2026-07-19)
+- [The Real Difference Between Beginners and Senior Developers](https://medium.com/@devadathkv1234/the-real-difference-between-beginners-and-senior-developers-c3dad8a3a0b6?source=rss------programming-5) (2026-07-19)
+- [YAML to JSON Converter: Convert YAML to JSON Instantly Without Installing Anything](https://mharoon1296.medium.com/yaml-to-json-converter-convert-yaml-to-json-instantly-without-installing-anything-3d2aeb3b8fc1?source=rss------programming-5) (2026-07-19)
+- [Kubectl, Docker, and GitHub’s CLI Run on Code He Wrote. Then He Walked Away From Google.](https://medium.com/programmers-career/kubectl-docker-and-githubs-cli-run-on-code-he-wrote-then-he-walked-away-from-google-96b4f76fa2a2?source=rss------programming-5) (2026-07-19)
+- [JavaScript’s Most Forgiving Syntaxes](https://medium.com/bitsrc/javascripts-most-forgiving-syntaxes-57c1c3664595?source=rss------programming-5) (2026-07-19)
+- [Day 30 : From Chaos to Order](https://medium.com/@raiedaleve/day-30-from-chaos-to-order-0d4cfde16999?source=rss------programming-5) (2026-07-19)
 
 </details>
 
@@ -567,46 +567,35 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
-- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your AI Agent Passed Every Eval. Finance Still Killed It.](https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/) (2026-07-19)
 - [Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform.](https://towardsdatascience.com/many-companies-use-ai-few-know-how-to-build-an-ai-native-enterprise-data-platform/) (2026-07-18)
 - [Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It](https://towardsdatascience.com/loop-engineering-with-adaptive-pdf-parsing-start-cheap-pay-for-a-heavier-parser-only-when-the-page-needs-it/) (2026-07-18)
 - [How to Improve Customer Retention in FinTech](https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/) (2026-07-18)
 - [How to Work Effectively with GPT-5.6](https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/) (2026-07-17)
-- [Using Classical ML to Empower AI Agents](https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/) (2026-07-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
 - [How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)](https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/) (2026-07-17)
 - [GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/) (2026-07-16)
 - [Inside the Claude Fable 5 System Prompt: A Full Breakdown](https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/) (2026-07-15)
 - [What is Meta Prompting and How does it work?](https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/) (2026-07-14)
-- [How to Measure Video Similarity: 6 Techniques I Tested (and the One I Shipped) ](https://www.analyticsvidhya.com/blog/2026/07/video-similarity-measurement/) (2026-07-13)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Could Your AI Systems Already Be High-Risk Under the EU AI Act?](https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act) (2026-07-19)
 - [KDnuggets Weekly Roundup: Week of July 13, 2026](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13) (2026-07-18)
 - [Git Worktrees for AI Development](https://www.kdnuggets.com/git-worktrees-for-ai-development) (2026-07-17)
 - [5 FREE Resources on Agentic AI](https://www.kdnuggets.com/5-free-resources-on-agentic-ai) (2026-07-17)
 - [Working with Pi Coding Agents](https://www.kdnuggets.com/working-with-pi-coding-agents) (2026-07-16)
-- [10 YouTube Channels Keeping You Ahead in AI](https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai) (2026-07-16)
 
 </details>
 
