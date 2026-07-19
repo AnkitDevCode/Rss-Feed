@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea) (2026-07-19)
+- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/) (2026-07-19)
+- [Deepsec](https://github.com/vercel-labs/deepsec) (2026-07-19)
+- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3) (2026-07-19)
 - [Better and Cheaper Than IPTV](https://github.com/stupside/castor) (2026-07-19)
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) (2026-07-19)
-- [Harness Engineering](https://github.com/lopopolo/harness-engineering) (2026-07-18)
-- [Codex Resets](https://codex-resets.com/) (2026-07-18)
-- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) (2026-07-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Filling the PASETO gap in JavaScript: paseto-kit (v3/v4 + full PASERK)](https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5) (2026-07-19)
-- [AgentPool: A Stack Overflow for Coding Agents](https://dev.to/zugatech/agentpool-a-stack-overflow-for-coding-agents-2676) (2026-07-19)
-- [A Spend Cap That Stops Counting Is Already Fail-Open](https://dev.to/alex_spinov/a-spend-cap-that-stops-counting-is-already-fail-open-4mi) (2026-07-19)
-- [Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4) (2026-07-19)
-- [Midnight sprint: a sealed-bid auction, a stubborn error 170, and everything it taught me"](https://dev.to/tminus1s/midnight-sprint-a-sealed-bid-auction-a-stubborn-error-170-and-everything-it-taught-me-24kd) (2026-07-19)
+- [Where Code Meets Medicine, Chemistry, and Even Religion](https://dev.to/danielioni/where-code-meets-medicine-chemistry-and-even-religion-4kb0) (2026-07-19)
+- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c) (2026-07-19)
+- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma) (2026-07-19)
+- [What happens after a write? Reworking Squirix's WAL in preview.6](https://dev.to/__2d3e61e/what-happens-after-a-write-reworking-squirixs-wal-in-preview6-5ha4) (2026-07-19)
+- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf) (2026-07-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why We Avoid defer in Hot Loops (And What We Use Instead)](https://medium.com/@erwindev/why-we-avoid-defer-in-hot-loops-and-what-we-use-instead-986414bd1b70?source=rss------programming-5) (2026-07-19)
-- [Rejuvenating My Projects](https://vyonizr.medium.com/rejuvenating-my-projects-4a6f7e25aba4?source=rss------programming-5) (2026-07-19)
-- [Outbox Pattern — การันตีว่า DB Commit แล้ว Event ต้องถูกส่งแน่นอน แม้ Process จะตายวินาทีถัดมา](https://medium.com/algorithmtut/outbox-pattern-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2-db-commit-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-event-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%99-%E0%B9%81%E0%B8%A1%E0%B9%89-process-%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%96%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B2-d53e7d62b885?source=rss------programming-5) (2026-07-19)
-- [This time, is Kimi's K3 just a benchmark prince?](https://githubdaily.medium.com/this-time-is-kimis-k3-just-a-benchmark-prince-0dae73b5f3fb?source=rss------programming-5) (2026-07-19)
-- [Top 10 AI Coding Tools Every Developer Needs in 2026](https://medium.com/@dra.m.rdeveloper1995/top-10-ai-coding-tools-every-developer-needs-in-2026-f9d04b7d82b5?source=rss------programming-5) (2026-07-19)
+- [React Native vs New Alternatives: What’s Next?](https://javascript.plainenglish.io/react-native-vs-new-alternatives-whats-next-ec3c48983e84?source=rss------programming-5) (2026-07-19)
+- [How CMP, JMP, and JE Make Malware Smart And Detect Debuggers (The Boss’s Decision Doors)](https://medium.com/@anees78788878/how-cmp-jmp-and-je-make-malware-smart-and-detect-debuggers-the-bosss-decision-doors-b8ddef919b4e?source=rss------programming-5) (2026-07-19)
+- [AI agent TCO vs. junior developer: the hidden bill for maintaining the code](https://medium.com/@wasowski.jarek/ai-agent-tco-vs-junior-developer-the-hidden-bill-for-maintaining-the-code-6af5a839eac8?source=rss------programming-5) (2026-07-19)
+- [I Challenged Myself to Build a New Python Tool Every Week — Here’s What Happened](https://medium.com/codetodeploy/i-challenged-myself-to-build-a-new-python-tool-every-week-heres-what-happened-880ffaf8a195?source=rss------programming-5) (2026-07-19)
+- [Grouping and Aggregating Data Like a Pro](https://medium.com/@emmanuelowusuadu10/grouping-and-aggregating-data-like-a-pro-5068a02a8ed1?source=rss------programming-5) (2026-07-19)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
 - [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
+- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
+- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
+- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
+- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
 
 </details>
 
