@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/) (2026-07-18)
 - [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) (2026-07-18)
 - [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/) (2026-07-18)
 - [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/) (2026-07-18)
 - [A 600-mile road trip (and data) proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/) (2026-07-18)
-- [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com) (2026-07-18)
-- [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/) (2026-07-18)
-- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) (2026-07-18)
-- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) (2026-07-18)
-- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) (2026-07-18)
+- [Better and Cheaper Than IPTV](https://github.com/stupside/castor) (2026-07-19)
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) (2026-07-19)
+- [Harness Engineering](https://github.com/lopopolo/harness-engineering) (2026-07-18)
+- [Codex Resets](https://codex-resets.com/) (2026-07-18)
+- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation) (2026-07-18)
+- [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak) (2026-07-18)
 - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji) (2026-07-18)
 - [GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale) (2026-07-18)
 - [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview) (2026-07-18)
-- [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review) (2026-07-18)
-- [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review) (2026-07-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI](https://dev.to/sanjaysah/why-i-stopped-copy-pasting-repositories-and-started-building-my-own-starter-cli-246j) (2026-07-18)
-- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo) (2026-07-18)
-- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m) (2026-07-18)
-- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej) (2026-07-18)
-- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l) (2026-07-18)
+- [Filling the PASETO gap in JavaScript: paseto-kit (v3/v4 + full PASERK)](https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5) (2026-07-19)
+- [AgentPool: A Stack Overflow for Coding Agents](https://dev.to/zugatech/agentpool-a-stack-overflow-for-coding-agents-2676) (2026-07-19)
+- [A Spend Cap That Stops Counting Is Already Fail-Open](https://dev.to/alex_spinov/a-spend-cap-that-stops-counting-is-already-fail-open-4mi) (2026-07-19)
+- [Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4) (2026-07-19)
+- [Midnight sprint: a sealed-bid auction, a stubborn error 170, and everything it taught me"](https://dev.to/tminus1s/midnight-sprint-a-sealed-bid-auction-a-stubborn-error-170-and-everything-it-taught-me-24kd) (2026-07-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [sysberries it software development company abu dhabi uae](https://faizkrm.medium.com/sysberries-it-software-development-company-abu-dhabi-uae-6f28c1365623?source=rss------programming-5) (2026-07-18)
-- [Top 5 Reasons Why Malek Ibrahim is Gujarat’s №1 Developer in 2026 published: true tags: webdev…](https://medium.com/@gulamahamedmalek/top-5-reasons-why-malek-ibrahim-is-gujarats-1-developer-in-2026-published-true-tags-webdev-a84e5c8da11d?source=rss------programming-5) (2026-07-18)
-- [Getting Started with Git: A Beginner’s Guide to Installing Git and Using Basic Git Commands](https://medium.com/@hamsikbi/getting-started-with-git-a-beginners-guide-to-installing-git-and-using-basic-git-commands-835f44e27c07?source=rss------programming-5) (2026-07-18)
-- [Who is Malek Ibrahim?](https://medium.com/@gulamahamedmalek/who-is-malek-ibrahim-36a92df09964?source=rss------programming-5) (2026-07-18)
-- [Colibri for Running GLM 5.2 in 25GBs RAM is a WASTE? Here’s Why](https://medium.com/data-science-in-your-pocket/colibri-for-running-glm-5-2-in-25gbs-ram-is-a-waste-heres-why-9c1d585cc031?source=rss------programming-5) (2026-07-18)
+- [Why We Avoid defer in Hot Loops (And What We Use Instead)](https://medium.com/@erwindev/why-we-avoid-defer-in-hot-loops-and-what-we-use-instead-986414bd1b70?source=rss------programming-5) (2026-07-19)
+- [Rejuvenating My Projects](https://vyonizr.medium.com/rejuvenating-my-projects-4a6f7e25aba4?source=rss------programming-5) (2026-07-19)
+- [Outbox Pattern — การันตีว่า DB Commit แล้ว Event ต้องถูกส่งแน่นอน แม้ Process จะตายวินาทีถัดมา](https://medium.com/algorithmtut/outbox-pattern-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2-db-commit-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-event-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%99-%E0%B9%81%E0%B8%A1%E0%B9%89-process-%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%96%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B2-d53e7d62b885?source=rss------programming-5) (2026-07-19)
+- [This time, is Kimi's K3 just a benchmark prince?](https://githubdaily.medium.com/this-time-is-kimis-k3-just-a-benchmark-prince-0dae73b5f3fb?source=rss------programming-5) (2026-07-19)
+- [Top 10 AI Coding Tools Every Developer Needs in 2026](https://medium.com/@dra.m.rdeveloper1995/top-10-ai-coding-tools-every-developer-needs-in-2026-f9d04b7d82b5?source=rss------programming-5) (2026-07-19)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 - [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
-- [Proving application resilience on Azure with Chaos Studio](https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/) (2026-07-01)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
 - [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
-- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
 
 </details>
 
