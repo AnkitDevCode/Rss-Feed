@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: The battle over robotaxi rules](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/) (2026-07-19)
+- [‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/) (2026-07-19)
+- [Nonprofit Current AI is racing to build the World Wide Web of AI, free for all](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/) (2026-07-19)
 - [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/) (2026-07-18)
 - [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) (2026-07-18)
-- [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/) (2026-07-18)
-- [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/) (2026-07-18)
-- [A 600-mile road trip (and data) proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/) (2026-07-19)
-- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) (2026-07-19)
-- [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/) (2026-07-19)
-- [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/) (2026-07-19)
-- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) (2026-07-19)
+- [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/) (2026-07-19)
+- [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html) (2026-07-19)
+- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g) (2026-07-19)
+- [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired) (2026-07-19)
+- [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes) (2026-07-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games) (2026-07-19)
-- [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas) (2026-07-19)
-- [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation) (2026-07-18)
-- [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak) (2026-07-18)
-- [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji) (2026-07-18)
+- [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music) (2026-07-19)
+- [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults) (2026-07-19)
+- [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review) (2026-07-19)
+- [Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale) (2026-07-19)
+- [US Marshals arrest the Tate brothers in Miami](https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami) (2026-07-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Reading a Rust crate's capabilities out of its compiled symbols](https://dev.to/booyaka101/reading-a-rust-crates-capabilities-out-of-its-compiled-symbols-58pb) (2026-07-19)
-- [Stop Using 'password123': A Developer's Guide to Strong Passwords](https://dev.to/zhihu_wu_dea1d82af01a04d7/stop-using-password123-a-developers-guide-to-strong-passwords-1on1) (2026-07-19)
-- [Orchestrating 16 Cursor subagents in a single session — what actually stuck](https://dev.to/baolin_tikool_43da6f2b56f/orchestrating-16-cursor-subagents-in-a-single-session-what-actually-stuck-546m) (2026-07-19)
-- [Sending Gmail from behind China's Great Firewall — six attempts that failed](https://dev.to/baolin_tikool_43da6f2b56f/sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed-1khf) (2026-07-19)
-- [Advanced Prompt Engineering: Techniques That Transform AI Response Quality](https://dev.to/andr_diasmoreiraprol_b/advanced-prompt-engineering-techniques-that-transform-ai-response-quality-47m6) (2026-07-19)
+- [Week 2: I Found the Best Free Blockchain Course on the Internet — Here's My Honest Review](https://dev.to/bassey_01/week-2-i-found-the-best-free-blockchain-course-on-the-internet-heres-my-honest-review-5096) (2026-07-19)
+- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment (Setup Guide)](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h) (2026-07-19)
+- [What Is a Pointer in C? A Beginner's Guide](https://dev.to/codefacility_54ecdc081e01/what-is-a-pointer-in-c-a-beginners-guide-3ddb) (2026-07-19)
+- [Multi-Agent Interview Coach](https://dev.to/mitrakumar/multi-agent-interview-coach-5glm) (2026-07-19)
+- [Does Prisma respect Supabase RLS? No — here's why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53) (2026-07-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Real Difference Between Beginners and Senior Developers](https://medium.com/@devadathkv1234/the-real-difference-between-beginners-and-senior-developers-c3dad8a3a0b6?source=rss------programming-5) (2026-07-19)
-- [YAML to JSON Converter: Convert YAML to JSON Instantly Without Installing Anything](https://mharoon1296.medium.com/yaml-to-json-converter-convert-yaml-to-json-instantly-without-installing-anything-3d2aeb3b8fc1?source=rss------programming-5) (2026-07-19)
-- [Kubectl, Docker, and GitHub’s CLI Run on Code He Wrote. Then He Walked Away From Google.](https://medium.com/programmers-career/kubectl-docker-and-githubs-cli-run-on-code-he-wrote-then-he-walked-away-from-google-96b4f76fa2a2?source=rss------programming-5) (2026-07-19)
-- [JavaScript’s Most Forgiving Syntaxes](https://medium.com/bitsrc/javascripts-most-forgiving-syntaxes-57c1c3664595?source=rss------programming-5) (2026-07-19)
-- [Day 30 : From Chaos to Order](https://medium.com/@raiedaleve/day-30-from-chaos-to-order-0d4cfde16999?source=rss------programming-5) (2026-07-19)
+- [How Rate Limiting Actually Works in Internal Architecture — Trade-offs and Bottlenecks Nobody Warns…](https://medium.com/@ankit4unet/how-rate-limiting-actually-works-in-internal-architecture-trade-offs-and-bottlenecks-nobody-warns-53e9f0302790?source=rss------programming-5) (2026-07-19)
+- [ Mac File Operations Guide](https://medium.com/@nirbhaysingh281/mac-file-operations-guide-4ca6406bd136?source=rss------programming-5) (2026-07-19)
+- [The CI Pipeline mistakes that Quietly slow teams down](https://blog.devgenius.io/the-ci-pipeline-mistakes-that-quietly-slow-teams-down-25bcea41bab5?source=rss------programming-5) (2026-07-19)
+- [Implementing GitOps with ArgoCD for Kubernetes Deployment | Phase 2](https://medium.com/@pranavsb699/implementing-gitops-with-argocd-for-kubernetes-deployment-phase-2-130c3452a6a9?source=rss------programming-5) (2026-07-19)
+- [ Building AI Agents in Rust - part 10](https://pub.towardsai.net/building-ai-agents-in-rust-part-10-3c1e2f47b29b?source=rss------programming-5) (2026-07-19)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Backpropagation Explained for Beginners (Part 1): Building the Intuition](https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/) (2026-07-19)
+- [Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval](https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/) (2026-07-19)
 - [Your AI Agent Passed Every Eval. Finance Still Killed It.](https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/) (2026-07-19)
 - [Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform.](https://towardsdatascience.com/many-companies-use-ai-few-know-how-to-build-an-ai-native-enterprise-data-platform/) (2026-07-18)
 - [Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It](https://towardsdatascience.com/loop-engineering-with-adaptive-pdf-parsing-start-cheap-pay-for-a-heavier-parser-only-when-the-page-needs-it/) (2026-07-18)
-- [How to Improve Customer Retention in FinTech](https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/) (2026-07-18)
-- [How to Work Effectively with GPT-5.6](https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/) (2026-07-17)
 
 </details>
 
