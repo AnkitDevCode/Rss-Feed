@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/) (2026-07-19)
+- [What to watch for after Jensen Huang’s Japan visit](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/) (2026-07-19)
+- [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/) (2026-07-19)
 - [TechCrunch Mobility: The battle over robotaxi rules](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/) (2026-07-19)
 - [‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/) (2026-07-19)
-- [Nonprofit Current AI is racing to build the World Wide Web of AI, free for all](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/) (2026-07-19)
-- [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/) (2026-07-18)
-- [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) (2026-07-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/) (2026-07-19)
-- [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html) (2026-07-19)
-- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g) (2026-07-19)
-- [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired) (2026-07-19)
-- [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes) (2026-07-19)
+- [The Anti-Palantir Manifesto](https://nonogra.ph/the-anti-palantir-manifesto-07-20-2026) (2026-07-20)
+- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine) (2026-07-20)
+- [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion) (2026-07-19)
+- [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios) (2026-07-19)
+- [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) (2026-07-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review) (2026-07-19)
+- [Kodak EC35 is a dirt-cheap point-and-shoot film camera](https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera) (2026-07-19)
 - [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music) (2026-07-19)
 - [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults) (2026-07-19)
 - [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review) (2026-07-19)
-- [Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale) (2026-07-19)
-- [US Marshals arrest the Tate brothers in Miami](https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami) (2026-07-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) (2026-07-19)
 - [As mosquito ranges expand, better monitoring is key to preventing disease](https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/) (2026-07-19)
 - [Will AI fix prior authorization—or make it worse?](https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/) (2026-07-18)
 - [Google-backed satellites for wildfire detection launch as smoke chokes US, Canada](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/) (2026-07-17)
 - [The Pentagon's Space Development Agency hasn't moved as fast as anyone would like](https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/) (2026-07-17)
-- [Hegseth wants a "High-T" military; doctors call it a clinical minefield](https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Week 2: I Found the Best Free Blockchain Course on the Internet — Here's My Honest Review](https://dev.to/bassey_01/week-2-i-found-the-best-free-blockchain-course-on-the-internet-heres-my-honest-review-5096) (2026-07-19)
-- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment (Setup Guide)](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h) (2026-07-19)
-- [What Is a Pointer in C? A Beginner's Guide](https://dev.to/codefacility_54ecdc081e01/what-is-a-pointer-in-c-a-beginners-guide-3ddb) (2026-07-19)
-- [Multi-Agent Interview Coach](https://dev.to/mitrakumar/multi-agent-interview-coach-5glm) (2026-07-19)
-- [Does Prisma respect Supabase RLS? No — here's why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53) (2026-07-19)
+- [Add analytics to your site without a cookie consent banner](https://dev.to/solca/add-analytics-to-your-site-without-a-cookie-consent-banner-4a11) (2026-07-20)
+- [Jamcorder vendió 2.500 unidades: el hardware no fue lo difícil](https://dev.to/lu1tr0n/jamcorder-vendio-2500-unidades-el-hardware-no-fue-lo-dificil-4bba) (2026-07-20)
+- [Is AI Mindlessly Validating You?](https://dev.to/rensyntax/is-ai-mindlessly-validating-you-2j6c) (2026-07-20)
+- [Model Context Protocol (MCP), Explained](https://dev.to/sudo_anuj/model-context-protocol-mcp-explained-3n5m) (2026-07-20)
+- [Browser-use's Real Risk Surface Is the Browser Session](https://dev.to/doramagic/browser-uses-real-risk-surface-is-the-browser-session-5181) (2026-07-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Rate Limiting Actually Works in Internal Architecture — Trade-offs and Bottlenecks Nobody Warns…](https://medium.com/@ankit4unet/how-rate-limiting-actually-works-in-internal-architecture-trade-offs-and-bottlenecks-nobody-warns-53e9f0302790?source=rss------programming-5) (2026-07-19)
-- [ Mac File Operations Guide](https://medium.com/@nirbhaysingh281/mac-file-operations-guide-4ca6406bd136?source=rss------programming-5) (2026-07-19)
-- [The CI Pipeline mistakes that Quietly slow teams down](https://blog.devgenius.io/the-ci-pipeline-mistakes-that-quietly-slow-teams-down-25bcea41bab5?source=rss------programming-5) (2026-07-19)
-- [Implementing GitOps with ArgoCD for Kubernetes Deployment | Phase 2](https://medium.com/@pranavsb699/implementing-gitops-with-argocd-for-kubernetes-deployment-phase-2-130c3452a6a9?source=rss------programming-5) (2026-07-19)
-- [ Building AI Agents in Rust - part 10](https://pub.towardsai.net/building-ai-agents-in-rust-part-10-3c1e2f47b29b?source=rss------programming-5) (2026-07-19)
+- [What Machine Learning Is — and What It Is NOT](https://capt-albus.medium.com/what-machine-learning-is-and-what-it-is-not-0133dea8cc80?source=rss------programming-5) (2026-07-20)
+- [Agent workflow auditing to prevent Vision Drift](https://medium.com/@jonathan.lampa1/agent-workflow-auditing-to-prevent-vision-drift-daeec505dd40?source=rss------programming-5) (2026-07-20)
+- [This 529K Star Hardcore Open-Source Project Lets You Truly Master Technical Principles](https://githubdaily.medium.com/this-529k-star-hardcore-open-source-project-lets-you-truly-master-technical-principles-6123a92acd10?source=rss------programming-5) (2026-07-20)
+- [I Was Asking the Wrong Question About AI Coding](https://medium.com/@kevindona/i-was-asking-the-wrong-question-about-ai-coding-858d784a2581?source=rss------programming-5) (2026-07-20)
+- [Mengenal OnlyMuba: Perjalanan Membangun Jejak ](https://medium.com/@mubagntng/mengenal-onlymuba-perjalanan-membangun-jejak-0718dbaa479b?source=rss------programming-5) (2026-07-20)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
 - [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
+- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
+- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
+- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
+- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
 
 </details>
 
