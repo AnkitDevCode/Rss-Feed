@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Anti-Palantir Manifesto](https://nonogra.ph/the-anti-palantir-manifesto-07-20-2026) (2026-07-20)
-- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine) (2026-07-20)
-- [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion) (2026-07-19)
-- [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios) (2026-07-19)
-- [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) (2026-07-19)
+- [EU Exempts Apple Watch and AirPods from Battery Removal Requirements](https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/) (2026-07-20)
+- [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/) (2026-07-20)
+- [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html) (2026-07-20)
+- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun) (2026-07-20)
+- [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566) (2026-07-20)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) (2026-07-20)
 - [The Download: perimenopause misinformation and China’s latest AI leap](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/) (2026-07-17)
 - [There’s a lot of hype around perimenopause. Don’t buy it.](https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/) (2026-07-17)
 - [The risk of weather data sabotage is rising](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) (2026-07-17)
 - [The Download: OpenAI unveils GPT-Red and heat pumps rise in the US](https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/) (2026-07-16)
-- [Why heat pumps are still so hot in the US](https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/) (2026-07-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Add analytics to your site without a cookie consent banner](https://dev.to/solca/add-analytics-to-your-site-without-a-cookie-consent-banner-4a11) (2026-07-20)
-- [Jamcorder vendió 2.500 unidades: el hardware no fue lo difícil](https://dev.to/lu1tr0n/jamcorder-vendio-2500-unidades-el-hardware-no-fue-lo-dificil-4bba) (2026-07-20)
-- [Is AI Mindlessly Validating You?](https://dev.to/rensyntax/is-ai-mindlessly-validating-you-2j6c) (2026-07-20)
-- [Model Context Protocol (MCP), Explained](https://dev.to/sudo_anuj/model-context-protocol-mcp-explained-3n5m) (2026-07-20)
-- [Browser-use's Real Risk Surface Is the Browser Session](https://dev.to/doramagic/browser-uses-real-risk-surface-is-the-browser-session-5181) (2026-07-20)
+- [The decision framework I wish I'd had before studying AI-103](https://dev.to/pedro_e1b97b84ce7fd723f41/the-decision-framework-i-wish-id-had-before-studying-ai-103-if0) (2026-07-20)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3o12) (2026-07-20)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-2h6b) (2026-07-20)
+- [Serverless Without Limits: How a Static Web App Can Fully Operate with Databases](https://dev.to/traliran/serverless-without-limits-how-a-static-web-app-can-fully-operate-with-databases-5fg8) (2026-07-20)
+- [PanelControl: a 65-file business app, in vanilla JavaScript with no framework](https://dev.to/androve2k/panelcontrol-a-65-file-business-app-in-vanilla-javascript-with-no-framework-1618) (2026-07-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Machine Learning Is — and What It Is NOT](https://capt-albus.medium.com/what-machine-learning-is-and-what-it-is-not-0133dea8cc80?source=rss------programming-5) (2026-07-20)
-- [Agent workflow auditing to prevent Vision Drift](https://medium.com/@jonathan.lampa1/agent-workflow-auditing-to-prevent-vision-drift-daeec505dd40?source=rss------programming-5) (2026-07-20)
-- [This 529K Star Hardcore Open-Source Project Lets You Truly Master Technical Principles](https://githubdaily.medium.com/this-529k-star-hardcore-open-source-project-lets-you-truly-master-technical-principles-6123a92acd10?source=rss------programming-5) (2026-07-20)
-- [I Was Asking the Wrong Question About AI Coding](https://medium.com/@kevindona/i-was-asking-the-wrong-question-about-ai-coding-858d784a2581?source=rss------programming-5) (2026-07-20)
-- [Mengenal OnlyMuba: Perjalanan Membangun Jejak ](https://medium.com/@mubagntng/mengenal-onlymuba-perjalanan-membangun-jejak-0718dbaa479b?source=rss------programming-5) (2026-07-20)
+- [Have You Ever Created a MATLAB Plot and Thought, “There Has to Be an Easier Way?”](https://medium.com/@matlabit/have-you-ever-created-a-matlab-plot-and-thought-there-has-to-be-an-easier-way-1e5302a0193d?source=rss------programming-5) (2026-07-20)
+- [The Spec Is the New Unit of Work: Spec-Driven Development for Teams Running AI Agents](https://medium.com/@er.rajatlakhina/the-spec-is-the-new-unit-of-work-spec-driven-development-for-teams-running-ai-agents-015f15f9bf0e?source=rss------programming-5) (2026-07-20)
+- [Rust Doesn’t Create Variables — It Creates Bindings](https://medium.com/@developer.gowthamma/rust-doesnt-create-variables-it-creates-bindings-7c10e28888cc?source=rss------programming-5) (2026-07-20)
+- [I Deleted 5,000 Lines of Code — And My Project Got Better](https://medium.com/@manishaa.011103/i-deleted-5-000-lines-of-code-and-my-project-got-better-4b719f9658f1?source=rss------programming-5) (2026-07-20)
+- [Optimizing Docker Image Build Times in CI/CD: From 10 Minutes to 2 Minutes](https://medium.com/@mithun.k29501/optimizing-docker-image-build-times-in-ci-cd-from-10-minutes-to-2-minutes-798f823aa8f1?source=rss------programming-5) (2026-07-20)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [I've tried every automation software: here are the 10 best in 2026](https://zapier.com/blog/best-automation-software) (2026-07-20)
+- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
 - [OpenClaw vs. Zapier: What's the difference? [2026]](https://zapier.com/blog/openclaw-vs-zapier) (2026-07-17)
-- [Agentic AI vs. RPA: Everything you need to know](https://zapier.com/blog/agentic-ai-vs-rpa) (2026-07-17)
-- [16 AI prompt templates for better AI agent outputs](https://zapier.com/blog/ai-prompt-templates) (2026-07-17)
 - [The best CRM software for real estate agents in 2026](https://zapier.com/blog/crm-for-real-estate) (2026-07-17)
-- [Integrately vs. Zapier: Which is best? [2026]](https://zapier.com/blog/integrately-vs-zapier) (2026-07-16)
+- [16 AI prompt templates for better AI agent outputs](https://zapier.com/blog/ai-prompt-templates) (2026-07-17)
 
 </details>
 
@@ -567,17 +567,6 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
-- [Neko Health raises $700 million to expand AI body scans in the US](https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/) (2026-07-16)
-- [Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA](https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/) (2026-07-15)
-- [AWS and Bluesight build AI for hospital 340B compliance](https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/) (2026-07-14)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Backpropagation Explained for Beginners (Part 1): Building the Intuition](https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/) (2026-07-19)
@@ -591,11 +580,11 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
 - [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
 - [How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)](https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/) (2026-07-17)
 - [GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/) (2026-07-16)
 - [Inside the Claude Fable 5 System Prompt: A Full Breakdown](https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/) (2026-07-15)
-- [What is Meta Prompting and How does it work?](https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/) (2026-07-14)
 
 </details>
 
