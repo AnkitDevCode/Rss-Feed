@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [X relaunches a rebuilt Android app after year-long effort](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/) (2026-07-20)
-- [OpenAI is scared of open-weight models. Should the US be?](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/) (2026-07-20)
-- [Natural raises $30M to reinvent payments for AI agents — and take on Stripe](https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/) (2026-07-20)
-- [Judge pauses $110B Paramount-Warner Bros. merger](https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/) (2026-07-20)
-- [Adobe camera app’s new feature will critique your photos using AI](https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/) (2026-07-20)
+- [Anthropic’s landmark $1.5B copyright settlement is approved](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/) (2026-07-21)
+- [Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation](https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/) (2026-07-20)
+- [Trump’s latest AI czar has already resigned](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/) (2026-07-20)
+- [Google is working on a new AI chip designed to make Gemini more efficient](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/) (2026-07-20)
+- [AI’s most important protocol is getting a little bit easier to use](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/) (2026-07-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/) (2026-07-20)
-- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) (2026-07-20)
-- [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/) (2026-07-20)
-- [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650) (2026-07-20)
-- [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics) (2026-07-20)
+- [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) (2026-07-21)
+- [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) (2026-07-20)
+- [Opaque, Interoperable Passkey Records (and a Go API)](https://words.filippo.io/passkey-record/) (2026-07-20)
+- [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/) (2026-07-20)
+- [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/) (2026-07-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable) (2026-07-20)
-- [Judge pauses Paramount’s attempt to buy Warner Bros. Discovery](https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro) (2026-07-20)
-- [LG&#8217;s glossy OLED gaming monitor is rare to find under $400](https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale) (2026-07-20)
-- [LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads](https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus) (2026-07-20)
-- [Adobe’s ‘natural look’ camera app embraces generative AI](https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update) (2026-07-20)
+- [Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright) (2026-07-20)
+- [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra) (2026-07-20)
+- [The Odyssey turned me into an IMAX believer](https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan) (2026-07-20)
+- [SpaceX in your index fund, explained](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained) (2026-07-20)
+- [Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15](https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale) (2026-07-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [F1 in Belgium: Machine learning algorithms are ruining the sport](https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/) (2026-07-20)
-- [AliExpress hit with record $625M fine after failing to make EU-ordered fixes](https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/) (2026-07-20)
-- [The first trailer for Avengers: Doomsday is finally here](https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/) (2026-07-20)
-- [Pay up or not? Ransomware surge has victims facing tough choices.](https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/) (2026-07-20)
-- [Beyond grep: The case for a context-rich AI coding harness](https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/) (2026-07-20)
+- [DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him](https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/) (2026-07-20)
+- [Firefighting drones in the works as wildfires plague US nearly year-round](https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/) (2026-07-20)
+- [Judge halts Paramount's $111B purchase of Warner Bros. in win for US states](https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/) (2026-07-20)
+- [The Space Force is now seeking to buy up to $30 billion in rocket launches](https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/) (2026-07-20)
+- [AT&T loses key ruling in bid to stop offering basic phone service in California](https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/) (2026-07-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Repository Harness, Part 2: 30 Runs Later, It Wasn’t Cheaper. It Was More Predictable.](https://dev.to/lepsistemas/repository-harness-part-2-30-runs-later-it-wasnt-cheaper-it-was-more-predictable-1d8p) (2026-07-20)
-- [Proposed API Reference](https://dev.to/doeixd/-appendix-proposed-api-reference-108o) (2026-07-20)
-- [Password Strength Checker and the case for browser-side cryptography](https://dev.to/mryesiller/password-strength-checker-and-the-case-for-browser-side-cryptography-3kkm) (2026-07-20)
-- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad) (2026-07-20)
-- [MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows](https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj) (2026-07-20)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-44ab) (2026-07-21)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-28em) (2026-07-21)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5db1) (2026-07-21)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1l5m) (2026-07-21)
+- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8) (2026-07-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Coderbyte #1: Codeland Username Validation Challenge in Python](https://medium.com/@shruti.mandaokar/coderbyte-1-codeland-username-validation-challenge-in-python-927bde88c450?source=rss------programming-5) (2026-07-20)
-- [The Acquirer Was Timing Out — and Redeploy Was Not a Compliance Strategy](https://medium.com/@devops_16625/the-acquirer-was-timing-out-and-redeploy-was-not-a-compliance-strategy-4c39c32ec07a?source=rss------programming-5) (2026-07-20)
-- [PART 2 — Forward Deployed Engineer — AI-Augmented Engineering Interview Questions](https://medium.com/@rameshwar.blog/part-2-forward-deployed-engineer-ai-augmented-engineering-interview-questions-be9cc6ddf02e?source=rss------programming-5) (2026-07-20)
-- [Stack Overflow Is Dying. The AI That Killed It Could Be Next](https://medium.com/@jamilxt/stack-overflow-is-dying-the-ai-that-killed-it-could-be-next-fe74f1838027?source=rss------programming-5) (2026-07-20)
-- [Why AI Won’t Make You Rich (But It Can Make You Valuable)](https://ai.plainenglish.io/why-ai-wont-make-you-rich-but-it-can-make-you-valuable-8ffab72ee955?source=rss------programming-5) (2026-07-20)
+- [PHP Guzzle 8.0 Officially Released: Better for AI Application Development](https://githubdaily.medium.com/php-guzzle-8-0-officially-released-better-for-ai-application-development-c63b2756b46e?source=rss------programming-5) (2026-07-21)
+- [Tired of approving every Claude Code request?](https://medium.com/@lpezet/tired-of-approving-every-claude-code-request-b1ba7055b921?source=rss------programming-5) (2026-07-21)
+- [Why a LEFT JOIN With a WHERE Clause Becomes an Inner Join](https://medium.com/@annxsa/why-a-left-join-with-a-where-clause-becomes-an-inner-join-7b8b3f3fca39?source=rss------programming-5) (2026-07-21)
+- [Do prompt ao aprendizado: como aplicar Loop Engineering com Superpowers, Graphify e Obsidian](https://medium.com/@elourenco/do-prompt-ao-aprendizado-como-aplicar-loop-engineering-com-superpowers-graphify-e-obsidian-0ebbb49cedfb?source=rss------programming-5) (2026-07-21)
+- [Value Classes in Java: Or, How Java Learned Your Data Never Wanted an Identity](https://medium.com/heap-wire/value-classes-in-java-or-how-java-learned-your-data-never-wanted-an-identity-ae75a8c5a5c1?source=rss------programming-5) (2026-07-21)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI](https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/) (2026-07-17)
 - [Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/) (2026-07-16)
 - [NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/) (2026-07-15)
-
-</details>
-
-<details>
-<summary>🍎 Apple Developer News</summary>
-
-- [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
-- [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
-- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
-- [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
 
 </details>
 
@@ -328,11 +317,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Automate work item assignment with a "Work item created" trigger](https://about.gitlab.com/blog/how-to-use-a-work-item-created-trigger/) (2026-07-20)
 - [GitLab Transcend Hackathon: What developers built on GitLab Orbit](https://about.gitlab.com/blog/gitlab-transcend-hackathon-orbit/) (2026-07-20)
 - [Turn multi-step software delivery into agentic flows you can trust](https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/) (2026-07-16)
 - [GitLab Duo Security Review spots logic flaws scanners miss](https://about.gitlab.com/blog/gitlab-duo-security-review-flow/) (2026-07-16)
 - [Bring GitLab Duo Agent Platform to your terminal](https://about.gitlab.com/blog/gitlab-duo-cli-generally-available/) (2026-07-16)
-- [Forrester Consulting: GitLab Duo Agent Platform delivers 400% ROI](https://about.gitlab.com/blog/gitlab-duo-agent-platform-delivers-400-percent-roi/) (2026-07-16)
 
 </details>
 
@@ -350,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Configure where run state lives in Vercel Workflows](https://vercel.com/changelog/configure-where-run-state-lives-in-vercel-workflows) (2026-07-20)
+- [Purge your Remote Cache's build and CI artifacts](https://vercel.com/changelog/purge-your-remote-caches-build-and-ci-artifacts) (2026-07-20)
 - [Data downloaded by Vercel Sandbox is now free](https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free) (2026-07-17)
 - [Runtime logs now show cache reasons](https://vercel.com/changelog/runtime-logs-now-show-cache-reasons) (2026-07-17)
 - [GLM 5.2 is 35% off via Novita on AI Gateway](https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway) (2026-07-17)
-- [Optimized CDN caching and deploying of immutable static assets](https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets) (2026-07-17)
-- [Vercel Plugin now available in Kimi Code CLI](https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli) (2026-07-17)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) (2026-07-20)
 - [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
 - [A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) (2026-07-14)
 - [Introducing Precursor: detecting agentic behavior with continuous client-side signals](https://blog.cloudflare.com/introducing-precursor/) (2026-07-13)
 - [Improving Smart Tiered Cache for Public Cloud Regions](https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/) (2026-07-10)
-- [Why we cannot wait for better post-quantum signature algorithms](https://blog.cloudflare.com/ml-dsa-will-have-to-do/) (2026-07-09)
 
 </details>
 
@@ -492,11 +481,11 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Relay.app is shutting down: How to export your workflows and move to Zapier](https://zapier.com/blog/relay-alternatives) (2026-07-20)
 - [I've tried every automation software: here are the 10 best in 2026](https://zapier.com/blog/best-automation-software) (2026-07-20)
 - [Web scraping: A comprehensive guide](https://zapier.com/blog/web-scraping) (2026-07-20)
-- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
 - [Turn off your slop cannon](https://zapier.com/blog/remove-ai-slop-from-writing) (2026-07-19)
-- [OpenClaw vs. Zapier: What's the difference? [2026]](https://zapier.com/blog/openclaw-vs-zapier) (2026-07-17)
+- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
 
 </details>
 
