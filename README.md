@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Music streamer Deezer says more than 50% of daily uploads are AI-generated](https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/) (2026-07-21)
+- [Bluecore Energy raises $10M to build portable nuclear reactors on barges](https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/) (2026-07-21)
+- [Gritt exits stealth with $34 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/) (2026-07-21)
 - [Anthropic’s landmark $1.5B copyright settlement is approved](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/) (2026-07-21)
 - [Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation](https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/) (2026-07-20)
-- [Trump’s latest AI czar has already resigned](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/) (2026-07-20)
-- [Google is working on a new AI chip designed to make Gemini more efficient](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/) (2026-07-20)
-- [AI’s most important protocol is getting a little bit easier to use](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/) (2026-07-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of) (2026-07-21)
+- [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/) (2026-07-21)
+- [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first) (2026-07-21)
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) (2026-07-21)
 - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map) (2026-07-21)
-- [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding) (2026-07-21)
 - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) (2026-07-21)
-- [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright) (2026-07-20)
-- [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra) (2026-07-20)
-- [The Odyssey turned me into an IMAX believer](https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan) (2026-07-20)
-- [SpaceX in your index fund, explained](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained) (2026-07-20)
-- [Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15](https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale) (2026-07-20)
+- [Garmin’s new screen-free fitness tracker doesn’t require a subscription](https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables) (2026-07-21)
+- [The Switch 2 is $50 off at Woot for new customers](https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale) (2026-07-21)
+- [The wireless headset that gets hot-swappable batteries right](https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on) (2026-07-21)
+- [Nintendo keeps making shooters more friendly and approachable](https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2) (2026-07-21)
+- [Halliday’s latest smart glasses feature a much-improved display](https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables) (2026-07-21)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Chinese AI divides the White House, and a record copyright payout](https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/) (2026-07-21)
+- [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) (2026-07-21)
 - [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) (2026-07-20)
 - [The Download: AI hiring biases, and weather data sabotage](https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/) (2026-07-20)
 - [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) (2026-07-20)
-- [The Download: perimenopause misinformation and China’s latest AI leap](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/) (2026-07-17)
-- [There’s a lot of hype around perimenopause. Don’t buy it.](https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We’re thrilled to bring you OWASP Cornucopia v3.4 with an update that expands how we identify threats, whether you're mapping out traditional web applications or diving headfirst into the latest AI architectures.](https://dev.to/sydseter/were-thrilled-to-bring-you-owasp-cornucopia-v34-with-an-update-that-expands-how-we-identify-1npo) (2026-07-21)
-- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp) (2026-07-21)
-- [RedHook malware turns on your phone's Wireless Debugging to stream your screen — and it never touches the consent dialog](https://dev.to/superfunicular/redhook-malware-turns-on-your-phones-wireless-debugging-to-stream-your-screen-and-it-never-459b) (2026-07-21)
-- [Fluent Is Not Faithful: Building a Safer AI Paraphrasing Pipeline](https://dev.to/luke_m_2f4034aa8793842a3/fluent-is-not-faithful-building-a-safer-ai-paraphrasing-pipeline-cpf) (2026-07-21)
-- [How to Install Postiz on a Local Windows Machine](https://dev.to/mathiasahlgren/how-to-install-postiz-on-a-local-windows-machine-1544) (2026-07-21)
+- [My JavaScript Learning Journey:Understanding the JavaScript Event Loop and Concurrency Model](https://dev.to/harshith_gaddam/my-javascript-learning-journeyunderstanding-the-javascript-event-loop-and-concurrency-model-4oec) (2026-07-21)
+- [Sumeh: one API for data quality across 14 engines](https://dev.to/maltzsama/sumeh-one-api-for-data-quality-across-14-engines-5hm7) (2026-07-21)
+- [I Converted the order-api to OKF. Here's What I Found.](https://dev.to/diyaburman/i-converted-the-order-api-to-okf-heres-what-i-found-5c8m) (2026-07-21)
+- [Why I Built a 23,000+ Record Open Dataset for Gujarati AI](https://dev.to/tkdonda/why-i-built-a-23000-record-open-dataset-for-gujarati-ai-4c28) (2026-07-21)
+- [How to Crop PDF Pages in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-5d75) (2026-07-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Stop AI Hallucinations in Cursor AI & Copilot: A Senior Developer’s Framework](https://medium.com/@PromptShop/how-to-stop-ai-hallucinations-in-cursor-ai-copilot-a-senior-developers-framework-b9309c66d3d3?source=rss------programming-5) (2026-07-21)
-- [If AI Does More of Your Job, What Are You Still Worth?](https://medium.com/@osomudeyazudonu/if-ai-does-more-of-your-job-what-are-you-still-worth-d91d8441f53f?source=rss------programming-5) (2026-07-21)
-- [Claude Code Review: My Honest Experience Using Anthropic’s AI Coding Assistant](https://medium.com/@diep1102101093/claude-code-review-my-honest-experience-using-anthropics-ai-coding-assistant-8c84fa458c81?source=rss------programming-5) (2026-07-21)
-- [Understanding the Orchestrator Pattern: Managing Distributed Workflows with Confidence](https://dickyperdian29.medium.com/understanding-the-orchestrator-pattern-managing-distributed-workflows-with-confidence-3e206800ea21?source=rss------programming-5) (2026-07-21)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-3f589901d822?source=rss------programming-5) (2026-07-21)
+- [Silverlight Died in 2021. I Just Rebuilt It — For Free.](https://medium.com/@artillustration391/silverlight-died-in-2021-i-just-rebuilt-it-for-free-9185c7f641f2?source=rss------programming-5) (2026-07-21)
+- [AI Overviews Killed Your Traffic. Here’s the 2026 Fix ](https://medium.com/@Travel4Fun4U/ai-overviews-killed-your-traffic-heres-the-2026-fix-f6fcdb0f2bd2?source=rss------programming-5) (2026-07-21)
+- [AI Can Code For You. It Still Can’t Be Responsible For You.](https://medium.com/@haroonhasan10614/ai-can-code-for-you-it-still-cant-be-responsible-for-you-507b475205ec?source=rss------programming-5) (2026-07-21)
+- [Why Clear README Files Matter in Full-Stack Projects](https://medium.com/@franksmithiii23/why-clear-readme-files-matter-in-full-stack-projects-8c5433b4407d?source=rss------programming-5) (2026-07-21)
+- [Learn 4 Programming Languages at the Speed of One](https://medium.com/@rakesh.sheshadri44/learn-4-programming-languages-at-the-speed-of-one-8590ac5891a2?source=rss------programming-5) (2026-07-21)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Monday, July 27, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases) (2026-07-21)
 - [Node.js 26.5.0 (Current)](https://nodejs.org/en/blog/release/v26.5.0) (2026-07-08)
 - [Node.js 26.4.0 (Current)](https://nodejs.org/en/blog/release/v26.4.0) (2026-06-24)
 - [Node.js 24.18.0 (LTS)](https://nodejs.org/en/blog/release/v24.18.0) (2026-06-23)
 - [Node.js 22.23.1 (LTS)](https://nodejs.org/en/blog/release/v22.23.1) (2026-06-23)
-- [Node.js 26.3.1 (Current)](https://nodejs.org/en/blog/release/v26.3.1) (2026-06-18)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [How the 2026 World Cup affected Internet traffic](https://blog.cloudflare.com/2026-world-cup-internet-traffic/) (2026-07-21)
 - [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) (2026-07-20)
 - [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
 - [A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) (2026-07-14)
 - [Introducing Precursor: detecting agentic behavior with continuous client-side signals](https://blog.cloudflare.com/introducing-precursor/) (2026-07-13)
-- [Improving Smart Tiered Cache for Public Cloud Regions](https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/) (2026-07-10)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+7 top customer data platforms for AI agents in 2026
+](
+https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
+) (2026-07-20)
+- [
+A CDP is the best contextual data layer for agentic systems
+](
+https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-layer-for-agentic-systems
+) (2026-07-19)
+- [
+The top 5 apps and software to integrate with your contact center
+](
+https://www.twilio.com/en-us/blog/top-contact-center-integrations
+) (2026-07-18)
+- [
+How to create a professional email address (+ examples)
+](
+https://www.twilio.com/en-us/blog/insights/make-professional-email-address
+) (2026-07-17)
+- [
 14 conversational AI design best practices to implement
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 ) (2026-07-16)
-- [
-How to Build An AI Phone Agent With Twilio Conversation Relay in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php
-) (2026-07-15)
-- [
-What is AI customer memory? How it works & getting started
-](
-https://www.twilio.com/en-us/blog/insights/ai-customer-memory
-) (2026-07-15)
-- [
-How To Build An AI Phone Agent With Twilio Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay
-) (2026-07-14)
-- [
-Overcoming the Spam Epidemic: Twilio Branded Calling Enters Public Beta in the UK, Canada, and Germany
-](
-https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-uk-canada-germany
-) (2026-07-14)
 
 </details>
 
@@ -495,8 +495,8 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 - [Relay.app is shutting down: How to export your workflows and move to Zapier](https://zapier.com/blog/relay-alternatives) (2026-07-20)
 - [I've tried every automation software: here are the 10 best in 2026](https://zapier.com/blog/best-automation-software) (2026-07-20)
 - [Web scraping: A comprehensive guide](https://zapier.com/blog/web-scraping) (2026-07-20)
-- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
 - [Turn off your slop cannon](https://zapier.com/blog/remove-ai-slop-from-writing) (2026-07-19)
+- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
 
 </details>
 
@@ -558,33 +558,22 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) (2026-07-21)
 - [Introducing Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) (2026-07-20)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
-- [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) (2026-07-15)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Chinese open-weight models are cheap. Washington is deciding what that costs.](https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/) (2026-07-21)
-- [US public health agencies to test OpenAI and Anthropic AI models](https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/) (2026-07-20)
-- [Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute](https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/) (2026-07-20)
-- [Bunkerhill raises $55M to scale agentic AI across health systems](https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/) (2026-07-17)
-- [Examining Google DeepMind’s AI bioresilience push](https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation](https://towardsdatascience.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation/) (2026-07-21)
+- [Are Your ML Experiments a Mess? Here’s the Fix](https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/) (2026-07-21)
 - [How to Run Claude Code Agents for 24+ Hours](https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/) (2026-07-20)
 - [Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures with a Vision LLM](https://towardsdatascience.com/loop-engineering-with-adaptive-parsing-in-action-parsing-flat-tables-with-azure-and-figures-with-a-vision-llm/) (2026-07-20)
 - [Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance](https://towardsdatascience.com/water-cooler-small-talk-ep-12-byzantine-fault-tolerance/) (2026-07-20)
-- [Automatically Assign a Category to Uncategorized Rows in Power Query and DAX](https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/) (2026-07-20)
-- [Backpropagation Explained for Beginners (Part 1): Building the Intuition](https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/) (2026-07-19)
 
 </details>
 
@@ -602,22 +591,22 @@ https://www.twilio.com/en-us/blog/products/launches/public-beta-branded-calling-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Free Courses to Go From AI Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner) (2026-07-21)
 - [A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming](https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming) (2026-07-20)
 - [Top 5 MCP Servers for High-Performance Agentic Development](https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development) (2026-07-20)
 - [Could Your AI Systems Already Be High-Risk Under the EU AI Act?](https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act) (2026-07-19)
 - [KDnuggets Weekly Roundup: Week of July 13, 2026](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13) (2026-07-18)
-- [Git Worktrees for AI Development](https://www.kdnuggets.com/git-worktrees-for-ai-development) (2026-07-17)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) (2026-07-21)
 - [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) (2026-07-20)
 - [Agentic AI Security: Defending Against Prompt Injection and Tool Misuse](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) (2026-07-17)
 - [Run a Local AI Model with Ollama in 15 Minutes](https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/) (2026-07-16)
 - [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) (2026-07-15)
-- [LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) (2026-07-14)
 
 </details>
 
