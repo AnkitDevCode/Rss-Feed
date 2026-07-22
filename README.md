@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Einride bets $38M on EV charging as it scales electric trucking](https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/) (2026-07-21)
-- [Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs](https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/) (2026-07-21)
-- [Data centers expected to use 4x more electricity by 2035](https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/) (2026-07-21)
-- [Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings](https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/) (2026-07-21)
-- [Google releases three new Gemini models — but no 3.5 Pro](https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/) (2026-07-21)
+- [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/) (2026-07-22)
+- [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/) (2026-07-21)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/) (2026-07-21)
+- [OpenAI says Hugging Face was breached by its pre-release models](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/) (2026-07-21)
+- [Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Advertise in ChatGPT](https://ads.openai.com/) (2026-07-21)
-- [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater) (2026-07-21)
-- [Freeink: Open Ecosystem for E-Readers](https://freeink.org/) (2026-07-21)
-- [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent) (2026-07-21)
-- [Apple has decided to compete for creativity app users](https://alex4d.com/notes/item/apple-competing-for-creativity-app-users) (2026-07-21)
+- [Ten Steps Towards Happiness](http://hintjens.com/blog:99) (2026-07-22)
+- [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog) (2026-07-22)
+- [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/) (2026-07-22)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) (2026-07-21)
+- [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch) (2026-07-22)
+- [Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance) (2026-07-21)
+- [OpenAI says it accidentally hacked Hugging Face with a new AI system](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) (2026-07-21)
+- [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool) (2026-07-21)
 - [Peak Design’s modular Field Bracket has a finder tag built-in](https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter) (2026-07-21)
-- [Nearly every Kindle is steeply discounted at Best Buy](https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale) (2026-07-21)
-- [Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads](https://www.theverge.com/tech/968750/apple-upgrade-program) (2026-07-21)
-- [Twitch will let parents stop their teens going live](https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms) (2026-07-21)
-- [Anthropic’s $1.5 billion book piracy settlement approved by judge](https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved) (2026-07-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Steam Deck sales are losing steam since May's price hike](https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/) (2026-07-21)
-- [Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4](https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/) (2026-07-21)
-- [TreeSize won't renew perpetual-license support unless users subscribe](https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/) (2026-07-21)
-- [When your vehicle outlives its cloud: What happens next?](https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/) (2026-07-21)
-- [Apps targeted at US troops contain Chinese and Russian code](https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/) (2026-07-21)
+- [Range Rover answers the question: "What if we built a not-SUV?"](https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/) (2026-07-21)
+- [On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec](https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/) (2026-07-21)
+- [Sony releases one last trailer for Spider-Man: Brand New Day](https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/) (2026-07-21)
+- [Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms](https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/) (2026-07-21)
+- [Nintendo says users voluntarily paid higher prices, have no right to tariff refunds](https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/) (2026-07-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Everything we got wrong caching a multi-tenant SaaS on one domain](https://dev.to/grouptizer/everything-we-got-wrong-caching-a-multi-tenant-saas-on-one-domain-1jia) (2026-07-21)
-- [I Built Pay Splitter to Make Group Expenses Less Awkward](https://dev.to/adarshpatil/i-built-pay-splitter-to-make-group-expenses-less-awkward-35nf) (2026-07-21)
-- [DEVOPS](https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi) (2026-07-21)
-- [How To Cut MCP Token Costs? Save Up To 92% At Scale With Code Mode 💎](https://dev.to/anthonymax/how-to-cut-mcp-token-costs-save-up-to-92-at-scale-with-code-mode-3fco) (2026-07-21)
-- [HTML, CSS, JavaScript](https://dev.to/clinton_roland_8e626e9a41/html-css-javascript-1foe) (2026-07-21)
+- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da) (2026-07-22)
+- [CPSC Recall API: No Pagination and a Broken Hazard Filter](https://dev.to/mayd-it/cpsc-recall-api-no-pagination-and-a-broken-hazard-filter-2iei) (2026-07-22)
+- [Choosing an RDP Client on macOS:What I Learned After Managing Windows Machines from a Mac](https://dev.to/o_oliver_3b38e6829628a1e9/choosing-an-rdp-client-on-macoswhat-i-learned-after-managing-windows-machines-from-a-mac-3655) (2026-07-22)
+- [buildline: merging cargo and ninja's build profiling into one timeline](https://dev.to/nabsei/buildline-merging-cargo-and-ninjas-build-profiling-into-one-timeline-2373) (2026-07-22)
+- [MCP vs. Agent Skills: A Decision Framework for Context Engineering](https://dev.to/shakti_mishra_308e9f36b5d/mcp-vs-agent-skills-a-decision-framework-for-context-engineering-ljf) (2026-07-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [C++ Program to Count Digits in a Number](https://medium.com/@gururaja1998m/c-program-to-count-digits-in-a-number-c277ae25e719?source=rss------programming-5) (2026-07-21)
-- [C++ Program to Find the Greatest Common Divisor (GCD)](https://medium.com/@gururaja1998m/c-program-to-find-the-greatest-common-divisor-gcd-7ae2359b11d9?source=rss------programming-5) (2026-07-21)
-- [Building a Cross-Platform Shell in C++: What fork() Does That _spawnvp() Can’t](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7?source=rss------programming-5) (2026-07-21)
-- [Low Level System Design — Day 2: Class vs Object- The Building Blocks of Every Design](https://medium.com/low-level-system-design-interview-prep/low-level-system-design-day-2-class-vs-object-the-building-blocks-of-every-design-7015c8073bc2?source=rss------programming-5) (2026-07-21)
-- [The PostgreSQL Scaling Mistake Almost Every Developer Makes (And How PgBouncer Fixes It)](https://medium.com/@harshitostwal1234/connection-pooling-in-postgresql-why-pgbouncer-is-essential-for-production-systems-0c9469343c09?source=rss------programming-5) (2026-07-21)
+- [From Static Pages to Interactive Forms: How JavaScript Changed the Way I Build Websites](https://medium.com/@akshaya.vetrivel5/from-static-pages-to-interactive-forms-how-javascript-changed-the-way-i-build-websites-b7fa914a78e3?source=rss------programming-5) (2026-07-22)
+- [Late-Night Coding Music for When You’re the Only One Awake](https://medium.com/@builderprotocol/late-night-coding-music-for-when-youre-the-only-one-awake-6ddddc2e50da?source=rss------programming-5) (2026-07-22)
+- [One Malicious Payload Hijacked Claude Code AND Codex Unchanged — The 'Friendly Fire' Exploit Has No…](https://pub.towardsai.net/one-malicious-payload-hijacked-claude-code-and-codex-unchanged-the-friendly-fire-exploit-has-no-1c40cc3698cf?source=rss------programming-5) (2026-07-22)
+- [Hermes Agent Is Quietly Leaving OpenClaw Behind. Here’s Why Everyone Is About to Notice.](https://medium.com/@deadgirl2133/hermes-agent-is-quietly-leaving-openclaw-behind-heres-why-everyone-is-about-to-notice-87f1096031d2?source=rss------programming-5) (2026-07-22)
+- [What Happens When a Webhook Retries 47 Times in 10 Seconds](https://medium.com/@annxsa/what-happens-when-a-webhook-retries-47-times-in-10-seconds-9fa84be9c3bf?source=rss------programming-5) (2026-07-22)
 
 </details>
 
@@ -130,11 +130,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (2026-07-21)
 - [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/) (2026-07-21)
 - [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/) (2026-07-21)
 - [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](https://blogs.nvidia.com/blog/siggraph-news-2026/) (2026-07-20)
 - [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin ](https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/) (2026-07-20)
-- [NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI](https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/) (2026-07-17)
+
+</details>
+
+<details>
+<summary>🍎 Apple Developer News</summary>
+
+- [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
+- [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
+- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
+- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
+- [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
 
 </details>
 
@@ -339,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [How Searchable ships customer-requested features in 30 minutes on Vercel ](https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel) (2026-07-21)
+- [Introducing the new Vercel Agent](https://vercel.com/blog/vercel-agent) (2026-07-21)
+- [Python function bundles now include precompiled bytecode](https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode) (2026-07-21)
 - [Vercel Connect adds 90+ preset connectors](https://vercel.com/changelog/vercel-connect-preset-connectors) (2026-07-21)
 - [Vercel MCP now supports purchases](https://vercel.com/changelog/vercel-mcp-now-supports-purchases) (2026-07-21)
-- [Laguna S 2.1 is now available on AI Gateway](https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway) (2026-07-21)
-- [Gemini 3.6 Flash and Gemini 3.5 Flash-Lite are now available on AI Gateway](https://vercel.com/changelog/gemini-3-6-flash-3-5-flash-lite-on-ai-gateway) (2026-07-21)
-- [Configure where run state lives in Vercel Workflows](https://vercel.com/changelog/configure-where-run-state-lives-in-vercel-workflows) (2026-07-20)
 
 </details>
 
@@ -536,19 +547,19 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/) (2026-07-21)
 - [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/) (2026-07-15)
 - [Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels](https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/) (2026-07-10)
 - [PyTorch 2.13 Release Blog](https://pytorch.org/blog/pytorch-2-13-release-blog/) (2026-07-08)
 - [Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-06)
-- [Understanding PyTorch’s Test Infrastructure](https://pytorch.org/blog/understanding-pytorchs-test-infrastructure/) (2026-07-03)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) (2026-07-21)
 - [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) (2026-07-21)
-- [Introducing Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) (2026-07-20)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
 - [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
