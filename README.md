@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/) (2026-07-22)
-- [The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/) (2026-07-22)
-- [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/) (2026-07-22)
-- [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/) (2026-07-21)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/) (2026-07-21)
+- [Cascade raises $3.5M to help construction firms find and win projects](https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/) (2026-07-22)
+- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) (2026-07-22)
+- [Passionfroot raises $15M to expand its B2B creator marketplace to the US](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/) (2026-07-22)
+- [WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more](https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/) (2026-07-22)
+- [Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era](https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/) (2026-07-22)
-- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/) (2026-07-22)
-- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) (2026-07-22)
-- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/) (2026-07-22)
-- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) (2026-07-22)
+- [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/) (2026-07-22)
+- [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/) (2026-07-22)
+- [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/) (2026-07-22)
+- [10 REM"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/) (2026-07-22)
+- [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol) (2026-07-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch) (2026-07-22)
-- [Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance) (2026-07-21)
-- [OpenAI says it accidentally hacked Hugging Face with a new AI system](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) (2026-07-21)
-- [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool) (2026-07-21)
-- [Peak Design’s modular Field Bracket has a finder tag built-in](https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter) (2026-07-21)
+- [Samsung’s newest foldable finally feels Ultra](https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos) (2026-07-22)
+- [Samsung’s wider Z Fold 8 feels just right](https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on) (2026-07-22)
+- [Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery](https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches) (2026-07-22)
+- [I almost forgot Samsung’s Z Flip 8 was a foldable](https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on) (2026-07-22)
+- [Samsung Galaxy Unpacked 2026: The 6 biggest announcements](https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced) (2026-07-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: NASA’s new space telescope and OpenAI’s autonomous hacker](https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/) (2026-07-22)
+- [Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own](https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/) (2026-07-22)
 - [The Download: Chinese AI divides the White House, and a record copyright payout](https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/) (2026-07-21)
 - [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) (2026-07-21)
 - [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) (2026-07-20)
-- [The Download: AI hiring biases, and weather data sabotage](https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/) (2026-07-20)
-- [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) (2026-07-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Change Data Capture in 2026: Supabase Webhooks, Prisma Pulse, and the "Thundering Herd" Problem](https://dev.to/instawebhook/change-data-capture-in-2026-supabase-webhooks-prisma-pulse-and-the-thundering-herd-problem-4f9a) (2026-07-22)
-- [Cisco's Antares Models Cost $1 to Find Security Bugs. GPT-5.5 Costs $141](https://dev.to/peremptory/ciscos-antares-models-cost-1-to-find-security-bugs-gpt-55-costs-141-1967) (2026-07-22)
-- [Data Expiry & Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j) (2026-07-22)
-- [AI Coding Assistants Are Secretly Making Your Code Less Secure](https://dev.to/lucky3mc/ai-coding-assistants-are-secretly-making-your-code-less-secure-147g) (2026-07-22)
-- [Free Self-Hosted Alternatives to Datadog: What Actually Works on Your Own Hardware](https://dev.to/ericwoooo_kr/free-self-hosted-alternatives-to-datadog-what-actually-works-on-your-own-hardware-16m4) (2026-07-22)
+- [Never Let the Model Pick the Tenant ID: Securing an LLM Agent in Go](https://dev.to/julesrobineau/never-let-the-model-pick-the-tenant-id-securing-an-llm-agent-in-go-o6e) (2026-07-22)
+- [I built a CLI so I'd stop typing ImageMagick flags wrong.](https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61) (2026-07-22)
+- [Dagster AuthKit v0.4.0 - Security Hardening, Cross-Pod Sessions, and We Need Your Help](https://dev.to/maltzsama/dagster-authkit-v040-security-hardening-cross-pod-sessions-and-we-need-your-help-p4j) (2026-07-22)
+- [The bug that never crashed: how I fuzzed an AI's own code sandbox and found it lying to its model](https://dev.to/himanshu_748/the-bug-that-never-crashed-how-i-fuzzed-an-ais-own-code-sandbox-and-found-it-lying-to-its-model-2ek2) (2026-07-22)
+- [LangGraph vs. CrewAI vs. Microsoft Agent Framework vs. n8n](https://dev.to/felipejac/langgraph-vs-crewai-vs-microsoft-agent-framework-vs-n8n-a5e) (2026-07-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [99% of Angular Developers Use the Wrong Way to Transfer Data Between Components](https://medium.com/@sourabhda1998/99-of-angular-developers-use-the-wrong-way-to-transfer-data-between-components-aeee637a048f?source=rss------programming-5) (2026-07-22)
-- [10 Angular Interview Questions That Expose Who Actually Understands the Framework](https://medium.com/@sourabhda1998/10-angular-interview-questions-that-expose-who-actually-understands-the-framework-06e0c072e3ad?source=rss------programming-5) (2026-07-22)
-- [Understanding Transformers (Part 3 — Continued): Training LSTMs, Their Limitations, and Why…](https://medium.com/@geekycodes/understanding-transformers-part-3-continued-training-lstms-their-limitations-and-why-d5e5b9afddfb?source=rss------programming-5) (2026-07-22)
-- [10 Signs You Are Becoming Too Dependent on AI](https://medium.com/the-ai-diaries/10-signs-you-are-becoming-too-dependent-on-ai-263a0bb1543d?source=rss------programming-5) (2026-07-22)
-- [The Rain Knows the Shortest Path](https://medium.com/@msmungg/the-rain-knows-the-shortest-path-6f4f5c4466d9?source=rss------programming-5) (2026-07-22)
+- [Roadmap Belajar Sistem Informasi: Apa yang Perlu Dipelajari Mahasiswa dari Semester Awal hingga…](https://tiarahyt.medium.com/roadmap-belajar-sistem-informasi-apa-yang-perlu-dipelajari-mahasiswa-dari-semester-awal-hingga-1e0367763936?source=rss------programming-5) (2026-07-22)
+- [Hotspot or Wi-Fi?](https://medium.com/@henry9900/hotspot-or-wi-fi-b421a37f23c1?source=rss------programming-5) (2026-07-22)
+- [Virtual Hosts Explained: How One Server Secretly Runs Hundreds of Websites](https://systemweakness.com/virtual-hosts-explained-how-one-server-secretly-runs-hundreds-of-websites-13285c7136aa?source=rss------programming-5) (2026-07-22)
+- [PostgreSQL vs MongoDB: What We Learned from Handling 1 Million Requests per Second](https://medium.com/@ajisalipay/postgresql-vs-mongodb-what-we-learned-from-handling-1-million-requests-per-second-42bb9a7d0e0b?source=rss------programming-5) (2026-07-22)
+- [TypeScript 7 Is “10x Faster.”](https://medium.com/@yesimnoh/typescript-7-is-10x-faster-b6357bd60de5?source=rss------programming-5) (2026-07-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) (2026-07-22)
 - [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (2026-07-21)
 - [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/) (2026-07-21)
 - [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/) (2026-07-21)
 - [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](https://blogs.nvidia.com/blog/siggraph-news-2026/) (2026-07-20)
-- [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin ](https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/) (2026-07-20)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) (2026-07-22)
+- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/) (2026-07-22)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) (2026-07-20)
 - [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) (2026-07-16)
 - [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/) (2026-07-16)
-- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/) (2026-07-16)
-- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/) (2026-07-14)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [What’s New in RustRover 2026.2](https://blog.jetbrains.com/rust/2026/07/22/whats-new-in-rustrover-2026-2/) (2026-07-22)
+- [CLion’s Classic Engine Unbundled: What’s Next](https://blog.jetbrains.com/clion/2026/07/classic-unbundled/) (2026-07-22)
 - [What’s new: Air gets more agents, local models, and Java/Kotlin code intelligence](https://blog.jetbrains.com/air/2026/07/what-s-new-air-gets-more-agents-local-models-and-java-kotlin-code-intelligence/) (2026-07-21)
 - [RubyMine 2026.2: Agentic Debugging, Native GitHub Copilot Integration, Default Symbol-Based Code Insight, and More](https://blog.jetbrains.com/ruby/2026/07/rubymine-2026-2-agentic-debugging-native-github-copilot-integration-default-symbol-based-code-insight-and-more/) (2026-07-21)
 - [What’s New in PyCharm 2026.2](https://blog.jetbrains.com/pycharm/2026/07/what-s-new-in-pycharm-2026-2/) (2026-07-21)
-- [Introducing JetBrains Context: Repository Intelligence for Coding Agents](https://blog.jetbrains.com/ai/2026/07/introducing-jetbrains-context-repository-intelligence-for-coding-agents/) (2026-07-21)
-- [Busy Plugin Developers Newsletter – Q2 2026](https://blog.jetbrains.com/platform/2026/07/busy-plugin-developers-newsletter-q2-2026/) (2026-07-21)
 
 </details>
 
@@ -426,11 +426,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Postgres Full-Text Search Instead of Elasticsearch](https://www.prisma.io/blog/you-dont-need-elasticsearch-postgres-already-has-full-text-search) (2026-07-21)
 - [Extending Prisma Next with Typed Postgres ltree](https://www.prisma.io/blog/prisma-next-ltree-extension) (2026-07-20)
 - [AGENTS.md for Databases: Rules for Safe, Fast Coding Agents](https://www.prisma.io/blog/agents-md-for-databases) (2026-07-17)
 - [Prisma Studio Migrations View: See Your Migration History](https://www.prisma.io/blog/prisma-studio-migrations-view) (2026-07-17)
 - [Build a Postgres Job Queue with SKIP LOCKED, No Redis](https://www.prisma.io/blog/you-dont-need-a-job-queue-postgres-already-has-skip-locked) (2026-07-17)
-- [You Don't Need a Vector Database, Postgres Already Has pgvector](https://www.prisma.io/blog/you-dont-need-a-vector-database-postgres-already-has-pgvector) (2026-07-10)
 
 </details>
 
@@ -556,35 +556,46 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [SenseTime’s Galaxy Project targets domestic AI chip scale-up](https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/) (2026-07-22)
+- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
+- [The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus](https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/) (2026-07-21)
+- [Bristol Myers Squibb buys Nvidia AI system for drug discovery](https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/) (2026-07-21)
+- [Chinese open-weight models are cheap. Washington is deciding what that costs.](https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/) (2026-07-21)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Build an LLM Agent That Can Write and Run Code](https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/) (2026-07-22)
+- [Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment](https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/) (2026-07-22)
 - [Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations](https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/) (2026-07-21)
 - [I Tried Fine-Tuning a Robot AI Model on Colab. Here Is What Worked](https://towardsdatascience.com/i-tried-fine-tuning-a-robot-ai-model-on-colab-here-is-what-worked/) (2026-07-21)
 - [How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation](https://towardsdatascience.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation/) (2026-07-21)
-- [Are Your ML Experiments a Mess? Here’s the Fix](https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/) (2026-07-21)
-- [How to Run Claude Code Agents for 24+ Hours](https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/) (2026-07-20)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
 - [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
 - [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
 - [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
 - [How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)](https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/) (2026-07-17)
-- [GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/) (2026-07-16)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Newsletters Keeping You Ahead in AI](https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai) (2026-07-22)
 - [Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi](https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi) (2026-07-21)
 - [5 Free Courses to Go From AI Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner) (2026-07-21)
 - [A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming](https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming) (2026-07-20)
 - [Top 5 MCP Servers for High-Performance Agentic Development](https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development) (2026-07-20)
-- [Could Your AI Systems Already Be High-Risk Under the EU AI Act?](https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act) (2026-07-19)
 
 </details>
 
@@ -613,11 +624,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) (2026-07-22)
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) (2026-07-21)
 - [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) (2026-07-17)
 - [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) (2026-07-16)
 - [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) (2026-07-13)
-- [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) (2026-07-03)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
