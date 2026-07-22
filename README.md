@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/) (2026-07-22)
+- [The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/) (2026-07-22)
 - [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/) (2026-07-22)
 - [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/) (2026-07-21)
 - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/) (2026-07-21)
-- [OpenAI says Hugging Face was breached by its pre-release models](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/) (2026-07-21)
-- [Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ten Steps Towards Happiness](http://hintjens.com/blog:99) (2026-07-22)
-- [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog) (2026-07-22)
-- [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/) (2026-07-22)
-- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) (2026-07-21)
-- [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/) (2026-07-21)
+- [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/) (2026-07-22)
+- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/) (2026-07-22)
+- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) (2026-07-22)
+- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/) (2026-07-22)
+- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) (2026-07-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da) (2026-07-22)
-- [CPSC Recall API: No Pagination and a Broken Hazard Filter](https://dev.to/mayd-it/cpsc-recall-api-no-pagination-and-a-broken-hazard-filter-2iei) (2026-07-22)
-- [Choosing an RDP Client on macOS:What I Learned After Managing Windows Machines from a Mac](https://dev.to/o_oliver_3b38e6829628a1e9/choosing-an-rdp-client-on-macoswhat-i-learned-after-managing-windows-machines-from-a-mac-3655) (2026-07-22)
-- [buildline: merging cargo and ninja's build profiling into one timeline](https://dev.to/nabsei/buildline-merging-cargo-and-ninjas-build-profiling-into-one-timeline-2373) (2026-07-22)
-- [MCP vs. Agent Skills: A Decision Framework for Context Engineering](https://dev.to/shakti_mishra_308e9f36b5d/mcp-vs-agent-skills-a-decision-framework-for-context-engineering-ljf) (2026-07-22)
+- [Change Data Capture in 2026: Supabase Webhooks, Prisma Pulse, and the "Thundering Herd" Problem](https://dev.to/instawebhook/change-data-capture-in-2026-supabase-webhooks-prisma-pulse-and-the-thundering-herd-problem-4f9a) (2026-07-22)
+- [Cisco's Antares Models Cost $1 to Find Security Bugs. GPT-5.5 Costs $141](https://dev.to/peremptory/ciscos-antares-models-cost-1-to-find-security-bugs-gpt-55-costs-141-1967) (2026-07-22)
+- [Data Expiry & Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j) (2026-07-22)
+- [AI Coding Assistants Are Secretly Making Your Code Less Secure](https://dev.to/lucky3mc/ai-coding-assistants-are-secretly-making-your-code-less-secure-147g) (2026-07-22)
+- [Free Self-Hosted Alternatives to Datadog: What Actually Works on Your Own Hardware](https://dev.to/ericwoooo_kr/free-self-hosted-alternatives-to-datadog-what-actually-works-on-your-own-hardware-16m4) (2026-07-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Static Pages to Interactive Forms: How JavaScript Changed the Way I Build Websites](https://medium.com/@akshaya.vetrivel5/from-static-pages-to-interactive-forms-how-javascript-changed-the-way-i-build-websites-b7fa914a78e3?source=rss------programming-5) (2026-07-22)
-- [Late-Night Coding Music for When You’re the Only One Awake](https://medium.com/@builderprotocol/late-night-coding-music-for-when-youre-the-only-one-awake-6ddddc2e50da?source=rss------programming-5) (2026-07-22)
-- [One Malicious Payload Hijacked Claude Code AND Codex Unchanged — The 'Friendly Fire' Exploit Has No…](https://pub.towardsai.net/one-malicious-payload-hijacked-claude-code-and-codex-unchanged-the-friendly-fire-exploit-has-no-1c40cc3698cf?source=rss------programming-5) (2026-07-22)
-- [Hermes Agent Is Quietly Leaving OpenClaw Behind. Here’s Why Everyone Is About to Notice.](https://medium.com/@deadgirl2133/hermes-agent-is-quietly-leaving-openclaw-behind-heres-why-everyone-is-about-to-notice-87f1096031d2?source=rss------programming-5) (2026-07-22)
-- [What Happens When a Webhook Retries 47 Times in 10 Seconds](https://medium.com/@annxsa/what-happens-when-a-webhook-retries-47-times-in-10-seconds-9fa84be9c3bf?source=rss------programming-5) (2026-07-22)
+- [99% of Angular Developers Use the Wrong Way to Transfer Data Between Components](https://medium.com/@sourabhda1998/99-of-angular-developers-use-the-wrong-way-to-transfer-data-between-components-aeee637a048f?source=rss------programming-5) (2026-07-22)
+- [10 Angular Interview Questions That Expose Who Actually Understands the Framework](https://medium.com/@sourabhda1998/10-angular-interview-questions-that-expose-who-actually-understands-the-framework-06e0c072e3ad?source=rss------programming-5) (2026-07-22)
+- [Understanding Transformers (Part 3 — Continued): Training LSTMs, Their Limitations, and Why…](https://medium.com/@geekycodes/understanding-transformers-part-3-continued-training-lstms-their-limitations-and-why-d5e5b9afddfb?source=rss------programming-5) (2026-07-22)
+- [10 Signs You Are Becoming Too Dependent on AI](https://medium.com/the-ai-diaries/10-signs-you-are-becoming-too-dependent-on-ai-263a0bb1543d?source=rss------programming-5) (2026-07-22)
+- [The Rain Knows the Shortest Path](https://medium.com/@msmungg/the-rain-knows-the-shortest-path-6f4f5c4466d9?source=rss------programming-5) (2026-07-22)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/) (2026-07-21)
 - [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](https://blogs.nvidia.com/blog/siggraph-news-2026/) (2026-07-20)
 - [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin ](https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/) (2026-07-20)
-
-</details>
-
-<details>
-<summary>🍎 Apple Developer News</summary>
-
-- [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
-- [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
-- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=umq9wxmm) (2026-06-18)
-- [Changes to iOS in Brazil](https://developer.apple.com/news/?id=dhwadr2x) (2026-06-18)
 
 </details>
 
@@ -492,11 +481,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [Relay.app is shutting down: How to export your workflows and move to Zapier](https://zapier.com/blog/relay-alternatives) (2026-07-20)
+- [How Mach 1 uses Zapier MCP to run AI operations across 25 different companies](https://zapier.com/blog/mach-1-mcp) (2026-07-22)
+- [The 5 best photo editing apps for iPhone and Android (including free options) in 2026](https://zapier.com/blog/best-photo-editing-apps-iphone-android) (2026-07-22)
+- [MuleSoft integrations: Capabilities and limitations](https://zapier.com/blog/mulesoft-integrations) (2026-07-21)
 - [I've tried every automation software: here are the 10 best in 2026](https://zapier.com/blog/best-automation-software) (2026-07-20)
-- [Web scraping: A comprehensive guide](https://zapier.com/blog/web-scraping) (2026-07-20)
-- [Turn off your slop cannon](https://zapier.com/blog/remove-ai-slop-from-writing) (2026-07-19)
-- [The 6 best vibe coding tools in 2026](https://zapier.com/blog/best-vibe-coding-tools) (2026-07-19)
+- [Relay.app is shutting down: How to export your workflows and move to Zapier](https://zapier.com/blog/relay-alternatives) (2026-07-20)
 
 </details>
 
@@ -567,17 +556,6 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
-- [The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus](https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/) (2026-07-21)
-- [Bristol Myers Squibb buys Nvidia AI system for drug discovery](https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/) (2026-07-21)
-- [Chinese open-weight models are cheap. Washington is deciding what that costs.](https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/) (2026-07-21)
-- [US public health agencies to test OpenAI and Anthropic AI models](https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/) (2026-07-20)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations](https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/) (2026-07-21)
@@ -591,11 +569,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
 - [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
 - [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
 - [How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)](https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/) (2026-07-17)
 - [GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On](https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/) (2026-07-16)
-- [Inside the Claude Fable 5 System Prompt: A Full Breakdown](https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/) (2026-07-15)
 
 </details>
 
