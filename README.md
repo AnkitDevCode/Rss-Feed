@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/) (2026-07-23)
 - [After shocking quarter, IBM insists that AI isn’t killing the mainframe](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) (2026-07-22)
 - [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) (2026-07-22)
 - [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) (2026-07-22)
 - [Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/) (2026-07-22)
-- [Social media addiction lawsuit against Meta is dropped](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Run large language models at home, BitTorrent‑style](https://petals.dev/) (2026-07-23)
-- [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254) (2026-07-23)
-- [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250) (2026-07-22)
+- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) (2026-07-23)
+- [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/) (2026-07-23)
+- [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) (2026-07-23)
+- [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/) (2026-07-23)
 - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) (2026-07-22)
-- [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/) (2026-07-22)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Orcas team up to ram sunfish until they explode](https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/) (2026-07-23)
 - [Sales were up at Tesla but so were costs and spending](https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/) (2026-07-22)
 - [Microsoft brings original Xbox backward compatibility to Windows PCs](https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/) (2026-07-22)
 - [ISPs' long nightmare of having to list all the fees they charge is finally over](https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/) (2026-07-22)
 - [Clayface trailer leans into the body horror](https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/) (2026-07-22)
-- [Hyundai claims humanoid robot plan is not part of talks with striking workers](https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/) (2026-07-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Feedback Channel That Does Not Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl) (2026-07-23)
-- ["Sistemas não transacionais? Sim, dá pra ter consistência (sem surtar)" – O guia do Saga Pattern, Outbox e idempotência](https://dev.to/fabiothomazrocha/sistemas-nao-transacionais-sim-da-pra-ter-consistencia-sem-surtar-o-guia-do-saga-pattern-407c) (2026-07-23)
-- [Is Your AI Agent Eval Set Actually Testing Anything?](https://dev.to/sara_mo/ai-agent-evals-your-eval-set-is-the-product-4iid) (2026-07-23)
-- [Android root](https://dev.to/hgff_dkhn_caddf994a8f811a/android-root-1ba6) (2026-07-23)
-- [Build an Image Budget That Your Website Can Actually Keep](https://dev.to/lizechengnet/build-an-image-budget-that-your-website-can-actually-keep-2jee) (2026-07-23)
+- [Fetching Instagram Data at Scale in Python: From One Request to Async](https://dev.to/shino_17251665a6a8538491b/fetching-instagram-data-at-scale-in-python-from-one-request-to-async-4peg) (2026-07-23)
+- [Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih) (2026-07-23)
+- [Your career doesn't have to stand still just because you're happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc) (2026-07-23)
+- [Code Review Habits That Actually Stick](https://dev.to/codeatlas/code-review-habits-that-actually-stick-56a9) (2026-07-23)
+- [Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b) (2026-07-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust Cost Us a Quarter of Velocity and Bought Us Four Years of Headroom](https://medium.com/@Krishnajlathi/rust-cost-us-a-quarter-of-velocity-and-bought-us-four-years-of-headroom-2991f426a789?source=rss------programming-5) (2026-07-23)
-- [Multichain in Blockchain Technology: Understanding their Roles](https://medium.com/@abdulmuizademola9/multichain-in-blockchain-technology-understanding-their-roles-fe5afa176b77?source=rss------programming-5) (2026-07-23)
-- [Explore Chrome Incognito Mode from a storage & cookie & caching perspective](https://medium.com/@yu.cao20041208/explore-chrome-incognito-mode-from-a-storage-cookie-caching-perspective-19ba0941e216?source=rss------programming-5) (2026-07-23)
-- [DNS, CDN, and Edge Routing Explained for Web Developers](https://medium.com/@xanhido/dns-cdn-and-edge-routing-explained-for-web-developers-f8f4e46256cd?source=rss------programming-5) (2026-07-23)
-- [Why Every Developer Should Build a Personal Project](https://medium.com/@scosmexs/why-every-developer-should-build-a-personal-project-c016a2f3c01d?source=rss------programming-5) (2026-07-23)
+- [AI and Programming](https://medium.com/@sulaimanidris262/ai-and-programming-6a5b88a26090?source=rss------programming-5) (2026-07-23)
+- [99% of JavaScript Developers Get const Wrong](https://medium.com/@connectwithmuzammil/99-of-javascript-developers-get-const-wrong-dd5e77053362?source=rss------programming-5) (2026-07-23)
+- [Deep Dive into Apache SeaTunnel Engine: How FlushSignal Drives Architecture Evolution](https://blog.devops.dev/deep-dive-into-apache-seatunnel-engine-how-flushsignal-drives-architecture-evolution-c0a2908df346?source=rss------programming-5) (2026-07-23)
+- [Stop Vibe Coding. Start Shipping.](https://medium.com/@yusuf.aziz/stop-vibe-coding-start-shipping-2085dfc89063?source=rss------programming-5) (2026-07-23)
+- [Mastering Async Streams in C#: IAsyncEnumerable Guide](https://medium.com/@shanto462/mastering-async-streams-in-c-iasyncenumerable-guide-a5d2befcbecc?source=rss------programming-5) (2026-07-23)
 
 </details>
 
@@ -547,11 +547,22 @@ https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-lay
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) (2026-07-23)
 - [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) (2026-07-21)
 - [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) (2026-07-21)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
-- [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog) (2026-07-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [SenseTime’s Galaxy Project targets domestic AI chip scale-up](https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/) (2026-07-22)
+- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
+- [The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus](https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/) (2026-07-21)
+- [Bristol Myers Squibb buys Nvidia AI system for drug discovery](https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/) (2026-07-21)
+- [Chinese open-weight models are cheap. Washington is deciding what that costs.](https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/) (2026-07-21)
 
 </details>
 
