@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good](https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/) (2026-07-23)
 - [ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/) (2026-07-23)
 - [After shocking quarter, IBM insists that AI isn’t killing the mainframe](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) (2026-07-22)
 - [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) (2026-07-22)
 - [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) (2026-07-22)
-- [Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/) (2026-07-23)
+- [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china) (2026-07-23)
+- [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps) (2026-07-23)
 - [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) (2026-07-23)
 - [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/) (2026-07-23)
-- [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) (2026-07-23)
-- [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/) (2026-07-23)
-- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) (2026-07-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine) (2026-07-23)
-- [Meta won’t have to face the next planned social media addiction trial](https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped) (2026-07-22)
-- [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales) (2026-07-22)
-- [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale) (2026-07-22)
-- [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27) (2026-07-22)
+- [The sci-fi movie that imagines AI isn’t so dystopian after all](https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview) (2026-07-23)
+- [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans) (2026-07-23)
+- [Google hit with $1 billion fine for breaking EU antitrust rules](https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering) (2026-07-23)
+- [Google now lets you sign in to your account using a selfie video](https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security) (2026-07-23)
+- [Framework’s premium laptop is shipping with less RAM](https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [White House report says Trump can usher in a "new golden age" of science](https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/) (2026-07-23)
+- [I wanted a clock that never needed setting. Things escalated.](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/) (2026-07-23)
 - [Orcas team up to ram sunfish until they explode](https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/) (2026-07-23)
 - [Sales were up at Tesla but so were costs and spending](https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/) (2026-07-22)
 - [Microsoft brings original Xbox backward compatibility to Windows PCs](https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/) (2026-07-22)
-- [ISPs' long nightmare of having to list all the fees they charge is finally over](https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/) (2026-07-22)
-- [Clayface trailer leans into the body horror](https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: energy transmission and US threats against Chinese AI](https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/) (2026-07-23)
+- [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) (2026-07-23)
+- [The power line that could reshape New York’s grid is hitting snags](https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/) (2026-07-23)
 - [The Download: NASA’s new space telescope and OpenAI’s autonomous hacker](https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/) (2026-07-22)
 - [Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own](https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/) (2026-07-22)
-- [The Download: Chinese AI divides the White House, and a record copyright payout](https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/) (2026-07-21)
-- [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/) (2026-07-21)
-- [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/) (2026-07-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Fetching Instagram Data at Scale in Python: From One Request to Async](https://dev.to/shino_17251665a6a8538491b/fetching-instagram-data-at-scale-in-python-from-one-request-to-async-4peg) (2026-07-23)
-- [Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih) (2026-07-23)
-- [Your career doesn't have to stand still just because you're happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc) (2026-07-23)
-- [Code Review Habits That Actually Stick](https://dev.to/codeatlas/code-review-habits-that-actually-stick-56a9) (2026-07-23)
-- [Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b) (2026-07-23)
+- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34) (2026-07-23)
+- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm) (2026-07-23)
+- [Farmer Rank AI: Using Generative AI to Connect Farmers with the Right Buyers](https://dev.to/shaik_inzamam_7/farmer-rank-ai-using-generative-ai-to-connect-farmers-with-the-right-buyers-1ege) (2026-07-23)
+- [[Boost]](https://dev.to/jcmartinezdev/-2hg8) (2026-07-23)
+- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i) (2026-07-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI and Programming](https://medium.com/@sulaimanidris262/ai-and-programming-6a5b88a26090?source=rss------programming-5) (2026-07-23)
-- [99% of JavaScript Developers Get const Wrong](https://medium.com/@connectwithmuzammil/99-of-javascript-developers-get-const-wrong-dd5e77053362?source=rss------programming-5) (2026-07-23)
-- [Deep Dive into Apache SeaTunnel Engine: How FlushSignal Drives Architecture Evolution](https://blog.devops.dev/deep-dive-into-apache-seatunnel-engine-how-flushsignal-drives-architecture-evolution-c0a2908df346?source=rss------programming-5) (2026-07-23)
-- [Stop Vibe Coding. Start Shipping.](https://medium.com/@yusuf.aziz/stop-vibe-coding-start-shipping-2085dfc89063?source=rss------programming-5) (2026-07-23)
-- [Mastering Async Streams in C#: IAsyncEnumerable Guide](https://medium.com/@shanto462/mastering-async-streams-in-c-iasyncenumerable-guide-a5d2befcbecc?source=rss------programming-5) (2026-07-23)
+- [The Biggest Open AI Model Ever Just Beat Claude at Coding. It Also Hallucinates Half the Time.](https://medium.com/@reactjsbd/the-biggest-open-ai-model-ever-just-beat-claude-at-coding-it-also-hallucinates-half-the-time-83b50de39023?source=rss------programming-5) (2026-07-23)
+- [7 Python Projects That Helped Me Land Freelance Clients](https://medium.com/@haseeb786/7-python-projects-that-helped-me-land-freelance-clients-10d43ef7312c?source=rss------programming-5) (2026-07-23)
+- [The Agent Followed the Documentation Perfectly. Staging Still Broke.](https://blog.stackademic.com/the-agent-followed-the-documentation-perfectly-staging-still-broke-c32b6360dbbd?source=rss------programming-5) (2026-07-23)
+- [AI Cannot Rescue a Developer Who Refuses to Investigate](https://medium.com/skillstuff/ai-cannot-rescue-a-developer-who-refuses-to-investigate-57bd88286344?source=rss------programming-5) (2026-07-23)
+- [Every Dashboard Was Green. Nobody Could Explain the Outage.](https://blog.stackademic.com/every-dashboard-was-green-nobody-could-explain-the-outage-a12c6002b8d0?source=rss------programming-5) (2026-07-23)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/) (2026-07-23)
 - [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/) (2026-07-23)
 - [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) (2026-07-22)
 - [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (2026-07-21)
 - [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/) (2026-07-21)
-- [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/) (2026-07-21)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Axum Support in RustRover 2026.2: Build Web Backends Faster](https://blog.jetbrains.com/rust/2026/07/23/axum-support-in-rustrover/) (2026-07-23)
+- [Code Coverage: How to Measure It, Understand the Metrics, and Improve Your Tests](https://blog.jetbrains.com/qodana/2026/07/code-coverage-tests/) (2026-07-23)
 - [ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/) (2026-07-22)
 - [Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/) (2026-07-22)
 - [ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/) (2026-07-22)
-- [What’s New in RustRover 2026.2](https://blog.jetbrains.com/rust/2026/07/22/whats-new-in-rustrover-2026-2/) (2026-07-22)
-- [CLion’s Classic Engine Unbundled: What’s Next](https://blog.jetbrains.com/clion/2026/07/classic-unbundled/) (2026-07-22)
 
 </details>
 
@@ -367,25 +367,25 @@ How to Handle Background Noise When Using Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
 ) (2026-07-24)
 - [
-How to Make Your AI Voice Sound More Human and Less Robotic with Python
+How to Make Your AI Voice Sound More Human and Less Robotic with PHP
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-python
-) (2026-07-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
+) (2026-07-23)
 - [
-How to Store Twilio Credentials Securely in Replit
+How to Handle Background Noise When Using Conversation Relay in C#
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets
-) (2026-07-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
+) (2026-07-22)
 - [
-7 top customer data platforms for AI agents in 2026
+How to Make Your AI Voice Sound More Human and Less Robotic with Node.js
 ](
-https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
-) (2026-07-20)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-nodejs
+) (2026-07-22)
 - [
-A CDP is the best contextual data layer for agentic systems
+How I Built an Orbital Hotline with Twilio Voice, ConversationRelay, Python, and OpenAI
 ](
-https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-layer-for-agentic-systems
-) (2026-07-19)
+https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-voice-conversationrelay-python-openai
+) (2026-07-22)
 
 </details>
 
@@ -556,57 +556,46 @@ https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-lay
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [SenseTime’s Galaxy Project targets domestic AI chip scale-up](https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/) (2026-07-22)
-- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
-- [The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus](https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/) (2026-07-21)
-- [Bristol Myers Squibb buys Nvidia AI system for drug discovery](https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/) (2026-07-21)
-- [Chinese open-weight models are cheap. Washington is deciding what that costs.](https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/) (2026-07-21)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Lessons Learned After 8.5 Years of ML](https://towardsdatascience.com/lessons-learned-after-8-5-years-of-ml/) (2026-07-23)
+- [Why Adding More AI Agents Made Our System Slower](https://towardsdatascience.com/why-adding-more-ai-agents-made-our-system-slower/) (2026-07-23)
 - [Loop Engineering for RAG Generation: Iterate top-k One at a Time](https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/) (2026-07-22)
 - [How To Build Your Own LLM Runtime From Scratch](https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/) (2026-07-22)
 - [Build an LLM Agent That Can Write and Run Code](https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/) (2026-07-22)
-- [Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment](https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/) (2026-07-22)
-- [Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations](https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context](https://www.analyticsvidhya.com/blog/2026/07/prompt-compression-techniques-guide/) (2026-07-23)
 - [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
 - [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
 - [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
 - [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
-- [How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)](https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/) (2026-07-17)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding) (2026-07-23)
 - [Kaggle + Google’s Free 5-Day Agentic AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course) (2026-07-22)
 - [10 Newsletters Keeping You Ahead in AI](https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai) (2026-07-22)
 - [Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi](https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi) (2026-07-21)
 - [5 Free Courses to Go From AI Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner) (2026-07-21)
-- [A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming](https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming) (2026-07-20)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) (2026-07-23)
 - [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) (2026-07-21)
 - [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) (2026-07-20)
 - [Agentic AI Security: Defending Against Prompt Injection and Tool Misuse](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) (2026-07-17)
 - [Run a Local AI Model with Ollama in 15 Minutes](https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/) (2026-07-16)
-- [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) (2026-07-15)
 
 </details>
 
