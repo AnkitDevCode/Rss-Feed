@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/) (2026-07-22)
-- [Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/) (2026-07-22)
-- [Yope raises $12.3M to build a private social network without algorithms or ads](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/) (2026-07-22)
-- [Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/) (2026-07-22)
-- [Monday.com lays off hundreds to focus on AI](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/) (2026-07-22)
+- [After shocking quarter, IBM insists that AI isn’t killing the mainframe](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) (2026-07-22)
+- [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) (2026-07-22)
+- [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) (2026-07-22)
+- [Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/) (2026-07-22)
+- [Social media addiction lawsuit against Meta is dropped](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) (2026-07-22)
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) (2026-07-22)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) (2026-07-22)
-- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) (2026-07-22)
-- [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/) (2026-07-22)
+- [Run large language models at home, BitTorrent‑style](https://petals.dev/) (2026-07-23)
+- [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254) (2026-07-23)
+- [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250) (2026-07-22)
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) (2026-07-22)
+- [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade) (2026-07-22)
-- [Here&#8217;s what Samsung&#8217;s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker) (2026-07-22)
-- [How the Galaxy Z Fold 8 and Z Flip 8 phones compare](https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison) (2026-07-22)
-- [Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards](https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date) (2026-07-22)
-- [Philips’ new smart toothbrush shows you where you didn’t properly brush](https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush) (2026-07-22)
+- [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine) (2026-07-23)
+- [Meta won’t have to face the next planned social media addiction trial](https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped) (2026-07-22)
+- [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales) (2026-07-22)
+- [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale) (2026-07-22)
+- [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27) (2026-07-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Sales were up at Tesla but so were costs and spending](https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/) (2026-07-22)
+- [Microsoft brings original Xbox backward compatibility to Windows PCs](https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/) (2026-07-22)
+- [ISPs' long nightmare of having to list all the fees they charge is finally over](https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/) (2026-07-22)
+- [Clayface trailer leans into the body horror](https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/) (2026-07-22)
 - [Hyundai claims humanoid robot plan is not part of talks with striking workers](https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/) (2026-07-22)
-- [Next Space Force chief throws cold water on the idea of space privateers](https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/) (2026-07-22)
-- [OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face](https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/) (2026-07-22)
-- [What happens when you try to chop a photon in half?](https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/) (2026-07-22)
-- [Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7](https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/) (2026-07-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Feeding BrassCoders Output to Any AI Coding Assistant](https://dev.to/coppersundev/feeding-brasscoders-output-to-any-ai-coding-assistant-3j8i) (2026-07-22)
-- [The Aura Game: Why Smart Developers Secretly Let Codebases Burn](https://dev.to/bhavnish_e35294bf0fd0b2df/the-aura-game-why-smart-developers-secretly-let-codebases-burn-3b65) (2026-07-22)
-- [Building VeilComm: Rethinking Private Communication](https://dev.to/turksharoz_gamer_369ddedb/building-veilcomm-rethinking-private-communication-41ja) (2026-07-22)
-- [Art Director’s Advantage in the AI Gen Era](https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k) (2026-07-22)
-- [What Happens When You Send a Photo Through Most Messaging Apps?](https://dev.to/turksharoz_gamer_369ddedb/what-happens-when-you-send-a-photo-through-most-messaging-apps-366o) (2026-07-22)
+- [Build a Feedback Channel That Does Not Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl) (2026-07-23)
+- ["Sistemas não transacionais? Sim, dá pra ter consistência (sem surtar)" – O guia do Saga Pattern, Outbox e idempotência](https://dev.to/fabiothomazrocha/sistemas-nao-transacionais-sim-da-pra-ter-consistencia-sem-surtar-o-guia-do-saga-pattern-407c) (2026-07-23)
+- [Is Your AI Agent Eval Set Actually Testing Anything?](https://dev.to/sara_mo/ai-agent-evals-your-eval-set-is-the-product-4iid) (2026-07-23)
+- [Android root](https://dev.to/hgff_dkhn_caddf994a8f811a/android-root-1ba6) (2026-07-23)
+- [Build an Image Budget That Your Website Can Actually Keep](https://dev.to/lizechengnet/build-an-image-budget-that-your-website-can-actually-keep-2jee) (2026-07-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3,670 Files, Zero Data Leaks: How I Built an AI-Powered File Organizer That Never Shows Claude My…](https://medium.com/@ahamedfajahmf/3-670-files-zero-data-leaks-how-i-built-an-ai-powered-file-organizer-that-never-shows-claude-my-d4e1eee084a1?source=rss------programming-5) (2026-07-22)
-- [If AI Can Clone Your App in a Day, What Is Left to Defend?](https://pub.towardsai.net/if-ai-can-clone-your-app-in-a-day-what-is-left-to-defend-3c2a880057bb?source=rss------programming-5) (2026-07-22)
-- [The Python Script I Built for Fun Ended Up Becoming My Most Valuable Tool](https://medium.com/@SulemanSafdar/the-python-script-i-built-for-fun-ended-up-becoming-my-most-valuable-tool-6f23d876d0a4?source=rss------programming-5) (2026-07-22)
-- [Programmers Are The Best Writers](https://medium.com/@theonealternativeview/programmers-are-the-best-writers-d6cb055772c1?source=rss------programming-5) (2026-07-22)
-- [Model Validation: How to Actually Trust Your Results](https://medium.com/@emmanuelowusuadu10/model-validation-how-to-actually-trust-your-results-dd18f5ba5c01?source=rss------programming-5) (2026-07-22)
+- [Rust Cost Us a Quarter of Velocity and Bought Us Four Years of Headroom](https://medium.com/@Krishnajlathi/rust-cost-us-a-quarter-of-velocity-and-bought-us-four-years-of-headroom-2991f426a789?source=rss------programming-5) (2026-07-23)
+- [Multichain in Blockchain Technology: Understanding their Roles](https://medium.com/@abdulmuizademola9/multichain-in-blockchain-technology-understanding-their-roles-fe5afa176b77?source=rss------programming-5) (2026-07-23)
+- [Explore Chrome Incognito Mode from a storage & cookie & caching perspective](https://medium.com/@yu.cao20041208/explore-chrome-incognito-mode-from-a-storage-cookie-caching-perspective-19ba0941e216?source=rss------programming-5) (2026-07-23)
+- [DNS, CDN, and Edge Routing Explained for Web Developers](https://medium.com/@xanhido/dns-cdn-and-edge-routing-explained-for-web-developers-f8f4e46256cd?source=rss------programming-5) (2026-07-23)
+- [Why Every Developer Should Build a Personal Project](https://medium.com/@scosmexs/why-every-developer-should-build-a-personal-project-c016a2f3c01d?source=rss------programming-5) (2026-07-23)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/) (2026-07-23)
 - [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) (2026-07-22)
 - [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (2026-07-21)
 - [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/) (2026-07-21)
 - [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/) (2026-07-21)
-- [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](https://blogs.nvidia.com/blog/siggraph-news-2026/) (2026-07-20)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [AI Gateway now supports streaming transcription](https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription) (2026-07-22)
+- [Extend eve agents with installable extensions](https://vercel.com/changelog/eve-extensions) (2026-07-22)
 - [How Searchable ships customer-requested features in 30 minutes on Vercel ](https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel) (2026-07-21)
 - [Introducing the new Vercel Agent](https://vercel.com/blog/vercel-agent) (2026-07-21)
 - [Python function bundles now include precompiled bytecode](https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode) (2026-07-21)
-- [Vercel Connect adds 90+ preset connectors](https://vercel.com/changelog/vercel-connect-preset-connectors) (2026-07-21)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Handle Background Noise When Using Conversation Relay in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
+) (2026-07-24)
+- [
+How to Make Your AI Voice Sound More Human and Less Robotic with Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-python
+) (2026-07-21)
+- [
+How to Store Twilio Credentials Securely in Replit
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets
+) (2026-07-21)
+- [
 7 top customer data platforms for AI agents in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
@@ -371,21 +386,6 @@ A CDP is the best contextual data layer for agentic systems
 ](
 https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-layer-for-agentic-systems
 ) (2026-07-19)
-- [
-The top 5 apps and software to integrate with your contact center
-](
-https://www.twilio.com/en-us/blog/top-contact-center-integrations
-) (2026-07-18)
-- [
-How to create a professional email address (+ examples)
-](
-https://www.twilio.com/en-us/blog/insights/make-professional-email-address
-) (2026-07-17)
-- [
-14 conversational AI design best practices to implement
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
-) (2026-07-16)
 
 </details>
 
@@ -481,11 +481,11 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [AI by Zapier: Add agentic AI steps to your workflows](https://zapier.com/blog/ai-by-zapier-guide) (2026-07-22)
 - [How Mach 1 uses Zapier MCP to run AI operations across 25 different companies](https://zapier.com/blog/mach-1-mcp) (2026-07-22)
 - [The 5 best photo editing apps for iPhone and Android (including free options) in 2026](https://zapier.com/blog/best-photo-editing-apps-iphone-android) (2026-07-22)
 - [MuleSoft integrations: Capabilities and limitations](https://zapier.com/blog/mulesoft-integrations) (2026-07-21)
 - [Zapier for enterprise orchestration: Scaling automation on a trusted platform](https://zapier.com/blog/zapier-for-enterprise-automation) (2026-07-21)
-- [Relay.app is shutting down: How to export your workflows and move to Zapier](https://zapier.com/blog/relay-alternatives) (2026-07-20)
 
 </details>
 
@@ -558,7 +558,7 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-best-practices
 <details>
 <summary>📊 Towards Data Science</summary>
 
-- [Loop Engineering for RAG Generation: iterate top-k one at a time](https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/) (2026-07-22)
+- [Loop Engineering for RAG Generation: Iterate top-k One at a Time](https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/) (2026-07-22)
 - [How To Build Your Own LLM Runtime From Scratch](https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/) (2026-07-22)
 - [Build an LLM Agent That Can Write and Run Code](https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/) (2026-07-22)
 - [Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment](https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/) (2026-07-22)
