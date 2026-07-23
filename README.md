@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good](https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/) (2026-07-23)
-- [ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/) (2026-07-23)
-- [After shocking quarter, IBM insists that AI isn’t killing the mainframe](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) (2026-07-22)
-- [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) (2026-07-22)
-- [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) (2026-07-22)
+- [Anthropic updates Claude voice mode with more capable models](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/) (2026-07-23)
+- [AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/) (2026-07-23)
+- [US government says Iran-linked hackers are disrupting American water and energy providers](https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/) (2026-07-23)
+- [Runway launches AI model router as generative media gets crowded](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/) (2026-07-23)
+- [OpenAI makes ChatGPT Health available to all US users](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/) (2026-07-23)
-- [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china) (2026-07-23)
-- [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps) (2026-07-23)
-- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) (2026-07-23)
-- [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/) (2026-07-23)
+- [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/) (2026-07-23)
+- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) (2026-07-23)
+- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements) (2026-07-23)
+- [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/) (2026-07-23)
+- [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The sci-fi movie that imagines AI isn’t so dystopian after all](https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview) (2026-07-23)
-- [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans) (2026-07-23)
-- [Google hit with $1 billion fine for breaking EU antitrust rules](https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering) (2026-07-23)
-- [Google now lets you sign in to your account using a selfie video](https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security) (2026-07-23)
-- [Framework’s premium laptop is shipping with less RAM](https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates) (2026-07-23)
+- [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai) (2026-07-23)
+- [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale) (2026-07-23)
+- [Tesla’s robotaxi promises are clashing with reality](https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk) (2026-07-23)
+- [Geekbench 7 will push your computer or phone even harder for better benchmarking](https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update) (2026-07-23)
+- [OpenAI is making big claims as it rolls out ChatGPT Health to everyone](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [White House report says Trump can usher in a "new golden age" of science](https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/) (2026-07-23)
-- [I wanted a clock that never needed setting. Things escalated.](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/) (2026-07-23)
-- [Orcas team up to ram sunfish until they explode](https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/) (2026-07-23)
-- [Sales were up at Tesla but so were costs and spending](https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/) (2026-07-22)
-- [Microsoft brings original Xbox backward compatibility to Windows PCs](https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/) (2026-07-22)
+- [Final Coyote vs. Acme trailer drops at SDCC](https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/) (2026-07-23)
+- [A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.](https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/) (2026-07-23)
+- [Google hit with $1 billion in fines as EU braces for Trump battle](https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/) (2026-07-23)
+- [Sony's decision to ditch discs was practically inevitable, data shows](https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/) (2026-07-23)
+- [Google just had its first negative cash flow quarter due to massive AI spending](https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Supercooled kidneys have been transplanted into pigs in a “landmark achievement”](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/) (2026-07-23)
 - [The Download: energy transmission and US threats against Chinese AI](https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/) (2026-07-23)
 - [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) (2026-07-23)
 - [The power line that could reshape New York’s grid is hitting snags](https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/) (2026-07-23)
 - [The Download: NASA’s new space telescope and OpenAI’s autonomous hacker](https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/) (2026-07-22)
-- [Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own](https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) (2026-07-23)
 - [Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) (2026-07-22)
 - [Next chapter: Restructuring GitHub’s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) (2026-07-22)
 - [How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) (2026-07-21)
 - [$100 million for open source: A milestone built by the community](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/) (2026-07-20)
-- [The cost of saying yes has changed](https://github.blog/engineering/the-cost-of-saying-yes-has-changed/) (2026-07-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34) (2026-07-23)
-- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm) (2026-07-23)
-- [Farmer Rank AI: Using Generative AI to Connect Farmers with the Right Buyers](https://dev.to/shaik_inzamam_7/farmer-rank-ai-using-generative-ai-to-connect-farmers-with-the-right-buyers-1ege) (2026-07-23)
-- [[Boost]](https://dev.to/jcmartinezdev/-2hg8) (2026-07-23)
-- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i) (2026-07-23)
+- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od) (2026-07-23)
+- [Preview and edit material-kit-react without a build step](https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9) (2026-07-23)
+- [How I replaced if statements with a Dictionary delegate in C#](https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma) (2026-07-23)
+- [I built a browser-based pixel-art & animation editor with Vue, Laravel and AI](https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58) (2026-07-23)
+- [There was no independent, measured view of AI-API latency by region — so I built one](https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce) (2026-07-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Biggest Open AI Model Ever Just Beat Claude at Coding. It Also Hallucinates Half the Time.](https://medium.com/@reactjsbd/the-biggest-open-ai-model-ever-just-beat-claude-at-coding-it-also-hallucinates-half-the-time-83b50de39023?source=rss------programming-5) (2026-07-23)
-- [7 Python Projects That Helped Me Land Freelance Clients](https://medium.com/@haseeb786/7-python-projects-that-helped-me-land-freelance-clients-10d43ef7312c?source=rss------programming-5) (2026-07-23)
-- [The Agent Followed the Documentation Perfectly. Staging Still Broke.](https://blog.stackademic.com/the-agent-followed-the-documentation-perfectly-staging-still-broke-c32b6360dbbd?source=rss------programming-5) (2026-07-23)
-- [AI Cannot Rescue a Developer Who Refuses to Investigate](https://medium.com/skillstuff/ai-cannot-rescue-a-developer-who-refuses-to-investigate-57bd88286344?source=rss------programming-5) (2026-07-23)
-- [Every Dashboard Was Green. Nobody Could Explain the Outage.](https://blog.stackademic.com/every-dashboard-was-green-nobody-could-explain-the-outage-a12c6002b8d0?source=rss------programming-5) (2026-07-23)
+- [TryHackMe Recruit Walkthrough: Complete Web Challenge Guide and CTF Write-Up](https://medium.com/@antor.csecu/tryhackme-recruit-walkthrough-complete-web-challenge-guide-and-ctf-write-up-22e715791756?source=rss------programming-5) (2026-07-23)
+- [You Accept O(n) and Move On. I Couldn’t.](https://medium.com/@utkarshdev2411/you-accept-o-n-and-move-on-i-couldnt-12b24592e2b0?source=rss------programming-5) (2026-07-23)
+- [Top 10 Things Every .NET Developer Needs to Do in 2026](https://medium.com/codex/top-10-things-every-net-developer-needs-to-do-in-2026-8286620af173?source=rss------programming-5) (2026-07-23)
+- [You’re Trading a Temporary Speed Boost for Permanent Indenture](https://medium.com/@sohail_saifi/youre-trading-a-temporary-speed-boost-for-permanent-indenture-9d8b0879b597?source=rss------programming-5) (2026-07-23)
+- [The Hidden Cost of AI Code Nobody Puts in the Demo: Maintenance](https://medium.com/@coders.stop/the-hidden-cost-of-ai-code-nobody-puts-in-the-demo-maintenance-2ce839551ba8?source=rss------programming-5) (2026-07-23)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -339,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Inspect feature flag history with Vercel CLI](https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli) (2026-07-23)
+- [GitHub tools are now an installable eve extension](https://vercel.com/changelog/github-tools-eve-extension) (2026-07-23)
+- [Ling 3.0 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway) (2026-07-23)
+- [Vercel MCP can now deploy code](https://vercel.com/changelog/vercel-mcp-can-now-deploy-code) (2026-07-23)
 - [AI Gateway now supports streaming transcription](https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription) (2026-07-22)
-- [Extend eve agents with installable extensions](https://vercel.com/changelog/eve-extensions) (2026-07-22)
-- [How Searchable ships customer-requested features in 30 minutes on Vercel ](https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel) (2026-07-21)
-- [Introducing the new Vercel Agent](https://vercel.com/blog/vercel-agent) (2026-07-21)
-- [Python function bundles now include precompiled bytecode](https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode) (2026-07-21)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Introducing Cache Response Rules](https://blog.cloudflare.com/introducing-cache-response-rules/) (2026-07-23)
 - [How the 2026 World Cup affected Internet traffic](https://blog.cloudflare.com/2026-world-cup-internet-traffic/) (2026-07-21)
 - [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) (2026-07-20)
 - [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
 - [A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) (2026-07-14)
-- [Introducing Precursor: detecting agentic behavior with continuous client-side signals](https://blog.cloudflare.com/introducing-precursor/) (2026-07-13)
 
 </details>
 
@@ -367,25 +367,25 @@ How to Handle Background Noise When Using Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
 ) (2026-07-24)
 - [
-How to Make Your AI Voice Sound More Human and Less Robotic with PHP
+How to Make Your AI Voice Sound More Human and Less Robotic with Python
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
-) (2026-07-23)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-python
+) (2026-07-21)
 - [
-How to Handle Background Noise When Using Conversation Relay in C#
+How to Store Twilio Credentials Securely in Replit
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
-) (2026-07-22)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets
+) (2026-07-21)
 - [
-How to Make Your AI Voice Sound More Human and Less Robotic with Node.js
+7 top customer data platforms for AI agents in 2026
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-nodejs
-) (2026-07-22)
+https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
+) (2026-07-20)
 - [
-How I Built an Orbital Hotline with Twilio Voice, ConversationRelay, Python, and OpenAI
+A CDP is the best contextual data layer for agentic systems
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-voice-conversationrelay-python-openai
-) (2026-07-22)
+https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-layer-for-agentic-systems
+) (2026-07-19)
 
 </details>
 
@@ -415,11 +415,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) (2026-07-23)
 - [Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL](https://planetscale.com/blog/postgresql-mvcc) (2026-07-20)
 - [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) (2026-07-15)
 - [When the Postgres query planner goes rogue](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) (2026-07-13)
 - [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) (2026-07-08)
-- [One Postgres cluster, many apps](https://planetscale.com/blog/one-postgres-cluster-many-apps) (2026-06-25)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [Your sandbox should look like production. Now it actually does.](https://developers.hubspot.com/blog/your-sandbox-should-look-like-production) (2026-07-23)
 - [How to Safely Experiment with AI in HubSpot Before You Touch Real Data](https://developers.hubspot.com/blog/how-to-safely-experiment-with-ai-in-hubspot-before-you-touch-real-data) (2026-07-20)
 - [HubSpot Date-based API Versioning Migration Playbook](https://developers.hubspot.com/blog/date-based-api-versioning-migration-playbook) (2026-05-19)
 - [Introducing hubspot-go: A Community Go SDK for HubSpot Developers](https://developers.hubspot.com/blog/introducing-hubspot-go-a-community-go-sdk-for-hubspot-developers) (2026-05-14)
 - [Building Better, Together: The Role of Mentorship in the HubSpot Ecosystem](https://developers.hubspot.com/blog/building-better-together-the-role-of-mentorship-in-the-hubspot-ecosystem) (2026-05-12)
-- [HubSpot Service Keys: The Right API Credential for Data Integrations](https://developers.hubspot.com/blog/hubspot-service-keys-the-right-api-credential-for-data-integrations) (2026-05-04)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/) (2026-07-23)
 - [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/) (2026-07-22)
 - [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/) (2026-07-21)
 - [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/) (2026-07-15)
 - [Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels](https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/) (2026-07-10)
-- [PyTorch 2.13 Release Blog](https://pytorch.org/blog/pytorch-2-13-release-blog/) (2026-07-08)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [When Data Science Makes Us Sad: The Story of an Overbooked Flight](https://towardsdatascience.com/when-data-science-makes-us-sad-the-story-of-an-overbooked-flight/) (2026-07-23)
+- [Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract](https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/) (2026-07-23)
 - [Lessons Learned After 8.5 Years of ML](https://towardsdatascience.com/lessons-learned-after-8-5-years-of-ml/) (2026-07-23)
 - [Why Adding More AI Agents Made Our System Slower](https://towardsdatascience.com/why-adding-more-ai-agents-made-our-system-slower/) (2026-07-23)
 - [Loop Engineering for RAG Generation: Iterate top-k One at a Time](https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/) (2026-07-22)
-- [How To Build Your Own LLM Runtime From Scratch](https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/) (2026-07-22)
-- [Build an LLM Agent That Can Write and Run Code](https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/) (2026-07-22)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with OmniVoice-Studio](https://www.kdnuggets.com/getting-started-with-omnivoice-studio) (2026-07-23)
 - [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding) (2026-07-23)
 - [Kaggle + Google’s Free 5-Day Agentic AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course) (2026-07-22)
 - [10 Newsletters Keeping You Ahead in AI](https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai) (2026-07-22)
 - [Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi](https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi) (2026-07-21)
-- [5 Free Courses to Go From AI Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner) (2026-07-21)
 
 </details>
 
