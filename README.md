@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic updates Claude voice mode with more capable models](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/) (2026-07-23)
-- [AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/) (2026-07-23)
-- [US government says Iran-linked hackers are disrupting American water and energy providers](https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/) (2026-07-23)
-- [Runway launches AI model router as generative media gets crowded](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/) (2026-07-23)
-- [OpenAI makes ChatGPT Health available to all US users](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/) (2026-07-23)
+- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/) (2026-07-24)
+- [Meet the judges who will crown Australia’s next breakout startup](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/) (2026-07-24)
+- [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/) (2026-07-23)
+- [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/) (2026-07-23)
+- [Patreon lays off 20% of its workforce](https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/) (2026-07-23)
-- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) (2026-07-23)
-- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements) (2026-07-23)
-- [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/) (2026-07-23)
-- [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos) (2026-07-23)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html) (2026-07-23)
+- [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369) (2026-07-23)
+- [98.css](https://jdan.github.io/98.css/#status-bar) (2026-07-23)
+- [Mourning Dan Williams](https://lwn.net/Articles/1084545/) (2026-07-23)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices) (2026-07-23)
+- [The Echo Show 21 is a great smart home hub that’s $80 off](https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale) (2026-07-23)
+- [FCC Chairman Brendan Carr’s war on the First Amendment](https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment) (2026-07-23)
+- [Claude’s voice mode is now available for Opus and Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai) (2026-07-23)
 - [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai) (2026-07-23)
-- [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale) (2026-07-23)
-- [Tesla’s robotaxi promises are clashing with reality](https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk) (2026-07-23)
-- [Geekbench 7 will push your computer or phone even harder for better benchmarking](https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update) (2026-07-23)
-- [OpenAI is making big claims as it rolls out ChatGPT Health to everyone](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Microsoft responds to LG monitors installing McAfee ads on Windows](https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/) (2026-07-23)
+- [FDA reports new outbreak of explosive diarrhea with 72 cases identified](https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/) (2026-07-23)
+- [Forgot your Google password? Now you can log in with a selfie.](https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/) (2026-07-23)
+- [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/) (2026-07-23)
 - [Final Coyote vs. Acme trailer drops at SDCC](https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/) (2026-07-23)
-- [A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.](https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/) (2026-07-23)
-- [Google hit with $1 billion in fines as EU braces for Trump battle](https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/) (2026-07-23)
-- [Sony's decision to ditch discs was practically inevitable, data shows](https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/) (2026-07-23)
-- [Google just had its first negative cash flow quarter due to massive AI spending](https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/) (2026-07-23)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od) (2026-07-23)
-- [Preview and edit material-kit-react without a build step](https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9) (2026-07-23)
-- [How I replaced if statements with a Dictionary delegate in C#](https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma) (2026-07-23)
-- [I built a browser-based pixel-art & animation editor with Vue, Laravel and AI](https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58) (2026-07-23)
-- [There was no independent, measured view of AI-API latency by region — so I built one](https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce) (2026-07-23)
+- [A Production Security Checklist](https://dev.to/moose978/a-production-security-checklist-3k0a) (2026-07-24)
+- [Performance Tuning Before Launch](https://dev.to/moose978/performance-tuning-before-launch-912) (2026-07-24)
+- [Cache Invalidation Strategies with Redis](https://dev.to/moose978/cache-invalidation-strategies-with-redis-59ap) (2026-07-24)
+- [Refresh-Ahead Caching with Redis](https://dev.to/moose978/refresh-ahead-caching-with-redis-3j08) (2026-07-24)
+- [Podcast Apps: A Framework for Dying Slowly with Dignity](https://dev.to/uncommonapps/podcast-apps-a-framework-for-dying-slowly-with-dignity-7ch) (2026-07-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TryHackMe Recruit Walkthrough: Complete Web Challenge Guide and CTF Write-Up](https://medium.com/@antor.csecu/tryhackme-recruit-walkthrough-complete-web-challenge-guide-and-ctf-write-up-22e715791756?source=rss------programming-5) (2026-07-23)
-- [You Accept O(n) and Move On. I Couldn’t.](https://medium.com/@utkarshdev2411/you-accept-o-n-and-move-on-i-couldnt-12b24592e2b0?source=rss------programming-5) (2026-07-23)
-- [Top 10 Things Every .NET Developer Needs to Do in 2026](https://medium.com/codex/top-10-things-every-net-developer-needs-to-do-in-2026-8286620af173?source=rss------programming-5) (2026-07-23)
-- [You’re Trading a Temporary Speed Boost for Permanent Indenture](https://medium.com/@sohail_saifi/youre-trading-a-temporary-speed-boost-for-permanent-indenture-9d8b0879b597?source=rss------programming-5) (2026-07-23)
-- [The Hidden Cost of AI Code Nobody Puts in the Demo: Maintenance](https://medium.com/@coders.stop/the-hidden-cost-of-ai-code-nobody-puts-in-the-demo-maintenance-2ce839551ba8?source=rss------programming-5) (2026-07-23)
+- [The moment I stopped collecting tutorials was the moment I actually started learning AI.](https://medium.com/@anuskapalit2004/the-moment-i-stopped-collecting-tutorials-was-the-moment-i-actually-started-learning-ai-7d4c0271bd81?source=rss------programming-5) (2026-07-24)
+- [The One Second Between Seeing a Problem and Forgetting It](https://medium.com/@arshadazeezm/the-one-second-between-seeing-a-problem-and-forgetting-it-a2fcfb3e96c8?source=rss------programming-5) (2026-07-24)
+- [How a Rule to “Make PHP Easy” Created the Copy-on-Write Engine](https://medium.com/@annxsa/how-a-rule-to-make-php-easy-created-the-copy-on-write-engine-53888f9e96bb?source=rss------programming-5) (2026-07-24)
+- [ IkhlasFin: Financial Clarity, Spiritual Serenity
+The Future of AI-Powered Personal Finance…](https://medium.com/@orangpolos860/ikhlasfin-financial-clarity-spiritual-serenity-the-future-of-ai-powered-personal-finance-81f2bb2509b4?source=rss------programming-5) (2026-07-24)
+- [GitHub Is More Than a Portfolio](https://medium.com/@scosmexs/github-is-more-than-a-portfolio-97278374b82a?source=rss------programming-5) (2026-07-24)
 
 </details>
 
@@ -119,11 +120,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -186,10 +187,10 @@
 <summary>🐳 Docker Blog</summary>
 
 - [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) (2026-07-22)
-- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/) (2026-07-22)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) (2026-07-20)
 - [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) (2026-07-16)
 - [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/) (2026-07-16)
+- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/) (2026-07-16)
 
 </details>
 
@@ -339,11 +340,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags) (2026-07-23)
+- [Connect to and manage Sandboxes from the dashboard](https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard) (2026-07-23)
 - [Inspect feature flag history with Vercel CLI](https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli) (2026-07-23)
 - [GitHub tools are now an installable eve extension](https://vercel.com/changelog/github-tools-eve-extension) (2026-07-23)
 - [Ling 3.0 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway) (2026-07-23)
-- [Vercel MCP can now deploy code](https://vercel.com/changelog/vercel-mcp-can-now-deploy-code) (2026-07-23)
-- [AI Gateway now supports streaming transcription](https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription) (2026-07-22)
 
 </details>
 
@@ -367,25 +368,25 @@ How to Handle Background Noise When Using Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
 ) (2026-07-24)
 - [
-How to Make Your AI Voice Sound More Human and Less Robotic with Python
+How to Make Your AI Voice Sound More Human and Less Robotic with PHP
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-python
-) (2026-07-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
+) (2026-07-23)
 - [
-How to Store Twilio Credentials Securely in Replit
+How to Handle Background Noise When Using Conversation Relay in C#
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets
-) (2026-07-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
+) (2026-07-22)
 - [
-7 top customer data platforms for AI agents in 2026
+How to Make Your AI Voice Sound More Human and Less Robotic with Node.js
 ](
-https://www.twilio.com/en-us/blog/insights/top-customer-data-platform
-) (2026-07-20)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-nodejs
+) (2026-07-22)
 - [
-A CDP is the best contextual data layer for agentic systems
+How I Built an Orbital Hotline with Twilio Voice, ConversationRelay, Python, and OpenAI
 ](
-https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-layer-for-agentic-systems
-) (2026-07-19)
+https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-voice-conversationrelay-python-openai
+) (2026-07-22)
 
 </details>
 
@@ -484,8 +485,8 @@ https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-lay
 - [AI by Zapier: Add agentic AI steps to your workflows](https://zapier.com/blog/ai-by-zapier-guide) (2026-07-22)
 - [How Mach 1 uses Zapier MCP to run AI operations across 25 different companies](https://zapier.com/blog/mach-1-mcp) (2026-07-22)
 - [The 5 best photo editing apps for iPhone and Android (including free options) in 2026](https://zapier.com/blog/best-photo-editing-apps-iphone-android) (2026-07-22)
-- [MuleSoft integrations: Capabilities and limitations](https://zapier.com/blog/mulesoft-integrations) (2026-07-21)
 - [Zapier for enterprise orchestration: Scaling automation on a trusted platform](https://zapier.com/blog/zapier-for-enterprise-automation) (2026-07-21)
+- [MuleSoft integrations: Capabilities and limitations](https://zapier.com/blog/mulesoft-integrations) (2026-07-21)
 
 </details>
 
@@ -503,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-lay
 <details>
 <summary>💬 Slack API</summary>
 
-- [How AI Organization Tools Can Transform the Way You Work](https://slack.com/blog/productivity/ai-organization-tools) (2026-07-10)
-- [Eight Best CRMs for Startups in 2026: Features, Benefits, and Tips](https://slack.com/blog/crm/best-crms-for-startups) (2026-07-10)
-- [Seven CRM Best Practices for Teams in 2026](https://slack.com/blog/crm/crm-best-practices) (2026-07-10)
-- [Guide to CRM Integration: Architecture, Benefits, and Best Practices](https://slack.com/blog/crm/crm-integration) (2026-07-10)
-- [10 Discord Alternatives for Teams and Businesses](https://slack.com/blog/compare/discord-alternatives) (2026-07-10)
+- [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
+- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
+- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
+- [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
+- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -552,6 +553,17 @@ https://www.twilio.com/en-us/blog/insights/a-cdp-is-the-best-contextual-data-lay
 - [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) (2026-07-21)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Nvidia bets physical AI can solve healthcare robotics’ data problem](https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/) (2026-07-23)
+- [AMD to invest up to $5 billion in Anthropic under AI infrastructure deal](https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/) (2026-07-23)
+- [SenseTime’s Galaxy Project targets domestic AI chip scale-up](https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/) (2026-07-22)
+- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
+- [The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus](https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/) (2026-07-21)
 
 </details>
 
