@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Facebook launches a dedicated Marketplace app for sellers, adds a free verification system](https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/) (2026-07-24)
-- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/) (2026-07-24)
-- [Meet the judges who will crown Australia’s next breakout startup](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/) (2026-07-24)
-- [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/) (2026-07-23)
-- [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/) (2026-07-23)
+- [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/) (2026-07-24)
+- [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) (2026-07-24)
+- [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/) (2026-07-24)
+- [Build in public, fail in public: what it’s like to be a founder under 20 right now ](https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/) (2026-07-24)
+- [Anthropic launches Opus 5](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/) (2026-07-24)
-- [LLMs Are Still Toxic, Stuck in the Past, and Bad at Math](https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math) (2026-07-24)
-- [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing) (2026-07-24)
-- [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/) (2026-07-24)
-- [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing) (2026-07-24)
+- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
+- [I got into YC by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html) (2026-07-24)
+- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/) (2026-07-24)
+- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/) (2026-07-24)
+- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason) (2026-07-24)
-- [TikTok&#8217;s protection of minors should not be opt-in, warns EU](https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy) (2026-07-24)
-- [Facebook considers giving up and becoming TikTok](https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates) (2026-07-24)
-- [Microsoft pressures LG into killing unwanted McAfee ads](https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown) (2026-07-24)
-- [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices) (2026-07-23)
+- [Qualcomm is about to raise prices and that&#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg) (2026-07-24)
+- [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition) (2026-07-24)
+- [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders) (2026-07-24)
+- [Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b) (2026-07-24)
+- [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Robot snakes searched for Venezuela earthquake survivors in collapsed buildings](https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/) (2026-07-24)
-- [Microsoft responds to LG monitors installing McAfee ads on Windows](https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/) (2026-07-23)
-- [FDA reports new outbreak of explosive diarrhea with 72 cases identified](https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/) (2026-07-23)
-- [Forgot your Google password? Now you can log in with a selfie.](https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/) (2026-07-23)
-- [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/) (2026-07-23)
+- [RFK Jr.'s hand-picked committee approves manufacture of peptides he uses](https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/) (2026-07-24)
+- [Judge rebuffs Trump admin demand for phone records from NYT reporters](https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/) (2026-07-24)
+- [European Union grants US request to restrict satellite images of Iran War region](https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/) (2026-07-24)
+- [Team uses AlphaFold AI to redesign gene-editing proteins to make them safer](https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/) (2026-07-24)
+- [This is the world's most advanced robotic servicing satellite—that we know about](https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The quest to keep organs alive outside the body](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/) (2026-07-24)
 - [The Download: an organ transplant breakthrough, and homegrown Chinese chips](https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/) (2026-07-24)
 - [Supercooled kidneys have been transplanted into pigs in a “landmark achievement”](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/) (2026-07-23)
 - [The Download: energy transmission and US threats against Chinese AI](https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/) (2026-07-23)
 - [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) (2026-07-23)
-- [The power line that could reshape New York’s grid is hitting snags](https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/) (2026-07-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Every AI Commit Is Someone's Future Legacy Code](https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l) (2026-07-24)
-- [I Spent a Week Watching My MCP Agents Get Hijacked by Tool Descriptions. Here's What I Built to Catch It.](https://dev.to/mrclaw207/i-spent-a-week-watching-my-mcp-agents-get-hijacked-by-tool-descriptions-heres-what-i-built-to-23n4) (2026-07-24)
-- [Nightly backups aren’t enough when someone drops the wrong MongoDB collection. I built an open-source PITR system using oplog replay, Docker, and Google Drive - so you can restore to the second before disaster. Feedback welcome!](https://dev.to/takiuddinahmed/nightly-backups-arent-enough-when-someone-drops-the-wrong-mongodb-collection-i-built-an-3igl) (2026-07-24)
-- [What Browser Mouse Polling Rate Tests Actually Measure](https://dev.to/umairaalam/what-browser-mouse-polling-rate-tests-actually-measure-4nei) (2026-07-24)
-- [Everyone Says the CIA Scared Satoshi Into Hiding. He'd Already Written His Goodbye Letter — Twice.](https://dev.to/bitcoin_devto/everyone-says-the-cia-scared-satoshi-into-hiding-hed-already-written-his-goodbye-letter-twice-10j4) (2026-07-24)
+- [AI builder essentials: tokens, context windows and RAG 101](https://dev.to/googleai/ai-builder-essentials-tokens-context-windows-and-rag-101-12bn) (2026-07-24)
+- [Por que software factories com IA falham sem contexto e governança](https://dev.to/lucas_fogaca/por-que-software-factories-com-ia-falham-sem-contexto-e-governanca-55mo) (2026-07-24)
+- [I built pay-kit, an SDK that unifies Paystack and Flutterwave](https://dev.to/success_iyegere_ac39d0e92/i-built-pay-kit-an-sdk-that-unifies-paystack-and-flutterwave-38in) (2026-07-24)
+- [DevOps Engineer Professional Exam Guide](https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35) (2026-07-24)
+- [Can PHP Object Hydration Run 40x Faster?](https://dev.to/johanrg/can-php-object-hydration-run-40x-faster-24d9) (2026-07-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The 5 Things That Break a Vibecoded App in Week One (and How to Check for Each in 10 Minutes)](https://medium.com/@kojott/the-5-things-that-break-a-vibecoded-app-in-week-one-and-how-to-check-for-each-in-10-minutes-16fdac1daf9c?source=rss------programming-5) (2026-07-24)
-- [Your Database Is Missing Git’s Best Feature](https://cloudwithazeem.medium.com/your-database-is-missing-gits-best-feature-076eeac990cf?source=rss------programming-5) (2026-07-24)
-- [React.memo Explained: Why React Sometimes Renders Components That Didn’t Even Change](https://medium.com/@ddhote780/react-memo-explained-why-react-sometimes-renders-components-that-didnt-even-change-626cd04058bc?source=rss------programming-5) (2026-07-24)
-- [How to Use Claude ADHD Skill Better Than 99% of People](https://medium.com/@GaoDalie_AI/how-to-use-claude-adhd-skill-better-than-99-of-people-9876934d8548?source=rss------programming-5) (2026-07-24)
-- [Episode 23: Saving the Product Catalog Locally in Flutter](https://medium.com/@lenakendari/episode-23-saving-the-product-catalog-locally-in-flutter-9a7c358574c8?source=rss------programming-5) (2026-07-24)
+- [Behind the Reel: How Instagram Decides What Shows Up in Your Feed](https://medium.com/@spande6894/behind-the-reel-how-instagram-decides-what-shows-up-in-your-feed-cd36a5f812d5?source=rss------programming-5) (2026-07-24)
+- [Hype Driven Development: How I Broke a Project Because I Read a Great Book](https://lukaszzychal.medium.com/hype-driven-development-how-i-broke-a-project-because-i-read-a-great-book-e4fe8a921276?source=rss------programming-5) (2026-07-24)
+- [The Three Words That Reorganized How I Think About Agent Infrastructure](https://tanbuildsai.medium.com/the-three-words-that-reorganized-how-i-think-about-agent-infrastructure-8c2dc24999ed?source=rss------programming-5) (2026-07-24)
+- [Meta Engineers Are Doing Manual Data Labeling Now. Read That Again.](https://medium.com/@coders.stop/meta-engineers-are-doing-manual-data-labeling-now-read-that-again-02b8b09f73e5?source=rss------programming-5) (2026-07-24)
+- [Mic Iyke — Let Me Know](https://medium.com/@mic.iyke/mic-iyke-let-me-know-93288961aca6?source=rss------programming-5) (2026-07-24)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/) (2026-07-24)
 - [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) (2026-07-22)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) (2026-07-20)
 - [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) (2026-07-16)
 - [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/) (2026-07-16)
-- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/) (2026-07-16)
 
 </details>
 
@@ -339,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Workflow steps now support extended function durations](https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations) (2026-07-24)
+- [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway) (2026-07-24)
 - [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags) (2026-07-23)
 - [Connect to and manage Sandboxes from the dashboard](https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard) (2026-07-23)
 - [Inspect feature flag history with Vercel CLI](https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli) (2026-07-23)
-- [GitHub tools are now an installable eve extension](https://vercel.com/changelog/github-tools-eve-extension) (2026-07-23)
-- [Ling 3.0 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
 - [Introducing Cache Response Rules](https://blog.cloudflare.com/introducing-cache-response-rules/) (2026-07-23)
 - [How the 2026 World Cup affected Internet traffic](https://blog.cloudflare.com/2026-world-cup-internet-traffic/) (2026-07-21)
 - [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) (2026-07-20)
 - [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
-- [A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed](https://blog.cloudflare.com/dnssec-nta-ede-33/) (2026-07-14)
 
 </details>
 
@@ -392,12 +392,12 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Agentic Loops and Agent Graphs: Security Risks You Need to Know](https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/) (2026-07-24)
 - [How to Set Up a Flask App with Cursor and the Auth0 Plugin](https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/) (2026-07-22)
 - [The Art of Consent Management in the OAuth World](https://auth0.com/blog/the-art-of-user-consent-management-oauth/) (2026-07-16)
 - [You Are Using Auth0 The Hard Way
 ](https://auth0.com/blog/you-are-using-auth0-the-hard-way/) (2026-07-15)
 - [Introducing Third-Party Applications for Organizations](https://auth0.com/blog/introducing-third-party-apps-for-organizations/) (2026-07-14)
-- [Closing the Audit Gap in Human-to-Agent Delegation](https://auth0.com/blog/closing-audit-gap-human-to-agent-delegation/) (2026-07-13)
 
 </details>
 
@@ -415,11 +415,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) (2026-07-24)
 - [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) (2026-07-23)
 - [Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL](https://planetscale.com/blog/postgresql-mvcc) (2026-07-20)
 - [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) (2026-07-15)
 - [When the Postgres query planner goes rogue](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) (2026-07-13)
-- [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) (2026-07-08)
 
 </details>
 
@@ -427,10 +427,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <summary>🔷 Prisma Blog</summary>
 
 - [How to Make Your Docs Agent-Ready: llms.txt, Parity, MCP](https://www.prisma.io/blog/make-your-docs-agent-ready) (2026-07-24)
+- [Ship risky schema changes with per-branch databases](https://www.prisma.io/blog/ship-risky-schema-changes-without-a-shared-staging-database) (2026-07-24)
 - [Postgres Full-Text Search Instead of Elasticsearch](https://www.prisma.io/blog/you-dont-need-elasticsearch-postgres-already-has-full-text-search) (2026-07-21)
 - [Extending Prisma Next with Typed Postgres ltree](https://www.prisma.io/blog/prisma-next-ltree-extension) (2026-07-20)
 - [AGENTS.md for Databases: Rules for Safe, Fast Coding Agents](https://www.prisma.io/blog/agents-md-for-databases) (2026-07-17)
-- [Prisma Studio Migrations View: See Your Migration History](https://www.prisma.io/blog/prisma-studio-migrations-view) (2026-07-17)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🤖 AI News</summary>
 
+- [Meta, Microsoft, Nvidia, IBM, and others back open-weight AI](https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/) (2026-07-24)
+- [OpenAI pushes ChatGPT into patient health records](https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/) (2026-07-24)
 - [OpenAI Presence sells enterprise AI agents with engineers attached](https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/) (2026-07-24)
 - [Nvidia bets physical AI can solve healthcare robotics’ data problem](https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/) (2026-07-23)
 - [AMD to invest up to $5 billion in Anthropic under AI infrastructure deal](https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/) (2026-07-23)
-- [SenseTime’s Galaxy Project targets domestic AI chip scale-up](https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/) (2026-07-22)
-- [Google’s Gemini 3.6 Flash targets enterprise agent token costs](https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet](https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/) (2026-07-24)
+- [Build and Run an Intelligent Document Processing (IDP) System in the Cloud](https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/) (2026-07-24)
+- [Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship](https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/) (2026-07-24)
 - [Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory](https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/) (2026-07-24)
 - [When Data Science Makes Us Sad: The Story of an Overbooked Flight](https://towardsdatascience.com/when-data-science-makes-us-sad-the-story-of-an-overbooked-flight/) (2026-07-23)
-- [Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract](https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/) (2026-07-23)
-- [Lessons Learned After 8.5 Years of ML](https://towardsdatascience.com/lessons-learned-after-8-5-years-of-ml/) (2026-07-23)
-- [Why Adding More AI Agents Made Our System Slower](https://towardsdatascience.com/why-adding-more-ai-agents-made-our-system-slower/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To](https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/) (2026-07-24)
 - [Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context](https://www.analyticsvidhya.com/blog/2026/07/prompt-compression-techniques-guide/) (2026-07-23)
 - [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
 - [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
 - [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
-- [Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)](https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/) (2026-07-19)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) (2026-07-24)
 - [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) (2026-07-23)
 - [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) (2026-07-21)
 - [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) (2026-07-20)
 - [Agentic AI Security: Defending Against Prompt Injection and Tool Misuse](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) (2026-07-17)
-- [Run a Local AI Model with Ollama in 15 Minutes](https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/) (2026-07-16)
 
 </details>
 
