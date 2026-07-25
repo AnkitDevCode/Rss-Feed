@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/) (2026-07-24)
-- [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) (2026-07-24)
-- [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/) (2026-07-24)
-- [Build in public, fail in public: what it’s like to be a founder under 20 right now ](https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/) (2026-07-24)
-- [Anthropic launches Opus 5](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/) (2026-07-24)
+- [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) (2026-07-25)
+- [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) (2026-07-24)
+- [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) (2026-07-24)
+- [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/) (2026-07-24)
+- [Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
-- [I got into YC by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html) (2026-07-24)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) (2026-07-24)
+- [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools) (2026-07-24)
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) (2026-07-24)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) (2026-07-24)
 - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/) (2026-07-24)
-- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/) (2026-07-24)
-- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses) (2026-07-24)
+- [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban) (2026-07-24)
 - [Qualcomm is about to raise prices and that&#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg) (2026-07-24)
 - [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition) (2026-07-24)
 - [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders) (2026-07-24)
-- [Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b) (2026-07-24)
-- [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [RFK Jr.'s hand-picked committee approves manufacture of peptides he uses](https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/) (2026-07-24)
-- [Judge rebuffs Trump admin demand for phone records from NYT reporters](https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/) (2026-07-24)
-- [European Union grants US request to restrict satellite images of Iran War region](https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/) (2026-07-24)
-- [Team uses AlphaFold AI to redesign gene-editing proteins to make them safer](https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/) (2026-07-24)
-- [This is the world's most advanced robotic servicing satellite—that we know about](https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/) (2026-07-24)
+- [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) (2026-07-24)
+- [Paramount/WBD merger delayed for months as states' lawsuit moves toward trial](https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/) (2026-07-24)
+- [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/) (2026-07-24)
+- [Anthropic's Opus 5 is about token efficiency, not a capability leap](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/) (2026-07-24)
+- [Roku raises streaming stick prices by up to 60 percent](https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI builder essentials: tokens, context windows and RAG 101](https://dev.to/googleai/ai-builder-essentials-tokens-context-windows-and-rag-101-12bn) (2026-07-24)
-- [Por que software factories com IA falham sem contexto e governança](https://dev.to/lucas_fogaca/por-que-software-factories-com-ia-falham-sem-contexto-e-governanca-55mo) (2026-07-24)
-- [I built pay-kit, an SDK that unifies Paystack and Flutterwave](https://dev.to/success_iyegere_ac39d0e92/i-built-pay-kit-an-sdk-that-unifies-paystack-and-flutterwave-38in) (2026-07-24)
-- [DevOps Engineer Professional Exam Guide](https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35) (2026-07-24)
-- [Can PHP Object Hydration Run 40x Faster?](https://dev.to/johanrg/can-php-object-hydration-run-40x-faster-24d9) (2026-07-24)
+- [When Your AI Agent Handles Money, "It Worked" Isn't Good Enough](https://dev.to/papajams/when-your-ai-agent-handles-money-it-worked-isnt-good-enough-1jbb) (2026-07-25)
+- [Building a Real-Time AI Voice Agent That Handles 70+ Languages](https://dev.to/labu_lim_2a258dda748603b5/building-a-real-time-ai-voice-agent-that-handles-70-languages-5e2j) (2026-07-25)
+- [🐈‍⬛Check Out Catbot's New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg) (2026-07-25)
+- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja) (2026-07-25)
+- [India's First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7) (2026-07-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Behind the Reel: How Instagram Decides What Shows Up in Your Feed](https://medium.com/@spande6894/behind-the-reel-how-instagram-decides-what-shows-up-in-your-feed-cd36a5f812d5?source=rss------programming-5) (2026-07-24)
-- [Hype Driven Development: How I Broke a Project Because I Read a Great Book](https://lukaszzychal.medium.com/hype-driven-development-how-i-broke-a-project-because-i-read-a-great-book-e4fe8a921276?source=rss------programming-5) (2026-07-24)
-- [The Three Words That Reorganized How I Think About Agent Infrastructure](https://tanbuildsai.medium.com/the-three-words-that-reorganized-how-i-think-about-agent-infrastructure-8c2dc24999ed?source=rss------programming-5) (2026-07-24)
-- [Meta Engineers Are Doing Manual Data Labeling Now. Read That Again.](https://medium.com/@coders.stop/meta-engineers-are-doing-manual-data-labeling-now-read-that-again-02b8b09f73e5?source=rss------programming-5) (2026-07-24)
-- [Mic Iyke — Let Me Know](https://medium.com/@mic.iyke/mic-iyke-let-me-know-93288961aca6?source=rss------programming-5) (2026-07-24)
+- [[AI Engineer #3] Knowledge Debt](https://andriantriputra.medium.com/ai-engineer-3-knowledge-debt-2cb2619ee871?source=rss------programming-5) (2026-07-25)
+- [The Day We Found the Black Crystal](https://medium.com/@mkymf/the-day-we-found-the-black-crystal-d474f4b540e0?source=rss------programming-5) (2026-07-25)
+- [What are daemon threads?](https://medium.com/@szaranger/what-are-daemon-threads-33edb66d32c0?source=rss------programming-5) (2026-07-25)
+- [Claude Opus 5’s Highest Setting Scores Lower Than the One Below It](https://pub.towardsai.net/claude-opus-5s-highest-setting-scores-lower-than-the-one-below-it-039563e1adc4?source=rss------programming-5) (2026-07-25)
+- [The $206K AI Engineer Job Is 80% Software Engineering. Most Roadmaps Teach the Wrong Role.](https://medium.com/@reactjsbd/the-206k-ai-engineer-job-is-80-software-engineering-most-roadmaps-teach-the-wrong-role-c745b9179630?source=rss------programming-5) (2026-07-25)
 
 </details>
 
@@ -174,11 +174,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Check out the New Node.js API Documentation Preview](https://nodejs.org/en/blog/announcements/new-api-docs-beta) (2026-07-24)
 - [Monday, July 27, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases) (2026-07-21)
 - [Node.js 26.5.0 (Current)](https://nodejs.org/en/blog/release/v26.5.0) (2026-07-08)
 - [Node.js 26.4.0 (Current)](https://nodejs.org/en/blog/release/v26.4.0) (2026-06-24)
 - [Node.js 24.18.0 (LTS)](https://nodejs.org/en/blog/release/v24.18.0) (2026-06-23)
-- [Node.js 22.23.1 (LTS)](https://nodejs.org/en/blog/release/v22.23.1) (2026-06-23)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel WAF for Blob is now in beta](https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta) (2026-07-24)
 - [Workflow steps now support extended function durations](https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations) (2026-07-24)
 - [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway) (2026-07-24)
 - [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags) (2026-07-23)
 - [Connect to and manage Sandboxes from the dashboard](https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard) (2026-07-23)
-- [Inspect feature flag history with Vercel CLI](https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli) (2026-07-23)
 
 </details>
 
@@ -367,24 +367,24 @@ How to Handle Background Noise When Using Conversation Relay in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
 ) (2026-07-24)
 - [
+How to Handle Background Noise When Using Conversation Relay in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-nodejs
+) (2026-07-23)
+- [
 How to Make Your AI Voice Sound More Human and Less Robotic with PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
 ) (2026-07-23)
-- [
-How to Handle Background Noise When Using Conversation Relay in C#
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
-) (2026-07-22)
 - [
 How to Make Your AI Voice Sound More Human and Less Robotic with Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-nodejs
 ) (2026-07-22)
 - [
-How I Built an Orbital Hotline with Twilio Voice, ConversationRelay, Python, and OpenAI
+How to Handle Background Noise When Using Conversation Relay in C#
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-voice-conversationrelay-python-openai
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
 ) (2026-07-22)
 
 </details>
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/orbital-hotline-twilio-vo
 <details>
 <summary>💬 Slack API</summary>
 
-- [How AI Organization Tools Can Transform the Way You Work](https://slack.com/blog/productivity/ai-organization-tools) (2026-07-10)
-- [Eight Best CRMs for Startups in 2026: Features, Benefits, and Tips](https://slack.com/blog/crm/best-crms-for-startups) (2026-07-10)
-- [Seven CRM Best Practices for Teams in 2026](https://slack.com/blog/crm/crm-best-practices) (2026-07-10)
-- [Guide to CRM Integration: Architecture, Benefits, and Best Practices](https://slack.com/blog/crm/crm-integration) (2026-07-10)
-- [10 Discord Alternatives for Teams and Businesses](https://slack.com/blog/compare/discord-alternatives) (2026-07-10)
+- [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
+- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
+- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
+- [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
+- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
