@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/) (2026-07-25)
+- [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) (2026-07-25)
 - [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) (2026-07-25)
 - [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) (2026-07-25)
 - [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) (2026-07-24)
-- [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) (2026-07-24)
-- [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) (2026-07-25)
-- [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) (2026-07-25)
-- [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/) (2026-07-25)
-- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) (2026-07-25)
-- [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) (2026-07-25)
+- [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/) (2026-07-25)
+- [Rauno's Field Notes #2](https://rauno.me/notes/2) (2026-07-25)
+- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-25)
+- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics) (2026-07-25)
+- [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits) (2026-07-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike) (2026-07-25)
+- [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview) (2026-07-25)
+- [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale) (2026-07-25)
+- [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees) (2026-07-25)
 - [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun) (2026-07-25)
-- [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam) (2026-07-25)
-- [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer) (2026-07-25)
-- [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead) (2026-07-25)
-- [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) (2026-07-25)
 - [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
 - [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) (2026-07-25)
 - [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) (2026-07-24)
 - [Paramount/WBD merger delayed for months as states' lawsuit moves toward trial](https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/) (2026-07-24)
-- [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CompressPower](https://dev.to/digital_web/compresspower-27fj) (2026-07-25)
-- [Several agents, one dirty index: disposable multi-repo workspaces for Claude Code](https://dev.to/riccardo_cereghino/several-agents-one-dirty-index-disposable-multi-repo-workspaces-for-claude-code-1936) (2026-07-25)
-- [RAG Explained: How to Give Your LLM a Memory It Can Actually Trust](https://dev.to/jps27cse/rag-explained-how-to-give-your-llm-a-memory-it-can-actually-trust-1h4c) (2026-07-25)
-- [16 states, 16 tax rates: modeling German property transfer tax without hardcoding a mess](https://dev.to/digital_web/16-states-16-tax-rates-modeling-german-property-transfer-tax-without-hardcoding-a-mess-1jjc) (2026-07-25)
-- [I Connected 3 MCP Servers to One Agent. It Got Scary Fast.](https://dev.to/debashish_ghosal/i-connected-3-mcp-servers-to-one-agent-it-got-scary-fast-4loe) (2026-07-25)
+- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87) (2026-07-25)
+- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j) (2026-07-25)
+- [I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes](https://dev.to/cherimedz/i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes-2b6) (2026-07-25)
+- [Creating my own shell for unix](https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7) (2026-07-25)
+- [Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS](https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893) (2026-07-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java Beyond CRUD: Virtual Threads in Practice](https://medium.com/@muruganantham52524/java-beyond-crud-virtual-threads-in-practice-bff3dd5143db?source=rss------programming-5) (2026-07-25)
-- [If You’re Giving an Agent Filesystem Access, Read This First](https://medium.com/@mustafaculban1/if-youre-giving-an-agent-filesystem-access-read-this-first-88d790b5b10e?source=rss------programming-5) (2026-07-25)
-- [O que mais me chamou atenção nas ferramentas de programação lançadas nos últimos meses não foi um…](https://medium.com/@explorandoia/o-que-mais-me-chamou-aten%C3%A7%C3%A3o-nas-ferramentas-de-programa%C3%A7%C3%A3o-lan%C3%A7adas-nos-%C3%BAltimos-meses-n%C3%A3o-foi-um-8fde34395581?source=rss------programming-5) (2026-07-25)
-- [How I Saved $18,000 a Year Automating Data Cleaning With AI](https://medium.com/@aitrends24/how-i-saved-18-000-a-year-automating-data-cleaning-with-ai-0e7e7eb99f34?source=rss------programming-5) (2026-07-25)
-- [How to Design a Notification System for One Billion Users? War Stories from the Trenches](https://blog.stackademic.com/how-to-design-a-notification-system-for-one-billion-users-war-stories-from-the-trenches-207a8142e07a?source=rss------programming-5) (2026-07-25)
+- [A 216-Digit Problem, a One-Second Budget, and Two Commented-Out Lines](https://medium.com/@martselcuk/a-216-digit-problem-a-one-second-budget-and-two-commented-out-lines-fd6c35e327de?source=rss------programming-5) (2026-07-25)
+- [Stop Debugging Blind: 5 Spring Boot Observability Patterns That Show You Everything](https://blog.stackademic.com/stop-debugging-blind-5-spring-boot-observability-patterns-that-show-you-everything-dd7e39cf07f4?source=rss------programming-5) (2026-07-25)
+- [Time & Space Complexity](https://medium.com/@dikshachauhan187/time-space-complexity-5a6e9f3f4bc8?source=rss------programming-5) (2026-07-25)
+- [25 AI Tools Every Solution Architect Should Know](https://medium.com/@mohsho10/25-ai-tools-every-solution-architect-should-know-f43bff93f1e8?source=rss------programming-5) (2026-07-25)
+- [Kubernetes RBAC Explained: Controlling Who Can Do What in Your Cluster](https://blog.devops.dev/kubernetes-rbac-explained-controlling-who-can-do-what-in-your-cluster-2eb9a0779553?source=rss------programming-5) (2026-07-25)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes](https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/) (2026-07-25)
 - [The Fluid Simulator That Doesn’t Solve the Fluid Equations](https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/) (2026-07-25)
 - [Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet](https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/) (2026-07-24)
 - [Build and Run an Intelligent Document Processing (IDP) System in the Cloud](https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/) (2026-07-24)
 - [Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship](https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/) (2026-07-24)
-- [Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory](https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [A Complete Guide to AI Red-Teaming (With Garak Tutorial)](https://www.analyticsvidhya.com/blog/2026/07/guide-to-ai-red-teaming/) (2026-07-25)
 - [Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To](https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/) (2026-07-24)
 - [Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context](https://www.analyticsvidhya.com/blog/2026/07/prompt-compression-techniques-guide/) (2026-07-23)
 - [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
 - [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
-- [Complete Guide to Thinking Machines Inkling](https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/) (2026-07-20)
 
 </details>
 
