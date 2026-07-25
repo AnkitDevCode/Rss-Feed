@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) (2026-07-25)
 - [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) (2026-07-25)
 - [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) (2026-07-24)
 - [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) (2026-07-24)
 - [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/) (2026-07-24)
-- [Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) (2026-07-25)
+- [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) (2026-07-25)
+- [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/) (2026-07-25)
 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) (2026-07-25)
 - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) (2026-07-25)
-- [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/) (2026-07-25)
-- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) (2026-07-25)
-- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc) (2026-07-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun) (2026-07-25)
+- [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam) (2026-07-25)
+- [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer) (2026-07-25)
 - [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead) (2026-07-25)
 - [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses) (2026-07-24)
-- [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban) (2026-07-24)
-- [Qualcomm is about to raise prices and that&#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg) (2026-07-24)
-- [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
+- [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) (2026-07-25)
 - [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) (2026-07-24)
 - [Paramount/WBD merger delayed for months as states' lawsuit moves toward trial](https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/) (2026-07-24)
 - [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/) (2026-07-24)
-- [Anthropic's Opus 5 is about token efficiency, not a capability leap](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/) (2026-07-24)
-- [Roku raises streaming stick prices by up to 60 percent](https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Follow-Up Questions That Decide System Design Interviews (And How to Pre-Empt Them)](https://dev.to/numb_code_07/the-follow-up-questions-that-decide-system-design-interviews-and-how-to-pre-empt-them-32n3) (2026-07-25)
-- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) (2026-07-25)
-- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3) (2026-07-25)
-- [How I Built a Video Downloader with $0 Maintenance Costs (Node.js + Vanilla JS)](https://dev.to/zabi_ullah_5351519d5f6f39/how-i-built-a-video-downloader-with-0-maintenance-costs-nodejs-vanilla-js-1cej) (2026-07-25)
-- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9) (2026-07-25)
+- [CompressPower](https://dev.to/digital_web/compresspower-27fj) (2026-07-25)
+- [Several agents, one dirty index: disposable multi-repo workspaces for Claude Code](https://dev.to/riccardo_cereghino/several-agents-one-dirty-index-disposable-multi-repo-workspaces-for-claude-code-1936) (2026-07-25)
+- [RAG Explained: How to Give Your LLM a Memory It Can Actually Trust](https://dev.to/jps27cse/rag-explained-how-to-give-your-llm-a-memory-it-can-actually-trust-1h4c) (2026-07-25)
+- [16 states, 16 tax rates: modeling German property transfer tax without hardcoding a mess](https://dev.to/digital_web/16-states-16-tax-rates-modeling-german-property-transfer-tax-without-hardcoding-a-mess-1jjc) (2026-07-25)
+- [I Connected 3 MCP Servers to One Agent. It Got Scary Fast.](https://dev.to/debashish_ghosal/i-connected-3-mcp-servers-to-one-agent-it-got-scary-fast-4loe) (2026-07-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Replit Agent Mastering: The Complete Guide to Building Apps Faster with AI (No Coding Experience…](https://medium.com/@barronqasem/replit-agent-mastering-the-complete-guide-to-building-apps-faster-with-ai-no-coding-experience-1eb0b37d5244?source=rss------programming-5) (2026-07-25)
-- [Building a Complete Analysis Report From Start to Finish](https://medium.com/@emmanuelowusuadu10/building-a-complete-analysis-report-from-start-to-finish-b8df7f1ae28e?source=rss------programming-5) (2026-07-25)
-- [Social Engineering & Phishing Attacks: The Human Element Behind Modern Cyber Threats](https://swaraj-ai-in.medium.com/social-engineering-phishing-attacks-the-human-element-behind-modern-cyber-threats-6327593b046a?source=rss------programming-5) (2026-07-25)
-- [claude-overnight: I made my Claude limits work the night shift](https://medium.com/@rohanprichard/claude-overnight-i-made-my-claude-limits-work-the-night-shift-cf3cd871deab?source=rss------programming-5) (2026-07-25)
-- [Hexagonal Architecture: Keeping Business Logic Honest](https://medium.com/@thomasmuller_8351/hexagonal-architecture-keeping-business-logic-honest-735b0d2d2b5d?source=rss------programming-5) (2026-07-25)
+- [Java Beyond CRUD: Virtual Threads in Practice](https://medium.com/@muruganantham52524/java-beyond-crud-virtual-threads-in-practice-bff3dd5143db?source=rss------programming-5) (2026-07-25)
+- [If You’re Giving an Agent Filesystem Access, Read This First](https://medium.com/@mustafaculban1/if-youre-giving-an-agent-filesystem-access-read-this-first-88d790b5b10e?source=rss------programming-5) (2026-07-25)
+- [O que mais me chamou atenção nas ferramentas de programação lançadas nos últimos meses não foi um…](https://medium.com/@explorandoia/o-que-mais-me-chamou-aten%C3%A7%C3%A3o-nas-ferramentas-de-programa%C3%A7%C3%A3o-lan%C3%A7adas-nos-%C3%BAltimos-meses-n%C3%A3o-foi-um-8fde34395581?source=rss------programming-5) (2026-07-25)
+- [How I Saved $18,000 a Year Automating Data Cleaning With AI](https://medium.com/@aitrends24/how-i-saved-18-000-a-year-automating-data-cleaning-with-ai-0e7e7eb99f34?source=rss------programming-5) (2026-07-25)
+- [How to Design a Notification System for One Billion Users? War Stories from the Trenches](https://blog.stackademic.com/how-to-design-a-notification-system-for-one-billion-users-war-stories-from-the-trenches-207a8142e07a?source=rss------programming-5) (2026-07-25)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -556,24 +556,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Meta, Microsoft, Nvidia, IBM, and others back open-weight AI](https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/) (2026-07-24)
-- [OpenAI pushes ChatGPT into patient health records](https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/) (2026-07-24)
-- [OpenAI Presence sells enterprise AI agents with engineers attached](https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/) (2026-07-24)
-- [Nvidia bets physical AI can solve healthcare robotics’ data problem](https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/) (2026-07-23)
-- [AMD to invest up to $5 billion in Anthropic under AI infrastructure deal](https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/) (2026-07-23)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Fluid Simulator That Doesn’t Solve the Fluid Equations](https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/) (2026-07-25)
 - [Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet](https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/) (2026-07-24)
 - [Build and Run an Intelligent Document Processing (IDP) System in the Cloud](https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/) (2026-07-24)
 - [Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship](https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/) (2026-07-24)
 - [Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory](https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/) (2026-07-24)
-- [When Data Science Makes Us Sad: The Story of an Overbooked Flight](https://towardsdatascience.com/when-data-science-makes-us-sad-the-story-of-an-overbooked-flight/) (2026-07-23)
 
 </details>
 
@@ -591,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [KDnuggets Weekly Roundup: Week of July 20, 2026](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20) (2026-07-25)
 - [Language Model Hallucination Evaluation with GraphEval](https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval) (2026-07-24)
 - [5 Key Concepts Behind Agentic AI Every Engineer Must Understand](https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand) (2026-07-24)
 - [Getting Started with OmniVoice-Studio](https://www.kdnuggets.com/getting-started-with-omnivoice-studio) (2026-07-23)
 - [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding) (2026-07-23)
-- [Kaggle + Google’s Free 5-Day Agentic AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course) (2026-07-22)
 
 </details>
 
