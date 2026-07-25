@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) (2026-07-24)
-- [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools) (2026-07-24)
-- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) (2026-07-24)
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) (2026-07-24)
-- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/) (2026-07-24)
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) (2026-07-25)
+- [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) (2026-07-25)
+- [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/) (2026-07-25)
+- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) (2026-07-25)
+- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc) (2026-07-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead) (2026-07-25)
 - [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses) (2026-07-24)
 - [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban) (2026-07-24)
 - [Qualcomm is about to raise prices and that&#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg) (2026-07-24)
 - [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition) (2026-07-24)
-- [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When Your AI Agent Handles Money, "It Worked" Isn't Good Enough](https://dev.to/papajams/when-your-ai-agent-handles-money-it-worked-isnt-good-enough-1jbb) (2026-07-25)
-- [Building a Real-Time AI Voice Agent That Handles 70+ Languages](https://dev.to/labu_lim_2a258dda748603b5/building-a-real-time-ai-voice-agent-that-handles-70-languages-5e2j) (2026-07-25)
-- [🐈‍⬛Check Out Catbot's New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg) (2026-07-25)
-- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja) (2026-07-25)
-- [India's First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7) (2026-07-25)
+- [The Follow-Up Questions That Decide System Design Interviews (And How to Pre-Empt Them)](https://dev.to/numb_code_07/the-follow-up-questions-that-decide-system-design-interviews-and-how-to-pre-empt-them-32n3) (2026-07-25)
+- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) (2026-07-25)
+- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3) (2026-07-25)
+- [How I Built a Video Downloader with $0 Maintenance Costs (Node.js + Vanilla JS)](https://dev.to/zabi_ullah_5351519d5f6f39/how-i-built-a-video-downloader-with-0-maintenance-costs-nodejs-vanilla-js-1cej) (2026-07-25)
+- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9) (2026-07-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[AI Engineer #3] Knowledge Debt](https://andriantriputra.medium.com/ai-engineer-3-knowledge-debt-2cb2619ee871?source=rss------programming-5) (2026-07-25)
-- [The Day We Found the Black Crystal](https://medium.com/@mkymf/the-day-we-found-the-black-crystal-d474f4b540e0?source=rss------programming-5) (2026-07-25)
-- [What are daemon threads?](https://medium.com/@szaranger/what-are-daemon-threads-33edb66d32c0?source=rss------programming-5) (2026-07-25)
-- [Claude Opus 5’s Highest Setting Scores Lower Than the One Below It](https://pub.towardsai.net/claude-opus-5s-highest-setting-scores-lower-than-the-one-below-it-039563e1adc4?source=rss------programming-5) (2026-07-25)
-- [The $206K AI Engineer Job Is 80% Software Engineering. Most Roadmaps Teach the Wrong Role.](https://medium.com/@reactjsbd/the-206k-ai-engineer-job-is-80-software-engineering-most-roadmaps-teach-the-wrong-role-c745b9179630?source=rss------programming-5) (2026-07-25)
+- [Replit Agent Mastering: The Complete Guide to Building Apps Faster with AI (No Coding Experience…](https://medium.com/@barronqasem/replit-agent-mastering-the-complete-guide-to-building-apps-faster-with-ai-no-coding-experience-1eb0b37d5244?source=rss------programming-5) (2026-07-25)
+- [Building a Complete Analysis Report From Start to Finish](https://medium.com/@emmanuelowusuadu10/building-a-complete-analysis-report-from-start-to-finish-b8df7f1ae28e?source=rss------programming-5) (2026-07-25)
+- [Social Engineering & Phishing Attacks: The Human Element Behind Modern Cyber Threats](https://swaraj-ai-in.medium.com/social-engineering-phishing-attacks-the-human-element-behind-modern-cyber-threats-6327593b046a?source=rss------programming-5) (2026-07-25)
+- [claude-overnight: I made my Claude limits work the night shift](https://medium.com/@rohanprichard/claude-overnight-i-made-my-claude-limits-work-the-night-shift-cf3cd871deab?source=rss------programming-5) (2026-07-25)
+- [Hexagonal Architecture: Keeping Business Logic Honest](https://medium.com/@thomasmuller_8351/hexagonal-architecture-keeping-business-logic-honest-735b0d2d2b5d?source=rss------programming-5) (2026-07-25)
 
 </details>
 
