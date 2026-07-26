@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-07-26)
+- [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/) (2026-07-25)
+- [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/) (2026-07-25)
+- [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/) (2026-07-25)
 - [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/) (2026-07-25)
-- [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) (2026-07-25)
-- [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) (2026-07-25)
-- [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) (2026-07-25)
-- [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/) (2026-07-25)
-- [Rauno's Field Notes #2](https://rauno.me/notes/2) (2026-07-25)
-- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/) (2026-07-25)
-- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics) (2026-07-25)
-- [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits) (2026-07-25)
+- [Possible invasive species superspreader event near Strait of Hormuz](https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186) (2026-07-26)
+- [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/) (2026-07-26)
+- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) (2026-07-26)
+- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) (2026-07-26)
+- [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) (2026-07-25)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SDCC teaser gives us our first good look at Blade Runner 2099](https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/) (2026-07-25)
 - [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) (2026-07-25)
 - [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
 - [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) (2026-07-25)
 - [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) (2026-07-24)
-- [Paramount/WBD merger delayed for months as states' lawsuit moves toward trial](https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87) (2026-07-25)
-- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j) (2026-07-25)
-- [I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes](https://dev.to/cherimedz/i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes-2b6) (2026-07-25)
-- [Creating my own shell for unix](https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7) (2026-07-25)
-- [Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS](https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893) (2026-07-25)
+- [Built a Custom Virtual Machine From Scratch in Rust](https://dev.to/xelvoridze/built-a-custom-virtual-machine-from-scratch-in-rust-nc2) (2026-07-26)
+- [I had a blog with no pipeline feeding it](https://dev.to/bezacorelabs/i-had-a-blog-with-no-pipeline-feeding-it-4enm) (2026-07-26)
+- [My side account posts to X every day and I never touch it — here's the setup](https://dev.to/creatortoolsjp/my-side-account-posts-to-x-every-day-and-i-never-touch-it-heres-the-setup-og3) (2026-07-26)
+- [The Moment the Server Room Goes Dark](https://dev.to/nonasking/the-moment-the-server-room-goes-dark-mn3) (2026-07-26)
+- [5 n8n Automation Patterns That Saved My Clients 20+ Hours Per Week](https://dev.to/courtgpt/5-n8n-automation-patterns-that-saved-my-clients-20-hours-per-week-5ha3) (2026-07-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A 216-Digit Problem, a One-Second Budget, and Two Commented-Out Lines](https://medium.com/@martselcuk/a-216-digit-problem-a-one-second-budget-and-two-commented-out-lines-fd6c35e327de?source=rss------programming-5) (2026-07-25)
-- [Stop Debugging Blind: 5 Spring Boot Observability Patterns That Show You Everything](https://blog.stackademic.com/stop-debugging-blind-5-spring-boot-observability-patterns-that-show-you-everything-dd7e39cf07f4?source=rss------programming-5) (2026-07-25)
-- [Time & Space Complexity](https://medium.com/@dikshachauhan187/time-space-complexity-5a6e9f3f4bc8?source=rss------programming-5) (2026-07-25)
-- [25 AI Tools Every Solution Architect Should Know](https://medium.com/@mohsho10/25-ai-tools-every-solution-architect-should-know-f43bff93f1e8?source=rss------programming-5) (2026-07-25)
-- [Kubernetes RBAC Explained: Controlling Who Can Do What in Your Cluster](https://blog.devops.dev/kubernetes-rbac-explained-controlling-who-can-do-what-in-your-cluster-2eb9a0779553?source=rss------programming-5) (2026-07-25)
+- [[AI Engineer #4] The Economics of AI Engineering](https://andriantriputra.medium.com/ai-engineer-4-the-economics-of-ai-engineering-c4488d8af5cb?source=rss------programming-5) (2026-07-26)
+- [Why More and More Java Developers Are Choosing Spring WebFlux in 2026](https://medium.com/@umeshcapg/why-more-and-more-java-developers-are-choosing-spring-webflux-in-2026-32d4d423d353?source=rss------programming-5) (2026-07-26)
+- [Beautiful Code In A Vibe Coded Future](https://medium.com/@myam/beautiful-code-in-a-vibe-coded-future-2b42852a6319?source=rss------programming-5) (2026-07-26)
+- [Scaling a RAG pipeline to 10M+ documents without letting hallucinations win](https://levelup.gitconnected.com/scaling-a-rag-pipeline-to-10m-documents-without-letting-hallucinations-win-5c048d6c218c?source=rss------programming-5) (2026-07-26)
+- [Empire LLM for Codex: AI Code Review Without Agent Chaos](https://medium.com/@web5labs.llc/empire-llm-for-codex-ai-code-review-without-agent-chaos-129edc50e74d?source=rss------programming-5) (2026-07-26)
 
 </details>
 
