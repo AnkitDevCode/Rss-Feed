@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Possible invasive species superspreader event near Strait of Hormuz](https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186) (2026-07-26)
-- [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/) (2026-07-26)
-- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) (2026-07-26)
-- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) (2026-07-26)
-- [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) (2026-07-25)
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) (2026-07-26)
+- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station) (2026-07-26)
+- [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure) (2026-07-26)
+- [JetZero](https://www.jetzero.aero) (2026-07-26)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) (2026-07-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Built a Custom Virtual Machine From Scratch in Rust](https://dev.to/xelvoridze/built-a-custom-virtual-machine-from-scratch-in-rust-nc2) (2026-07-26)
-- [I had a blog with no pipeline feeding it](https://dev.to/bezacorelabs/i-had-a-blog-with-no-pipeline-feeding-it-4enm) (2026-07-26)
-- [My side account posts to X every day and I never touch it — here's the setup](https://dev.to/creatortoolsjp/my-side-account-posts-to-x-every-day-and-i-never-touch-it-heres-the-setup-og3) (2026-07-26)
-- [The Moment the Server Room Goes Dark](https://dev.to/nonasking/the-moment-the-server-room-goes-dark-mn3) (2026-07-26)
-- [5 n8n Automation Patterns That Saved My Clients 20+ Hours Per Week](https://dev.to/courtgpt/5-n8n-automation-patterns-that-saved-my-clients-20-hours-per-week-5ha3) (2026-07-26)
+- [Solon Config & Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c) (2026-07-26)
+- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408) (2026-07-26)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f) (2026-07-26)
+- [Fixing Cache Stampede & API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha) (2026-07-26)
+- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife) (2026-07-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[AI Engineer #4] The Economics of AI Engineering](https://andriantriputra.medium.com/ai-engineer-4-the-economics-of-ai-engineering-c4488d8af5cb?source=rss------programming-5) (2026-07-26)
-- [Why More and More Java Developers Are Choosing Spring WebFlux in 2026](https://medium.com/@umeshcapg/why-more-and-more-java-developers-are-choosing-spring-webflux-in-2026-32d4d423d353?source=rss------programming-5) (2026-07-26)
-- [Beautiful Code In A Vibe Coded Future](https://medium.com/@myam/beautiful-code-in-a-vibe-coded-future-2b42852a6319?source=rss------programming-5) (2026-07-26)
-- [Scaling a RAG pipeline to 10M+ documents without letting hallucinations win](https://levelup.gitconnected.com/scaling-a-rag-pipeline-to-10m-documents-without-letting-hallucinations-win-5c048d6c218c?source=rss------programming-5) (2026-07-26)
-- [Empire LLM for Codex: AI Code Review Without Agent Chaos](https://medium.com/@web5labs.llc/empire-llm-for-codex-ai-code-review-without-agent-chaos-129edc50e74d?source=rss------programming-5) (2026-07-26)
+- [Microsoft Mage-Flow: A 4B AI Model That Challenges 20B+ Image Generation Models](https://medium.com/data-science-in-your-pocket/microsoft-mage-flow-a-4b-ai-model-that-challenges-20b-image-generation-models-485275ed0a82?source=rss------programming-5) (2026-07-26)
+- [The Rise of Agentic AI Coding Assistants](https://medium.com/@eiyogen.digital/the-rise-of-agentic-ai-coding-assistants-e9f4777b324b?source=rss------programming-5) (2026-07-26)
+- [A Beautiful Heart Never Fades: Why Inner Beauty Is the Foundation of Lasting Love and Meaningful…](https://chukwudikennethobinwa.medium.com/a-beautiful-heart-never-fades-why-inner-beauty-is-the-foundation-of-lasting-love-and-meaningful-83ce902a089d?source=rss------programming-5) (2026-07-26)
+- [I Cut My AI Coding Assistant’s Token Usage in Half. Here’s Exactly How](https://medium.com/@moathk/i-cut-my-ai-coding-assistants-token-usage-in-half-here-s-exactly-how-7a50e103c7f8?source=rss------programming-5) (2026-07-26)
+- [My Developer Resources: Templates, Guides, and Starter Kits](https://medium.com/write-a-catalyst/my-developer-resources-templates-guides-and-starter-kits-2c73b60e8b01?source=rss------programming-5) (2026-07-26)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Cracking the Data Science Case Study Interview](https://www.analyticsvidhya.com/blog/2026/07/data-science-case-study/) (2026-07-26)
 - [A Complete Guide to AI Red-Teaming (With Garak Tutorial)](https://www.analyticsvidhya.com/blog/2026/07/guide-to-ai-red-teaming/) (2026-07-25)
 - [Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To](https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/) (2026-07-24)
 - [Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context](https://www.analyticsvidhya.com/blog/2026/07/prompt-compression-techniques-guide/) (2026-07-23)
 - [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
-- [Agentic AI vs AI Automation: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/) (2026-07-21)
 
 </details>
 
