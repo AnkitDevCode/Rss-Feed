@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) (2026-07-26)
-- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station) (2026-07-26)
-- [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure) (2026-07-26)
-- [JetZero](https://www.jetzero.aero) (2026-07-26)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) (2026-07-26)
+- [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c) (2026-07-26)
+- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/) (2026-07-26)
+- [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage) (2026-07-26)
+- [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439) (2026-07-26)
+- [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/) (2026-07-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook) (2026-07-26)
 - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike) (2026-07-25)
 - [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview) (2026-07-25)
 - [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale) (2026-07-25)
 - [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees) (2026-07-25)
-- [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun) (2026-07-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Solon Config & Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c) (2026-07-26)
-- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408) (2026-07-26)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f) (2026-07-26)
-- [Fixing Cache Stampede & API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha) (2026-07-26)
-- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife) (2026-07-26)
+- [The Frame Keeps Snapping Back — Part 2: What the Snapback Revealed](https://dev.to/davidvk89/the-frame-keeps-snapping-back-part-2-what-the-snapback-revealed-278e) (2026-07-26)
+- [Why I Built a Free SSMS Extension to Stop Destructive Queries](https://dev.to/manuelenzo/why-i-built-a-free-ssms-extension-to-stop-destructive-queries-npo) (2026-07-26)
+- [A Deep Dive into Amazon Bedrock Prompt Caching for Claude 4.6](https://dev.to/nitheesh_gaddam_e36ec4aa4/a-deep-dive-into-amazon-bedrock-prompt-caching-for-claude-46-28ob) (2026-07-26)
+- [🛠️ How to Run a Privacy-First, Browser-Based Stream Downloader (FlowPick) — A Hands-On Tutorial](https://dev.to/flowpick/how-to-run-a-privacy-first-browser-based-stream-downloader-flowpick-a-hands-on-tutorial-ljd) (2026-07-26)
+- [We Audited Our Claude Code Setup Against Anthropic's Own Context-Engineering Rules — Here's What We Found](https://dev.to/pponali/we-audited-our-claude-code-setup-against-anthropics-own-context-engineering-rules-heres-what-we-3mme) (2026-07-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Microsoft Mage-Flow: A 4B AI Model That Challenges 20B+ Image Generation Models](https://medium.com/data-science-in-your-pocket/microsoft-mage-flow-a-4b-ai-model-that-challenges-20b-image-generation-models-485275ed0a82?source=rss------programming-5) (2026-07-26)
-- [The Rise of Agentic AI Coding Assistants](https://medium.com/@eiyogen.digital/the-rise-of-agentic-ai-coding-assistants-e9f4777b324b?source=rss------programming-5) (2026-07-26)
-- [A Beautiful Heart Never Fades: Why Inner Beauty Is the Foundation of Lasting Love and Meaningful…](https://chukwudikennethobinwa.medium.com/a-beautiful-heart-never-fades-why-inner-beauty-is-the-foundation-of-lasting-love-and-meaningful-83ce902a089d?source=rss------programming-5) (2026-07-26)
-- [I Cut My AI Coding Assistant’s Token Usage in Half. Here’s Exactly How](https://medium.com/@moathk/i-cut-my-ai-coding-assistants-token-usage-in-half-here-s-exactly-how-7a50e103c7f8?source=rss------programming-5) (2026-07-26)
-- [My Developer Resources: Templates, Guides, and Starter Kits](https://medium.com/write-a-catalyst/my-developer-resources-templates-guides-and-starter-kits-2c73b60e8b01?source=rss------programming-5) (2026-07-26)
+- [I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.](https://ai.gopubby.com/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss------programming-5) (2026-07-26)
+- [7 High-Paying Python Skills Clients Are Desperately Hiring For](https://python.plainenglish.io/7-high-paying-python-skills-clients-are-desperately-hiring-for-808ac8fd47fb?source=rss------programming-5) (2026-07-26)
+- [The Shadow War: The Complete History, Mechanics, and Culture of Video Game Piracy](https://medium.com/@abhideepsinha3/the-shadow-war-the-complete-history-mechanics-and-culture-of-video-game-piracy-3d4c0cf5f78d?source=rss------programming-5) (2026-07-26)
+- [10 Women Are Sharing The Unbelievable Things They Did After Finding Out Their Partner Was Cheating](https://medium.com/@mehoraf477/10-women-are-sharing-the-unbelievable-things-they-did-after-finding-out-their-partner-was-cheating-33c9270cef4f?source=rss------programming-5) (2026-07-26)
+- [Where Should the Star Rest: A C Programmer’s Quiet Holy War](https://medium.com/@seanlab/where-should-the-star-rest-a-c-programmers-quiet-holy-war-54fecfd8ab68?source=rss------programming-5) (2026-07-26)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
+- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Give an LLM Agent a Browser](https://towardsdatascience.com/giving-an-llm-agent-a-browser/) (2026-07-26)
 - [How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes](https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/) (2026-07-25)
 - [The Fluid Simulator That Doesn’t Solve the Fluid Equations](https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/) (2026-07-25)
 - [Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet](https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/) (2026-07-24)
 - [Build and Run an Intelligent Document Processing (IDP) System in the Cloud](https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/) (2026-07-24)
-- [Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship](https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/) (2026-07-24)
 
 </details>
 
