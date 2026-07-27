@@ -20,10 +20,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How the Atmos clock functions](https://atmos-atelier.de/en/atmos-uhr/) (2026-07-27)
+- [How Unix spell ran in 64 kB of RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram) (2026-07-27)
+- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) (2026-07-27)
+- [The old-school way of keeping the summer heat out of your home](https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/) (2026-07-27)
 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) (2026-07-27)
-- [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/) (2026-07-27)
-- [Visualizing the Artemis II Mission](https://foxglove.dev/blog/visualizing-the-artemis-ii-mission) (2026-07-26)
 - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/) (2026-07-26)
 
 </details>
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TIL - Choosing Between Code, an LLM Call, and an AI Agent](https://dev.to/arkoesalwi/til-choosing-between-code-an-llm-call-and-an-ai-agent-3n8c) (2026-07-27)
-- [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25) (2026-07-27)
-- [It's really fascinating what Erik said in this post. I felt very identified with what he said. It's an amazing post that can guide people who are starting out or who even have years of experience in IT.](https://dev.to/felipe_nicolsbustosnav/its-really-fascinating-what-erik-said-in-this-post-i-felt-very-identified-with-what-he-said-its-53m0) (2026-07-27)
-- [Orchestrating a multi-agent solution with the Microsoft Agent Framework](https://dev.to/willvelida/orchestrating-a-multi-agent-solution-with-the-microsoft-agent-framework-289j) (2026-07-27)
-- [I let an AI write 6 WebGL hero sections — here's the one-CSS-variable reskin trick, and the honest review count](https://dev.to/nerotran2408/i-let-an-ai-write-6-webgl-hero-sections-heres-the-one-css-variable-reskin-trick-and-the-honest-ha4) (2026-07-27)
+- [We Gave Our AI Agents Employee IDs. Here's Why](https://dev.to/mininglamp/we-gave-our-ai-agents-employee-ids-heres-why-14kg) (2026-07-27)
+- [On the idea of turning myself into an AI, and where that leaves the one being overtaken](https://dev.to/matsumotory/on-the-idea-of-turning-myself-into-an-ai-and-where-that-leaves-the-one-being-overtaken-ic0) (2026-07-27)
+- [Build a Palm-Sized POV TV with a Raspberry Pi Pico](https://dev.to/circuitrocks/build-a-palm-sized-pov-tv-with-a-raspberry-pi-pico-2025) (2026-07-27)
+- [How to achieve zero-copy streaming from hyper and h3-quinn into a Wasmtime Wasm component via wasi:http?](https://dev.to/josh_klein/how-to-achieve-zero-copy-streaming-from-hyper-and-h3-quinn-into-a-wasmtime-wasm-component-via-10hl) (2026-07-27)
+- [Day 2 at TOSSConf 2026 — தமிழ் கட்டற்ற மென்பொருள் மாநாடு](https://dev.to/karthick_07/day-2-at-tossconf-2026-tmilll-kttttrrrr-mennnporull-maanaattu-4e9h) (2026-07-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Hilo](https://hormigasaiscristhiamquinonez.medium.com/hilo-b551db81cd12?source=rss------programming-5) (2026-07-27)
-- [How to install and configure Golang](https://bryantson.medium.com/how-to-install-and-configure-golang-a5eb359bfa71?source=rss------programming-5) (2026-07-27)
-- [[AI Engineer #5] Overengineering Has Become Cheap](https://andriantriputra.medium.com/ai-engineer-5-overengineering-has-become-cheap-d4e15c57ad41?source=rss------programming-5) (2026-07-27)
-- [Algorithm That Power Google Maps (And Why They’re Brilliant)](https://medium.com/@saurabgyawali/algorithm-that-power-google-maps-and-why-theyre-brilliant-2a6fa84cc055?source=rss------programming-5) (2026-07-27)
-- [Deploying Code Is Easy.  Surviving Production Is the Real Game.](https://medium.com/beyond-localhost/deploying-code-is-easy-surviving-production-is-the-real-game-e10d17f5256d?source=rss------programming-5) (2026-07-27)
+- [The Great Consulting Reset: How Agentic AI Is Rewriting India’s ₹20+ Billion Consulting Industry](https://medium.com/@salilapte/the-great-consulting-reset-how-agentic-ai-is-rewriting-indias-20-billion-consulting-industry-2eed0026b502?source=rss------programming-5) (2026-07-27)
+- [Using Libraries in Lean 4](https://medium.com/@LeanOnMath/using-libraries-in-lean-4-d93de0fd0462?source=rss------programming-5) (2026-07-27)
+- [ Finally A Full-Stack Rust Framework](https://medium.com/rustaceans/finally-a-full-stack-rust-framework-9c99294c24cd?source=rss------programming-5) (2026-07-27)
+- [best custom software development companies Saudi Arabia](https://faizkrm.medium.com/best-custom-software-development-companies-saudi-arabia-f2d94a4f73d4?source=rss------programming-5) (2026-07-27)
+- [Yapay Zeka Yazılımcıları İşinden Etmiyor, İşini Değiştiriyor](https://medium.com/@berkay_agcay/yapay-zeka-yaz%C4%B1l%C4%B1mc%C4%B1lar%C4%B1-i%CC%87%C5%9Finden-etmiyor-i%CC%87%C5%9Fini-de%C4%9Fi%C5%9Ftiriyor-e888bddba4bb?source=rss------programming-5) (2026-07-27)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
+- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 - [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) (2026-07-27)
 - [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/) (2026-07-27)
 - [At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners](https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/) (2026-07-24)
 - [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/) (2026-07-23)
 - [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/) (2026-07-23)
-- [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) (2026-07-22)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Reverse Engineering with Hibernate 7.4 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/07/reverse-engineering-with-hibernate-7-4-and-intellij-idea/) (2026-07-27)
 - [IDE Plugin Generator – The New Beginning](https://blog.jetbrains.com/platform/2026/07/ide-plugin-generator-the-new-beginning/) (2026-07-24)
 - [New Bug-Fix Releases Are Available for MPS – 2025.3.1, 2025.2.3, and 2025.1.3](https://blog.jetbrains.com/mps/2026/07/new_bugfix_releases_mps-2025-3-1/) (2026-07-24)
 - [Axum Support in RustRover 2026.2: Build Web Backends Faster](https://blog.jetbrains.com/rust/2026/07/23/axum-support-in-rustrover/) (2026-07-23)
 - [Code Coverage: How to Measure It, Understand the Metrics, and Improve Your Tests](https://blog.jetbrains.com/qodana/2026/07/code-coverage-tests/) (2026-07-23)
-- [ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/) (2026-07-22)
 
 </details>
 
@@ -547,8 +547,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) (2026-07-23)
-- [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) (2026-07-21)
 - [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) (2026-07-21)
 - [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) (2026-07-16)
 - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) (2026-07-16)
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🤖 AI News</summary>
 
+- [America’s AI Investment Boom Is Reshaping the Economy](https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/) (2026-07-27)
 - [Meta, Microsoft, Nvidia, IBM, and others back open-weight AI](https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/) (2026-07-24)
 - [OpenAI pushes ChatGPT into patient health records](https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/) (2026-07-24)
 - [OpenAI Presence sells enterprise AI agents with engineers attached](https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/) (2026-07-24)
 - [Nvidia bets physical AI can solve healthcare robotics’ data problem](https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/) (2026-07-23)
-- [AMD to invest up to $5 billion in Anthropic under AI infrastructure deal](https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/) (2026-07-23)
 
 </details>
 
