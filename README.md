@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) (2026-07-27)
+- [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/) (2026-07-26)
+- [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) (2026-07-26)
 - [Inside one London founder house rewriting the founder-house rules ](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/) (2026-07-26)
 - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) (2026-07-26)
-- [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/) (2026-07-26)
-- [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) (2026-07-26)
-- [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/) (2026-07-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: The Occult Gatsby](https://occultgatsby.work) (2026-07-26)
-- [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever) (2026-07-26)
-- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/) (2026-07-26)
-- [Decker](https://beyondloom.com/decker/) (2026-07-26)
-- [Google Cache used to have a copy of this page at](https://www.hornet.org/wikipedia-notes.txt) (2026-07-26)
+- [How the Atmos clock functions](https://atmos-atelier.de/en/atmos-uhr/) (2026-07-27)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) (2026-07-27)
+- [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/) (2026-07-27)
+- [Visualizing the Artemis II Mission](https://foxglove.dev/blog/visualizing-the-artemis-ii-mission) (2026-07-26)
+- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/) (2026-07-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review) (2026-07-26)
+- [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy) (2026-07-26)
 - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password) (2026-07-26)
 - [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con) (2026-07-26)
 - [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale) (2026-07-26)
-- [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con) (2026-07-26)
-- [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook) (2026-07-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [First teaser for Apple TV's Neuromancer debuts at SDCC](https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/) (2026-07-26)
 - [SDCC teaser gives us our first good look at Blade Runner 2099](https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/) (2026-07-25)
 - [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) (2026-07-25)
 - [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
 - [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) (2026-07-25)
-- [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) (2026-07-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Left of the Loop: The Phoenix](https://dev.to/aepfli/left-of-the-loop-the-phoenix-17f9) (2026-07-26)
-- [How Much of Your CI Pipeline Is Just Cucumber Scenarios You're Too Afraid to Delete](https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h) (2026-07-26)
-- [3 Portfolio Mistakes Hiring Managers Spot Instantly](https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma) (2026-07-26)
-- [The Manual Tester Who Can Write a SQL Join Will Always Beat the SDET Who Can't](https://dev.to/qawalah/the-manual-tester-who-can-write-a-sql-join-will-always-beat-the-sdet-who-cant-4h5p) (2026-07-26)
-- [SigNoz Hackathon](https://dev.to/aswa2212/signoz-hackathon-nld) (2026-07-26)
+- [TIL - Choosing Between Code, an LLM Call, and an AI Agent](https://dev.to/arkoesalwi/til-choosing-between-code-an-llm-call-and-an-ai-agent-3n8c) (2026-07-27)
+- [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25) (2026-07-27)
+- [It's really fascinating what Erik said in this post. I felt very identified with what he said. It's an amazing post that can guide people who are starting out or who even have years of experience in IT.](https://dev.to/felipe_nicolsbustosnav/its-really-fascinating-what-erik-said-in-this-post-i-felt-very-identified-with-what-he-said-its-53m0) (2026-07-27)
+- [Orchestrating a multi-agent solution with the Microsoft Agent Framework](https://dev.to/willvelida/orchestrating-a-multi-agent-solution-with-the-microsoft-agent-framework-289j) (2026-07-27)
+- [I let an AI write 6 WebGL hero sections — here's the one-CSS-variable reskin trick, and the honest review count](https://dev.to/nerotran2408/i-let-an-ai-write-6-webgl-hero-sections-heres-the-one-css-variable-reskin-trick-and-the-honest-ha4) (2026-07-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Episode 3 | The File That Saved the Project](https://medium.com/@shawkyalbana/episode-3-the-file-that-saved-the-project-2485043c3fe6?source=rss------programming-5) (2026-07-26)
-- [No One Saved That Planet. Your Game Grew It the Moment You Arrived.](https://medium.com/@mahdi.nasermoghadasi/no-one-saved-that-planet-your-game-grew-it-the-moment-you-arrived-6a4d76f4c204?source=rss------programming-5) (2026-07-26)
-- [How an Android Deep Link Opens Your App](https://serhiistarodub.medium.com/how-an-android-deep-link-opens-your-app-6f0d3db96bbd?source=rss------programming-5) (2026-07-26)
-- [Write for The Engineering Brief](https://medium.com/the-engineering-brief/write-for-the-engineering-brief-34d0f67ce2e6?source=rss------programming-5) (2026-07-26)
-- [Building Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery](https://medium.com/@antor.csecu/building-bug-bounty-recon-pipeline-from-target-domain-to-vulnerability-discovery-cdc3e90e7a20?source=rss------programming-5) (2026-07-26)
+- [ Hilo](https://hormigasaiscristhiamquinonez.medium.com/hilo-b551db81cd12?source=rss------programming-5) (2026-07-27)
+- [How to install and configure Golang](https://bryantson.medium.com/how-to-install-and-configure-golang-a5eb359bfa71?source=rss------programming-5) (2026-07-27)
+- [[AI Engineer #5] Overengineering Has Become Cheap](https://andriantriputra.medium.com/ai-engineer-5-overengineering-has-become-cheap-d4e15c57ad41?source=rss------programming-5) (2026-07-27)
+- [Algorithm That Power Google Maps (And Why They’re Brilliant)](https://medium.com/@saurabgyawali/algorithm-that-power-google-maps-and-why-theyre-brilliant-2a6fa84cc055?source=rss------programming-5) (2026-07-27)
+- [Deploying Code Is Easy.  Surviving Production Is the Real Game.](https://medium.com/beyond-localhost/deploying-code-is-easy-surviving-production-is-the-real-game-e10d17f5256d?source=rss------programming-5) (2026-07-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/) (2026-07-27)
 - [At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners](https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/) (2026-07-24)
 - [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/) (2026-07-23)
 - [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/) (2026-07-23)
 - [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) (2026-07-22)
-- [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (2026-07-21)
 
 </details>
 
