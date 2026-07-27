@@ -9,55 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Snapchat now lets you share what you’re listening to in real time](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/) (2026-07-27)
-- [Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/) (2026-07-27)
-- [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/) (2026-07-27)
-- [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) (2026-07-27)
-- [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/) (2026-07-26)
+- [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/) (2026-07-27)
+- [Apple sued after alleged App Store crypto scam cost users $1.8M](https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/) (2026-07-27)
+- [Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/) (2026-07-27)
+- [Antares raises $470M to build nuclear reactors for the US military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) (2026-07-27)
+- [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/) (2026-07-27)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) (2026-07-27)
+- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli) (2026-07-27)
+- [Exercise works for depression. So why isn't it treated like real medicine?](https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/) (2026-07-27)
+- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/) (2026-07-27)
+- [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/) (2026-07-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) (2026-07-27)
-- [Meta is royally screwing up its smart glasses rollout ](https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables) (2026-07-27)
-- [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review) (2026-07-26)
-- [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy) (2026-07-26)
-- [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password) (2026-07-26)
+- [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies) (2026-07-27)
+- [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal) (2026-07-27)
+- [Amazon&#8217;s trying to launch a global satellite cellphone network in 2028](https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network) (2026-07-27)
+- [This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review) (2026-07-27)
+- [Tariffs didn’t bring manufacturing jobs back to the US](https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada) (2026-07-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Activist charged with felony after giving border agent "duress code" that wiped his phone](https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/) (2026-07-27)
+- [Framework Laptop 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/) (2026-07-27)
+- [What public health professionals can learn from anti-vaccine storytelling](https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/) (2026-07-27)
 - [Artist sues AI meme generator for selling deeply personal comic as ad template](https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/) (2026-07-27)
 - [First teaser for Apple TV's Neuromancer debuts at SDCC](https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/) (2026-07-26)
-- [SDCC teaser gives us our first good look at Blade Runner 2099](https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/) (2026-07-25)
-- [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) (2026-07-25)
-- [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) (2026-07-27)
+- [How lasers could help provide fuel for nuclear reactors](https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/) (2026-07-27)
 - [The Download: lasers for nuclear fuel, and organ preservation advances](https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/) (2026-07-27)
 - [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) (2026-07-27)
 - [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) (2026-07-27)
-- [Building the enterprise environment for agentic AI](https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/) (2026-07-27)
-- [The quest to keep organs alive outside the body](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The harness is all you need (mostly)](https://github.blog/company/the-harness-is-all-you-need-mostly/) (2026-07-27)
+- [GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) (2026-07-27)
 - [The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) (2026-07-23)
 - [Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) (2026-07-22)
 - [Next chapter: Restructuring GitHub’s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/) (2026-07-22)
-- [How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/) (2026-07-21)
-- [$100 million for open source: A milestone built by the community](https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/) (2026-07-20)
 
 </details>
 
@@ -75,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a memory engine for AI agents. No cloud required.](https://dev.to/ajianaz/i-built-a-memory-engine-for-ai-agents-no-cloud-required-47mo) (2026-07-27)
-- [Archetype: The Chef](https://dev.to/druid628/archetype-the-chef-139c) (2026-07-27)
-- [Evaluating AI in DevOps: Strategies to Identify Effective Tools and Mitigate Risks](https://dev.to/maricode/evaluating-ai-in-devops-strategies-to-identify-effective-tools-and-mitigate-risks-35eg) (2026-07-27)
-- [I built a screen time blocker that has no account, no server, and no idea who you are](https://dev.to/samtj/i-built-a-screen-time-blocker-that-has-no-account-no-server-and-no-idea-who-you-are-2oe0) (2026-07-27)
-- [The Card Said AI](https://dev.to/nabbilkhan/the-card-said-ai-1hbo) (2026-07-27)
+- [The ten-line binary search that balanced a four-million-item crawl](https://dev.to/shell412/the-ten-line-binary-search-that-balanced-a-four-million-item-crawl-321n) (2026-07-27)
+- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/maniekm/why-sanity-is-the-best-cms-for-the-healthcare-industry-4k6i) (2026-07-27)
+- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad) (2026-07-27)
+- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl) (2026-07-27)
+- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5) (2026-07-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Stopped Using Todoist and Built a Task Manager That Lives in My Terminal.](https://medium.com/@tom_38132/i-stopped-using-todoist-and-built-a-task-manager-that-lives-in-my-terminal-705992f931f6?source=rss------programming-5) (2026-07-27)
-- [2 Pointer Pattern — Master Study Guide](https://medium.com/@shreyarathi14/2-pointer-pattern-master-study-guide-8bdc38a3bae4?source=rss------programming-5) (2026-07-27)
-- [Deep dive into SQLAlchemy, Part I: Connections and pooling](https://medium.com/@supernovaprotocol/deep-dive-into-sqlalchemy-part-i-connections-and-pooling-b27b68515b39?source=rss------programming-5) (2026-07-27)
-- [MAXWELL’S QUATERNIONS vs. HEAVISIDE’S VECTOR CALCULUS](https://zachbobby8.medium.com/maxwells-quaternions-vs-heaviside-s-vector-calculus-699907b2843d?source=rss------programming-5) (2026-07-27)
-- [Swift Concurrency Fundamentals #2: Async/Await](https://medium.com/@kbyarkin/swift-concurrency-fundamentals-2-async-await-68267d560c3f?source=rss------programming-5) (2026-07-27)
+- [You Know Five Git Commands. Here’s the Other Twelve.](https://medium.com/@sudipparajuli/you-know-five-git-commands-heres-the-other-twelve-5cfa6f68feed?source=rss------programming-5) (2026-07-27)
+- [JWT Security Mistakes I Still See in Production](https://medium.com/skillstuff/jwt-security-mistakes-i-still-see-in-production-8ddb40607d10?source=rss------programming-5) (2026-07-27)
+- [O que eu evitaria ao usar IA em codebases grandes](https://medium.com/@luisbsl/o-que-eu-evitaria-ao-usar-ia-em-codebases-grandes-97db1d74b79b?source=rss------programming-5) (2026-07-27)
+- [Day 1 of building a billion-dollar startup in public before my 17th birthday. ](https://medium.com/@frankmanvideo/day-1-of-building-a-billion-dollar-startup-in-public-before-my-17th-birthday-57c0dc76b632?source=rss------programming-5) (2026-07-27)
+- [From Model Catalog to Production Endpoint: Running Open Models on Microsoft Foundry](https://blog.stackademic.com/from-model-catalog-to-production-endpoint-running-open-models-on-microsoft-foundry-60a01598b6cc?source=rss------programming-5) (2026-07-27)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/) (2026-07-27)
 - [AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/) (2026-07-20)
 - [Amazon SQS turns 20: Two decades of reliable messaging at scale](https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/) (2026-07-13)
 - [AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/) (2026-07-13)
 - [AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/) (2026-07-06)
-- [Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks](https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/) (2026-07-01)
 
 </details>
 
@@ -130,11 +141,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [How R8 made Kotlin Coroutines on Android 2x faster](https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html) (2026-07-27)
 - [Optimize your apps for the next generation of Samsung Galaxy devices](https://android-developers.googleblog.com/2026/07/optimize-galaxy-screen-sizes.html) (2026-07-22)
 - [Build intelligent Android apps: Cloud and hybrid inference](https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-cloud-hybrid-inference.html) (2026-07-21)
 - [Build intelligent Android apps: Integrate into Android's intelligence system using AppFunctions](https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-appfunctions.html) (2026-07-21)
 - [Build intelligent Android apps: Introduction to Jetpacker](https://android-developers.googleblog.com/2026/07/build-intelligent-android-apps-introduction-jetpack.html) (2026-07-21)
-- [Build intelligent Android apps: On-device inference](https://android-developers.googleblog.com/2026/07/android-on-device-inference.html) (2026-07-21)
 
 </details>
 
@@ -273,22 +284,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest](https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss-ef81ef829bcb------2) (2026-07-27)
 - [Securing Infrastructure at Scale: Introducing Pinterest’s Resource Provisioner Pipeline (RPP)](https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss-ef81ef829bcb------2) (2026-07-22)
 - [Achieving Near-Linear Training Scalability for Pinterest’s Foundation Models](https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss-ef81ef829bcb------2) (2026-06-25)
 - [Automated Schema Evolution in Pinterest’s Next-Generation DB Ingestion Framework](https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss-ef81ef829bcb------2) (2026-06-24)
 - [Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use](https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss-ef81ef829bcb------2) (2026-05-21)
-- [An Engineer’s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent…](https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd?source=rss-ef81ef829bcb------2) (2026-05-12)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity 2026.1.3 and 2025.11.7 Are Now Available](https://blog.jetbrains.com/teamcity/2026/07/teamcity-2026-1-3-2025-11-7-bugfix/) (2026-07-27)
+- [Critical Security Issue Affecting TeamCity On-Premises (CVE-2026-63077) – Update to 2025.11.7 or 2026.1.3 Now](https://blog.jetbrains.com/teamcity/2026/07/cve-2026-63077/) (2026-07-27)
 - [How do you rewrite C/C++ projects to Rust?](https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/) (2026-07-27)
 - [Reverse Engineering with Hibernate 7.4 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/07/reverse-engineering-with-hibernate-7-4-and-intellij-idea/) (2026-07-27)
 - [IDE Plugin Generator – The New Beginning](https://blog.jetbrains.com/platform/2026/07/ide-plugin-generator-the-new-beginning/) (2026-07-24)
-- [New Bug-Fix Releases Are Available for MPS – 2025.3.1, 2025.2.3, and 2025.1.3](https://blog.jetbrains.com/mps/2026/07/new_bugfix_releases_mps-2025-3-1/) (2026-07-24)
-- [Axum Support in RustRover 2026.2: Build Web Backends Faster](https://blog.jetbrains.com/rust/2026/07/23/axum-support-in-rustrover/) (2026-07-23)
 
 </details>
 
@@ -328,18 +339,18 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [eve adds new Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls) (2026-07-27)
+- [WebSocket support for OpenAI Responses API live on AI Gateway](https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway) (2026-07-27)
+- [Nuxt July 2026 security advisory](https://vercel.com/changelog/nuxt-july-2026-security-advisory) (2026-07-27)
+- [Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway](https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway) (2026-07-27)
 - [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-07-27)
-- [Vercel WAF for Blob is now in beta](https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta) (2026-07-24)
-- [Workflow steps now support extended function durations](https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations) (2026-07-24)
-- [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway) (2026-07-24)
-- [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [We’re open sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
+- [We’re open-sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
 - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
 - [Introducing Cache Response Rules](https://blog.cloudflare.com/introducing-cache-response-rules/) (2026-07-23)
 - [How the 2026 World Cup affected Internet traffic](https://blog.cloudflare.com/2026-world-cup-internet-traffic/) (2026-07-21)
@@ -381,12 +392,12 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [The Self-Service Roadmap: Navigating the Auth0 Dashboard Subscriptions Tab](https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/) (2026-07-27)
 - [Agentic Loops and Agent Graphs: Security Risks You Need to Know](https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/) (2026-07-24)
 - [How to Set Up a Flask App with Cursor and the Auth0 Plugin](https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/) (2026-07-22)
 - [The Art of Consent Management in the OAuth World](https://auth0.com/blog/the-art-of-user-consent-management-oauth/) (2026-07-16)
 - [You Are Using Auth0 The Hard Way
 ](https://auth0.com/blog/you-are-using-auth0-the-hard-way/) (2026-07-15)
-- [Introducing Third-Party Applications for Organizations](https://auth0.com/blog/introducing-third-party-apps-for-organizations/) (2026-07-14)
 
 </details>
 
@@ -470,11 +481,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.6 Flash, Opus 5, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-07-27)
+- [Prevent lock-in with AI model flexibility on Zapier](https://zapier.com/blog/ai-model-flexibility) (2026-07-27)
+- [What is Google Gemini?](https://zapier.com/blog/google-gemini) (2026-07-27)
+- [Zapier vs. MuleSoft comparison: Which is best for your enterprise? [2026]](https://zapier.com/blog/mulesoft-vs-zapier) (2026-07-27)
 - [AI by Zapier: Add agentic AI steps to your workflows](https://zapier.com/blog/ai-by-zapier-guide) (2026-07-22)
-- [How Mach 1 uses Zapier MCP to run AI operations across 25 different companies](https://zapier.com/blog/mach-1-mcp) (2026-07-22)
-- [The 5 best photo editing apps for iPhone and Android (including free options) in 2026](https://zapier.com/blog/best-photo-editing-apps-iphone-android) (2026-07-22)
-- [Zapier for enterprise orchestration: Scaling automation on a trusted platform](https://zapier.com/blog/zapier-for-enterprise-automation) (2026-07-21)
-- [MuleSoft integrations: Capabilities and limitations](https://zapier.com/blog/mulesoft-integrations) (2026-07-21)
 
 </details>
 
@@ -558,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [“Los Movimientos”: The Routing Problem That Nearly Broke My Spirit](https://towardsdatascience.com/los-movimientos-the-routing-problem-that-nearly-broke-my-spirit-2/) (2026-07-27)
+- [Reducing Human Annotation with ML Active Learning](https://towardsdatascience.com/reducing-human-annotation-with-ml-active-learning/) (2026-07-27)
 - [The Most Beautiful Statistic: The History and the Science of the Humble Mean](https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/) (2026-07-27)
 - [How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook](https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/) (2026-07-27)
 - [How to Efficiently Prompt Claude Code](https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/) (2026-07-26)
-- [How to Give an LLM Agent a Browser](https://towardsdatascience.com/giving-an-llm-agent-a-browser/) (2026-07-26)
-- [How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes](https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/) (2026-07-25)
 
 </details>
 
