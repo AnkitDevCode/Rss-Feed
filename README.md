@@ -9,55 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Snapchat now lets you share what you’re listening to in real time](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/) (2026-07-27)
+- [Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/) (2026-07-27)
+- [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/) (2026-07-27)
 - [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) (2026-07-27)
 - [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/) (2026-07-26)
-- [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) (2026-07-26)
-- [Inside one London founder house rewriting the founder-house rules ](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/) (2026-07-26)
-- [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) (2026-07-26)
-
-</details>
-
-<details>
-<summary>💻 Hacker News</summary>
-
-- [How Unix spell ran in 64 kB of RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram) (2026-07-27)
-- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) (2026-07-27)
-- [The old-school way of keeping the summer heat out of your home](https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/) (2026-07-27)
-- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) (2026-07-27)
-- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/) (2026-07-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) (2026-07-27)
+- [Meta is royally screwing up its smart glasses rollout ](https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables) (2026-07-27)
 - [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review) (2026-07-26)
 - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy) (2026-07-26)
 - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password) (2026-07-26)
-- [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con) (2026-07-26)
-- [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale) (2026-07-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Artist sues AI meme generator for selling deeply personal comic as ad template](https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/) (2026-07-27)
 - [First teaser for Apple TV's Neuromancer debuts at SDCC](https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/) (2026-07-26)
 - [SDCC teaser gives us our first good look at Blade Runner 2099](https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/) (2026-07-25)
 - [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) (2026-07-25)
 - [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) (2026-07-25)
-- [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) (2026-07-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: lasers for nuclear fuel, and organ preservation advances](https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/) (2026-07-27)
+- [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) (2026-07-27)
+- [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) (2026-07-27)
+- [Building the enterprise environment for agentic AI](https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/) (2026-07-27)
 - [The quest to keep organs alive outside the body](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/) (2026-07-24)
-- [The Download: an organ transplant breakthrough, and homegrown Chinese chips](https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/) (2026-07-24)
-- [Supercooled kidneys have been transplanted into pigs in a “landmark achievement”](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/) (2026-07-23)
-- [The Download: energy transmission and US threats against Chinese AI](https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/) (2026-07-23)
-- [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/) (2026-07-23)
 
 </details>
 
@@ -86,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Gave Our AI Agents Employee IDs. Here's Why](https://dev.to/mininglamp/we-gave-our-ai-agents-employee-ids-heres-why-14kg) (2026-07-27)
-- [On the idea of turning myself into an AI, and where that leaves the one being overtaken](https://dev.to/matsumotory/on-the-idea-of-turning-myself-into-an-ai-and-where-that-leaves-the-one-being-overtaken-ic0) (2026-07-27)
-- [Build a Palm-Sized POV TV with a Raspberry Pi Pico](https://dev.to/circuitrocks/build-a-palm-sized-pov-tv-with-a-raspberry-pi-pico-2025) (2026-07-27)
-- [How to achieve zero-copy streaming from hyper and h3-quinn into a Wasmtime Wasm component via wasi:http?](https://dev.to/josh_klein/how-to-achieve-zero-copy-streaming-from-hyper-and-h3-quinn-into-a-wasmtime-wasm-component-via-10hl) (2026-07-27)
-- [Day 2 at TOSSConf 2026 — தமிழ் கட்டற்ற மென்பொருள் மாநாடு](https://dev.to/karthick_07/day-2-at-tossconf-2026-tmilll-kttttrrrr-mennnporull-maanaattu-4e9h) (2026-07-27)
+- [I built a memory engine for AI agents. No cloud required.](https://dev.to/ajianaz/i-built-a-memory-engine-for-ai-agents-no-cloud-required-47mo) (2026-07-27)
+- [Archetype: The Chef](https://dev.to/druid628/archetype-the-chef-139c) (2026-07-27)
+- [Evaluating AI in DevOps: Strategies to Identify Effective Tools and Mitigate Risks](https://dev.to/maricode/evaluating-ai-in-devops-strategies-to-identify-effective-tools-and-mitigate-risks-35eg) (2026-07-27)
+- [I built a screen time blocker that has no account, no server, and no idea who you are](https://dev.to/samtj/i-built-a-screen-time-blocker-that-has-no-account-no-server-and-no-idea-who-you-are-2oe0) (2026-07-27)
+- [The Card Said AI](https://dev.to/nabbilkhan/the-card-said-ai-1hbo) (2026-07-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Great Consulting Reset: How Agentic AI Is Rewriting India’s ₹20+ Billion Consulting Industry](https://medium.com/@salilapte/the-great-consulting-reset-how-agentic-ai-is-rewriting-indias-20-billion-consulting-industry-2eed0026b502?source=rss------programming-5) (2026-07-27)
-- [Using Libraries in Lean 4](https://medium.com/@LeanOnMath/using-libraries-in-lean-4-d93de0fd0462?source=rss------programming-5) (2026-07-27)
-- [ Finally A Full-Stack Rust Framework](https://medium.com/rustaceans/finally-a-full-stack-rust-framework-9c99294c24cd?source=rss------programming-5) (2026-07-27)
-- [best custom software development companies Saudi Arabia](https://faizkrm.medium.com/best-custom-software-development-companies-saudi-arabia-f2d94a4f73d4?source=rss------programming-5) (2026-07-27)
-- [Yapay Zeka Yazılımcıları İşinden Etmiyor, İşini Değiştiriyor](https://medium.com/@berkay_agcay/yapay-zeka-yaz%C4%B1l%C4%B1mc%C4%B1lar%C4%B1-i%CC%87%C5%9Finden-etmiyor-i%CC%87%C5%9Fini-de%C4%9Fi%C5%9Ftiriyor-e888bddba4bb?source=rss------programming-5) (2026-07-27)
+- [I Stopped Using Todoist and Built a Task Manager That Lives in My Terminal.](https://medium.com/@tom_38132/i-stopped-using-todoist-and-built-a-task-manager-that-lives-in-my-terminal-705992f931f6?source=rss------programming-5) (2026-07-27)
+- [2 Pointer Pattern — Master Study Guide](https://medium.com/@shreyarathi14/2-pointer-pattern-master-study-guide-8bdc38a3bae4?source=rss------programming-5) (2026-07-27)
+- [Deep dive into SQLAlchemy, Part I: Connections and pooling](https://medium.com/@supernovaprotocol/deep-dive-into-sqlalchemy-part-i-connections-and-pooling-b27b68515b39?source=rss------programming-5) (2026-07-27)
+- [MAXWELL’S QUATERNIONS vs. HEAVISIDE’S VECTOR CALCULUS](https://zachbobby8.medium.com/maxwells-quaternions-vs-heaviside-s-vector-calculus-699907b2843d?source=rss------programming-5) (2026-07-27)
+- [Swift Concurrency Fundamentals #2: Async/Await](https://medium.com/@kbyarkin/swift-concurrency-fundamentals-2-async-await-68267d560c3f?source=rss------programming-5) (2026-07-27)
 
 </details>
 
@@ -295,11 +284,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How do you rewrite C/C++ projects to Rust?](https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/) (2026-07-27)
 - [Reverse Engineering with Hibernate 7.4 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/07/reverse-engineering-with-hibernate-7-4-and-intellij-idea/) (2026-07-27)
 - [IDE Plugin Generator – The New Beginning](https://blog.jetbrains.com/platform/2026/07/ide-plugin-generator-the-new-beginning/) (2026-07-24)
 - [New Bug-Fix Releases Are Available for MPS – 2025.3.1, 2025.2.3, and 2025.1.3](https://blog.jetbrains.com/mps/2026/07/new_bugfix_releases_mps-2025-3-1/) (2026-07-24)
 - [Axum Support in RustRover 2026.2: Build Web Backends Faster](https://blog.jetbrains.com/rust/2026/07/23/axum-support-in-rustrover/) (2026-07-23)
-- [Code Coverage: How to Measure It, Understand the Metrics, and Improve Your Tests](https://blog.jetbrains.com/qodana/2026/07/code-coverage-tests/) (2026-07-23)
 
 </details>
 
@@ -339,22 +328,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-07-27)
 - [Vercel WAF for Blob is now in beta](https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta) (2026-07-24)
 - [Workflow steps now support extended function durations](https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations) (2026-07-24)
 - [Claude Opus 5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway) (2026-07-24)
 - [Evaluation metrics for Vercel Flags](https://vercel.com/changelog/evaluation-metrics-for-vercel-flags) (2026-07-23)
-- [Connect to and manage Sandboxes from the dashboard](https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [We’re open sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
 - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
 - [Introducing Cache Response Rules](https://blog.cloudflare.com/introducing-cache-response-rules/) (2026-07-23)
 - [How the 2026 World Cup affected Internet traffic](https://blog.cloudflare.com/2026-world-cup-internet-traffic/) (2026-07-21)
 - [Cloudflare Internal DNS is now generally available](https://blog.cloudflare.com/internal-dns/) (2026-07-20)
-- [Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ](https://blog.cloudflare.com/wordpress-vulnerabilities/) (2026-07-17)
 
 </details>
 
@@ -459,11 +448,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
 - [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
 - [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
 - [Apollo’s New API IP Allowlist Policy](https://www.apollographql.com/blog/apollos-new-api-ip-allowlist-policy) (2026-07-15)
 - [What’s new in Schema Proposals](https://www.apollographql.com/blog/whats-new-in-schema-proposals) (2026-07-01)
-- [API Key Management now in GraphOS Studio](https://www.apollographql.com/blog/api-key-management-now-in-graphos-studio) (2026-06-02)
 
 </details>
 
@@ -558,55 +547,55 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🤖 AI News</summary>
 
+- [How AI is shortening drug discovery timelines in China](https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/) (2026-07-27)
 - [America’s AI Investment Boom Is Reshaping the Economy](https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/) (2026-07-27)
 - [Meta, Microsoft, Nvidia, IBM, and others back open-weight AI](https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/) (2026-07-24)
 - [OpenAI pushes ChatGPT into patient health records](https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/) (2026-07-24)
 - [OpenAI Presence sells enterprise AI agents with engineers attached](https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/) (2026-07-24)
-- [Nvidia bets physical AI can solve healthcare robotics’ data problem](https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Most Beautiful Statistic: The History and the Science of the Humble Mean](https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/) (2026-07-27)
+- [How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook](https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/) (2026-07-27)
 - [How to Efficiently Prompt Claude Code](https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/) (2026-07-26)
 - [How to Give an LLM Agent a Browser](https://towardsdatascience.com/giving-an-llm-agent-a-browser/) (2026-07-26)
 - [How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes](https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/) (2026-07-25)
-- [The Fluid Simulator That Doesn’t Solve the Fluid Equations](https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/) (2026-07-25)
-- [Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet](https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Opus 5: Near-Frontier Intelligence, On a Dial](https://www.analyticsvidhya.com/blog/2026/07/claude-opus-5-hands-on-review/) (2026-07-27)
 - [Cracking the Data Science Case Study Interview](https://www.analyticsvidhya.com/blog/2026/07/data-science-case-study/) (2026-07-26)
 - [A Complete Guide to AI Red-Teaming (With Garak Tutorial)](https://www.analyticsvidhya.com/blog/2026/07/guide-to-ai-red-teaming/) (2026-07-25)
 - [Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To](https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/) (2026-07-24)
 - [Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context](https://www.analyticsvidhya.com/blog/2026/07/prompt-compression-techniques-guide/) (2026-07-23)
-- [Gemini 3.6 Flash Is Here: The Efficiency Release](https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/) (2026-07-22)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Is KimiClaw a Useful Tool?](https://www.kdnuggets.com/is-kimiclaw-a-useful-tool) (2026-07-27)
+- [7 Steps to Building and Deploying Your First Autonomous Agent](https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent) (2026-07-27)
 - [KDnuggets Weekly Roundup: Week of July 20, 2026](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20) (2026-07-25)
 - [Language Model Hallucination Evaluation with GraphEval](https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval) (2026-07-24)
 - [5 Key Concepts Behind Agentic AI Every Engineer Must Understand](https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand) (2026-07-24)
-- [Getting Started with OmniVoice-Studio](https://www.kdnuggets.com/getting-started-with-omnivoice-studio) (2026-07-23)
-- [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) (2026-07-27)
 - [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) (2026-07-24)
 - [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) (2026-07-23)
 - [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) (2026-07-21)
 - [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) (2026-07-20)
-- [Agentic AI Security: Defending Against Prompt Injection and Tool Misuse](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) (2026-07-17)
 
 </details>
 
@@ -625,7 +614,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <summary>🧠 DeepMind Blog</summary>
 
 - [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) (2026-07-22)
-- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) (2026-07-21)
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) (2026-07-21)
 - [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) (2026-07-17)
 - [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) (2026-07-16)
 - [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/) (2026-07-13)
