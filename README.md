@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/) (2026-07-27)
-- [Apple sued after alleged App Store crypto scam cost users $1.8M](https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/) (2026-07-27)
-- [Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/) (2026-07-27)
-- [Antares raises $470M to build nuclear reactors for the US military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) (2026-07-27)
-- [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/) (2026-07-27)
+- [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/) (2026-07-28)
+- [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/) (2026-07-27)
+- [Thea Energy lands $20M federal grant to build its magnets for fusion reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) (2026-07-27)
+- [As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube](https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/) (2026-07-27)
+- [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) (2026-07-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) (2026-07-27)
-- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli) (2026-07-27)
-- [Exercise works for depression. So why isn't it treated like real medicine?](https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/) (2026-07-27)
-- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/) (2026-07-27)
-- [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/) (2026-07-27)
+- [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283) (2026-07-27)
+- [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home) (2026-07-27)
+- [Netflix employee fired for sharing personal details in retreat trust exercise](https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349) (2026-07-27)
+- [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) (2026-07-27)
+- [DConf 2026 in London](https://dconf.org/2026/index.html) (2026-07-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [X Money is launching in the US starting today](https://www.theverge.com/tech/971649/x-money-launch-elon-musk) (2026-07-27)
+- [Razer’s analog Huntsman V3 Pro is over 20 percent off](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale) (2026-07-27)
+- [Xbox’s huge outage even blocked games on disc](https://www.theverge.com/games/971545/xbox-outage-disc-physical-games) (2026-07-27)
+- [Nanoleaf&#8217;s colorful pegboard and shelf kit is half off](https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale) (2026-07-27)
 - [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies) (2026-07-27)
-- [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal) (2026-07-27)
-- [Amazon&#8217;s trying to launch a global satellite cellphone network in 2028](https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network) (2026-07-27)
-- [This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review) (2026-07-27)
-- [Tariffs didn’t bring manufacturing jobs back to the US](https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada) (2026-07-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Activist charged with felony after giving border agent "duress code" that wiped his phone](https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/) (2026-07-27)
-- [Framework Laptop 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/) (2026-07-27)
-- [What public health professionals can learn from anti-vaccine storytelling](https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/) (2026-07-27)
-- [Artist sues AI meme generator for selling deeply personal comic as ad template](https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/) (2026-07-27)
-- [First teaser for Apple TV's Neuromancer debuts at SDCC](https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/) (2026-07-26)
+- [Microsoft unveils AI security tools it says outperform competing platforms](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/) (2026-07-27)
+- [Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers](https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/) (2026-07-27)
+- [Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies](https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/) (2026-07-27)
+- [iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27](https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/) (2026-07-27)
+- [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/) (2026-07-27)
 
 </details>
 
@@ -64,7 +64,7 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
-- [The harness is all you need (mostly)](https://github.blog/company/the-harness-is-all-you-need-mostly/) (2026-07-27)
+- [The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) (2026-07-27)
 - [GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) (2026-07-27)
 - [The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) (2026-07-23)
 - [Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/) (2026-07-22)
@@ -86,22 +86,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The ten-line binary search that balanced a four-million-item crawl](https://dev.to/shell412/the-ten-line-binary-search-that-balanced-a-four-million-item-crawl-321n) (2026-07-27)
-- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/maniekm/why-sanity-is-the-best-cms-for-the-healthcare-industry-4k6i) (2026-07-27)
-- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad) (2026-07-27)
-- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl) (2026-07-27)
-- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5) (2026-07-27)
+- [O alerta que dizia Error: {}](https://dev.to/alexandre_guimaresfilho/o-alerta-que-dizia-error--2a8h) (2026-07-28)
+- [Python + AWS Lambda: Build Serverless Apps for Free](https://dev.to/qingluan/python-aws-lambda-build-serverless-apps-for-free-i1d) (2026-07-28)
+- [My Chrome extension just got a update](https://dev.to/elkhiar_4780f5eb3f1f84d0b/my-chrome-extension-just-got-a-update-578n) (2026-07-28)
+- [My Chrome extension just got a update
+Hi everyone, i'm the developer behind TabScroll.
+Join
+I built it because I constantly had 30+ tabs open and couldn't find a fast way to switch between them without reaching for the mouse.
+Since the first version, l've](https://dev.to/elkhiar_4780f5eb3f1f84d0b/my-chrome-extension-just-got-a-update-hi-everyone-im-the-developer-behind-tabscroll-join-i-built-2d0a) (2026-07-28)
+- [Shared-Database Multi-Tenancy in Laravel: The Foundation Layer](https://dev.to/nasrulhazim/shared-database-multi-tenancy-in-laravel-the-foundation-layer-4oej) (2026-07-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Know Five Git Commands. Here’s the Other Twelve.](https://medium.com/@sudipparajuli/you-know-five-git-commands-heres-the-other-twelve-5cfa6f68feed?source=rss------programming-5) (2026-07-27)
-- [JWT Security Mistakes I Still See in Production](https://medium.com/skillstuff/jwt-security-mistakes-i-still-see-in-production-8ddb40607d10?source=rss------programming-5) (2026-07-27)
-- [O que eu evitaria ao usar IA em codebases grandes](https://medium.com/@luisbsl/o-que-eu-evitaria-ao-usar-ia-em-codebases-grandes-97db1d74b79b?source=rss------programming-5) (2026-07-27)
-- [Day 1 of building a billion-dollar startup in public before my 17th birthday. ](https://medium.com/@frankmanvideo/day-1-of-building-a-billion-dollar-startup-in-public-before-my-17th-birthday-57c0dc76b632?source=rss------programming-5) (2026-07-27)
-- [From Model Catalog to Production Endpoint: Running Open Models on Microsoft Foundry](https://blog.stackademic.com/from-model-catalog-to-production-endpoint-running-open-models-on-microsoft-foundry-60a01598b6cc?source=rss------programming-5) (2026-07-27)
+- [Claude Opus 5’s Prompt Leaked: 34,000 Tokens Worth Stealing](https://medium.com/@coolercoder/claude-opus-5s-prompt-leaked-34-000-tokens-worth-stealing-717229b170ae?source=rss------programming-5) (2026-07-28)
+- [My Experience Migrating from cmux to Orca: A Powerful Tool for Multi-Agent Parallel Verification](https://githubdaily.medium.com/my-experience-migrating-from-cmux-to-orca-a-powerful-tool-for-multi-agent-parallel-verification-37e662b8c2c5?source=rss------programming-5) (2026-07-28)
+- [Building My First AI Application: Lessons Beyond the Model](https://medium.com/@nshastry00/building-my-first-ai-application-lessons-beyond-the-model-13edb9162bd1?source=rss------programming-5) (2026-07-28)
+- [Maybe You Should Configure a Ruleset: What Git Hooks, CI, and Branch Protection Actually Enforce](https://levelup.gitconnected.com/maybe-you-should-configure-a-ruleset-what-git-hooks-ci-and-branch-protection-actually-enforce-bf3f46d959d7?source=rss------programming-5) (2026-07-28)
+- [He Was Loyal for 18 Years. His Company Asked to Leave in 90 Days](https://medium.com/@gaddamnaveen192/he-was-loyal-for-18-years-his-company-asked-to-leave-in-90-days-a4704e8ea349?source=rss------programming-5) (2026-07-28)
 
 </details>
 
@@ -229,11 +233,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) (2026-07-27)
 - [Content Ingestion & Podcast Video Incident Report ](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) (2026-07-20)
 - [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) (2026-06-10)
 - [Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) (2026-06-03)
 - [Better Experiments with LLM Evals — A funnel, not a fork](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) (2026-05-18)
-- [Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) (2026-05-01)
 
 </details>
 
@@ -317,11 +321,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Claude Opus 5 on GitLab: Reasoning built for the hard tasks](https://about.gitlab.com/blog/claude-opus-5-on-gitlab-duo-agent-platform/) (2026-07-27)
 - [Modernize Java with Cursor and GitLab](https://about.gitlab.com/blog/modernize-java-with-cursor-and-gitlab/) (2026-07-22)
 - [Automate work item assignment with a "Work item created" trigger](https://about.gitlab.com/blog/how-to-use-a-work-item-created-trigger/) (2026-07-20)
 - [GitLab Transcend Hackathon: What developers built on GitLab Orbit](https://about.gitlab.com/blog/gitlab-transcend-hackathon-orbit/) (2026-07-20)
 - [Turn multi-step software delivery into agentic flows you can trust](https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/) (2026-07-16)
-- [GitLab Duo Security Review spots logic flaws scanners miss](https://about.gitlab.com/blog/gitlab-duo-security-review-flow/) (2026-07-16)
 
 </details>
 
@@ -339,11 +343,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Regional inference now available on AI Gateway](https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway) (2026-07-27)
 - [eve adds new Slack event hooks and session controls](https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls) (2026-07-27)
+- [DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities](https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities) (2026-07-27)
 - [WebSocket support for OpenAI Responses API live on AI Gateway](https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway) (2026-07-27)
 - [Nuxt July 2026 security advisory](https://vercel.com/changelog/nuxt-july-2026-security-advisory) (2026-07-27)
-- [Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway](https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway) (2026-07-27)
-- [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-07-27)
 
 </details>
 
