@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) (2026-07-29)
-- [Show HN: Learning Rust by writing a Markdown to HTML compiler](https://andreadimatteo.com/md-to-html-compiler.html) (2026-07-29)
-- [Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]](https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf) (2026-07-29)
-- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html) (2026-07-29)
-- [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/) (2026-07-29)
+- [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers) (2026-07-29)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) (2026-07-29)
+- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html) (2026-07-29)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) (2026-07-29)
+- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/) (2026-07-29)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Audi has a new flagship designed with the US in mind: The 2027 Q9](https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/) (2026-07-29)
 - [Reaction wheel failures leave Swift rescue mission spinning in orbit](https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/) (2026-07-28)
 - [College lab class ends with 32 people on antibiotics for deadly germ exposure](https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/) (2026-07-28)
 - [We now have a better understanding how OpenAI hacked into Hugging Face](https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/) (2026-07-28)
 - [eBay pays $46M to journalists it targeted in bizarre harassment campaign](https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/) (2026-07-28)
-- [Study: Dinosaurs were charbroiled after Chicxulub impact](https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/) (2026-07-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [React usePrevious Hook: Track Previous State & Props (2026)](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7) (2026-07-29)
-- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131) (2026-07-29)
-- [Claude Desktop and Claude Code Are Different Windows States](https://dev.to/agentis/claude-desktop-and-claude-code-are-different-windows-states-228g) (2026-07-29)
-- [x402 Signs the Money, Not the URL. I Checked 18 Fields.](https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a) (2026-07-29)
-- [Stop Rescanning Every Claude Code Transcript](https://dev.to/agentis/stop-rescanning-every-claude-code-transcript-1j6j) (2026-07-29)
+- [Vault cant found What a Live Audit Found That Code Review Never Would](https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e) (2026-07-29)
+- [Facebook Signup APIs Need Inbox Isolation](https://dev.to/kevindev27/facebook-signup-apis-need-inbox-isolation-1468) (2026-07-29)
+- [Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser](https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg) (2026-07-29)
+- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watsonjd/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93) (2026-07-29)
+- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60) (2026-07-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Akyn Programming: Why Programmers Write Poetry Instead of Software](https://medium.com/@dmr.inbox/akyn-programming-why-programmers-write-poetry-instead-of-software-6a78ad5e2610?source=rss------programming-5) (2026-07-29)
-- [The Silent collapse](https://medium.com/@towardexploration/the-silent-collapse-2256bfec6bac?source=rss------programming-5) (2026-07-29)
-- [I Let an AI Agent Run My CI/CD Pipeline for a Month. Here’s What Actually Changed.](https://medium.com/@6666.vishvesh/i-let-an-ai-agent-run-my-ci-cd-pipeline-for-a-month-heres-what-actually-changed-b150fdebe16b?source=rss------programming-5) (2026-07-29)
-- [Why AI Keeps Breaking Your Word Documents, and What Actually Fixes It](https://medium.com/@Thinkfree_inc/why-ai-keeps-breaking-your-word-documents-and-what-actually-fixes-it-2fc277371b24?source=rss------programming-5) (2026-07-29)
-- [Terry Davis, The Brilliant Programmer Who Believed God Spoke To Him Through Code](https://unquestionablycriminal.medium.com/terry-davis-the-brilliant-programmer-who-believed-god-spoke-to-him-through-code-54ed661e90be?source=rss------programming-5) (2026-07-29)
+- [Building an AI-Powered Python Project: A Beginner's Guide | AI With Python 2026 (Part 10)](https://abkarikari23.medium.com/building-an-ai-powered-python-project-a-beginners-guide-ai-with-python-2026-part-10-7c5cfe8f8bce?source=rss------programming-5) (2026-07-29)
+- [Hacking Commands You Need to Know](https://medium.com/illumination/hacking-commands-you-need-to-know-11775b33d7de?source=rss------programming-5) (2026-07-29)
+- [Weaviate DB Workbench: Manage Your Weaviate Vector Database from Any Platform](https://medium.com/@harish.kaparwan/weaviate-db-workbench-manage-your-vector-database-from-any-platform-fa7df64fa4da?source=rss------programming-5) (2026-07-29)
+- [10 Common Programming Mistakes Every Beginner Makes (And How to Avoid Them)](https://medium.com/@dewanjeetrisha/10-common-programming-mistakes-every-beginner-makes-and-how-to-avoid-them-ed841594556f?source=rss------programming-5) (2026-07-29)
+- [One hyphen. That is all it will take to break your production in Spring Boot 4.](https://medium.com/@ferretmartin91/one-hyphen-that-is-all-it-will-take-to-break-your-production-in-spring-boot-4-d5b0f3e17a8c?source=rss------programming-5) (2026-07-29)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 - [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
-- [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Make Your AI Voice Sound More Human and Less Robotic with C# 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp
-) (2026-07-28)
-- [
-How to Handle Background Noise When Using Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
-) (2026-07-28)
-- [
 How to Handle Background Noise When Using Conversation Relay in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
@@ -386,6 +376,16 @@ How to Make Your AI Voice Sound More Human and Less Robotic with PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
 ) (2026-07-23)
+- [
+How to Make Your AI Voice Sound More Human and Less Robotic with Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-nodejs
+) (2026-07-22)
+- [
+How to Handle Background Noise When Using Conversation Relay in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-csharp
+) (2026-07-22)
 
 </details>
 
