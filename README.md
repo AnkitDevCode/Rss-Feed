@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/) (2026-07-30)
-- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/) (2026-07-30)
-- [Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/) (2026-07-30)
+- [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/) (2026-07-30)
+- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four) (2026-07-30)
+- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/) (2026-07-30)
+- [Logic for Programmers](https://logicforprogrammers.com/) (2026-07-30)
 - [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue) (2026-07-30)
-- [The Productivity Mirage](https://frantic.im/mirage/) (2026-07-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Free Audible Credit Value Optimizer — and Why Most Subscribers Waste Their Credits](https://dev.to/ahmed_isam_752b775a50fd90/how-i-built-a-free-audible-credit-value-optimizer-and-why-most-subscribers-waste-their-credits-2ja5) (2026-07-30)
-- [My theme build fails if any color misses WCAG contrast — here's the pipeline](https://dev.to/shadowbox/my-theme-build-fails-if-any-color-misses-wcag-contrast-heres-the-pipelinepublished-true-1c89) (2026-07-30)
-- [Seven government recall feeds, and what it takes to make them agree](https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf) (2026-07-30)
-- [Why I Believe Vibe Coding Is Becoming a Real Engineering skills](https://dev.to/sabeer/why-i-believe-vibe-coding-is-becoming-a-real-engineering-skills-4a6d) (2026-07-30)
-- [`finish_reason=length` Returned Empty Content — and the Error Message Lied to Me](https://dev.to/emmalane/finishreasonlength-returned-empty-content-and-the-error-message-lied-to-me-168n) (2026-07-30)
+- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d) (2026-07-30)
+- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) (2026-07-30)
+- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf) (2026-07-30)
+- [AI Agent Security Audit: From MCP Penetration Testing to LLM Vulnerability Assessment](https://dev.to/correctover/ai-agent-security-audit-from-mcp-penetration-testing-to-llm-vulnerability-assessment-4k40) (2026-07-30)
+- [Memory Sidecar v3.5.1 — Operational Hardening for Agent Memory Infrastructure](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-memory-infrastructure-2goc) (2026-07-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [https://medium.com/@masouddonyadost22https://medium.com/Masouddonyadost](https://medium.com/@masouddonyadost22/https-medium-com-masouddonyadost22https-medium-com-masouddonyadost-f4e9a6d1a41b?source=rss------programming-5) (2026-07-30)
-- [Code Splitting in React: Load Only What You Need](https://medium.com/@dulana.m.waniga/code-splitting-in-react-load-only-what-you-need-a00a5eadc576?source=rss------programming-5) (2026-07-30)
-- [Pengalaman saya PKL di instansi selama 1 minggu](https://javascript.plainenglish.io/pengalaman-saya-pkl-di-instansi-selama-1-minggu-7cea81343e3a?source=rss------programming-5) (2026-07-30)
-- [Subagents: Make Claude Parallelize Its Own Work](https://medium.com/claude-hacks/subagents-make-claude-parallelize-its-own-work-061b6616d0b4?source=rss------programming-5) (2026-07-30)
-- [What Makes Software Good?](https://medium.com/chifi-media/what-makes-software-good-258880ebd359?source=rss------programming-5) (2026-07-30)
+- [7 Python Tricks That Make You a More Efficient Python Developer](https://python.plainenglish.io/7-python-tricks-that-make-you-a-more-efficient-python-developer-984a3bb0a623?source=rss------programming-5) (2026-07-30)
+- [Why The Best Engineers Write Less Code](https://amjohnphilip.medium.com/why-the-best-engineers-write-less-code-15963c39e143?source=rss------programming-5) (2026-07-30)
+- [Software Architecture in 2026: Navigating the AI & Edge Frontier with Platform Engineering](https://medium.com/@emediongjonah66/software-architecture-in-2026-navigating-the-ai-edge-frontier-with-platform-engineering-8036656a0cbe?source=rss------programming-5) (2026-07-30)
+- [The rendering engine: how a no-code project becomes a smooth native app](https://hellomathieup.medium.com/the-rendering-engine-how-a-no-code-project-becomes-a-smooth-native-app-a229b266eeb2?source=rss------programming-5) (2026-07-30)
+- [From Prompt Engineering to Graph Engineering: A Visual Guide to AI’s Evolution](https://medium.com/ai-engineering-simplified/from-prompt-engineering-to-graph-engineering-a-visual-guide-to-ais-evolution-05cd1a4e8399?source=rss------programming-5) (2026-07-30)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Grok Voice Think Fast 2.0 now available on AI Gateway](https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway) (2026-07-29)
 - [Edge Config is now Global Config](https://vercel.com/changelog/edge-config-is-now-global-config) (2026-07-29)
 - [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support) (2026-07-29)
 - [Sign in with ChatGPT is now available on Vercel](https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel) (2026-07-29)
 - [Additional custom environments can now be purchased](https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased) (2026-07-29)
-- [Discover and install eve integrations from the CLI](https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli) (2026-07-29)
 
 </details>
 
