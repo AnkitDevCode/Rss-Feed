@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Claude Opus 5 became downright ruthless when tasked with running a vending machine](https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/) (2026-07-29)
-- [Sorry, haters. Ferrari’s first EV is doing just fine](https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/) (2026-07-29)
-- [Waymo robotaxis are starting to return to freeways](https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/) (2026-07-29)
-- [US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security](https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/) (2026-07-29)
-- [Google brings its age-assurance technology to Android developers worldwide](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/) (2026-07-29)
+- [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/) (2026-07-30)
+- [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/) (2026-07-29)
+- [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/) (2026-07-29)
+- [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/) (2026-07-29)
+- [Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/) (2026-07-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) (2026-07-29)
-- [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/) (2026-07-29)
-- [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/) (2026-07-29)
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) (2026-07-29)
-- [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) (2026-07-29)
+- [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/) (2026-07-30)
+- [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/) (2026-07-30)
+- [Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/) (2026-07-30)
+- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue) (2026-07-30)
+- [The Productivity Mirage](https://frantic.im/mirage/) (2026-07-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [What’s the catch with the Apple Upgrade program?](https://www.theverge.com/tech/972583/apple-upgrade-program-deal) (2026-07-29)
-- [OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview) (2026-07-29)
-- [The US government just banned Roombas](https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums) (2026-07-29)
-- [Full school day cellphone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever) (2026-07-29)
-- [The Ferrari Luce has at least 500 fans](https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales) (2026-07-29)
+- [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed) (2026-07-29)
+- [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents) (2026-07-29)
+- [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings) (2026-07-29)
+- [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit) (2026-07-29)
+- [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale) (2026-07-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google begins global rollout of age verification API in Google Play](https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/) (2026-07-29)
-- [Elon Musk’s xAI is trying to sue its way out of a Grok reckoning](https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/) (2026-07-29)
-- [Yet more qubit tech: New quantum dot options, diamond vacancies ](https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/) (2026-07-29)
-- [Actually, Starliner might fly into space this year](https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/) (2026-07-29)
-- [Anthropic is finding bugs faster than Microsoft can fix them](https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/) (2026-07-29)
+- [Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/) (2026-07-29)
+- [Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper](https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/) (2026-07-29)
+- [Who wins and who loses after US bans foreign robots?](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/) (2026-07-29)
+- [Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims](https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/) (2026-07-29)
+- [Customize Ars your way with an Ars Pro subscription](https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/) (2026-07-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Validating JSON Payloads Against a Schema Before They Hit Your Service](https://dev.to/lizely/validating-json-payloads-against-a-schema-before-they-hit-your-service-1d39) (2026-07-29)
-- [AI Made Code Review the Bottleneck. Attach the UI to Your PR](https://dev.to/kevinccbsg/ai-made-code-review-the-bottleneck-attach-the-ui-to-your-pr-575) (2026-07-29)
-- [Designing a Scalable Multi-Store Retail Platform: Architecture Challenges and Solutions](https://dev.to/mercyantony/designing-a-scalable-multi-store-retail-platform-architecture-challenges-and-solutions-4m24) (2026-07-29)
-- [Apache Data Lakehouse Weekly: July 21 to July 29, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-21-to-july-29-2026-p73) (2026-07-29)
-- [Every Session Starts From Zero. I Kept Forgetting That.](https://dev.to/jeelvankhede/every-session-starts-from-zero-i-kept-forgetting-that-1gj6) (2026-07-29)
+- [How I Built a Free Audible Credit Value Optimizer — and Why Most Subscribers Waste Their Credits](https://dev.to/ahmed_isam_752b775a50fd90/how-i-built-a-free-audible-credit-value-optimizer-and-why-most-subscribers-waste-their-credits-2ja5) (2026-07-30)
+- [My theme build fails if any color misses WCAG contrast — here's the pipeline](https://dev.to/shadowbox/my-theme-build-fails-if-any-color-misses-wcag-contrast-heres-the-pipelinepublished-true-1c89) (2026-07-30)
+- [Seven government recall feeds, and what it takes to make them agree](https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf) (2026-07-30)
+- [Why I Believe Vibe Coding Is Becoming a Real Engineering skills](https://dev.to/sabeer/why-i-believe-vibe-coding-is-becoming-a-real-engineering-skills-4a6d) (2026-07-30)
+- [`finish_reason=length` Returned Empty Content — and the Error Message Lied to Me](https://dev.to/emmalane/finishreasonlength-returned-empty-content-and-the-error-message-lied-to-me-168n) (2026-07-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Best Free AI Tools in 2026: 7 Apps You Should Try Today](https://medium.com/@mdkiyamkhanriyan/best-free-ai-tools-in-2026-7-apps-you-should-try-today-929c696ef3d2?source=rss------programming-5) (2026-07-29)
-- [MCP vs. A2A: Stop Overcomplicating Multi-Agent Architecture](https://medium.com/@brian.moraboza/mcp-vs-a2a-stop-overcomplicating-multi-agent-architecture-e341c026ce06?source=rss------programming-5) (2026-07-29)
-- [I used EXISTS to optimize a SQL query from 18 seconds to 6 seconds, and my colleague thought I had…](https://medium.com/@umeshcapg/i-used-exists-to-optimize-a-sql-query-from-18-seconds-to-6-seconds-and-my-colleague-thought-i-had-1066c6a8f46e?source=rss------programming-5) (2026-07-29)
-- [Why Do 404, 500, and 429 Errors Happen?](https://medium.com/@sailajak473/why-do-404-500-and-429-errors-happen-3371730923cc?source=rss------programming-5) (2026-07-29)
-- [Fat JWT vs Skinny JWT: The Authentication Debate Every Software Architect Must Understand](https://medium.com/@umeshcapg/fat-jwt-vs-skinny-jwt-the-authentication-debate-every-software-architect-must-understand-77aaa70eb9e7?source=rss------programming-5) (2026-07-29)
+- [https://medium.com/@masouddonyadost22https://medium.com/Masouddonyadost](https://medium.com/@masouddonyadost22/https-medium-com-masouddonyadost22https-medium-com-masouddonyadost-f4e9a6d1a41b?source=rss------programming-5) (2026-07-30)
+- [Code Splitting in React: Load Only What You Need](https://medium.com/@dulana.m.waniga/code-splitting-in-react-load-only-what-you-need-a00a5eadc576?source=rss------programming-5) (2026-07-30)
+- [Pengalaman saya PKL di instansi selama 1 minggu](https://javascript.plainenglish.io/pengalaman-saya-pkl-di-instansi-selama-1-minggu-7cea81343e3a?source=rss------programming-5) (2026-07-30)
+- [Subagents: Make Claude Parallelize Its Own Work](https://medium.com/claude-hacks/subagents-make-claude-parallelize-its-own-work-061b6616d0b4?source=rss------programming-5) (2026-07-30)
+- [What Makes Software Good?](https://medium.com/chifi-media/what-makes-software-good-258880ebd359?source=rss------programming-5) (2026-07-30)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) (2026-07-29)
 - [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) (2026-07-14)
 - [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
 - [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) (2026-07-13)
 - [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/) (2026-07-08)
-- [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) (2026-06-26)
 
 </details>
 
@@ -308,9 +308,9 @@
 
 - [Visual Studio Code 1.131](https://code.visualstudio.com/updates/v1_131) (2026-07-29)
 - [Visual Studio Code 1.132 (Insiders)](https://code.visualstudio.com/updates/v1_132) (2026-07-29)
+- [MAI-Code-1-Flash: early results from real developer workflows](https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash) (2026-07-29)
 - [Visual Studio Code 1.130](https://code.visualstudio.com/updates/v1_130) (2026-07-22)
 - [Visual Studio Code 1.129](https://code.visualstudio.com/updates/v1_129) (2026-07-15)
-- [Visual Studio Code 1.128](https://code.visualstudio.com/updates/v1_128) (2026-07-08)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Edge Config is now Global Config](https://vercel.com/changelog/edge-config-is-now-global-config) (2026-07-29)
 - [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support) (2026-07-29)
 - [Sign in with ChatGPT is now available on Vercel](https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel) (2026-07-29)
 - [Additional custom environments can now be purchased](https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased) (2026-07-29)
 - [Discover and install eve integrations from the CLI](https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli) (2026-07-29)
-- [Vercel Sandbox supports forking](https://vercel.com/changelog/vercel-sandbox-supports-forking) (2026-07-28)
 
 </details>
 
@@ -485,7 +485,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 - [The best webinar software for marketers in 2026](https://zapier.com/blog/best-webinar-software) (2026-07-29)
 - [Dropbox vs. Google Drive: Which is right for you? [2026]](https://zapier.com/blog/dropbox-vs-google-drive) (2026-07-29)
 - [The best productivity apps for Mac in 2026](https://zapier.com/blog/best-productivity-apps-mac) (2026-07-29)
-- [How to build a secure automated system on Zapier](https://zapier.com/blog/how-to-build-automated-system-on-zapier) (2026-07-28)
+- [AI workflow automation: What it is and how to get started](https://zapier.com/blog/ai-workflows) (2026-07-29)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
 - [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) (2026-07-23)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
-- [Guardoc Health processes clinical documentation using Amazon Nova models](https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/) (2026-07-28)
-- [Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty ](https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/) (2026-07-28)
-- [How AI is shortening drug discovery timelines in China](https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/) (2026-07-27)
 
 </details>
 
