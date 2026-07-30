@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/) (2026-07-30)
-- [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/) (2026-07-29)
-- [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/) (2026-07-29)
-- [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/) (2026-07-29)
-- [Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/) (2026-07-29)
+- [FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap](https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/) (2026-07-30)
+- [Zoox clears final federal hurdle to launch paid robotaxi service](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/) (2026-07-30)
+- [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/) (2026-07-30)
+- [Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks](https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/) (2026-07-30)
+- [Dili raises $21.7M to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/) (2026-07-30)
-- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four) (2026-07-30)
-- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/) (2026-07-30)
-- [Logic for Programmers](https://logicforprogrammers.com/) (2026-07-30)
-- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue) (2026-07-30)
+- [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users) (2026-07-30)
+- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312) (2026-07-30)
+- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) (2026-07-30)
+- [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai) (2026-07-30)
+- [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Spotify Running Mode helps match tunes to tempo](https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists) (2026-07-30)
+- [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories) (2026-07-30)
+- [A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera](https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review) (2026-07-30)
+- [SwitchBot makes a better fan](https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan) (2026-07-30)
 - [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed) (2026-07-29)
-- [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents) (2026-07-29)
-- [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings) (2026-07-29)
-- [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit) (2026-07-29)
-- [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale) (2026-07-29)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: tricking LLMs, and reviving geothermal plants](https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/) (2026-07-30)
+- [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) (2026-07-30)
 - [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/) (2026-07-29)
 - [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/) (2026-07-29)
 - [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) (2026-07-29)
-- [The Download: OpenAI’s predictable hack, and an AI stock sell-off](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/) (2026-07-28)
-- [Samsung’s chip workers are jumping ship to rival SK Hynix ](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) (2026-07-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d) (2026-07-30)
-- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) (2026-07-30)
-- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf) (2026-07-30)
-- [AI Agent Security Audit: From MCP Penetration Testing to LLM Vulnerability Assessment](https://dev.to/correctover/ai-agent-security-audit-from-mcp-penetration-testing-to-llm-vulnerability-assessment-4k40) (2026-07-30)
-- [Memory Sidecar v3.5.1 — Operational Hardening for Agent Memory Infrastructure](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-memory-infrastructure-2goc) (2026-07-30)
+- [Editing an ext4 Partition Directly from macOS (No Linux VM Required)](https://dev.to/toyama0919/editing-an-ext4-partition-directly-from-macos-no-linux-vm-required-3mic) (2026-07-30)
+- [How I built a multi-provider proxy for Grok Build!](https://dev.to/wetidom/how-i-built-a-multi-provider-proxy-for-grok-build-4kg2) (2026-07-30)
+- [Enforcing Request Policy at the Runtime Boundary](https://dev.to/philipgreat/enforcing-request-policy-at-the-runtime-boundary-1ff7) (2026-07-30)
+- [Aligning NHI Governance With Financial Services Regulatory Expectations](https://dev.to/gitguardian/aligning-nhi-governance-with-financial-services-regulatory-expectations-g3f) (2026-07-30)
+- [Waymo Ojai Debuts a Three-Screen Cabin and Sixth-Generation Driver in Rider Rollout](https://dev.to/alifar/waymo-ojai-debuts-a-three-screen-cabin-and-sixth-generation-driver-in-rider-rollout-4cp8) (2026-07-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python Tricks That Make You a More Efficient Python Developer](https://python.plainenglish.io/7-python-tricks-that-make-you-a-more-efficient-python-developer-984a3bb0a623?source=rss------programming-5) (2026-07-30)
-- [Why The Best Engineers Write Less Code](https://amjohnphilip.medium.com/why-the-best-engineers-write-less-code-15963c39e143?source=rss------programming-5) (2026-07-30)
-- [Software Architecture in 2026: Navigating the AI & Edge Frontier with Platform Engineering](https://medium.com/@emediongjonah66/software-architecture-in-2026-navigating-the-ai-edge-frontier-with-platform-engineering-8036656a0cbe?source=rss------programming-5) (2026-07-30)
-- [The rendering engine: how a no-code project becomes a smooth native app](https://hellomathieup.medium.com/the-rendering-engine-how-a-no-code-project-becomes-a-smooth-native-app-a229b266eeb2?source=rss------programming-5) (2026-07-30)
-- [From Prompt Engineering to Graph Engineering: A Visual Guide to AI’s Evolution](https://medium.com/ai-engineering-simplified/from-prompt-engineering-to-graph-engineering-a-visual-guide-to-ais-evolution-05cd1a4e8399?source=rss------programming-5) (2026-07-30)
+- [From a Simple Contact Form to Building My Own SaaS: The Story Behind PostDrop](https://medium.com/@mayankjoshi.in.123/from-a-simple-contact-form-to-building-my-own-saas-the-story-behind-postdrop-fedc3ff9438b?source=rss------programming-5) (2026-07-30)
+- [Your CLAUDE.md Is the Wrong Place for Most of Your Rules](https://medium.com/@reactjsbd/your-claude-md-is-the-wrong-place-for-most-of-your-rules-c6978997af51?source=rss------programming-5) (2026-07-30)
+- [12 Claude Code Features That Actually Change Your Workflow](https://medium.com/@sageholloway/12-claude-code-features-that-actually-change-your-workflow-05f16517d424?source=rss------programming-5) (2026-07-30)
+- [In Application, Style, JS files versioning is mainly because of CDN cache ?](https://medium.com/@piyalidas.it/in-application-style-js-files-versioning-is-mainly-because-of-cdn-cache-034954ebd80e?source=rss------programming-5) (2026-07-30)
+- [What Actually Happens When You Run a Python Program?](https://blog.stackademic.com/what-actually-happens-when-you-run-a-python-program-06b5b41bb8fa?source=rss------programming-5) (2026-07-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/) (2026-07-30)
 - [Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) (2026-07-28)
 - [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) (2026-07-27)
 - [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/) (2026-07-27)
 - [At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners](https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/) (2026-07-24)
-- [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/) (2026-07-23)
 
 </details>
 
@@ -350,17 +350,22 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform](https://blog.cloudflare.com/cdnjs-dev-platform-migration/) (2026-07-30)
 - [Post-quantum authentication to origins is now supported](https://blog.cloudflare.com/post-quantum-authentication-to-origins/) (2026-07-29)
 - [Natural disasters and government interference: examining Q2 2026’s major Internet disruption events](https://blog.cloudflare.com/q2-2026-internet-disruption-summary/) (2026-07-28)
 - [We’re open-sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
 - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
-- [Introducing Cache Response Rules](https://blog.cloudflare.com/introducing-cache-response-rules/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+WhatsApp just changed how customers identify themselves. Here's what to do about it
+](
+https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-identify-themselves
+) (2026-07-29)
 - [
 How to Make Your AI Voice Sound More Human and Less Robotic with C# 
 ](
@@ -372,20 +377,15 @@ How to Handle Background Noise When Using Conversation Relay
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
 ) (2026-07-28)
 - [
+What is AI agent orchestration? How it works in 2026
+](
+https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
+) (2026-07-27)
+- [
 How to Handle Background Noise When Using Conversation Relay in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php
 ) (2026-07-24)
-- [
-How to Handle Background Noise When Using Conversation Relay in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-nodejs
-) (2026-07-23)
-- [
-How to Make Your AI Voice Sound More Human and Less Robotic with PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php
-) (2026-07-23)
 
 </details>
 
@@ -485,7 +485,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 - [The best webinar software for marketers in 2026](https://zapier.com/blog/best-webinar-software) (2026-07-29)
 - [Dropbox vs. Google Drive: Which is right for you? [2026]](https://zapier.com/blog/dropbox-vs-google-drive) (2026-07-29)
 - [The best productivity apps for Mac in 2026](https://zapier.com/blog/best-productivity-apps-mac) (2026-07-29)
-- [AI workflow automation: What it is and how to get started](https://zapier.com/blog/ai-workflows) (2026-07-29)
+- [What happens to a lawyer's business model when AI makes him 5x faster](https://zapier.com/blog/damian-guzman-fte-legal-mcp) (2026-07-29)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 <details>
 <summary>💬 Slack API</summary>
 
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
-- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Simplified View of the Jacobian Conjecture](https://towardsdatascience.com/a-simplified-view-of-the-jacobian-conjecture/) (2026-07-30)
+- [How to Decode the Temperature Parameter in LLMs](https://towardsdatascience.com/decoding-the-temperature-parameter-in-llms/) (2026-07-30)
 - [Prompt Engineering Is Solved—Prompt Management Isn’t](https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/) (2026-07-29)
 - [Why Your Best Predictive Model Gives the Wrong Treatment Effect](https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/) (2026-07-29)
 - [Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search](https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/) (2026-07-29)
-- [Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization](https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-1-normalization/) (2026-07-29)
-- [How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon](https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/) (2026-07-28)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter) (2026-07-30)
 - [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online) (2026-07-29)
 - [5 Must-Read Resources for Mastering Small Language Models](https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models) (2026-07-29)
 - [An Introductory Guide to Practical Constraint Decoding](https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding) (2026-07-28)
 - [5 Best AI Tools for Data Analysis You Should Try in 2026](https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026) (2026-07-28)
-- [Is KimiClaw a Useful Tool?](https://www.kdnuggets.com/is-kimiclaw-a-useful-tool) (2026-07-27)
 
 </details>
 
