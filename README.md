@@ -9,99 +9,99 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap](https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/) (2026-07-30)
-- [Zoox clears final federal hurdle to launch paid robotaxi service](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/) (2026-07-30)
-- [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/) (2026-07-30)
-- [Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks](https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/) (2026-07-30)
-- [Dili raises $21.7M to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/) (2026-07-30)
+- [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) (2026-07-30)
+- [Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/) (2026-07-30)
+- [LinkedIn adds a button to report AI-generated ‘slop’](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/) (2026-07-30)
+- [Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/) (2026-07-30)
+- [Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users) (2026-07-30)
-- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312) (2026-07-30)
-- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) (2026-07-30)
-- [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai) (2026-07-30)
-- [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/) (2026-07-30)
+- [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) (2026-07-30)
+- [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale) (2026-07-30)
+- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/) (2026-07-30)
+- [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway) (2026-07-30)
+- [Show HN: Tally – check a spreadsheet's numbers against their source, in-browser](https://tally.jiegou.ai/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Spotify Running Mode helps match tunes to tempo](https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists) (2026-07-30)
-- [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories) (2026-07-30)
-- [A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera](https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review) (2026-07-30)
-- [SwitchBot makes a better fan](https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan) (2026-07-30)
-- [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed) (2026-07-29)
+- [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale) (2026-07-30)
+- [LinkedIn actually adds a ‘seems like AI slop’ button](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button) (2026-07-30)
+- [Govee&#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale) (2026-07-30)
+- [NASA’s Curiosity rover found a ‘sea of polygons’ on Mars](https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons) (2026-07-30)
+- [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body) (2026-07-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Quantum computers outperform classical ones, with results you can trust](https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/) (2026-07-30)
+- [New MCP specification addresses the main barrier to enterprise adoption](https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/) (2026-07-30)
 - [Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/) (2026-07-29)
 - [Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper](https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/) (2026-07-29)
 - [Who wins and who loses after US bans foreign robots?](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/) (2026-07-29)
-- [Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims](https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/) (2026-07-29)
-- [Customize Ars your way with an Ars Pro subscription](https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/) (2026-07-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) (2026-07-30)
 - [The Download: tricking LLMs, and reviving geothermal plants](https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/) (2026-07-30)
 - [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) (2026-07-30)
 - [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/) (2026-07-29)
 - [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/) (2026-07-29)
-- [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) (2026-07-29)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Stacked sessions and pull requests in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/) (2026-07-30)
 - [Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/) (2026-07-29)
 - [Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) (2026-07-28)
 - [The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) (2026-07-27)
 - [GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) (2026-07-27)
-- [The case for a cooldown: Why Dependabot now waits before issuing version updates](https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your trusted knowledge layer: Introducing Stack Internal's new platform experience​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/) (2026-07-30)
 - [Developers are attached to tools because tools encode trust​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) (2026-07-29)
 - [You need reliable AI context for your site reliability​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/) (2026-07-28)
 - [No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/) (2026-07-24)
 - [Partnerships can keep open source sustainable​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/) (2026-07-24)
-- [The future of development is full-stack​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌​​﻿​﻿‌‍‌‍​﻿‍​‌‍​‌‌‍‌‌‌‍‌‌​‍﻿‌​﻿‍​​﻿​​​﻿‍​‌‍‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍​﻿​﻿‌‍‌‍‌​‌‍​‍​﻿‌﻿​﻿‍​‌‍‌​​﻿​﻿​﻿‍​​﻿​‌​﻿​‌‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌​​﻿​﻿‌‍‌‍​﻿‍​‌‍​‌‌‍‌‌‌‍‌‌​‍﻿‌​﻿‍​​﻿​​​﻿‍​‌‍‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍​﻿​﻿‌‍‌‍‌​‌‍​‍​﻿‌﻿​﻿‍​‌‍‌​​﻿​﻿​﻿‍​​﻿​‌​﻿​‌‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/) (2026-07-21)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Editing an ext4 Partition Directly from macOS (No Linux VM Required)](https://dev.to/toyama0919/editing-an-ext4-partition-directly-from-macos-no-linux-vm-required-3mic) (2026-07-30)
-- [How I built a multi-provider proxy for Grok Build!](https://dev.to/wetidom/how-i-built-a-multi-provider-proxy-for-grok-build-4kg2) (2026-07-30)
-- [Enforcing Request Policy at the Runtime Boundary](https://dev.to/philipgreat/enforcing-request-policy-at-the-runtime-boundary-1ff7) (2026-07-30)
-- [Aligning NHI Governance With Financial Services Regulatory Expectations](https://dev.to/gitguardian/aligning-nhi-governance-with-financial-services-regulatory-expectations-g3f) (2026-07-30)
-- [Waymo Ojai Debuts a Three-Screen Cabin and Sixth-Generation Driver in Rider Rollout](https://dev.to/alifar/waymo-ojai-debuts-a-three-screen-cabin-and-sixth-generation-driver-in-rider-rollout-4cp8) (2026-07-30)
+- [PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8) (2026-07-30)
+- [What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip) (2026-07-30)
+- [Your Client's Contract Says No AI. What You Can Still Do.](https://dev.to/layerz/your-clients-contract-says-no-ai-what-you-can-still-do-50aa) (2026-07-30)
+- [Why My Game Worked on Itch.io but Died on GitHub Clone (The .gitignore Trap) 🤡](https://dev.to/weirdcodesofficial/moksha-devlog-why-my-game-worked-on-itchio-but-died-on-github-clone-the-gitignore-trap-hel) (2026-07-30)
+- [Why AI Agents Lose Their Memory And How MemoFS Solves It](https://dev.to/codingsimba/why-ai-agents-lose-their-memory-and-how-memofs-solves-it-5h0o) (2026-07-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From a Simple Contact Form to Building My Own SaaS: The Story Behind PostDrop](https://medium.com/@mayankjoshi.in.123/from-a-simple-contact-form-to-building-my-own-saas-the-story-behind-postdrop-fedc3ff9438b?source=rss------programming-5) (2026-07-30)
-- [Your CLAUDE.md Is the Wrong Place for Most of Your Rules](https://medium.com/@reactjsbd/your-claude-md-is-the-wrong-place-for-most-of-your-rules-c6978997af51?source=rss------programming-5) (2026-07-30)
-- [12 Claude Code Features That Actually Change Your Workflow](https://medium.com/@sageholloway/12-claude-code-features-that-actually-change-your-workflow-05f16517d424?source=rss------programming-5) (2026-07-30)
-- [In Application, Style, JS files versioning is mainly because of CDN cache ?](https://medium.com/@piyalidas.it/in-application-style-js-files-versioning-is-mainly-because-of-cdn-cache-034954ebd80e?source=rss------programming-5) (2026-07-30)
-- [What Actually Happens When You Run a Python Program?](https://blog.stackademic.com/what-actually-happens-when-you-run-a-python-program-06b5b41bb8fa?source=rss------programming-5) (2026-07-30)
+- [Kimi K3: Too Big to Run](https://pub.towardsai.net/kimi-k3-too-big-to-run-19ad84dd2994?source=rss------programming-5) (2026-07-30)
+- [[Rust Guide] 1.2 Basic Understanding of Rust and Printing “Hello World”](https://medium.com/@stanyin64/rust-guide-1-2-basic-understanding-of-rust-and-printing-hello-world-908309e235b7?source=rss------programming-5) (2026-07-30)
+- [Getting Reliable JSON Out of an LLM in Production](https://medium.com/@techpotions/getting-reliable-json-out-of-an-llm-in-production-c8963051b375?source=rss------programming-5) (2026-07-30)
+- [Why Your Niche Doesn’t Matter as Much as You Think](https://medium.com/@authenticbozt/why-your-niche-doesnt-matter-as-much-as-you-think-caa3f80e96fc?source=rss------programming-5) (2026-07-30)
+- [Block AI Crawlers: The 15 Bots That Matter](https://medium.com/@techpotions/block-ai-crawlers-the-15-bots-that-matter-68db14ccd898?source=rss------programming-5) (2026-07-30)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Grok Voice Think Fast 2.0 now available on AI Gateway](https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway) (2026-07-29)
-- [Edge Config is now Global Config](https://vercel.com/changelog/edge-config-is-now-global-config) (2026-07-29)
-- [AI Gateway adds unified fast mode support](https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support) (2026-07-29)
-- [Sign in with ChatGPT is now available on Vercel](https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel) (2026-07-29)
-- [Additional custom environments can now be purchased](https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased) (2026-07-29)
+- [Server-Timing response headers will pass through to the client](https://vercel.com/changelog/server-timing-header) (2026-07-30)
+- [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox) (2026-07-30)
+- [Turborepo and Vercel Remote Cache now support OpenID Connect (OIDC)](https://vercel.com/changelog/turborepo-and-remote-cache-now-support-openid-connect-oidc) (2026-07-30)
+- [AI Gateway: GPT-5.6 pricing and speed updates](https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates) (2026-07-30)
+- [Deployments are now up to 7 seconds faster](https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster) (2026-07-30)
 
 </details>
 
@@ -426,11 +426,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Search encrypted data with Prisma 8 and CipherStash](https://www.prisma.io/blog/search-encrypted-data-with-prisma-next-and-cipherstash) (2026-07-30)
+- [Don't Let Your AI Agent Delete Your Production Database | Prisma 8](https://www.prisma.io/blog/stop-your-ai-agent-dropping-your-database) (2026-07-30)
 - [How to Make Your Docs Agent-Ready: llms.txt, Parity, MCP](https://www.prisma.io/blog/make-your-docs-agent-ready) (2026-07-24)
 - [Ship risky schema changes with per-branch databases](https://www.prisma.io/blog/ship-risky-schema-changes-without-a-shared-staging-database) (2026-07-24)
 - [Postgres Full-Text Search Instead of Elasticsearch](https://www.prisma.io/blog/you-dont-need-elasticsearch-postgres-already-has-full-text-search) (2026-07-21)
-- [Extending Prisma Next with Typed Postgres ltree](https://www.prisma.io/blog/prisma-next-ltree-extension) (2026-07-20)
-- [AGENTS.md for Databases: Rules for Safe, Fast Coding Agents](https://www.prisma.io/blog/agents-md-for-databases) (2026-07-17)
 
 </details>
 
@@ -481,11 +481,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [AI integration: How to bring AI into your workflows](https://zapier.com/blog/ai-integration) (2026-07-30)
+- [What is enterprise AI? And how to implement it](https://zapier.com/blog/enterprise-ai) (2026-07-30)
 - [The best mind mapping software in 2026](https://zapier.com/blog/best-mind-mapping-software) (2026-07-29)
 - [The best webinar software for marketers in 2026](https://zapier.com/blog/best-webinar-software) (2026-07-29)
 - [Dropbox vs. Google Drive: Which is right for you? [2026]](https://zapier.com/blog/dropbox-vs-google-drive) (2026-07-29)
-- [The best productivity apps for Mac in 2026](https://zapier.com/blog/best-productivity-apps-mac) (2026-07-29)
-- [What happens to a lawyer's business model when AI makes him 5x faster](https://zapier.com/blog/damian-guzman-fte-legal-mcp) (2026-07-29)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
-- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
+- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -536,66 +536,77 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/) (2026-07-30)
 - [PyTorch Foundation Flare Pin Community Design Contest](https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest/) (2026-07-28)
 - [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/) (2026-07-23)
 - [Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects](https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects/) (2026-07-22)
 - [PyTorch Conference North America Schedule Is Live](https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/) (2026-07-21)
-- [Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box](https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/) (2026-07-15)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
 - [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure) (2026-07-28)
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
-- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) (2026-07-23)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
+- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
+- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
+- [Guardoc Health processes clinical documentation using Amazon Nova models](https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/) (2026-07-28)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Python Ecosystem That Changed AI Development](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (2026-07-30)
+- [How to Organize All of Your Coding Agent Tasks](https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/) (2026-07-30)
+- [How to Build a Context Layer and a Company Brain](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/) (2026-07-30)
 - [A Simplified View of the Jacobian Conjecture](https://towardsdatascience.com/a-simplified-view-of-the-jacobian-conjecture/) (2026-07-30)
 - [How to Decode the Temperature Parameter in LLMs](https://towardsdatascience.com/decoding-the-temperature-parameter-in-llms/) (2026-07-30)
-- [Prompt Engineering Is Solved—Prompt Management Isn’t](https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/) (2026-07-29)
-- [Why Your Best Predictive Model Gives the Wrong Treatment Effect](https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/) (2026-07-29)
-- [Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search](https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/) (2026-07-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Code CLI Commands I Wish I Had Known Sooner](https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/) (2026-07-30)
 - [How to Create Custom Skills in Claude: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/) (2026-07-29)
 - [Graph Engineering for AI Agents: Beyond the Single-Agent Loop](https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/) (2026-07-28)
 - [Claude Opus 5: Near-Frontier Intelligence, On a Dial](https://www.analyticsvidhya.com/blog/2026/07/claude-opus-5-hands-on-review/) (2026-07-27)
 - [Cracking the Data Science Case Study Interview](https://www.analyticsvidhya.com/blog/2026/07/data-science-case-study/) (2026-07-26)
-- [A Complete Guide to AI Red-Teaming (With Garak Tutorial)](https://www.analyticsvidhya.com/blog/2026/07/guide-to-ai-red-teaming/) (2026-07-25)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [A Beginner’s Guide to Working with Claude Design](https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design) (2026-07-30)
 - [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter) (2026-07-30)
 - [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online) (2026-07-29)
 - [5 Must-Read Resources for Mastering Small Language Models](https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models) (2026-07-29)
 - [An Introductory Guide to Practical Constraint Decoding](https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding) (2026-07-28)
-- [5 Best AI Tools for Data Analysis You Should Try in 2026](https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026) (2026-07-28)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The End-to-End Agentic AI Pipeline](https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/) (2026-07-30)
 - [Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?](https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/) (2026-07-29)
 - [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) (2026-07-27)
 - [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) (2026-07-24)
 - [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) (2026-07-23)
-- [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) (2026-07-21)
 
 </details>
 
@@ -613,11 +624,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) (2026-07-30)
 - [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) (2026-07-29)
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) (2026-07-28)
 - [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) (2026-07-22)
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) (2026-07-21)
-- [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) (2026-07-17)
-- [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/) (2026-07-16)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
