@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Tesla reportedly might sell its China business ahead of a SpaceX merger](https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/) (2026-07-31)
+- [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/) (2026-07-31)
 - [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) (2026-07-31)
 - [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/) (2026-07-30)
 - [AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) (2026-07-30)
-- [Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/) (2026-07-30)
-- [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) (2026-07-31)
-- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) (2026-07-31)
-- [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander) (2026-07-31)
-- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo) (2026-07-31)
-- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) (2026-07-31)
+- [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) (2026-07-31)
+- [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/) (2026-07-31)
+- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) (2026-07-31)
+- [The End of an Era](https://hughhowey.com/the-end-of-an-era/) (2026-07-31)
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) (2026-07-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [D&#038;D is getting World of Warcraft and Star Wars crossovers](https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond) (2026-07-31)
+- [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches) (2026-07-31)
+- [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology) (2026-07-31)
+- [Sony pushes forward with ditching discs, despite backlash](https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward) (2026-07-31)
 - [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) (2026-07-30)
-- [Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth) (2026-07-30)
-- [Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages](https://www.theverge.com/tech/973430/apple-q3-2026-earnings) (2026-07-30)
-- [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks) (2026-07-30)
-- [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale) (2026-07-30)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/) (2026-07-31)
+- [Montana’s new “right to try” law can’t come soon enough for some](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/) (2026-07-31)
 - [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) (2026-07-30)
 - [The Download: tricking LLMs, and reviving geothermal plants](https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/) (2026-07-30)
 - [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) (2026-07-30)
-- [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/) (2026-07-29)
-- [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/) (2026-07-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Migrating a Next.js app from node:sqlite to Cloudflare D1](https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i) (2026-07-31)
-- [Your AI Coding Agent Is LYING When It Says "Done"](https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85) (2026-07-31)
-- [How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode](https://dev.to/ayushwrite63/how-i-crashed-my-tcs-prime-interview-and-talked-my-way-out-of-hell-mode-499j) (2026-07-31)
-- [Spring AI: Bringing Generative AI into Spring Boot Applications](https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3) (2026-07-31)
-- [Traceroute devlog #2](https://dev.to/thkim5937/traceroute-devlog-2-11kc) (2026-07-31)
+- [Is DeepSeek V4 Flash the Best LLM for Domain Due Diligence?](https://dev.to/onizuka/is-deepseek-v4-flash-the-best-llm-for-domain-due-diligence-1lcc) (2026-07-31)
+- [What I Shipped in July: Receipts, Thermal Printing, Dark Mode & a Big Refactor for Invoiso](https://dev.to/anoop_p_22f715057ac8b3901/what-i-shipped-in-july-receipts-thermal-printing-dark-mode-a-big-refactor-for-invoiso-597j) (2026-07-31)
+- [OpenAI Upgrades Auto-review to GPT-5.6 Luna as It Pushes Lower-Cost AI Workflows](https://dev.to/alifar/openai-upgrades-auto-review-to-gpt-56-luna-as-it-pushes-lower-cost-ai-workflows-3fh5) (2026-07-31)
+- [Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l) (2026-07-31)
+- [Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8) (2026-07-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Dream Job Probably Doesn’t Exist Yet](https://elshad-karimov.medium.com/your-dream-job-probably-doesnt-exist-yet-9f5f65498b06?source=rss------programming-5) (2026-07-31)
-- [The Underscore That Broke My Music Discovery Agent for Five Days](https://medium.com/@vl.smoleevskiy/the-underscore-that-broke-my-music-discovery-agent-for-five-days-417b128ec9e9?source=rss------programming-5) (2026-07-31)
-- [Claude Code Follows Its Own Memory Until You Contradict It](https://medium.com/@bartkru/claude-code-follows-its-own-memory-until-you-contradict-it-9650a698ea92?source=rss------programming-5) (2026-07-31)
-- [What The Hell, DeepSeek? The Flash Model That Should Not Be This Good](https://ezzekielnjuguna.medium.com/what-the-hell-deepseek-the-flash-model-that-should-not-be-this-good-2513ebc562eb?source=rss------programming-5) (2026-07-31)
-- [Did Odysseus Use Postgres?](https://medium.com/@boringdba/did-odysseus-use-postgres-bc5df81efb96?source=rss------programming-5) (2026-07-31)
+- [Stop Overbuilding Your Frontend: Why Alpine.js Is Taking Over](https://andreasyanaram.medium.com/stop-overbuilding-your-frontend-why-alpine-js-is-taking-over-a1ff5bd3de55?source=rss------programming-5) (2026-07-31)
+- [Claude Code Skills Fail Silently — Here’s How to Test Yours](https://medium.com/@reactjsbd/claude-code-skills-fail-silently-heres-how-to-test-yours-182c5648fa9f?source=rss------programming-5) (2026-07-31)
+- [Why AI Coding Without a Plan Feels Productive](https://medium.com/skillstuff/why-ai-coding-without-a-plan-feels-productive-8eebfdd0e787?source=rss------programming-5) (2026-07-31)
+- [Silicon Graphics Built the Machines That Made the Movies — Then the Movies Didn’t Need Them](https://medium.com/it-chronicles/silicon-graphics-built-the-machines-that-made-the-movies-then-the-movies-didnt-need-them-ed71112a176b?source=rss------programming-5) (2026-07-31)
+- [Stop Saying Python is Dying. It’s Actually Eating the World.](https://medium.com/the-tech-notes/stop-saying-python-is-dying-its-actually-eating-the-world-b4f16f5c27d2?source=rss------programming-5) (2026-07-31)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Know Kotlin? Ship It Everywhere and Win at Shipaton 2026](https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/) (2026-07-31)
 - [The Complete Package: Why Debugging Is Only Half the C# Productivity Story](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/) (2026-07-30)
 - [PyTorch Tutorial for Deep Learning](https://blog.jetbrains.com/pycharm/2026/07/pytorch-tutorial-for-deep-learning/) (2026-07-29)
 - [Qodana 2026.2: More Security, Better Coverage, Less Configuration](https://blog.jetbrains.com/qodana/2026/07/qodana-2026-2-more-security-better-coverage-less-configuration/) (2026-07-29)
 - [Secure Your APIs: OAuth2 and JWT for Beginners](https://blog.jetbrains.com/kotlin/2026/07/secure-your-apis-oauth2-and-jwt-for-beginners/) (2026-07-29)
-- [Ponytail Skill for Claude Code: Does It Really Cut Agent Code by 54%?](https://blog.jetbrains.com/ai/2026/07/ponytail-skill-claude-tested/) (2026-07-28)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How to govern agentic AI, MCPs, and AI code assistants](https://about.gitlab.com/blog/govern-agentic-ai-mcps-code-assistants/) (2026-07-31)
 - [Why GitLab signed the Open Weights and American AI Leadership letter](https://about.gitlab.com/blog/open-weight-model-letter/) (2026-07-29)
 - [GitLab Patch Release: 19.2.1, 19.1.3, 19.0.5](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-1-released/) (2026-07-29)
 - [Claude Opus 5 on GitLab: Reasoning built for the hard tasks](https://about.gitlab.com/blog/claude-opus-5-on-gitlab-duo-agent-platform/) (2026-07-27)
 - [Modernize Java with Cursor and GitLab](https://about.gitlab.com/blog/modernize-java-with-cursor-and-gitlab/) (2026-07-22)
-- [Automate work item assignment with a "Work item created" trigger](https://about.gitlab.com/blog/how-to-use-a-work-item-created-trigger/) (2026-07-20)
 
 </details>
 
@@ -339,22 +339,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Passport is now generally available](https://vercel.com/changelog/vercel-passport-generally-available) (2026-07-31)
 - [Server-Timing response headers will pass through to the client](https://vercel.com/changelog/server-timing-header) (2026-07-30)
 - [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts) (2026-07-30)
 - [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox) (2026-07-30)
 - [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway) (2026-07-30)
-- [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway) (2026-07-30)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [An API for MoQ: provision your own isolated relays](https://blog.cloudflare.com/moq-relays/) (2026-07-31)
 - [Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform](https://blog.cloudflare.com/cdnjs-dev-platform-migration/) (2026-07-30)
 - [Post-quantum authentication to origins is now supported](https://blog.cloudflare.com/post-quantum-authentication-to-origins/) (2026-07-29)
 - [Natural disasters and government interference: examining Q2 2026’s major Internet disruption events](https://blog.cloudflare.com/q2-2026-internet-disruption-summary/) (2026-07-28)
 - [We’re open-sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
-- [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/) (2026-07-24)
 
 </details>
 
@@ -425,11 +425,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [From Local Development to Production with Prisma Postgres](https://www.prisma.io/blog/from-local-to-production-with-prisma-postgres) (2026-07-31)
 - [Search encrypted data with Prisma 8 and CipherStash](https://www.prisma.io/blog/search-encrypted-data-with-prisma-next-and-cipherstash) (2026-07-30)
 - [Don't Let Your AI Agent Delete Your Production Database | Prisma 8](https://www.prisma.io/blog/stop-your-ai-agent-dropping-your-database) (2026-07-30)
+- [Prisma Object Store Buckets: S3-Compatible File Storage](https://www.prisma.io/blog/object-store-buckets) (2026-07-28)
 - [How to Make Your Docs Agent-Ready: llms.txt, Parity, MCP](https://www.prisma.io/blog/make-your-docs-agent-ready) (2026-07-24)
-- [Ship risky schema changes with per-branch databases](https://www.prisma.io/blog/ship-risky-schema-changes-without-a-shared-staging-database) (2026-07-24)
-- [Postgres Full-Text Search Instead of Elasticsearch](https://www.prisma.io/blog/you-dont-need-elasticsearch-postgres-already-has-full-text-search) (2026-07-21)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Debug AI Coding Agents When They Change the Wrong Thing](https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/) (2026-07-31)
+- [How Benders Decomposition Works Part I: Optimality Cuts](https://towardsdatascience.com/how-benders-decomposition-works-part-i-optimality-cuts/) (2026-07-31)
 - [The Python Ecosystem That Changed AI Development](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (2026-07-30)
 - [How to Organize All of Your Coding Agent Tasks](https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/) (2026-07-30)
 - [How to Build a Context Layer and a Company Brain](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/) (2026-07-30)
-- [A Simplified View of the Jacobian Conjecture](https://towardsdatascience.com/a-simplified-view-of-the-jacobian-conjecture/) (2026-07-30)
-- [How to Decode the Temperature Parameter in LLMs](https://towardsdatascience.com/decoding-the-temperature-parameter-in-llms/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [July 2026 AI Releases: A Timeline of Frontier Model Shifts](https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/) (2026-07-31)
 - [Claude Code CLI Commands I Wish I Had Known Sooner](https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/) (2026-07-30)
 - [How to Create Custom Skills in Claude: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/) (2026-07-29)
 - [Graph Engineering for AI Agents: Beyond the Single-Agent Loop](https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/) (2026-07-28)
 - [Claude Opus 5: Near-Frontier Intelligence, On a Dial](https://www.analyticsvidhya.com/blog/2026/07/claude-opus-5-hands-on-review/) (2026-07-27)
-- [Cracking the Data Science Case Study Interview](https://www.analyticsvidhya.com/blog/2026/07/data-science-case-study/) (2026-07-26)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Books That Will Deepen Your Understanding of Large Language Models](https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models) (2026-07-31)
 - [A Beginner’s Guide to Working with Claude Design](https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design) (2026-07-30)
 - [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter) (2026-07-30)
 - [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online) (2026-07-29)
 - [5 Must-Read Resources for Mastering Small Language Models](https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models) (2026-07-29)
-- [An Introductory Guide to Practical Constraint Decoding](https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding) (2026-07-28)
 
 </details>
 
