@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Tesla reportedly might sell its China business ahead of a SpaceX merger](https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/) (2026-07-31)
-- [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/) (2026-07-31)
-- [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) (2026-07-31)
-- [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/) (2026-07-30)
-- [AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) (2026-07-30)
+- [VC-backed startups commit more fraud, and researchers think they know why  ](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/) (2026-07-31)
+- [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/) (2026-07-31)
+- [Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/) (2026-07-31)
+- [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/) (2026-07-31)
+- [GM and Ford are talking less and less about EVs](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/) (2026-07-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) (2026-07-31)
-- [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/) (2026-07-31)
-- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) (2026-07-31)
-- [The End of an Era](https://hughhowey.com/the-end-of-an-era/) (2026-07-31)
-- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) (2026-07-31)
+- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion) (2026-07-31)
+- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590) (2026-07-31)
+- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) (2026-07-31)
+- [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer) (2026-07-31)
+- [How to Survive an Infestation of Toxic Caterpillars](https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars) (2026-07-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [D&#038;D is getting World of Warcraft and Star Wars crossovers](https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond) (2026-07-31)
-- [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches) (2026-07-31)
-- [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology) (2026-07-31)
-- [Sony pushes forward with ditching discs, despite backlash](https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward) (2026-07-31)
-- [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) (2026-07-30)
+- [Google Earth&#8217;s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool) (2026-07-31)
+- [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension) (2026-07-31)
+- [Google might launch a ‘Pixel Tag’](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker) (2026-07-31)
+- [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices) (2026-07-31)
+- [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale) (2026-07-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Quantum computers outperform classical ones, with results you can trust](https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/) (2026-07-30)
-- [New MCP specification addresses the main barrier to enterprise adoption](https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/) (2026-07-30)
-- [Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/) (2026-07-29)
-- [Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper](https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/) (2026-07-29)
-- [Who wins and who loses after US bans foreign robots?](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/) (2026-07-29)
+- [High school defends staying silent while boys made AI nudes of 59 classmates](https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/) (2026-07-31)
+- [Researchers devise a full-color night vision goggle](https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/) (2026-07-31)
+- [China could supply EV manufacturing boom with recycled EVs](https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/) (2026-07-31)
+- [Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs](https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/) (2026-07-31)
+- [Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.](https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/) (2026-07-31)
 
 </details>
 
@@ -64,44 +64,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) (2026-07-31)
 - [Stacked sessions and pull requests in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/) (2026-07-30)
 - [Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/) (2026-07-29)
 - [Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) (2026-07-28)
 - [The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) (2026-07-27)
-- [GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/) (2026-07-27)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍‌‌​﻿​﻿​﻿​​‌‍​‍​﻿‌‍‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿‌​‌‍‌​​﻿​​​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍‌‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌‌‍​‍​﻿​﻿​‍﻿‌​﻿‌﻿​﻿​‌​﻿​﻿​﻿‍‌‌‍​‌​﻿‍‌‌‍​‍​﻿​﻿​﻿‌﻿‌‍‌​‌‍​﻿​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍‌‌​﻿​﻿​﻿​​‌‍​‍​﻿‌‍‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿‌​‌‍‌​​﻿​​​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍‌‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌‌‍​‍​﻿​﻿​‍﻿‌​﻿‌﻿​﻿​‌​﻿​﻿​﻿‍‌‌‍​‌​﻿‍‌‌‍​‍​﻿​﻿​﻿‌﻿‌‍‌​‌‍​﻿​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/) (2026-07-31)
 - [What happens to the internet when robots act like humans?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/) (2026-07-31)
 - [Your trusted knowledge layer: Introducing Stack Internal's new platform experience​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/) (2026-07-30)
 - [Developers are attached to tools because tools encode trust​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) (2026-07-29)
 - [You need reliable AI context for your site reliability​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/) (2026-07-28)
-- [No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/) (2026-07-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Is DeepSeek V4 Flash the Best LLM for Domain Due Diligence?](https://dev.to/onizuka/is-deepseek-v4-flash-the-best-llm-for-domain-due-diligence-1lcc) (2026-07-31)
-- [What I Shipped in July: Receipts, Thermal Printing, Dark Mode & a Big Refactor for Invoiso](https://dev.to/anoop_p_22f715057ac8b3901/what-i-shipped-in-july-receipts-thermal-printing-dark-mode-a-big-refactor-for-invoiso-597j) (2026-07-31)
-- [OpenAI Upgrades Auto-review to GPT-5.6 Luna as It Pushes Lower-Cost AI Workflows](https://dev.to/alifar/openai-upgrades-auto-review-to-gpt-56-luna-as-it-pushes-lower-cost-ai-workflows-3fh5) (2026-07-31)
-- [Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l) (2026-07-31)
-- [Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8) (2026-07-31)
+- [Designing QR Codes That Survive Real-World Scanning: A Debugging Playbook](https://dev.to/lizely/designing-qr-codes-that-survive-real-world-scanning-a-debugging-playbook-1f9l) (2026-07-31)
+- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h) (2026-07-31)
+- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523) (2026-07-31)
+- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d) (2026-07-31)
+- [How I Built a Wazuh SIEM Home Lab to Emulate (and Detect) Cyber Attacks ---](https://dev.to/bret_roper_5db74e87ca2a5f/how-i-built-a-wazuh-siem-home-lab-to-emulate-and-detect-cyber-attacks--3649) (2026-07-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Overbuilding Your Frontend: Why Alpine.js Is Taking Over](https://andreasyanaram.medium.com/stop-overbuilding-your-frontend-why-alpine-js-is-taking-over-a1ff5bd3de55?source=rss------programming-5) (2026-07-31)
-- [Claude Code Skills Fail Silently — Here’s How to Test Yours](https://medium.com/@reactjsbd/claude-code-skills-fail-silently-heres-how-to-test-yours-182c5648fa9f?source=rss------programming-5) (2026-07-31)
-- [Why AI Coding Without a Plan Feels Productive](https://medium.com/skillstuff/why-ai-coding-without-a-plan-feels-productive-8eebfdd0e787?source=rss------programming-5) (2026-07-31)
-- [Silicon Graphics Built the Machines That Made the Movies — Then the Movies Didn’t Need Them](https://medium.com/it-chronicles/silicon-graphics-built-the-machines-that-made-the-movies-then-the-movies-didnt-need-them-ed71112a176b?source=rss------programming-5) (2026-07-31)
-- [Stop Saying Python is Dying. It’s Actually Eating the World.](https://medium.com/the-tech-notes/stop-saying-python-is-dying-its-actually-eating-the-world-b4f16f5c27d2?source=rss------programming-5) (2026-07-31)
+- [[Rust Guide] 1.3 Basic Knowledge of Rust Cargo](https://medium.com/@stanyin64/rust-guide-1-3-basic-knowledge-of-rust-cargo-99eea5249a63?source=rss------programming-5) (2026-07-31)
+- [Postman for Frontend Developers](https://medium.com/@charlesazuh840/postman-for-frontend-developers-bc0450cca797?source=rss------programming-5) (2026-07-31)
+- [SQL Gaps and Islands](https://medium.com/@AlexanderObregon/sql-gaps-and-islands-6ef34af6eb7f?source=rss------programming-5) (2026-07-31)
+- [CCDV-F Exam: One Domain Is 33%. Are You Studying It?](https://medium.com/@cognifold/ccdv-f-exam-one-domain-is-33-are-you-studying-it-8e8e445bc727?source=rss------programming-5) (2026-07-31)
+- [Becoming a Top 1% Claude Code User: The 90-Day Playbook No One Else Is Sharing”](https://medium.com/@trends24/becoming-a-top-1-claude-code-user-the-90-day-playbook-no-one-else-is-sharing-0c03a760e496?source=rss------programming-5) (2026-07-31)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Free Book Chapters, Better Testing Control, and Smart MCP Configuration! ](https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4) (2026-07-31)
 - [Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡](https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4) (2026-07-17)
 - [Community Engineering, Agentic Coding, and Real-User Component Testing ️](https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4) (2026-07-07)
 - [Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App](https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4) (2026-06-26)
 - [Community Comebacks, Angular 21.1 Features, and Smarter Signal Forms ️⚡](https://blog.angular.dev/angular-community-weekly-14-25842ff36020?source=rss----447683c3d9a3---4) (2026-06-19)
-- [Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality! ](https://blog.angular.dev/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality-ff37df480574?source=rss----447683c3d9a3---4) (2026-06-05)
 
 </details>
 
@@ -185,22 +185,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/) (2026-07-31)
 - [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/) (2026-07-30)
 - [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/) (2026-07-28)
 - [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/) (2026-07-24)
 - [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) (2026-07-22)
-- [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) (2026-07-20)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) (2026-07-31)
 - [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) (2026-07-29)
 - [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) (2026-07-14)
 - [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
 - [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) (2026-07-13)
-- [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/) (2026-07-08)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4) (2026-07-31)
 - [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4) (2026-07-30)
 - [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4) (2026-07-17)
 - [Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4) (2026-07-13)
 - [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4) (2026-06-29)
-- [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4) (2026-06-23)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway) (2026-07-31)
+- [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification) (2026-07-31)
+- [Expanded search for workflow runs in Vercel Observability](https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability) (2026-07-31)
+- [10x more capacity for Laguna S 2.1 on AI Gateway](https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway) (2026-07-31)
 - [Vercel Passport is now generally available](https://vercel.com/changelog/vercel-passport-generally-available) (2026-07-31)
-- [Server-Timing response headers will pass through to the client](https://vercel.com/changelog/server-timing-header) (2026-07-30)
-- [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts) (2026-07-30)
-- [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox) (2026-07-30)
-- [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway) (2026-07-30)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Handling Auth in Next.js 16 with Server Actions and Middleware](https://auth0.com/blog/handling-auth-nextjs16-with-server-actions-middleware/) (2026-07-31)
 - [Token Vault Privileged Worker: Secure Access for Agents That Never Sleep](https://auth0.com/blog/token-vault-privileged-worker-early-access/) (2026-07-30)
 - [Agent as Principal: A Purpose-Built Identity for Agents](https://auth0.com/blog/agent-as-principal-purpose-built-identity-for-agents/) (2026-07-30)
 - [The Self-Service Roadmap: Navigating the Auth0 Dashboard Subscriptions Tab](https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/) (2026-07-27)
 - [Agentic Loops and Agent Graphs: Security Risks You Need to Know](https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/) (2026-07-24)
-- [How to Set Up a Flask App with Cursor and the Auth0 Plugin](https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/) (2026-07-22)
 
 </details>
 
@@ -414,11 +414,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Massively parallel Postgres backups](https://planetscale.com/blog/massively-parallel-postgres-backups) (2026-07-31)
 - [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) (2026-07-24)
 - [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) (2026-07-23)
 - [Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL](https://planetscale.com/blog/postgresql-mvcc) (2026-07-20)
 - [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) (2026-07-15)
-- [When the Postgres query planner goes rogue](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) (2026-07-13)
 
 </details>
 
@@ -481,8 +481,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <summary>⚡ Zapier Blog</summary>
 
 - [The 10 best AI email assistants in 2026](https://zapier.com/blog/best-ai-email-assistant) (2026-07-30)
-- [AI integration: How to bring AI into your workflows](https://zapier.com/blog/ai-integration) (2026-07-30)
 - [What is enterprise AI? And how to implement it](https://zapier.com/blog/enterprise-ai) (2026-07-30)
+- [AI integration: How to bring AI into your workflows](https://zapier.com/blog/ai-integration) (2026-07-30)
 - [The best mind mapping software in 2026](https://zapier.com/blog/best-mind-mapping-software) (2026-07-29)
 - [The best webinar software for marketers in 2026](https://zapier.com/blog/best-webinar-software) (2026-07-29)
 
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
+- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
+- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [The 3× Token Bill We Didn’t See Coming](https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/) (2026-07-31)
+- [When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop](https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/) (2026-07-31)
 - [How to Debug AI Coding Agents When They Change the Wrong Thing](https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/) (2026-07-31)
 - [How Benders Decomposition Works Part I: Optimality Cuts](https://towardsdatascience.com/how-benders-decomposition-works-part-i-optimality-cuts/) (2026-07-31)
 - [The Python Ecosystem That Changed AI Development](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (2026-07-30)
-- [How to Organize All of Your Coding Agent Tasks](https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/) (2026-07-30)
-- [How to Build a Context Layer and a Company Brain](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/) (2026-07-30)
 
 </details>
 
@@ -579,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Building Voice-Controlled AI Agents](https://www.kdnuggets.com/building-voice-controlled-ai-agents) (2026-07-31)
 - [5 Books That Will Deepen Your Understanding of Large Language Models](https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models) (2026-07-31)
 - [A Beginner’s Guide to Working with Claude Design](https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design) (2026-07-30)
 - [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter) (2026-07-30)
 - [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online) (2026-07-29)
-- [5 Must-Read Resources for Mastering Small Language Models](https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models) (2026-07-29)
 
 </details>
 
