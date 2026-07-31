@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) (2026-07-30)
-- [Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/) (2026-07-30)
-- [LinkedIn adds a button to report AI-generated ‘slop’](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/) (2026-07-30)
-- [Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/) (2026-07-30)
-- [Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/) (2026-07-30)
+- [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) (2026-07-31)
+- [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/) (2026-07-30)
+- [AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) (2026-07-30)
+- [Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/) (2026-07-30)
+- [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) (2026-07-30)
-- [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale) (2026-07-30)
-- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/) (2026-07-30)
-- [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway) (2026-07-30)
-- [Show HN: Tally – check a spreadsheet's numbers against their source, in-browser](https://tally.jiegou.ai/) (2026-07-30)
+- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/) (2026-07-30)
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) (2026-07-30)
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) (2026-07-30)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) (2026-07-30)
+- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) (2026-07-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) (2026-07-30)
+- [Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth) (2026-07-30)
+- [Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages](https://www.theverge.com/tech/973430/apple-q3-2026-earnings) (2026-07-30)
+- [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks) (2026-07-30)
 - [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale) (2026-07-30)
-- [LinkedIn actually adds a ‘seems like AI slop’ button](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button) (2026-07-30)
-- [Govee&#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale) (2026-07-30)
-- [NASA’s Curiosity rover found a ‘sea of polygons’ on Mars](https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons) (2026-07-30)
-- [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body) (2026-07-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8) (2026-07-30)
-- [What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip) (2026-07-30)
-- [Your Client's Contract Says No AI. What You Can Still Do.](https://dev.to/layerz/your-clients-contract-says-no-ai-what-you-can-still-do-50aa) (2026-07-30)
-- [Why My Game Worked on Itch.io but Died on GitHub Clone (The .gitignore Trap) 🤡](https://dev.to/weirdcodesofficial/moksha-devlog-why-my-game-worked-on-itchio-but-died-on-github-clone-the-gitignore-trap-hel) (2026-07-30)
-- [Why AI Agents Lose Their Memory And How MemoFS Solves It](https://dev.to/codingsimba/why-ai-agents-lose-their-memory-and-how-memofs-solves-it-5h0o) (2026-07-30)
+- [Building a Browser-Based Sentence Counter with Local-First Text Processing](https://dev.to/xiu_kuang_f0402a0d68ab4e6/building-a-browser-based-sentence-counter-with-local-first-text-processing-2b05) (2026-07-31)
+- [Browser-based updates getting stuck on the "Confirm your admin email" screen — why Playwright stalls in wp-admin](https://dev.to/susumun/browser-based-updates-getting-stuck-on-the-confirm-your-admin-email-screen-why-playwright-6io) (2026-07-31)
+- [Solon Validation: @Valid, 20+ Annotations, and Custom Validators Without the JSR 380 Baggage](https://dev.to/solonjava/solon-validation-valid-20-annotations-and-custom-validators-without-the-jsr-380-baggage-15e0) (2026-07-31)
+- [I built a tool that auto-drafts my overdue-invoice reminders (looking for 10 freelancers to test it free)](https://dev.to/_6bf335792ab694de6466c/i-built-a-tool-that-auto-drafts-my-overdue-invoice-reminders-looking-for-10-freelancers-to-test-it-3o9h) (2026-07-31)
+- [I Built an AI Assistant That Turns Natural-Language Ideas Into Stock Searches](https://dev.to/_706233644661232c26771/i-built-an-ai-assistant-that-turns-natural-language-ideas-into-stock-searches-2fg7) (2026-07-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Kimi K3: Too Big to Run](https://pub.towardsai.net/kimi-k3-too-big-to-run-19ad84dd2994?source=rss------programming-5) (2026-07-30)
-- [[Rust Guide] 1.2 Basic Understanding of Rust and Printing “Hello World”](https://medium.com/@stanyin64/rust-guide-1-2-basic-understanding-of-rust-and-printing-hello-world-908309e235b7?source=rss------programming-5) (2026-07-30)
-- [Getting Reliable JSON Out of an LLM in Production](https://medium.com/@techpotions/getting-reliable-json-out-of-an-llm-in-production-c8963051b375?source=rss------programming-5) (2026-07-30)
-- [Why Your Niche Doesn’t Matter as Much as You Think](https://medium.com/@authenticbozt/why-your-niche-doesnt-matter-as-much-as-you-think-caa3f80e96fc?source=rss------programming-5) (2026-07-30)
-- [Block AI Crawlers: The 15 Bots That Matter](https://medium.com/@techpotions/block-ai-crawlers-the-15-bots-that-matter-68db14ccd898?source=rss------programming-5) (2026-07-30)
+- [Como System Design está mudando minha visão sobre programação](https://medium.com/@brunomestres/como-system-design-est%C3%A1-mudando-minha-vis%C3%A3o-sobre-programa%C3%A7%C3%A3o-beba7560de91?source=rss------programming-5) (2026-07-31)
+- [Stop Watching the Terminal: Native macOS Notifications for Claude Code](https://christophybarth.medium.com/stop-watching-the-terminal-native-macos-notifications-for-claude-code-e3079f03bc43?source=rss------programming-5) (2026-07-31)
+- [Your Python Variable Doesn’t Have a Type. These 3 Snippets Prove It](https://medium.com/becomebetter-dev/your-python-variable-doesnt-have-a-type-these-3-snippets-prove-it-fa496ced6ad5?source=rss------programming-5) (2026-07-31)
+- [Your Error Rate Is 0%. Your LLM App Is Still Broken.](https://medium.com/@coolercoder/your-error-rate-is-0-your-llm-app-is-still-broken-cf3f4e2a6a19?source=rss------programming-5) (2026-07-31)
+- [20 Python Scripts That Replace Repetitive Work With Smart Automation](https://python.plainenglish.io/20-python-scripts-that-replace-repetitive-work-with-smart-automation-9c0c57dc0610?source=rss------programming-5) (2026-07-31)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/) (2026-07-30)
 - [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/) (2026-07-28)
 - [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/) (2026-07-24)
 - [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) (2026-07-22)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) (2026-07-20)
-- [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) (2026-07-16)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4) (2026-07-30)
 - [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4) (2026-07-17)
 - [Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4) (2026-07-13)
 - [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4) (2026-06-29)
 - [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4) (2026-06-23)
-- [How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4) (2026-06-22)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Complete Package: Why Debugging Is Only Half the C# Productivity Story](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/) (2026-07-30)
 - [PyTorch Tutorial for Deep Learning](https://blog.jetbrains.com/pycharm/2026/07/pytorch-tutorial-for-deep-learning/) (2026-07-29)
 - [Qodana 2026.2: More Security, Better Coverage, Less Configuration](https://blog.jetbrains.com/qodana/2026/07/qodana-2026-2-more-security-better-coverage-less-configuration/) (2026-07-29)
 - [Secure Your APIs: OAuth2 and JWT for Beginners](https://blog.jetbrains.com/kotlin/2026/07/secure-your-apis-oauth2-and-jwt-for-beginners/) (2026-07-29)
 - [Ponytail Skill for Claude Code: Does It Really Cut Agent Code by 54%?](https://blog.jetbrains.com/ai/2026/07/ponytail-skill-claude-tested/) (2026-07-28)
-- [The State of CI/CD 2026 Survey Is Now Open](https://blog.jetbrains.com/teamcity/2026/07/take-cicd-survey/) (2026-07-28)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Server-Timing response headers will pass through to the client](https://vercel.com/changelog/server-timing-header) (2026-07-30)
+- [Shopify and Vercel are rebuilding Hydrogen for faster storefronts](https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts) (2026-07-30)
 - [Run multiple isolated agents in a single Sandbox](https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox) (2026-07-30)
-- [Turborepo and Vercel Remote Cache now support OpenID Connect (OIDC)](https://vercel.com/changelog/turborepo-and-remote-cache-now-support-openid-connect-oidc) (2026-07-30)
-- [AI Gateway: GPT-5.6 pricing and speed updates](https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates) (2026-07-30)
-- [Deployments are now up to 7 seconds faster](https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster) (2026-07-30)
+- [MiniMax H3 now available on AI Gateway](https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway) (2026-07-30)
+- [Inkling Small from Thinking Machines is now available on AI Gateway](https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway) (2026-07-30)
 
 </details>
 
@@ -392,12 +392,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Token Vault Privileged Worker: Secure Access for Agents That Never Sleep](https://auth0.com/blog/token-vault-privileged-worker-early-access/) (2026-07-30)
+- [Agent as Principal: A Purpose-Built Identity for Agents](https://auth0.com/blog/agent-as-principal-purpose-built-identity-for-agents/) (2026-07-30)
 - [The Self-Service Roadmap: Navigating the Auth0 Dashboard Subscriptions Tab](https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/) (2026-07-27)
 - [Agentic Loops and Agent Graphs: Security Risks You Need to Know](https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/) (2026-07-24)
 - [How to Set Up a Flask App with Cursor and the Auth0 Plugin](https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/) (2026-07-22)
-- [The Art of Consent Management in the OAuth World](https://auth0.com/blog/the-art-of-user-consent-management-oauth/) (2026-07-16)
-- [You Are Using Auth0 The Hard Way
-](https://auth0.com/blog/you-are-using-auth0-the-hard-way/) (2026-07-15)
 
 </details>
 
@@ -481,11 +480,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 10 best AI email assistants in 2026](https://zapier.com/blog/best-ai-email-assistant) (2026-07-30)
 - [AI integration: How to bring AI into your workflows](https://zapier.com/blog/ai-integration) (2026-07-30)
 - [What is enterprise AI? And how to implement it](https://zapier.com/blog/enterprise-ai) (2026-07-30)
 - [The best mind mapping software in 2026](https://zapier.com/blog/best-mind-mapping-software) (2026-07-29)
 - [The best webinar software for marketers in 2026](https://zapier.com/blog/best-webinar-software) (2026-07-29)
-- [Dropbox vs. Google Drive: Which is right for you? [2026]](https://zapier.com/blog/dropbox-vs-google-drive) (2026-07-29)
 
 </details>
 
@@ -503,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
-- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -552,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
-- [Guardoc Health processes clinical documentation using Amazon Nova models](https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/) (2026-07-28)
 
 </details>
 
