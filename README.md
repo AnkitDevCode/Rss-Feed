@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [VC-backed startups commit more fraud, and researchers think they know why  ](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/) (2026-07-31)
-- [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/) (2026-07-31)
-- [Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/) (2026-07-31)
-- [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/) (2026-07-31)
-- [GM and Ford are talking less and less about EVs](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/) (2026-07-31)
+- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) (2026-07-31)
+- [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/) (2026-07-31)
+- [Silicon Valley loves young founders. Until it doesn’t.](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/) (2026-07-31)
+- [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/) (2026-07-31)
+- [Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/) (2026-07-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion) (2026-07-31)
-- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590) (2026-07-31)
-- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) (2026-07-31)
-- [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer) (2026-07-31)
-- [How to Survive an Infestation of Toxic Caterpillars](https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars) (2026-07-31)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) (2026-08-01)
+- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/) (2026-07-31)
+- [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) (2026-07-31)
+- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233) (2026-07-31)
+- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet) (2026-07-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock) (2026-07-31)
+- [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale) (2026-07-31)
 - [Google Earth&#8217;s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool) (2026-07-31)
 - [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension) (2026-07-31)
 - [Google might launch a ‘Pixel Tag’](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker) (2026-07-31)
-- [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices) (2026-07-31)
-- [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale) (2026-07-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [High school defends staying silent while boys made AI nudes of 59 classmates](https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/) (2026-07-31)
-- [Researchers devise a full-color night vision goggle](https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/) (2026-07-31)
-- [China could supply EV manufacturing boom with recycled EVs](https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/) (2026-07-31)
-- [Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs](https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/) (2026-07-31)
-- [Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.](https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/) (2026-07-31)
+- [Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA](https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/) (2026-07-31)
+- [Doctors took a look at man's painful shoulder—they found the joint was missing](https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/) (2026-07-31)
+- [Google plans to exempt sanctioned nations from Android developer verification](https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/) (2026-07-31)
+- [Reddit keeps its strange DMCA fight over Google search results alive](https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/) (2026-07-31)
+- [Claude published malicious code to the Internet and attacked 3 real companies](https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/) (2026-07-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Designing QR Codes That Survive Real-World Scanning: A Debugging Playbook](https://dev.to/lizely/designing-qr-codes-that-survive-real-world-scanning-a-debugging-playbook-1f9l) (2026-07-31)
-- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h) (2026-07-31)
-- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523) (2026-07-31)
-- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d) (2026-07-31)
-- [How I Built a Wazuh SIEM Home Lab to Emulate (and Detect) Cyber Attacks ---](https://dev.to/bret_roper_5db74e87ca2a5f/how-i-built-a-wazuh-siem-home-lab-to-emulate-and-detect-cyber-attacks--3649) (2026-07-31)
+- [Data Consistency in Microservices — Saga Pattern](https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d) (2026-08-01)
+- [Fast, local, and offline dictation](https://dev.to/codisfy/fast-local-and-offline-dictation-22f3) (2026-08-01)
+- [Reviving K6's StatsD Extension for Datadog Observability](https://dev.to/osnibjunior/reviving-k6s-statsd-extension-for-datadog-observability-299m) (2026-08-01)
+- [Is Every SaaS Company Going to Need an MCP Server?](https://dev.to/bhavyshekhaliya/is-every-saas-company-going-to-need-an-mcp-server-1l79) (2026-08-01)
+- [为什么「全能Agent」必死——场景路由把一个Agent拆成6个专家](https://dev.to/weiwuji/wei-shi-yao-quan-neng-agent-bi-si-chang-jing-lu-you-ba-ge-agentchai-cheng-6ge-zhuan-jia-48i7) (2026-08-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[Rust Guide] 1.3 Basic Knowledge of Rust Cargo](https://medium.com/@stanyin64/rust-guide-1-3-basic-knowledge-of-rust-cargo-99eea5249a63?source=rss------programming-5) (2026-07-31)
-- [Postman for Frontend Developers](https://medium.com/@charlesazuh840/postman-for-frontend-developers-bc0450cca797?source=rss------programming-5) (2026-07-31)
-- [SQL Gaps and Islands](https://medium.com/@AlexanderObregon/sql-gaps-and-islands-6ef34af6eb7f?source=rss------programming-5) (2026-07-31)
-- [CCDV-F Exam: One Domain Is 33%. Are You Studying It?](https://medium.com/@cognifold/ccdv-f-exam-one-domain-is-33-are-you-studying-it-8e8e445bc727?source=rss------programming-5) (2026-07-31)
-- [Becoming a Top 1% Claude Code User: The 90-Day Playbook No One Else Is Sharing”](https://medium.com/@trends24/becoming-a-top-1-claude-code-user-the-90-day-playbook-no-one-else-is-sharing-0c03a760e496?source=rss------programming-5) (2026-07-31)
+- [[RustGuide] 2.1 Number Guessing Game Pt.1 — One Guess](https://medium.com/@stanyin64/rustguide-2-1-number-guessing-game-pt-1-one-guess-11f38a674c54?source=rss------programming-5) (2026-08-01)
+- [The Day I Started Thinking in Domains Instead of Tables](https://medium.com/@scosmexs/the-day-i-started-thinking-in-domains-instead-of-tables-57889833beb2?source=rss------programming-5) (2026-08-01)
+- [What Is a Scrum Team? Roles, Responsibilities, How They Work, and Common Challenges](https://medium.com/@sunil17bbmp/what-is-a-scrum-team-roles-responsibilities-how-they-work-and-common-challenges-b36217ab8598?source=rss------programming-5) (2026-08-01)
+- [MCP Is Just RPC With Better Marketing: A Backend Engineer Reads the Spec](https://ai.gopubby.com/mcp-is-just-rpc-with-better-marketing-4fa6b59fd1e3?source=rss------programming-5) (2026-08-01)
+- [The Scanner/Fixer Pattern: Self-Maintaining Repos with Deterministic Discovery, LLM-Driven Action…](https://medium.com/rossoctl-the-agentic-platform/the-scanner-fixer-pattern-self-maintaining-repos-with-deterministic-discovery-llm-driven-action-389ff7703706?source=rss------programming-5) (2026-08-01)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts) (2026-07-31)
 - [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway) (2026-07-31)
+- [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams) (2026-07-31)
+- [AI Gateway logs now have a dedicated page](https://vercel.com/changelog/ai-gateway-logs) (2026-07-31)
 - [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification) (2026-07-31)
-- [Expanded search for workflow runs in Vercel Observability](https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability) (2026-07-31)
-- [10x more capacity for Laguna S 2.1 on AI Gateway](https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway) (2026-07-31)
-- [Vercel Passport is now generally available](https://vercel.com/changelog/vercel-passport-generally-available) (2026-07-31)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
 
 </details>
 
