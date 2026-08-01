@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) (2026-08-01)
-- [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/) (2026-08-01)
-- [What liberal arts education is for (2024)](https://innig.net/teaching/liberal-arts-manifesto) (2026-08-01)
-- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system) (2026-08-01)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) (2026-08-01)
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) (2026-08-01)
+- [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) (2026-08-01)
+- [Morten Linderud resigning from Arch Linux development team](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/) (2026-08-01)
+- [$0.09 and $290.12 are both the price of 1M output tokens](https://runinfra.ai/news/inference-cost-truth) (2026-08-01)
+- [RamenHaus](https://ramen.haus/) (2026-08-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer) (2026-08-01)
 - [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock) (2026-07-31)
 - [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale) (2026-07-31)
 - [Google Earth&#8217;s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool) (2026-07-31)
 - [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension) (2026-07-31)
-- [Google might launch a ‘Pixel Tag’](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker) (2026-07-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica](https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/) (2026-08-01)
+- [Defcon's new badge is a security key you can see inside](https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/) (2026-08-01)
+- [How fruit flies chase invisible ribbons of smell to get to their source](https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/) (2026-08-01)
 - [Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA](https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/) (2026-07-31)
 - [Doctors took a look at man's painful shoulder—they found the joint was missing](https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/) (2026-07-31)
-- [Google plans to exempt sanctioned nations from Android developer verification](https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/) (2026-07-31)
-- [Reddit keeps its strange DMCA fight over Google search results alive](https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/) (2026-07-31)
-- [Claude published malicious code to the Internet and attacked 3 real companies](https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/) (2026-07-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pascal Programming](https://dev.to/bekbrace/pascal-programming-146) (2026-08-01)
-- [Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg) (2026-08-01)
-- [Fixing a Search Race Condition in npmx](https://dev.to/anilloutombam/fixing-a-search-race-condition-in-npmx-4la3) (2026-08-01)
-- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc) (2026-08-01)
-- [Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi) (2026-08-01)
+- [ChatGPT Calendar Integrations Point to Personalized Daily Briefings, Not a New Family Feature](https://dev.to/alifar/chatgpt-calendar-integrations-point-to-personalized-daily-briefings-not-a-new-family-feature-3241) (2026-08-01)
+- [Beyond GET and POST: Why the New HTTP QUERY Method (RFC 10008) Matters for Modern APIs](https://dev.to/kamalsoft/beyond-get-and-post-why-the-new-http-query-method-rfc-10008-matters-for-modern-apis-2nh6) (2026-08-01)
+- [A Practical MCP Server Health Check: 6 Signals Before You Install](https://dev.to/wwqking/a-practical-mcp-server-health-check-6-signals-before-you-install-nig) (2026-08-01)
+- [Lighthouse’s New Baseline Features Audit: What Developers Should Do With It](https://dev.to/apogeewatcher/lighthouses-new-baseline-features-audit-what-developers-should-do-with-it-18n0) (2026-08-01)
+- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e) (2026-08-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Everyday AI Tools That Will Save You 10+ Hours Every Week](https://medium.com/@udaykirangali2/5-everyday-ai-tools-that-will-save-you-10-hours-every-week-0f24bd61da8f?source=rss------programming-5) (2026-08-01)
-- [Django Project Architecture Explained: An End-to-End Guide Using a Photo Album Application | Best…](https://medium.com/@pranavsb699/django-project-architecture-explained-an-end-to-end-guide-using-a-photo-album-application-620ca86c2fd9?source=rss------programming-5) (2026-08-01)
-- [Compile Time or Runtime? Here’s How to Tell the Difference](https://kothapalli-gayathri.medium.com/compile-time-or-runtime-heres-how-to-tell-the-difference-bb980f64ddf8?source=rss------programming-5) (2026-08-01)
-- [7 Lessons I Learned That No Coding Bootcamp Ever Taught Me](https://abdulwahabdev.medium.com/7-lessons-i-learned-that-no-coding-bootcamp-ever-taught-me-78cf9142947a?source=rss------programming-5) (2026-08-01)
-- [Complete Guide to System and Network Administration](https://medium.com/@riyaxhal/complete-guide-to-system-and-network-administration-5387822610aa?source=rss------programming-5) (2026-08-01)
+- [The Dangerous Truth Nobody Wants to Say Out Loud: AI Isn’t Coming for Bad Engineers.](https://medium.com/codetodeploy/the-dangerous-truth-nobody-wants-to-say-out-loud-ai-isnt-coming-for-bad-engineers-1404d9ce172c?source=rss------programming-5) (2026-08-01)
+- [Clean Code in the Age of AI: Are We Fighting a War That’s Already Over?](https://medium.com/@s.elazari/clean-code-in-the-age-of-ai-are-we-fighting-a-war-thats-already-over-caac4e16e0b6?source=rss------programming-5) (2026-08-01)
+- [Five Oracle SQL Bugs That Never Throw an Error Message](https://medium.com/@oneil606/five-oracle-sql-bugs-that-never-throw-an-error-message-c22e7baff229?source=rss------programming-5) (2026-08-01)
+- [I Was About to Install Another Library Then I Remembered JavaScript Already Had an API for That](https://medium.com/codetodeploy/i-was-about-to-install-another-library-then-i-remembered-javascript-already-had-an-api-for-that-b97e34344e63?source=rss------programming-5) (2026-08-01)
+- [Your Single Source of Truth Is a Lie If Nothing Routes Through It](https://medium.com/@suikou0/your-single-source-of-truth-is-a-lie-if-nothing-routes-through-it-3dde6a0ad15f?source=rss------programming-5) (2026-08-01)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
+- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
+- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
-- [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
-- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
-- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
+- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -555,46 +555,35 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Put the Agent Inside the Workflow](https://towardsdatascience.com/put-the-agent-inside-the-workflow/) (2026-08-01)
 - [The 3× Token Bill We Didn’t See Coming](https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/) (2026-07-31)
 - [When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop](https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/) (2026-07-31)
 - [How to Debug AI Coding Agents When They Change the Wrong Thing](https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/) (2026-07-31)
 - [How Benders Decomposition Works Part I: Optimality Cuts](https://towardsdatascience.com/how-benders-decomposition-works-part-i-optimality-cuts/) (2026-07-31)
-- [The Python Ecosystem That Changed AI Development](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [LanceDB Vector Database Guide: Features, Python Demo](https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/) (2026-08-01)
 - [July 2026 AI Releases: A Timeline of Frontier Model Shifts](https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/) (2026-07-31)
 - [Claude Code CLI Commands I Wish I Had Known Sooner](https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/) (2026-07-30)
 - [How to Create Custom Skills in Claude: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/) (2026-07-29)
 - [Graph Engineering for AI Agents: Beyond the Single-Agent Loop](https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/) (2026-07-28)
-- [Claude Opus 5: Near-Frontier Intelligence, On a Dial](https://www.analyticsvidhya.com/blog/2026/07/claude-opus-5-hands-on-review/) (2026-07-27)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27) (2026-08-01)
 - [Building Voice-Controlled AI Agents](https://www.kdnuggets.com/building-voice-controlled-ai-agents) (2026-07-31)
 - [5 Books That Will Deepen Your Understanding of Large Language Models](https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models) (2026-07-31)
 - [A Beginner’s Guide to Working with Claude Design](https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design) (2026-07-30)
 - [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter) (2026-07-30)
-- [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online) (2026-07-29)
 
 </details>
 
