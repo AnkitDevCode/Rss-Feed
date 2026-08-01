@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) (2026-08-01)
-- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/) (2026-07-31)
-- [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) (2026-07-31)
-- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233) (2026-07-31)
-- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet) (2026-07-31)
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) (2026-08-01)
+- [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/) (2026-08-01)
+- [What liberal arts education is for (2024)](https://innig.net/teaching/liberal-arts-manifesto) (2026-08-01)
+- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system) (2026-08-01)
+- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) (2026-08-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Data Consistency in Microservices — Saga Pattern](https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d) (2026-08-01)
-- [Fast, local, and offline dictation](https://dev.to/codisfy/fast-local-and-offline-dictation-22f3) (2026-08-01)
-- [Reviving K6's StatsD Extension for Datadog Observability](https://dev.to/osnibjunior/reviving-k6s-statsd-extension-for-datadog-observability-299m) (2026-08-01)
-- [Is Every SaaS Company Going to Need an MCP Server?](https://dev.to/bhavyshekhaliya/is-every-saas-company-going-to-need-an-mcp-server-1l79) (2026-08-01)
-- [为什么「全能Agent」必死——场景路由把一个Agent拆成6个专家](https://dev.to/weiwuji/wei-shi-yao-quan-neng-agent-bi-si-chang-jing-lu-you-ba-ge-agentchai-cheng-6ge-zhuan-jia-48i7) (2026-08-01)
+- [Pascal Programming](https://dev.to/bekbrace/pascal-programming-146) (2026-08-01)
+- [Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg) (2026-08-01)
+- [Fixing a Search Race Condition in npmx](https://dev.to/anilloutombam/fixing-a-search-race-condition-in-npmx-4la3) (2026-08-01)
+- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc) (2026-08-01)
+- [Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi) (2026-08-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[RustGuide] 2.1 Number Guessing Game Pt.1 — One Guess](https://medium.com/@stanyin64/rustguide-2-1-number-guessing-game-pt-1-one-guess-11f38a674c54?source=rss------programming-5) (2026-08-01)
-- [The Day I Started Thinking in Domains Instead of Tables](https://medium.com/@scosmexs/the-day-i-started-thinking-in-domains-instead-of-tables-57889833beb2?source=rss------programming-5) (2026-08-01)
-- [What Is a Scrum Team? Roles, Responsibilities, How They Work, and Common Challenges](https://medium.com/@sunil17bbmp/what-is-a-scrum-team-roles-responsibilities-how-they-work-and-common-challenges-b36217ab8598?source=rss------programming-5) (2026-08-01)
-- [MCP Is Just RPC With Better Marketing: A Backend Engineer Reads the Spec](https://ai.gopubby.com/mcp-is-just-rpc-with-better-marketing-4fa6b59fd1e3?source=rss------programming-5) (2026-08-01)
-- [The Scanner/Fixer Pattern: Self-Maintaining Repos with Deterministic Discovery, LLM-Driven Action…](https://medium.com/rossoctl-the-agentic-platform/the-scanner-fixer-pattern-self-maintaining-repos-with-deterministic-discovery-llm-driven-action-389ff7703706?source=rss------programming-5) (2026-08-01)
+- [5 Everyday AI Tools That Will Save You 10+ Hours Every Week](https://medium.com/@udaykirangali2/5-everyday-ai-tools-that-will-save-you-10-hours-every-week-0f24bd61da8f?source=rss------programming-5) (2026-08-01)
+- [Django Project Architecture Explained: An End-to-End Guide Using a Photo Album Application | Best…](https://medium.com/@pranavsb699/django-project-architecture-explained-an-end-to-end-guide-using-a-photo-album-application-620ca86c2fd9?source=rss------programming-5) (2026-08-01)
+- [Compile Time or Runtime? Here’s How to Tell the Difference](https://kothapalli-gayathri.medium.com/compile-time-or-runtime-heres-how-to-tell-the-difference-bb980f64ddf8?source=rss------programming-5) (2026-08-01)
+- [7 Lessons I Learned That No Coding Bootcamp Ever Taught Me](https://abdulwahabdev.medium.com/7-lessons-i-learned-that-no-coding-bootcamp-ever-taught-me-78cf9142947a?source=rss------programming-5) (2026-08-01)
+- [Complete Guide to System and Network Administration](https://medium.com/@riyaxhal/complete-guide-to-system-and-network-administration-5387822610aa?source=rss------programming-5) (2026-08-01)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
-- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
+- [Frontier models and production agents: Advancing Microsoft Foundry for the agentic era](https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/) (2026-07-09)
 - [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
+- [External key management for Azure Managed HSM is now in public preview](https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/) (2026-07-07)
+- [Meet Brain: The AI system behind Azure reliability](https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/) (2026-07-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
-- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
+- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
+- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
 
 </details>
 
