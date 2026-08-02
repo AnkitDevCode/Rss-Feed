@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals) (2026-08-02)
-- [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/) (2026-08-02)
-- [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm) (2026-08-02)
-- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x) (2026-08-02)
-- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) (2026-08-02)
+- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open) (2026-08-02)
+- [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701) (2026-08-02)
+- [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) (2026-08-02)
+- [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index) (2026-08-02)
+- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) (2026-08-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) (2026-08-02)
+- [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple) (2026-08-02)
 - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak) (2026-08-01)
 - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead) (2026-08-01)
 - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) (2026-08-01)
-- [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records) (2026-08-01)
-- [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran) (2026-08-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Losing My Typora License Led to Building My Own Markdown Editor](https://dev.to/aairom/how-losing-my-typora-license-led-to-building-my-own-markdown-editor-242j) (2026-08-02)
-- [Twelve UI easing curves, written out so you can read them](https://dev.to/studioxdevbase/twelve-ui-easing-curves-written-outjavascript-csharp-webdev-gamedev-so-you-can-read-them-3p34) (2026-08-02)
-- [Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp) (2026-08-02)
-- [Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m) (2026-08-02)
-- [bindantic: describe BIND9 config as Pydantic models](https://dev.to/daniil_gruzdev_456e86a393/bindantic-describe-bind9-config-as-pydantic-models-1dm2) (2026-08-02)
+- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01) (2026-08-02)
+- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614) (2026-08-02)
+- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o) (2026-08-02)
+- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi) (2026-08-02)
+- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7) (2026-08-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Moment I Realized I Was Prompting Instead of Engineering](https://medium.com/skillstuff/the-moment-i-realized-i-was-prompting-instead-of-engineering-d32a084afa29?source=rss------programming-5) (2026-08-02)
-- [TryHackMe Overheard at Breakfast Walkthrough | Hacker Holidays 2026 Day 6 Complete Write-Up](https://medium.com/@antor.csecu/tryhackme-overheard-at-breakfast-walkthrough-hacker-holidays-2026-day-6-complete-write-up-d6e6fa6e5e4c?source=rss------programming-5) (2026-08-02)
-- [How I Added a Built-In Flashlight Feature to My Flutter App](https://medium.com/@ankii8946/how-i-added-a-built-in-flashlight-feature-to-my-flutter-app-6c56ff2a4ae8?source=rss------programming-5) (2026-08-02)
-- [One Website, One Finn, and No Download Button: Why Airport Simulator Is So Addictive (and How It’s…](https://medium.com/@lluisabg/one-website-one-finn-and-no-download-button-why-airport-simulator-is-so-addictive-and-how-its-0875b2b625bf?source=rss------programming-5) (2026-08-02)
-- [I Was Convinced I Had My Priorities Right. Then She Said Something.](https://medium.com/readers-club/i-was-convinced-i-had-my-priorities-right-then-she-said-something-d64bfbb64cb4?source=rss------programming-5) (2026-08-02)
+- [Master Linked List from Scratch](https://medium.com/@tanvir011/master-linked-list-from-scratch-a9fa2fee57fd?source=rss------programming-5) (2026-08-02)
+- [Built a MyBatis-Like Framework for HTTP APIs in Java](https://medium.com/@goudingcheng/built-a-mybatis-like-framework-for-http-apis-in-java-af8e8b5c66e0?source=rss------programming-5) (2026-08-02)
+- [Why Browser-Based Tools Matter: Protecting Your Data from Unnecessary Leakage](https://mharoon1296.medium.com/why-browser-based-tools-matter-protecting-your-data-from-unnecessary-leakage-7a3ef18d8690?source=rss------programming-5) (2026-08-02)
+- [Google OKF + Hermes Agent + Gbrain: Turn Any Folder Into a Knowledge Graph](https://medium.com/@GaoDalie_AI/google-okf-hermes-agent-gbrain-turn-any-folder-into-a-knowledge-graph-eb91d072326d?source=rss------programming-5) (2026-08-02)
+- [Someone Else’s AI Is About to Push Code to Your Repo](https://medium.com/@peoples.chris/ai-agents-in-github-actions-a-critical-prompt-injection-rce-2b6a0989cfa6?source=rss------programming-5) (2026-08-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
-- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
+- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -555,35 +555,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Replaced a 15-Minute Booking Process with a LangGraph AI Agent](https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/) (2026-08-02)
 - [Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/) (2026-08-01)
 - [Put the Agent Inside the Workflow](https://towardsdatascience.com/put-the-agent-inside-the-workflow/) (2026-08-01)
 - [The 3× Token Bill We Didn’t See Coming](https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/) (2026-07-31)
 - [When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop](https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/) (2026-07-31)
-- [How to Debug AI Coding Agents When They Change the Wrong Thing](https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/) (2026-07-31)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agentic Misalignment Explained: When AI Agents Go Rogue](https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/) (2026-08-02)
 - [LanceDB Vector Database Guide: Features, Python Demo](https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/) (2026-08-01)
 - [July 2026 AI Releases: A Timeline of Frontier Model Shifts](https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/) (2026-07-31)
 - [Claude Code CLI Commands I Wish I Had Known Sooner](https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/) (2026-07-30)
 - [How to Create Custom Skills in Claude: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/) (2026-07-29)
-- [Graph Engineering for AI Agents: Beyond the Single-Agent Loop](https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/) (2026-07-28)
 
 </details>
 
