@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/) (2026-08-02)
+- [TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/) (2026-08-02)
+- [These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/) (2026-08-02)
 - [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/) (2026-08-01)
 - [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) (2026-08-01)
-- [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) (2026-08-01)
-- [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/) (2026-08-01)
-- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) (2026-08-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open) (2026-08-02)
-- [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701) (2026-08-02)
-- [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) (2026-08-02)
-- [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index) (2026-08-02)
-- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) (2026-08-02)
+- [Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/) (2026-08-02)
+- [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark) (2026-08-02)
+- [Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/) (2026-08-02)
+- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) (2026-08-02)
+- [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/) (2026-08-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros) (2026-08-02)
+- [Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale) (2026-08-02)
+- [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review) (2026-08-02)
 - [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) (2026-08-02)
 - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple) (2026-08-02)
-- [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak) (2026-08-01)
-- [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead) (2026-08-01)
-- [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) (2026-08-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01) (2026-08-02)
-- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614) (2026-08-02)
-- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o) (2026-08-02)
-- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi) (2026-08-02)
-- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7) (2026-08-02)
+- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2) (2026-08-02)
+- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme) (2026-08-02)
+- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18) (2026-08-02)
+- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o) (2026-08-02)
+- [I Let an AI Re-Platform My CI Pipeline. Here's What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8) (2026-08-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Master Linked List from Scratch](https://medium.com/@tanvir011/master-linked-list-from-scratch-a9fa2fee57fd?source=rss------programming-5) (2026-08-02)
-- [Built a MyBatis-Like Framework for HTTP APIs in Java](https://medium.com/@goudingcheng/built-a-mybatis-like-framework-for-http-apis-in-java-af8e8b5c66e0?source=rss------programming-5) (2026-08-02)
-- [Why Browser-Based Tools Matter: Protecting Your Data from Unnecessary Leakage](https://mharoon1296.medium.com/why-browser-based-tools-matter-protecting-your-data-from-unnecessary-leakage-7a3ef18d8690?source=rss------programming-5) (2026-08-02)
-- [Google OKF + Hermes Agent + Gbrain: Turn Any Folder Into a Knowledge Graph](https://medium.com/@GaoDalie_AI/google-okf-hermes-agent-gbrain-turn-any-folder-into-a-knowledge-graph-eb91d072326d?source=rss------programming-5) (2026-08-02)
-- [Someone Else’s AI Is About to Push Code to Your Repo](https://medium.com/@peoples.chris/ai-agents-in-github-actions-a-critical-prompt-injection-rce-2b6a0989cfa6?source=rss------programming-5) (2026-08-02)
+- [Rotating a Matrix 90°: The Transpose-and-Reverse Trick](https://markusfarkus.medium.com/rotating-a-matrix-90-the-transpose-and-reverse-trick-be39ea7f5105?source=rss------programming-5) (2026-08-02)
+- [Why Kaching Is Paying Users Before Its Launchpad Even Opens](https://medium.com/@ayomide_66587/why-kaching-is-paying-users-before-its-launchpad-even-opens-f0813b79f529?source=rss------programming-5) (2026-08-02)
+- [Top 10 Open-Source Dev Tools Every Engineer Should Use in 2026](https://medium.com/@thisaru.ranathunga/top-10-open-source-dev-tools-every-engineer-should-use-in-2026-24f39c49b3fe?source=rss------programming-5) (2026-08-02)
+- [The Foundations of Backend Engineering, Introduction](https://medium.com/@kushagradpr2005/the-foundations-of-backend-engineering-introduction-8c910853f6de?source=rss------programming-5) (2026-08-02)
+- [HTTP Status Codes: The Little Numbers That Tell You Everything](https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss------programming-5) (2026-08-02)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Welcome to Agents Week](https://blog.cloudflare.com/agents-week-welcome/) (2026-08-02)
 - [An API for MoQ: provision your own isolated relays](https://blog.cloudflare.com/moq-relays/) (2026-07-31)
 - [Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform](https://blog.cloudflare.com/cdnjs-dev-platform-migration/) (2026-07-30)
 - [Post-quantum authentication to origins is now supported](https://blog.cloudflare.com/post-quantum-authentication-to-origins/) (2026-07-29)
 - [Natural disasters and government interference: examining Q2 2026’s major Internet disruption events](https://blog.cloudflare.com/q2-2026-internet-disruption-summary/) (2026-07-28)
-- [We’re open-sourcing our privacy proxy CLI](https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/) (2026-07-27)
 
 </details>
 
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
+- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
+- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Apply Coding Agents to Non-Programming Tasks](https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/) (2026-08-02)
 - [I Replaced a 15-Minute Booking Process with a LangGraph AI Agent](https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/) (2026-08-02)
 - [Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/) (2026-08-01)
 - [Put the Agent Inside the Workflow](https://towardsdatascience.com/put-the-agent-inside-the-workflow/) (2026-08-01)
 - [The 3× Token Bill We Didn’t See Coming](https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/) (2026-07-31)
-- [When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop](https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/) (2026-07-31)
 
 </details>
 
