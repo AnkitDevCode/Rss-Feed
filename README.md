@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) (2026-08-02)
-- [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/) (2026-08-02)
-- [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002) (2026-08-02)
-- [Walsh: Multi-agent research pipeline with risk manager that can veto trades](https://github.com/ats4321/walsh) (2026-08-02)
-- [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/) (2026-08-02)
+- [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals) (2026-08-02)
+- [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/) (2026-08-02)
+- [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm) (2026-08-02)
+- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x) (2026-08-02)
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) (2026-08-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Picking a Random Name From a List: A Practical Decision Guide for Engineers](https://dev.to/lizely/picking-a-random-name-from-a-list-a-practical-decision-guide-for-engineers-52gj) (2026-08-02)
-- [Context compaction happens in the dark. I made it happen on a map.](https://dev.to/chenxiachan/context-compaction-happens-in-the-dark-i-made-it-happen-on-a-map-41k2) (2026-08-02)
-- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef) (2026-08-02)
-- [Self-Hosted InsForge Now Supports S3 Storage](https://dev.to/insforgeblog/self-hosted-insforge-now-supports-s3-storage-1le0) (2026-08-02)
-- [Build a Health Autopilot: Mastering LangGraph for Chronic Disease Management 🩺🤖](https://dev.to/wellallytech/build-a-health-autopilot-mastering-langgraph-for-chronic-disease-management-4fp2) (2026-08-02)
+- [How Losing My Typora License Led to Building My Own Markdown Editor](https://dev.to/aairom/how-losing-my-typora-license-led-to-building-my-own-markdown-editor-242j) (2026-08-02)
+- [Twelve UI easing curves, written out so you can read them](https://dev.to/studioxdevbase/twelve-ui-easing-curves-written-outjavascript-csharp-webdev-gamedev-so-you-can-read-them-3p34) (2026-08-02)
+- [Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp) (2026-08-02)
+- [Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m) (2026-08-02)
+- [bindantic: describe BIND9 config as Pydantic models](https://dev.to/daniil_gruzdev_456e86a393/bindantic-describe-bind9-config-as-pydantic-models-1dm2) (2026-08-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Perfectly Pointed Tooltips: Building Corner-Aware Tooltips with Modern CSS](https://er-raj-aryan.medium.com/perfectly-pointed-tooltips-building-corner-aware-tooltips-with-modern-css-c3742333c2ef?source=rss------programming-5) (2026-08-02)
-- [Spring’s Creator Is Back: 60% Fewer LLM Calls](https://medium.com/@coolercoder/springs-creator-is-back-60-fewer-llm-calls-e8fa9ad3655f?source=rss------programming-5) (2026-08-02)
-- [Vibe Coding Is Shipping Security Disasters Into Production. Here Are the Real Ones.](https://medium.com/predict/vibe-coding-is-shipping-security-disasters-into-production-here-are-the-real-ones-1c01adc0f6ea?source=rss------programming-5) (2026-08-02)
-- [One Line of SQL Changed Everything.](https://medium.com/engineering-playbook/one-line-of-sql-changed-everything-13d9463225b4?source=rss------programming-5) (2026-08-02)
-- [Most Developers Use Kafka Wrong](https://medium.com/@SoftwareInterviewRules/most-developers-use-kafka-wrong-88644547a652?source=rss------programming-5) (2026-08-02)
+- [The Moment I Realized I Was Prompting Instead of Engineering](https://medium.com/skillstuff/the-moment-i-realized-i-was-prompting-instead-of-engineering-d32a084afa29?source=rss------programming-5) (2026-08-02)
+- [TryHackMe Overheard at Breakfast Walkthrough | Hacker Holidays 2026 Day 6 Complete Write-Up](https://medium.com/@antor.csecu/tryhackme-overheard-at-breakfast-walkthrough-hacker-holidays-2026-day-6-complete-write-up-d6e6fa6e5e4c?source=rss------programming-5) (2026-08-02)
+- [How I Added a Built-In Flashlight Feature to My Flutter App](https://medium.com/@ankii8946/how-i-added-a-built-in-flashlight-feature-to-my-flutter-app-6c56ff2a4ae8?source=rss------programming-5) (2026-08-02)
+- [One Website, One Finn, and No Download Button: Why Airport Simulator Is So Addictive (and How It’s…](https://medium.com/@lluisabg/one-website-one-finn-and-no-download-button-why-airport-simulator-is-so-addictive-and-how-its-0875b2b625bf?source=rss------programming-5) (2026-08-02)
+- [I Was Convinced I Had My Priorities Right. Then She Said Something.](https://medium.com/readers-club/i-was-convinced-i-had-my-priorities-right-then-she-said-something-d64bfbb64cb4?source=rss------programming-5) (2026-08-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 - [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
-- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
+- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
+- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
 
 </details>
 
