@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/) (2026-08-01)
+- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) (2026-08-01)
+- [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) (2026-08-01)
 - [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/) (2026-08-01)
 - [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) (2026-08-01)
-- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) (2026-08-01)
-- [Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/) (2026-08-01)
-- [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/) (2026-08-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) (2026-08-01)
-- [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026) (2026-08-01)
-- [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990) (2026-08-01)
-- [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released) (2026-08-01)
-- [A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/) (2026-08-01)
+- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) (2026-08-02)
+- [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/) (2026-08-02)
+- [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002) (2026-08-02)
+- [Walsh: Multi-agent research pipeline with risk manager that can veto trades](https://github.com/ats4321/walsh) (2026-08-02)
+- [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/) (2026-08-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak) (2026-08-01)
+- [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead) (2026-08-01)
 - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) (2026-08-01)
 - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records) (2026-08-01)
 - [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran) (2026-08-01)
-- [The Verge’s 2026 back-to-school shopping guide](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts) (2026-08-01)
-- [You could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos) (2026-08-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Here's how engineers plan to save the satellite sent to save NASA's Swift mission](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/) (2026-08-01)
 - [Review: Yes, we're still arguing about Nolan's The Odyssey](https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/) (2026-08-01)
 - [As Reddit stock falls, CEO questions value of Google's AI Overviews](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) (2026-08-01)
 - [After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica](https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/) (2026-08-01)
 - [Defcon's new badge is a security key you can see inside](https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/) (2026-08-01)
-- [How fruit flies chase invisible ribbons of smell to get to their source](https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/) (2026-08-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What's new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e) (2026-08-01)
-- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6) (2026-08-01)
-- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42) (2026-08-01)
-- [Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6) (2026-08-01)
-- [Where the guardrail lives](https://dev.to/to21as/where-the-guardrail-lives-329p) (2026-08-01)
+- [Picking a Random Name From a List: A Practical Decision Guide for Engineers](https://dev.to/lizely/picking-a-random-name-from-a-list-a-practical-decision-guide-for-engineers-52gj) (2026-08-02)
+- [Context compaction happens in the dark. I made it happen on a map.](https://dev.to/chenxiachan/context-compaction-happens-in-the-dark-i-made-it-happen-on-a-map-41k2) (2026-08-02)
+- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef) (2026-08-02)
+- [Self-Hosted InsForge Now Supports S3 Storage](https://dev.to/insforgeblog/self-hosted-insforge-now-supports-s3-storage-1le0) (2026-08-02)
+- [Build a Health Autopilot: Mastering LangGraph for Chronic Disease Management 🩺🤖](https://dev.to/wellallytech/build-a-health-autopilot-mastering-langgraph-for-chronic-disease-management-4fp2) (2026-08-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building Cloud-Native .NET Applications in 2026](https://medium.com/c-sharp-programming/building-cloud-native-net-applications-in-2026-90a3054b2d63?source=rss------programming-5) (2026-08-01)
-- [Decommissioning 20 Servers: How We Tamed a 120-Project Legacy Monolith into Event-Driven AWS](https://medium.com/c-sharp-programming/decommissioning-20-servers-how-we-tamed-a-120-project-legacy-monolith-into-event-driven-aws-45c57bc4fe7e?source=rss------programming-5) (2026-08-01)
-- [The Hidden Cost of Coding with AI: Why Tomorrow’s Senior Engineers May Never Actually Learn to Code](https://pub.towardsai.net/the-hidden-cost-of-coding-with-ai-why-tomorrows-senior-engineers-may-never-actually-learn-to-code-aadbd2263c57?source=rss------programming-5) (2026-08-01)
-- [Amazon Didn’t Abandon Microservices. It Abandoned Unnecessary Complexity.](https://medium.com/@premchandak_11/amazon-didnt-abandon-microservices-it-abandoned-unnecessary-complexity-958886006398?source=rss------programming-5) (2026-08-01)
-- [Your Microscope Files Are Full of XML — Here’s How to Read Them](https://medium.com/@dr_Bat/your-microscope-files-are-full-of-xml-heres-how-to-read-them-eced5e05081b?source=rss------programming-5) (2026-08-01)
+- [Perfectly Pointed Tooltips: Building Corner-Aware Tooltips with Modern CSS](https://er-raj-aryan.medium.com/perfectly-pointed-tooltips-building-corner-aware-tooltips-with-modern-css-c3742333c2ef?source=rss------programming-5) (2026-08-02)
+- [Spring’s Creator Is Back: 60% Fewer LLM Calls](https://medium.com/@coolercoder/springs-creator-is-back-60-fewer-llm-calls-e8fa9ad3655f?source=rss------programming-5) (2026-08-02)
+- [Vibe Coding Is Shipping Security Disasters Into Production. Here Are the Real Ones.](https://medium.com/predict/vibe-coding-is-shipping-security-disasters-into-production-here-are-the-real-ones-1c01adc0f6ea?source=rss------programming-5) (2026-08-02)
+- [One Line of SQL Changed Everything.](https://medium.com/engineering-playbook/one-line-of-sql-changed-everything-13d9463225b4?source=rss------programming-5) (2026-08-02)
+- [Most Developers Use Kafka Wrong](https://medium.com/@SoftwareInterviewRules/most-developers-use-kafka-wrong-88644547a652?source=rss------programming-5) (2026-08-02)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
 
 </details>
 
