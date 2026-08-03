@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/) (2026-08-02)
+- [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) (2026-08-02)
 - [Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/) (2026-08-02)
 - [TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/) (2026-08-02)
 - [These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/) (2026-08-02)
-- [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/) (2026-08-01)
-- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) (2026-08-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/) (2026-08-02)
-- [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark) (2026-08-02)
-- [Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/) (2026-08-02)
-- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) (2026-08-02)
-- [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/) (2026-08-02)
+- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) (2026-08-03)
+- [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) (2026-08-03)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) (2026-08-03)
+- [Show HN: ssh ssh.place](https://ssh.place) (2026-08-03)
+- [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) (2026-08-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review) (2026-08-02)
+- [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music) (2026-08-02)
 - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros) (2026-08-02)
 - [Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale) (2026-08-02)
 - [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review) (2026-08-02)
-- [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) (2026-08-02)
-- [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple) (2026-08-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2) (2026-08-02)
-- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme) (2026-08-02)
-- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18) (2026-08-02)
-- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o) (2026-08-02)
-- [I Let an AI Re-Platform My CI Pipeline. Here's What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8) (2026-08-02)
+- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji) (2026-08-03)
+- [Zero-Downtime Database Migrations](https://dev.to/samson_tanimawo/zero-downtime-database-migrations-2nmi) (2026-08-03)
+- [Godot 4 GPUParticles2D not showing? 5 reasons your particles aren't appearing](https://dev.to/saltmire/godot-4-gpuparticles2d-not-showing-5-reasons-your-particles-arent-appearing-4hn3) (2026-08-03)
+- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm) (2026-08-03)
+- [My experience with python (so far)](https://dev.to/python_newbie/my-experience-with-python-so-far-4dfm) (2026-08-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rotating a Matrix 90°: The Transpose-and-Reverse Trick](https://markusfarkus.medium.com/rotating-a-matrix-90-the-transpose-and-reverse-trick-be39ea7f5105?source=rss------programming-5) (2026-08-02)
-- [Why Kaching Is Paying Users Before Its Launchpad Even Opens](https://medium.com/@ayomide_66587/why-kaching-is-paying-users-before-its-launchpad-even-opens-f0813b79f529?source=rss------programming-5) (2026-08-02)
-- [Top 10 Open-Source Dev Tools Every Engineer Should Use in 2026](https://medium.com/@thisaru.ranathunga/top-10-open-source-dev-tools-every-engineer-should-use-in-2026-24f39c49b3fe?source=rss------programming-5) (2026-08-02)
-- [The Foundations of Backend Engineering, Introduction](https://medium.com/@kushagradpr2005/the-foundations-of-backend-engineering-introduction-8c910853f6de?source=rss------programming-5) (2026-08-02)
-- [HTTP Status Codes: The Little Numbers That Tell You Everything](https://pub.towardsai.net/http-status-codes-the-little-numbers-that-tell-you-everything-82738381624d?source=rss------programming-5) (2026-08-02)
+- [OpenAI Astra : This AI Killed Mathematicians](https://medium.com/data-science-in-your-pocket/openai-astra-this-ai-killed-mathematicians-508e23f5d21f?source=rss------programming-5) (2026-08-03)
+- [From Story Points to AI Credits: The Next Evolution of Agile](https://medium.com/@imyom25/from-story-points-to-ai-credits-the-next-evolution-of-agile-c6a28016c5a1?source=rss------programming-5) (2026-08-03)
+- [Building a Sustainable Ecosystem at InterLink. #InterLink #ITLG #ITL](https://medium.com/@abenugraha89/building-a-sustainable-ecosystem-at-interlink-interlink-itlg-itl-f44c6d149aff?source=rss------programming-5) (2026-08-03)
+- [Why Moving Files Between My Own Devices Is Still More Complicated Than It Should Be](https://medium.com/@heyuyang1994/why-moving-files-between-my-own-devices-is-still-more-complicated-than-it-should-be-8da875a4a278?source=rss------programming-5) (2026-08-03)
+- [What Makes Bitcoin Secure?](https://medium.com/@twilightpxl/what-makes-bitcoin-secure-46e1fa4cc3e2?source=rss------programming-5) (2026-08-03)
 
 </details>
 
@@ -551,17 +551,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
-- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
-- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
-- [OpenAI report links coding agents to faster science software builds](https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/) (2026-07-29)
-- [Google AI Overviews become more common in search](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/) (2026-07-29)
 
 </details>
 
