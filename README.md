@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) (2026-08-03)
-- [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) (2026-08-03)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) (2026-08-03)
-- [Show HN: ssh ssh.place](https://ssh.place) (2026-08-03)
-- [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) (2026-08-03)
+- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai) (2026-08-03)
+- [Octane – React's programming model, compiled](https://octanejs.dev) (2026-08-03)
+- [The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/) (2026-08-03)
+- [The AI Productivity Gap](https://bjorg.bjornroche.com/management/ai-productivity-gap/) (2026-08-03)
+- [Show HN: I created a project management system](https://is.team) (2026-08-03)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) (2026-08-03)
 - [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/) (2026-07-31)
 - [Montana’s new “right to try” law can’t come soon enough for some](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/) (2026-07-31)
 - [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) (2026-07-30)
 - [The Download: tricking LLMs, and reviving geothermal plants](https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/) (2026-07-30)
-- [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) (2026-07-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji) (2026-08-03)
-- [Zero-Downtime Database Migrations](https://dev.to/samson_tanimawo/zero-downtime-database-migrations-2nmi) (2026-08-03)
-- [Godot 4 GPUParticles2D not showing? 5 reasons your particles aren't appearing](https://dev.to/saltmire/godot-4-gpuparticles2d-not-showing-5-reasons-your-particles-arent-appearing-4hn3) (2026-08-03)
-- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm) (2026-08-03)
-- [My experience with python (so far)](https://dev.to/python_newbie/my-experience-with-python-so-far-4dfm) (2026-08-03)
+- [Fail the build when your prompt gets dumber: evalgate for prompt regression CI](https://dev.to/royalpinto007/fail-the-build-when-your-prompt-gets-dumber-evalgate-for-prompt-regression-ci-4k36) (2026-08-03)
+- [5 Career Lessons I Didn't Expect to Learn in Church](https://dev.to/towernter/5-career-lessons-i-didnt-expect-to-learn-in-church-3fle) (2026-08-03)
+- [langchain-rust: Build LLM apps with Ollama + local models in pure Rust — no Python needed](https://dev.to/lili_at_32369546c2947bd24/langchain-rust-build-llm-apps-with-ollama-local-models-in-pure-rust-no-python-needed-52jl) (2026-08-03)
+- [I Let an AI Orb Judge My Facial Expressions While I Code, and Here's What Happened](https://dev.to/trojanmocx/i-let-an-ai-orb-judge-my-facial-expressions-while-i-code-and-heres-what-happened-45a0) (2026-08-03)
+- [Why the Boring Businesses Win](https://dev.to/bestsaasideas/why-the-boring-businesses-win-fk4) (2026-08-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [OpenAI Astra : This AI Killed Mathematicians](https://medium.com/data-science-in-your-pocket/openai-astra-this-ai-killed-mathematicians-508e23f5d21f?source=rss------programming-5) (2026-08-03)
-- [From Story Points to AI Credits: The Next Evolution of Agile](https://medium.com/@imyom25/from-story-points-to-ai-credits-the-next-evolution-of-agile-c6a28016c5a1?source=rss------programming-5) (2026-08-03)
-- [Building a Sustainable Ecosystem at InterLink. #InterLink #ITLG #ITL](https://medium.com/@abenugraha89/building-a-sustainable-ecosystem-at-interlink-interlink-itlg-itl-f44c6d149aff?source=rss------programming-5) (2026-08-03)
-- [Why Moving Files Between My Own Devices Is Still More Complicated Than It Should Be](https://medium.com/@heyuyang1994/why-moving-files-between-my-own-devices-is-still-more-complicated-than-it-should-be-8da875a4a278?source=rss------programming-5) (2026-08-03)
-- [What Makes Bitcoin Secure?](https://medium.com/@twilightpxl/what-makes-bitcoin-secure-46e1fa4cc3e2?source=rss------programming-5) (2026-08-03)
+- [Claude Code Drives the iOS Simulator Now. It Still Can’t Get Past Your Login Screen.](https://medium.com/@er.rajatlakhina/claude-code-drives-the-ios-simulator-now-it-still-cant-get-past-your-login-screen-feac4dba5466?source=rss------programming-5) (2026-08-03)
+- [He Had the Right Answer in Every Architecture Review. He Just Never Won the Room.](https://blog.stackademic.com/he-had-the-right-answer-in-every-architecture-review-he-just-never-won-the-room-2491b75103c2?source=rss------programming-5) (2026-08-03)
+- [The Graphs Said We Had Room to Spare. The System Was Already Choking to Death.](https://blog.stackademic.com/the-graphs-said-we-had-room-to-spare-the-system-was-already-choking-to-death-4e6aff1764aa?source=rss------programming-5) (2026-08-03)
+- [ The Biggest SeaORM Release Yet](https://medium.com/rustaceans/the-biggest-seaorm-release-yet-c3fa5ad70b5d?source=rss------programming-5) (2026-08-03)
+- [The Server Wasn’t Dead. It Was Worse Than Dead. It Was Alive and Doing Nothing.](https://medium.com/javarevisited/the-server-wasnt-dead-it-was-worse-than-dead-it-was-alive-and-doing-nothing-61825af71169?source=rss------programming-5) (2026-08-03)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway) (2026-08-02)
 - [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts) (2026-07-31)
 - [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway) (2026-07-31)
 - [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams) (2026-07-31)
 - [AI Gateway logs now have a dedicated page](https://vercel.com/changelog/ai-gateway-logs) (2026-07-31)
-- [Vercel MCP now supports the 2026-07-28 MCP specification](https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification) (2026-07-31)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
-- [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
-- [Employee Retention Strategies to Reduce Turnover](https://slack.com/blog/collaboration/employee-retention) (2026-07-21)
 
 </details>
 
