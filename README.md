@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/) (2026-08-03)
-- [Samsung bans smart TV apps that share users’ internet connections with strangers](https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/) (2026-08-03)
-- [A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/) (2026-08-03)
-- [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/) (2026-08-02)
-- [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) (2026-08-02)
+- [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) (2026-08-03)
+- [Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/) (2026-08-03)
+- [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) (2026-08-03)
+- [Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/) (2026-08-03)
+- [WhatsApp says it is is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/) (2026-08-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) (2026-08-03)
-- [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/) (2026-08-03)
-- [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492) (2026-08-03)
-- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) (2026-08-03)
-- [9front "This Was Supposed to Be Fun" Released](https://9front.org/releases/2026/08/02/0/) (2026-08-03)
+- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/) (2026-08-03)
+- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) (2026-08-03)
+- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) (2026-08-03)
+- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/) (2026-08-03)
+- [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust) (2026-08-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend](https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax) (2026-08-03)
-- [Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced](https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale) (2026-08-03)
-- [Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops) (2026-08-03)
-- [Big Walk is like co-op Breath of the Wild](https://www.theverge.com/games/973166/big-walk-review) (2026-08-03)
-- [China&#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai) (2026-08-03)
+- [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes) (2026-08-03)
+- [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale) (2026-08-03)
+- [Microsoft is bringing Xbox 360 games to PC](https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program) (2026-08-03)
+- [Bluesky’s new CEO wants a big tent, not a bubble](https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere) (2026-08-03)
+- [Palworld’s expanding to mobile with a new MMORPG](https://www.theverge.com/games/974450/palworld-online-mobile-mmo) (2026-08-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet](https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/) (2026-08-03)
+- [SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana](https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/) (2026-08-03)
 - [Trump wants the power to stop the public from suing polluters](https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/) (2026-08-03)
 - [How headlights got brighter, whiter, and more blinding after dark](https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/) (2026-08-03)
 - [Here's how engineers plan to save the satellite sent to save NASA's Swift mission](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/) (2026-08-01)
-- [Review: Yes, we're still arguing about Nolan's The Odyssey](https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/) (2026-08-01)
-- [As Reddit stock falls, CEO questions value of Google's AI Overviews](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) (2026-08-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) (2026-08-03)
 - [The Download: reward hacking explained, and suspected Iranian cyberattacks](https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/) (2026-08-03)
 - [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) (2026-08-03)
 - [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/) (2026-07-31)
 - [Montana’s new “right to try” law can’t come soon enough for some](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/) (2026-07-31)
-- [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) (2026-07-30)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Let another AI write your teacher data](https://dev.to/lyr/let-another-ai-write-your-teacher-data-5d1p) (2026-08-03)
-- [Cloudagotchi Part 4 : My Tamagotchi reads me the AWS news](https://dev.to/aws/cloudagotchi-part-4-my-tamagotchi-reads-me-the-aws-news-9do) (2026-08-03)
-- [The AI that was smart on the bench suddenly started making mistakes in production](https://dev.to/lyr/the-ai-that-was-smart-on-the-bench-suddenly-started-making-mistakes-in-production-463j) (2026-08-03)
-- [Las nuevas reglas del "context engineering" para los modelos Claude 5: mis takeaways](https://dev.to/victoraguilarc/las-nuevas-reglas-del-context-engineering-para-los-modelos-claude-5-mis-takeaways-pl0) (2026-08-03)
-- [How to Process a Large CSV in Node Without Running Out of Memory](https://dev.to/mwiginton/how-to-process-a-large-csv-in-node-without-running-out-of-memory-46dn) (2026-08-03)
+- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o) (2026-08-03)
+- [Germany's Energy Revolution: Wind and Solar Overtake Fossil Fuels for the First Time](https://dev.to/kaixintelligence/germanys-energy-revolution-wind-and-solar-overtake-fossil-fuels-for-the-first-time-1kpj) (2026-08-03)
+- [Celebrating 45 Years of Kermit: The Protocol That Refuses to Die, Now Reborn in C](https://dev.to/kaixintelligence/celebrating-45-years-of-kermit-the-protocol-that-refuses-to-die-now-reborn-in-c-5f54) (2026-08-03)
+- [Ten Breakthrough Advances in Mathematics and Theoretical Computer Science (2026)](https://dev.to/kaixintelligence/ten-breakthrough-advances-in-mathematics-and-theoretical-computer-science-2026-13ac) (2026-08-03)
+- [Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei) (2026-08-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Biggest Labor Shortage in American History Is Already Here.](https://medium.com/@kayceEagan/the-biggest-labor-shortage-in-american-history-is-already-here-f765a5f11c66?source=rss------programming-5) (2026-08-03)
-- [The JavaScript Call Stack: How Your Browser Keeps Track of Everything](https://medium.com/@rajshukla140/the-javascript-call-stack-how-your-browser-keeps-track-of-everything-9837b09a3772?source=rss------programming-5) (2026-08-03)
-- [Imperative Programming and the Geopolitical Prompt](https://medium.com/@arnohainet/imperative-programming-and-the-geopolitical-prompt-7855d03f60ad?source=rss------programming-5) (2026-08-03)
-- [Watching live TV on a Windows PC or laptop has become easier than ever.](https://medium.com/@stirimed12/watching-live-tv-on-a-windows-pc-or-laptop-has-become-easier-than-ever-a852acf9b563?source=rss------programming-5) (2026-08-03)
-- [I Used to Think Structs in Go Were Objects](https://medium.com/@ahmadyusup159/i-used-to-think-structs-in-go-were-objects-f09d3526d780?source=rss------programming-5) (2026-08-03)
+- [Production Incident Interview: Your API Latency Suddenly Doubled. What Do You Check First?](https://medium.com/engineering-playbook/production-incident-interview-your-api-latency-suddenly-doubled-what-do-you-check-first-06786e69f1b8?source=rss------programming-5) (2026-08-03)
+- [What are some good backend development habits?](https://medium.com/@umeshcapg/what-are-some-good-backend-development-habits-d369ecd3781d?source=rss------programming-5) (2026-08-03)
+- [He Had the Perfect System Design. He Still Failed the Interview. The Interviewer Told Me Why.](https://medium.com/@coding_with_tech/he-had-the-perfect-system-design-he-still-failed-the-interview-the-interviewer-told-me-why-87a28a028b36?source=rss------programming-5) (2026-08-03)
+- [Your API Is Small Today. Your Architecture Is Already Broken.](https://medium.com/engineering-playbook/your-api-is-small-today-your-architecture-is-already-broken-3379f7501a1a?source=rss------programming-5) (2026-08-03)
+- [The Junior on My Team Froze During Her First Outage.](https://medium.com/javarevisited/the-junior-on-my-team-froze-during-her-first-outage-e6851fa217de?source=rss------programming-5) (2026-08-03)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/) (2026-08-03)
 - [AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/) (2026-07-27)
 - [AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/) (2026-07-20)
 - [Amazon SQS turns 20: Two decades of reliable messaging at scale](https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/) (2026-07-13)
 - [AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/) (2026-07-13)
-- [AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/) (2026-07-06)
 
 </details>
 
@@ -174,11 +174,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0) (2026-08-03)
+- [Node.js 24.19.0 (LTS)](https://nodejs.org/en/blog/release/v24.19.0) (2026-08-03)
 - [Node.js 24.18.1 (LTS)](https://nodejs.org/en/blog/release/v24.18.1) (2026-07-29)
 - [Node.js 26.5.1 (Current)](https://nodejs.org/en/blog/release/v26.5.1) (2026-07-29)
 - [Node.js 22.23.2 (LTS)](https://nodejs.org/en/blog/release/v22.23.2) (2026-07-29)
-- [Wednesday, July 29, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases) (2026-07-29)
-- [Check out the New Node.js API Documentation Preview](https://nodejs.org/en/blog/announcements/new-api-docs-beta) (2026-07-24)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) (2026-08-03)
 - [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) (2026-07-31)
 - [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) (2026-07-29)
 - [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) (2026-07-14)
 - [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
-- [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) (2026-07-13)
 
 </details>
 
@@ -240,11 +240,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model](https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/) (2026-08-03)
 - [Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization](https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/) (2026-07-15)
 - [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/) (2026-07-13)
 - [Meta’s AI Storage Blueprint at Scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/) (2026-07-01)
 - [10 Years of Meta’s Commitment to Python](https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/) (2026-06-30)
-- [Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study](https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/) (2026-06-25)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Learn pandas the Right Way: A Python Library Course That Doesn’t Waste Your Time](https://blog.jetbrains.com/education/2026/08/03/mastering-pandas-python-course/) (2026-08-03)
 - [Our First Moves to Get AI Spend Under Control](https://blog.jetbrains.com/ai/2026/08/our-first-moves-to-get-ai-spend-under-control/) (2026-08-03)
 - [Know Kotlin? Ship It Everywhere and Win at Shipaton 2026](https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/) (2026-07-31)
 - [The Complete Package: Why Debugging Is Only Half the C# Productivity Story](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/) (2026-07-30)
 - [PyTorch Tutorial for Deep Learning](https://blog.jetbrains.com/pycharm/2026/07/pytorch-tutorial-for-deep-learning/) (2026-07-29)
-- [Qodana 2026.2: More Security, Better Coverage, Less Configuration](https://blog.jetbrains.com/qodana/2026/07/qodana-2026-2-more-security-better-coverage-less-configuration/) (2026-07-29)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available) (2026-08-03)
+- [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams) (2026-08-03)
 - [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway) (2026-08-02)
 - [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts) (2026-07-31)
 - [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway) (2026-07-31)
-- [Chat SDK now supports reactions and ephemeral messages on Teams](https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams) (2026-07-31)
-- [AI Gateway logs now have a dedicated page](https://vercel.com/changelog/ai-gateway-logs) (2026-07-31)
 
 </details>
 
@@ -392,7 +392,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Building Secure AI Agents with Microsoft Agent Framework and Auth0: User Authentication](https://auth0.com/blog/building-secure-ai-agents-with-microsoft-agent-framework-and-auth0-part-1-user-authentication/) (2026-07-31)
+- [Building Secure AI Agents with Microsoft Agent Framework and Auth0: User Authentication](https://auth0.com/blog/building-secure-ai-agents-with-microsoft-agent-framework-and-auth0-part-1-user-authentication/) (2026-08-03)
 - [Handling Auth in Next.js 16 with Server Actions and Middleware](https://auth0.com/blog/handling-auth-nextjs16-with-server-actions-middleware/) (2026-07-31)
 - [Token Vault Privileged Worker: Secure Access for Agents That Never Sleep](https://auth0.com/blog/token-vault-privileged-worker-early-access/) (2026-07-30)
 - [Agent as Principal: A Purpose-Built Identity for Agents](https://auth0.com/blog/agent-as-principal-purpose-built-identity-for-agents/) (2026-07-30)
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 8 best AI scheduling assistants](https://zapier.com/blog/best-ai-scheduling) (2026-08-03)
+- [The 8 best AI image generators in 2026](https://zapier.com/blog/best-ai-image-generator) (2026-08-03)
+- [What is role-based access control (RBAC)?](https://zapier.com/blog/role-based-access-control) (2026-08-03)
 - [7 chatbot use cases for your business](https://zapier.com/blog/chatbot-use-cases) (2026-08-03)
-- [AI integration: How to bring AI into your workflows](https://zapier.com/blog/ai-integration) (2026-07-30)
-- [The 10 best AI email assistants in 2026](https://zapier.com/blog/best-ai-email-assistant) (2026-07-30)
-- [What is enterprise AI? And how to implement it](https://zapier.com/blog/enterprise-ai) (2026-07-30)
-- [The best mind mapping software in 2026](https://zapier.com/blog/best-mind-mapping-software) (2026-07-29)
+- [AI frameworks: Definition, types, and how to choose](https://zapier.com/blog/ai-frameworks) (2026-08-03)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On](https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/) (2026-08-03)
+- [How to Build CLI Agents with Python & Ollama](https://towardsdatascience.com/cli-agents-with-python-ollama/) (2026-08-03)
 - [The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?](https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/) (2026-08-03)
 - [How Claude Help Me Build My $200k+ ML Resume](https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/) (2026-08-03)
 - [How to Apply Coding Agents to Non-Programming Tasks](https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/) (2026-08-02)
-- [I Replaced a 15-Minute Booking Process with a LangGraph AI Agent](https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/) (2026-08-02)
-- [Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/) (2026-08-01)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Does MiniMax Agent Actually Make Work Easier?](https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier) (2026-08-03)
 - [A Guide to Saving Token Usage with Multi-Agent AI](https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai) (2026-08-03)
 - [KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27) (2026-08-01)
 - [Building Voice-Controlled AI Agents](https://www.kdnuggets.com/building-voice-controlled-ai-agents) (2026-07-31)
 - [5 Books That Will Deepen Your Understanding of Large Language Models](https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models) (2026-07-31)
-- [A Beginner’s Guide to Working with Claude Design](https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design) (2026-07-30)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Decoding Strategies and Output Control](https://machinelearningmastery.com/decoding-strategies-and-output-control/) (2026-08-03)
+- [Using a Transformer Model: From Training to Inference](https://machinelearningmastery.com/using-a-transformer-model-from-training-to-inference/) (2026-07-31)
 - [The End-to-End Agentic AI Pipeline](https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/) (2026-07-30)
 - [Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?](https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/) (2026-07-29)
 - [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) (2026-07-27)
-- [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) (2026-07-24)
-- [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) (2026-07-23)
 
 </details>
 
