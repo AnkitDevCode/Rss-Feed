@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) (2026-08-04)
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/) (2026-08-04)
+- [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/) (2026-08-04)
+- [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle) (2026-08-03)
 - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf) (2026-08-03)
-- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) (2026-08-03)
-- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/) (2026-08-03)
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) (2026-08-03)
-- [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real) (2026-08-03)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your MVP doesn’t need a Kubernetes cluster​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/) (2026-08-04)
 - [Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍‌‌​﻿​﻿​﻿​​‌‍​‍​﻿‌‍‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿‌​‌‍‌​​﻿​​​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍‌‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌‌‍​‍​﻿​﻿​‍﻿‌​﻿‌﻿​﻿​‌​﻿​﻿​﻿‍‌‌‍​‌​﻿‍‌‌‍​‍​﻿​﻿​﻿‌﻿‌‍‌​‌‍​﻿​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍‌‌​﻿​﻿​﻿​​‌‍​‍​﻿‌‍‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿‌​‌‍‌​​﻿​​​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍‌‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌‌‍​‍​﻿​﻿​‍﻿‌​﻿‌﻿​﻿​‌​﻿​﻿​﻿‍‌‌‍​‌​﻿‍‌‌‍​‍​﻿​﻿​﻿‌﻿‌‍‌​‌‍​﻿​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/) (2026-07-31)
 - [What happens to the internet when robots act like humans?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/) (2026-07-31)
 - [Your trusted knowledge layer: Introducing Stack Internal's new platform experience​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/) (2026-07-30)
 - [Developers are attached to tools because tools encode trust​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) (2026-07-29)
-- [You need reliable AI context for your site reliability​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌](https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/) (2026-07-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Secure Your Health Data: Mastering Privacy-Preserving Inference with Intel SGX and Gramine 🛡️💊](https://dev.to/wellallytech/secure-your-health-data-mastering-privacy-preserving-inference-with-intel-sgx-and-gramine-ep4) (2026-08-04)
-- [A small Bangla toolkit for Unicode and Bijoy workflows](https://dev.to/pier_jordane_cbef534638b7/a-small-bangla-toolkit-for-unicode-and-bijoy-workflows-3h9) (2026-08-04)
-- [Tips for Running Stable Background ML Inference on macOS](https://dev.to/orca_forge/tips-for-running-stable-background-ml-inference-on-macos-26dc) (2026-08-04)
-- [Handling Notification Taps in expo-notifications: Launch vs. Runtime](https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf) (2026-08-04)
-- [Claude Code subagents: how .claude/agents files work, and why Claude never uses yours](https://dev.to/rulestack/claude-code-subagents-how-claudeagents-files-work-and-why-claude-never-uses-yours-31bl) (2026-08-04)
+- [bias_guardrail.py](https://dev.to/maria_josegonzalezantel_80/biasguardrailpy-f9j) (2026-08-04)
+- [7 Best OCR Tools with AI in 2026 (Compared)](https://dev.to/kevin_menesesgonzlez/7-best-ocr-tools-with-ai-in-2026-compared-1189) (2026-08-04)
+- [I gave a user the right answer with the wrong mechanism. They caught it within a day.](https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41) (2026-08-04)
+- [How I Built a Free SVG to PNG Converter in 1 Hour](https://dev.to/sharefun2023/how-i-built-a-free-svg-to-png-converter-in-1-hour-4ci9) (2026-08-04)
+- [Exploring MiniMax H3: An Omni-Modal Leap in Local Video Generation](https://dev.to/karnikkhanwilkar/exploring-minimax-h3-an-omni-modal-leap-in-local-video-generation-5g30) (2026-08-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Constraints Make Better Software](https://medium.com/@scosmexs/why-constraints-make-better-software-17aec5d71cee?source=rss------programming-5) (2026-08-04)
-- [Serving Static Files with Papago](https://medium.com/@brian.downs_4163/serving-static-files-with-papago-8020e987b7c6?source=rss------programming-5) (2026-08-04)
-- [Cursor v/s VS Code v/s Windsurf: Which IDE Makes Developers More Productive?](https://medium.com/@CodeX_Lancers/cursor-v-s-vs-code-v-s-windsurf-which-ide-makes-developers-more-productive-6c2805664318?source=rss------programming-5) (2026-08-04)
-- [Why Kaching Could Become One of the Most Important Infrastructure Projects on Robinhood Chain](https://medium.com/@ayomide_66587/why-kaching-could-become-one-of-the-most-important-infrastructure-projects-on-robinhood-chain-b534d742803f?source=rss------programming-5) (2026-08-04)
-- [Building Before Launch: Why Kaching's Community-First Strategy Deserves Attention](https://medium.com/@eminnemkash/building-before-launch-why-kachings-community-first-strategy-deserves-attention-556987e9afe8?source=rss------programming-5) (2026-08-04)
+- [18, Alone in My Room, Trying to Build a Future Out of Code](https://medium.com/@jade.cub.000/18-alone-in-my-room-trying-to-build-a-future-out-of-code-dba9b3752120?source=rss------programming-5) (2026-08-04)
+- [Recent Frontend Assessment Interview Experience (Senior Frontend Engineer Role)](https://medium.com/@anil-singh/recent-frontend-assessment-interview-experience-senior-frontend-engineer-role-9b65636555b6?source=rss------programming-5) (2026-08-04)
+- [TypeScript Is Now the #1 Language on GitHub.](https://medium.com/@benharizmehdi20/typescript-is-now-the-1-language-on-github-191af47b0125?source=rss------programming-5) (2026-08-04)
+- [The Weird Reason Why 95% of Programmers Fail to Grow Their Startup That Nobody Talks About](https://medium.com/@sanjaywork48/the-weird-reason-why-95-of-programmers-fail-to-grow-their-startup-that-nobody-talks-about-b918e2be6f7e?source=rss------programming-5) (2026-08-04)
+- [The Ordering Rule Most Celery Retry Guides Skip](https://medium.com/@danielbuilescu/the-ordering-rule-most-celery-retry-guides-skip-493495bef1e7?source=rss------programming-5) (2026-08-04)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) (2026-08-04)
 - [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available) (2026-08-03)
 - [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests) (2026-08-03)
 - [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams) (2026-08-03)
 - [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway) (2026-08-02)
-- [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts) (2026-07-31)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
+- [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
 
 </details>
 
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (2026-07-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [EU AI Act Article 50 transparency rules enter force](https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/) (2026-08-03)
+- [Why biological data matters more in AI drug discovery](https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/) (2026-08-03)
+- [OpenAI aligns safety practices with EU AI Act’s GPAI Code](https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/) (2026-07-31)
+- [Zuckerberg details Meta’s personal AI superintelligence strategy](https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/) (2026-07-30)
+- [How AI is Changing Linux VPS Security for Businesses](https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/) (2026-07-30)
 
 </details>
 
