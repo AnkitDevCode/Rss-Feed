@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Spotify now has over 300M subscribers](https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/) (2026-08-04)
-- [India moves to give its instant payments network a business model](https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/) (2026-08-04)
-- [Is the future of data centers portable? Runware builds a pod to find out](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/) (2026-08-04)
-- [EON wants to move the data superhighway from ocean fiber to space lasers](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/) (2026-08-04)
-- [Bending Spoons to buy Airtable for $1.28B](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/) (2026-08-04)
+- [Waymo opens up robotaxi service in Dallas to everyone](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/) (2026-08-04)
+- [Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/) (2026-08-04)
+- [TV Time co-founder launches Bingers to revive the beloved TV-tracking app](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/) (2026-08-04)
+- [Hackers steal over $130M by exploiting bug in offline hardware wallets](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/) (2026-08-04)
+- [Spotify expands AI remix and covers project with Merlin partnership](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) (2026-08-04)
-- [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) (2026-08-04)
-- [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/) (2026-08-04)
-- [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) (2026-08-04)
-- [Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup) (2026-08-04)
+- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts) (2026-08-04)
+- [Stephen Wolfram's Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) (2026-08-04)
+- [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/) (2026-08-04)
+- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/) (2026-08-04)
+- [Web security is too hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Our favorite memories at the movies](https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories) (2026-08-04)
-- [Peak Design’s latest bags have clever integrated hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price) (2026-08-04)
-- [Nothing CMF is launching its first open earbuds](https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch) (2026-08-04)
-- [Apple briefly yanked Telegram from the App Store over CSAM violations](https://www.theverge.com/tech/974951/telegram-apple-app-store-removed) (2026-08-04)
-- [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) (2026-08-04)
+- [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov) (2026-08-04)
+- [How an OpenAI influencer trip backfired ](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing) (2026-08-04)
+- [Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever](https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale) (2026-08-04)
+- [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy) (2026-08-04)
+- [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad) (2026-08-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) (2026-08-03)
-- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/) (2026-08-03)
-- [Lego deploys Hubble Space Telescope as detailed desktop model](https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/) (2026-08-03)
-- [An AI-supervised remote exam went so badly that 58,000 students must retake it](https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/) (2026-08-03)
-- [2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet](https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/) (2026-08-03)
+- [China is Tesla's cash cow, but for how much longer?](https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/) (2026-08-04)
+- [The Pixel 11's "glow" feature is actually called HiLight—here's what it does](https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/) (2026-08-04)
+- [Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it](https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/) (2026-08-04)
+- [Trump admin "aware" of deaths in explosive diarrhea outbreak, delays reporting](https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/) (2026-08-04)
+- [2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware](https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/) (2026-08-04)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/) (2026-08-04)
+- [Turn one giant AI-generated pull request to a reviewable stack](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/) (2026-08-04)
 - [Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) (2026-07-31)
 - [Stacked sessions and pull requests in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/) (2026-07-30)
 - [Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/) (2026-07-29)
-- [Disrupting supply chain attacks on npm and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) (2026-07-28)
-- [The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/) (2026-07-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I wrote down 61 rules, then failed my own repos](https://dev.to/svyatov/i-wrote-down-61-rules-then-failed-my-own-repos-5351) (2026-08-04)
-- [OpenAI Model Disproves Erdős Unit-Distance Conjecture in Discrete Geometry](https://dev.to/alifar/openai-model-disproves-erdos-unit-distance-conjecture-in-discrete-geometry-4c64) (2026-08-04)
-- [Explaining Stock Returns with the Fama-French 5 Factor Model](https://dev.to/jerbouma/explaining-stock-returns-with-the-fama-french-5-factor-model-2ode) (2026-08-04)
-- [From Website URL to Useful AI Support Answers: A Practical Training Workflow](https://dev.to/kseniia_shevchenko_8f7081/from-website-url-to-useful-ai-support-answers-a-practical-training-workflow-2klc) (2026-08-04)
-- [Things I Wish I Knew Before Studying Computer Science](https://dev.to/blesskimbi/things-i-wish-i-knew-before-studying-computer-science-46db) (2026-08-04)
+- [Building Enola, Part 2: From Source Code to an Architectural Fact Model](https://dev.to/gert_/building-enola-part-2-from-source-code-to-an-architectural-fact-model-djm) (2026-08-04)
+- [Identifying the Processor of a Bare-Metal Binary (Strategy 2): Testing LLMs](https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n) (2026-08-04)
+- [Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers](https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n) (2026-08-04)
+- [Decoupling Physical Control and Reasoning: DeepMind's Gemini Robotics 2 Architecture](https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh) (2026-08-04)
+- [Shelly in Home Assistant: Local Switching & Energy Metering](https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg) (2026-08-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Fraud Fight Is Turning a Corner — And AI Is Why](https://medium.com/@kayceEagan/the-fraud-fight-is-turning-a-corner-and-ai-is-why-65a5ac881b4e?source=rss------programming-5) (2026-08-04)
-- [ When You Should Trust AI-Generated Code](https://medium.com/@CodeX_Lancers/when-you-should-trust-ai-generated-code-ad0cb619c292?source=rss------programming-5) (2026-08-04)
-- [TypeScript Patterns Every React Developer Should Know](https://medium.com/@mernstackdevbykevin/typescript-patterns-every-react-developer-should-know-970477e68605?source=rss------programming-5) (2026-08-04)
-- [Web Development from Scratch](https://medium.com/@akarshairundi69/web-development-from-scratch-fa70d048a8da?source=rss------programming-5) (2026-08-04)
-- [A Fresh Install Deleted the Backup.](https://medium.com/@msss.jerry.li/a-fresh-install-deleted-the-backup-5fd075020973?source=rss------programming-5) (2026-08-04)
+- [The Engineering Behind CDN Networks](https://medium.com/@derek.mwale/the-engineering-behind-cdn-networks-6c64cd056ab3?source=rss------programming-5) (2026-08-04)
+- [[RustGuide] 3.4 Functions and Comments](https://medium.com/@stanyin64/rustguide-3-4-functions-and-comments-e5fa1581f7f5?source=rss------programming-5) (2026-08-04)
+- [Three LLM Calls per Question: A RAG Pipeline That Knows What It’s Doing](https://arg-software.medium.com/three-llm-calls-per-question-a-rag-pipeline-that-knows-what-its-doing-285c020b0daf?source=rss------programming-5) (2026-08-04)
+- [TOCTOU — the gap between checking and using](https://medium.com/@gokulprabhu.droid/toctou-the-gap-between-checking-and-using-6b35f52c3523?source=rss------programming-5) (2026-08-04)
+- [Who Is Satoshi Nakamoto?](https://medium.com/@twilightpxl/who-is-satoshi-nakamoto-b6dc463382cb?source=rss------programming-5) (2026-08-04)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/) (2026-08-04)
+- [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/) (2026-08-04)
+- [As AI Increases Demands on Memory, Storage Steps Up](https://blogs.nvidia.com/blog/ai-storage-fms/) (2026-08-04)
 - [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/) (2026-08-04)
 - [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/) (2026-07-30)
-- [Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/) (2026-07-28)
-- [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) (2026-07-27)
-- [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/) (2026-07-27)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense](https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/) (2026-08-04)
 - [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/) (2026-08-03)
 - [Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works](https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/) (2026-08-03)
 - [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/) (2026-07-31)
 - [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/) (2026-07-30)
-- [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/) (2026-07-28)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [dotInsights | August 2026](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/) (2026-08-04)
 - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/) (2026-08-04)
 - [Kodee’s Kotlin Roundup: Birthday Wishes, Shipaton 2026, and the New Kotlin AI Benchmark](https://blog.jetbrains.com/kotlin/2026/08/kodees-kotlin-roundup-birthday-wishes-shipaton-2026-and-the-new-kotlin-ai-benchmark/) (2026-08-04)
 - [Learn pandas the Right Way: A Python Library Course That Doesn’t Waste Your Time](https://blog.jetbrains.com/education/2026/08/03/mastering-pandas-python-course/) (2026-08-03)
 - [Our First Moves to Get AI Spend Under Control](https://blog.jetbrains.com/ai/2026/08/our-first-moves-to-get-ai-spend-under-control/) (2026-08-03)
-- [Know Kotlin? Ship It Everywhere and Win at Shipaton 2026](https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/) (2026-07-31)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Deploys are now up to 33% faster for apps with many ISR pages](https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages) (2026-08-04)
 - [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) (2026-08-04)
 - [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available) (2026-08-03)
 - [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests) (2026-08-03)
 - [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams) (2026-08-03)
-- [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway) (2026-08-02)
 
 </details>
 
@@ -458,11 +458,11 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
 - [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
 - [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
 - [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
 - [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
-- [Apollo’s New API IP Allowlist Policy](https://www.apollographql.com/blog/apollos-new-api-ip-allowlist-policy) (2026-07-15)
 
 </details>
 
@@ -481,10 +481,10 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <summary>⚡ Zapier Blog</summary>
 
 - [How to give your AI agents reliable app access for free](https://zapier.com/blog/connect-ai-agents-to-apps) (2026-08-04)
+- [How to build a customer profile for better targeting](https://zapier.com/blog/customer-profile) (2026-08-03)
 - [Zapier's AI tools: Get to know our governed AI products and features](https://zapier.com/blog/zapier-ai-guide) (2026-08-03)
-- [Zapier Tables: Store, move, and act on your data automatically](https://zapier.com/blog/zapier-tables-guide) (2026-08-03)
-- [What is role-based access control (RBAC)?](https://zapier.com/blog/role-based-access-control) (2026-08-03)
 - [The 8 best AI scheduling assistants](https://zapier.com/blog/best-ai-scheduling) (2026-08-03)
+- [Zapier Tables: Store, move, and act on your data automatically](https://zapier.com/blog/zapier-tables-guide) (2026-08-03)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>🔒 Signal Blog</summary>
 
+- [More linked devices are on the table (and the Android tablet)](https://signal.org/blog/linked-devices-and-android-tablets/) (2026-08-04)
 - [Label yourself](https://signal.org/blog/group-member-labels/) (2026-03-19)
 - [Put a pin in it](https://signal.org/blog/pinned-messages/) (2026-01-29)
 - [Signal Polls: Yes, no, maybe (yes!)](https://signal.org/blog/polls/) (2025-11-19)
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
-- [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/) (2025-09-08)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Medallion Data Architecture: An Introduction](https://towardsdatascience.com/the-medallion-data-architecture/) (2026-08-04)
+- [How to Get More Statistical Power from Fewer Research Participants](https://towardsdatascience.com/increasing-statistical-power-with-more-problems/) (2026-08-04)
 - [Are Home Teams Favoured by Referees in Football/Soccer?](https://towardsdatascience.com/are-home-teams-favoured-by-referees-in-football-soccer/) (2026-08-04)
 - [Using Agents as Tools](https://towardsdatascience.com/using-agents-as-tools/) (2026-08-04)
 - [Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On](https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/) (2026-08-03)
-- [How to Build CLI Agents with Python & Ollama](https://towardsdatascience.com/cli-agents-with-python-ollama/) (2026-08-03)
-- [The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?](https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/) (2026-08-03)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More](https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review) (2026-08-04)
 - [I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why](https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why) (2026-08-04)
 - [7 Approaches to Reduce Inference Latency in Your LLM Workflows](https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows) (2026-08-04)
 - [Does MiniMax Agent Actually Make Work Easier?](https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier) (2026-08-03)
 - [A Guide to Saving Token Usage with Multi-Agent AI](https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai) (2026-08-03)
-- [KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27) (2026-08-01)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Measuring Performance of Transformer Inference](https://machinelearningmastery.com/measuring-performance-of-transformer-inference/) (2026-08-04)
+- [Static vs. Dynamic vs. Continuous Batching in LLM Inference](https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference/) (2026-08-04)
 - [Decoding Strategies and Output Control](https://machinelearningmastery.com/decoding-strategies-and-output-control/) (2026-08-03)
 - [Using a Transformer Model: From Training to Inference](https://machinelearningmastery.com/using-a-transformer-model-from-training-to-inference/) (2026-07-31)
 - [The End-to-End Agentic AI Pipeline](https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/) (2026-07-30)
-- [Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?](https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/) (2026-07-29)
-- [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) (2026-07-27)
 
 </details>
 
