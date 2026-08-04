@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) (2026-08-03)
-- [Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/) (2026-08-03)
-- [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) (2026-08-03)
-- [Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/) (2026-08-03)
-- [WhatsApp says it is is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/) (2026-08-03)
+- [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/) (2026-08-03)
+- [Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/) (2026-08-03)
+- [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/) (2026-08-03)
+- [Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/) (2026-08-03)
+- [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/) (2026-08-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/) (2026-08-03)
-- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) (2026-08-03)
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) (2026-08-03)
-- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/) (2026-08-03)
-- [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust) (2026-08-03)
+- [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf) (2026-08-03)
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) (2026-08-03)
+- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/) (2026-08-03)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) (2026-08-03)
+- [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real) (2026-08-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox) (2026-08-04)
+- [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing) (2026-08-03)
+- [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale) (2026-08-03)
 - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes) (2026-08-03)
 - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale) (2026-08-03)
-- [Microsoft is bringing Xbox 360 games to PC](https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program) (2026-08-03)
-- [Bluesky’s new CEO wants a big tent, not a bubble](https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere) (2026-08-03)
-- [Palworld’s expanding to mobile with a new MMORPG](https://www.theverge.com/games/974450/palworld-online-mobile-mmo) (2026-08-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) (2026-08-03)
+- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/) (2026-08-03)
+- [Lego deploys Hubble Space Telescope as detailed desktop model](https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/) (2026-08-03)
+- [An AI-supervised remote exam went so badly that 58,000 students must retake it](https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/) (2026-08-03)
 - [2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet](https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/) (2026-08-03)
-- [SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana](https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/) (2026-08-03)
-- [Trump wants the power to stop the public from suing polluters](https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/) (2026-08-03)
-- [How headlights got brighter, whiter, and more blinding after dark](https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/) (2026-08-03)
-- [Here's how engineers plan to save the satellite sent to save NASA's Swift mission](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/) (2026-08-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o) (2026-08-03)
-- [Germany's Energy Revolution: Wind and Solar Overtake Fossil Fuels for the First Time](https://dev.to/kaixintelligence/germanys-energy-revolution-wind-and-solar-overtake-fossil-fuels-for-the-first-time-1kpj) (2026-08-03)
-- [Celebrating 45 Years of Kermit: The Protocol That Refuses to Die, Now Reborn in C](https://dev.to/kaixintelligence/celebrating-45-years-of-kermit-the-protocol-that-refuses-to-die-now-reborn-in-c-5f54) (2026-08-03)
-- [Ten Breakthrough Advances in Mathematics and Theoretical Computer Science (2026)](https://dev.to/kaixintelligence/ten-breakthrough-advances-in-mathematics-and-theoretical-computer-science-2026-13ac) (2026-08-03)
-- [Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei) (2026-08-03)
+- [Secure Your Health Data: Mastering Privacy-Preserving Inference with Intel SGX and Gramine 🛡️💊](https://dev.to/wellallytech/secure-your-health-data-mastering-privacy-preserving-inference-with-intel-sgx-and-gramine-ep4) (2026-08-04)
+- [A small Bangla toolkit for Unicode and Bijoy workflows](https://dev.to/pier_jordane_cbef534638b7/a-small-bangla-toolkit-for-unicode-and-bijoy-workflows-3h9) (2026-08-04)
+- [Tips for Running Stable Background ML Inference on macOS](https://dev.to/orca_forge/tips-for-running-stable-background-ml-inference-on-macos-26dc) (2026-08-04)
+- [Handling Notification Taps in expo-notifications: Launch vs. Runtime](https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf) (2026-08-04)
+- [Claude Code subagents: how .claude/agents files work, and why Claude never uses yours](https://dev.to/rulestack/claude-code-subagents-how-claudeagents-files-work-and-why-claude-never-uses-yours-31bl) (2026-08-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Production Incident Interview: Your API Latency Suddenly Doubled. What Do You Check First?](https://medium.com/engineering-playbook/production-incident-interview-your-api-latency-suddenly-doubled-what-do-you-check-first-06786e69f1b8?source=rss------programming-5) (2026-08-03)
-- [What are some good backend development habits?](https://medium.com/@umeshcapg/what-are-some-good-backend-development-habits-d369ecd3781d?source=rss------programming-5) (2026-08-03)
-- [He Had the Perfect System Design. He Still Failed the Interview. The Interviewer Told Me Why.](https://medium.com/@coding_with_tech/he-had-the-perfect-system-design-he-still-failed-the-interview-the-interviewer-told-me-why-87a28a028b36?source=rss------programming-5) (2026-08-03)
-- [Your API Is Small Today. Your Architecture Is Already Broken.](https://medium.com/engineering-playbook/your-api-is-small-today-your-architecture-is-already-broken-3379f7501a1a?source=rss------programming-5) (2026-08-03)
-- [The Junior on My Team Froze During Her First Outage.](https://medium.com/javarevisited/the-junior-on-my-team-froze-during-her-first-outage-e6851fa217de?source=rss------programming-5) (2026-08-03)
+- [Why Constraints Make Better Software](https://medium.com/@scosmexs/why-constraints-make-better-software-17aec5d71cee?source=rss------programming-5) (2026-08-04)
+- [Serving Static Files with Papago](https://medium.com/@brian.downs_4163/serving-static-files-with-papago-8020e987b7c6?source=rss------programming-5) (2026-08-04)
+- [Cursor v/s VS Code v/s Windsurf: Which IDE Makes Developers More Productive?](https://medium.com/@CodeX_Lancers/cursor-v-s-vs-code-v-s-windsurf-which-ide-makes-developers-more-productive-6c2805664318?source=rss------programming-5) (2026-08-04)
+- [Why Kaching Could Become One of the Most Important Infrastructure Projects on Robinhood Chain](https://medium.com/@ayomide_66587/why-kaching-could-become-one-of-the-most-important-infrastructure-projects-on-robinhood-chain-b534d742803f?source=rss------programming-5) (2026-08-04)
+- [Building Before Launch: Why Kaching's Community-First Strategy Deserves Attention](https://medium.com/@eminnemkash/building-before-launch-why-kachings-community-first-strategy-deserves-attention-556987e9afe8?source=rss------programming-5) (2026-08-04)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available) (2026-08-03)
+- [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests) (2026-08-03)
 - [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams) (2026-08-03)
 - [Qwen 3.8 Max now available on Vercel AI Gateway](https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway) (2026-08-02)
 - [AI Gateway now supports team and project spend budgets](https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts) (2026-07-31)
-- [DeepSeek V4 Flash now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway) (2026-07-31)
 
 </details>
 
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Zapier's AI tools: Get to know our governed AI products and features](https://zapier.com/blog/zapier-ai-guide) (2026-08-03)
+- [Zapier Tables: Store, move, and act on your data automatically](https://zapier.com/blog/zapier-tables-guide) (2026-08-03)
 - [The 8 best AI scheduling assistants](https://zapier.com/blog/best-ai-scheduling) (2026-08-03)
 - [The 8 best AI image generators in 2026](https://zapier.com/blog/best-ai-image-generator) (2026-08-03)
 - [What is role-based access control (RBAC)?](https://zapier.com/blog/role-based-access-control) (2026-08-03)
-- [7 chatbot use cases for your business](https://zapier.com/blog/chatbot-use-cases) (2026-08-03)
-- [AI frameworks: Definition, types, and how to choose](https://zapier.com/blog/ai-frameworks) (2026-08-03)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 - [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
 - [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
-- [The Importance of Emotional Intelligence in Leadership](https://slack.com/blog/collaboration/emotional-intelligence-in-leadership) (2026-07-21)
 
 </details>
 
