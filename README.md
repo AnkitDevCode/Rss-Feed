@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Waymo opens up robotaxi service in Dallas to everyone](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/) (2026-08-04)
-- [Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/) (2026-08-04)
-- [TV Time co-founder launches Bingers to revive the beloved TV-tracking app](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/) (2026-08-04)
-- [Hackers steal over $130M by exploiting bug in offline hardware wallets](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/) (2026-08-04)
-- [Spotify expands AI remix and covers project with Merlin partnership](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/) (2026-08-04)
+- [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/) (2026-08-04)
+- [Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/) (2026-08-04)
+- [How to get the best hotel deals for TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/) (2026-08-04)
+- [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) (2026-08-04)
+- [SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts) (2026-08-04)
-- [Stephen Wolfram's Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) (2026-08-04)
-- [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/) (2026-08-04)
-- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/) (2026-08-04)
-- [Web security is too hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/) (2026-08-04)
+- [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221) (2026-08-05)
+- [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) (2026-08-05)
+- [Flowise Is Shutting Down](https://flowiseai.com/sunset) (2026-08-05)
+- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) (2026-08-04)
+- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov) (2026-08-04)
-- [How an OpenAI influencer trip backfired ](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing) (2026-08-04)
-- [Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever](https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale) (2026-08-04)
-- [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy) (2026-08-04)
-- [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad) (2026-08-04)
+- [Don’t screw this up, Marvel](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday) (2026-08-04)
+- [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync) (2026-08-04)
+- [AMD&#8217;s data center business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen) (2026-08-04)
+- [SpaceX made more revenue as an AI company than a space company](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud) (2026-08-04)
+- [EA is now a private company](https://www.theverge.com/games/974736/ea-private-company-deal-closed) (2026-08-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Senators demand crackdown on wildfire "prediction markets"](https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/) (2026-08-04)
+- [Trump killed the Digital Equity Act, but US was forced to bring part of it back](https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/) (2026-08-04)
+- [Texas halts data center connections to power grid amid overwhelming demand](https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/) (2026-08-04)
 - [China is Tesla's cash cow, but for how much longer?](https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/) (2026-08-04)
 - [The Pixel 11's "glow" feature is actually called HiLight—here's what it does](https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/) (2026-08-04)
-- [Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it](https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/) (2026-08-04)
-- [Trump admin "aware" of deaths in explosive diarrhea outbreak, delays reporting](https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/) (2026-08-04)
-- [2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware](https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/) (2026-08-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Enola, Part 2: From Source Code to an Architectural Fact Model](https://dev.to/gert_/building-enola-part-2-from-source-code-to-an-architectural-fact-model-djm) (2026-08-04)
-- [Identifying the Processor of a Bare-Metal Binary (Strategy 2): Testing LLMs](https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n) (2026-08-04)
-- [Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers](https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n) (2026-08-04)
-- [Decoupling Physical Control and Reasoning: DeepMind's Gemini Robotics 2 Architecture](https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh) (2026-08-04)
-- [Shelly in Home Assistant: Local Switching & Energy Metering](https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg) (2026-08-04)
+- [5 JSON-to-C# conversion mistakes generated models can hide](https://dev.to/justkhem/5-json-to-c-conversion-mistakes-generated-models-can-hide-569f) (2026-08-05)
+- [The Program Said the Cage Was Locked. I Asked the Kernel.](https://dev.to/yeriahz/the-program-said-the-cage-was-locked-i-asked-the-kernel-42a0) (2026-08-05)
+- [How to Batch Extract PDF Form Data Using C#](https://dev.to/codingco/how-to-batch-extract-pdf-form-data-using-c-71m) (2026-08-05)
+- [Stop Leaking Vitals: How to Build a Decentralized Health Platform using Differential Privacy 🛡️🏥](https://dev.to/wellallytech/stop-leaking-vitals-how-to-build-a-decentralized-health-platform-using-differential-privacy-2iib) (2026-08-05)
+- [Cursor Google Workspace Plugin Security Checklist](https://dev.to/ahab_indieseek/cursor-google-workspace-plugin-security-checklist-3e4i) (2026-08-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Engineering Behind CDN Networks](https://medium.com/@derek.mwale/the-engineering-behind-cdn-networks-6c64cd056ab3?source=rss------programming-5) (2026-08-04)
-- [[RustGuide] 3.4 Functions and Comments](https://medium.com/@stanyin64/rustguide-3-4-functions-and-comments-e5fa1581f7f5?source=rss------programming-5) (2026-08-04)
-- [Three LLM Calls per Question: A RAG Pipeline That Knows What It’s Doing](https://arg-software.medium.com/three-llm-calls-per-question-a-rag-pipeline-that-knows-what-its-doing-285c020b0daf?source=rss------programming-5) (2026-08-04)
-- [TOCTOU — the gap between checking and using](https://medium.com/@gokulprabhu.droid/toctou-the-gap-between-checking-and-using-6b35f52c3523?source=rss------programming-5) (2026-08-04)
-- [Who Is Satoshi Nakamoto?](https://medium.com/@twilightpxl/who-is-satoshi-nakamoto-b6dc463382cb?source=rss------programming-5) (2026-08-04)
+- [ AI Agents vs AI Chatbots: What’s the Difference?](https://medium.com/@CodeX_Lancers/ai-agents-vs-ai-chatbots-whats-the-difference-20ca07349cd8?source=rss------programming-5) (2026-08-05)
+- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://medium.com/@CodeX_Lancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-b79506d2e3ad?source=rss------programming-5) (2026-08-05)
+- [My Error Boundary Ate notFound(). I Reproduced All Three.](https://medium.com/@thestacknotebook/my-error-boundary-ate-notfound-i-reproduced-all-three-8309a17cacbb?source=rss------programming-5) (2026-08-05)
+- [Production Incident Interview: Your Queue Keeps Growing. Consumers Look Healthy.](https://medium.com/codex/production-incident-interview-your-queue-keeps-growing-consumers-look-healthy-d2122edad678?source=rss------programming-5) (2026-08-05)
+- [Production Incident Interview: Your Queue Keeps Growing. Consumers Look Healthy.](https://medium.com/engineering-playbook/production-incident-interview-your-queue-keeps-growing-consumers-look-healthy-499698789def?source=rss------programming-5) (2026-08-05)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel supports Next.js 16.3](https://vercel.com/blog/vercel-supports-next-js-16-3) (2026-08-04)
+- [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-04)
 - [Deploys are now up to 33% faster for apps with many ISR pages](https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages) (2026-08-04)
 - [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) (2026-08-04)
-- [Vercel WAF for Blob is now generally available](https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available) (2026-08-03)
-- [How Factory scaled its cloud backend to tens of millions of daily requests on Vercel](https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests) (2026-08-03)
-- [Share Vercel Container Registry repositories across teams](https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams) (2026-08-03)
+- [DeepSeek V4 Flash is 90% off through Novita on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita) (2026-08-04)
 
 </details>
 
