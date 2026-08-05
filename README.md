@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Wispr Flow launches a Granola-styled meeting notetaker](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/) (2026-08-05)
 - [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/) (2026-08-04)
 - [Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/) (2026-08-04)
 - [How to get the best hotel deals for TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/) (2026-08-04)
 - [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) (2026-08-04)
-- [SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/) (2026-08-05)
+- [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377) (2026-08-05)
+- [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla) (2026-08-05)
 - [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221) (2026-08-05)
-- [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) (2026-08-05)
-- [Flowise Is Shutting Down](https://flowiseai.com/sunset) (2026-08-05)
-- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) (2026-08-04)
-- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) (2026-08-04)
+- [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv) (2026-08-05)
+- [SpaceX is coming for T-Mobile, AT&#038;T and Verizon](https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company) (2026-08-05)
 - [Don’t screw this up, Marvel](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday) (2026-08-04)
 - [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync) (2026-08-04)
 - [AMD&#8217;s data center business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen) (2026-08-04)
-- [SpaceX made more revenue as an AI company than a space company](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud) (2026-08-04)
-- [EA is now a private company](https://www.theverge.com/games/974736/ea-private-company-deal-closed) (2026-08-04)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [NASA’s new dark energy space telescope can also detect killer asteroids](https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/) (2026-08-05)
 - [The Download: US robot restrictions, and ICE’s DNA grab](https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/) (2026-08-04)
 - [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) (2026-08-03)
 - [The Download: reward hacking explained, and suspected Iranian cyberattacks](https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/) (2026-08-03)
 - [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/) (2026-08-03)
-- [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/) (2026-07-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 JSON-to-C# conversion mistakes generated models can hide](https://dev.to/justkhem/5-json-to-c-conversion-mistakes-generated-models-can-hide-569f) (2026-08-05)
-- [The Program Said the Cage Was Locked. I Asked the Kernel.](https://dev.to/yeriahz/the-program-said-the-cage-was-locked-i-asked-the-kernel-42a0) (2026-08-05)
-- [How to Batch Extract PDF Form Data Using C#](https://dev.to/codingco/how-to-batch-extract-pdf-form-data-using-c-71m) (2026-08-05)
-- [Stop Leaking Vitals: How to Build a Decentralized Health Platform using Differential Privacy 🛡️🏥](https://dev.to/wellallytech/stop-leaking-vitals-how-to-build-a-decentralized-health-platform-using-differential-privacy-2iib) (2026-08-05)
-- [Cursor Google Workspace Plugin Security Checklist](https://dev.to/ahab_indieseek/cursor-google-workspace-plugin-security-checklist-3e4i) (2026-08-05)
+- [7 Docker Compose Patterns Every Devops Engineer Should Know](https://dev.to/morizal/7-docker-compose-patterns-every-devops-engineer-should-know-2hf7) (2026-08-05)
+- [The 10 JS Topics Every Frontend Engineer Should Know](https://dev.to/ale3oula/the-10-js-topics-every-frontend-engineer-should-know-1blj) (2026-08-05)
+- [Stop babysitting your AI agents in the terminal — NockIt sends push alerts straight to your phone (Nockit)](https://dev.to/codecrack01/stop-babysitting-your-ai-agents-in-the-terminal-nockit-sends-push-alerts-straight-to-your-phone-3406) (2026-08-05)
+- [Three AT Protocol behaviors that shaped my Bluesky post queue design](https://dev.to/morinaga/three-at-protocol-behaviors-that-shaped-my-bluesky-post-queue-design-3h30) (2026-08-05)
+- [Why I'm betting article cross-publishing beats social-first for AI directory distribution](https://dev.to/morinaga/why-im-betting-article-cross-publishing-beats-social-first-for-ai-directory-distribution-4k7d) (2026-08-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ AI Agents vs AI Chatbots: What’s the Difference?](https://medium.com/@CodeX_Lancers/ai-agents-vs-ai-chatbots-whats-the-difference-20ca07349cd8?source=rss------programming-5) (2026-08-05)
-- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://medium.com/@CodeX_Lancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-b79506d2e3ad?source=rss------programming-5) (2026-08-05)
-- [My Error Boundary Ate notFound(). I Reproduced All Three.](https://medium.com/@thestacknotebook/my-error-boundary-ate-notfound-i-reproduced-all-three-8309a17cacbb?source=rss------programming-5) (2026-08-05)
-- [Production Incident Interview: Your Queue Keeps Growing. Consumers Look Healthy.](https://medium.com/codex/production-incident-interview-your-queue-keeps-growing-consumers-look-healthy-d2122edad678?source=rss------programming-5) (2026-08-05)
-- [Production Incident Interview: Your Queue Keeps Growing. Consumers Look Healthy.](https://medium.com/engineering-playbook/production-incident-interview-your-queue-keeps-growing-consumers-look-healthy-499698789def?source=rss------programming-5) (2026-08-05)
+- [Memory Leaks in JavaScript: Detection and Prevention](https://javascript.plainenglish.io/memory-leaks-in-javascript-detection-and-prevention-c5c4cf049047?source=rss------programming-5) (2026-08-05)
+- [Why Graph Engineering Will 10x Your Claude/Codex](https://adilshamim8.medium.com/why-graph-engineering-will-10x-your-claude-codex-50fbf48759cb?source=rss------programming-5) (2026-08-05)
+- [The Most Famous Program in the World — And You Can Write It in 60 Seconds](https://medium.com/@thenashcode/the-most-famous-program-in-the-world-and-you-can-write-it-in-60-seconds-9947b0d408ff?source=rss------programming-5) (2026-08-05)
+- [The Hardest Part of AI Isn’t the Technology Anymore](https://ai.plainenglish.io/the-hardest-part-of-ai-isnt-the-technology-anymore-1f7120bfbd3f?source=rss------programming-5) (2026-08-05)
+- [How Can I Send Transactional Emails Without Maintaining Delivery Infrastructure?](https://javascript.plainenglish.io/how-can-i-send-transactional-emails-without-maintaining-delivery-infrastructure-f261649dbfc9?source=rss------programming-5) (2026-08-05)
 
 </details>
 
@@ -339,7 +339,7 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Vercel supports Next.js 16.3](https://vercel.com/blog/vercel-supports-next-js-16-3) (2026-08-04)
+- [Next.js 16.3 support on Vercel](https://vercel.com/blog/vercel-supports-next-js-16-3) (2026-08-04)
 - [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-04)
 - [Deploys are now up to 33% faster for apps with many ISR pages](https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages) (2026-08-04)
 - [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) (2026-08-04)
