@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Disney+ looks to TikTok creators to bring fan content to its short-form video feed](https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/) (2026-08-05)
-- [MacPaw taps Liquid AI to offer on-device inference to devs building for its app store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) (2026-08-05)
-- [Robinhood to list a fund that lets anyone back Y Combinator startups](https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/) (2026-08-05)
-- [Indian EV startup River raises $120M Series C to scale production, launch more models](https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/) (2026-08-05)
-- [Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient](https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/) (2026-08-05)
+- [Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/) (2026-08-05)
+- [Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/) (2026-08-05)
+- [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/) (2026-08-05)
+- [PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/) (2026-08-05)
+- [Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Iowa-led states ask OpenAI to keep their bots on a leash](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and) (2026-08-05)
-- [TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) (2026-08-05)
-- [Anthropic AI created fake profiles and impersonated people in attempted hack](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go) (2026-08-05)
-- [Three Six Mafia – Data about "6/6/6 dating" (2024)](https://divingintheshallowend.com/three-six-mafia/) (2026-08-05)
-- [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/) (2026-08-05)
+- [Zed DeltaDB](https://zed.dev/deltadb) (2026-08-05)
+- [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) (2026-08-05)
+- [Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show](https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show) (2026-08-05)
+- [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) (2026-08-05)
+- [Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://arxiv.org/abs/2510.01395) (2026-08-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus](https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings) (2026-08-05)
-- [Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters](https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming) (2026-08-05)
-- [Google Assistant will disappear from your phone next month](https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown) (2026-08-05)
-- [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded) (2026-08-05)
-- [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv) (2026-08-05)
+- [Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual](https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale) (2026-08-05)
+- [Uber CEO brushes off reports of a Waymo break-up](https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership) (2026-08-05)
+- [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale) (2026-08-05)
+- [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo) (2026-08-05)
+- [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (2026-08-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Pushing the limits: Infinite Machine's Olto is barely a bicycle](https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/) (2026-08-05)
-- [Senators demand crackdown on wildfire "prediction market" bets](https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/) (2026-08-04)
-- [Trump killed the Digital Equity Act but US was forced to bring part of it back](https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/) (2026-08-04)
-- [Texas halts data center connections to power grid amid overwhelming demand](https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/) (2026-08-04)
-- [China is Tesla's cash cow, but for how much longer?](https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/) (2026-08-04)
+- [After jacking up prices, Disney+ and Netflix consider offering free alternatives](https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/) (2026-08-05)
+- [EVgo starts building Tesla Superchargers under license](https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/) (2026-08-05)
+- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) (2026-08-05)
+- [Google plans to kill Assistant on your phone on September 4](https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/) (2026-08-05)
+- [SpaceX spooks investors with debut earnings report](https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) (2026-08-05)
 - [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) (2026-08-05)
 - [NASA’s new dark-energy space telescope can also detect killer asteroids](https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/) (2026-08-05)
 - [The Download: US robot restrictions and ICE’s DNA grab](https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/) (2026-08-04)
 - [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) (2026-08-03)
-- [The Download: reward hacking explained and suspected Iranian cyberattacks](https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/) (2026-08-03)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MLCC Price Trend: MLCC Hikes Affect Industrial Switch Costs](https://dev.to/lunawu_ponnetwork/mlcc-price-trend-mlcc-hikes-affect-industrial-switch-costs-564o) (2026-08-05)
-- [Suspense, partial prerendering and the Cache Components Model](https://dev.to/peterlidee/suspense-partial-prerendering-and-the-cache-components-model-5edg) (2026-08-05)
-- [Stripe Web Checkout in a Mobile App: The Post-Epic External Payments Pattern (.NET Implementation)](https://dev.to/steve_dornan_9d4e57773ec7/stripe-web-checkout-in-a-mobile-app-the-post-epic-external-payments-pattern-net-implementation-2lng) (2026-08-05)
-- [How to Build an AI Trading Bot with Claude and the EODHD API](https://dev.to/kevin_menesesgonzlez/how-to-build-an-ai-trading-bot-with-claude-and-the-eodhd-api-1l2a) (2026-08-05)
-- [Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator](https://dev.to/sarvar_04/introducing-kiro-crew-awss-open-source-ai-agent-orchestrator-1e63) (2026-08-05)
+- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci) (2026-08-05)
+- [My smart-contract scanner reports almost nothing — and that's the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk) (2026-08-05)
+- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5) (2026-08-05)
+- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p) (2026-08-05)
+- [Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching](https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938) (2026-08-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [RHAPSODY OF REALITIES - 5TH AUGUST 2026
-"Eternal life isn’t an abstract idea, nor is it something…](https://medium.com/@folajeff/rhapsody-of-realities-5th-august-2026-eternal-life-isnt-an-abstract-idea-nor-is-it-something-46a6973a9430?source=rss------programming-5) (2026-08-05)
-- [Senior Engineers Don’t Write More Code. They Remove More Problems.](https://medium.com/@BuildAndLearn/senior-engineers-dont-write-more-code-they-remove-more-problems-10fe53da0f1c?source=rss------programming-5) (2026-08-05)
-- [How One Man Built an Empire of Crime — and How It All Came Crashing Down](https://medium.com/@r46603451/how-one-man-built-an-empire-of-crime-and-how-it-all-came-crashing-down-010847503753?source=rss------programming-5) (2026-08-05)
-- [SOLID Principles Explained: Open-Closed Principle (OCP) with C# Examples](https://alihuseinli.medium.com/solid-principles-explained-open-closed-principle-ocp-with-c-examples-3cbf0d0fa710?source=rss------programming-5) (2026-08-05)
-- [Python Didn’t Leak Memory. Our Architecture Did.](https://ai.plainenglish.io/python-didnt-leak-memory-our-architecture-did-b91954570b25?source=rss------programming-5) (2026-08-05)
+- [Built to Survive](https://medium.com/@dana_fm/built-to-survive-a08df12c9363?source=rss------programming-5) (2026-08-05)
+- [World Monitor that the Governments have been hiding from You](https://medium.com/techx-official/world-monitor-that-the-governments-have-been-hiding-from-you-fb3822a0d0f5?source=rss------programming-5) (2026-08-05)
+- [[RustGuide] 3.6 Control Flow — Loops](https://medium.com/@stanyin64/rustguide-3-6-control-flow-loops-5055eb439208?source=rss------programming-5) (2026-08-05)
+- [The Problem with Screenshots Isn’t Storage. It’s Memory.](https://nikunjmaheshwari.medium.com/the-problem-with-screenshots-isnt-storage-it-s-memory-d1e6e267b038?source=rss------programming-5) (2026-08-05)
+- [How I Learned C++ for Competitive Programming in One Week](https://medium.com/@ganeshshanbhag.cp/how-i-learned-c-for-competitive-programming-in-one-week-77c756e39018?source=rss------programming-5) (2026-08-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon DynamoDB now supports real-time vector search at any scale](https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/) (2026-08-05)
 - [AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/) (2026-08-03)
 - [AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/) (2026-07-27)
 - [AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/) (2026-07-20)
 - [Amazon SQS turns 20: Two decades of reliable messaging at scale](https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/) (2026-07-13)
-- [AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/) (2026-07-13)
 
 </details>
 
@@ -131,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/) (2026-08-05)
 - [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/) (2026-08-04)
 - [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/) (2026-08-04)
 - [As AI Increases Demands on Memory, Storage Steps Up](https://blogs.nvidia.com/blog/ai-storage-fms/) (2026-08-04)
 - [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/) (2026-08-04)
-- [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/) (2026-07-30)
 
 </details>
 
@@ -175,11 +174,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0) (2026-08-05)
 - [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0) (2026-08-03)
 - [Node.js 24.19.0 (LTS)](https://nodejs.org/en/blog/release/v24.19.0) (2026-08-03)
 - [Node.js 24.18.1 (LTS)](https://nodejs.org/en/blog/release/v24.18.1) (2026-07-29)
 - [Node.js 26.5.1 (Current)](https://nodejs.org/en/blog/release/v26.5.1) (2026-07-29)
-- [Node.js 22.23.2 (LTS)](https://nodejs.org/en/blog/release/v22.23.2) (2026-07-29)
 
 </details>
 
@@ -241,11 +240,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking](https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/) (2026-08-05)
 - [GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model](https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/) (2026-08-03)
 - [Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization](https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/) (2026-07-15)
 - [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/) (2026-07-13)
 - [Meta’s AI Storage Blueprint at Scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/) (2026-07-01)
-- [10 Years of Meta’s Commitment to Python](https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/) (2026-06-30)
 
 </details>
 
@@ -340,11 +339,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Next.js 16.3 support on Vercel](https://vercel.com/blog/vercel-supports-next-js-16-3) (2026-08-04)
-- [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-04)
-- [Deploys are now up to 33% faster for apps with many ISR pages](https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages) (2026-08-04)
-- [Give your eve agent a browser](https://vercel.com/changelog/give-your-eve-agent-a-browser) (2026-08-04)
-- [DeepSeek V4 Flash is 90% off through Novita on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita) (2026-08-04)
+- [Set your own project avatars](https://vercel.com/changelog/project-avatars) (2026-08-05)
+- [New setup page after domain checkout](https://vercel.com/changelog/new-setup-page-after-domain-checkout) (2026-08-05)
+- [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api) (2026-08-05)
+- [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace) (2026-08-05)
+- [Vercel Sandbox now supports 10,000 concurrent sandboxes and 5,000 vCPUs per minute](https://vercel.com/changelog/vercel-sandbox-now-supports-10-000-concurrent-sandboxes-and-5-000-vcpus-per-minute) (2026-08-05)
 
 </details>
 
@@ -481,10 +480,10 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 11 best SEO tools in 2026](https://zapier.com/blog/best-seo-tools) (2026-08-05)
 - [How to give your AI agents reliable app access for free](https://zapier.com/blog/connect-ai-agents-to-apps) (2026-08-04)
 - [How to build a customer profile for better targeting](https://zapier.com/blog/customer-profile) (2026-08-03)
 - [Zapier's AI tools: Get to know our governed AI products and features](https://zapier.com/blog/zapier-ai-guide) (2026-08-03)
-- [The 8 best AI scheduling assistants](https://zapier.com/blog/best-ai-scheduling) (2026-08-03)
 - [Zapier Tables: Store, move, and act on your data automatically](https://zapier.com/blog/zapier-tables-guide) (2026-08-03)
 
 </details>
@@ -558,44 +557,44 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How a Frontier Model Gets Built, Read from the Kimi K3 Report](https://towardsdatascience.com/how-a-frontier-model-gets-built-read-from-the-kimi-k3-report/) (2026-08-05)
+- [Introduction to Semi-Supervised Learning](https://towardsdatascience.com/introduction-to-semi-supervised-learning/) (2026-08-05)
 - [Is This Slop? Detecting AI-Generated Content Without a Model](https://towardsdatascience.com/is-this-slop-detecting-ai-generated-content-without-a-model-2/) (2026-08-05)
 - [Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG](https://towardsdatascience.com/building-document-structure-with-loop-engineering-recovering-a-pdfs-outline-from-body-typography-for-rag/) (2026-08-05)
 - [The Medallion Data Architecture: An Introduction](https://towardsdatascience.com/the-medallion-data-architecture/) (2026-08-04)
-- [How to Get More Statistical Power from Fewer Research Participants](https://towardsdatascience.com/increasing-statistical-power-with-more-problems/) (2026-08-04)
-- [Are Home Teams Favoured by Referees in Football/Soccer?](https://towardsdatascience.com/are-home-teams-favoured-by-referees-in-football-soccer/) (2026-08-04)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 Claude Skills for Writing (Ranked by GitHub Stars)](https://www.analyticsvidhya.com/blog/2026/08/top-5-claude-writing-skills/) (2026-08-05)
 - [Agent Harness vs Loop vs Graph Engineering: A Technical Guide](https://www.analyticsvidhya.com/blog/2026/08/agent-harness-loop-graph-engineering/) (2026-08-04)
 - [Agentic Misalignment Explained: When AI Agents Go Rogue](https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/) (2026-08-02)
 - [LanceDB Vector Database Guide: Features, Python Demo](https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/) (2026-08-01)
 - [July 2026 AI Releases: A Timeline of Frontier Model Shifts](https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/) (2026-07-31)
-- [Claude Code CLI Commands I Wish I Had Known Sooner](https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with GitHub Agentic Workflows](https://www.kdnuggets.com/getting-started-with-github-agentic-workflows) (2026-08-05)
 - [Turn Any CSV into an Executive Report with Python and AI](https://www.kdnuggets.com/turn-any-csv-into-an-executive-report-with-python-and-ai) (2026-08-05)
 - [Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More](https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review) (2026-08-04)
 - [I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why](https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why) (2026-08-04)
 - [7 Approaches to Reduce Inference Latency in Your LLM Workflows](https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows) (2026-08-04)
-- [Does MiniMax Agent Actually Make Work Easier?](https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier) (2026-08-03)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Chunking Strategies That Decide Whether Your RAG Works](https://machinelearningmastery.com/7-chunking-strategies-that-decide-whether-your-rag-works/) (2026-08-05)
 - [Measuring Performance of Transformer Inference](https://machinelearningmastery.com/measuring-performance-of-transformer-inference/) (2026-08-04)
 - [Static vs. Dynamic vs. Continuous Batching in LLM Inference](https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference/) (2026-08-04)
 - [Decoding Strategies and Output Control](https://machinelearningmastery.com/decoding-strategies-and-output-control/) (2026-08-03)
 - [Using a Transformer Model: From Training to Inference](https://machinelearningmastery.com/using-a-transformer-model-from-training-to-inference/) (2026-07-31)
-- [The End-to-End Agentic AI Pipeline](https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/) (2026-07-30)
 
 </details>
 
