@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) (2026-08-05)
-- [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread) (2026-08-05)
-- [I'll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/) (2026-08-05)
-- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) (2026-08-05)
-- [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/) (2026-08-05)
+- [What I love about Django](https://buttondown.com/blog/what-i-love-about-django) (2026-08-06)
+- [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/) (2026-08-06)
+- [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list) (2026-08-06)
+- [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer) (2026-08-06)
+- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project) (2026-08-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pacing the Frontier Shows How AI Employees Are Organizing on Safety Governance](https://dev.to/alifar/pacing-the-frontier-shows-how-ai-employees-are-organizing-on-safety-governance-6og) (2026-08-06)
-- [One API Key for Multiple Chinese AI Models: What I’m Building with ApiHub](https://dev.to/apihub/one-api-key-for-multiple-chinese-ai-models-what-im-building-with-apihub-4ilk) (2026-08-06)
-- [Privacy-First Healthcare: Real-time ECG Denoising with WebLLM and WebGPU 🩺⚡](https://dev.to/wellallytech/privacy-first-healthcare-real-time-ecg-denoising-with-webllm-and-webgpu-1pag) (2026-08-06)
-- [Daily Updates: Yesterday's Hacker News Show Section Product](https://dev.to/howiprompt/daily-updates-yesterdays-hacker-news-show-section-product-3gap) (2026-08-06)
-- [Automated plagiarism is a thing. I posted an article about Thumb Chords on this platform and I found out it quickly popped up on a site called PromptCube with different phrasing but same content and structure. The Internet as we know it is dying.](https://dev.to/argenkiwi/automated-plagiarism-is-a-thing-i-posted-an-article-about-thumb-chords-on-this-platform-and-i-39h8) (2026-08-06)
+- [5 Browser APIs Every Web Developer Should Know (But Probably Aren't Using Enough)](https://dev.to/rickkm/5-browser-apis-every-web-developer-should-know-but-probably-arent-using-enough-3i8b) (2026-08-06)
+- [When You Should Not Run Kubernetes, and What a Single Docker Compose Host Really Costs You](https://dev.to/jachin_ocacio_e8de2a25158/when-you-should-not-run-kubernetes-and-what-a-single-docker-compose-host-really-costs-you-526i) (2026-08-06)
+- [低遅延の打鍵音をAVAudioPlayerNodeプールで重ねる設計](https://dev.to/klakkapp/di-chi-yan-noda-jian-yin-woavaudioplayernodepurudezhong-nerushe-ji-2hc1) (2026-08-06)
+- [Best 5 Browser Automation API for AI Agents in 2026](https://dev.to/kevin_menesesgonzlez/best-5-browser-automation-api-for-ai-agents-in-2026-5hcg) (2026-08-06)
+- [The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46) (2026-08-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Web Development Tutorials for Beginners: The Complete 2026 Starter Guide](https://medium.com/@services.asfit/web-development-tutorials-for-beginners-the-complete-2026-starter-guide-cd29c9fc8252?source=rss------programming-5) (2026-08-06)
-- [7 Modern Python Libraries Shaking Up AI Development in 2026](https://python.plainenglish.io/7-modern-python-libraries-shaking-up-ai-development-in-2026-e974ada47896?source=rss------programming-5) (2026-08-06)
-- [Nextflow Made Easy As ABC (Part 1): The Building Blocks](https://medium.com/@jessicaovabor/nextflow-made-easy-as-abcnextflow-made-easy-as-abc-part-1-the-building-blocks-48c739c57287?source=rss------programming-5) (2026-08-06)
-- [Why I Stopped Writing One-Off Python Scripts and Started Building Reusable Automation Systems](https://medium.com/data-science-collective/why-i-stopped-writing-one-off-python-scripts-and-started-building-reusable-automation-systems-4262eea71caf?source=rss------programming-5) (2026-08-06)
-- [[RustGuide] 4.1 Ownership — Stack Memory vs. Heap Memory](https://medium.com/@stanyin64/rustguide-4-1-ownership-stack-memory-vs-heap-memory-c2a0a8cfcb3c?source=rss------programming-5) (2026-08-06)
+- [The Foundations of Backend Engineering — Understanding HTTP](https://medium.com/@kushagradpr2005/the-foundations-of-backend-engineering-understanding-http-7d8792ece2b1?source=rss------programming-5) (2026-08-06)
+- [I Built WorkMemory AI Because I Was Tired of Forgetting What I Shipped](https://medium.com/@chramsaikumar/i-built-workmemory-ai-because-i-was-tired-of-forgetting-what-i-shipped-7be69852d08f?source=rss------programming-5) (2026-08-06)
+- [Stop Collecting Programming Courses. Start Building.](https://medium.com/@nour.albattniji/stop-collecting-programming-courses-start-building-99a295c81264?source=rss------programming-5) (2026-08-06)
+- [I Think Meta’s Muse Code Could Be the Biggest Threat to Cursor Yet. Here’s Why.](https://medium.com/@inprogrammer/i-think-metas-muse-code-could-be-the-biggest-threat-to-cursor-yet-here-s-why-b82347eb8300?source=rss------programming-5) (2026-08-06)
+- [How to Start Digital Work:](https://medium.com/@sstwork810/how-to-start-digital-work-874cb658ca4d?source=rss------programming-5) (2026-08-06)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Pause workflows for approval with Chat SDK](https://vercel.com/changelog/chat-sdk-durable-approvals) (2026-08-06)
 - [Set your own project avatars](https://vercel.com/changelog/project-avatars) (2026-08-05)
 - [New setup page after domain checkout](https://vercel.com/changelog/new-setup-page-after-domain-checkout) (2026-08-05)
 - [Export AI Gateway traces with Vercel Drains](https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains) (2026-08-05)
 - [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api) (2026-08-05)
-- [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace) (2026-08-05)
 
 </details>
 
