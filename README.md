@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/) (2026-08-05)
-- [Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/) (2026-08-05)
-- [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/) (2026-08-05)
-- [PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/) (2026-08-05)
-- [Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/) (2026-08-05)
+- [Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday](https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/) (2026-08-05)
+- [Nikita Bier steps down as X’s head of product](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/) (2026-08-05)
+- [Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/) (2026-08-05)
+- [Meta launches Muse Code, an AI agent for large code bases](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/) (2026-08-05)
+- [Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships](https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zed DeltaDB](https://zed.dev/deltadb) (2026-08-05)
-- [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) (2026-08-05)
-- [Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show](https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show) (2026-08-05)
-- [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) (2026-08-05)
-- [Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://arxiv.org/abs/2510.01395) (2026-08-05)
+- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) (2026-08-05)
+- [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread) (2026-08-05)
+- [I'll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/) (2026-08-05)
+- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) (2026-08-05)
+- [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead) (2026-08-06)
+- [X product chief Nikita Bier is leaving after one year](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving) (2026-08-05)
 - [Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual](https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale) (2026-08-05)
 - [Uber CEO brushes off reports of a Waymo break-up](https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership) (2026-08-05)
 - [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale) (2026-08-05)
-- [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo) (2026-08-05)
-- [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (2026-08-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [After jacking up prices, Disney+ and Netflix consider offering free alternatives](https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/) (2026-08-05)
-- [EVgo starts building Tesla Superchargers under license](https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/) (2026-08-05)
-- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) (2026-08-05)
-- [Google plans to kill Assistant on your phone on September 4](https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/) (2026-08-05)
-- [SpaceX spooks investors with debut earnings report](https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/) (2026-08-05)
+- [Thousands of servers can be backdoored by exploiting buggy motherboard controllers](https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/) (2026-08-05)
+- [Schwartz confirmed as CDC director after bungling confirmation hearing](https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/) (2026-08-05)
+- [Anthropic’s AI used fake identities, malware in rogue attack on GitHub project](https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/) (2026-08-05)
+- [Reddit signals ominous upcoming "changes” for old.reddit.com](https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/) (2026-08-05)
+- [Hank Green found the AI problem that YouTube labels can’t catch](https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/) (2026-08-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci) (2026-08-05)
-- [My smart-contract scanner reports almost nothing — and that's the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk) (2026-08-05)
-- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5) (2026-08-05)
-- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p) (2026-08-05)
-- [Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching](https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938) (2026-08-05)
+- [Pacing the Frontier Shows How AI Employees Are Organizing on Safety Governance](https://dev.to/alifar/pacing-the-frontier-shows-how-ai-employees-are-organizing-on-safety-governance-6og) (2026-08-06)
+- [One API Key for Multiple Chinese AI Models: What I’m Building with ApiHub](https://dev.to/apihub/one-api-key-for-multiple-chinese-ai-models-what-im-building-with-apihub-4ilk) (2026-08-06)
+- [Privacy-First Healthcare: Real-time ECG Denoising with WebLLM and WebGPU 🩺⚡](https://dev.to/wellallytech/privacy-first-healthcare-real-time-ecg-denoising-with-webllm-and-webgpu-1pag) (2026-08-06)
+- [Daily Updates: Yesterday's Hacker News Show Section Product](https://dev.to/howiprompt/daily-updates-yesterdays-hacker-news-show-section-product-3gap) (2026-08-06)
+- [Automated plagiarism is a thing. I posted an article about Thumb Chords on this platform and I found out it quickly popped up on a site called PromptCube with different phrasing but same content and structure. The Internet as we know it is dying.](https://dev.to/argenkiwi/automated-plagiarism-is-a-thing-i-posted-an-article-about-thumb-chords-on-this-platform-and-i-39h8) (2026-08-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Built to Survive](https://medium.com/@dana_fm/built-to-survive-a08df12c9363?source=rss------programming-5) (2026-08-05)
-- [World Monitor that the Governments have been hiding from You](https://medium.com/techx-official/world-monitor-that-the-governments-have-been-hiding-from-you-fb3822a0d0f5?source=rss------programming-5) (2026-08-05)
-- [[RustGuide] 3.6 Control Flow — Loops](https://medium.com/@stanyin64/rustguide-3-6-control-flow-loops-5055eb439208?source=rss------programming-5) (2026-08-05)
-- [The Problem with Screenshots Isn’t Storage. It’s Memory.](https://nikunjmaheshwari.medium.com/the-problem-with-screenshots-isnt-storage-it-s-memory-d1e6e267b038?source=rss------programming-5) (2026-08-05)
-- [How I Learned C++ for Competitive Programming in One Week](https://medium.com/@ganeshshanbhag.cp/how-i-learned-c-for-competitive-programming-in-one-week-77c756e39018?source=rss------programming-5) (2026-08-05)
+- [Web Development Tutorials for Beginners: The Complete 2026 Starter Guide](https://medium.com/@services.asfit/web-development-tutorials-for-beginners-the-complete-2026-starter-guide-cd29c9fc8252?source=rss------programming-5) (2026-08-06)
+- [7 Modern Python Libraries Shaking Up AI Development in 2026](https://python.plainenglish.io/7-modern-python-libraries-shaking-up-ai-development-in-2026-e974ada47896?source=rss------programming-5) (2026-08-06)
+- [Nextflow Made Easy As ABC (Part 1): The Building Blocks](https://medium.com/@jessicaovabor/nextflow-made-easy-as-abcnextflow-made-easy-as-abc-part-1-the-building-blocks-48c739c57287?source=rss------programming-5) (2026-08-06)
+- [Why I Stopped Writing One-Off Python Scripts and Started Building Reusable Automation Systems](https://medium.com/data-science-collective/why-i-stopped-writing-one-off-python-scripts-and-started-building-reusable-automation-systems-4262eea71caf?source=rss------programming-5) (2026-08-06)
+- [[RustGuide] 4.1 Ownership — Stack Memory vs. Heap Memory](https://medium.com/@stanyin64/rustguide-4-1-ownership-stack-memory-vs-heap-memory-c2a0a8cfcb3c?source=rss------programming-5) (2026-08-06)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/) (2026-08-04)
 - [As AI Increases Demands on Memory, Storage Steps Up](https://blogs.nvidia.com/blog/ai-storage-fms/) (2026-08-04)
 - [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/) (2026-08-04)
+
+</details>
+
+<details>
+<summary>🍎 Apple Developer News</summary>
+
+- [Get ready for new creative assets on the App Store](https://developer.apple.com/news/?id=kug6m2ea) (2026-08-05)
+- [Hello Developer: August 2026](https://developer.apple.com/news/?id=vrvvlonn) (2026-08-05)
+- [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
+- [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
+- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
 
 </details>
 
@@ -341,20 +352,20 @@
 
 - [Set your own project avatars](https://vercel.com/changelog/project-avatars) (2026-08-05)
 - [New setup page after domain checkout](https://vercel.com/changelog/new-setup-page-after-domain-checkout) (2026-08-05)
+- [Export AI Gateway traces with Vercel Drains](https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains) (2026-08-05)
 - [Introducing the new v0 API](https://vercel.com/blog/introducing-the-new-v0-api) (2026-08-05)
 - [AI Gateway is now available on AWS Marketplace](https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace) (2026-08-05)
-- [Vercel Sandbox now supports 10,000 concurrent sandboxes and 5,000 vCPUs per minute](https://vercel.com/changelog/vercel-sandbox-now-supports-10-000-concurrent-sandboxes-and-5-000-vcpus-per-minute) (2026-08-05)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports](https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/) (2026-08-05)
 - [The Agent Access Model](https://blog.cloudflare.com/the-agent-access-model/) (2026-08-05)
 - [How we’re rethinking work at Cloudflare with Cloudflare OS](https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/) (2026-08-05)
 - [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) (2026-08-05)
 - [WriteGuard: fine-grained controls for MCP Servers](https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/) (2026-08-05)
-- [Catching rogue AI behavior with identity-aware analytics](https://blog.cloudflare.com/identity-aware-ai-gateway/) (2026-08-05)
 
 </details>
 
@@ -481,10 +492,10 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
 <summary>⚡ Zapier Blog</summary>
 
 - [The 11 best SEO tools in 2026](https://zapier.com/blog/best-seo-tools) (2026-08-05)
+- [n8n vs. UiPath: Which is best? [2026]](https://zapier.com/blog/n8n-vs-uipath) (2026-08-05)
+- [What are agentic workflows?](https://zapier.com/blog/agentic-workflows) (2026-08-05)
 - [How to give your AI agents reliable app access for free](https://zapier.com/blog/connect-ai-agents-to-apps) (2026-08-04)
 - [How to build a customer profile for better targeting](https://zapier.com/blog/customer-profile) (2026-08-03)
-- [Zapier's AI tools: Get to know our governed AI products and features](https://zapier.com/blog/zapier-ai-guide) (2026-08-03)
-- [Zapier Tables: Store, move, and act on your data automatically](https://zapier.com/blog/zapier-tables-guide) (2026-08-03)
 
 </details>
 
