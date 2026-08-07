@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-08-07)
-- [New Mexico court orders Meta to pay additional $567M in child safety case](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/) (2026-08-07)
-- [OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/) (2026-08-06)
-- [Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/) (2026-08-06)
-- [Vogue just gave another nod of approval to the tech world](https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/) (2026-08-06)
+- [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/) (2026-08-07)
+- [Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/) (2026-08-07)
+- [Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/) (2026-08-07)
+- [Trump administration has spent nearly $4B to cancel offshore wind farms](https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/) (2026-08-07)
+- [Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o) (2026-08-07)
-- [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo) (2026-08-07)
-- [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939) (2026-08-07)
-- [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) (2026-08-07)
-- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) (2026-08-07)
+- [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57) (2026-08-07)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) (2026-08-07)
+- [The End of No Code](https://blog.exe.dev/the-end-of-no-code) (2026-08-07)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) (2026-08-07)
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) (2026-08-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best classic slasher movie you&#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design) (2026-08-07)
-- [Why does Apple keep banning Telegram, but never X?](https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations) (2026-08-07)
-- [Trying to explain One Night Only&#8217;s tech-enforced sex dystopia](https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech) (2026-08-07)
-- [Meta ordered to pay an additional $567 million in public nuisance ruling](https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance) (2026-08-07)
-- [Trevor Noah is hosting Google’s Pixel 11 launch event](https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah) (2026-08-06)
+- [OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (2026-08-07)
+- [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-08-07)
+- [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search) (2026-08-07)
+- [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3) (2026-08-07)
+- [Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50](https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Remembering the pre-Google web, when search was an experiment](https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/) (2026-08-07)
-- [Organ donation group accused of trying to take living man's organs faces shutdown](https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/) (2026-08-06)
-- [Explosive drone found hovering near Ukrainian cargo aircraft at German airport](https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/) (2026-08-06)
-- [X wants to keep suing advertisers, asks 5th Circuit to overrule district judge](https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/) (2026-08-06)
-- [Suno hopes to go legit with watermarks for AI-generated music](https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/) (2026-08-06)
+- [Report: White House drafting executive order linking vaccines and autism](https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/) (2026-08-07)
+- [AI chatbots have failed people in crisis. Can that be fixed?](https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/) (2026-08-07)
+- [ByteDance trains massive AI model in bid to rival Anthropic](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) (2026-08-07)
+- [The world's biggest solar telescope caught vortexes on the Sun's surface](https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/) (2026-08-07)
+- [Trump is losing his war on wind power](https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) (2026-08-07)
+- [How ideas of a vast censorship network moved from the online fringe to Trump policy](https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/) (2026-08-07)
 - [The Download: Google’s AI shake-up and Meta’s rogue model](https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/) (2026-08-06)
 - [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) (2026-08-05)
 - [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) (2026-08-05)
-- [NASA’s new dark-energy space telescope can also detect killer asteroids](https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/) (2026-08-05)
-- [The Download: US robot restrictions and ICE’s DNA grab](https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/) (2026-08-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The AI Model Landscape in 2026: who's who and where to start](https://dev.to/fj_palacios/the-ai-model-landscape-in-2026-whos-who-and-where-to-start-32ip) (2026-08-07)
-- [Adapting Ghidra for Reverse Engineering Undocumented Binary Architectures](https://dev.to/ddupard/adapting-ghidra-for-reverse-engineering-undocumented-binary-architectures-2bl8) (2026-08-07)
-- [What Changes After the First 1,000 Orders: The Engineering Side of Scaling eCommerce](https://dev.to/droplox/what-changes-after-the-first-1000-orders-the-engineering-side-of-scaling-ecommerce-4d9b) (2026-08-07)
-- [How to Repair Corrupted PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-repair-corrupted-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3po8) (2026-08-07)
-- [I give up - and here's what building an app for elderly parents actually taught me](https://dev.to/stoyan_minchev/i-give-up-and-heres-what-building-an-app-for-elderly-parents-actually-taught-me-4af9) (2026-08-07)
+- [How I Built an AI Content Factory That Sounds Like Me](https://dev.to/alexiskroberson/how-i-built-an-ai-content-factory-that-sounds-like-me-8gc) (2026-08-07)
+- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk) (2026-08-07)
+- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5) (2026-08-07)
+- [Dos formas en que un backtest te miente (y cómo evitarlas)](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63) (2026-08-07)
+- [ratatop: the process table, and the parentheses that ruin everything](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn) (2026-08-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Syntax Fear to Flow State: My Take on Vibe Coding](https://medium.com/@sanjaykumardec24/from-syntax-fear-to-flow-state-my-take-on-vibe-coding-a66bfc518044?source=rss------programming-5) (2026-08-07)
-- [max_connections = 500 Is Why Your Postgres Is Slow](https://medium.com/@danielvalev/max-connections-500-is-why-your-postgres-is-slow-39ac991f58de?source=rss------programming-5) (2026-08-07)
-- [Stop Paying the Whole-File Tax](https://medium.com/@dian-balta/stop-paying-the-whole-file-tax-ed28a7054510?source=rss------programming-5) (2026-08-07)
-- [The Programming Skill AI Can’t Learn for You](https://medium.com/@patilshwetha17/the-programming-skill-ai-cant-learn-for-you-c05d39dd6663?source=rss------programming-5) (2026-08-07)
-- [10 Modern C# Features Every .NET Developer Should Learn Before Everyone Else](https://medium.com/@mohsho10/10-modern-c-features-every-net-developer-should-learn-before-everyone-else-c327b4a0f890?source=rss------programming-5) (2026-08-07)
+- [r e f : Department of Feelings](https://medium.com/@ref.31e/r-e-f-department-of-feelings-9412e20ad7e6?source=rss------programming-5) (2026-08-07)
+- [What if feelings had a computable dictionary?](https://medium.com/@ref.31e/what-if-feelings-had-a-computable-dictionary-ae51c79c8a42?source=rss------programming-5) (2026-08-07)
+- [➡️ LeetCode 754: Reach a Number — The Parity Trick That Turns a BFS Problem into Simple Math](https://medium.com/@johirbuet/%EF%B8%8F-leetcode-754-reach-a-number-the-parity-trick-that-turns-a-bfs-problem-into-simple-math-8f1d8c1f0af6?source=rss------programming-5) (2026-08-07)
+- [12 Lesser-Known Python Features That Experienced Developers Love](https://python.plainenglish.io/12-lesser-known-python-features-that-experienced-developers-love-6cf4b35eca49?source=rss------programming-5) (2026-08-07)
+- [How I Finally Stopped Passing Raw Data in Rust (And Why You Should Too!) ](https://medium.com/@monikasinghal713/how-i-finally-stopped-passing-raw-data-in-rust-and-why-you-should-too-d7becf8dc6a0?source=rss------programming-5) (2026-08-07)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4) (2026-08-07)
 - [Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4) (2026-07-31)
 - [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4) (2026-07-30)
 - [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4) (2026-07-17)
 - [Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4) (2026-07-13)
-- [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4) (2026-06-29)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [CVE-2026-63077: Additional Guidance Following Reports of Active Exploitation](https://blog.jetbrains.com/teamcity/2026/08/cve-2026-63077-update/) (2026-08-07)
 - [JetBrains Academy – July Digest](https://blog.jetbrains.com/education/2026/08/07/jetbrains-academy-july-2026-2-2/) (2026-08-07)
 - [Println Debugging Done Right](https://blog.jetbrains.com/idea/2026/08/println-debugging-done-right/) (2026-08-06)
 - [Figma Connect for WebStorm: Stage One of a Better Design-to-Code Experience](https://blog.jetbrains.com/webstorm/2026/08/figma-connect-webstorm/) (2026-08-06)
 - [The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/) (2026-08-05)
-- [Go 1.27 Release Party – Free Online Event With the Go Team](https://blog.jetbrains.com/go/2026/08/05/new-livestream-go-127/) (2026-08-05)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public) (2026-08-07)
+- [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-07)
+- [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions) (2026-08-07)
 - [Introducing Agent Plugins](https://vercel.com/blog/introducing-agent-plugins) (2026-08-06)
 - [Seedance 2.5 now available on Vercel AI Gateway](https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway) (2026-08-06)
-- [Marketplace integrations now install provider skills](https://vercel.com/changelog/vercel-marketplace-agent-skills) (2026-08-06)
-- [Ling 3.0 Tiny is now available on AI Gateway](https://vercel.com/changelog/ling-3-0-tiny-is-now-available-on-ai-gateway) (2026-08-06)
-- [Introducing Agent Plugins 1.0.0](https://vercel.com/changelog/introducing-agent-plugins-1-0-0) (2026-08-06)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Unveiling good and bad behaviors on the Agentic Internet](https://blog.cloudflare.com/good-and-bad-agentic-behaviors/) (2026-08-07)
+- [Introducing Radar Researcher: An AI tool for exploring Internet data in plain language](https://blog.cloudflare.com/introducing-radar-researcher/) (2026-08-07)
+- [Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding](https://blog.cloudflare.com/community-program-refresh/) (2026-08-07)
+- [Unifying Workers AI and AI Gateway into a single AI control plane](https://blog.cloudflare.com/workers-ai-gateway-unification/) (2026-08-07)
 - [Cloudflare AI Search: give your agents a search engine for your data ](https://blog.cloudflare.com/ai-search-easier/) (2026-08-06)
-- [The next generation of MCP](https://blog.cloudflare.com/mcp-v2/) (2026-08-06)
-- [From ranking to recommended: get your site ready to thrive in the age of AI agents](https://blog.cloudflare.com/aeo/) (2026-08-06)
-- [Building an open Agentic Internet: readable, discoverable, callable, and payable](https://blog.cloudflare.com/the-agentic-internet/) (2026-08-06)
-- [Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers](https://blog.cloudflare.com/kitesurf/) (2026-08-06)
 
 </details>
 
@@ -425,22 +425,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql) (2026-08-07)
 - [Massively parallel Postgres backups](https://planetscale.com/blog/massively-parallel-postgres-backups) (2026-07-31)
 - [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) (2026-07-24)
 - [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) (2026-07-23)
 - [Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL](https://planetscale.com/blog/postgresql-mvcc) (2026-07-20)
-- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) (2026-07-15)
 
 </details>
 
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Prisma Schema as LLM Context: Why Agents Read It Best](https://www.prisma.io/blog/prisma-schema-as-llm-context) (2026-08-06)
+- [Infraslopture and Other Paradoxes](https://www.prisma.io/blog/infraslopture-and-other-paradoxes) (2026-08-03)
 - [From Local Development to Production with Prisma Postgres](https://www.prisma.io/blog/from-local-to-production-with-prisma-postgres) (2026-07-31)
 - [Search encrypted data with Prisma 8 and CipherStash](https://www.prisma.io/blog/search-encrypted-data-with-prisma-next-and-cipherstash) (2026-07-30)
 - [Don't Let Your AI Agent Delete Your Production Database | Prisma 8](https://www.prisma.io/blog/stop-your-ai-agent-dropping-your-database) (2026-07-30)
-- [Prisma Object Store Buckets: S3-Compatible File Storage](https://www.prisma.io/blog/object-store-buckets) (2026-07-28)
-- [How to Make Your Docs Agent-Ready: llms.txt, Parity, MCP](https://www.prisma.io/blog/make-your-docs-agent-ready) (2026-07-24)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [How to connect Google Sheets to ChatGPT](https://zapier.com/blog/connect-google-sheets-with-chatgpt) (2026-08-07)
 - [How to build safe and trustworthy AI agents with Zapier](https://zapier.com/blog/safe-trustworthy-ai-agents) (2026-08-06)
 - [The 16 best productivity extensions for Chrome in 2026](https://zapier.com/blog/productivity-extensions-for-chrome) (2026-08-06)
 - [How to write a winning creative brief](https://zapier.com/blog/creative-brief) (2026-08-06)
 - [Third-party risk management (TPRM): A complete guide](https://zapier.com/blog/third-party-risk-management) (2026-08-06)
-- [How to build a lead generation funnel in 4 steps](https://zapier.com/blog/lead-generation-funnel) (2026-08-06)
 
 </details>
 
@@ -557,10 +557,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
 - [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) (2026-08-06)
 - [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) (2026-08-04)
 - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
-- [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure) (2026-07-28)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 
 </details>
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Matplotlib vs Plotly: Which Python Chart Tool Should You Choose?](https://towardsdatascience.com/matplotlib-vs-plotly-which-python-chart-tool-should-you-choose/) (2026-08-07)
+- [Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One](https://towardsdatascience.com/loop-engineering-for-listing-questions-when-the-answer-is-every-passage-not-the-top-one/) (2026-08-07)
+- [The Problem with pandas Isn’t Performance. It’s Cognitive Overhead.](https://towardsdatascience.com/the-problem-with-pandas-isnt-performance-its-cognitive-overhead/) (2026-08-07)
 - [My Fall-Detection Model Scored 94%, and It Was Lying to Me](https://towardsdatascience.com/my-fall-detection-model-scored-94-and-it-was-lying-to-me/) (2026-08-07)
 - [I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How.](https://towardsdatascience.com/i-built-an-ai-data-agent-which-can-query-data-and-answer-business-questions-heres-how/) (2026-08-06)
-- [Last Month’s Machine Learning Lessons Learned](https://towardsdatascience.com/last-months-lessons-learned/) (2026-08-06)
-- [I Built a Tool-Calling Agent in Python. Here’s How I Debugged It](https://towardsdatascience.com/i-built-a-tool-calling-agent-in-python-heres-how-i-debugged-it/) (2026-08-06)
-- [Loop Engineering for Cross-References: When RAG Answers ‘see Section 7.2’ Instead of the Actual Answer](https://towardsdatascience.com/loop-engineering-for-cross-references-when-rag-answers-see-section-7-2-instead-of-the-actual-answer/) (2026-08-06)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Small Language Models with Hugging Face transformers Library + smolLM3](https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3) (2026-08-07)
 - [5 Free Courses to Learn Modern AI and LLMs](https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms) (2026-08-07)
 - [Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture](https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture) (2026-08-06)
 - [The Minimal AI Engineer Toolkit for 2026](https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026) (2026-08-06)
 - [7 Best Web Crawling Tools and APIs in 2026](https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026) (2026-08-06)
-- [Getting Started with GitHub Agentic Workflows](https://www.kdnuggets.com/getting-started-with-github-agentic-workflows) (2026-08-05)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Identifying Token Costs Hiding in Your Agentic Loop](https://machinelearningmastery.com/identifying-token-costs-hiding-in-your-agentic-loop/) (2026-08-07)
 - [Designing AI Agents That Can Self-Correct](https://machinelearningmastery.com/designing-ai-agents-that-can-self-correct/) (2026-08-06)
 - [7 Chunking Strategies That Decide Whether Your RAG Works](https://machinelearningmastery.com/7-chunking-strategies-that-decide-whether-your-rag-works/) (2026-08-05)
 - [Measuring Performance of Transformer Inference](https://machinelearningmastery.com/measuring-performance-of-transformer-inference/) (2026-08-04)
 - [Static vs. Dynamic vs. Continuous Batching in LLM Inference](https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference/) (2026-08-04)
-- [Decoding Strategies and Output Control](https://machinelearningmastery.com/decoding-strategies-and-output-control/) (2026-08-03)
 
 </details>
 
