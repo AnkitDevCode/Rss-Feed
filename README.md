@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7) (2026-08-07)
 - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923) (2026-08-06)
 - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) (2026-08-06)
-- [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350) (2026-08-06)
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) (2026-08-06)
-- [Bioengineered chewing gum may offer a way to fight microbes linked to cancers](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) (2026-08-06)
+- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) (2026-08-06)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Organ donation group accused of trying to take living man's organs faces shutdown](https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/) (2026-08-06)
 - [Explosive drone found hovering near Ukrainian cargo aircraft at German airport](https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/) (2026-08-06)
 - [X wants to keep suing advertisers, asks 5th Circuit to overrule district judge](https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/) (2026-08-06)
 - [Suno hopes to go legit with watermarks for AI-generated music](https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/) (2026-08-06)
 - [Anthropic will design its own hardware to power Claude](https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/) (2026-08-06)
-- [Large genome models used to design new viruses](https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/) (2026-08-06)
 
 </details>
 
@@ -86,25 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Every vendor says they detect AI agents. None of them can.](https://dev.to/layercall/every-vendor-says-they-detect-ai-agents-none-of-them-can-222m) (2026-08-06)
-- [Your bot detection works perfectly. That's the problem.](https://dev.to/layercall/your-bot-detection-works-perfectly-thats-the-problem-3h87) (2026-08-06)
-- [No Backtesting Needed! I Punched My Hypothesis's "Heart" Directly with Raw Data and It Died Before I Even Measured Returns](https://dev.to/masaoshimadaopen/no-backtesting-needed-i-punched-my-hypothesiss-heart-directly-with-raw-data-and-it-died-before-166e) (2026-08-06)
-- [# Hello 👋,
-Hi everyone! My name is Fouad Elhamra.
-I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-Looking forward to being part of the community. Thanks for having me! 🚀](https://dev.to/fouad_elhamra_9d355787cd1/-hello-hi-everyone-my-name-is-fouad-elhamra-im-passionate-about-artificial-intelligence-33ea) (2026-08-06)
-- [How to Count Parameters in Artificial Neural Networks (ANNs)](https://dev.to/fouad_elhamra_9d355787cd1/how-to-count-parameters-in-artificial-neural-networks-anns-28g2) (2026-08-06)
+- [When ‘Are We Affected?’ Requires Reconstructing Yesterday’s npm Install](https://dev.to/demivalerith/when-are-we-affected-requires-reconstructing-yesterdays-npm-install-44j9) (2026-08-07)
+- [10 Signs Your Windows PC May Be Compromised and How to Monitor Them](https://dev.to/darkssel/10-signs-your-windows-pc-may-be-compromised-and-how-to-monitor-them-4e66) (2026-08-07)
+- [We Turned Down Google's AI Weather Model](https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc) (2026-08-07)
+- [Store and search chunks in Laravel with Meilisearch and Larameili](https://dev.to/edulazaro/store-and-search-chunks-in-laravel-with-meilisearch-and-larameili-1e3m) (2026-08-07)
+- [Compilation Is Not Assurance: What Agentic Rust Needs After the First Green Build](https://dev.to/wernerk_au/compilation-is-not-assurance-what-agentic-rust-needs-after-the-first-green-build-3ipk) (2026-08-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Code That Almost Destroyed Me](https://medium.com/@micahearhart70/the-code-that-almost-destroyed-me-78ccc64b8ce7?source=rss------programming-5) (2026-08-06)
-- [Stop Using Exceptions for Expected Failures](https://medium.com/@vikpoca/stop-using-exceptions-for-expected-failures-2b253b233673?source=rss------programming-5) (2026-08-06)
-- [Everyone Ranks the AI Models by Score. I Checked the Scores and They Fell Apart.](https://medium.com/@thebuildersplaybook/everyone-ranks-the-ai-models-by-score-i-checked-the-scores-and-they-fell-apart-e27e7bfec23b?source=rss------programming-5) (2026-08-06)
-- [I Replaced 8 of My Daily CLI Tools With Rust Rewrites. Only One Was a Downgrade.](https://sarathm09.medium.com/i-replaced-8-of-my-daily-cli-tools-with-rust-rewrites-only-one-was-a-downgrade-d0f0c96fcedf?source=rss------programming-5) (2026-08-06)
-- [To AI or not to AI?](https://medium.com/@LaurenDrinkard/to-ai-or-not-to-ai-e8fac0b3b0c7?source=rss------programming-5) (2026-08-06)
+- [AI Models Explained: Important Branches of Artificial Intelligence (2026 Guide)](https://medium.com/@khayyamshah2007/ai-models-explained-important-branches-of-artificial-intelligence-2026-guide-c597ab638311?source=rss------programming-5) (2026-08-07)
+- [The Internet Runs on Code Most Developers Never Learn](https://medium.com/@muruganantham52524/the-internet-runs-on-code-most-developers-never-learn-463507a3cf08?source=rss------programming-5) (2026-08-07)
+- [Top LLM Observability Platforms in 2026](https://medium.com/data-science-collective/top-llm-observability-platforms-in-2026-2c1c37619766?source=rss------programming-5) (2026-08-07)
+- [30 Practical MySQL Key Notes](https://githubdaily.medium.com/30-practical-mysql-key-notes-b57ea5921533?source=rss------programming-5) (2026-08-07)
+- [Multi-Stage Docker Builds for PHP — Cutting Image Size by 80%](https://medium.com/@annxsa/multi-stage-docker-builds-for-php-cutting-image-size-by-80-90b4042463fe?source=rss------programming-5) (2026-08-07)
 
 </details>
 
@@ -516,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
+- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
-- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
-- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 
 </details>
 
