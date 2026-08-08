@@ -18,17 +18,6 @@
 </details>
 
 <details>
-<summary>💻 Hacker News</summary>
-
-- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) (2026-08-08)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) (2026-08-07)
-- [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070) (2026-08-07)
-- [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych) (2026-08-07)
-- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) (2026-08-07)
-
-</details>
-
-<details>
 <summary>📱 The Verge</summary>
 
 - [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs) (2026-08-07)
@@ -86,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlearning: Can a Model Forget on Request?](https://dev.to/multigrid/unlearning-can-a-model-forget-on-request-4e9h) (2026-08-08)
-- [The Long History of Machine Translation](https://dev.to/multigrid/the-long-history-of-machine-translation-2h8) (2026-08-08)
-- [Beyond LLMs: Agent Logic Is the Real Key to Scaling Enterprise AI](https://dev.to/judy_miranttie/beyond-llms-agent-logic-is-the-real-key-to-scaling-enterprise-ai-216o) (2026-08-08)
-- [What AI Overviews Actually Cite: A GEO Study for Developers](https://dev.to/aimigo_57e64d6aeaf6a67a02/what-ai-overviews-actually-cite-a-geo-study-for-developers-26fm) (2026-08-08)
-- [Giving your AI agent eyes on your design specs: The Lanhu MCP approach](https://dev.to/renato_marinho/giving-your-ai-agent-eyes-on-your-design-specs-the-lanhu-mcp-approach-30lj) (2026-08-08)
+- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb) (2026-08-08)
+- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j) (2026-08-08)
+- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs & Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o) (2026-08-08)
+- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7) (2026-08-08)
+- [I Kept Hearing "Didn't We Already Send That?" So I Built a Tool to Fix It](https://dev.to/lowkeydev-3/i-kept-hearing-didnt-we-already-send-that-so-i-built-a-tool-to-fix-it-gk9) (2026-08-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Git Basics: From Messy Code to Clean Projects That Stay on Track](https://medium.com/@sunil17bbmp/git-basics-from-messy-code-to-clean-projects-that-stay-on-track-30839b58fd98?source=rss------programming-5) (2026-08-08)
-- [Pure Functions Made My Code More Predictable](https://medium.com/@scosmexs/pure-functions-made-my-code-more-predictable-ea8411de2414?source=rss------programming-5) (2026-08-08)
-- [주말 아침 — 주간 닷넷 #31](https://blog.dotnetdev.kr/%EC%A3%BC%EB%A7%90-%EC%95%84%EC%B9%A8-%EC%A3%BC%EA%B0%84-%EB%8B%B7%EB%84%B7-31-23e21e49950d?source=rss------programming-5) (2026-08-07)
-- [Why TypeScript Became the Language of the AI-Coding Era](https://medium.com/@techmuse007/why-typescript-became-the-language-of-the-ai-coding-era-518f913490d4?source=rss------programming-5) (2026-08-07)
-- [Tech No Suppose Hard: Why I Started Explaining Tech in Pidgin](https://medium.com/@akingbadeanuoluwapo330/tech-no-suppose-hard-why-i-started-explaining-tech-in-pidgin-aedaed68c2c0?source=rss------programming-5) (2026-08-07)
+- [Why 90% of Freshers Fail Technical Interviews](https://medium.com/@skillsitacademyfaculty/why-90-of-freshers-fail-technical-interviews-54e008a6c796?source=rss------programming-5) (2026-08-08)
+- [System Design: Securing Internal Microservices](https://medium.com/codetodeploy/system-design-securing-internal-microservices-0a55564f370c?source=rss------programming-5) (2026-08-08)
+- [Your LLM Remembers Too Much And You’re Paying for It ](https://medium.com/lets-code-future/your-llm-remembers-too-much-and-youre-paying-for-it-4704da526231?source=rss------programming-5) (2026-08-08)
+- [The AI Agents Were Done. The Delivery Clock Wasn’t.](https://dmytronasyrov.medium.com/the-ai-agents-were-done-the-delivery-clock-wasnt-526401552928?source=rss------programming-5) (2026-08-08)
+- [Stop Using git add . Here's What Actually Works](https://zarfamasood.medium.com/stop-using-git-add-heres-what-actually-works-372cd27227a6?source=rss------programming-5) (2026-08-08)
 
 </details>
 
@@ -373,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Guide to Migrating Your Email Sending Domain
-](
-https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
-) (2026-08-07)
-- [
 The architecture of enterprise trust: Twilio US Branded Calling is now generally available
 ](
 https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
@@ -396,6 +380,11 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 How to Make Your AI Voice Sound More Human and Less Robotic with C# 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp
+) (2026-07-28)
+- [
+How to Handle Background Noise When Using Conversation Relay
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
 ) (2026-07-28)
 
 </details>
@@ -513,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sou
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
-- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
+- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
+- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 
 </details>
 
