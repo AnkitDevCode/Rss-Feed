@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) (2026-08-07)
+- [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/) (2026-08-07)
+- [Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/) (2026-08-07)
+- [Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/) (2026-08-07)
 - [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/) (2026-08-07)
-- [Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/) (2026-08-07)
-- [Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/) (2026-08-07)
-- [Trump administration has spent nearly $4B to cancel offshore wind farms](https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/) (2026-08-07)
-- [Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57) (2026-08-07)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) (2026-08-07)
-- [The End of No Code](https://blog.exe.dev/the-end-of-no-code) (2026-08-07)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) (2026-08-07)
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) (2026-08-07)
+- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) (2026-08-08)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) (2026-08-07)
+- [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070) (2026-08-07)
+- [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych) (2026-08-07)
+- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs) (2026-08-07)
+- [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo) (2026-08-07)
+- [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel) (2026-08-07)
 - [OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (2026-08-07)
 - [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-08-07)
-- [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search) (2026-08-07)
-- [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3) (2026-08-07)
-- [Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50](https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Report: White House drafting executive order linking vaccines and autism](https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/) (2026-08-07)
-- [AI chatbots have failed people in crisis. Can that be fixed?](https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/) (2026-08-07)
-- [ByteDance trains massive AI model in bid to rival Anthropic](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) (2026-08-07)
-- [The world's biggest solar telescope caught vortexes on the Sun's surface](https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/) (2026-08-07)
-- [Trump is losing his war on wind power](https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/) (2026-08-07)
+- [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) (2026-08-07)
+- [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/) (2026-08-07)
+- [Judge rules Meta caused "public nuisance" and must fund mental health treatment](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/) (2026-08-07)
+- [The ultimate eclipse chase: A Concorde raced against the Moon's shadow](https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/) (2026-08-07)
+- [New official 30th anniversary Quake mission pack adds new maps and mechanics](https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/) (2026-08-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built an AI Content Factory That Sounds Like Me](https://dev.to/alexiskroberson/how-i-built-an-ai-content-factory-that-sounds-like-me-8gc) (2026-08-07)
-- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk) (2026-08-07)
-- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5) (2026-08-07)
-- [Dos formas en que un backtest te miente (y cómo evitarlas)](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63) (2026-08-07)
-- [ratatop: the process table, and the parentheses that ruin everything](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn) (2026-08-07)
+- [Unlearning: Can a Model Forget on Request?](https://dev.to/multigrid/unlearning-can-a-model-forget-on-request-4e9h) (2026-08-08)
+- [The Long History of Machine Translation](https://dev.to/multigrid/the-long-history-of-machine-translation-2h8) (2026-08-08)
+- [Beyond LLMs: Agent Logic Is the Real Key to Scaling Enterprise AI](https://dev.to/judy_miranttie/beyond-llms-agent-logic-is-the-real-key-to-scaling-enterprise-ai-216o) (2026-08-08)
+- [What AI Overviews Actually Cite: A GEO Study for Developers](https://dev.to/aimigo_57e64d6aeaf6a67a02/what-ai-overviews-actually-cite-a-geo-study-for-developers-26fm) (2026-08-08)
+- [Giving your AI agent eyes on your design specs: The Lanhu MCP approach](https://dev.to/renato_marinho/giving-your-ai-agent-eyes-on-your-design-specs-the-lanhu-mcp-approach-30lj) (2026-08-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [r e f : Department of Feelings](https://medium.com/@ref.31e/r-e-f-department-of-feelings-9412e20ad7e6?source=rss------programming-5) (2026-08-07)
-- [What if feelings had a computable dictionary?](https://medium.com/@ref.31e/what-if-feelings-had-a-computable-dictionary-ae51c79c8a42?source=rss------programming-5) (2026-08-07)
-- [➡️ LeetCode 754: Reach a Number — The Parity Trick That Turns a BFS Problem into Simple Math](https://medium.com/@johirbuet/%EF%B8%8F-leetcode-754-reach-a-number-the-parity-trick-that-turns-a-bfs-problem-into-simple-math-8f1d8c1f0af6?source=rss------programming-5) (2026-08-07)
-- [12 Lesser-Known Python Features That Experienced Developers Love](https://python.plainenglish.io/12-lesser-known-python-features-that-experienced-developers-love-6cf4b35eca49?source=rss------programming-5) (2026-08-07)
-- [How I Finally Stopped Passing Raw Data in Rust (And Why You Should Too!) ](https://medium.com/@monikasinghal713/how-i-finally-stopped-passing-raw-data-in-rust-and-why-you-should-too-d7becf8dc6a0?source=rss------programming-5) (2026-08-07)
+- [Git Basics: From Messy Code to Clean Projects That Stay on Track](https://medium.com/@sunil17bbmp/git-basics-from-messy-code-to-clean-projects-that-stay-on-track-30839b58fd98?source=rss------programming-5) (2026-08-08)
+- [Pure Functions Made My Code More Predictable](https://medium.com/@scosmexs/pure-functions-made-my-code-more-predictable-ea8411de2414?source=rss------programming-5) (2026-08-08)
+- [주말 아침 — 주간 닷넷 #31](https://blog.dotnetdev.kr/%EC%A3%BC%EB%A7%90-%EC%95%84%EC%B9%A8-%EC%A3%BC%EA%B0%84-%EB%8B%B7%EB%84%B7-31-23e21e49950d?source=rss------programming-5) (2026-08-07)
+- [Why TypeScript Became the Language of the AI-Coding Era](https://medium.com/@techmuse007/why-typescript-became-the-language-of-the-ai-coding-era-518f913490d4?source=rss------programming-5) (2026-08-07)
+- [Tech No Suppose Hard: Why I Started Explaining Tech in Pidgin](https://medium.com/@akingbadeanuoluwapo330/tech-no-suppose-hard-why-i-started-explaining-tech-in-pidgin-aedaed68c2c0?source=rss------programming-5) (2026-08-07)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 - [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 - [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
-- [Built to bounce back: How Azure resiliency evolved](https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/) (2026-07-08)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent) (2026-08-07)
 - [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public) (2026-08-07)
+- [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther) (2026-08-07)
 - [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-07)
 - [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions) (2026-08-07)
-- [Introducing Agent Plugins](https://vercel.com/blog/introducing-agent-plugins) (2026-08-06)
-- [Seedance 2.5 now available on Vercel AI Gateway](https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway) (2026-08-06)
 
 </details>
 
@@ -372,6 +372,11 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Guide to Migrating Your Email Sending Domain
+](
+https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
+) (2026-08-07)
 - [
 The architecture of enterprise trust: Twilio US Branded Calling is now generally available
 ](
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 How to Make Your AI Voice Sound More Human and Less Robotic with C# 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp
-) (2026-07-28)
-- [
-How to Handle Background Noise When Using Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
 ) (2026-07-28)
 
 </details>
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [ZoomInfo data just got easier to use in Zapier](https://zapier.com/blog/zoominfo-zapier-api-access-standardized) (2026-08-07)
+- [What Salesforce customers are actually building with Zapier](https://zapier.com/blog/zappy-award-august-spotlight-salesforce) (2026-08-07)
 - [How to connect Google Sheets to ChatGPT](https://zapier.com/blog/connect-google-sheets-with-chatgpt) (2026-08-07)
 - [How to build safe and trustworthy AI agents with Zapier](https://zapier.com/blog/safe-trustworthy-ai-agents) (2026-08-06)
 - [The 16 best productivity extensions for Chrome in 2026](https://zapier.com/blog/productivity-extensions-for-chrome) (2026-08-06)
-- [How to write a winning creative brief](https://zapier.com/blog/creative-brief) (2026-08-06)
-- [Third-party risk management (TPRM): A complete guide](https://zapier.com/blog/third-party-risk-management) (2026-08-06)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
+- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
-- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
-- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 
 </details>
 
@@ -562,6 +562,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) (2026-08-04)
 - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
+- [How AI Is changing Instagram engagement without replacing the human touch](https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/) (2026-08-07)
+- [Alibaba tests new business model for Qwen open-source AI](https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/) (2026-08-07)
+- [Why health AI interfaces must adapt to user expertise](https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/) (2026-08-06)
+- [PRISM2 model uses clinical dialogue to interpret pathology slides](https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/) (2026-08-05)
 
 </details>
 
