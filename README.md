@@ -18,24 +18,35 @@
 </details>
 
 <details>
+<summary>💻 Hacker News</summary>
+
+- [A Tome of Forbidden Technologies](https://ecosophia.net/a-tome-of-forbidden-technologies/) (2026-08-08)
+- [The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html) (2026-08-08)
+- [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) (2026-08-08)
+- [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html) (2026-08-08)
+- [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) (2026-08-08)
+
+</details>
+
+<details>
 <summary>📱 The Verge</summary>
 
+- [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review) (2026-08-08)
+- [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer) (2026-08-08)
+- [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery) (2026-08-08)
 - [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs) (2026-08-07)
 - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo) (2026-08-07)
-- [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel) (2026-08-07)
-- [OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (2026-08-07)
-- [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/) (2026-08-08)
+- [DeepMind’s hurricane breakthrough has surprised weather scientists](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/) (2026-08-08)
 - [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) (2026-08-07)
 - [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/) (2026-08-07)
 - [Judge rules Meta caused "public nuisance" and must fund mental health treatment](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/) (2026-08-07)
-- [The ultimate eclipse chase: A Concorde raced against the Moon's shadow](https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/) (2026-08-07)
-- [New official 30th anniversary Quake mission pack adds new maps and mechanics](https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/) (2026-08-07)
 
 </details>
 
@@ -75,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb) (2026-08-08)
-- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j) (2026-08-08)
-- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs & Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o) (2026-08-08)
-- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7) (2026-08-08)
-- [I Kept Hearing "Didn't We Already Send That?" So I Built a Tool to Fix It](https://dev.to/lowkeydev-3/i-kept-hearing-didnt-we-already-send-that-so-i-built-a-tool-to-fix-it-gk9) (2026-08-08)
+- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc) (2026-08-08)
+- [AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727) (2026-08-08)
+- [I find reading hard, so I built a text-to-speech reader for Android — here's how](https://dev.to/yramstech/i-find-reading-hard-so-i-built-a-text-to-speech-reader-for-android-heres-how-31ci) (2026-08-08)
+- [Building a Chrome Extension to Auto-Save Gemini Chat Logs using AI (Part 1)](https://dev.to/maru0122/building-a-chrome-extension-to-auto-save-gemini-chat-logs-using-ai-part-1-4op3) (2026-08-08)
+- [Top AI Papers on Hugging Face - 2026-08-08](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-08-270o) (2026-08-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why 90% of Freshers Fail Technical Interviews](https://medium.com/@skillsitacademyfaculty/why-90-of-freshers-fail-technical-interviews-54e008a6c796?source=rss------programming-5) (2026-08-08)
-- [System Design: Securing Internal Microservices](https://medium.com/codetodeploy/system-design-securing-internal-microservices-0a55564f370c?source=rss------programming-5) (2026-08-08)
-- [Your LLM Remembers Too Much And You’re Paying for It ](https://medium.com/lets-code-future/your-llm-remembers-too-much-and-youre-paying-for-it-4704da526231?source=rss------programming-5) (2026-08-08)
-- [The AI Agents Were Done. The Delivery Clock Wasn’t.](https://dmytronasyrov.medium.com/the-ai-agents-were-done-the-delivery-clock-wasnt-526401552928?source=rss------programming-5) (2026-08-08)
-- [Stop Using git add . Here's What Actually Works](https://zarfamasood.medium.com/stop-using-git-add-heres-what-actually-works-372cd27227a6?source=rss------programming-5) (2026-08-08)
+- [The Company Emptied His Lab. They Called Him a Thief. He Cost Them a Million Dollars.](https://canartuc.medium.com/the-company-emptied-his-lab-they-called-him-a-thief-he-cost-them-a-million-dollars-933efdce819e?source=rss------programming-5) (2026-08-08)
+- [Building hello-blockchain-cli: Every Wrong Turn in One of My First Rust Projects](https://favoriteblockchain.medium.com/building-hello-blockchain-cli-every-wrong-turn-in-one-of-my-first-rust-projects-3c563f2d9cbe?source=rss------programming-5) (2026-08-08)
+- [10 Python Features Worth Learning Earlier](https://medium.com/@djangowiki/10-python-features-worth-learning-earlier-3a6d8abe16ce?source=rss------programming-5) (2026-08-08)
+- [I will be your wordpress developer, website designer, and migrate wordpress website](https://globalwebcraft.medium.com/i-will-be-your-wordpress-developer-website-designer-and-migrate-wordpress-website-30ff46de26ce?source=rss------programming-5) (2026-08-08)
+- [20 Copywriting ChatGPT Prompts Only the Top 1% of Writers Know About.](https://medium.com/@marocsofiane20/20-copywriting-chatgpt-prompts-only-the-top-1-of-writers-know-about-8922d602d42d?source=rss------programming-5) (2026-08-08)
 
 </details>
 
@@ -119,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/) (2026-08-08)
 - [GeForce NOW Shakes Up August With 26 New Games](https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/) (2026-08-06)
 - [Into the Omniverse: How Open World Models Push the Frontier of Physical AI](https://blogs.nvidia.com/blog/open-world-models-physical-ai/) (2026-08-06)
 - [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/) (2026-08-05)
 - [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/) (2026-08-04)
-- [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/) (2026-08-04)
 
 </details>
 
@@ -293,17 +304,6 @@
 </details>
 
 <details>
-<summary>💎 JetBrains Blog</summary>
-
-- [CVE-2026-63077: Additional Guidance Following Reports of Active Exploitation](https://blog.jetbrains.com/teamcity/2026/08/cve-2026-63077-update/) (2026-08-07)
-- [JetBrains Academy – July Digest](https://blog.jetbrains.com/education/2026/08/07/jetbrains-academy-july-2026-2-2/) (2026-08-07)
-- [Println Debugging Done Right](https://blog.jetbrains.com/idea/2026/08/println-debugging-done-right/) (2026-08-06)
-- [Figma Connect for WebStorm: Stage One of a Better Design-to-Code Experience](https://blog.jetbrains.com/webstorm/2026/08/figma-connect-webstorm/) (2026-08-06)
-- [The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/) (2026-08-05)
-
-</details>
-
-<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.133 (Insiders)](https://code.visualstudio.com/updates/v1_133) (2026-08-11)
@@ -355,37 +355,6 @@
 - [Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding](https://blog.cloudflare.com/community-program-refresh/) (2026-08-07)
 - [Unifying Workers AI and AI Gateway into a single AI control plane](https://blog.cloudflare.com/workers-ai-gateway-unification/) (2026-08-07)
 - [Cloudflare AI Search: give your agents a search engine for your data ](https://blog.cloudflare.com/ai-search-easier/) (2026-08-06)
-
-</details>
-
-<details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-The architecture of enterprise trust: Twilio US Branded Calling is now generally available
-](
-https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
-) (2026-08-05)
-- [
-What is Aggregate Performance Reporting Format (APRF)?
-](
-https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedback
-) (2026-08-03)
-- [
-WhatsApp just changed how customers identify themselves. Here's what to do about it
-](
-https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-identify-themselves
-) (2026-07-29)
-- [
-How to Make Your AI Voice Sound More Human and Less Robotic with C# 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp
-) (2026-07-28)
-- [
-How to Handle Background Noise When Using Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
-) (2026-07-28)
 
 </details>
 
@@ -502,11 +471,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
+- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 - [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
-- [What Is Work-Life Balance?](https://slack.com/blog/collaboration/work-life-balance) (2026-07-21)
-- [Grow Organizational Culture and Leadership at Work](https://slack.com/blog/transformation/organizational-culture-and-leadership) (2026-07-21)
 
 </details>
 
@@ -540,28 +509,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/) (2026-07-30)
 - [PyTorch Foundation Flare Pin Community Design Contest](https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest/) (2026-07-28)
 - [Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/) (2026-07-23)
-
-</details>
-
-<details>
-<summary>🤗 Hugging Face</summary>
-
-- [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
-- [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) (2026-08-06)
-- [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) (2026-08-04)
-- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
-- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
-- [How AI Is changing Instagram engagement without replacing the human touch](https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/) (2026-08-07)
-- [Alibaba tests new business model for Qwen open-source AI](https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/) (2026-08-07)
-- [Why health AI interfaces must adapt to user expertise](https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/) (2026-08-06)
-- [PRISM2 model uses clinical dialogue to interpret pathology slides](https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/) (2026-08-05)
 
 </details>
 
