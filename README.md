@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) (2026-08-08)
-- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) (2026-08-08)
-- [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/) (2026-08-08)
-- [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/) (2026-08-08)
-- [Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/) (2026-08-08)
+- [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/) (2026-08-09)
+- [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) (2026-08-09)
+- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) (2026-08-09)
+- [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/) (2026-08-09)
+- [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/) (2026-08-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html) (2026-08-09)
-- [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) (2026-08-09)
-- [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox) (2026-08-09)
-- [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html) (2026-08-09)
-- [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so) (2026-08-09)
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) (2026-08-09)
+- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) (2026-08-09)
+- [Google Caught AI Faking Creativity in Every Office in America [video]](https://www.youtube.com/watch?v=Z_O6Lwj1yjQ) (2026-08-09)
+- [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html) (2026-08-09)
+- [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom) (2026-08-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat) (2026-08-09)
+- [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash) (2026-08-09)
+- [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup) (2026-08-09)
 - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) (2026-08-09)
 - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards) (2026-08-08)
-- [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) (2026-08-08)
-- [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart) (2026-08-08)
-- [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview) (2026-08-08)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Start Here: What Survives When The Surface Changes?](https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8) (2026-08-09)
-- [Skills Are Package Management for Your AI](https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l) (2026-08-09)
-- [Self-Improvement Is Release Engineering](https://dev.to/harryfloyd/self-improvement-is-release-engineering-j6h) (2026-08-09)
-- [Right About AI, Wiped Out Anyway](https://dev.to/harryfloyd/right-about-ai-wiped-out-anyway-4257) (2026-08-09)
-- [Remembers Everything, Learns Nothing](https://dev.to/harryfloyd/remembers-everything-learns-nothing-3c1l) (2026-08-09)
+- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c) (2026-08-09)
+- [Why I Built a Zero-Dependency, Single-File Go Clipboard for Terminal Junkies](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6) (2026-08-09)
+- [Our AI Agent Failed 5 Times in One Day. Here is Why It Never Happened Again.](https://dev.to/zwiserfit/our-ai-agent-failed-5-times-in-one-day-here-is-why-it-never-happened-again-1e5p) (2026-08-09)
+- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7) (2026-08-09)
+- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0) (2026-08-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [OvisOCR2 + RAG: Revolutionize Complex Data Extraction (Open-Source)](https://medium.com/@GaoDalie_AI/ovisocr2-rag-revolutionize-complex-data-extraction-open-source-bc358902a327?source=rss------programming-5) (2026-08-09)
-- [# The Git-Shadow Protocol: How to Deploy Autonomous PR Engines (And Track LLM Penetration)](https://medium.com/@hussamadel38/the-git-shadow-protocol-how-to-deploy-autonomous-pr-engines-and-track-llm-penetration-5b24efab9178?source=rss------programming-5) (2026-08-09)
-- [The "Contrarian Productivity" Post (Ready to Publish)
-​Everyone says you need more discipline to…](https://medium.com/@mic.iyke/the-contrarian-productivity-post-ready-to-publish-everyone-says-you-need-more-discipline-to-06763b10fd54?source=rss------programming-5) (2026-08-09)
-- [Building Reliable AI Agents with Tool Calling and Structured Output in 2026](https://www.towardsdeeplearning.com/building-reliable-ai-agents-with-tool-calling-and-structured-output-in-2026-466f296c05a3?source=rss------programming-5) (2026-08-09)
-- [Choosing a Research Laptop When You Can’t Assume the Power Stays On](https://medium.com/@dr_Bat/choosing-a-research-laptop-when-you-cant-assume-the-power-stays-on-5ebf9dd8b83f?source=rss------programming-5) (2026-08-09)
+- [Java Multithreading Mastery #18 — Why volatile Cannot Solve Race Conditions: Visibility ≠ Thread…](https://medium.com/@ayushi200malviya/java-multithreading-mastery-18-why-volatile-cannot-solve-race-conditions-visibility-thread-c15a3b0a80b2?source=rss------programming-5) (2026-08-09)
+- [I Kept Trying to Write the Smart Fix. The Dumb One Worked All Along.](https://medium.com/@diya.sambharia/i-kept-trying-to-write-the-smart-fix-the-dumb-one-worked-all-along-0ec78b5a2e0e?source=rss------programming-5) (2026-08-09)
+- [The Delegation Gap: Measuring What AI Agents Cost You in Code Review](https://medium.com/@prasad.rocklin/the-delegation-gap-measuring-what-ai-agents-cost-you-in-code-review-3d61c409de1e?source=rss------programming-5) (2026-08-09)
+- [I’m Building an AI SaaS With Almost $0 — Here’s What I’m Learning](https://medium.com/@arclx724/im-building-an-ai-saas-with-almost-0-here-s-what-i-m-learning-479e0a51b6d4?source=rss------programming-5) (2026-08-09)
+- [The Advice That Changed How I Learned to Code in the AI Era](https://pundarikaksha.medium.com/the-advice-that-changed-how-i-learned-to-code-in-the-ai-era-04d296c1ea0b?source=rss------programming-5) (2026-08-09)
 
 </details>
 
@@ -569,22 +568,22 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Thought Loading Data Was the Finish Line. It Was the Starting Point.](https://towardsdatascience.com/i-thought-loading-data-was-the-finish-line-it-was-the-starting-point/) (2026-08-09)
+- [How to Implement Structured Output with Local LLMs](https://towardsdatascience.com/structured-output-with-local-llms/) (2026-08-09)
 - [Before Q, K, and V: Reconstructing the Transformer](https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/) (2026-08-08)
 - [Building a Streamlit UI for My LangGraph AI Agent](https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/) (2026-08-08)
 - [Matplotlib vs Plotly: Which Python Chart Tool Should You Choose?](https://towardsdatascience.com/matplotlib-vs-plotly-which-python-chart-tool-should-you-choose/) (2026-08-07)
-- [Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One](https://towardsdatascience.com/loop-engineering-for-listing-questions-when-the-answer-is-every-passage-not-the-top-one/) (2026-08-07)
-- [The Problem with pandas Isn’t Performance. It’s Cognitive Overhead.](https://towardsdatascience.com/the-problem-with-pandas-isnt-performance-its-cognitive-overhead/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 Claude Skills for Marketing](https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/) (2026-08-09)
 - [Building Trustworthy Snowflake AI Agents with Semantic Governance](https://www.analyticsvidhya.com/blog/2026/08/snowflake-ai-agents-semantic-governance/) (2026-08-08)
 - [Top 10 Skills for Claude Code and Codex CLI](https://www.analyticsvidhya.com/blog/2026/08/best-skills-claude-code-codex-cli/) (2026-08-07)
 - [Claude Code Best Practices: 3 Lessons from 400,000 Sessions](https://www.analyticsvidhya.com/blog/2026/08/claude-code-best-practices-analysis/) (2026-08-06)
 - [Top 5 Claude Skills for Writing (Ranked by GitHub Stars)](https://www.analyticsvidhya.com/blog/2026/08/top-5-claude-writing-skills/) (2026-08-05)
-- [Agent Harness vs Loop vs Graph Engineering: A Technical Guide](https://www.analyticsvidhya.com/blog/2026/08/agent-harness-loop-graph-engineering/) (2026-08-04)
 
 </details>
 
