@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) (2026-08-08)
+- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) (2026-08-08)
 - [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/) (2026-08-08)
 - [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/) (2026-08-08)
 - [Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/) (2026-08-08)
-- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) (2026-08-07)
-- [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) (2026-08-08)
-- [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker) (2026-08-08)
-- [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html) (2026-08-08)
-- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) (2026-08-08)
-- [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) (2026-08-08)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) (2026-08-08)
+- [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal) (2026-08-08)
+- [Depression has tripled in the last 15 years. Arthur Brooks about the cause](https://bigthink.com/series/full-interview/meaning-crisis-brooks/) (2026-08-08)
+- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/) (2026-08-08)
+- [My server is a phone now](https://seg6.space/posts/phone-server/) (2026-08-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards) (2026-08-08)
 - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) (2026-08-08)
 - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart) (2026-08-08)
 - [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview) (2026-08-08)
 - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review) (2026-08-08)
-- [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer) (2026-08-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Beyond Autocomplete: Meta Muse Code, AWS Kiro, and the Rise of Multi-Agent AI Planning 🤖⚡](https://dev.to/muhammad_lutfimuzaki_/beyond-autocomplete-meta-muse-code-aws-kiro-and-the-rise-of-multi-agent-ai-planning-46cl) (2026-08-08)
-- [Cuando tu clasificador parpadea: histéresis para señales que oscilan](https://dev.to/isazajuancarlos/cuando-tu-clasificador-parpadea-histeresis-para-senales-que-oscilan-1499) (2026-08-08)
-- [Egusi Soup. One Bowl, One Checkbox, Zero JavaScript](https://dev.to/ndcodes/egusi-soup-one-bowl-one-checkbox-zero-javascript-1mei) (2026-08-08)
-- [Building a Bulletproof Comment Reply System in Node.js & MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074) (2026-08-08)
-- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p) (2026-08-08)
+- [Deploying and committing to git are not the same "done" — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc) (2026-08-09)
+- [Quantified Self: Turn Your Massive Apple Health XML into a Lightning-Fast DuckDB Database](https://dev.to/beck_moulton/quantified-self-turn-your-massive-apple-health-xml-into-a-lightning-fast-duckdb-database-o70) (2026-08-09)
+- [I Built a Design Skill to Make AI-Generated Websites Less Generic — FireBall v3](https://dev.to/lyd_lyd_d4869af25d33ce0eb/i-built-a-design-skill-to-make-ai-generated-websites-less-generic-fireball-v3-4ep5) (2026-08-09)
+- [CNCF's shadow-AI post makes the case for treating agents as identities](https://dev.to/leobaniak/cncfs-shadow-ai-post-makes-the-case-for-treating-agents-as-identities-27m0) (2026-08-09)
+- [Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1) (2026-08-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Reasons Your AI Output Sounds Like Everyone Else’s](https://medium.com/@masaood/7-reasons-your-ai-output-sounds-like-everyone-elses-de1caa81333f?source=rss------programming-5) (2026-08-08)
-- [Worldwide debut day for the radio airplay of HEART LAND by MIC IYKE single 10th August 2026…](https://medium.com/@mic.iyke/worldwide-debut-day-for-the-radio-airplay-of-heart-land-by-mic-iyke-single-10th-august-2026-dfd2591c2496?source=rss------programming-5) (2026-08-08)
-- [GitHub Copilot’s New /worktree and /rewind Commands: A Beginner’s AI Coding Experiment Checklist…](https://marcusykim.medium.com/github-copilots-new-worktree-and-rewind-commands-a-beginner-s-ai-coding-experiment-checklist-a15398328677?source=rss------programming-5) (2026-08-08)
-- [What Is Latency? Complete Guide to Network, AI, API, Database & Cloud Latency (2026)](https://medium.com/@khayyamshah2007/what-is-latency-complete-guide-to-network-ai-api-database-cloud-latency-2026-7da05763cf4a?source=rss------programming-5) (2026-08-08)
-- [System Design Fundamentals](https://medium.com/@dhruv2552/system-design-fundamentals-078418cf3e1f?source=rss------programming-5) (2026-08-08)
+- [Immutability Is About Confidence, Not Restrictions](https://medium.com/@scosmexs/immutability-is-about-confidence-not-restrictions-873979cbc7b6?source=rss------programming-5) (2026-08-09)
+- [How I Started My Journey in Tech: From War-Torn Syria to Online Learning](https://medium.com/@halmoallem33/how-i-started-my-journey-in-tech-from-war-torn-syria-to-online-learning-de932a961f80?source=rss------programming-5) (2026-08-09)
+- [[RustGuide] 5.2 Struct Usage Example — Printing Debug Information](https://medium.com/@stanyin64/rustguide-5-2-struct-usage-example-printing-debug-information-47b59d2e8610?source=rss------programming-5) (2026-08-09)
+- [LeetCode 3302: Find the Lexicographically Smallest Valid Sequence — An Intuitive Guide](https://medium.com/@johirbuet/leetcode-3302-find-the-lexicographically-smallest-valid-sequence-an-intuitive-guide-a0bb2e9fd2cd?source=rss------programming-5) (2026-08-09)
+- [How to Mount a File System in Linux](https://medium.com/@sunil17bbmp/how-to-mount-a-file-system-in-linux-f149951f33e5?source=rss------programming-5) (2026-08-09)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Grok Imagine Image 2.0 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway) (2026-08-08)
 - [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent) (2026-08-07)
 - [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public) (2026-08-07)
 - [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther) (2026-08-07)
 - [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-07)
-- [Free domain now included with new Pro subscriptions](https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions) (2026-08-07)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Guide to Migrating Your Email Sending Domain
+](
+https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
+) (2026-08-07)
+- [
+How to Scale Email Sending Without Sacrificing Deliverability
+](
+https://www.twilio.com/en-us/blog/insights/scale-email-without-sacrificing-deliverability
+) (2026-08-07)
+- [
 The architecture of enterprise trust: Twilio US Branded Calling is now generally available
 ](
 https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
@@ -387,16 +397,6 @@ WhatsApp just changed how customers identify themselves. Here's what to do about
 ](
 https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-identify-themselves
 ) (2026-07-29)
-- [
-How to Make Your AI Voice Sound More Human and Less Robotic with C# 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp
-) (2026-07-28)
-- [
-How to Handle Background Noise When Using Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay
-) (2026-07-28)
 
 </details>
 
@@ -463,17 +463,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
-- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
-- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
-- [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
-- [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
 
 </details>
 
