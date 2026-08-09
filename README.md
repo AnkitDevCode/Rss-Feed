@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) (2026-08-09)
-- [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/) (2026-08-09)
-- [Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/) (2026-08-09)
-- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) (2026-08-09)
-- [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/) (2026-08-09)
+- [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html) (2026-08-09)
+- [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) (2026-08-09)
+- [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox) (2026-08-09)
+- [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html) (2026-08-09)
+- [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so) (2026-08-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) (2026-08-09)
 - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards) (2026-08-08)
 - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) (2026-08-08)
 - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart) (2026-08-08)
 - [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview) (2026-08-08)
-- [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review) (2026-08-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Mount Toba eruption doesn't seem like it could nearly kill our species](https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/) (2026-08-09)
 - [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/) (2026-08-08)
 - [DeepMind’s hurricane breakthrough has surprised weather scientists](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/) (2026-08-08)
 - [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) (2026-08-07)
 - [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/) (2026-08-07)
-- [Judge rules Meta caused "public nuisance" and must fund mental health treatment](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/) (2026-08-07)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Testing an LLM Input Layer for Poker Calculators: Verified Math, Unverified Interpretation](https://dev.to/ty215/testing-an-llm-input-layer-for-poker-calculators-verified-math-unverified-interpretation-18ib) (2026-08-09)
-- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868) (2026-08-09)
-- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb) (2026-08-09)
-- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization (and a Seam for the AI Later)](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5) (2026-08-09)
-- [An Empty VAST Wrapper Is Schema-Valid in 4.4. It Was Not in 2.0.](https://dev.to/aleksuix/an-empty-vast-wrapper-is-schema-valid-in-44-it-was-not-in-20-5bob) (2026-08-09)
+- [Start Here: What Survives When The Surface Changes?](https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8) (2026-08-09)
+- [Skills Are Package Management for Your AI](https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l) (2026-08-09)
+- [Self-Improvement Is Release Engineering](https://dev.to/harryfloyd/self-improvement-is-release-engineering-j6h) (2026-08-09)
+- [Right About AI, Wiped Out Anyway](https://dev.to/harryfloyd/right-about-ai-wiped-out-anyway-4257) (2026-08-09)
+- [Remembers Everything, Learns Nothing](https://dev.to/harryfloyd/remembers-everything-learns-nothing-3c1l) (2026-08-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Meet Muhammad Haris: The 18-Year-Old Developer Building a Company Before Finishing His Teens](https://medium.com/@alexjordanman/meet-muhammad-haris-the-18-year-old-developer-building-a-company-before-finishing-his-teens-756a9b3f42b1?source=rss------programming-5) (2026-08-09)
-- [# Uncontrolled Optimization: The Investigation They Classified](https://medium.com/@eduard.deira/uncontrolled-optimization-the-investigation-they-classified-70f788fc48ce?source=rss------programming-5) (2026-08-09)
-- [Rust vs Go in 2026: Which One Should You Learn?](https://medium.com/@codebyadarsh/rust-vs-go-in-2026-which-one-should-you-learn-c14986da15cc?source=rss------programming-5) (2026-08-09)
-- [Data Scientist, Data Analyst, or AI Engineer What’s the Real Difference?](https://medium.com/@cultclass/data-scientist-data-analyst-or-ai-engineer-whats-the-real-difference-8241cf3c259e?source=rss------programming-5) (2026-08-09)
-- [AI isn’t taking jobs It’s worse than you think](https://medium.com/data-and-beyond/ai-isnt-taking-jobs-it-s-worse-than-you-think-a6f306fa833d?source=rss------programming-5) (2026-08-09)
+- [OvisOCR2 + RAG: Revolutionize Complex Data Extraction (Open-Source)](https://medium.com/@GaoDalie_AI/ovisocr2-rag-revolutionize-complex-data-extraction-open-source-bc358902a327?source=rss------programming-5) (2026-08-09)
+- [# The Git-Shadow Protocol: How to Deploy Autonomous PR Engines (And Track LLM Penetration)](https://medium.com/@hussamadel38/the-git-shadow-protocol-how-to-deploy-autonomous-pr-engines-and-track-llm-penetration-5b24efab9178?source=rss------programming-5) (2026-08-09)
+- [The "Contrarian Productivity" Post (Ready to Publish)
+​Everyone says you need more discipline to…](https://medium.com/@mic.iyke/the-contrarian-productivity-post-ready-to-publish-everyone-says-you-need-more-discipline-to-06763b10fd54?source=rss------programming-5) (2026-08-09)
+- [Building Reliable AI Agents with Tool Calling and Structured Output in 2026](https://www.towardsdeeplearning.com/building-reliable-ai-agents-with-tool-calling-and-structured-output-in-2026-466f296c05a3?source=rss------programming-5) (2026-08-09)
+- [Choosing a Research Laptop When You Can’t Assume the Power Stays On](https://medium.com/@dr_Bat/choosing-a-research-laptop-when-you-cant-assume-the-power-stays-on-5ebf9dd8b83f?source=rss------programming-5) (2026-08-09)
 
 </details>
 
@@ -513,11 +514,11 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 <details>
 <summary>💬 Slack API</summary>
 
+- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
 - [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
 - [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
-- [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 
 </details>
 
@@ -562,17 +563,6 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 - [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) (2026-08-04)
 - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
-- [How AI Is changing Instagram engagement without replacing the human touch](https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/) (2026-08-07)
-- [Alibaba tests new business model for Qwen open-source AI](https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/) (2026-08-07)
-- [Why health AI interfaces must adapt to user expertise](https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/) (2026-08-06)
-- [PRISM2 model uses clinical dialogue to interpret pathology slides](https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/) (2026-08-05)
 
 </details>
 
