@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) (2026-08-08)
-- [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal) (2026-08-08)
-- [Depression has tripled in the last 15 years. Arthur Brooks about the cause](https://bigthink.com/series/full-interview/meaning-crisis-brooks/) (2026-08-08)
-- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/) (2026-08-08)
-- [My server is a phone now](https://seg6.space/posts/phone-server/) (2026-08-08)
+- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) (2026-08-09)
+- [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/) (2026-08-09)
+- [Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/) (2026-08-09)
+- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) (2026-08-09)
+- [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/) (2026-08-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Deploying and committing to git are not the same "done" — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc) (2026-08-09)
-- [Quantified Self: Turn Your Massive Apple Health XML into a Lightning-Fast DuckDB Database](https://dev.to/beck_moulton/quantified-self-turn-your-massive-apple-health-xml-into-a-lightning-fast-duckdb-database-o70) (2026-08-09)
-- [I Built a Design Skill to Make AI-Generated Websites Less Generic — FireBall v3](https://dev.to/lyd_lyd_d4869af25d33ce0eb/i-built-a-design-skill-to-make-ai-generated-websites-less-generic-fireball-v3-4ep5) (2026-08-09)
-- [CNCF's shadow-AI post makes the case for treating agents as identities](https://dev.to/leobaniak/cncfs-shadow-ai-post-makes-the-case-for-treating-agents-as-identities-27m0) (2026-08-09)
-- [Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1) (2026-08-09)
+- [Testing an LLM Input Layer for Poker Calculators: Verified Math, Unverified Interpretation](https://dev.to/ty215/testing-an-llm-input-layer-for-poker-calculators-verified-math-unverified-interpretation-18ib) (2026-08-09)
+- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868) (2026-08-09)
+- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb) (2026-08-09)
+- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization (and a Seam for the AI Later)](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5) (2026-08-09)
+- [An Empty VAST Wrapper Is Schema-Valid in 4.4. It Was Not in 2.0.](https://dev.to/aleksuix/an-empty-vast-wrapper-is-schema-valid-in-44-it-was-not-in-20-5bob) (2026-08-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Immutability Is About Confidence, Not Restrictions](https://medium.com/@scosmexs/immutability-is-about-confidence-not-restrictions-873979cbc7b6?source=rss------programming-5) (2026-08-09)
-- [How I Started My Journey in Tech: From War-Torn Syria to Online Learning](https://medium.com/@halmoallem33/how-i-started-my-journey-in-tech-from-war-torn-syria-to-online-learning-de932a961f80?source=rss------programming-5) (2026-08-09)
-- [[RustGuide] 5.2 Struct Usage Example — Printing Debug Information](https://medium.com/@stanyin64/rustguide-5-2-struct-usage-example-printing-debug-information-47b59d2e8610?source=rss------programming-5) (2026-08-09)
-- [LeetCode 3302: Find the Lexicographically Smallest Valid Sequence — An Intuitive Guide](https://medium.com/@johirbuet/leetcode-3302-find-the-lexicographically-smallest-valid-sequence-an-intuitive-guide-a0bb2e9fd2cd?source=rss------programming-5) (2026-08-09)
-- [How to Mount a File System in Linux](https://medium.com/@sunil17bbmp/how-to-mount-a-file-system-in-linux-f149951f33e5?source=rss------programming-5) (2026-08-09)
+- [Meet Muhammad Haris: The 18-Year-Old Developer Building a Company Before Finishing His Teens](https://medium.com/@alexjordanman/meet-muhammad-haris-the-18-year-old-developer-building-a-company-before-finishing-his-teens-756a9b3f42b1?source=rss------programming-5) (2026-08-09)
+- [# Uncontrolled Optimization: The Investigation They Classified](https://medium.com/@eduard.deira/uncontrolled-optimization-the-investigation-they-classified-70f788fc48ce?source=rss------programming-5) (2026-08-09)
+- [Rust vs Go in 2026: Which One Should You Learn?](https://medium.com/@codebyadarsh/rust-vs-go-in-2026-which-one-should-you-learn-c14986da15cc?source=rss------programming-5) (2026-08-09)
+- [Data Scientist, Data Analyst, or AI Engineer What’s the Real Difference?](https://medium.com/@cultclass/data-scientist-data-analyst-or-ai-engineer-whats-the-real-difference-8241cf3c259e?source=rss------programming-5) (2026-08-09)
+- [AI isn’t taking jobs It’s worse than you think](https://medium.com/data-and-beyond/ai-isnt-taking-jobs-it-s-worse-than-you-think-a6f306fa833d?source=rss------programming-5) (2026-08-09)
 
 </details>
 
@@ -467,6 +467,17 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
+- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
+- [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
+- [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -502,11 +513,11 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 <details>
 <summary>💬 Slack API</summary>
 
-- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
 - [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
 - [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
 - [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
 - [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
+- [10 Google Chat Alternatives for Teams and Businesses](https://slack.com/blog/compare/google-chat-alternatives) (2026-07-22)
 
 </details>
 
