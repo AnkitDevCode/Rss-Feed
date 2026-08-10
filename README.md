@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) (2026-08-09)
+- [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) (2026-08-09)
 - [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/) (2026-08-09)
 - [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) (2026-08-09)
 - [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) (2026-08-09)
-- [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/) (2026-08-09)
-- [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/) (2026-08-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) (2026-08-09)
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) (2026-08-09)
-- [Google Caught AI Faking Creativity in Every Office in America [video]](https://www.youtube.com/watch?v=Z_O6Lwj1yjQ) (2026-08-09)
-- [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html) (2026-08-09)
-- [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom) (2026-08-09)
+- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/) (2026-08-10)
+- [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html) (2026-08-09)
+- [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986) (2026-08-09)
+- [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/) (2026-08-09)
+- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) (2026-08-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast) (2026-08-09)
 - [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat) (2026-08-09)
 - [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash) (2026-08-09)
 - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup) (2026-08-09)
 - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) (2026-08-09)
-- [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards) (2026-08-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c) (2026-08-09)
-- [Why I Built a Zero-Dependency, Single-File Go Clipboard for Terminal Junkies](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6) (2026-08-09)
-- [Our AI Agent Failed 5 Times in One Day. Here is Why It Never Happened Again.](https://dev.to/zwiserfit/our-ai-agent-failed-5-times-in-one-day-here-is-why-it-never-happened-again-1e5p) (2026-08-09)
-- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7) (2026-08-09)
-- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0) (2026-08-09)
+- [Why Is My SQL Query Slow Only in Production? (The Parameter Sniffing Trap)](https://dev.to/azhadsuhaimi/why-is-my-sql-query-slow-only-in-production-the-parameter-sniffing-trap-1ki9) (2026-08-10)
+- [Compression Is Understanding: Two July Papers That Prove AI Gets Smarter by Compressing Physics](https://dev.to/lanternproton/compression-is-understanding-two-july-papers-that-prove-ai-gets-smarter-by-compressing-physics-5399) (2026-08-10)
+- [I Built My AI Team a Blackboard — How to Stop Parallel Claude Sessions From Colliding](https://dev.to/dexterlung/i-built-my-ai-team-a-blackboard-how-to-stop-parallel-claude-sessions-from-colliding-j71) (2026-08-10)
+- [A Practical Guide to Adding Nano Banana Image Tools to Claude Desktop, VS Code, and Cursor](https://dev.to/germey/a-practical-guide-to-adding-nano-banana-image-tools-to-claude-desktop-vs-code-and-cursor-1ilm) (2026-08-10)
+- [Testing MCP Servers Used to Be a Pain. Here is How to Test Them with Zero Configuration.](https://dev.to/wozaisuzhou/testing-mcp-servers-used-to-be-a-pain-here-is-how-to-test-them-with-zero-configuration-58j6) (2026-08-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java Multithreading Mastery #18 — Why volatile Cannot Solve Race Conditions: Visibility ≠ Thread…](https://medium.com/@ayushi200malviya/java-multithreading-mastery-18-why-volatile-cannot-solve-race-conditions-visibility-thread-c15a3b0a80b2?source=rss------programming-5) (2026-08-09)
-- [I Kept Trying to Write the Smart Fix. The Dumb One Worked All Along.](https://medium.com/@diya.sambharia/i-kept-trying-to-write-the-smart-fix-the-dumb-one-worked-all-along-0ec78b5a2e0e?source=rss------programming-5) (2026-08-09)
-- [The Delegation Gap: Measuring What AI Agents Cost You in Code Review](https://medium.com/@prasad.rocklin/the-delegation-gap-measuring-what-ai-agents-cost-you-in-code-review-3d61c409de1e?source=rss------programming-5) (2026-08-09)
-- [I’m Building an AI SaaS With Almost $0 — Here’s What I’m Learning](https://medium.com/@arclx724/im-building-an-ai-saas-with-almost-0-here-s-what-i-m-learning-479e0a51b6d4?source=rss------programming-5) (2026-08-09)
-- [The Advice That Changed How I Learned to Code in the AI Era](https://pundarikaksha.medium.com/the-advice-that-changed-how-i-learned-to-code-in-the-ai-era-04d296c1ea0b?source=rss------programming-5) (2026-08-09)
+- [The Code That Didn’t Panic](https://medium.com/@ameykaloge42/the-code-that-didnt-panic-7b0248b1c45b?source=rss------programming-5) (2026-08-10)
+- [Why Your PHP cURL Call Hangs Forever Without a Timeout Set](https://medium.com/@annxsa/why-your-php-curl-call-hangs-forever-without-a-timeout-set-a33620367403?source=rss------programming-5) (2026-08-10)
+- [Composition Changed the Way I Build Software](https://medium.com/@scosmexs/composition-changed-the-way-i-build-software-5f307f018c1a?source=rss------programming-5) (2026-08-10)
+- [What Does a Java Developer Do? Roles, Responsibilities, Skills, Salary & Career Guide](https://medium.com/@sunil17bbmp/what-does-a-java-developer-do-roles-responsibilities-skills-salary-career-guide-d12b0edd7889?source=rss------programming-5) (2026-08-10)
+- [ If Linear Search Is O(n), Why Do Companies Still Use It?](https://medium.com/@itakash557/if-linear-search-is-o-n-why-do-companies-still-use-it-833c2c9f8eb2?source=rss------programming-5) (2026-08-10)
 
 </details>
 
