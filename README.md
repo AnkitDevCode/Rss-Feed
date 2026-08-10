@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Discovered Materials is playing AI whack-a-mole to hunt cooler chips](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/) (2026-08-10)
+- [Google Play adds Venmo as a payment option](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/) (2026-08-10)
 - [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) (2026-08-09)
 - [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) (2026-08-09)
 - [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/) (2026-08-09)
-- [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) (2026-08-09)
-- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) (2026-08-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) (2026-08-10)
-- [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai) (2026-08-10)
-- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code) (2026-08-10)
-- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/) (2026-08-10)
-- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton) (2026-08-10)
+- [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242) (2026-08-10)
+- [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/) (2026-08-10)
+- [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/) (2026-08-10)
+- [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough) (2026-08-10)
+- [A 'bananas' order for 5000 obscure book titles fuels suspicion](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast) (2026-08-09)
-- [Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat) (2026-08-09)
-- [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash) (2026-08-09)
-- [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup) (2026-08-09)
-- [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) (2026-08-09)
+- [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach) (2026-08-10)
+- [This great retro-inspired keyboard now comes preassembled](https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review) (2026-08-10)
+- [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games) (2026-08-10)
+- [Ford’s new AI assistant can check your fuel levels and tire pressure](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app) (2026-08-10)
+- [Space mirrors could ruin astronomy — and your eyes](https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage) (2026-08-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Peer review is overwhelmed—can it survive in the AI era?](https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/) (2026-08-10)
 - [Mount Toba eruption doesn't seem like it could nearly kill our species](https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/) (2026-08-09)
 - [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/) (2026-08-08)
 - [DeepMind’s hurricane breakthrough has surprised weather scientists](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/) (2026-08-08)
 - [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) (2026-08-07)
-- [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI agents for science, and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/) (2026-08-10)
+- [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) (2026-08-10)
+- [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) (2026-08-10)
 - [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) (2026-08-07)
 - [How ideas of a vast censorship network moved from the online fringe to Trump policy](https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/) (2026-08-07)
-- [The Download: Google’s AI shake-up and Meta’s rogue model](https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/) (2026-08-06)
-- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) (2026-08-05)
-- [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) (2026-08-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Open Source WordPress Contribution: My July 2026 Recap](https://dev.to/faisalahammad/open-source-wordpress-contribution-my-july-2026-recap-1f28) (2026-08-10)
-- [Build vs Buy: What Founders Get Wrong About Templates](https://dev.to/nikolas_mi_5f4aa63cc4080/build-vs-buy-what-founders-get-wrong-about-templates-494m) (2026-08-10)
-- [Automatically Renewing Tailscale HTTPS Certificates on PiKVM](https://dev.to/vast-cow/automatically-renewing-tailscale-https-certificates-on-pikvm-58e9) (2026-08-10)
-- [Three public HTTP APIs I read daily without registering for a key](https://dev.to/morinaga/three-public-http-apis-i-read-daily-without-registering-for-a-key-1aid) (2026-08-10)
-- [Notable this week: WeatherNext, Oracle OpenJDK AI ban, DeepMind reshuffle, Shieldstral](https://dev.to/morinaga/notable-this-week-weathernext-oracle-openjdk-ai-ban-deepmind-reshuffle-shieldstral-57o6) (2026-08-10)
+- [Depth-Attention: Opening an Attention Channel Between Transformer Layers](https://dev.to/cdragon123code/depth-attention-opening-an-attention-channel-between-transformer-layers-4l93) (2026-08-10)
+- [Avoiding Ban Risks in Chrome Extension Automation: Smart DOM Monitoring with MutationObserver (Part 3)](https://dev.to/maru0122/avoiding-ban-risks-in-chrome-extension-automation-smart-dom-monitoring-with-mutationobserver-part-197j) (2026-08-10)
+- [How many npm packages actually run code when you `npm install`? I measured a sample.](https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4) (2026-08-10)
+- [Fusing watchOS Sensor Signals Into a Risk Decision — Without Coupling to HealthKit](https://dev.to/izetg/fusing-watchos-sensor-signals-into-a-risk-decision-without-coupling-to-healthkit-38a0) (2026-08-10)
+- ["AI is coming for junior devs first." I think that's backwards.](https://dev.to/aguilaaa/ai-is-coming-for-junior-devs-first-i-think-thats-backwards-4hb9) (2026-08-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Things To Ask Your Product Manager](https://medium.com/thriving-in-engineering/5-things-to-ask-your-product-manager-e8b7b97054be?source=rss------programming-5) (2026-08-10)
-- [The Scariest Part of AI Coding Isn’t Bad Code. It’s Code That Looks Good.](https://abdulwahabdev.medium.com/the-scariest-part-of-ai-coding-isnt-bad-code-it-s-code-that-looks-good-523ffee14562?source=rss------programming-5) (2026-08-10)
-- [Your git push Preflight Passed Because It Never Sent a Body](https://medium.com/@suikou0/your-git-push-preflight-passed-because-it-never-sent-a-body-af357c69fc49?source=rss------programming-5) (2026-08-10)
-- [The Free, Open-Source Alternative to ElevenLabs Is Finally Here](https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-d50171168ad4?source=rss------programming-5) (2026-08-10)
-- [I Built an AI Tool Every Weekend for a Month Here’s What I Learned](https://ai.plainenglish.io/i-built-an-ai-tool-every-weekend-for-a-month-heres-what-i-learned-72a850f434b9?source=rss------programming-5) (2026-08-10)
+- [The Integration Trap: How the Model Context Protocol Solves Context Management for Developers](https://medium.com/@chirumamilla.anurag/the-integration-trap-how-the-model-context-protocol-solves-context-management-for-developers-b7eb9d9122e3?source=rss------programming-5) (2026-08-10)
+- [TCS Fresher Hiring 2026: Eligibility, Skills, Salary & Application Guide](https://medium.com/@yashchandak67/tcs-fresher-hiring-2026-eligibility-skills-salary-application-guide-a4eae6778576?source=rss------programming-5) (2026-08-10)
+- [Rust’s Speed vs. Project Reality: A 1 Million Requests Case Study](https://medium.com/@anshusinghal703/rusts-speed-vs-project-reality-a-1-million-requests-case-study-9be1767f7785?source=rss------programming-5) (2026-08-10)
+- [What is the Web and How Does It Work](https://medium.com/@emmanuellaeguzo/what-is-the-web-and-how-does-it-work-99cfc9c214b9?source=rss------programming-5) (2026-08-10)
+- [Optimux: on the fly image/video optimizer](https://medium.com/@amitavaa.ag/optimux-on-the-fly-image-video-optimizer-25c30095e7a5?source=rss------programming-5) (2026-08-10)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [ ](https://blog.jetbrains.com/qodana/2026/08/alexey-gopachenko/) (2026-08-10)
 - [CVE-2026-63077: Additional Guidance Following Reports of Active Exploitation](https://blog.jetbrains.com/teamcity/2026/08/cve-2026-63077-update/) (2026-08-07)
 - [JetBrains Academy – July Digest](https://blog.jetbrains.com/education/2026/08/07/jetbrains-academy-july-2026-2-2/) (2026-08-07)
 - [Println Debugging Done Right](https://blog.jetbrains.com/idea/2026/08/println-debugging-done-right/) (2026-08-06)
 - [Figma Connect for WebStorm: Stage One of a Better Design-to-Code Experience](https://blog.jetbrains.com/webstorm/2026/08/figma-connect-webstorm/) (2026-08-06)
-- [The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/) (2026-08-05)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Bun runtime for Vercel Functions now accepts Bun.serve as an entrypoint](https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions) (2026-08-10)
 - [Grok Imagine Image 2.0 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway) (2026-08-08)
 - [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent) (2026-08-07)
 - [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public) (2026-08-07)
 - [Audit Log Drains now support Datadog, Splunk, and Panther](https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther) (2026-08-07)
-- [Skill packs are now available on skills.sh](https://vercel.com/changelog/skill-packs-are-now-available) (2026-08-07)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
+- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) (2026-08-10)
 - [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
 - [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) (2026-08-06)
 - [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) (2026-08-04)
-- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) (2026-07-30)
-- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) (2026-07-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [SPP-Net Paper Walkthrough: Breaking the Fixed-Size Constraint](https://towardsdatascience.com/spp-net-paper-walkthrough-breaking-the-fixed-size-constraint/) (2026-08-10)
 - [I Thought Loading Data Was the Finish Line. It Was the Starting Point.](https://towardsdatascience.com/i-thought-loading-data-was-the-finish-line-it-was-the-starting-point/) (2026-08-09)
 - [How to Implement Structured Output with Local LLMs](https://towardsdatascience.com/structured-output-with-local-llms/) (2026-08-09)
 - [Before Q, K, and V: Reconstructing the Transformer](https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/) (2026-08-08)
 - [Building a Streamlit UI for My LangGraph AI Agent](https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/) (2026-08-08)
-- [Matplotlib vs Plotly: Which Python Chart Tool Should You Choose?](https://towardsdatascience.com/matplotlib-vs-plotly-which-python-chart-tool-should-you-choose/) (2026-08-07)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 10 AI Influencers of 2026](https://www.kdnuggets.com/top-10-ai-influencers-of-2026) (2026-08-10)
 - [Small Language Models with Hugging Face transformers Library + smolLM3](https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3) (2026-08-07)
 - [5 Free Courses to Learn Modern AI and LLMs](https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms) (2026-08-07)
 - [Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture](https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture) (2026-08-06)
 - [The Minimal AI Engineer Toolkit for 2026](https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026) (2026-08-06)
-- [7 Best Web Crawling Tools and APIs in 2026](https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026) (2026-08-06)
 
 </details>
 
