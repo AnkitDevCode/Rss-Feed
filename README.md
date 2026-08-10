@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/) (2026-08-10)
-- [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html) (2026-08-09)
-- [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986) (2026-08-09)
-- [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/) (2026-08-09)
-- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) (2026-08-09)
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) (2026-08-10)
+- [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai) (2026-08-10)
+- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code) (2026-08-10)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/) (2026-08-10)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton) (2026-08-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Is My SQL Query Slow Only in Production? (The Parameter Sniffing Trap)](https://dev.to/azhadsuhaimi/why-is-my-sql-query-slow-only-in-production-the-parameter-sniffing-trap-1ki9) (2026-08-10)
-- [Compression Is Understanding: Two July Papers That Prove AI Gets Smarter by Compressing Physics](https://dev.to/lanternproton/compression-is-understanding-two-july-papers-that-prove-ai-gets-smarter-by-compressing-physics-5399) (2026-08-10)
-- [I Built My AI Team a Blackboard — How to Stop Parallel Claude Sessions From Colliding](https://dev.to/dexterlung/i-built-my-ai-team-a-blackboard-how-to-stop-parallel-claude-sessions-from-colliding-j71) (2026-08-10)
-- [A Practical Guide to Adding Nano Banana Image Tools to Claude Desktop, VS Code, and Cursor](https://dev.to/germey/a-practical-guide-to-adding-nano-banana-image-tools-to-claude-desktop-vs-code-and-cursor-1ilm) (2026-08-10)
-- [Testing MCP Servers Used to Be a Pain. Here is How to Test Them with Zero Configuration.](https://dev.to/wozaisuzhou/testing-mcp-servers-used-to-be-a-pain-here-is-how-to-test-them-with-zero-configuration-58j6) (2026-08-10)
+- [Open Source WordPress Contribution: My July 2026 Recap](https://dev.to/faisalahammad/open-source-wordpress-contribution-my-july-2026-recap-1f28) (2026-08-10)
+- [Build vs Buy: What Founders Get Wrong About Templates](https://dev.to/nikolas_mi_5f4aa63cc4080/build-vs-buy-what-founders-get-wrong-about-templates-494m) (2026-08-10)
+- [Automatically Renewing Tailscale HTTPS Certificates on PiKVM](https://dev.to/vast-cow/automatically-renewing-tailscale-https-certificates-on-pikvm-58e9) (2026-08-10)
+- [Three public HTTP APIs I read daily without registering for a key](https://dev.to/morinaga/three-public-http-apis-i-read-daily-without-registering-for-a-key-1aid) (2026-08-10)
+- [Notable this week: WeatherNext, Oracle OpenJDK AI ban, DeepMind reshuffle, Shieldstral](https://dev.to/morinaga/notable-this-week-weathernext-oracle-openjdk-ai-ban-deepmind-reshuffle-shieldstral-57o6) (2026-08-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Code That Didn’t Panic](https://medium.com/@ameykaloge42/the-code-that-didnt-panic-7b0248b1c45b?source=rss------programming-5) (2026-08-10)
-- [Why Your PHP cURL Call Hangs Forever Without a Timeout Set](https://medium.com/@annxsa/why-your-php-curl-call-hangs-forever-without-a-timeout-set-a33620367403?source=rss------programming-5) (2026-08-10)
-- [Composition Changed the Way I Build Software](https://medium.com/@scosmexs/composition-changed-the-way-i-build-software-5f307f018c1a?source=rss------programming-5) (2026-08-10)
-- [What Does a Java Developer Do? Roles, Responsibilities, Skills, Salary & Career Guide](https://medium.com/@sunil17bbmp/what-does-a-java-developer-do-roles-responsibilities-skills-salary-career-guide-d12b0edd7889?source=rss------programming-5) (2026-08-10)
-- [ If Linear Search Is O(n), Why Do Companies Still Use It?](https://medium.com/@itakash557/if-linear-search-is-o-n-why-do-companies-still-use-it-833c2c9f8eb2?source=rss------programming-5) (2026-08-10)
+- [5 Things To Ask Your Product Manager](https://medium.com/thriving-in-engineering/5-things-to-ask-your-product-manager-e8b7b97054be?source=rss------programming-5) (2026-08-10)
+- [The Scariest Part of AI Coding Isn’t Bad Code. It’s Code That Looks Good.](https://abdulwahabdev.medium.com/the-scariest-part-of-ai-coding-isnt-bad-code-it-s-code-that-looks-good-523ffee14562?source=rss------programming-5) (2026-08-10)
+- [Your git push Preflight Passed Because It Never Sent a Body](https://medium.com/@suikou0/your-git-push-preflight-passed-because-it-never-sent-a-body-af357c69fc49?source=rss------programming-5) (2026-08-10)
+- [The Free, Open-Source Alternative to ElevenLabs Is Finally Here](https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-d50171168ad4?source=rss------programming-5) (2026-08-10)
+- [I Built an AI Tool Every Weekend for a Month Here’s What I Learned](https://ai.plainenglish.io/i-built-an-ai-tool-every-weekend-for-a-month-heres-what-i-learned-72a850f434b9?source=rss------programming-5) (2026-08-10)
 
 </details>
 
