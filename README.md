@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/) (2026-08-10)
-- [Social media platforms still facing thousands of user addiction lawsuits after failed appeals](https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/) (2026-08-10)
-- [YouTube now requires creators to have twice as many watch hours to start earning money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/) (2026-08-10)
-- [Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises](https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/) (2026-08-10)
-- [Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/) (2026-08-10)
+- [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) (2026-08-11)
+- [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/) (2026-08-10)
+- [Jeff Bezos might finally get his hands on a sports team](https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/) (2026-08-10)
+- [Now Rippling is counter-suing tiny startup Runlayer](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/) (2026-08-10)
+- [Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/) (2026-08-10)
-- [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) (2026-08-10)
-- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com) (2026-08-10)
-- [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html) (2026-08-10)
-- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) (2026-08-10)
+- [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html) (2026-08-11)
+- [Chicken Scheme 6.0 Released](https://code.call-cc.org/releases/6.0.0/NEWS) (2026-08-11)
+- [ICE to Pay LexisNexis Millions for Data to Feed to Palantir](https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/) (2026-08-11)
+- [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) (2026-08-10)
+- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision) (2026-08-10)
+- [Anker&#8217;s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale) (2026-08-10)
+- [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads) (2026-08-10)
+- [Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale) (2026-08-10)
 - [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event) (2026-08-10)
-- [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements) (2026-08-10)
-- [Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble) (2026-08-10)
-- [Apple will stream Friday Night Baseball live in Vision Pro](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro) (2026-08-10)
-- [Keychron’s wireless Hall effect keyboard is back to its lowest price](https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale) (2026-08-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Has Ford got cheap car fever? A $25K crossover is supposedly on the way.](https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/) (2026-08-10)
-- [Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak](https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/) (2026-08-10)
-- [Valve slowly expands SteamOS support on non-Valve hardware](https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/) (2026-08-10)
-- [Following Epic loss, Google has started hosting rival app stores in the Play Store](https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/) (2026-08-10)
-- [One of China's workhorse rockets just exploded in flight](https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/) (2026-08-10)
+- [Ars Live: Ross Scott discusses the Stop Killing Games movement](https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/) (2026-08-10)
+- [With new open models, Meta pitches another reboot of its struggling AI strategy](https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/) (2026-08-10)
+- [Trump signs bonkers order that cuts vaccines, promotes ones that don't exist](https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/) (2026-08-10)
+- [Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds](https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/) (2026-08-10)
+- [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) (2026-08-10)
 - [The Download: AI agents for science, and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/) (2026-08-10)
 - [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) (2026-08-10)
 - [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) (2026-08-10)
 - [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) (2026-08-07)
-- [How ideas of a vast censorship network moved from the online fringe to Trump policy](https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/) (2026-08-10)
 - [A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/) (2026-08-06)
 - [How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/) (2026-08-06)
 - [How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/) (2026-08-04)
 - [Turn one giant AI-generated pull request to a reviewable stack](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/) (2026-08-04)
-- [Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) (2026-07-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Waiting 10 Minutes to Fail: How CDK Comprehensive Validation Catches Misconfigurations Before Deploy](https://dev.to/pahud/stop-waiting-10-minutes-to-fail-how-cdk-comprehensive-validation-catches-misconfigurations-before-1907) (2026-08-10)
-- [The Agent Who Won't Say Its Name](https://dev.to/avaverify/the-agent-who-wont-say-its-name-3o4n) (2026-08-10)
-- [The Matrix: Why Merge Sort Beats the Brute Force](https://dev.to/timevolt/the-matrix-why-merge-sort-beats-the-brute-force-o29) (2026-08-10)
-- [OpenAI Expands GPT-5.6 Cyber Access Through Daybreak’s Trusted Defender Controls](https://dev.to/alifar/openai-expands-gpt-56-cyber-access-through-daybreaks-trusted-defender-controls-2k5e) (2026-08-10)
-- [Starting a Linux Group in a Region Where None Existed](https://dev.to/krnlx/starting-a-linux-group-in-a-region-where-none-existed-5dc6) (2026-08-10)
+- [Crafting a Nostalgic, Customizable 90s-Themed Portfolio Website Without AI Tools](https://dev.to/pavkode/crafting-a-nostalgic-customizable-90s-themed-portfolio-website-without-ai-tools-1al1) (2026-08-11)
+- [Homelab Day: Nextcloud + Traefik + HSTS Headers That Actually Work](https://dev.to/pyhacksecgp/homelab-day-nextcloud-traefik-hsts-headers-that-actually-work-4cb3) (2026-08-11)
+- [Day 13: Data Sources — Stop Hardcoding, Start Automating](https://dev.to/brian_mengo/day-13-data-sources-stop-hardcoding-start-automating-4258) (2026-08-11)
+- [Cloudflare Kitesurf: What Beginners Should Learn About AI App Tradeoffs In 2026](https://dev.to/marcusykim/cloudflare-kitesurf-what-beginners-should-learn-about-ai-app-tradeoffs-in-2026-1mbo) (2026-08-11)
+- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j) (2026-08-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Let a Coding Agent Open Pull Requests for 30 Days.](https://blog.stackademic.com/we-let-a-coding-agent-open-pull-requests-for-30-days-98053bcab704?source=rss------programming-5) (2026-08-10)
-- [CRUD API with Prisma, Express, TypeScript & Neon](https://medium.com/@Smit093/crud-api-with-prisma-express-typescript-neon-affe72092440?source=rss------programming-5) (2026-08-10)
-- [The Best AI Portfolio Is a Failure You Can Explain.](https://blog.stackademic.com/the-best-ai-portfolio-is-a-failure-you-can-explain-43fc13cd2e11?source=rss------programming-5) (2026-08-10)
-- [Stop Solving Hundreds of Coding Questions, Learn the Patterns Instead](https://javascriptaicentric.medium.com/stop-solving-hundreds-of-coding-questions-learn-the-patterns-instead-8f0813eb0df1?source=rss------programming-5) (2026-08-10)
-- [9 Habits of Claude Users Who Rarely Hit the Limit— A Beginner’s Guide to Becoming a Claude Pro](https://medium.com/ai-engineering-simplified/9-habits-of-claude-users-who-rarely-hit-the-limit-beginners-guide-to-becoming-a-claude-pro-3706a1828d15?source=rss------programming-5) (2026-08-10)
+- [Road to Indie Game Development: OnCollisionEnter vs OnTriggerEnter](https://medium.com/@khizrsyed17/road-to-indie-game-development-oncollisionenter-vs-ontriggerenter-2e263458b9c9?source=rss------programming-5) (2026-08-11)
+- [What Happens When Your AI Agents Write Code Faster Than You Can Understand It?](https://medium.com/@masaood/what-happens-when-your-ai-agents-write-code-faster-than-you-can-understand-it-e8474adeffe4?source=rss------programming-5) (2026-08-11)
+- [[RustGuide] 6.1 Enums](https://medium.com/@stanyin64/rustguide-6-1-enums-a7c5d7736444?source=rss------programming-5) (2026-08-11)
+- [Setting Up React Native with TypeScript in Visual Studio Code](https://medium.com/@farrellmuhammad/setting-up-react-native-with-typescript-in-visual-studio-code-a551370fb460?source=rss------programming-5) (2026-08-11)
+- [A Complete Step-by-Step Guide to Installing the Laravel PHP Framework](https://medium.com/@farrellmuhammad/a-complete-step-by-step-guide-to-installing-the-laravel-php-framework-1822643a6a75?source=rss------programming-5) (2026-08-11)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [A sandbox without a network boundary is only half a sandbox](https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox) (2026-08-11)
 - [Vercel Sandbox now runs on Vercel Managed Images](https://vercel.com/changelog/vercel-sandbox-managed-images) (2026-08-10)
+- [Simplified onboarding for deepsec](https://vercel.com/changelog/simplified-onboarding-for-deepsec) (2026-08-10)
 - [Bun runtime for Vercel Functions now accepts Bun.serve as an entrypoint](https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions) (2026-08-10)
 - [Grok Imagine Image 2.0 now available on Vercel AI Gateway](https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway) (2026-08-08)
-- [Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent](https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent) (2026-08-07)
-- [Vercel Container Registry repositories can now be made public](https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public) (2026-08-07)
 
 </details>
 
@@ -562,6 +562,17 @@ https://www.twilio.com/en-us/blog/products/whatsapp-just-changed-how-customers-i
 - [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) (2026-08-10)
 - [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
 - [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) (2026-08-06)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
+- [The limits of physics AI: where Siemens says the human stays in charge](https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/) (2026-08-10)
+- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
+- [How AI Is changing Instagram engagement without replacing the human touch](https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/) (2026-08-07)
+- [Alibaba tests new business model for Qwen open-source AI](https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/) (2026-08-07)
 
 </details>
 
