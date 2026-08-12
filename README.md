@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/) (2026-08-12)
-- [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/) (2026-08-12)
-- [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/) (2026-08-12)
-- [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) (2026-08-11)
-- [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) (2026-08-11)
+- [Grubhub’s $24M FTC settlement is finally reaching diners and drivers](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/) (2026-08-12)
+- [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/) (2026-08-12)
+- [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/) (2026-08-12)
+- [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) (2026-08-12)
+- [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/) (2026-08-12)
-- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) (2026-08-12)
-- [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/) (2026-08-12)
-- [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) (2026-08-12)
-- [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) (2026-08-12)
+- [Zed: Delta](https://zed.dev/blog/introducing-delta) (2026-08-12)
+- [Your Key to Success Isn't More Luck or Hard Work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/) (2026-08-12)
+- [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) (2026-08-12)
+- [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) (2026-08-12)
+- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Honor’s Robot Phone is better than a gimbal in a phone has any right to be](https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera) (2026-08-12)
-- [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee) (2026-08-12)
-- [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch) (2026-08-12)
-- [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive) (2026-08-12)
-- [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen) (2026-08-11)
+- [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date) (2026-08-12)
+- [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai) (2026-08-12)
+- [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features) (2026-08-12)
+- [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves) (2026-08-12)
+- [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Did poop enable the evolution of complex animals?](https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/) (2026-08-12)
-- [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/) (2026-08-12)
-- [Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic](https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/) (2026-08-11)
-- [Russian drones found near vital European offshore gas site, get blown up](https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/) (2026-08-11)
-- [Chrome adopts what may be the best protection yet against account takeovers](https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/) (2026-08-11)
+- [Two hydrogen-burning engines powered this car to a new land speed record](https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/) (2026-08-12)
+- [US tries to override New York gambling laws, orders Kalshi to keep operating](https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/) (2026-08-12)
+- [Booksellers suspect AI firms are buying and then destroying rare books](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/) (2026-08-12)
+- [Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag](https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/) (2026-08-12)
+- [Researchers found a way to hijack devices through Zoom screen sharing](https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) (2026-08-12)
 - [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/) (2026-08-12)
 - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/) (2026-08-12)
 - [How the “censorship-industrial complex” is changing the internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) (2026-08-11)
 - [The Download: the next big thing in LLMs and how AI academic research is shifting](https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/) (2026-08-11)
-- [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Your contributors are AI-first now. Is your project?](https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/) (2026-08-12)
 - [From coder to orchestrator: How agents shift the role of a developer](https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/) (2026-08-11)
 - [Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/) (2026-08-10)
 - [A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/) (2026-08-06)
 - [How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/) (2026-08-06)
-- [How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/) (2026-08-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Comment-Reply Pipeline Picks One Winner Per Thread. Two Commenters Broke That.](https://dev.to/enjoy_kumawat/my-comment-reply-pipeline-picks-one-winner-per-thread-two-commenters-broke-that-5ck7) (2026-08-12)
-- [I read my competitor's generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h) (2026-08-12)
-- [How to Build and Maintain Skeleton Technical Docs using Claude (With Copy-Paste Prompts)](https://dev.to/franrobprojects/how-to-build-and-maintain-skeleton-technical-docs-using-claude-with-copy-paste-prompts-196d) (2026-08-12)
-- [I Built an AI Tool Directory That Recommends Stacks Instead of Listing 45,000 Tools](https://dev.to/zhidong010/i-built-an-ai-tool-directory-that-recommends-stacks-instead-of-listing-45000-tools-c04) (2026-08-12)
-- [Starting My Coding Journey](https://dev.to/nyxmexe/starting-my-coding-journey-2jnh) (2026-08-12)
+- [38,000 records. 72 hours. And you can't find the English fast enough.](https://dev.to/threshold/38000-records-72-hours-and-you-cant-find-the-english-fast-enough-1k7c) (2026-08-12)
+- [Gemini and GetYourGuide: What a Potential Travel Booking Integration Would Require](https://dev.to/alifar/gemini-and-getyourguide-what-a-potential-travel-booking-integration-would-require-4nij) (2026-08-12)
+- [Your AI agent writes migrations that look safe. Here's what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7) (2026-08-12)
+- [Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices](https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np) (2026-08-12)
+- [Fever’s Event Catalog Shows What AI-Powered Experience Discovery Could Require](https://dev.to/alifar/fevers-event-catalog-shows-what-ai-powered-experience-discovery-could-require-4jcc) (2026-08-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 17 : Building While Learning — My MudBlazor Journey](https://medium.com/@madaakhilreddy/day-17-building-while-learning-my-mudblazor-journey-5776b6de3be1?source=rss------programming-5) (2026-08-12)
-- [Local Kubernetes Dev — Part 7: Kubernetes manifests for your service](https://mi-do.medium.com/local-kubernetes-dev-part-7-kubernetes-manifests-for-your-service-c48b02105c4f?source=rss------programming-5) (2026-08-12)
-- [*The old way is dead*](https://medium.com/@muazplayz34/the-old-way-is-dead-429413f572a2?source=rss------programming-5) (2026-08-12)
-- [Código Limpo na Prática: Emergência em JavaScript](https://medium.com/@gabrielequevedo/c%C3%B3digo-limpo-na-pr%C3%A1tica-emerg%C3%AAncia-em-javascript-479d6b9d723c?source=rss------programming-5) (2026-08-12)
-- [The OWASP API Top 10, Translated Into Bugs You’ve Actually Written](https://medium.com/@danielvalev/the-owasp-api-top-10-translated-into-bugs-youve-actually-written-8542b967a364?source=rss------programming-5) (2026-08-12)
+- [The Engineer Who Never Broke Production Was the Most Dangerous Person on My Team, and It Took a…](https://levelup.gitconnected.com/the-engineer-who-never-broke-production-was-the-most-dangerous-person-on-my-team-and-it-took-a-fbb2b14f7005?source=rss------programming-5) (2026-08-12)
+- [Why Learning to Switch “Thinking Effort” Is the Most Underrated AI Skill](https://medium.com/@msebastianb/why-learning-to-switch-thinking-effort-is-the-most-underrated-ai-skill-93568f664c87?source=rss------programming-5) (2026-08-12)
+- [The Best Senior Engineer I Ever Worked With Did Not Know More Than the Juniors.](https://levelup.gitconnected.com/the-best-senior-engineer-i-ever-worked-with-did-not-know-more-than-the-juniors-499b4a53811b?source=rss------programming-5) (2026-08-12)
+- [Your Observability Bill Is a Pile of Decisions Nobody Remembers Making](https://medium.com/@sohail_saifi/your-observability-bill-is-a-pile-of-decisions-nobody-remembers-making-c5505fd37082?source=rss------programming-5) (2026-08-12)
+- [Wine Just Closed a Bug That Had Been Open for 20 Years](https://medium.com/@coders.stop/wine-just-closed-a-bug-that-had-been-open-for-20-years-d6dc1e776114?source=rss------programming-5) (2026-08-12)
 
 </details>
 
@@ -130,33 +130,33 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs](https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/) (2026-08-12)
 - [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/) (2026-08-12)
 - [Why Scaling AI Compute Performance Requires a New Power Architecture](https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/) (2026-08-11)
 - [NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents](https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/) (2026-08-11)
 - [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) (2026-08-11)
-- [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/) (2026-08-08)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updates to Age Ratings for the Republic of Korea](https://developer.apple.com/news/?id=oj3r9pvw) (2026-08-12)
 - [Get ready for new creative assets on the App Store](https://developer.apple.com/news/?id=kug6m2ea) (2026-08-05)
 - [Hello Developer: August 2026](https://developer.apple.com/news/?id=vrvvlonn) (2026-08-05)
 - [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
 - [Hello Developer: July 2026](https://developer.apple.com/news/?id=grx7lcto) (2026-07-07)
-- [Design kits for iOS, iPadOS, and macOS 27 are here](https://developer.apple.com/news/?id=e2lxw9l1) (2026-06-23)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Bring one-handed gestures to your Wear OS app](https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html) (2026-08-12)
+- [What's new in the Jetpack Compose August '26 release](https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html) (2026-08-12)
 - [Media3 1.11 - What's new?](https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html) (2026-08-11)
 - [Inside Android Skills - Built for deprecation](https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html) (2026-08-06)
 - [Delivering safer, age-appropriate experiences on Google Play](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html) (2026-07-29)
-- [Celebrating 5 years of Jetpack Compose](https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html) (2026-07-28)
-- [How R8 made Kotlin Coroutines on Android 2x faster](https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html) (2026-07-27)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/) (2026-08-12)
+- [A new security baseline for enterprise agentic adoption](https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/) (2026-08-12)
 - [Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/) (2026-08-05)
 - [The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense](https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/) (2026-08-04)
 - [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/) (2026-08-03)
-- [Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works](https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/) (2026-08-03)
-- [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/) (2026-07-31)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Flexible Authentication: Reimagining authentication for millions of users at Airbnb](https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4) (2026-08-12)
 - [Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4) (2026-07-28)
 - [Personalizing Airbnb search by learning from the guest journey](https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4) (2026-07-21)
 - [From weeks to a day: how we made LLM evaluation fast enough to iterate on](https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4) (2026-07-14)
 - [Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4) (2026-06-09)
-- [Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4) (2026-06-04)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees](https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/) (2026-08-12)
 - [From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking](https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/) (2026-08-05)
 - [GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model](https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/) (2026-08-03)
 - [Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization](https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/) (2026-07-15)
 - [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/) (2026-07-13)
-- [Meta’s AI Storage Blueprint at Scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/) (2026-07-01)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages](https://blog.jetbrains.com/research/2026/08/programming-language-migration/) (2026-08-12)
+- [How to Use AI Agents in IntelliJ IDEA With ACP](https://blog.jetbrains.com/idea/2026/08/how-to-use-ai-agents-in-intellij-idea-with-acp/) (2026-08-12)
 - [What’s New in PyCharm 2026.2.1](https://blog.jetbrains.com/pycharm/2026/08/what-s-new-in-pycharm-2026-2-1/) (2026-08-12)
 - [We Stopped AI Agents From Installing Into the Wrong Python: Task Success Rates Jumped to 95%+](https://blog.jetbrains.com/pycharm/2026/08/we-stopped-ai-agents-from-installing-into-the-wrong-python-task-success-rates-jumped-to-95/) (2026-08-12)
 - [We Gave AI Agents a Live Jupyter Kernel in PyCharm](https://blog.jetbrains.com/pycharm/2026/08/we-gave-ai-agents-a-live-jupyter-kernel-in-pycharm/) (2026-08-12)
-- [Unbundling and Deprecating Low-Usage Plugins in PyCharm](https://blog.jetbrains.com/pycharm/2026/08/unbundling-and-deprecating-low-usage-plugins-in-pycharm/) (2026-08-12)
-- [Top 5 AI Features in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/08/top-5-ai-features-in-intellij-idea/) (2026-08-12)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How GitLab tracks vulnerabilities through refactors and reformatting](https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/) (2026-08-12)
+- [GitLab Patch Release: 19.2.2, 19.1.4, 19.0.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released/) (2026-08-12)
+- [A sandbox is only as closed as what an AI agent can reach](https://about.gitlab.com/blog/ai-agent-sandbox/) (2026-08-12)
 - [GitLab Secrets Manager adds ESO, Terraform, API support](https://about.gitlab.com/blog/gitlab-secrets-manager-add-eso-terraform-api-support/) (2026-08-06)
 - [Confidential AI for GitLab Self-Hosted](https://about.gitlab.com/blog/confidential-ai-for-gitlab-self-hosted/) (2026-08-06)
-- [Secure every commit to production with Claude and GitLab](https://about.gitlab.com/blog/claude-security-and-gitlab/) (2026-08-03)
-- [How to govern agentic AI, MCPs, and AI code assistants](https://about.gitlab.com/blog/govern-agentic-ai-mcps-code-assistants/) (2026-07-31)
-- [Why GitLab signed the Open Weights and American AI Leadership letter](https://about.gitlab.com/blog/open-weight-model-letter/) (2026-07-29)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Vercel Connect adds observability support](https://vercel.com/changelog/vercel-connect-adds-observability-support) (2026-08-11)
-- [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users) (2026-08-11)
-- [Vercel Connect now supports CLI setup for 100+ connectors](https://vercel.com/changelog/vercel-cli-100-services) (2026-08-11)
-- [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked) (2026-08-11)
-- [DeepSeek overtakes Google on volume, cost per token falls 13.6%](https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls) (2026-08-11)
+- [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway) (2026-08-12)
+- [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk) (2026-08-12)
+- [Free domain for one year, now for all Pro teams](https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams) (2026-08-12)
+- [Grok 4.6 now available on AI Gateway](https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway) (2026-08-12)
+- [How we migrated the database behind every Vercel build](https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build) (2026-08-11)
 
 </details>
 
@@ -403,12 +403,12 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Building Secure AI Agents with Microsoft Agent Framework and Auth0: RAG Filtering](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-2-rag-filtering/) (2026-08-12)
 - [Intent, Not Just Permissions: Rethinking Authorization for AI Agents 
 ](https://auth0.com/blog/intent-rethinking-authorization-ai-agents/) (2026-08-11)
 - [Embed Account Security Management in Your Android App with Auth0 Universal Native Components](https://auth0.com/blog/account-security-management-android-auth0-universal-native-components/) (2026-08-10)
 - [Adopting the Cross App Access Protocol: Get Ready for MCP Enterprise-Managed Authorization with Auth0](https://auth0.com/blog/xaa-protocol-auth0-ai-agents/) (2026-08-06)
 - [Building Secure AI Agents with Microsoft Agent Framework and Auth0: User Authentication](https://auth0.com/blog/building-secure-ai-agents-with-microsoft-agent-framework-and-auth0-part-1-user-authentication/) (2026-08-03)
-- [Handling Auth in Next.js 16 with Server Actions and Middleware](https://auth0.com/blog/handling-auth-nextjs16-with-server-actions-middleware/) (2026-07-31)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [How to compare two Word documents ](https://zapier.com/blog/compare-two-word-documents) (2026-08-12)
+- [12 examples of ethos in advertising to inspire your next campaign](https://zapier.com/blog/ethos-examples-in-ads) (2026-08-12)
 - [Google Sheets automation ideas to organize your work](https://zapier.com/blog/automate-google-sheets) (2026-08-11)
-- [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
 - [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
-- [Claude connectors: How to connect Claude to other apps](https://zapier.com/blog/claude-connectors) (2026-08-11)
-- [ChatGPT connectors: How to connect ChatGPT to other apps](https://zapier.com/blog/chatgpt-connectors) (2026-08-10)
+- [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
+- [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
 - [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) (2026-08-11)
 - [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) (2026-08-10)
 - [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
-- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) (2026-08-10)
-- [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From](https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/) (2026-08-12)
+- [Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works](https://towardsdatascience.com/backpropagation-explained-for-beginners-part-3-how-backpropagation-really-works/) (2026-08-12)
+- [Building Multimodal Workflows with a Local LLM](https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/) (2026-08-12)
 - [How to Place Vertiport Locations in Any City Using Geospatial Machine Learning](https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/) (2026-08-12)
 - [Stop Calling the First Significant Day a Win](https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/) (2026-08-11)
-- [Should AI Developers Make the Switch from Polars to Pandas?](https://towardsdatascience.com/should-ai-developers-make-the-switch-from-polars-to-pandas/) (2026-08-11)
-- [The Budget Split That Explains Itself](https://towardsdatascience.com/the-budget-split-that-explains-itself/) (2026-08-11)
-- [Can a Local LLM Run My AI Assistant?](https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/) (2026-08-11)
 
 </details>
 
@@ -591,22 +591,22 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Building an End-to-End Data Science Portfolio Project](https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project) (2026-08-12)
 - [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows) (2026-08-12)
 - [The Ultimate Guide to Contributing to Open Source Projects](https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects) (2026-08-11)
 - [3 Visual Proofs of the Central Limit Theorem to Build Your Intuition](https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition) (2026-08-11)
 - [New Free eBook: Understanding Agentic AI, an Executive Briefing](https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing) (2026-08-10)
-- [Specification Engineering: The New Skill After Prompt Engineering](https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering) (2026-08-10)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Retrieval vs. Memory in Agentic AI Systems](https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/) (2026-08-12)
 - [7 Async Patterns for Running Agents Concurrently in Python](https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/) (2026-08-11)
 - [Prompt Caching vs. Fine-Tuning: A Cost and Latency Decision Framework](https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/) (2026-08-10)
 - [Identifying Token Costs Hiding in Your Agentic Loop](https://machinelearningmastery.com/identifying-token-costs-hiding-in-your-agentic-loop/) (2026-08-07)
 - [Designing AI Agents That Can Self-Correct](https://machinelearningmastery.com/designing-ai-agents-that-can-self-correct/) (2026-08-06)
-- [7 Chunking Strategies That Decide Whether Your RAG Works](https://machinelearningmastery.com/7-chunking-strategies-that-decide-whether-your-rag-works/) (2026-08-05)
 
 </details>
 
@@ -624,11 +624,11 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) (2026-08-12)
 - [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) (2026-08-06)
 - [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) (2026-07-30)
 - [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) (2026-07-29)
 - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) (2026-07-28)
-- [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/) (2026-07-22)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
