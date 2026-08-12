@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/) (2026-08-12)
 - [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) (2026-08-11)
 - [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) (2026-08-11)
 - [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/) (2026-08-11)
 - [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/) (2026-08-11)
-- [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) (2026-08-12)
-- [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/) (2026-08-11)
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) (2026-08-11)
-- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026) (2026-08-11)
-- [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/) (2026-08-11)
+- [llama.cpp](https://llama.app) (2026-08-12)
+- [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage) (2026-08-12)
+- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/) (2026-08-12)
+- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/) (2026-08-12)
+- [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/) (2026-08-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Letting an AI agent hit 'like' scared me more than letting it post](https://dev.to/jun_uen0/letting-an-ai-agent-hit-like-scared-me-more-than-letting-it-post-3jja) (2026-08-12)
-- [LCEL vs. Legacy Chains: From Recipe Confusion to Clear Pipelines 🚀](https://dev.to/anetor/-lcel-vs-legacy-chains-from-recipe-confusion-to-clear-pipelines-3f) (2026-08-12)
-- [OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.](https://dev.to/kenielzep97/openai-says-verified-defenders-get-more-access-im-going-to-test-that-1n82) (2026-08-12)
-- [Third Time in Two Weeks: Meta's AI Also 'Hacked' Someone Else's System - And I Noticed a Pattern No One's Talking About](https://dev.to/judy_miranttie/third-time-in-two-weeks-metas-ai-also-hacked-someone-elses-system-and-i-noticed-a-pattern-no-27e9) (2026-08-12)
-- [My AI assistant deleted my working files because I said "I can't tell which ones are current"](https://dev.to/locoprowrestling/my-ai-assistant-deleted-my-working-files-because-i-said-i-cant-tell-which-ones-are-current-22b3) (2026-08-12)
+- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect (2026)](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm) (2026-08-12)
+- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp) (2026-08-12)
+- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc) (2026-08-12)
+- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8) (2026-08-12)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services (AKS) - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm) (2026-08-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lambangbet Platform Mixparlay Paling Laris №1](https://slotgacormaxwinn.medium.com/lambangbet-platform-mixparlay-paling-laris-1-6dd9079e30ec?source=rss------programming-5) (2026-08-12)
-- [We Followed Clean Architecture to the Letter, and It Made a Simple Change Take Three Days.](https://medium.com/javarevisited/we-followed-clean-architecture-to-the-letter-and-it-made-a-simple-change-take-three-days-a18d7fa43757?source=rss------programming-5) (2026-08-12)
-- [AI Made Junior Work Almost Free, and Everyone Called It a Junior Problem.](https://medium.com/codex/ai-made-junior-work-almost-free-and-everyone-called-it-a-junior-problem-2069f6b7f95e?source=rss------programming-5) (2026-08-12)
-- [AI Wrote Most of Our Code for a Year.](https://medium.com/javarevisited/ai-wrote-most-of-our-code-for-a-year-60807352db3b?source=rss------programming-5) (2026-08-12)
-- [ 為何大型系統的程式碼要分檔案？](https://medium.com/@mindsteps.alex/%E7%82%BA%E4%BD%95%E5%A4%A7%E5%9E%8B%E7%B3%BB%E7%B5%B1%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%E8%A6%81%E5%88%86%E6%AA%94%E6%A1%88-44be5b0c473d?source=rss------programming-5) (2026-08-12)
+- [What a Linux Group Actually Is and How Your Files End Up Belonging to One](https://medium.com/my-lifes-mirrow/what-a-linux-group-actually-is-and-how-your-files-end-up-belonging-to-one-e6d1affdad12?source=rss------programming-5) (2026-08-12)
+- [Why HR Rejects Freshers Even After They Clear Technical Rounds](https://medium.com/@skillsitacademyfaculty/why-hr-rejects-freshers-even-after-they-clear-technical-rounds-85cfd16143a3?source=rss------programming-5) (2026-08-12)
+- [The JavaScript Library I Added to My App for “Real-Time Updates” Ended Up Becoming My Secret Weapon…](https://medium.com/@SulemanSafdar/the-javascript-library-i-added-to-my-app-for-real-time-updates-ended-up-becoming-my-secret-weapon-da0b58d7a8a9?source=rss------programming-5) (2026-08-12)
+- [10 AI-Generated Code Mistakes That Look Harmless Until Production](https://medium.com/skillstuff/10-ai-generated-code-mistakes-that-look-harmless-until-production-f189982c8317?source=rss------programming-5) (2026-08-12)
+- [The Best AI Engineers Aren’t Building Better Prompts](https://blog.stackademic.com/the-best-ai-engineers-arent-building-better-prompts-dcc2d966817c?source=rss------programming-5) (2026-08-12)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Mapping the AI economy](https://stripe.com/blog/mapping-the-ai-economy) (2026-08-11)
 - [Analyzing the evidence that helps businesses win “product not received” disputes](https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes) (2026-07-21)
 - [Four travel and hospitality trends from HITEC 2026](https://stripe.com/blog/trends-from-hitec) (2026-06-23)
 - [What Link data tells us about AI spending](https://stripe.com/blog/what-link-data-tells-us-about-ai-spending) (2026-06-18)
 - [Stripe Projects adds new agent integrations, more providers, and custom developer controls](https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls) (2026-06-11)
-- [New ways to turn global demand into revenue](https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue) (2026-06-04)
 
 </details>
 
@@ -496,7 +496,7 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
 - [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
 - [Claude connectors: How to connect Claude to other apps](https://zapier.com/blog/claude-connectors) (2026-08-11)
-- [Deterministic AI: What it is and when to use it](https://zapier.com/blog/deterministic-ai) (2026-08-10)
+- [ChatGPT connectors: How to connect ChatGPT to other apps](https://zapier.com/blog/chatgpt-connectors) (2026-08-10)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
 - [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) (2026-08-10)
 - [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
-- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
-- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
-- [The limits of physics AI: where Siemens says the human stays in charge](https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/) (2026-08-10)
-- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
 
 </details>
 
