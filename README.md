@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google’s Gemini app surges to one billion users](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/) (2026-08-11)
-- [Bluesky’s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/) (2026-08-11)
-- [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/) (2026-08-11)
-- [Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/) (2026-08-11)
-- [General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/) (2026-08-11)
+- [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) (2026-08-11)
+- [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) (2026-08-11)
+- [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/) (2026-08-11)
+- [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/) (2026-08-11)
+- [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [We Used to Get Jobs](https://ironicsans.ghost.io/how-we-used-to-get-jobs/) (2026-08-11)
-- [OpenSSH 10.5 released, AI assistance now welcome](https://www.openssh.org/releasenotes.html#10.5) (2026-08-11)
-- [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) (2026-08-11)
-- [Mojo 1.0 Is Here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) (2026-08-11)
-- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) (2026-08-11)
+- [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) (2026-08-12)
+- [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/) (2026-08-11)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) (2026-08-11)
+- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026) (2026-08-11)
+- [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand) (2026-08-11)
-- [Another OpenAI executive takes off](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure) (2026-08-11)
-- [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale) (2026-08-11)
-- [Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t](https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led) (2026-08-11)
-- [Made by Google 2026: all the Pixel news and announcements](https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news) (2026-08-11)
+- [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive) (2026-08-12)
+- [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen) (2026-08-11)
+- [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing) (2026-08-11)
+- [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) (2026-08-11)
+- [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app) (2026-08-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells](https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/) (2026-08-11)
-- [Tracking extreme heat by the hour makes climate change seem even worse](https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/) (2026-08-11)
-- [A Google insider spills the tea on how the company forsook its founding ideals](https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/) (2026-08-11)
-- [Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat](https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/) (2026-08-11)
-- [New surveillance tech links your phone to your license plate](https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/) (2026-08-11)
+- [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/) (2026-08-12)
+- [Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic](https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/) (2026-08-11)
+- [Russian drones found near vital European offshore gas site, get blown up](https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/) (2026-08-11)
+- [Chrome adopts what may be the best protection yet against account takeovers](https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/) (2026-08-11)
+- [Meta can't stop states' $1.4 trillion lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/) (2026-08-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Part 7: Iterating to Green: Real Bugs, and When You'd Actually Reach for a Framework](https://dev.to/akashpal/part-7-iterating-to-green-real-bugs-and-when-youd-actually-reach-for-a-framework-3np1) (2026-08-11)
-- [Part 6: Observability for AI Agents: Tracing, Metrics, and Drift](https://dev.to/akashpal/part-6-observability-for-ai-agents-tracing-metrics-and-drift-2pgh) (2026-08-11)
-- [Part 5: Guardrails That Live in Code, Not the Prompt](https://dev.to/akashpal/part-5-guardrails-that-live-in-code-not-the-prompt-m3j) (2026-08-11)
-- [Part 4: The Raw ReAct Loop: ~100 Lines, No Framework](https://dev.to/akashpal/part-4-the-raw-react-loop-100-lines-no-framework-5bi6) (2026-08-11)
-- [Part 3: Build the Eval Set Before the Agent Exists](https://dev.to/akashpal/part-3-build-the-eval-set-before-the-agent-exists-40lk) (2026-08-11)
+- [Letting an AI agent hit 'like' scared me more than letting it post](https://dev.to/jun_uen0/letting-an-ai-agent-hit-like-scared-me-more-than-letting-it-post-3jja) (2026-08-12)
+- [LCEL vs. Legacy Chains: From Recipe Confusion to Clear Pipelines 🚀](https://dev.to/anetor/-lcel-vs-legacy-chains-from-recipe-confusion-to-clear-pipelines-3f) (2026-08-12)
+- [OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.](https://dev.to/kenielzep97/openai-says-verified-defenders-get-more-access-im-going-to-test-that-1n82) (2026-08-12)
+- [Third Time in Two Weeks: Meta's AI Also 'Hacked' Someone Else's System - And I Noticed a Pattern No One's Talking About](https://dev.to/judy_miranttie/third-time-in-two-weeks-metas-ai-also-hacked-someone-elses-system-and-i-noticed-a-pattern-no-27e9) (2026-08-12)
+- [My AI assistant deleted my working files because I said "I can't tell which ones are current"](https://dev.to/locoprowrestling/my-ai-assistant-deleted-my-working-files-because-i-said-i-cant-tell-which-ones-are-current-22b3) (2026-08-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Last COBOL Developer Retired. The System Didn’t.](https://medium.com/@premchandak_11/the-last-cobol-developer-retired-the-system-didnt-bcd117bec53c?source=rss------programming-5) (2026-08-11)
-- [Can Dictionary-Based JSON Encoding Beat Brotli?](https://medium.com/@ashwin.s.ashok/can-dictionary-based-json-encoding-beat-brotli-98b9a37d7b3c?source=rss------programming-5) (2026-08-11)
-- [Stop Writing Java Like It’s 2015](https://javascript.plainenglish.io/stop-writing-java-like-its-2015-bab7ee393351?source=rss------programming-5) (2026-08-11)
-- [AI Workflows That Matter Most](https://levelup.gitconnected.com/ai-workflows-that-matter-most-ee45ae7334a9?source=rss------programming-5) (2026-08-11)
-- [The Async/Await Pattern That Amplifies Tail Latency Under Load](https://medium.com/@kerimkkara/the-async-await-pattern-that-amplifies-tail-latency-under-load-808d79d529b6?source=rss------programming-5) (2026-08-11)
+- [Lambangbet Platform Mixparlay Paling Laris №1](https://slotgacormaxwinn.medium.com/lambangbet-platform-mixparlay-paling-laris-1-6dd9079e30ec?source=rss------programming-5) (2026-08-12)
+- [We Followed Clean Architecture to the Letter, and It Made a Simple Change Take Three Days.](https://medium.com/javarevisited/we-followed-clean-architecture-to-the-letter-and-it-made-a-simple-change-take-three-days-a18d7fa43757?source=rss------programming-5) (2026-08-12)
+- [AI Made Junior Work Almost Free, and Everyone Called It a Junior Problem.](https://medium.com/codex/ai-made-junior-work-almost-free-and-everyone-called-it-a-junior-problem-2069f6b7f95e?source=rss------programming-5) (2026-08-12)
+- [AI Wrote Most of Our Code for a Year.](https://medium.com/javarevisited/ai-wrote-most-of-our-code-for-a-year-60807352db3b?source=rss------programming-5) (2026-08-12)
+- [ 為何大型系統的程式碼要分檔案？](https://medium.com/@mindsteps.alex/%E7%82%BA%E4%BD%95%E5%A4%A7%E5%9E%8B%E7%B3%BB%E7%B5%B1%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%E8%A6%81%E5%88%86%E6%AA%94%E6%A1%88-44be5b0c473d?source=rss------programming-5) (2026-08-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/) (2026-08-12)
 - [Why Scaling AI Compute Performance Requires a New Power Architecture](https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/) (2026-08-11)
 - [NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents](https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/) (2026-08-11)
 - [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) (2026-08-11)
 - [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/) (2026-08-08)
-- [GeForce NOW Shakes Up August With 26 New Games](https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/) (2026-08-06)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) (2026-08-11)
 - [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) (2026-08-03)
 - [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) (2026-07-31)
 - [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) (2026-07-29)
 - [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) (2026-07-14)
-- [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) (2026-07-13)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Connect adds observability support](https://vercel.com/changelog/vercel-connect-adds-observability-support) (2026-08-11)
 - [Enterprise Managed Users is now generally available](https://vercel.com/changelog/enterprise-managed-users) (2026-08-11)
 - [Vercel Connect now supports CLI setup for 100+ connectors](https://vercel.com/changelog/vercel-cli-100-services) (2026-08-11)
 - [Everything hackable will get hacked](https://vercel.com/blog/everything-hackable-will-get-hacked) (2026-08-11)
-- [A sandbox without a network boundary is only half a sandbox](https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox) (2026-08-11)
-- [Vercel Sandbox now runs on Vercel Managed Images](https://vercel.com/changelog/vercel-sandbox-managed-images) (2026-08-10)
+- [DeepSeek overtakes Google on volume, cost per token falls 13.6%](https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls) (2026-08-11)
 
 </details>
 
@@ -492,10 +492,10 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Google Sheets automation ideas to organize your work](https://zapier.com/blog/automate-google-sheets) (2026-08-11)
 - [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
 - [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
 - [Claude connectors: How to connect Claude to other apps](https://zapier.com/blog/claude-connectors) (2026-08-11)
-- [How to use ChatGPT](https://zapier.com/blog/how-to-use-chatgpt) (2026-08-10)
 - [Deterministic AI: What it is and when to use it](https://zapier.com/blog/deterministic-ai) (2026-08-10)
 
 </details>
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
 - [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) (2026-08-10)
 - [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments) (2026-08-07)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
+- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
+- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
+- [The limits of physics AI: where Siemens says the human stays in charge](https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/) (2026-08-10)
+- [Stanford Evo 2 AI model generates phages against E. coli](https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/) (2026-08-07)
 
 </details>
 
