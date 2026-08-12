@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/) (2026-08-12)
+- [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/) (2026-08-12)
 - [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/) (2026-08-12)
 - [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) (2026-08-11)
 - [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) (2026-08-11)
-- [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/) (2026-08-11)
-- [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [llama.cpp](https://llama.app) (2026-08-12)
-- [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage) (2026-08-12)
-- [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/) (2026-08-12)
-- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/) (2026-08-12)
-- [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/) (2026-08-12)
+- [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/) (2026-08-12)
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) (2026-08-12)
+- [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/) (2026-08-12)
+- [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) (2026-08-12)
+- [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Honor’s Robot Phone is better than a gimbal in a phone has any right to be](https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera) (2026-08-12)
+- [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee) (2026-08-12)
+- [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch) (2026-08-12)
 - [Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive) (2026-08-12)
 - [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen) (2026-08-11)
-- [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing) (2026-08-11)
-- [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) (2026-08-11)
-- [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app) (2026-08-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Did poop enable the evolution of complex animals?](https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/) (2026-08-12)
 - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/) (2026-08-12)
 - [Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic](https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/) (2026-08-11)
 - [Russian drones found near vital European offshore gas site, get blown up](https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/) (2026-08-11)
 - [Chrome adopts what may be the best protection yet against account takeovers](https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/) (2026-08-11)
-- [Meta can't stop states' $1.4 trillion lawsuit from going to trial](https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [How the “censorship-industrial complex” is changing the Internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) (2026-08-11)
+- [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/) (2026-08-12)
+- [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/) (2026-08-12)
+- [How the “censorship-industrial complex” is changing the internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) (2026-08-11)
 - [The Download: the next big thing in LLMs and how AI academic research is shifting](https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/) (2026-08-11)
 - [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/) (2026-08-10)
-- [The Download: AI agents for science, and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/) (2026-08-10)
-- [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) (2026-08-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect (2026)](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm) (2026-08-12)
-- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp) (2026-08-12)
-- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc) (2026-08-12)
-- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8) (2026-08-12)
-- [Introduction to the Cloud-Native World with Azure Kubernetes Services (AKS) - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm) (2026-08-12)
+- [My Comment-Reply Pipeline Picks One Winner Per Thread. Two Commenters Broke That.](https://dev.to/enjoy_kumawat/my-comment-reply-pipeline-picks-one-winner-per-thread-two-commenters-broke-that-5ck7) (2026-08-12)
+- [I read my competitor's generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h) (2026-08-12)
+- [How to Build and Maintain Skeleton Technical Docs using Claude (With Copy-Paste Prompts)](https://dev.to/franrobprojects/how-to-build-and-maintain-skeleton-technical-docs-using-claude-with-copy-paste-prompts-196d) (2026-08-12)
+- [I Built an AI Tool Directory That Recommends Stacks Instead of Listing 45,000 Tools](https://dev.to/zhidong010/i-built-an-ai-tool-directory-that-recommends-stacks-instead-of-listing-45000-tools-c04) (2026-08-12)
+- [Starting My Coding Journey](https://dev.to/nyxmexe/starting-my-coding-journey-2jnh) (2026-08-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What a Linux Group Actually Is and How Your Files End Up Belonging to One](https://medium.com/my-lifes-mirrow/what-a-linux-group-actually-is-and-how-your-files-end-up-belonging-to-one-e6d1affdad12?source=rss------programming-5) (2026-08-12)
-- [Why HR Rejects Freshers Even After They Clear Technical Rounds](https://medium.com/@skillsitacademyfaculty/why-hr-rejects-freshers-even-after-they-clear-technical-rounds-85cfd16143a3?source=rss------programming-5) (2026-08-12)
-- [The JavaScript Library I Added to My App for “Real-Time Updates” Ended Up Becoming My Secret Weapon…](https://medium.com/@SulemanSafdar/the-javascript-library-i-added-to-my-app-for-real-time-updates-ended-up-becoming-my-secret-weapon-da0b58d7a8a9?source=rss------programming-5) (2026-08-12)
-- [10 AI-Generated Code Mistakes That Look Harmless Until Production](https://medium.com/skillstuff/10-ai-generated-code-mistakes-that-look-harmless-until-production-f189982c8317?source=rss------programming-5) (2026-08-12)
-- [The Best AI Engineers Aren’t Building Better Prompts](https://blog.stackademic.com/the-best-ai-engineers-arent-building-better-prompts-dcc2d966817c?source=rss------programming-5) (2026-08-12)
+- [Day 17 : Building While Learning — My MudBlazor Journey](https://medium.com/@madaakhilreddy/day-17-building-while-learning-my-mudblazor-journey-5776b6de3be1?source=rss------programming-5) (2026-08-12)
+- [Local Kubernetes Dev — Part 7: Kubernetes manifests for your service](https://mi-do.medium.com/local-kubernetes-dev-part-7-kubernetes-manifests-for-your-service-c48b02105c4f?source=rss------programming-5) (2026-08-12)
+- [*The old way is dead*](https://medium.com/@muazplayz34/the-old-way-is-dead-429413f572a2?source=rss------programming-5) (2026-08-12)
+- [Código Limpo na Prática: Emergência em JavaScript](https://medium.com/@gabrielequevedo/c%C3%B3digo-limpo-na-pr%C3%A1tica-emerg%C3%AAncia-em-javascript-479d6b9d723c?source=rss------programming-5) (2026-08-12)
+- [The OWASP API Top 10, Translated Into Bugs You’ve Actually Written](https://medium.com/@danielvalev/the-owasp-api-top-10-translated-into-bugs-youve-actually-written-8542b967a364?source=rss------programming-5) (2026-08-12)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [The “LSP Moment” for AI Agents: WebStorm ACP](https://blog.jetbrains.com/webstorm/2026/08/the-lsp-moment-for-ai-agents-webstorm-acp/) (2026-08-11)
-- [JetBrains .NET Day Online 2026: Save the Date and Submit a Talk](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/) (2026-08-10)
-- [Blazingly Fast or Blazingly Hyped? A Reality Check on Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/) (2026-08-10)
-- [IntelliJ IDEA 2026.2.1 Is Out!](https://blog.jetbrains.com/idea/2026/08/intellij-idea-2026-2-1/) (2026-08-10)
-- [Chrome DevTools Connect for WebStorm: Your AI agent can now interact with the browser](https://blog.jetbrains.com/webstorm/2026/08/chrome-connect-webstorm/) (2026-08-10)
+- [What’s New in PyCharm 2026.2.1](https://blog.jetbrains.com/pycharm/2026/08/what-s-new-in-pycharm-2026-2-1/) (2026-08-12)
+- [We Stopped AI Agents From Installing Into the Wrong Python: Task Success Rates Jumped to 95%+](https://blog.jetbrains.com/pycharm/2026/08/we-stopped-ai-agents-from-installing-into-the-wrong-python-task-success-rates-jumped-to-95/) (2026-08-12)
+- [We Gave AI Agents a Live Jupyter Kernel in PyCharm](https://blog.jetbrains.com/pycharm/2026/08/we-gave-ai-agents-a-live-jupyter-kernel-in-pycharm/) (2026-08-12)
+- [Unbundling and Deprecating Low-Usage Plugins in PyCharm](https://blog.jetbrains.com/pycharm/2026/08/unbundling-and-deprecating-low-usage-plugins-in-pycharm/) (2026-08-12)
+- [Top 5 AI Features in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/08/top-5-ai-features-in-intellij-idea/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.133 (Insiders)](https://code.visualstudio.com/updates/v1_133) (2026-08-11)
+- [Visual Studio Code 1.134 (Insiders)](https://code.visualstudio.com/updates/v1_134) (2026-08-18)
+- [Visual Studio Code 1.133](https://code.visualstudio.com/updates/v1_133) (2026-08-12)
 - [Visual Studio Code 1.132](https://code.visualstudio.com/updates/v1_132) (2026-08-05)
 - [Visual Studio Code 1.131](https://code.visualstudio.com/updates/v1_131) (2026-07-29)
 - [MAI-Code-1-Flash: early results from real developer workflows](https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash) (2026-07-29)
-- [Visual Studio Code 1.130](https://code.visualstudio.com/updates/v1_130) (2026-07-22)
 
 </details>
 
@@ -493,8 +493,8 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <summary>⚡ Zapier Blog</summary>
 
 - [Google Sheets automation ideas to organize your work](https://zapier.com/blog/automate-google-sheets) (2026-08-11)
-- [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
 - [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
+- [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
 - [Claude connectors: How to connect Claude to other apps](https://zapier.com/blog/claude-connectors) (2026-08-11)
 - [ChatGPT connectors: How to connect ChatGPT to other apps](https://zapier.com/blog/chatgpt-connectors) (2026-08-10)
 
@@ -569,33 +569,33 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Place Vertiport Locations in Any City Using Geospatial Machine Learning](https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/) (2026-08-12)
 - [Stop Calling the First Significant Day a Win](https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/) (2026-08-11)
 - [Should AI Developers Make the Switch from Polars to Pandas?](https://towardsdatascience.com/should-ai-developers-make-the-switch-from-polars-to-pandas/) (2026-08-11)
 - [The Budget Split That Explains Itself](https://towardsdatascience.com/the-budget-split-that-explains-itself/) (2026-08-11)
 - [Can a Local LLM Run My AI Assistant?](https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/) (2026-08-11)
-- [How to Effectively Deploy Code With Claude Code](https://towardsdatascience.com/how-to-effectively-deploy-code-with-claude-code/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation](https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/) (2026-08-12)
 - [Claude Now Watermarks Everything It Makes](https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/) (2026-08-11)
 - [How to Install Claude Code: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/) (2026-08-10)
 - [Top 5 Claude Skills for Marketing](https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/) (2026-08-09)
 - [Building Trustworthy Snowflake AI Agents with Semantic Governance](https://www.analyticsvidhya.com/blog/2026/08/snowflake-ai-agents-semantic-governance/) (2026-08-08)
-- [Top 10 Skills for Claude Code and Codex CLI](https://www.analyticsvidhya.com/blog/2026/08/best-skills-claude-code-codex-cli/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows) (2026-08-12)
 - [The Ultimate Guide to Contributing to Open Source Projects](https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects) (2026-08-11)
 - [3 Visual Proofs of the Central Limit Theorem to Build Your Intuition](https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition) (2026-08-11)
 - [New Free eBook: Understanding Agentic AI, an Executive Briefing](https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing) (2026-08-10)
 - [Specification Engineering: The New Skill After Prompt Engineering](https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering) (2026-08-10)
-- [Top 10 AI Influencers of 2026](https://www.kdnuggets.com/top-10-ai-influencers-of-2026) (2026-08-10)
 
 </details>
 
