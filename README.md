@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/) (2026-08-12)
+- [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/) (2026-08-12)
+- [Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/) (2026-08-12)
+- [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) (2026-08-12)
 - [Grubhub’s $24M FTC settlement is finally reaching diners and drivers](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/) (2026-08-12)
-- [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/) (2026-08-12)
-- [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/) (2026-08-12)
-- [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) (2026-08-12)
-- [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zed: Delta](https://zed.dev/blog/introducing-delta) (2026-08-12)
-- [Your Key to Success Isn't More Luck or Hard Work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/) (2026-08-12)
-- [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) (2026-08-12)
-- [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) (2026-08-12)
-- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/) (2026-08-12)
+- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/) (2026-08-13)
+- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) (2026-08-12)
+- [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (2026-08-12)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow) (2026-08-12)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) (2026-08-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date) (2026-08-12)
-- [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai) (2026-08-12)
-- [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features) (2026-08-12)
-- [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves) (2026-08-12)
-- [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations) (2026-08-12)
+- [Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah) (2026-08-12)
+- [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale) (2026-08-12)
+- [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders) (2026-08-12)
+- [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition) (2026-08-12)
+- [It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year](https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Two hydrogen-burning engines powered this car to a new land speed record](https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/) (2026-08-12)
-- [US tries to override New York gambling laws, orders Kalshi to keep operating](https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/) (2026-08-12)
-- [Booksellers suspect AI firms are buying and then destroying rare books](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/) (2026-08-12)
-- [Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag](https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/) (2026-08-12)
-- [Researchers found a way to hijack devices through Zoom screen sharing](https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/) (2026-08-12)
+- [Toddler's tragic death from brain-destroying amoeba offers lessons for doctors](https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/) (2026-08-12)
+- [The web’s newest weapon against AI scrapers is a font](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/) (2026-08-12)
+- [Terabytes of credentials leaked in massive supply-chain attack](https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/) (2026-08-12)
+- [Have physicists finally discovered glueballs? New evidence points to yes.](https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/) (2026-08-12)
+- [Twitch content has trained Amazon AI for years, but users can opt out now](https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Scientists just created female clones of male mice](https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/) (2026-08-12)
 - [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) (2026-08-12)
 - [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/) (2026-08-12)
 - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/) (2026-08-12)
 - [How the “censorship-industrial complex” is changing the internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) (2026-08-11)
-- [The Download: the next big thing in LLMs and how AI academic research is shifting](https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: July 2026](https://github.blog/news-insights/company-news/github-availability-report-july-2026/) (2026-08-12)
+- [Write your first prompt with the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/) (2026-08-12)
 - [Your contributors are AI-first now. Is your project?](https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/) (2026-08-12)
 - [From coder to orchestrator: How agents shift the role of a developer](https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/) (2026-08-11)
 - [Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/) (2026-08-10)
-- [A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/) (2026-08-06)
-- [How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/) (2026-08-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [38,000 records. 72 hours. And you can't find the English fast enough.](https://dev.to/threshold/38000-records-72-hours-and-you-cant-find-the-english-fast-enough-1k7c) (2026-08-12)
-- [Gemini and GetYourGuide: What a Potential Travel Booking Integration Would Require](https://dev.to/alifar/gemini-and-getyourguide-what-a-potential-travel-booking-integration-would-require-4nij) (2026-08-12)
-- [Your AI agent writes migrations that look safe. Here's what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7) (2026-08-12)
-- [Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices](https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np) (2026-08-12)
-- [Fever’s Event Catalog Shows What AI-Powered Experience Discovery Could Require](https://dev.to/alifar/fevers-event-catalog-shows-what-ai-powered-experience-discovery-could-require-4jcc) (2026-08-12)
+- [Stop Uploading Your Vitals! 🍎 Build a Private Health AI using Llama-3 and MLX on Your MacBook](https://dev.to/wellallytech/stop-uploading-your-vitals-build-a-private-health-ai-using-llama-3-and-mlx-on-your-macbook-pnf) (2026-08-13)
+- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n) (2026-08-13)
+- [Japan invented flow, then refused to use it.](https://dev.to/gigaelk/japan-invented-flow-then-refused-to-use-it-137k) (2026-08-13)
+- [EdTech Triage: Speech-to-Text API Timeout for Large Audio Uploads](https://dev.to/ashtonblake6879/edtech-triage-speech-to-text-api-timeout-for-large-audio-uploads-co8) (2026-08-13)
+- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d) (2026-08-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Engineer Who Never Broke Production Was the Most Dangerous Person on My Team, and It Took a…](https://levelup.gitconnected.com/the-engineer-who-never-broke-production-was-the-most-dangerous-person-on-my-team-and-it-took-a-fbb2b14f7005?source=rss------programming-5) (2026-08-12)
-- [Why Learning to Switch “Thinking Effort” Is the Most Underrated AI Skill](https://medium.com/@msebastianb/why-learning-to-switch-thinking-effort-is-the-most-underrated-ai-skill-93568f664c87?source=rss------programming-5) (2026-08-12)
-- [The Best Senior Engineer I Ever Worked With Did Not Know More Than the Juniors.](https://levelup.gitconnected.com/the-best-senior-engineer-i-ever-worked-with-did-not-know-more-than-the-juniors-499b4a53811b?source=rss------programming-5) (2026-08-12)
-- [Your Observability Bill Is a Pile of Decisions Nobody Remembers Making](https://medium.com/@sohail_saifi/your-observability-bill-is-a-pile-of-decisions-nobody-remembers-making-c5505fd37082?source=rss------programming-5) (2026-08-12)
-- [Wine Just Closed a Bug That Had Been Open for 20 Years](https://medium.com/@coders.stop/wine-just-closed-a-bug-that-had-been-open-for-20-years-d6dc1e776114?source=rss------programming-5) (2026-08-12)
+- [FFai is ffmpeg’s AI baby](https://talmondrlm.medium.com/ffai-is-ffmpegs-ai-baby-3e6d759494b4?source=rss------programming-5) (2026-08-13)
+- [Java Has Sealed Types. Now Give Them Prisms.](https://medium.com/heap-wire/java-has-sealed-types-now-give-them-prisms-3c354a4af7fa?source=rss------programming-5) (2026-08-13)
+- [Too Big to Handshake](https://levelup.gitconnected.com/too-big-to-handshake-07eb34ab8263?source=rss------programming-5) (2026-08-13)
+- [Comments Are Not a Substitute for Good Code](https://medium.com/@scosmexs/comments-are-not-a-substitute-for-good-code-0107f0d81bf4?source=rss------programming-5) (2026-08-13)
+- [[RustGuide] 7.1 Package, Crate, and Module Definitions](https://medium.com/@stanyin64/rustguide-7-1-package-crate-and-module-definitions-ee9f68e91b2a?source=rss------programming-5) (2026-08-13)
 
 </details>
 
@@ -141,7 +141,7 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
-- [Updates to Age Ratings for the Republic of Korea](https://developer.apple.com/news/?id=oj3r9pvw) (2026-08-12)
+- [Updates to age ratings for the Republic of Korea](https://developer.apple.com/news/?id=oj3r9pvw) (2026-08-12)
 - [Get ready for new creative assets on the App Store](https://developer.apple.com/news/?id=kug6m2ea) (2026-08-05)
 - [Hello Developer: August 2026](https://developer.apple.com/news/?id=vrvvlonn) (2026-08-05)
 - [Age rating questionnaire now includes social media questions](https://developer.apple.com/news/?id=tlur8uvi) (2026-07-09)
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Enhance your app for the new Pixel lineup: Unveiled at Made by Google](https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html) (2026-08-12)
 - [Bring one-handed gestures to your Wear OS app](https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html) (2026-08-12)
 - [What's new in the Jetpack Compose August '26 release](https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html) (2026-08-12)
 - [Media3 1.11 - What's new?](https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html) (2026-08-11)
 - [Inside Android Skills - Built for deprecation](https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html) (2026-08-06)
-- [Delivering safer, age-appropriate experiences on Google Play](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html) (2026-07-29)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway) (2026-08-12)
+- [Exa web search free through August 31 on AI Gateway and eve](https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve) (2026-08-12)
 - [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk) (2026-08-12)
+- [Set up coding agents in one command with AI Gateway](https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway) (2026-08-12)
 - [Free domain for one year, now for all Pro teams](https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams) (2026-08-12)
-- [Grok 4.6 now available on AI Gateway](https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway) (2026-08-12)
-- [How we migrated the database behind every Vercel build](https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build) (2026-08-11)
 
 </details>
 
@@ -494,8 +494,8 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 
 - [How to compare two Word documents ](https://zapier.com/blog/compare-two-word-documents) (2026-08-12)
 - [12 examples of ethos in advertising to inspire your next campaign](https://zapier.com/blog/ethos-examples-in-ads) (2026-08-12)
+- [Zapier vs. Airtable: Which is best? [2026]](https://zapier.com/blog/zapier-vs-airtable) (2026-08-12)
 - [Google Sheets automation ideas to organize your work](https://zapier.com/blog/automate-google-sheets) (2026-08-11)
-- [What is enterprise workflow automation?](https://zapier.com/blog/enterprise-workflow-automation) (2026-08-11)
 - [The 10 best VoIP providers in 2026](https://zapier.com/blog/best-virtual-phone-voip) (2026-08-11)
 
 </details>
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) (2026-08-11)
 - [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) (2026-08-10)
 - [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
+- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
+- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
+- [The limits of physics AI: where Siemens says the human stays in charge](https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/) (2026-08-10)
 
 </details>
 
