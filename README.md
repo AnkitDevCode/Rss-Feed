@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) (2026-08-13)
+- [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/) (2026-08-13)
 - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/) (2026-08-13)
 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) (2026-08-12)
-- [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (2026-08-12)
-- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow) (2026-08-12)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) (2026-08-12)
+- [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (2026-08-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Uploading Your Vitals! 🍎 Build a Private Health AI using Llama-3 and MLX on Your MacBook](https://dev.to/wellallytech/stop-uploading-your-vitals-build-a-private-health-ai-using-llama-3-and-mlx-on-your-macbook-pnf) (2026-08-13)
-- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n) (2026-08-13)
-- [Japan invented flow, then refused to use it.](https://dev.to/gigaelk/japan-invented-flow-then-refused-to-use-it-137k) (2026-08-13)
-- [EdTech Triage: Speech-to-Text API Timeout for Large Audio Uploads](https://dev.to/ashtonblake6879/edtech-triage-speech-to-text-api-timeout-for-large-audio-uploads-co8) (2026-08-13)
-- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d) (2026-08-13)
+- [Building Data-Heavy Tables with TanStack Table v8 in Next.js (Using 10% of the Library on Purpose)](https://dev.to/tegadaniel/building-data-heavy-tables-with-tanstack-table-v8-in-nextjs-using-10-of-the-library-on-purpose-2503) (2026-08-13)
+- [It's Almost Like You Need an Actual Programmer](https://dev.to/testingil/its-almost-like-you-need-an-actual-programmer-19ko) (2026-08-13)
+- [The New Technical Debt](https://dev.to/testingil/the-new-technical-debt-4ol4) (2026-08-13)
+- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan) (2026-08-13)
+- [An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi) (2026-08-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [FFai is ffmpeg’s AI baby](https://talmondrlm.medium.com/ffai-is-ffmpegs-ai-baby-3e6d759494b4?source=rss------programming-5) (2026-08-13)
-- [Java Has Sealed Types. Now Give Them Prisms.](https://medium.com/heap-wire/java-has-sealed-types-now-give-them-prisms-3c354a4af7fa?source=rss------programming-5) (2026-08-13)
-- [Too Big to Handshake](https://levelup.gitconnected.com/too-big-to-handshake-07eb34ab8263?source=rss------programming-5) (2026-08-13)
-- [Comments Are Not a Substitute for Good Code](https://medium.com/@scosmexs/comments-are-not-a-substitute-for-good-code-0107f0d81bf4?source=rss------programming-5) (2026-08-13)
-- [[RustGuide] 7.1 Package, Crate, and Module Definitions](https://medium.com/@stanyin64/rustguide-7-1-package-crate-and-module-definitions-ee9f68e91b2a?source=rss------programming-5) (2026-08-13)
+- [What umask Actually Does and Why Your New Files Always Start at 644](https://medium.com/my-lifes-mirrow/what-umask-actually-does-and-why-your-new-files-always-start-at-644-e9a746fbbedf?source=rss------programming-5) (2026-08-13)
+- [The Best Developers in 2026 Aren’t Writing More Code. They’re Deleting More of It.](https://medium.com/@ishaqsaqib/the-best-developers-in-2026-arent-writing-more-code-they-re-deleting-more-of-it-b1c38c2df6b6?source=rss------programming-5) (2026-08-13)
+- [AI Can Write the Code. But Who Tells It What to Build?](https://abdulwahabdev.medium.com/ai-can-write-the-code-but-who-tells-it-what-to-build-6ba853e083da?source=rss------programming-5) (2026-08-13)
+- [GitHub Projects That Can Help You Get Hired Faster](https://medium.com/@skillsitacademyfaculty/github-projects-that-can-help-you-get-hired-faster-e4811e18011c?source=rss------programming-5) (2026-08-13)
+- [Aider, Cline, and OpenHands: Three Open-Source Coding Agents for People Who Don’t Want to Rent…](https://medium.com/@AIbatros/aider-cline-and-openhands-three-open-source-coding-agents-for-people-who-dont-want-to-rent-dac3c3f1e153?source=rss------programming-5) (2026-08-13)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
+) (2026-08-13)
+- [
+How to verify a user's phone number in your Replit app
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/verify-phone-number-replit
+) (2026-08-12)
+- [
+Twilio Flex: the technology powering human connection 
+](
+https://www.twilio.com/en-us/blog/insights/Flex-powering-human-connection
+) (2026-08-12)
+- [
 Deliver Secure and Reliable OTPs with Twilio Verify and PingOne
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/pingone-custom-server-mfa-verify
 ) (2026-08-11)
 - [
-How to Scale Email Sending Without Sacrificing Deliverability
+How to Build Passwordless Auth Using TOTP With Twilio Verify in PHP
 ](
-https://www.twilio.com/en-us/blog/insights/scale-email-without-sacrificing-deliverability
-) (2026-08-07)
-- [
-Guide to Migrating Your Email Sending Domain
-](
-https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
-) (2026-08-07)
-- [
-The architecture of enterprise trust: Twilio US Branded Calling is now generally available
-](
-https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
-) (2026-08-05)
-- [
-What is Aggregate Performance Reporting Format (APRF)?
-](
-https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedback
-) (2026-08-03)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-php
+) (2026-08-10)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) (2026-08-11)
 - [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) (2026-08-10)
 - [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) (2026-08-10)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
-- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
-- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
-- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
-- [The limits of physics AI: where Siemens says the human stays in charge](https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/) (2026-08-10)
 
 </details>
 
