@@ -20,9 +20,9 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/) (2026-08-13)
+- [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers) (2026-08-13)
 - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) (2026-08-13)
-- [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/) (2026-08-13)
-- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/) (2026-08-13)
 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) (2026-08-12)
 - [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (2026-08-12)
 
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Claude's new Scarlet Letter watermark is invisible — for now](https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/) (2026-08-13)
 - [Toddler's tragic death from brain-destroying amoeba offers lessons for doctors](https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/) (2026-08-12)
 - [The web’s newest weapon against AI scrapers is a font](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/) (2026-08-12)
 - [Terabytes of credentials leaked in massive supply-chain attack](https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/) (2026-08-12)
 - [Have physicists finally discovered glueballs? New evidence points to yes.](https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/) (2026-08-12)
-- [Twitch content has trained Amazon AI for years, but users can opt out now](https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) (2026-08-13)
+- [What’s behind this summer’s heat, and why 2027 could be worse](https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/) (2026-08-13)
+- [How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/) (2026-08-13)
 - [Scientists just created female clones of male mice](https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/) (2026-08-12)
 - [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) (2026-08-12)
-- [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/) (2026-08-12)
-- [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/) (2026-08-12)
-- [How the “censorship-industrial complex” is changing the internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) (2026-08-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Data-Heavy Tables with TanStack Table v8 in Next.js (Using 10% of the Library on Purpose)](https://dev.to/tegadaniel/building-data-heavy-tables-with-tanstack-table-v8-in-nextjs-using-10-of-the-library-on-purpose-2503) (2026-08-13)
-- [It's Almost Like You Need an Actual Programmer](https://dev.to/testingil/its-almost-like-you-need-an-actual-programmer-19ko) (2026-08-13)
-- [The New Technical Debt](https://dev.to/testingil/the-new-technical-debt-4ol4) (2026-08-13)
-- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan) (2026-08-13)
-- [An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi) (2026-08-13)
+- [My Frontmatter Parser Checks for Too Few Delimiters. It Never Checked for Too Many.](https://dev.to/enjoy_kumawat/my-frontmatter-parser-checks-for-too-few-delimiters-it-never-checked-for-too-many-2j45) (2026-08-13)
+- [Stop Leaking API Keys: The Backend for Frontend (BFF) Pattern Explained](https://dev.to/gitguardian/stop-leaking-api-keys-the-backend-for-frontend-bff-pattern-explained-4d5c) (2026-08-13)
+- [MCP 2026-07-28 from the server side: Codex already speaks it, Claude doesn't yet](https://dev.to/goodbarber/mcp-2026-07-28-from-the-server-side-codex-already-speaks-it-claude-doesnt-yet-4fj) (2026-08-13)
+- [A static site that collects form submissions, in one HTML attribute](https://dev.to/harvis/a-static-site-that-collects-form-submissions-in-one-html-attribute-2cln) (2026-08-13)
+- [Install Comfy MCP: Control Local ComfyUI from Claude Code or Cursor](https://dev.to/lachieslifestyle/install-comfy-mcp-control-local-comfyui-from-claude-code-or-cursor-1dpf) (2026-08-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What umask Actually Does and Why Your New Files Always Start at 644](https://medium.com/my-lifes-mirrow/what-umask-actually-does-and-why-your-new-files-always-start-at-644-e9a746fbbedf?source=rss------programming-5) (2026-08-13)
-- [The Best Developers in 2026 Aren’t Writing More Code. They’re Deleting More of It.](https://medium.com/@ishaqsaqib/the-best-developers-in-2026-arent-writing-more-code-they-re-deleting-more-of-it-b1c38c2df6b6?source=rss------programming-5) (2026-08-13)
-- [AI Can Write the Code. But Who Tells It What to Build?](https://abdulwahabdev.medium.com/ai-can-write-the-code-but-who-tells-it-what-to-build-6ba853e083da?source=rss------programming-5) (2026-08-13)
-- [GitHub Projects That Can Help You Get Hired Faster](https://medium.com/@skillsitacademyfaculty/github-projects-that-can-help-you-get-hired-faster-e4811e18011c?source=rss------programming-5) (2026-08-13)
-- [Aider, Cline, and OpenHands: Three Open-Source Coding Agents for People Who Don’t Want to Rent…](https://medium.com/@AIbatros/aider-cline-and-openhands-three-open-source-coding-agents-for-people-who-dont-want-to-rent-dac3c3f1e153?source=rss------programming-5) (2026-08-13)
+- [I’m on the $200 Claude Code plan. In July, I used $10,125 of API.](https://medium.com/@jacobp96/im-on-the-200-claude-code-plan-in-july-i-used-10-125-of-api-e4f1b771b726?source=rss------programming-5) (2026-08-13)
+- [DeepMind Says AI Can’t Make the Discovery Leap: Physicists and Quants Already Knew Its Limits.](https://medium.com/data-science-collective/deepmind-says-ai-cant-make-the-discovery-leap-physicists-and-quants-already-knew-its-limits-e884614c1b71?source=rss------programming-5) (2026-08-13)
+- [I Thought My JavaScript Application Was Safe, Until a User Double-Clicked](https://mohit19.medium.com/i-thought-my-javascript-application-was-safe-until-a-user-double-clicked-f51f2600eb0b?source=rss------programming-5) (2026-08-13)
+- [You Are Probably Using npm install Wrong ( And It’s a Security Risk )](https://mohit19.medium.com/you-are-probably-using-npm-install-wrong-and-its-a-security-risk-dc566d344288?source=rss------programming-5) (2026-08-13)
+- [The Language After the Colon: 3 f-String Format Spec Puzzles](https://medium.com/becomebetter-dev/the-language-after-the-colon-3-f-string-format-spec-puzzles-83a69334af48?source=rss------programming-5) (2026-08-13)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Hybrid and Local AI course at DeepLearning.AI](https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/) (2026-08-13)
+- [Qodana Lints Your Code. What’s Checking Your DevOps and Platform Engineering Stack?](https://blog.jetbrains.com/qodana/2026/08/qodana-for-devops/) (2026-08-13)
 - [When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages](https://blog.jetbrains.com/research/2026/08/programming-language-migration/) (2026-08-12)
 - [How to Use AI Agents in IntelliJ IDEA With ACP](https://blog.jetbrains.com/idea/2026/08/how-to-use-ai-agents-in-intellij-idea-with-acp/) (2026-08-12)
 - [What’s New in PyCharm 2026.2.1](https://blog.jetbrains.com/pycharm/2026/08/what-s-new-in-pycharm-2026-2-1/) (2026-08-12)
-- [We Stopped AI Agents From Installing Into the Wrong Python: Task Success Rates Jumped to 95%+](https://blog.jetbrains.com/pycharm/2026/08/we-stopped-ai-agents-from-installing-into-the-wrong-python-task-success-rates-jumped-to-95/) (2026-08-12)
-- [We Gave AI Agents a Live Jupyter Kernel in PyCharm](https://blog.jetbrains.com/pycharm/2026/08/we-gave-ai-agents-a-live-jupyter-kernel-in-pycharm/) (2026-08-12)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Inside the Vercel intern experience](https://vercel.com/blog/inside-the-vercel-intern-experience) (2026-08-13)
+- [Use ACP-compatible harnesses with the AI SDK harness layer](https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer) (2026-08-13)
 - [DeepSeek V4 Pro now runs updated weights on AI Gateway](https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway) (2026-08-12)
 - [Exa web search free through August 31 on AI Gateway and eve](https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve) (2026-08-12)
 - [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk) (2026-08-12)
-- [Set up coding agents in one command with AI Gateway](https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway) (2026-08-12)
-- [Free domain for one year, now for all Pro teams](https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams) (2026-08-12)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
-) (2026-08-13)
-- [
-How to verify a user's phone number in your Replit app
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/verify-phone-number-replit
-) (2026-08-12)
-- [
-Twilio Flex: the technology powering human connection 
-](
-https://www.twilio.com/en-us/blog/insights/Flex-powering-human-connection
-) (2026-08-12)
-- [
 Deliver Secure and Reliable OTPs with Twilio Verify and PingOne
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/pingone-custom-server-mfa-verify
 ) (2026-08-11)
 - [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in PHP
+How to Scale Email Sending Without Sacrificing Deliverability
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-php
-) (2026-08-10)
+https://www.twilio.com/en-us/blog/insights/scale-email-without-sacrificing-deliverability
+) (2026-08-07)
+- [
+Guide to Migrating Your Email Sending Domain
+](
+https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
+) (2026-08-07)
+- [
+The architecture of enterprise trust: Twilio US Branded Calling is now generally available
+](
+https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
+) (2026-08-05)
+- [
+What is Aggregate Performance Reporting Format (APRF)?
+](
+https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedback
+) (2026-08-03)
 
 </details>
 
@@ -567,35 +567,46 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
+- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
+- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
+- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [LangChain vs LangGraph: 4 Key Differences and When to Use Each](https://towardsdatascience.com/langchain-vs-langgraph-4-key-differences-and-when-to-use-each/) (2026-08-13)
 - [Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From](https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/) (2026-08-12)
 - [Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works](https://towardsdatascience.com/backpropagation-explained-for-beginners-part-3-how-backpropagation-really-works/) (2026-08-12)
 - [Building Multimodal Workflows with a Local LLM](https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/) (2026-08-12)
 - [How to Place Vertiport Locations in Any City Using Geospatial Machine Learning](https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/) (2026-08-12)
-- [Stop Calling the First Significant Day a Win](https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/) (2026-08-11)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How Baidu Unlimited-OCR Works: Solving Long-Document Transcription](https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/) (2026-08-13)
 - [Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation](https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/) (2026-08-12)
 - [Claude Now Watermarks Everything It Makes](https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/) (2026-08-11)
 - [How to Install Claude Code: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/) (2026-08-10)
 - [Top 5 Claude Skills for Marketing](https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/) (2026-08-09)
-- [Building Trustworthy Snowflake AI Agents with Semantic Governance](https://www.analyticsvidhya.com/blog/2026/08/snowflake-ai-agents-semantic-governance/) (2026-08-08)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Constraining Output Space for SLM Narrow Automation Optimization](https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization) (2026-08-13)
 - [Building an End-to-End Data Science Portfolio Project](https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project) (2026-08-12)
 - [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows) (2026-08-12)
 - [The Ultimate Guide to Contributing to Open Source Projects](https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects) (2026-08-11)
 - [3 Visual Proofs of the Central Limit Theorem to Build Your Intuition](https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition) (2026-08-11)
-- [New Free eBook: Understanding Agentic AI, an Executive Briefing](https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing) (2026-08-10)
 
 </details>
 
