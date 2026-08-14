@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/) (2026-08-14)
 - [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/) (2026-08-13)
 - [Flock says its new tool will help identify police abuse, but hasn’t explained how it works](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/) (2026-08-13)
 - [If Apple sends you a push notification alerting you to a spyware attack, take it seriously](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/) (2026-08-13)
 - [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/) (2026-08-13)
-- [Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) (2026-08-14)
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) (2026-08-14)
-- [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/) (2026-08-13)
-- [NP-overrated](https://gruhn.me/blog/2026-08-13/) (2026-08-13)
-- [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/) (2026-08-13)
+- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) (2026-08-14)
+- [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) (2026-08-14)
+- [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain) (2026-08-14)
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) (2026-08-14)
+- [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri) (2026-08-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts) (2026-08-14)
-- [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing) (2026-08-13)
-- [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier) (2026-08-13)
-- [The fight over Flock and other ALPRs](https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy) (2026-08-13)
-- [Microsoft’s Clippy-like Mico character is no longer the face of Copilot](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired) (2026-08-13)
+- [CMF hit the balance between cheap and good clip earbuds](https://www.theverge.com/tech/979928/cmf-clip-pro-review) (2026-08-14)
+- [The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one](https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld) (2026-08-14)
+- [Hoto’s new cordless soldering iron heats up in three seconds](https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable) (2026-08-14)
+- [Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba) (2026-08-14)
+- [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument) (2026-08-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan](https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/) (2026-08-14)
+- [Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price](https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/) (2026-08-14)
+- [Organic-looking brake assemblies debut on new Czinger 21C Spyder](https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/) (2026-08-14)
 - [US wait times for cancer surgeries are getting longer and longer](https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/) (2026-08-13)
 - [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/) (2026-08-13)
-- [Virgin Galactic wants your help naming its new Delta class spaceship](https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/) (2026-08-13)
-- [Ukrainian drones wipe out entire US tank brigade in live war game](https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/) (2026-08-13)
-- [Flock “can’t tech its way out” of the stalker cop problem, experts say](https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) (2026-08-14)
+- [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) (2026-08-14)
+- [Job titles of the future: Space travel agent](https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/) (2026-08-14)
+- [Cloning could be used to save species—or make human “organ sacks”](https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/) (2026-08-14)
 - [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) (2026-08-13)
-- [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) (2026-08-13)
-- [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) (2026-08-13)
-- [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) (2026-08-13)
-- [What’s behind this summer’s heat, and why 2027 could be worse](https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/) (2026-08-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0) (2026-08-14)
-- [What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7) (2026-08-14)
-- [Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241) (2026-08-14)
-- [Introduction to the Cloud-Native World with Azure Kubernetes Services (AKS) - Series Part 4](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-4-367e) (2026-08-14)
-- [200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data](https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk) (2026-08-14)
+- [AI Is Making Programmers Stackless: Engineering Experience Is the New Moat](https://dev.to/ajidev/ai-is-making-programmers-stackless-engineering-experience-is-the-new-moat-5g03) (2026-08-14)
+- [5 Free Sanctions APIs That Automate EU AI Act Compliance](https://dev.to/onizuka/5-free-sanctions-apis-that-automate-eu-ai-act-compliance-gbg) (2026-08-14)
+- [Creating modern forms with form.fscss — pure CSS](https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801) (2026-08-14)
+- [Docker Networking & Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn) (2026-08-14)
+- [How I Built ActiveVPN: A Terminal Tool That Proves (or Exposes) Your VPN](https://dev.to/rkriad585/how-i-built-activevpn-a-terminal-tool-that-proves-or-exposes-your-vpn-38jg) (2026-08-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DocumentDB vs Firestore vs MongoDB](https://towardsdev.com/documentdb-vs-firestore-vs-mongodb-1672da978512?source=rss------programming-5) (2026-08-14)
-- [The Real Difference Between Zipping a File and Actually Compressing It in Linux](https://medium.com/my-lifes-mirrow/the-real-difference-between-zipping-a-file-and-actually-compressing-it-in-linux-be3347646921?source=rss------programming-5) (2026-08-14)
-- [Beyond Horizontal Scaling: Mastering Go API Performance from the Inside Out](https://fatoni-ach.medium.com/beyond-horizontal-scaling-mastering-go-api-performance-from-the-inside-out-ea4720e613e8?source=rss------programming-5) (2026-08-14)
-- [Find the Exact Slow Angular Component with Chrome DevTools](https://medium.com/@mrbriantreese/find-the-exact-slow-angular-component-with-chrome-devtools-12987f619fd6?source=rss------programming-5) (2026-08-14)
-- [Firecrawl, Apify, and Browserbase: Three Very Different Answers to “Just Get Me That Web Page”](https://medium.com/@AIbatros/firecrawl-apify-and-browserbase-three-very-different-answers-to-just-get-me-that-web-page-3259e690de07?source=rss------programming-5) (2026-08-14)
+- [Arbitrary Arguments in Python — *args](https://medium.com/@isaacjatto01/arbitrary-arguments-in-python-args-6bddd79879bf?source=rss------programming-5) (2026-08-14)
+- [I Got Promoted to Senior for the Work I Did on the Day I Almost Got Fired](https://blog.stackademic.com/i-got-promoted-to-senior-for-the-work-i-did-on-the-day-i-almost-got-fired-571721e6eef0?source=rss------programming-5) (2026-08-14)
+- [Two Scheduled Workflows Beat the n8n Wait Node](https://medium.com/@techpotions/two-scheduled-workflows-beat-the-n8n-wait-node-e575ca09900a?source=rss------programming-5) (2026-08-14)
+- [The MacBook Pro 14 After Two Years on a MacBook Air](https://medium.com/@dr_Bat/the-macbook-pro-14-after-two-years-on-a-macbook-air-f6faa0167a92?source=rss------programming-5) (2026-08-14)
+- [Why NULL Equals NULL Is Not True In SQL](https://medium.com/@_jaydeepkarale/why-null-equals-null-is-not-true-in-sql-231f74775c29?source=rss------programming-5) (2026-08-14)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Exploring Compose HTML for Server Side Rendering](https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/) (2026-08-14)
 - [Hybrid and Local AI course at DeepLearning.AI](https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/) (2026-08-13)
 - [Qodana Lints Your Code. What’s Checking Your DevOps and Platform Engineering Stack?](https://blog.jetbrains.com/qodana/2026/08/qodana-for-devops/) (2026-08-13)
 - [When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages](https://blog.jetbrains.com/research/2026/08/programming-language-migration/) (2026-08-12)
 - [How to Use AI Agents in IntelliJ IDEA With ACP](https://blog.jetbrains.com/idea/2026/08/how-to-use-ai-agents-in-intellij-idea-with-acp/) (2026-08-12)
-- [What’s New in PyCharm 2026.2.1](https://blog.jetbrains.com/pycharm/2026/08/what-s-new-in-pycharm-2026-2-1/) (2026-08-12)
 
 </details>
 
@@ -378,6 +378,16 @@ How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
 ) (2026-08-13)
 - [
+Migrate from Programmable Messaging to Verify
+](
+https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
+) (2026-08-13)
+- [
+Combatting chronic loneliness: Age UK volunteers in the spotlight
+](
+https://www.twilio.com/en-us/blog/insights/AgeUK-volunteers-spotlight
+) (2026-08-13)
+- [
 How to verify a user's phone number in your Replit app
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/verify-phone-number-replit
@@ -387,16 +397,6 @@ Twilio Flex: the technology powering human connection
 ](
 https://www.twilio.com/en-us/blog/insights/Flex-powering-human-connection
 ) (2026-08-12)
-- [
-Deliver Secure and Reliable OTPs with Twilio Verify and PingOne
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/pingone-custom-server-mfa-verify
-) (2026-08-11)
-- [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-php
-) (2026-08-10)
 
 </details>
 
@@ -569,44 +569,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🤖 AI News</summary>
 
+- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
 - [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
 - [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
 - [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
 - [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
-- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Made an LLM Lay Siege to My Minecraft House](https://towardsdatascience.com/i-made-an-llm-lay-siege-to-my-minecraft-house/) (2026-08-14)
 - [How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs](https://towardsdatascience.com/how-to-utilize-okf-efficiently-to-enable-knowledge-exchange-among-llms/) (2026-08-13)
 - [Cut an Enterprise RAG Pipeline’s Latency and Cost by Calling the LLM Less, Not by Buying a Faster Model](https://towardsdatascience.com/cut-an-enterprise-rag-pipelines-latency-and-cost-by-calling-the-llm-less-not-by-buying-a-faster-model/) (2026-08-13)
 - [How to Orchestrate a Fleet of OpenClaw Bots](https://towardsdatascience.com/how-to-orchestrate-a-fleet-of-openclaw-bots/) (2026-08-13)
 - [LangChain vs LangGraph: 4 Key Differences and When to Use Each](https://towardsdatascience.com/langchain-vs-langgraph-4-key-differences-and-when-to-use-each/) (2026-08-13)
-- [Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From](https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse](https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/) (2026-08-14)
 - [How Baidu Unlimited-OCR Works: Solving Long-Document Transcription](https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/) (2026-08-13)
 - [Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation](https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/) (2026-08-12)
 - [Claude Now Watermarks Everything It Makes](https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/) (2026-08-11)
 - [How to Install Claude Code: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/) (2026-08-10)
-- [Top 5 Claude Skills for Marketing](https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/) (2026-08-09)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun Agentic AI Papers to Read](https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read) (2026-08-14)
 - [Building a Streaming Local AI Agent](https://www.kdnuggets.com/building-a-streaming-local-ai-agent) (2026-08-13)
 - [Constraining Output Space for SLM Narrow Automation Optimization](https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization) (2026-08-13)
 - [Building an End-to-End Data Science Portfolio Project](https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project) (2026-08-12)
 - [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows) (2026-08-12)
-- [The Ultimate Guide to Contributing to Open Source Projects](https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects) (2026-08-11)
 
 </details>
 
