@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic set AI agents loose on the same task. They started a turf war.](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/) (2026-08-13)
-- [OpenAI hires new CRO as executive shake-up continues](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/) (2026-08-13)
-- [Ford on track to complete $2B factory overhaul for Fathom EV truck](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/) (2026-08-13)
-- [X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/) (2026-08-13)
-- [Instagram introduces a redesigned wordmark](https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/) (2026-08-13)
+- [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/) (2026-08-13)
+- [Flock says its new tool will help identify police abuse, but hasn’t explained how it works](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/) (2026-08-13)
+- [If Apple sends you a push notification alerting you to a spyware attack, take it seriously](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/) (2026-08-13)
+- [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/) (2026-08-13)
+- [Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) (2026-08-13)
-- [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot) (2026-08-13)
-- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) (2026-08-13)
-- [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/) (2026-08-13)
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) (2026-08-13)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) (2026-08-14)
+- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) (2026-08-14)
+- [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/) (2026-08-13)
+- [How AI text watermarking works](https://declaude.org/watermarking/) (2026-08-13)
+- [NP-Overrated](https://gruhn.me/blog/2026-08-13/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame) (2026-08-13)
-- [You can now just point at a mess and this robot vacuum will suck it up](https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review) (2026-08-13)
-- [2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer) (2026-08-13)
-- [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant) (2026-08-13)
-- [Meta adds AI screening to detect WhatsApp scams](https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection) (2026-08-13)
+- [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts) (2026-08-14)
+- [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing) (2026-08-13)
+- [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier) (2026-08-13)
+- [The fight over Flock and other ALPRs](https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy) (2026-08-13)
+- [Microsoft’s Clippy-like Mico character is no longer the face of Copilot](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired) (2026-08-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rivian's 2027 changes include its No. 1 most-requested feature](https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/) (2026-08-13)
-- [Anthropic could be worth $2 trillion when it goes public](https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/) (2026-08-13)
-- [We've flown a radiation-blocking vest to the Moon and back, and it worked](https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/) (2026-08-13)
-- [Claude's new Scarlet Letter watermark is invisible—for now](https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/) (2026-08-13)
-- [Toddler's tragic death from brain-destroying amoeba offers lessons for doctors](https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/) (2026-08-12)
+- [US wait times for cancer surgeries are getting longer and longer](https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/) (2026-08-13)
+- [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/) (2026-08-13)
+- [Virgin Galactic wants your help naming its new Delta class spaceship](https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/) (2026-08-13)
+- [Ukrainian drones wipe out entire US tank brigade in live war game](https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/) (2026-08-13)
+- [Flock “can’t tech its way out” of the stalker cop problem, experts say](https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) (2026-08-13)
 - [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) (2026-08-13)
 - [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) (2026-08-13)
 - [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) (2026-08-13)
 - [What’s behind this summer’s heat, and why 2027 could be worse](https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/) (2026-08-13)
-- [How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Your guide to GitHub Universe 2026 is here: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/) (2026-08-13)
 - [What 50 open source projects taught us about security in the AI era](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/) (2026-08-13)
 - [GitHub availability report: July 2026](https://github.blog/news-insights/company-news/github-availability-report-july-2026/) (2026-08-12)
 - [Write your first prompt with the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/) (2026-08-12)
 - [Your contributors are AI-first now. Is your project?](https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/) (2026-08-12)
-- [From coder to orchestrator: How agents shift the role of a developer](https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/) (2026-08-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/aws-builders/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-13j) (2026-08-13)
-- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) (2026-08-13)
-- [To keep the AI from breaking my design, it only writes JSON. I built that out for real, and the JSON turned into code](https://dev.to/mxhlix/to-keep-the-ai-from-breaking-my-design-it-only-writes-json-i-built-that-out-for-real-and-the-318h) (2026-08-13)
-- [I built TraceMotive: a local-first debugger for AI agent execution](https://dev.to/ruca_ai/i-built-tracemotive-a-local-first-debugger-for-ai-agent-execution-2bh1) (2026-08-13)
-- [OpenAI and Cerebras Bring GPT-5.6 Sol Ultrafast to Enterprise Inference](https://dev.to/alifar/openai-and-cerebras-bring-gpt-56-sol-ultrafast-to-enterprise-inference-190p) (2026-08-13)
+- [Your AI did not change the metric. Your business did.](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-did-not-change-the-metric-your-business-did-1o3d) (2026-08-14)
+- [I filled my agent's wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple) (2026-08-14)
+- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0) (2026-08-14)
+- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua & PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb) (2026-08-14)
+- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj) (2026-08-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Finally Understood Why We Invert the Bits and Add 1](https://medium.com/@rhsmfjcmn/i-finally-understood-why-we-invert-the-bits-and-add-1-d5564ae1b199?source=rss------programming-5) (2026-08-13)
-- [Why Is 127.0.0.1 Everywhere? The Story Behind Localhost](https://medium.com/@navedmalik758/why-is-127-0-0-1-everywhere-the-story-behind-localhost-8181e3ebb455?source=rss------programming-5) (2026-08-13)
-- [The JavaScript Concepts That Separate Beginners From Professional Developers](https://medium.com/@TheLazyDev0/the-javascript-concepts-that-separate-beginners-from-professional-developers-9a80ec21fe44?source=rss------programming-5) (2026-08-13)
-- [Snowflake IDs: Guide to Distributed ID Generation For at Least 70 Years](https://blog.stackademic.com/snowflake-ids-guide-to-distributed-id-generation-for-at-least-70-years-e4329495713b?source=rss------programming-5) (2026-08-13)
-- [Why Every Developer Should Understand How the Internet Actually Works](https://medium.com/@TheLazyDev0/why-every-developer-should-understand-how-the-internet-actually-works-6d3a5b0089c2?source=rss------programming-5) (2026-08-13)
+- [[RustGuide] 7.3 Path Pt. 2 — Accessing Parent Modules and Pub on Structs and Enums](https://medium.com/@stanyin64/rustguide-7-3-path-pt-2-accessing-parent-modules-and-pub-on-structs-and-enums-ee90ab404d83?source=rss------programming-5) (2026-08-14)
+- [These 11 Kimi K3 Features Every Developer Should Start Using Today](https://ai.plainenglish.io/these-11-kimi-k3-features-every-developer-should-start-using-today-113aebb5132e?source=rss------programming-5) (2026-08-14)
+- [How I Learned Web Development Without Buying Expensive Courses](https://ai.plainenglish.io/how-i-learned-web-development-without-buying-expensive-courses-5fbef72d84bf?source=rss------programming-5) (2026-08-14)
+- [The Internet’s Best Free AI Tools Are Hiding in Plain Sight](https://ai.plainenglish.io/the-internets-best-free-ai-tools-are-hiding-in-plain-sight-1b05cc00f0bf?source=rss------programming-5) (2026-08-14)
+- [The “AI Dependency” Paradox: Why Senior Engineers Are Getting Faster While Juniors Fall Behind](https://ai.plainenglish.io/the-ai-dependency-paradox-why-senior-engineers-are-getting-faster-while-juniors-fall-behind-682a18e8e198?source=rss------programming-5) (2026-08-14)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 - [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 
 </details>
 
@@ -240,11 +240,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) (2026-08-13)
 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) (2026-07-27)
 - [Content Ingestion & Podcast Video Incident Report ](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) (2026-07-20)
 - [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) (2026-06-10)
 - [Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) (2026-06-03)
-- [Better Experiments with LLM Evals — A funnel, not a fork](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) (2026-05-18)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal](https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/) (2026-08-13)
 - [Certificate Transparency Monitoring is now generally available](https://blog.cloudflare.com/certificate-transparency-monitoring-ga/) (2026-08-13)
 - [Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave](https://blog.cloudflare.com/ddos-threat-report-2026-h1/) (2026-08-11)
 - [Everything we launched during Agents Week](https://blog.cloudflare.com/agents-week-review-august-2026/) (2026-08-10)
 - [Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status](https://blog.cloudflare.com/fedramp-class-d-certification/) (2026-08-10)
-- [Unveiling good and bad behaviors on the Agentic Internet](https://blog.cloudflare.com/good-and-bad-agentic-behaviors/) (2026-08-07)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
+) (2026-08-13)
+- [
+How to verify a user's phone number in your Replit app
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/verify-phone-number-replit
+) (2026-08-12)
+- [
+Twilio Flex: the technology powering human connection 
+](
+https://www.twilio.com/en-us/blog/insights/Flex-powering-human-connection
+) (2026-08-12)
+- [
 Deliver Secure and Reliable OTPs with Twilio Verify and PingOne
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/pingone-custom-server-mfa-verify
 ) (2026-08-11)
 - [
-How to Scale Email Sending Without Sacrificing Deliverability
+How to Build Passwordless Auth Using TOTP With Twilio Verify in PHP
 ](
-https://www.twilio.com/en-us/blog/insights/scale-email-without-sacrificing-deliverability
-) (2026-08-07)
-- [
-Guide to Migrating Your Email Sending Domain
-](
-https://www.twilio.com/en-us/blog/insights/how-to-migrate-email-sending-domain
-) (2026-08-07)
-- [
-The architecture of enterprise trust: Twilio US Branded Calling is now generally available
-](
-https://www.twilio.com/en-us/blog/products/launches/branded-calling-general-availability
-) (2026-08-05)
-- [
-What is Aggregate Performance Reporting Format (APRF)?
-](
-https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedback
-) (2026-08-03)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-php
+) (2026-08-10)
 
 </details>
 
@@ -464,6 +464,17 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
+
+</details>
+
+<details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
+- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
+- [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
+- [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
 
 </details>
 
@@ -552,6 +563,17 @@ https://www.twilio.com/en-us/blog/insights/aggregate-performance-reporting-feedb
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
 - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
 - [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) (2026-08-11)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
+- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
+- [How AI is changing the vulnerability response timeline](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/) (2026-08-11)
+- [Meta Muse Glimmer brings local AI agents to consumer GPUs](https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/) (2026-08-10)
 
 </details>
 
