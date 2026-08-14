@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) (2026-08-14)
 - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) (2026-08-14)
-- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) (2026-08-14)
 - [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/) (2026-08-13)
-- [How AI text watermarking works](https://declaude.org/watermarking/) (2026-08-13)
-- [NP-Overrated](https://gruhn.me/blog/2026-08-13/) (2026-08-13)
+- [NP-overrated](https://gruhn.me/blog/2026-08-13/) (2026-08-13)
+- [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/) (2026-08-13)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Solving integration woes with a hackathon](https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/) (2026-08-14)
 - [Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/) (2026-08-11)
 - [How to be fearlessly AI native](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/) (2026-08-07)
 - [Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/) (2026-08-05)
 - [Your MVP doesn’t need a Kubernetes cluster](https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/) (2026-08-04)
-- [Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth](https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/) (2026-07-31)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your AI did not change the metric. Your business did.](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-did-not-change-the-metric-your-business-did-1o3d) (2026-08-14)
-- [I filled my agent's wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple) (2026-08-14)
-- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0) (2026-08-14)
-- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua & PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb) (2026-08-14)
-- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj) (2026-08-14)
+- [Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0) (2026-08-14)
+- [What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7) (2026-08-14)
+- [Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241) (2026-08-14)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services (AKS) - Series Part 4](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-4-367e) (2026-08-14)
+- [200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data](https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk) (2026-08-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[RustGuide] 7.3 Path Pt. 2 — Accessing Parent Modules and Pub on Structs and Enums](https://medium.com/@stanyin64/rustguide-7-3-path-pt-2-accessing-parent-modules-and-pub-on-structs-and-enums-ee90ab404d83?source=rss------programming-5) (2026-08-14)
-- [These 11 Kimi K3 Features Every Developer Should Start Using Today](https://ai.plainenglish.io/these-11-kimi-k3-features-every-developer-should-start-using-today-113aebb5132e?source=rss------programming-5) (2026-08-14)
-- [How I Learned Web Development Without Buying Expensive Courses](https://ai.plainenglish.io/how-i-learned-web-development-without-buying-expensive-courses-5fbef72d84bf?source=rss------programming-5) (2026-08-14)
-- [The Internet’s Best Free AI Tools Are Hiding in Plain Sight](https://ai.plainenglish.io/the-internets-best-free-ai-tools-are-hiding-in-plain-sight-1b05cc00f0bf?source=rss------programming-5) (2026-08-14)
-- [The “AI Dependency” Paradox: Why Senior Engineers Are Getting Faster While Juniors Fall Behind](https://ai.plainenglish.io/the-ai-dependency-paradox-why-senior-engineers-are-getting-faster-while-juniors-fall-behind-682a18e8e198?source=rss------programming-5) (2026-08-14)
+- [DocumentDB vs Firestore vs MongoDB](https://towardsdev.com/documentdb-vs-firestore-vs-mongodb-1672da978512?source=rss------programming-5) (2026-08-14)
+- [The Real Difference Between Zipping a File and Actually Compressing It in Linux](https://medium.com/my-lifes-mirrow/the-real-difference-between-zipping-a-file-and-actually-compressing-it-in-linux-be3347646921?source=rss------programming-5) (2026-08-14)
+- [Beyond Horizontal Scaling: Mastering Go API Performance from the Inside Out](https://fatoni-ach.medium.com/beyond-horizontal-scaling-mastering-go-api-performance-from-the-inside-out-ea4720e613e8?source=rss------programming-5) (2026-08-14)
+- [Find the Exact Slow Angular Component with Chrome DevTools](https://medium.com/@mrbriantreese/find-the-exact-slow-angular-component-with-chrome-devtools-12987f619fd6?source=rss------programming-5) (2026-08-14)
+- [Firecrawl, Apify, and Browserbase: Three Very Different Answers to “Just Get Me That Web Page”](https://medium.com/@AIbatros/firecrawl-apify-and-browserbase-three-very-different-answers-to-just-get-me-that-web-page-3259e690de07?source=rss------programming-5) (2026-08-14)
 
 </details>
 
