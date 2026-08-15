@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) (2026-08-14)
-- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) (2026-08-14)
-- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) (2026-08-14)
-- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) (2026-08-14)
-- [eigendrum](https://eigendrum.com/#p=circle) (2026-08-14)
+- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant) (2026-08-15)
+- [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059) (2026-08-15)
+- [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) (2026-08-15)
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) (2026-08-15)
+- [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics) (2026-08-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Token Ledger Before You Burn Through a Free Model Tier](https://dev.to/rivera123/build-a-token-ledger-before-you-burn-through-a-free-model-tier-1dk) (2026-08-15)
-- [Learn to Budget a Free Model Tier by Building a Tiny Token Ledger](https://dev.to/magickong/learn-to-budget-a-free-model-tier-by-building-a-tiny-token-ledger-3dde) (2026-08-15)
-- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7) (2026-08-15)
-- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here's What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e) (2026-08-15)
-- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh) (2026-08-15)
+- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh) (2026-08-15)
+- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j) (2026-08-15)
+- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6) (2026-08-15)
+- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66) (2026-08-15)
+- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97) (2026-08-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Career Advice That Got You Hired in 2024 Is Getting People Rejected in 2026.](https://blog.stackademic.com/the-career-advice-that-got-you-hired-in-2024-is-getting-people-rejected-in-2026-1d14663e420f?source=rss------programming-5) (2026-08-15)
-- [9 Coding Habits I Learned From Senior Software Engineers](https://medium.com/@sunil17bbmp/9-coding-habits-i-learned-from-senior-software-engineers-4ff57e1f905a?source=rss------programming-5) (2026-08-15)
-- [Grafana Alloy vs OpenTelemetry Collector: I Moved One Cluster’s Logs for 30 Days — The Bill Changed…](https://blog.stackademic.com/grafana-alloy-vs-opentelemetry-collector-i-moved-one-clusters-logs-for-30-days-the-bill-changed-4a29a34a6105?source=rss------programming-5) (2026-08-15)
-- [I Moved One API From EC2 to Cloud Run. The App Got Simpler. The Network Bill Did Not.](https://blog.stackademic.com/i-moved-one-api-from-ec2-to-cloud-run-the-app-got-simpler-the-network-bill-did-not-e6a9b6d5dcf2?source=rss------programming-5) (2026-08-15)
-- [If It Ain’t Broken, Don’t Fix It](https://medium.com/@adegboladayor/if-it-aint-broken-don-t-fix-it-2ee1b96b4642?source=rss------programming-5) (2026-08-15)
+- [some vs any in Swift & SwiftUI: Deep Dive into Performance, Memory Layout, and Architectural…](https://medium.com/@kost9klinov/some-vs-any-in-swift-swiftui-deep-dive-into-performance-memory-layout-and-architectural-c3f89cd987d3?source=rss------programming-5) (2026-08-15)
+- [EF Core Tracking Is Silently Wasting Your Memory](https://medium.com/@vikpoca/ef-core-tracking-is-silently-wasting-your-memory-236249ef9635?source=rss------programming-5) (2026-08-15)
+- [Who Thought This Was Possible Just Two Years Ago?](https://medium.com/@fahey_james/who-thought-this-was-possible-just-two-years-ago-7d213bb919c3?source=rss------programming-5) (2026-08-15)
+- [Java Backend Journal #03 — Service vs Microservice](https://medium.com/@oguzzh4nn/java-backend-journal-03-service-vs-microservice-7153a79ce248?source=rss------programming-5) (2026-08-15)
+- [Orbital Compute Isn’t Optional Anymore](https://medium.com/@fahey_james/orbital-compute-isnt-optional-anymore-a07a2ae4d5d2?source=rss------programming-5) (2026-08-15)
 
 </details>
 
