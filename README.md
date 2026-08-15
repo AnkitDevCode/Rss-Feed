@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant) (2026-08-15)
-- [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059) (2026-08-15)
+- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) (2026-08-15)
+- [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html) (2026-08-15)
+- [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) (2026-08-15)
+- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) (2026-08-15)
 - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) (2026-08-15)
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) (2026-08-15)
-- [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics) (2026-08-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review) (2026-08-15)
+- [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer) (2026-08-15)
+- [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal) (2026-08-15)
 - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones) (2026-08-14)
 - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school) (2026-08-14)
-- [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance) (2026-08-14)
-- [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu) (2026-08-14)
-- [Google&#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones) (2026-08-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) (2026-08-14)
 - [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) (2026-08-14)
 - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) (2026-08-14)
 - [State judge orders Kalshi to stop offering sports bets and other wagers](https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/) (2026-08-14)
-- [PBS station fears losing 50TB of data after being ghosted by cloud storage provider](https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh) (2026-08-15)
-- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j) (2026-08-15)
-- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6) (2026-08-15)
-- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66) (2026-08-15)
-- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97) (2026-08-15)
+- [Prompt engineering that actually works (and what does not)](https://dev.to/dev-into-space/prompt-engineering-that-actually-works-and-what-does-not-2hg9) (2026-08-15)
+- [Most glassmorphism is blur + a white overlay. I extracted the actual refraction into a Claude Code skill](https://dev.to/stormaref/most-glassmorphism-is-blur-a-white-overlay-i-extracted-the-actual-refraction-into-a-claude-code-19b4) (2026-08-15)
+- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399) (2026-08-15)
+- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40) (2026-08-15)
+- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le) (2026-08-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [some vs any in Swift & SwiftUI: Deep Dive into Performance, Memory Layout, and Architectural…](https://medium.com/@kost9klinov/some-vs-any-in-swift-swiftui-deep-dive-into-performance-memory-layout-and-architectural-c3f89cd987d3?source=rss------programming-5) (2026-08-15)
-- [EF Core Tracking Is Silently Wasting Your Memory](https://medium.com/@vikpoca/ef-core-tracking-is-silently-wasting-your-memory-236249ef9635?source=rss------programming-5) (2026-08-15)
-- [Who Thought This Was Possible Just Two Years Ago?](https://medium.com/@fahey_james/who-thought-this-was-possible-just-two-years-ago-7d213bb919c3?source=rss------programming-5) (2026-08-15)
-- [Java Backend Journal #03 — Service vs Microservice](https://medium.com/@oguzzh4nn/java-backend-journal-03-service-vs-microservice-7153a79ce248?source=rss------programming-5) (2026-08-15)
-- [Orbital Compute Isn’t Optional Anymore](https://medium.com/@fahey_james/orbital-compute-isnt-optional-anymore-a07a2ae4d5d2?source=rss------programming-5) (2026-08-15)
+- [The X Algorithm Is Now Open Source: What I Learned from Reading the Code](https://medium.com/@i.roro.dev/the-x-algorithm-is-now-open-source-what-i-learned-from-reading-the-code-d393ba668062?source=rss------programming-5) (2026-08-15)
+- [AI Can Write My Code. So What Am I Actually Supposed to Learn?](https://medium.com/@adrianw-dev/ai-can-write-my-code-so-what-am-i-actually-supposed-to-learn-6fa73e1b7b69?source=rss------programming-5) (2026-08-15)
+- [Unification Is Not Substitution: The Eternal Spectrum of Engineering Mediums](https://medium.com/@aswinmrajeev/unification-is-not-substitution-the-eternal-spectrum-of-engineering-mediums-0c24db284643?source=rss------programming-5) (2026-08-15)
+- [90% of Developers Don’t Understand How Database Transactions Fail in Real Applications](https://medium.com/skillstuff/90-of-developers-dont-understand-how-database-transactions-fail-in-real-applications-cbb780625348?source=rss------programming-5) (2026-08-15)
+- [I Replaced One Python Library – and My Entire Workflow Got Better](https://medium.com/codetodeploy/i-replaced-one-python-library-and-my-entire-workflow-got-better-0ec9ec050854?source=rss------programming-5) (2026-08-15)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js Interactive 2026: A Recap](https://nodejs.org/en/blog/events/nodejs-interactive-2026) (2026-08-14)
 - [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0) (2026-08-05)
 - [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0) (2026-08-03)
 - [Node.js 24.19.0 (LTS)](https://nodejs.org/en/blog/release/v24.19.0) (2026-08-03)
 - [Node.js 24.18.1 (LTS)](https://nodejs.org/en/blog/release/v24.18.1) (2026-07-29)
-- [Node.js 26.5.1 (Current)](https://nodejs.org/en/blog/release/v26.5.1) (2026-07-29)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Install Codex CLI: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-codex-cli/) (2026-08-15)
 - [NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse](https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/) (2026-08-14)
 - [How Baidu Unlimited-OCR Works: Solving Long-Document Transcription](https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/) (2026-08-13)
 - [Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation](https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/) (2026-08-12)
 - [Claude Now Watermarks Everything It Makes](https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/) (2026-08-11)
-- [How to Install Claude Code: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/) (2026-08-10)
 
 </details>
 
