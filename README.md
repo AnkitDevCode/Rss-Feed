@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/) (2026-08-14)
-- [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/) (2026-08-14)
-- [Does Mark Zuckerberg really believe AI is ‘for everyone’?](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/) (2026-08-14)
-- [Apple proposes to take a 15% cut of purchases made outside the App Store](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/) (2026-08-14)
-- [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/) (2026-08-14)
+- [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/) (2026-08-14)
+- [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/) (2026-08-14)
+- [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/) (2026-08-14)
+- [What we know about the alleged Iranian hacks on US water utilities](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/) (2026-08-14)
+- [Read-it-later app Pocket shut down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/) (2026-08-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700) (2026-08-14)
-- [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform) (2026-08-14)
-- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) (2026-08-14)
-- [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com) (2026-08-14)
-- [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) (2026-08-14)
+- [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) (2026-08-14)
+- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) (2026-08-14)
+- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) (2026-08-14)
+- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) (2026-08-14)
+- [eigendrum](https://eigendrum.com/#p=circle) (2026-08-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones) (2026-08-14)
 - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school) (2026-08-14)
 - [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance) (2026-08-14)
 - [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu) (2026-08-14)
 - [Google&#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones) (2026-08-14)
-- [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [14 Years of Enterprise ASP.NET, Part 4: Azure, Observability & AI in Real Systems](https://dev.to/kirandeepjassalcrypto/14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems-36da) (2026-08-14)
-- [One Workflow, Many Lanes: Completing ByteChef's Flow Controls](https://dev.to/bytechef/one-workflow-many-lanes-completing-bytechefs-flow-controls-4k0f) (2026-08-14)
-- [59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.](https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89) (2026-08-14)
-- [Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47) (2026-08-14)
-- [Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o) (2026-08-14)
+- [Build a Token Ledger Before You Burn Through a Free Model Tier](https://dev.to/rivera123/build-a-token-ledger-before-you-burn-through-a-free-model-tier-1dk) (2026-08-15)
+- [Learn to Budget a Free Model Tier by Building a Tiny Token Ledger](https://dev.to/magickong/learn-to-budget-a-free-model-tier-by-building-a-tiny-token-ledger-3dde) (2026-08-15)
+- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7) (2026-08-15)
+- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here's What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e) (2026-08-15)
+- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh) (2026-08-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Yapay Zekâ Ajanları (AI Agents): Sadece Konuşan Değil, İş Bitiren Kodlar](https://medium.com/@muhammedeminuzm/yapay-zek%C3%A2-ajanlar%C4%B1-ai-agents-sadece-konu%C5%9Fan-de%C4%9Fil-i%CC%87%C5%9F-bitiren-kodlar-c68203e0346b?source=rss------programming-5) (2026-08-14)
-- [9 Python Projects That Teach You Real-World Engineering Skills](https://python.plainenglish.io/9-python-projects-that-teach-you-real-world-engineering-skills-2466397487e7?source=rss------programming-5) (2026-08-14)
-- [Why Are You Coding?](https://medium.com/@Christopher_Finley/why-are-you-coding-93ba1343e6e7?source=rss------programming-5) (2026-08-14)
-- [GlobalLogic Senior Java Developer Interview Experience for Ericsson Client — 45 Minutes of Deep…](https://medium.com/@nitttyn5/globallogic-senior-java-developer-interview-experience-for-ericsson-client-45-minutes-of-deep-ec1887d67eb4?source=rss------programming-5) (2026-08-14)
-- [COBOL’da Matrisel ve Aritmetik İşlemler — Gün #4](https://medium.com/@mevlutkamalii/cobolda-matrisel-ve-aritmetik-i%CC%87%C5%9Flemler-g%C3%BCn-4-94f721b67c5a?source=rss------programming-5) (2026-08-14)
+- [The Career Advice That Got You Hired in 2024 Is Getting People Rejected in 2026.](https://blog.stackademic.com/the-career-advice-that-got-you-hired-in-2024-is-getting-people-rejected-in-2026-1d14663e420f?source=rss------programming-5) (2026-08-15)
+- [9 Coding Habits I Learned From Senior Software Engineers](https://medium.com/@sunil17bbmp/9-coding-habits-i-learned-from-senior-software-engineers-4ff57e1f905a?source=rss------programming-5) (2026-08-15)
+- [Grafana Alloy vs OpenTelemetry Collector: I Moved One Cluster’s Logs for 30 Days — The Bill Changed…](https://blog.stackademic.com/grafana-alloy-vs-opentelemetry-collector-i-moved-one-clusters-logs-for-30-days-the-bill-changed-4a29a34a6105?source=rss------programming-5) (2026-08-15)
+- [I Moved One API From EC2 to Cloud Run. The App Got Simpler. The Network Bill Did Not.](https://blog.stackademic.com/i-moved-one-api-from-ec2-to-cloud-run-the-app-got-simpler-the-network-bill-did-not-e6a9b6d5dcf2?source=rss------programming-5) (2026-08-15)
+- [If It Ain’t Broken, Don’t Fix It](https://medium.com/@adegboladayor/if-it-aint-broken-don-t-fix-it-2ee1b96b4642?source=rss------programming-5) (2026-08-15)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 - [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 - [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
-- [GPT-5.6 now available in Microsoft Foundry ](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/) (2026-07-09)
 
 </details>
 
@@ -383,6 +383,11 @@ Build Persistent Customer Memory with Twilio Agent Connect and Conversation Inte
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
 ) (2026-08-14)
 - [
+How to Build Passwordless Auth Using TOTP With Twilio Verify in .NET
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-dotnet
+) (2026-08-14)
+- [
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 Migrate from Programmable Messaging to Verify
 ](
 https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
-) (2026-08-13)
-- [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-python
 ) (2026-08-13)
 
 </details>
@@ -470,11 +470,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
 - [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
 - [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
 - [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
 - [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
-- [What’s New in Rover: Docker Image, Schema Search, Client Checks, and More](https://www.apollographql.com/blog/whats-new-in-rover-docker-image-schema-search-client-checks-and-more) (2026-07-17)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [6 ways to automate Calendly with Zapier](https://zapier.com/blog/automate-calendly) (2026-08-14)
 - [How does ChatGPT work?](https://zapier.com/blog/how-does-chatgpt-work) (2026-08-14)
 - [The 4 primary roles of AI in automated workflows](https://zapier.com/blog/ai-in-worflow-automation) (2026-08-14)
 - [The 7 best apps to help you focus and block distractions in 2026](https://zapier.com/blog/stay-focused-avoid-distractions) (2026-08-13)
-- [Prevent lock-in with AI model flexibility on Zapier](https://zapier.com/blog/ai-model-flexibility) (2026-08-13)
-- [Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.7 Flash, Opus 5, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-08-13)
+- [Klaviyo vs. Mailchimp: Which email marketing app is best for you? [2026]](https://zapier.com/blog/klaviyo-vs-mailchimp) (2026-08-13)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions) (2026-08-13)
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
 - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
-- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
-- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
-- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
-- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
 
 </details>
 
