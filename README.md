@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) (2026-08-15)
+- [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/) (2026-08-15)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/) (2026-08-15)
 - [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/) (2026-08-14)
 - [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/) (2026-08-14)
-- [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/) (2026-08-14)
-- [What we know about the alleged Iranian hacks on US water utilities](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/) (2026-08-14)
-- [Read-it-later app Pocket shut down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/) (2026-08-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) (2026-08-15)
-- [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html) (2026-08-15)
-- [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) (2026-08-15)
-- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) (2026-08-15)
-- [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) (2026-08-15)
+- [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/) (2026-08-15)
+- [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o) (2026-08-15)
+- [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869) (2026-08-15)
+- [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) (2026-08-15)
+- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) (2026-08-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review) (2026-08-15)
-- [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer) (2026-08-15)
-- [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal) (2026-08-15)
-- [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones) (2026-08-14)
-- [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school) (2026-08-14)
+- [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) (2026-08-15)
+- [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview) (2026-08-15)
+- [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23) (2026-08-15)
+- [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23) (2026-08-15)
+- [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review) (2026-08-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ukraine strikes major Russian rocket factory with cruise missiles](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/) (2026-08-15)
 - [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) (2026-08-14)
 - [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) (2026-08-14)
 - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) (2026-08-14)
-- [State judge orders Kalshi to stop offering sports bets and other wagers](https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Prompt engineering that actually works (and what does not)](https://dev.to/dev-into-space/prompt-engineering-that-actually-works-and-what-does-not-2hg9) (2026-08-15)
-- [Most glassmorphism is blur + a white overlay. I extracted the actual refraction into a Claude Code skill](https://dev.to/stormaref/most-glassmorphism-is-blur-a-white-overlay-i-extracted-the-actual-refraction-into-a-claude-code-19b4) (2026-08-15)
-- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399) (2026-08-15)
-- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40) (2026-08-15)
-- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le) (2026-08-15)
+- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f) (2026-08-15)
+- [🍲 Annapurna's Kitchen — Every tiffin has Home's Flavour (Perfect Landing)](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6) (2026-08-15)
+- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo) (2026-08-15)
+- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7) (2026-08-15)
+- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn) (2026-08-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The X Algorithm Is Now Open Source: What I Learned from Reading the Code](https://medium.com/@i.roro.dev/the-x-algorithm-is-now-open-source-what-i-learned-from-reading-the-code-d393ba668062?source=rss------programming-5) (2026-08-15)
-- [AI Can Write My Code. So What Am I Actually Supposed to Learn?](https://medium.com/@adrianw-dev/ai-can-write-my-code-so-what-am-i-actually-supposed-to-learn-6fa73e1b7b69?source=rss------programming-5) (2026-08-15)
-- [Unification Is Not Substitution: The Eternal Spectrum of Engineering Mediums](https://medium.com/@aswinmrajeev/unification-is-not-substitution-the-eternal-spectrum-of-engineering-mediums-0c24db284643?source=rss------programming-5) (2026-08-15)
-- [90% of Developers Don’t Understand How Database Transactions Fail in Real Applications](https://medium.com/skillstuff/90-of-developers-dont-understand-how-database-transactions-fail-in-real-applications-cbb780625348?source=rss------programming-5) (2026-08-15)
-- [I Replaced One Python Library – and My Entire Workflow Got Better](https://medium.com/codetodeploy/i-replaced-one-python-library-and-my-entire-workflow-got-better-0ec9ec050854?source=rss------programming-5) (2026-08-15)
+- [What Gemini 3.7 Flash Can Teach Beginners About Testing AI-Generated App UI in 2026](https://marcusykim.medium.com/what-gemini-3-7-flash-can-teach-beginners-about-testing-ai-generated-app-ui-in-2026-2c4541b05e9c?source=rss------programming-5) (2026-08-15)
+- [DeepSeek Harness vs Claude Code: A Plugin Architecture Teardown](https://medium.com/@UdaykiranEstari/deepseek-harness-vs-claude-code-a-plugin-architecture-teardown-da3c916f3af1?source=rss------programming-5) (2026-08-15)
+- [Skopeo, Crane, and regctl: Container Image Management Without the Docker Daemon (2026)](https://alexandrev.medium.com/skopeo-crane-and-regctl-container-image-management-without-the-docker-daemon-2026-0ff6ccb7bf85?source=rss------programming-5) (2026-08-15)
+- [Somewhere Between Grades and Life](https://medium.com/@darwinmaxwell05/somewhere-between-grades-and-life-b2342c044433?source=rss------programming-5) (2026-08-15)
+- [Your Groq Model Just Got Deprecated. Here’s What That Actually Means.](https://medium.com/@krishparmar/your-groq-model-just-got-deprecated-heres-what-that-actually-means-e3864f913b74?source=rss------programming-5) (2026-08-15)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming](https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming/) (2026-08-15)
+- [How to Shine as a Data Scientist in the Vibe Coding Era](https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/) (2026-08-15)
 - [A Day in the Life of a Data Scientist in 2026](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/) (2026-08-14)
 - [RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop](https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/) (2026-08-14)
 - [My Model Was Cheating on Its Own Test](https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/) (2026-08-14)
-- [I Made an LLM Lay Siege to My Minecraft House](https://towardsdatascience.com/i-made-an-llm-lay-siege-to-my-minecraft-house/) (2026-08-14)
-- [How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs](https://towardsdatascience.com/how-to-utilize-okf-efficiently-to-enable-knowledge-exchange-among-llms/) (2026-08-13)
 
 </details>
 
