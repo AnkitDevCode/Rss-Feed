@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share) (2026-08-16)
-- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner) (2026-08-15)
-- [Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/) (2026-08-15)
-- [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/) (2026-08-15)
-- [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf) (2026-08-15)
+- [The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217) (2026-08-16)
+- [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html) (2026-08-16)
+- [21,000 MCP servers exposed: the protocol reaches a security inflection point](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/) (2026-08-16)
+- [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012) (2026-08-16)
+- [ProofRun – a local verification receipt for AI coding agents](https://github.com/yebiguo/ProofRun) (2026-08-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale) (2026-08-16)
 - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23) (2026-08-15)
 - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) (2026-08-15)
 - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) (2026-08-15)
 - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview) (2026-08-15)
-- [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23) (2026-08-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2) (2026-08-16)
-- [Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj) (2026-08-16)
-- [Architecting a Low-Power Geofencing Engine for Android Background Services](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0) (2026-08-16)
-- [From CGM Alerts to Automated Grocery Shopping: Building an Autonomous Nutritionist Agent with Browser-use and LangChain](https://dev.to/beck_moulton/from-cgm-alerts-to-automated-grocery-shopping-building-an-autonomous-nutritionist-agent-with-1d6o) (2026-08-16)
-- [When a build breaks, the bug fixes itself](https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm) (2026-08-16)
+- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750) (2026-08-16)
+- [Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)](https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob) (2026-08-16)
+- [My first project](https://dev.to/tjuzo/my-first-project-pl4) (2026-08-16)
+- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek) (2026-08-16)
+- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh) (2026-08-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Python Libraries Every AI Beginner Should Learn](https://medium.com/@sunil17bbmp/5-python-libraries-every-ai-beginner-should-learn-bdc65d1b92d6?source=rss------programming-5) (2026-08-16)
-- [Passive Income from Recon: Real Methods Hackers Use ](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------programming-5) (2026-08-15)
-- [The Smart People in the Room, and the People Who Are Supposed to Watch Them](https://medium.com/@aludanyi/the-smart-people-in-the-room-and-the-people-who-are-supposed-to-watch-them-fd8befc9f4b5?source=rss------programming-5) (2026-08-15)
-- [The Night I Deleted the Production Database and the Senior Dev Made Me Buy Him a Sandwich](https://medium.com/javarevisited/the-night-i-deleted-the-production-database-and-the-senior-dev-made-me-buy-him-a-sandwich-b59d94429707?source=rss------programming-5) (2026-08-15)
-- [The AI Wrote a Perfect Function. My Tech Lead Deleted It in Front of Me and Asked One Question I.](https://medium.com/codeelevation/the-ai-wrote-a-perfect-function-my-tech-lead-deleted-it-in-front-of-me-and-asked-one-question-i-9daf872b4cd4?source=rss------programming-5) (2026-08-15)
+- [Claude’s Invisible Watermark: Is AI-Generated Text About to Become Detectable?](https://medium.com/next-gen-cloud-journal/claudes-invisible-watermark-is-ai-generated-text-about-to-become-detectable-7022422deb40?source=rss------programming-5) (2026-08-16)
+- [Why FlutterError.onError Isn’t Enough for Real Native Crashes](https://mohammadmahd.medium.com/why-fluttererror-onerror-isnt-enough-for-real-native-crashes-5e842eba169d?source=rss------programming-5) (2026-08-16)
+- [# Flying Pig Mount System — Technical Overview](https://medium.com/@vancethompson14/flying-pig-mount-system-technical-overview-07595b758708?source=rss------programming-5) (2026-08-16)
+- [Mac Pro M5 Max + 128 GB of RAM: The Machine I Was Embarrassed to Order](https://nonsmartcity.medium.com/mac-pro-m5-max-128-gb-of-ram-the-machine-i-was-embarrassed-to-order-9782bb55ad08?source=rss------programming-5) (2026-08-16)
+- [AI can’t do 95% of my job (and i’m a software engineer)](https://medium.com/@patrickkoss/ai-cant-do-95-of-my-job-and-i-m-a-software-engineer-1c4976d6055b?source=rss------programming-5) (2026-08-16)
 
 </details>
 
