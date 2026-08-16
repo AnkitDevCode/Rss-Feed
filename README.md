@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217) (2026-08-16)
-- [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html) (2026-08-16)
-- [21,000 MCP servers exposed: the protocol reaches a security inflection point](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/) (2026-08-16)
-- [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012) (2026-08-16)
-- [ProofRun – a local verification receipt for AI coding agents](https://github.com/yebiguo/ProofRun) (2026-08-16)
+- [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer) (2026-08-16)
+- [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes) (2026-08-16)
+- [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/) (2026-08-16)
+- [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html) (2026-08-16)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen) (2026-08-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) (2026-08-16)
 - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale) (2026-08-16)
 - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23) (2026-08-15)
 - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) (2026-08-15)
 - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) (2026-08-15)
-- [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview) (2026-08-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Wildfire smoke now bigger prenatal threat than human sources of air pollution](https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/) (2026-08-16)
 - [VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/) (2026-08-15)
 - [Ukraine strikes major Russian rocket factory with cruise missiles](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/) (2026-08-15)
 - [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) (2026-08-14)
-- [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750) (2026-08-16)
-- [Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)](https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob) (2026-08-16)
-- [My first project](https://dev.to/tjuzo/my-first-project-pl4) (2026-08-16)
-- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek) (2026-08-16)
-- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh) (2026-08-16)
+- [Build a POS receipt printer in Node.js](https://dev.to/sepcy/build-a-pos-receipt-printer-in-nodejs-31li) (2026-08-16)
+- [I stopped letting LLMs guess financial facts](https://dev.to/zjy1346/i-stopped-letting-llms-guess-financial-facts-2ogl) (2026-08-16)
+- [Shipping a vision-model verdict on Bedrock and Lightsail](https://dev.to/aws-builders/shipping-a-vision-model-verdict-on-bedrock-and-lightsail-411) (2026-08-16)
+- [Rebuilding the Cerebras Knowledge Base: Results Appendix (P1–P4)](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-results-appendix-p1-p4-4km8) (2026-08-16)
+- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7) (2026-08-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude’s Invisible Watermark: Is AI-Generated Text About to Become Detectable?](https://medium.com/next-gen-cloud-journal/claudes-invisible-watermark-is-ai-generated-text-about-to-become-detectable-7022422deb40?source=rss------programming-5) (2026-08-16)
-- [Why FlutterError.onError Isn’t Enough for Real Native Crashes](https://mohammadmahd.medium.com/why-fluttererror-onerror-isnt-enough-for-real-native-crashes-5e842eba169d?source=rss------programming-5) (2026-08-16)
-- [# Flying Pig Mount System — Technical Overview](https://medium.com/@vancethompson14/flying-pig-mount-system-technical-overview-07595b758708?source=rss------programming-5) (2026-08-16)
-- [Mac Pro M5 Max + 128 GB of RAM: The Machine I Was Embarrassed to Order](https://nonsmartcity.medium.com/mac-pro-m5-max-128-gb-of-ram-the-machine-i-was-embarrassed-to-order-9782bb55ad08?source=rss------programming-5) (2026-08-16)
-- [AI can’t do 95% of my job (and i’m a software engineer)](https://medium.com/@patrickkoss/ai-cant-do-95-of-my-job-and-i-m-a-software-engineer-1c4976d6055b?source=rss------programming-5) (2026-08-16)
+- [15 Tools That Make Cloud Infrastructure Management Easier](https://cachecowboy.medium.com/15-tools-that-make-cloud-infrastructure-management-easier-66a36c0116d9?source=rss------programming-5) (2026-08-16)
+- [Gün #4 (Devamı: SUBTRACT, MULTIPLY, DIVIDE ve COMPUTE)](https://medium.com/@mevlutkamalii/g%C3%BCn-4-devam%C4%B1-subtract-multiply-divide-ve-compute-ecdef8650e1a?source=rss------programming-5) (2026-08-16)
+- [C# init Keyword: Cleaner Code Without Constructor Boilerplate](https://medium.com/@hafsatariq277/c-init-keyword-cleaner-code-without-constructor-boilerplate-bf1ff03dba7e?source=rss------programming-5) (2026-08-16)
+- [Concurrency vs. Parallelism: You’re Probably Conflating Them](https://medium.com/@neelhuma/concurrency-vs-parallelism-youre-probably-conflating-them-d9e6a37e5dce?source=rss------programming-5) (2026-08-16)
+- [App State in React Native: Foreground, Background & Killed State](https://medium.com/@hunny592003/app-state-in-react-native-foreground-background-killed-state-b6c1b99044a6?source=rss------programming-5) (2026-08-16)
 
 </details>
 
