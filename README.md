@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/) (2026-08-16)
+- [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/) (2026-08-16)
 - [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) (2026-08-15)
 - [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) (2026-08-15)
 - [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) (2026-08-15)
-- [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/) (2026-08-15)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/) (2026-08-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer) (2026-08-16)
-- [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes) (2026-08-16)
-- [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/) (2026-08-16)
-- [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html) (2026-08-16)
-- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen) (2026-08-16)
+- [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm) (2026-08-16)
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) (2026-08-16)
+- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers) (2026-08-16)
+- [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it) (2026-08-16)
+- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) (2026-08-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions) (2026-08-16)
+- [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes) (2026-08-16)
 - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) (2026-08-16)
 - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale) (2026-08-16)
 - [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23) (2026-08-15)
-- [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) (2026-08-15)
-- [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) (2026-08-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a POS receipt printer in Node.js](https://dev.to/sepcy/build-a-pos-receipt-printer-in-nodejs-31li) (2026-08-16)
-- [I stopped letting LLMs guess financial facts](https://dev.to/zjy1346/i-stopped-letting-llms-guess-financial-facts-2ogl) (2026-08-16)
-- [Shipping a vision-model verdict on Bedrock and Lightsail](https://dev.to/aws-builders/shipping-a-vision-model-verdict-on-bedrock-and-lightsail-411) (2026-08-16)
-- [Rebuilding the Cerebras Knowledge Base: Results Appendix (P1–P4)](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-results-appendix-p1-p4-4km8) (2026-08-16)
-- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7) (2026-08-16)
+- [The Vacuum Approaches — you are the dog](https://dev.to/namingthingsishard/the-vacuum-approaches-you-are-the-dog-4bf1) (2026-08-16)
+- [Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g) (2026-08-16)
+- [PawArt | Letting a Dog Help Create Its Own Portrait](https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3) (2026-08-16)
+- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57) (2026-08-16)
+- [Don't Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc) (2026-08-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [15 Tools That Make Cloud Infrastructure Management Easier](https://cachecowboy.medium.com/15-tools-that-make-cloud-infrastructure-management-easier-66a36c0116d9?source=rss------programming-5) (2026-08-16)
-- [Gün #4 (Devamı: SUBTRACT, MULTIPLY, DIVIDE ve COMPUTE)](https://medium.com/@mevlutkamalii/g%C3%BCn-4-devam%C4%B1-subtract-multiply-divide-ve-compute-ecdef8650e1a?source=rss------programming-5) (2026-08-16)
-- [C# init Keyword: Cleaner Code Without Constructor Boilerplate](https://medium.com/@hafsatariq277/c-init-keyword-cleaner-code-without-constructor-boilerplate-bf1ff03dba7e?source=rss------programming-5) (2026-08-16)
-- [Concurrency vs. Parallelism: You’re Probably Conflating Them](https://medium.com/@neelhuma/concurrency-vs-parallelism-youre-probably-conflating-them-d9e6a37e5dce?source=rss------programming-5) (2026-08-16)
-- [App State in React Native: Foreground, Background & Killed State](https://medium.com/@hunny592003/app-state-in-react-native-foreground-background-killed-state-b6c1b99044a6?source=rss------programming-5) (2026-08-16)
+- [38% of Candidates Are Cheating With AI in Interviews Right Now.](https://blog.stackademic.com/38-of-candidates-are-cheating-with-ai-in-interviews-right-now-009969fb72ff?source=rss------programming-5) (2026-08-16)
+- [Nobody’s Tech Stack Saved Them in 2026. Here’s What Actually Did.](https://blog.stackademic.com/nobodys-tech-stack-saved-them-in-2026-here-s-what-actually-did-6df4c3a1fe9c?source=rss------programming-5) (2026-08-16)
+- [10 Popular Database Practices That Do More Harm Than Good](https://medium.com/@vndpal/10-popular-database-practices-that-do-more-harm-than-good-9e3372f90a25?source=rss------programming-5) (2026-08-16)
+- [Credit Risk Assessment: A Comparative Analysis of Decision Trees and Random Forest](https://medium.com/@aydasezgi/credit-risk-assessment-a-comparative-analysis-of-decision-trees-and-random-forest-9d96444b09f6?source=rss------programming-5) (2026-08-16)
+- [AI Strategist: Role, Skills, Responsibilities & Career Guide 2026](https://medium.com/@khayyamshah2007/ai-strategist-role-skills-responsibilities-career-guide-2026-08f4882050a4?source=rss------programming-5) (2026-08-16)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Designing a Persistent Knowledge Layer That Refuses to Guess](https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/) (2026-08-16)
+- [Running SQL Concurrently Across Three Remote DuckDB Servers with Quack](https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/) (2026-08-16)
 - [Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming](https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming/) (2026-08-15)
 - [How to Shine as a Data Scientist in the Vibe Coding Era](https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/) (2026-08-15)
 - [A Day in the Life of a Data Scientist in 2026](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/) (2026-08-14)
-- [RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop](https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/) (2026-08-14)
-- [My Model Was Cheating on Its Own Test](https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/) (2026-08-14)
 
 </details>
 
