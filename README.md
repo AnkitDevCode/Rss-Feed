@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) (2026-08-15)
+- [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) (2026-08-15)
 - [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) (2026-08-15)
 - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/) (2026-08-15)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/) (2026-08-15)
-- [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/) (2026-08-14)
-- [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/) (2026-08-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/) (2026-08-15)
-- [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o) (2026-08-15)
-- [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869) (2026-08-15)
-- [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) (2026-08-15)
-- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) (2026-08-15)
+- [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share) (2026-08-16)
+- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner) (2026-08-15)
+- [Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/) (2026-08-15)
+- [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/) (2026-08-15)
+- [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf) (2026-08-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23) (2026-08-15)
+- [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) (2026-08-15)
 - [Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review) (2026-08-15)
 - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview) (2026-08-15)
 - [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23) (2026-08-15)
-- [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23) (2026-08-15)
-- [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review) (2026-08-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/) (2026-08-15)
 - [Ukraine strikes major Russian rocket factory with cruise missiles](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/) (2026-08-15)
 - [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) (2026-08-14)
 - [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) (2026-08-14)
-- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f) (2026-08-15)
-- [🍲 Annapurna's Kitchen — Every tiffin has Home's Flavour (Perfect Landing)](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6) (2026-08-15)
-- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo) (2026-08-15)
-- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7) (2026-08-15)
-- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn) (2026-08-15)
+- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2) (2026-08-16)
+- [Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj) (2026-08-16)
+- [Architecting a Low-Power Geofencing Engine for Android Background Services](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0) (2026-08-16)
+- [From CGM Alerts to Automated Grocery Shopping: Building an Autonomous Nutritionist Agent with Browser-use and LangChain](https://dev.to/beck_moulton/from-cgm-alerts-to-automated-grocery-shopping-building-an-autonomous-nutritionist-agent-with-1d6o) (2026-08-16)
+- [When a build breaks, the bug fixes itself](https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm) (2026-08-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Gemini 3.7 Flash Can Teach Beginners About Testing AI-Generated App UI in 2026](https://marcusykim.medium.com/what-gemini-3-7-flash-can-teach-beginners-about-testing-ai-generated-app-ui-in-2026-2c4541b05e9c?source=rss------programming-5) (2026-08-15)
-- [DeepSeek Harness vs Claude Code: A Plugin Architecture Teardown](https://medium.com/@UdaykiranEstari/deepseek-harness-vs-claude-code-a-plugin-architecture-teardown-da3c916f3af1?source=rss------programming-5) (2026-08-15)
-- [Skopeo, Crane, and regctl: Container Image Management Without the Docker Daemon (2026)](https://alexandrev.medium.com/skopeo-crane-and-regctl-container-image-management-without-the-docker-daemon-2026-0ff6ccb7bf85?source=rss------programming-5) (2026-08-15)
-- [Somewhere Between Grades and Life](https://medium.com/@darwinmaxwell05/somewhere-between-grades-and-life-b2342c044433?source=rss------programming-5) (2026-08-15)
-- [Your Groq Model Just Got Deprecated. Here’s What That Actually Means.](https://medium.com/@krishparmar/your-groq-model-just-got-deprecated-heres-what-that-actually-means-e3864f913b74?source=rss------programming-5) (2026-08-15)
+- [5 Python Libraries Every AI Beginner Should Learn](https://medium.com/@sunil17bbmp/5-python-libraries-every-ai-beginner-should-learn-bdc65d1b92d6?source=rss------programming-5) (2026-08-16)
+- [Passive Income from Recon: Real Methods Hackers Use ](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------programming-5) (2026-08-15)
+- [The Smart People in the Room, and the People Who Are Supposed to Watch Them](https://medium.com/@aludanyi/the-smart-people-in-the-room-and-the-people-who-are-supposed-to-watch-them-fd8befc9f4b5?source=rss------programming-5) (2026-08-15)
+- [The Night I Deleted the Production Database and the Senior Dev Made Me Buy Him a Sandwich](https://medium.com/javarevisited/the-night-i-deleted-the-production-database-and-the-senior-dev-made-me-buy-him-a-sandwich-b59d94429707?source=rss------programming-5) (2026-08-15)
+- [The AI Wrote a Perfect Function. My Tech Lead Deleted It in Front of Me and Asked One Question I.](https://medium.com/codeelevation/the-ai-wrote-a-perfect-function-my-tech-lead-deleted-it-in-front-of-me-and-asked-one-question-i-9daf872b4cd4?source=rss------programming-5) (2026-08-15)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 - [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions) (2026-08-13)
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
 - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
+- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
+- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
+- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
 
 </details>
 
