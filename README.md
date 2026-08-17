@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) (2026-08-17)
-- [Webmaster a Manifesto for Everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/) (2026-08-17)
-- [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) (2026-08-16)
-- [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/) (2026-08-16)
-- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper) (2026-08-16)
+- [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) (2026-08-17)
+- [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5) (2026-08-17)
+- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) (2026-08-17)
+- [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly) (2026-08-17)
+- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html) (2026-08-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj) (2026-08-17)
-- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09) (2026-08-17)
-- [🐾 PawSafe: An AI-Powered Food Safety Checker for Dogs](https://dev.to/paul_emmanuel/pawsafe-an-ai-powered-food-safety-checker-for-dogs-53o8) (2026-08-17)
-- [Stop Guessing Calories: Build a Multimodal Food Estimation Pipeline with GPT-4o & SAM](https://dev.to/beck_moulton/stop-guessing-calories-build-a-multimodal-food-estimation-pipeline-with-gpt-4o-sam-1ohb) (2026-08-17)
-- [I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here's the stack.](https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf) (2026-08-17)
+- [The 7 AI Repositories I Starred This Month](https://dev.to/jaideepparashar/the-7-ai-repositories-i-starred-this-month-4gd7) (2026-08-17)
+- [Dog Whisperer](https://dev.to/jatin_rawat_80f388e400d36/dog-whisperer-32nf) (2026-08-17)
+- [Warm Hearth — A Landing Page Built Around One Fire](https://dev.to/mohitsaini2829/warm-hearth-a-landing-page-built-around-one-fire-3ic4) (2026-08-17)
+- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28) (2026-08-17)
+- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8) (2026-08-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Life is always full of surprises.](https://medium.com/@monikasuriatijeni/life-is-always-full-of-surprises-18aea08bccfa?source=rss------programming-5) (2026-08-17)
-- [The Things We Track Are Not the Things That Matter](https://medium.com/@aludanyi/the-things-we-track-are-not-the-things-that-matter-8bead185676e?source=rss------programming-5) (2026-08-17)
-- [What Is the static Keyword in Java? Uses and Examples Explained](https://medium.com/@sunil17bbmp/what-is-the-static-keyword-in-java-uses-and-examples-explained-d68ab3ad3589?source=rss------programming-5) (2026-08-17)
-- [flash Usdt & Bitcoin](https://medium.com/@flashbtc555/flash-usdt-bitcoin-878071e9c78b?source=rss------programming-5) (2026-08-17)
-- [Como Parar de Surtar Com Tanta Tecnologia Nova](https://medium.com/@viniciuskr/como-parar-de-surtar-com-tanta-tecnologia-nova-76d11a713c3c?source=rss------programming-5) (2026-08-17)
+- [Claude Agent SDK: Building Real AI Agents with Claude Code’s Agentic Runtime](https://medium.com/algomart/claude-agent-sdk-building-real-ai-agents-with-claude-codes-agentic-runtime-3d28fc8ae105?source=rss------programming-5) (2026-08-17)
+- [IntelliJ MCP Plugin: I Gave My AI Agent a CRUD Generator](https://medium.com/@giuseppetrisciuoglio/intellij-mcp-crud-generator-7c0c92e5ec8c?source=rss------programming-5) (2026-08-17)
+- [I Replaced 300 Lines of Python With One Library](https://python.plainenglish.io/i-replaced-300-lines-of-python-with-one-library-9790379dbfb5?source=rss------programming-5) (2026-08-17)
+- [We Broke the Pipeline: Why AI Isn’t Killing Juniors — It’s Killing the Future of Seniors](https://medium.com/codetodeploy/we-broke-the-pipeline-why-ai-isnt-killing-juniors-it-s-killing-the-future-of-seniors-1145d22036d2?source=rss------programming-5) (2026-08-17)
+- [8 AI Coding Shortcuts That Quietly Create Technical Debt](https://medium.com/skillstuff/8-ai-coding-shortcuts-that-quietly-create-technical-debt-12f5032dd0b8?source=rss------programming-5) (2026-08-17)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 - [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions) (2026-08-13)
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
 - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
-- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
-- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
-- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
-- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
 
 </details>
 
