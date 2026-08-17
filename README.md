@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) (2026-08-17)
-- [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5) (2026-08-17)
-- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) (2026-08-17)
-- [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly) (2026-08-17)
-- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html) (2026-08-17)
+- [People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e) (2026-08-17)
+- [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/) (2026-08-17)
+- [The Marxist Case for the Technofeudal Hypothesis](https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism) (2026-08-17)
+- [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com) (2026-08-17)
+- [Linear algebra done right](https://linear.axler.net/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How to take better photos of your pets](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos) (2026-08-17)
+- [Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review) (2026-08-17)
+- [Anthropic explains how Claude&#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) (2026-08-17)
+- [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review) (2026-08-17)
 - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team) (2026-08-16)
-- [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review) (2026-08-16)
-- [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions) (2026-08-16)
-- [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes) (2026-08-16)
-- [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) (2026-08-16)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) (2026-08-17)
+- [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) (2026-08-17)
+- [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) (2026-08-17)
 - [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) (2026-08-14)
 - [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) (2026-08-14)
-- [Job titles of the future: Space travel agent](https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/) (2026-08-14)
-- [Cloning could be used to save species—or make human “organ sacks”](https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/) (2026-08-14)
-- [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) (2026-08-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The 7 AI Repositories I Starred This Month](https://dev.to/jaideepparashar/the-7-ai-repositories-i-starred-this-month-4gd7) (2026-08-17)
-- [Dog Whisperer](https://dev.to/jatin_rawat_80f388e400d36/dog-whisperer-32nf) (2026-08-17)
-- [Warm Hearth — A Landing Page Built Around One Fire](https://dev.to/mohitsaini2829/warm-hearth-a-landing-page-built-around-one-fire-3ic4) (2026-08-17)
-- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28) (2026-08-17)
-- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8) (2026-08-17)
+- [Webtabellen Converteren naar SQL INSERT-Statements](https://dev.to/circobit/webtabellen-converteren-naar-sql-insert-statements-9lk) (2026-08-17)
+- [Two Ways to Write an Article in 2026 (And Why the Best Ones Use Both)](https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb) (2026-08-17)
+- [What Is an MCP Eval? Why Your Server Passes Every Test and Still Fails](https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-eval-why-your-server-passes-every-test-and-still-fails-41gf) (2026-08-17)
+- ["def,drop,obs,abs-The Words That Broke Me First"](https://dev.to/sanchisharma/defdropobsabs-the-words-that-broke-me-first-398i) (2026-08-17)
+- [A Claude Code skill fixed my app's UI — here's what broke and how to use it yourself](https://dev.to/tony_stark_h/a-claude-code-skill-fixed-my-apps-ui-heres-what-broke-and-how-to-use-it-yourself-1k0g) (2026-08-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Agent SDK: Building Real AI Agents with Claude Code’s Agentic Runtime](https://medium.com/algomart/claude-agent-sdk-building-real-ai-agents-with-claude-codes-agentic-runtime-3d28fc8ae105?source=rss------programming-5) (2026-08-17)
-- [IntelliJ MCP Plugin: I Gave My AI Agent a CRUD Generator](https://medium.com/@giuseppetrisciuoglio/intellij-mcp-crud-generator-7c0c92e5ec8c?source=rss------programming-5) (2026-08-17)
-- [I Replaced 300 Lines of Python With One Library](https://python.plainenglish.io/i-replaced-300-lines-of-python-with-one-library-9790379dbfb5?source=rss------programming-5) (2026-08-17)
-- [We Broke the Pipeline: Why AI Isn’t Killing Juniors — It’s Killing the Future of Seniors](https://medium.com/codetodeploy/we-broke-the-pipeline-why-ai-isnt-killing-juniors-it-s-killing-the-future-of-seniors-1145d22036d2?source=rss------programming-5) (2026-08-17)
-- [8 AI Coding Shortcuts That Quietly Create Technical Debt](https://medium.com/skillstuff/8-ai-coding-shortcuts-that-quietly-create-technical-debt-12f5032dd0b8?source=rss------programming-5) (2026-08-17)
+- [From a 6-Inch Screen in Damascus to Y Combinator: This Is My Story](https://ayman-al-araishi.medium.com/from-a-6-inch-screen-in-damascus-to-y-combinator-this-is-my-story-6e640e56e902?source=rss------programming-5) (2026-08-17)
+- [I Built 3 Chrome Extensions in 1 Month — Here’s What Happened](https://medium.com/@egor.besarab/i-built-3-chrome-extensions-in-1-month-heres-what-happened-98bab01f4af3?source=rss------programming-5) (2026-08-17)
+- [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss------programming-5) (2026-08-17)
+- [5 Kotlin optimizations senior engineers never skip](https://trricho.medium.com/5-kotlin-optimizations-senior-engineers-never-skip-5d30927265a0?source=rss------programming-5) (2026-08-17)
+- [I taught my CPU to sing — in pure Assembly](https://medium.com/@whispem/i-taught-my-cpu-to-sing-in-pure-assembly-47a1a46761ef?source=rss------programming-5) (2026-08-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Junie’s New Default Runs on Gemini 3.7 Flash, at 40% Off Base Pricing ](https://blog.jetbrains.com/junie/2026/08/junie-gemini-3-7-flash/) (2026-08-17)
 - [Exploring Compose HTML for Server Side Rendering](https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/) (2026-08-14)
 - [Hybrid and Local AI course at DeepLearning.AI](https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/) (2026-08-13)
 - [Qodana Lints Your Code. What’s Checking Your DevOps and Platform Engineering Stack?](https://blog.jetbrains.com/qodana/2026/08/qodana-for-devops/) (2026-08-13)
 - [When Escape Routes Become Toll Roads: Mapping How Developers Move Between Programming Languages](https://blog.jetbrains.com/research/2026/08/programming-language-migration/) (2026-08-12)
-- [How to Use AI Agents in IntelliJ IDEA With ACP](https://blog.jetbrains.com/idea/2026/08/how-to-use-ai-agents-in-intellij-idea-with-acp/) (2026-08-12)
 
 </details>
 
@@ -567,13 +567,24 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
+- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
+- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
+- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
+- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline](https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/) (2026-08-17)
 - [Designing a Persistent Knowledge Layer That Refuses to Guess](https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/) (2026-08-16)
 - [Running SQL Concurrently Across Three Remote DuckDB Servers with Quack](https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/) (2026-08-16)
 - [Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming](https://towardsdatascience.com/mathematical-experiments-are-becoming-abundant-through-human-machine-teaming/) (2026-08-15)
 - [How to Shine as a Data Scientist in the Vibe Coding Era](https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/) (2026-08-15)
-- [A Day in the Life of a Data Scientist in 2026](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/) (2026-08-14)
 
 </details>
 
@@ -591,11 +602,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Python Libraries That Make Data Cleaning More Enjoyable](https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable) (2026-08-17)
 - [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python) (2026-08-14)
 - [5 Fun Agentic AI Papers to Read](https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read) (2026-08-14)
 - [Building a Streaming Local AI Agent](https://www.kdnuggets.com/building-a-streaming-local-ai-agent) (2026-08-13)
 - [Constraining Output Space for SLM Narrow Automation Optimization](https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization) (2026-08-13)
-- [Building an End-to-End Data Science Portfolio Project](https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project) (2026-08-12)
 
 </details>
 
