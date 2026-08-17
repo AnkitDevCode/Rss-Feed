@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) (2026-08-16)
+- [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/) (2026-08-16)
 - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/) (2026-08-16)
 - [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/) (2026-08-16)
 - [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) (2026-08-15)
-- [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) (2026-08-15)
-- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) (2026-08-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm) (2026-08-16)
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) (2026-08-16)
-- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers) (2026-08-16)
-- [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it) (2026-08-16)
-- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) (2026-08-16)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) (2026-08-17)
+- [Webmaster a Manifesto for Everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/) (2026-08-17)
+- [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) (2026-08-16)
+- [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/) (2026-08-16)
+- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper) (2026-08-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team) (2026-08-16)
+- [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review) (2026-08-16)
 - [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions) (2026-08-16)
 - [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes) (2026-08-16)
 - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) (2026-08-16)
-- [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale) (2026-08-16)
-- [Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23) (2026-08-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Vacuum Approaches — you are the dog](https://dev.to/namingthingsishard/the-vacuum-approaches-you-are-the-dog-4bf1) (2026-08-16)
-- [Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g) (2026-08-16)
-- [PawArt | Letting a Dog Help Create Its Own Portrait](https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3) (2026-08-16)
-- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57) (2026-08-16)
-- [Don't Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc) (2026-08-16)
+- [When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj) (2026-08-17)
+- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09) (2026-08-17)
+- [🐾 PawSafe: An AI-Powered Food Safety Checker for Dogs](https://dev.to/paul_emmanuel/pawsafe-an-ai-powered-food-safety-checker-for-dogs-53o8) (2026-08-17)
+- [Stop Guessing Calories: Build a Multimodal Food Estimation Pipeline with GPT-4o & SAM](https://dev.to/beck_moulton/stop-guessing-calories-build-a-multimodal-food-estimation-pipeline-with-gpt-4o-sam-1ohb) (2026-08-17)
+- [I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here's the stack.](https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf) (2026-08-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [38% of Candidates Are Cheating With AI in Interviews Right Now.](https://blog.stackademic.com/38-of-candidates-are-cheating-with-ai-in-interviews-right-now-009969fb72ff?source=rss------programming-5) (2026-08-16)
-- [Nobody’s Tech Stack Saved Them in 2026. Here’s What Actually Did.](https://blog.stackademic.com/nobodys-tech-stack-saved-them-in-2026-here-s-what-actually-did-6df4c3a1fe9c?source=rss------programming-5) (2026-08-16)
-- [10 Popular Database Practices That Do More Harm Than Good](https://medium.com/@vndpal/10-popular-database-practices-that-do-more-harm-than-good-9e3372f90a25?source=rss------programming-5) (2026-08-16)
-- [Credit Risk Assessment: A Comparative Analysis of Decision Trees and Random Forest](https://medium.com/@aydasezgi/credit-risk-assessment-a-comparative-analysis-of-decision-trees-and-random-forest-9d96444b09f6?source=rss------programming-5) (2026-08-16)
-- [AI Strategist: Role, Skills, Responsibilities & Career Guide 2026](https://medium.com/@khayyamshah2007/ai-strategist-role-skills-responsibilities-career-guide-2026-08f4882050a4?source=rss------programming-5) (2026-08-16)
+- [Life is always full of surprises.](https://medium.com/@monikasuriatijeni/life-is-always-full-of-surprises-18aea08bccfa?source=rss------programming-5) (2026-08-17)
+- [The Things We Track Are Not the Things That Matter](https://medium.com/@aludanyi/the-things-we-track-are-not-the-things-that-matter-8bead185676e?source=rss------programming-5) (2026-08-17)
+- [What Is the static Keyword in Java? Uses and Examples Explained](https://medium.com/@sunil17bbmp/what-is-the-static-keyword-in-java-uses-and-examples-explained-d68ab3ad3589?source=rss------programming-5) (2026-08-17)
+- [flash Usdt & Bitcoin](https://medium.com/@flashbtc555/flash-usdt-bitcoin-878071e9c78b?source=rss------programming-5) (2026-08-17)
+- [Como Parar de Surtar Com Tanta Tecnologia Nova](https://medium.com/@viniciuskr/como-parar-de-surtar-com-tanta-tecnologia-nova-76d11a713c3c?source=rss------programming-5) (2026-08-17)
 
 </details>
 
