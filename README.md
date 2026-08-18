@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/) (2026-08-18)
+- [Fairphone is launching its latest repairable phone in the US too](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/) (2026-08-18)
+- [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/) (2026-08-18)
+- [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/) (2026-08-18)
 - [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) (2026-08-17)
-- [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/) (2026-08-17)
-- [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/) (2026-08-17)
-- [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) (2026-08-17)
-- [Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) (2026-08-18)
-- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/) (2026-08-17)
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) (2026-08-17)
-- [scScript for Linux](https://scapplications.com/) (2026-08-17)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) (2026-08-17)
+- [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/) (2026-08-18)
+- [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) (2026-08-18)
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) (2026-08-18)
+- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) (2026-08-18)
+- [Finger: Social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/) (2026-08-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts) (2026-08-17)
-- [ABC&#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show) (2026-08-17)
-- [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale) (2026-08-17)
-- [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game) (2026-08-17)
-- [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update) (2026-08-17)
+- [Google&#8217;s Pet Memory forgot who my cats are](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review) (2026-08-18)
+- [The Verge Guide to Pets](https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale) (2026-08-18)
+- [My parrot ate my keyboard](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect) (2026-08-18)
+- [Oops! My cat is an iPad kid](https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube) (2026-08-18)
+- [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech) (2026-08-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [As temperatures get hotter, pesticides are more dangerous to farmworkers](https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/) (2026-08-18)
 - [Theban tomb reveals how Egyptian burial trends evolved in time](https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/) (2026-08-18)
 - [US vaccination rates fall again as exemptions continue to rise, CDC data shows](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/) (2026-08-17)
 - [Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/) (2026-08-17)
 - [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/) (2026-08-17)
-- [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) (2026-08-18)
+- [The role of the astronaut is in flux](https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/) (2026-08-18)
+- [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) (2026-08-18)
 - [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) (2026-08-17)
 - [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) (2026-08-17)
-- [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) (2026-08-17)
-- [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) (2026-08-17)
-- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487) (2026-08-18)
-- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35) (2026-08-18)
-- [[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux](https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5) (2026-08-18)
-- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk) (2026-08-18)
-- [The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6) (2026-08-18)
+- [Your verifier is probably lying to you about floats](https://dev.to/gowrishankar-dev/your-verifier-is-probably-lying-to-you-about-floats-3m0d) (2026-08-18)
+- [Community, Open Source and Rugby Culture - Lessons for Engineering Teams](https://dev.to/opango_timmy14/community-open-source-and-rugby-culture-lessons-for-engineering-teams-5313) (2026-08-18)
+- [What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89) (2026-08-18)
+- [MAI-Thinking-1 Is Now in Foundry — Here's What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9) (2026-08-18)
+- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2) (2026-08-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 SQL Mistakes That Look Harmless Until the Dataset Becomes Large](https://medium.com/skillstuff/8-sql-mistakes-that-look-harmless-until-the-dataset-becomes-large-d90e2003e0a3?source=rss------programming-5) (2026-08-18)
-- [Did you know how to move my 5,000 USDT from trust wallet to bybit?](https://medium.com/@mmqjmbbxxf/did-you-know-how-to-move-my-5-000-usdt-from-trust-wallet-to-bybit-bf132200ac73?source=rss------programming-5) (2026-08-18)
-- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://medium.com/@jsmanifest/typescript-6-0-strict-function-types-why-contravariance-breaks-your-existing-callbacks-57b526fd8319?source=rss------programming-5) (2026-08-18)
-- [Go’s Generics, Four Years Later](https://medium.com/codetodeploy/gos-generics-four-years-later-39030f9f336a?source=rss------programming-5) (2026-08-18)
-- [Understanding Kafka Partitions and Offsets](https://medium.com/@ronomahedi/understanding-kafka-partitions-and-offsets-7369098b7d0a?source=rss------programming-5) (2026-08-18)
+- [12 API Development Tools Every Backend Engineer Should Know](https://cachecowboy.medium.com/12-api-development-tools-every-backend-engineer-should-know-5cb77fd6870a?source=rss------programming-5) (2026-08-18)
+- [I Built My Own Honeytoken Canary System (and CloudTrail Fought Me Every Step)](https://medium.com/@dblanko.security/i-built-my-own-honeytoken-canary-system-and-cloudtrail-fought-me-every-step-e5e18a8a6ee0?source=rss------programming-5) (2026-08-18)
+- [The Complete DSA Roadmap: From Beginner to Interview-Ready](https://medium.com/@sauravsaraswat10/the-complete-dsa-roadmap-from-beginner-to-interview-ready-1dc8f95a457a?source=rss------programming-5) (2026-08-18)
+- [What Computer Science Degrees Still Do Not Teach You](https://medium.com/@pyrexsolutions/what-computer-science-degrees-still-do-not-teach-you-0ffd23c34177?source=rss------programming-5) (2026-08-18)
+- [ CUPOM DE VENDEDOR RESERVA 2026: RSV548](https://medium.com/@hollanda_pereira2/cupom-de-vendedor-reserva-2026-rsv548-ca43d96df6ac?source=rss------programming-5) (2026-08-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Qodana Expands Security Analysis with OpenGrep Rules, and More](https://blog.jetbrains.com/qodana/2026/08/opengrep-inspections/) (2026-08-18)
 - [What Your First Months at JetBrains Look Like?](https://blog.jetbrains.com/life-at-jetbrains/2026/08/new-employee-onboarding/) (2026-08-17)
 - [Klibs.io Grows to 4,200+ KMP Projects With Smarter Discovery and New AI Integrations](https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/) (2026-08-17)
 - [Junie’s New Default Runs on Gemini 3.7 Flash, at 40% Off Base Pricing ](https://blog.jetbrains.com/junie/2026/08/junie-gemini-3-7-flash/) (2026-08-17)
 - [Exploring Compose HTML for Server Side Rendering](https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/) (2026-08-14)
-- [Hybrid and Local AI course at DeepLearning.AI](https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/) (2026-08-13)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Sign JWTs from your Functions without managing private keys](https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys) (2026-08-18)
 - [Deploy Cursor Origin repositories with Vercel in public beta](https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta) (2026-08-17)
 - [GPT-5.6 Sol is 50% off on AI Gateway for the next month](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month) (2026-08-17)
 - [Encrypted Client Hello (ECH) is now supported on Vercel CDN](https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn) (2026-08-14)
 - [Inside the Vercel intern experience](https://vercel.com/blog/inside-the-vercel-intern-experience) (2026-08-13)
-- [GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway](https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway) (2026-08-13)
 
 </details>
 
@@ -378,11 +378,6 @@ How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs
 ) (2026-08-17)
 - [
-Build a Phone Number Intelligence Tool with Twilio Lookup on Replit
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/phone-number-intelligence-tool-lookup-replit
-) (2026-08-17)
-- [
 Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
@@ -396,6 +391,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
+) (2026-08-13)
+- [
+Migrate from Programmable Messaging to Verify
+](
+https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 ) (2026-08-13)
 
 </details>
@@ -567,35 +567,46 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Alvys launches AI agents for freight TMS workflows](https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/) (2026-08-18)
+- [Reading Zhipu’s GLM-5.3 results past the headline number](https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/) (2026-08-18)
+- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
+- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
+- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Ten Is Not a Hundred](https://towardsdatascience.com/ten-is-not-a-hundred/) (2026-08-18)
 - [Webwright: Why AI Web Agents Should Write Code, Not Click](https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/) (2026-08-17)
 - [Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them](https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/) (2026-08-17)
 - [How to Perform Effective Project Management with AI](https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/) (2026-08-17)
 - [Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline](https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/) (2026-08-17)
-- [Designing a Persistent Knowledge Layer That Refuses to Guess](https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/) (2026-08-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
 - [7 Kimi K3 Features That Make Every Other Model Feel Outdated](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/) (2026-08-17)
 - [How to Install Codex CLI: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-codex-cli/) (2026-08-15)
 - [NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse](https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/) (2026-08-14)
 - [How Baidu Unlimited-OCR Works: Solving Long-Document Transcription](https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/) (2026-08-13)
-- [Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation](https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/) (2026-08-12)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong](https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong) (2026-08-18)
 - [What Can I Actually Do with a Small Language Model?](https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model) (2026-08-17)
 - [5 Python Libraries That Make Data Cleaning More Enjoyable](https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable) (2026-08-17)
 - [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python) (2026-08-14)
 - [5 Fun Agentic AI Papers to Read](https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read) (2026-08-14)
-- [Building a Streaming Local AI Agent](https://www.kdnuggets.com/building-a-streaming-local-ai-agent) (2026-08-13)
 
 </details>
 
