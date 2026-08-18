@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north) (2026-08-18)
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) (2026-08-18)
 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/) (2026-08-17)
-- [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde) (2026-08-17)
-- [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/) (2026-08-17)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) (2026-08-17)
+- [scScript for Linux](https://scapplications.com/) (2026-08-17)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) (2026-08-17)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Theban tomb reveals how Egyptian burial trends evolved in time](https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/) (2026-08-18)
 - [US vaccination rates fall again as exemptions continue to rise, CDC data shows](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/) (2026-08-17)
 - [Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/) (2026-08-17)
 - [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/) (2026-08-17)
 - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/) (2026-08-17)
-- [Supreme Court rejects Verizon bid for $47 million refund of FCC fine](https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/) (2026-08-17)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What does an agentic SDLC actually look like?](https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/) (2026-08-18)
 - [No Dumb Questions: What is AI context architecture? Why not just build your own?](https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/) (2026-08-14)
 - [Solving integration woes with a hackathon](https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/) (2026-08-14)
 - [Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/) (2026-08-11)
 - [How to be fearlessly AI native](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/) (2026-08-07)
-- [Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/) (2026-08-05)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Fault-Tolerant, Event-Driven Kafka Pipelines in Go: Reliable Reprocessing & Dead Letter Queues](https://dev.to/umohsg/building-fault-tolerant-event-driven-kafka-pipelines-in-go-reliable-reprocessing-dead-letter-333l) (2026-08-18)
-- [Five SQL Bugs That Never Threw an Error](https://dev.to/kiplangat_brian/five-sql-bugs-that-never-threw-an-error-25nc) (2026-08-18)
-- [AgentOne Desktop Is Now Open Source](https://dev.to/agent-one/agentone-desktop-is-now-open-source-a4e) (2026-08-18)
-- [Your backup is not a backup until you have restored it](https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n) (2026-08-18)
-- [F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users](https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj) (2026-08-18)
+- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487) (2026-08-18)
+- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35) (2026-08-18)
+- [[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux](https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5) (2026-08-18)
+- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk) (2026-08-18)
+- [The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6) (2026-08-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Android Architecture Explained: From Linux Kernel to Applications](https://medium.com/@mazene432/android-architecture-explained-from-linux-kernel-to-applications-0cf3b6904104?source=rss------programming-5) (2026-08-18)
-- [Top 10 Advantages of Object-Oriented Programming (OOP)](https://medium.com/@sunil17bbmp/top-10-advantages-of-object-oriented-programming-oop-d9e9e46af25c?source=rss------programming-5) (2026-08-18)
-- [What Scrum Is Actually For](https://medium.com/@aludanyi/what-scrum-is-actually-for-9a7934bfd77a?source=rss------programming-5) (2026-08-18)
-- [10 Simple Ways to Make School Mornings Easier](https://medium.com/@hafisa202602/10-simple-ways-to-make-school-mornings-easier-de97d5d11dc6?source=rss------programming-5) (2026-08-18)
-- [Anthropic Published What People Actually Do With Claude. The #1 Task Is Fixing Broken Code.](https://aminshamim.medium.com/anthropic-published-what-people-actually-do-with-claude-the-1-task-is-fixing-broken-code-15f80476a75a?source=rss------programming-5) (2026-08-18)
+- [8 SQL Mistakes That Look Harmless Until the Dataset Becomes Large](https://medium.com/skillstuff/8-sql-mistakes-that-look-harmless-until-the-dataset-becomes-large-d90e2003e0a3?source=rss------programming-5) (2026-08-18)
+- [Did you know how to move my 5,000 USDT from trust wallet to bybit?](https://medium.com/@mmqjmbbxxf/did-you-know-how-to-move-my-5-000-usdt-from-trust-wallet-to-bybit-bf132200ac73?source=rss------programming-5) (2026-08-18)
+- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://medium.com/@jsmanifest/typescript-6-0-strict-function-types-why-contravariance-breaks-your-existing-callbacks-57b526fd8319?source=rss------programming-5) (2026-08-18)
+- [Go’s Generics, Four Years Later](https://medium.com/codetodeploy/gos-generics-four-years-later-39030f9f336a?source=rss------programming-5) (2026-08-18)
+- [Understanding Kafka Partitions and Offsets](https://medium.com/@ronomahedi/understanding-kafka-partitions-and-offsets-7369098b7d0a?source=rss------programming-5) (2026-08-18)
 
 </details>
 
@@ -378,6 +378,11 @@ How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs
 ) (2026-08-17)
 - [
+Build a Phone Number Intelligence Tool with Twilio Lookup on Replit
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/phone-number-intelligence-tool-lookup-replit
+) (2026-08-17)
+- [
 Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
-) (2026-08-13)
-- [
-Migrate from Programmable Messaging to Verify
-](
-https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 ) (2026-08-13)
 
 </details>
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) (2026-08-13)
 - [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions) (2026-08-13)
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
-- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
-- [Okta targets AI agent token costs with MCP scoping](https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/) (2026-08-13)
-- [Google tests AMIE for clinical video consultations](https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/) (2026-08-12)
-- [Novo Nordisk and AWS bring agentic AI into drug discovery](https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/) (2026-08-11)
 
 </details>
 
