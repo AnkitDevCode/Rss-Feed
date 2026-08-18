@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [YouTube will now count a view as soon as a video starts playing](https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/) (2026-08-17)
-- [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/) (2026-08-17)
-- [Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/) (2026-08-17)
-- [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/) (2026-08-17)
-- [Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project](https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/) (2026-08-17)
+- [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) (2026-08-17)
+- [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/) (2026-08-17)
+- [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/) (2026-08-17)
+- [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) (2026-08-17)
+- [Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) (2026-08-17)
-- [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399) (2026-08-17)
-- [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b) (2026-08-17)
-- [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/) (2026-08-17)
-- [Sun Clock](https://sunclock.net/) (2026-08-17)
+- [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north) (2026-08-18)
+- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/) (2026-08-17)
+- [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde) (2026-08-17)
+- [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/) (2026-08-17)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts) (2026-08-17)
+- [ABC&#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show) (2026-08-17)
+- [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale) (2026-08-17)
+- [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game) (2026-08-17)
 - [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update) (2026-08-17)
-- [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection) (2026-08-17)
-- [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities) (2026-08-17)
-- [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit) (2026-08-17)
-- [Apple ordered to stop scaring iPhone and iPad users away from third-party apps](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany) (2026-08-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/) (2026-08-17)
-- [This sub-$7,000 sportscar might be just what the future needs](https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/) (2026-08-17)
-- [Nvidia discloses $21B stake in SpaceX](https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/) (2026-08-17)
-- [Meet the only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/) (2026-08-17)
-- [Satellite operators are in panic mode due to a worsening launch crisis](https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/) (2026-08-17)
+- [US vaccination rates fall again as exemptions continue to rise, CDC data shows](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/) (2026-08-17)
+- [Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/) (2026-08-17)
+- [The Moon's shadow raced across the heart of Spain, and I was there to see it](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/) (2026-08-17)
+- [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/) (2026-08-17)
+- [Supreme Court rejects Verizon bid for $47 million refund of FCC fine](https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) (2026-08-17)
 - [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) (2026-08-17)
 - [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) (2026-08-17)
 - [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) (2026-08-17)
 - [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) (2026-08-14)
-- [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cómo integrar un LLM (Claude o GPT) en tu aplicación Python](https://dev.to/isazajuancarlos/como-integrar-un-llm-claude-o-gpt-en-tu-aplicacion-python-42gm) (2026-08-17)
-- [How Python Takes Out Its Own Garbage](https://dev.to/samconibear/how-python-takes-out-its-own-garbage-326a) (2026-08-17)
-- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h) (2026-08-17)
-- [Your Database Is Making 4 Promises. Here's What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d) (2026-08-17)
-- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632) (2026-08-17)
+- [Building Fault-Tolerant, Event-Driven Kafka Pipelines in Go: Reliable Reprocessing & Dead Letter Queues](https://dev.to/umohsg/building-fault-tolerant-event-driven-kafka-pipelines-in-go-reliable-reprocessing-dead-letter-333l) (2026-08-18)
+- [Five SQL Bugs That Never Threw an Error](https://dev.to/kiplangat_brian/five-sql-bugs-that-never-threw-an-error-25nc) (2026-08-18)
+- [AgentOne Desktop Is Now Open Source](https://dev.to/agent-one/agentone-desktop-is-now-open-source-a4e) (2026-08-18)
+- [Your backup is not a backup until you have restored it](https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n) (2026-08-18)
+- [F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users](https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj) (2026-08-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Python Project I Almost Deleted Became My Best Portfolio Piece](https://python.plainenglish.io/the-python-project-i-almost-deleted-became-my-best-portfolio-piece-d7febb87cfdb?source=rss------programming-5) (2026-08-17)
-- [AI vs Web Developers: Threat, Tool, or Opportunity?](https://medium.com/@abdullahalnoman4343n/ai-vs-web-developers-threat-tool-or-opportunity-4abc7854a091?source=rss------programming-5) (2026-08-17)
-- [Oracle Performance Troubleshooting: AWR, ASH, DBMS_XPLAN & ADDM | Best of mrcaption49](https://medium.com/@pranavsb699/oracle-performance-troubleshooting-awr-ash-dbms-xplan-addm-best-of-mrcaption49-a8358be4b890?source=rss------programming-5) (2026-08-17)
-- [A 284 Billion Parameter AI Model Just Ran on a 12GB Phone](https://medium.com/@kanishks772/a-284-billion-parameter-ai-model-just-ran-on-a-12gb-phone-ae8abaa402e6?source=rss------programming-5) (2026-08-17)
-- [I Used requests Inside async def. It Froze My FastAPI App for 30 Seconds and Cost Me a Client.](https://medium.com/@rameshkannanyt0078/i-used-requests-inside-async-def-it-froze-my-fastapi-app-for-30-seconds-and-cost-me-a-client-307f9d086b7d?source=rss------programming-5) (2026-08-17)
+- [Android Architecture Explained: From Linux Kernel to Applications](https://medium.com/@mazene432/android-architecture-explained-from-linux-kernel-to-applications-0cf3b6904104?source=rss------programming-5) (2026-08-18)
+- [Top 10 Advantages of Object-Oriented Programming (OOP)](https://medium.com/@sunil17bbmp/top-10-advantages-of-object-oriented-programming-oop-d9e9e46af25c?source=rss------programming-5) (2026-08-18)
+- [What Scrum Is Actually For](https://medium.com/@aludanyi/what-scrum-is-actually-for-9a7934bfd77a?source=rss------programming-5) (2026-08-18)
+- [10 Simple Ways to Make School Mornings Easier](https://medium.com/@hafisa202602/10-simple-ways-to-make-school-mornings-easier-de97d5d11dc6?source=rss------programming-5) (2026-08-18)
+- [Anthropic Published What People Actually Do With Claude. The #1 Task Is Fixing Broken Code.](https://aminshamim.medium.com/anthropic-published-what-people-actually-do-with-claude-the-1-task-is-fixing-broken-code-15f80476a75a?source=rss------programming-5) (2026-08-18)
 
 </details>
 
@@ -304,6 +304,17 @@
 </details>
 
 <details>
+<summary>💎 JetBrains Blog</summary>
+
+- [What Your First Months at JetBrains Look Like?](https://blog.jetbrains.com/life-at-jetbrains/2026/08/new-employee-onboarding/) (2026-08-17)
+- [Klibs.io Grows to 4,200+ KMP Projects With Smarter Discovery and New AI Integrations](https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/) (2026-08-17)
+- [Junie’s New Default Runs on Gemini 3.7 Flash, at 40% Off Base Pricing ](https://blog.jetbrains.com/junie/2026/08/junie-gemini-3-7-flash/) (2026-08-17)
+- [Exploring Compose HTML for Server Side Rendering](https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/) (2026-08-14)
+- [Hybrid and Local AI course at DeepLearning.AI](https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/) (2026-08-13)
+
+</details>
+
+<details>
 <summary>📝 Visual Studio Code</summary>
 
 - [Visual Studio Code 1.134 (Insiders)](https://code.visualstudio.com/updates/v1_134) (2026-08-18)
@@ -317,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Critical Patch Release: 19.2.4, 19.1.6, 19.0.8, 18.11.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/) (2026-08-17)
+- [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/) (2026-08-17)
 - [How I built a demo generator with GitLab Duo Agent Platform](https://about.gitlab.com/blog/agentic-click-through-demo/) (2026-08-13)
 - [How GitLab tracks vulnerabilities through refactors and reformatting](https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/) (2026-08-12)
 - [GitLab Patch Release: 19.2.2, 19.1.4, 19.0.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released/) (2026-08-12)
-- [A sandbox is only as closed as what an AI agent can reach](https://about.gitlab.com/blog/ai-agent-sandbox/) (2026-08-12)
-- [GitLab Secrets Manager adds ESO, Terraform, API support](https://about.gitlab.com/blog/gitlab-secrets-manager-add-eso-terraform-api-support/) (2026-08-06)
 
 </details>
 
@@ -481,11 +492,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [ Drip marketing: 11 common types (with examples)](https://zapier.com/blog/drip-marketing) (2026-08-17)
-- [79% of company execs say employees work around their AI governance policies](https://zapier.com/blog/ai-governance-report) (2026-08-17)
+- [How to make the case for LinkedIn CAPI](https://zapier.com/blog/linkedin-capi-for-marketers) (2026-08-17)
+- [How to audit your LinkedIn conversion tracking setup](https://zapier.com/blog/audit-linkedin-conversion-tracking-setup) (2026-08-17)
 - [The best Slack apps for your workspace in 2026](https://zapier.com/blog/best-slack-apps) (2026-08-17)
-- [6 ways to automate Calendly with Zapier](https://zapier.com/blog/automate-calendly) (2026-08-14)
-- [The 4 primary roles of AI in automated workflows](https://zapier.com/blog/ai-in-worflow-automation) (2026-08-14)
+- [79% of company execs say employees work around their AI governance policies](https://zapier.com/blog/ai-governance-report) (2026-08-17)
+- [ Drip marketing: 11 common types (with examples)](https://zapier.com/blog/drip-marketing) (2026-08-17)
 
 </details>
 
@@ -547,11 +558,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-08-14)
 - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) (2026-08-13)
 - [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions) (2026-08-13)
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) (2026-08-12)
-- [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) (2026-08-12)
 
 </details>
 
