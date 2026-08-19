@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) (2026-08-18)
-- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) (2026-08-18)
-- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/) (2026-08-18)
-- [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685) (2026-08-18)
-- [AI usage patterns in software teams](https://linear.app/data) (2026-08-18)
+- [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries) (2026-08-19)
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) (2026-08-19)
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) (2026-08-19)
+- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/) (2026-08-19)
+- [OpenLogi](https://openlogi.org/en) (2026-08-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Extracting Tables From a PDF Is Harder Than It Looks (and How We Actually Do It)](https://dev.to/peter_ndumia_pdfhaul/why-extracting-tables-from-a-pdf-is-harder-than-it-looks-and-how-we-actually-do-it-2llg) (2026-08-19)
-- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5) (2026-08-19)
-- [Python Polars Cheat Sheet: Fast DataFrames for Busy Engineers](https://dev.to/adilaidev/python-polars-cheat-sheet-fast-dataframes-for-busy-engineers-2d60) (2026-08-19)
-- [Spot on. Throwing more context at an LLM kills latency. If you're building robust agents (especially in Rust), memory architecture is the real bottleneck to solve. Great read.](https://dev.to/olerius/spot-on-throwing-more-context-at-an-llm-kills-latency-if-youre-building-robust-agents-497k) (2026-08-19)
-- [I Wrote 238 Tests Against My Own Auth Package and Found 4 Real Bugs](https://dev.to/obie/i-wrote-238-tests-against-my-own-auth-package-and-found-4-real-bugs-4n85) (2026-08-19)
+- [The Geometry Measures, the AI Teaches: Building an Art Studio Tutor with ADK, Vertex AI & OpenCV](https://dev.to/hugo_valer_79d0d94e00804b/the-geometry-measures-the-ai-teaches-building-an-art-studio-tutor-with-adk-vertex-ai-opencv-551m) (2026-08-19)
+- [The AI Revolution Isn’t Coming — It’s Already Here. Are You Ready to Build With It?](https://dev.to/armaan_b305b7d0e320b8ff3b/the-ai-revolution-isnt-coming-its-already-here-are-you-ready-to-build-with-it-48f) (2026-08-19)
+- [How a Rogue Animation Turned My Portfolio Into a Space Heater (And How I Tamed It)](https://dev.to/hizba_31d77c41803163b8ff0/how-a-rogue-animation-turned-my-portfolio-into-a-space-heater-and-how-i-tamed-it-4gnp) (2026-08-19)
+- [Flutter vs React Native in 2026: A Technical Comparison](https://dev.to/kumudha_a/flutter-vs-react-native-in-2026-a-technical-comparison-kl4) (2026-08-19)
+- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob) (2026-08-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spring Boot Microservices with RabbitMQ: A Practical Example](https://medium.com/@sunil17bbmp/spring-boot-microservices-with-rabbitmq-a-practical-example-23a32ff9ce2d?source=rss------programming-5) (2026-08-19)
-- [[OrderBook #13] Replicated Order Book](https://andriantriputra.medium.com/orderbook-13-replicated-order-book-c53a1728cf82?source=rss------programming-5) (2026-08-19)
-- [Building a Framework Is Teaching Me to Think Differently About Code](https://medium.com/bouncin-and-behavin-blogs/building-a-framework-is-teaching-me-to-think-differently-about-code-4d1ea4cb9efb?source=rss------programming-5) (2026-08-19)
-- [I Logged Every Token Claude Code Used for a Month. Here Is the Real Bill, Per Merged PR.](https://aminshamim.medium.com/i-logged-every-token-claude-code-used-for-a-month-here-is-the-real-bill-per-merged-pr-df069840eabf?source=rss------programming-5) (2026-08-19)
-- [Web Accessibility in 5 Steps — The Basics Every Dev Keeps Ignoring](https://medium.com/@kaklotarrahul79/web-accessibility-in-5-steps-the-basics-every-dev-keeps-ignoring-fba3750b55ca?source=rss------programming-5) (2026-08-18)
+- [TypeScript Exclude and Extract in Depth: Filtering Union Types for Real API Contracts](https://medium.com/@jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-f6b9b8248d3b?source=rss------programming-5) (2026-08-19)
+- [Getting to Know NativePHP’s MCP Server: Your AI Agent Now Understands SuperNative](https://towardsdev.com/getting-to-know-nativephps-mcp-server-your-ai-agent-now-understands-supernative-cdac0e6d8c44?source=rss------programming-5) (2026-08-19)
+- [Using float4 to fix uncoalesced writes in a CUDA matmul](https://medium.com/@aniketm2598/using-float4-to-fix-uncoalesced-writes-in-a-cuda-matmul-01ed5ba8fa45?source=rss------programming-5) (2026-08-19)
+- [10 Free Online Tools Every Developer Should Bookmark in 2026](https://medium.com/@bsorathiya64/10-free-online-tools-every-developer-should-bookmark-in-2026-8134ea73d47d?source=rss------programming-5) (2026-08-19)
+- [Partition vs Shard vs Partition Key: Understanding Data Distribution](https://medium.com/@rajatraghav7797/partition-vs-shard-vs-partition-key-understanding-data-distribution-7c5c9e1242a1?source=rss------programming-5) (2026-08-19)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Hello, Ireland! Sending SMS in Twilio’s Ireland Region
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/send-sms-twilio-ireland-region
-) (2026-08-18)
-- [
-Add an AI Voice Assistant to a Twilio Video Room with Conversation Relay
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assistant-twilio-video-room-conversation-relay
-) (2026-08-18)
-- [
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs
-) (2026-08-17)
-- [
-Build a Phone Number Intelligence Tool with Twilio Lookup on Replit
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/phone-number-intelligence-tool-lookup-replit
 ) (2026-08-17)
 - [
 Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
 ) (2026-08-14)
+- [
+How to Build Passwordless Auth Using TOTP With Twilio Verify in .NET
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-dotnet
+) (2026-08-14)
+- [
+How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
+) (2026-08-13)
+- [
+Migrate from Programmable Messaging to Verify
+](
+https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
+) (2026-08-13)
 
 </details>
 
@@ -592,11 +592,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
 - [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
 - [7 Kimi K3 Features That Make Every Other Model Feel Outdated](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/) (2026-08-17)
 - [How to Install Codex CLI: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-codex-cli/) (2026-08-15)
 - [NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse](https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/) (2026-08-14)
-- [How Baidu Unlimited-OCR Works: Solving Long-Document Transcription](https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/) (2026-08-13)
 
 </details>
 
