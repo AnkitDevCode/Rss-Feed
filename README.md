@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/) (2026-08-18)
+- [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/) (2026-08-18)
+- [TikTok explores peer-to-peer payments via DMs, report says](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/) (2026-08-18)
 - [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) (2026-08-18)
 - [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) (2026-08-18)
-- [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/) (2026-08-18)
-- [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/) (2026-08-18)
-- [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/) (2026-08-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) (2026-08-18)
-- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) (2026-08-18)
-- [Columbia House, Mail-Order Media Company, Is Shuttering](https://consequence.net/2026/08/columbia-house-closing-down/) (2026-08-18)
-- [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store) (2026-08-18)
-- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban) (2026-08-18)
+- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) (2026-08-18)
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) (2026-08-18)
+- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/) (2026-08-18)
+- [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685) (2026-08-18)
+- [AI usage patterns in software teams](https://linear.app/data) (2026-08-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale) (2026-08-18)
+- [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai) (2026-08-18)
+- [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack) (2026-08-18)
 - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale) (2026-08-18)
 - [PlayStation&#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder) (2026-08-18)
-- [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission) (2026-08-18)
-- [Tesla is finally launching the Cybercab — let’s hope it’s ready](https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready) (2026-08-18)
-- [Peacock is raising prices by up to $3](https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026) (2026-08-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- ["Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/) (2026-08-18)
+- [Ukrainian drones overwhelm Russian tanks’ new active protection system—for now](https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/) (2026-08-18)
+- [Against all odds, SpaceX finally tugs Starship into port after 24 days at sea](https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/) (2026-08-18)
+- [Disney sues FCC and its chair, escalating fight against Trump's chief censor](https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/) (2026-08-18)
 - [Peacock raises prices by 18 percent after becoming profitable](https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/) (2026-08-18)
-- [The United States is about to wake up to the threat from China's space program](https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/) (2026-08-18)
-- [Fairphone's latest repairable phone is finally available in the US for $650](https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/) (2026-08-18)
-- [Ford hopes this Hypercar will be its next Le Mans winner](https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/) (2026-08-18)
-- [Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream](https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/) (2026-08-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Weekly: Four Frontier Models in Four Days](https://dev.to/alexmercedcoder/ai-weekly-four-frontier-models-in-four-days-5ba3) (2026-08-18)
-- [Slashing AI API Costs From Scratch: What Nobody Tells You](https://dev.to/loyaldash/slashing-ai-api-costs-from-scratch-what-nobody-tells-you-3gha) (2026-08-18)
-- [Investment Grade](https://dev.to/aronchick/investment-grade-d1e) (2026-08-18)
-- [Transactions in NestJS and TypeORM Without Passing the EntityManager Around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-2kbn) (2026-08-18)
-- [Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers](https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3) (2026-08-18)
+- [Why Extracting Tables From a PDF Is Harder Than It Looks (and How We Actually Do It)](https://dev.to/peter_ndumia_pdfhaul/why-extracting-tables-from-a-pdf-is-harder-than-it-looks-and-how-we-actually-do-it-2llg) (2026-08-19)
+- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5) (2026-08-19)
+- [Python Polars Cheat Sheet: Fast DataFrames for Busy Engineers](https://dev.to/adilaidev/python-polars-cheat-sheet-fast-dataframes-for-busy-engineers-2d60) (2026-08-19)
+- [Spot on. Throwing more context at an LLM kills latency. If you're building robust agents (especially in Rust), memory architecture is the real bottleneck to solve. Great read.](https://dev.to/olerius/spot-on-throwing-more-context-at-an-llm-kills-latency-if-youre-building-robust-agents-497k) (2026-08-19)
+- [I Wrote 238 Tests Against My Own Auth Package and Found 4 Real Bugs](https://dev.to/obie/i-wrote-238-tests-against-my-own-auth-package-and-found-4-real-bugs-4n85) (2026-08-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Math Behind Claude’s Invisible Watermark — and Why It Catches the Wrong People](https://levelup.gitconnected.com/claude-ai-watermark-how-it-works-328d9d87ff82?source=rss------programming-5) (2026-08-18)
-- [Rayfin on Microsoft Fabric: Turning a Vibe Coded Prototype Into a Governed App](https://medium.com/@daverendon/rayfin-on-microsoft-fabric-turning-a-vibe-coded-prototype-into-a-governed-app-11909ebecb19?source=rss------programming-5) (2026-08-18)
-- [Coding Agents Aren’t Autocomplete’s Big Brother. They’re a Different Species Entirely.](https://medium.com/@sachithsbandara/coding-agents-arent-autocomplete-s-big-brother-they-re-a-different-species-entirely-865da2d67368?source=rss------programming-5) (2026-08-18)
-- [The Include Chain That Turns 50 Database Rows into Thousands of Objects](https://medium.com/real-world-net/the-include-chain-that-turns-50-database-rows-into-thousands-of-objects-9acff58dc888?source=rss------programming-5) (2026-08-18)
-- [Optimizing Large Data Grids in React — Server Pagination, Infinite Scroll, Virtual Scrolling, AG…](https://medium.com/@randhir.jassal/optimizing-large-data-grids-in-react-server-pagination-infinite-scroll-virtual-scrolling-ag-d506093468e2?source=rss------programming-5) (2026-08-18)
+- [Spring Boot Microservices with RabbitMQ: A Practical Example](https://medium.com/@sunil17bbmp/spring-boot-microservices-with-rabbitmq-a-practical-example-23a32ff9ce2d?source=rss------programming-5) (2026-08-19)
+- [[OrderBook #13] Replicated Order Book](https://andriantriputra.medium.com/orderbook-13-replicated-order-book-c53a1728cf82?source=rss------programming-5) (2026-08-19)
+- [Building a Framework Is Teaching Me to Think Differently About Code](https://medium.com/bouncin-and-behavin-blogs/building-a-framework-is-teaching-me-to-think-differently-about-code-4d1ea4cb9efb?source=rss------programming-5) (2026-08-19)
+- [I Logged Every Token Claude Code Used for a Month. Here Is the Real Bill, Per Merged PR.](https://aminshamim.medium.com/i-logged-every-token-claude-code-used-for-a-month-here-is-the-real-bill-per-merged-pr-df069840eabf?source=rss------programming-5) (2026-08-19)
+- [Web Accessibility in 5 Steps — The Basics Every Dev Keeps Ignoring](https://medium.com/@kaklotarrahul79/web-accessibility-in-5-steps-the-basics-every-dev-keeps-ignoring-fba3750b55ca?source=rss------programming-5) (2026-08-18)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2026-08-17)
 - [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 - [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
-- [Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/) (2026-07-15)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai) (2026-08-18)
 - [How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond) (2026-07-20)
 - [How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
 - [How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security) (2026-06-12)
 - [Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents) (2026-05-28)
-- [Introducing Nova, our internal platform for coding agents](https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents) (2026-05-21)
 
 </details>
 
@@ -329,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [From OpenTofu to Argo CD: GitLab as your AWS control plane](https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/) (2026-08-18)
+- [Avoid the massive end-to-end tax of default full history clones](https://about.gitlab.com/blog/git-clone-override-policy/) (2026-08-18)
 - [GitLab Critical Patch Release: 19.2.4, 19.1.6, 19.0.8, 18.11.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/) (2026-08-17)
 - [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/) (2026-08-17)
 - [How I built a demo generator with GitLab Duo Agent Platform](https://about.gitlab.com/blog/agentic-click-through-demo/) (2026-08-13)
-- [How GitLab tracks vulnerabilities through refactors and reformatting](https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/) (2026-08-12)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter) (2026-08-19)
+- [Vercel for Platforms can now deploy from your users' GitHub repositories](https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories) (2026-08-18)
 - [$1 million hacker challenge for Vercel Sandbox](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox) (2026-08-18)
 - [Cline is now available in the AI SDK harness layer](https://vercel.com/changelog/cline-harness-adapter) (2026-08-18)
 - [GLM 5.3 now available on AI Gateway](https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway) (2026-08-18)
-- [Sign JWTs from your Functions without managing private keys](https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys) (2026-08-18)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Hello, Ireland! Sending SMS in Twilio’s Ireland Region
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/send-sms-twilio-ireland-region
+) (2026-08-18)
+- [
+Add an AI Voice Assistant to a Twilio Video Room with Conversation Relay
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assistant-twilio-video-room-conversation-relay
+) (2026-08-18)
+- [
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs
@@ -387,16 +397,6 @@ Build Persistent Customer Memory with Twilio Agent Connect and Conversation Inte
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
 ) (2026-08-14)
-- [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in .NET
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-dotnet
-) (2026-08-14)
-- [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
-) (2026-08-13)
 
 </details>
 
@@ -564,6 +564,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-08-14)
 - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) (2026-08-13)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI president urges enterprises to hasten AI security defences](https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/) (2026-08-18)
+- [Alvys launches AI agents for freight TMS workflows](https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/) (2026-08-18)
+- [Reading Zhipu’s GLM-5.3 results past the headline number](https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/) (2026-08-18)
+- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
+- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
 
 </details>
 
