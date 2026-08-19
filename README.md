@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/) (2026-08-19)
+- [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/) (2026-08-19)
+- [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/) (2026-08-19)
 - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/) (2026-08-18)
 - [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/) (2026-08-18)
-- [TikTok explores peer-to-peer payments via DMs, report says](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/) (2026-08-18)
-- [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) (2026-08-18)
-- [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) (2026-08-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries) (2026-08-19)
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) (2026-08-19)
+- [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/) (2026-08-19)
+- [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements) (2026-08-19)
+- [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151) (2026-08-19)
 - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) (2026-08-19)
-- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) (2026-08-19)
-- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/) (2026-08-19)
-- [OpenLogi](https://openlogi.org/en) (2026-08-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale) (2026-08-18)
-- [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai) (2026-08-18)
-- [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack) (2026-08-18)
-- [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale) (2026-08-18)
-- [PlayStation&#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder) (2026-08-18)
+- [Amazon seemingly leaked Jason Statham’s entire Mutiny movie](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak) (2026-08-19)
+- [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset) (2026-08-19)
+- [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app) (2026-08-19)
+- [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion) (2026-08-19)
+- [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking) (2026-08-19)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/) (2026-08-19)
+- [Child-monitoring apps might need a reboot](https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/) (2026-08-19)
 - [The Download: how people really use AI, and Flock’s design choices](https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/) (2026-08-18)
 - [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) (2026-08-18)
 - [The role of the astronaut is in flux](https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/) (2026-08-18)
-- [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) (2026-08-18)
-- [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) (2026-08-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Geometry Measures, the AI Teaches: Building an Art Studio Tutor with ADK, Vertex AI & OpenCV](https://dev.to/hugo_valer_79d0d94e00804b/the-geometry-measures-the-ai-teaches-building-an-art-studio-tutor-with-adk-vertex-ai-opencv-551m) (2026-08-19)
-- [The AI Revolution Isn’t Coming — It’s Already Here. Are You Ready to Build With It?](https://dev.to/armaan_b305b7d0e320b8ff3b/the-ai-revolution-isnt-coming-its-already-here-are-you-ready-to-build-with-it-48f) (2026-08-19)
-- [How a Rogue Animation Turned My Portfolio Into a Space Heater (And How I Tamed It)](https://dev.to/hizba_31d77c41803163b8ff0/how-a-rogue-animation-turned-my-portfolio-into-a-space-heater-and-how-i-tamed-it-4gnp) (2026-08-19)
-- [Flutter vs React Native in 2026: A Technical Comparison](https://dev.to/kumudha_a/flutter-vs-react-native-in-2026-a-technical-comparison-kl4) (2026-08-19)
-- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob) (2026-08-19)
+- [I'm building Guren, a fullstack TypeScript framework for the AI-agent era](https://dev.to/7nohe/im-building-guren-a-fullstack-typescript-framework-for-the-ai-agent-era-47k6) (2026-08-19)
+- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here's the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1) (2026-08-19)
+- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3) (2026-08-19)
+- [Top 7 DigitalOcean Alternatives in India for Startups That Need More Than Droplets](https://dev.to/umesh_singh/top-7-digitalocean-alternatives-in-india-for-startups-that-need-more-than-droplets-ena) (2026-08-19)
+- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse (CSV, JSON, Parquet)](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk) (2026-08-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TypeScript Exclude and Extract in Depth: Filtering Union Types for Real API Contracts](https://medium.com/@jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-f6b9b8248d3b?source=rss------programming-5) (2026-08-19)
-- [Getting to Know NativePHP’s MCP Server: Your AI Agent Now Understands SuperNative](https://towardsdev.com/getting-to-know-nativephps-mcp-server-your-ai-agent-now-understands-supernative-cdac0e6d8c44?source=rss------programming-5) (2026-08-19)
-- [Using float4 to fix uncoalesced writes in a CUDA matmul](https://medium.com/@aniketm2598/using-float4-to-fix-uncoalesced-writes-in-a-cuda-matmul-01ed5ba8fa45?source=rss------programming-5) (2026-08-19)
-- [10 Free Online Tools Every Developer Should Bookmark in 2026](https://medium.com/@bsorathiya64/10-free-online-tools-every-developer-should-bookmark-in-2026-8134ea73d47d?source=rss------programming-5) (2026-08-19)
-- [Partition vs Shard vs Partition Key: Understanding Data Distribution](https://medium.com/@rajatraghav7797/partition-vs-shard-vs-partition-key-understanding-data-distribution-7c5c9e1242a1?source=rss------programming-5) (2026-08-19)
+- [Gemini Has A 1M-Token Window. I Deleted My Vector Database. Here’s What Broke](https://medium.com/@maahisoft20/gemini-has-a-1m-token-window-i-deleted-my-vector-database-heres-what-broke-ba1362916510?source=rss------programming-5) (2026-08-19)
+- [How to Use a Proxy in Go and Java: Practical Setup Guide](https://medium.com/@proxiesthatwork/go-java-proxy-setup-guide-8bdcbde75003?source=rss------programming-5) (2026-08-19)
+- [ CUPOM DE VENDEDOR RESERVA 2026: RSV548](https://medium.com/@hollanda_pereira2/cupom-de-vendedor-reserva-2026-rsv548-6490d62d565a?source=rss------programming-5) (2026-08-19)
+- [AI Writes 40% Of Our Code. It Also Doubled Our Security Bugs](https://medium.com/@ArkProtocol1/ai-writes-40-of-our-code-it-also-doubled-our-security-bugs-adae3ec7d84d?source=rss------programming-5) (2026-08-19)
+- [Where Your AI Budget Actually Goes](https://aminvishak.medium.com/where-your-ai-budget-actually-goes-226ac08942dd?source=rss------programming-5) (2026-08-19)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How to Migrate From Atlassian Jira and Confluence to YouTrack: Expert Guide](https://blog.jetbrains.com/youtrack/2026/08/how-to-migrate-from-atlassian-jira-and-confluence-to-youtrack-expert-guide/) (2026-08-19)
 - [AI Coding Agents: Adoption Trends](https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/) (2026-08-18)
 - [Toolbox App 3.7: JVM Memory Optimizations and Update Improvements](https://blog.jetbrains.com/toolbox-app/2026/08/toolbox-app-3-7-jvm-memory-optimizations-and-update-improvements/) (2026-08-18)
 - [Qodana Expands Security Analysis with OpenGrep Rules, and More](https://blog.jetbrains.com/qodana/2026/08/opengrep-inspections/) (2026-08-18)
 - [What Your First Months at JetBrains Look Like?](https://blog.jetbrains.com/life-at-jetbrains/2026/08/new-employee-onboarding/) (2026-08-17)
-- [Klibs.io Grows to 4,200+ KMP Projects With Smarter Discovery and New AI Integrations](https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/) (2026-08-17)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.134 (Insiders)](https://code.visualstudio.com/updates/v1_134) (2026-08-18)
+- [Visual Studio Code 1.135 (Insiders)](https://code.visualstudio.com/updates/v1_135) (2026-08-25)
+- [Visual Studio Code 1.134](https://code.visualstudio.com/updates/v1_134) (2026-08-19)
 - [Visual Studio Code 1.133](https://code.visualstudio.com/updates/v1_133) (2026-08-12)
 - [Visual Studio Code 1.132](https://code.visualstudio.com/updates/v1_132) (2026-08-05)
 - [Visual Studio Code 1.131](https://code.visualstudio.com/updates/v1_131) (2026-07-29)
-- [MAI-Code-1-Flash: early results from real developer workflows](https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash) (2026-07-29)
 
 </details>
 
@@ -378,6 +378,11 @@ How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs
 ) (2026-08-17)
 - [
+Build a Phone Number Intelligence Tool with Twilio Lookup on Replit
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/phone-number-intelligence-tool-lookup-replit
+) (2026-08-17)
+- [
 Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 How to Build Passwordless Auth Using TOTP With Twilio Verify in Go
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-go
-) (2026-08-13)
-- [
-Migrate from Programmable Messaging to Verify
-](
-https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 ) (2026-08-13)
 
 </details>
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [Zapier MCP: Perform tens of thousands of actions in your AI tool](https://zapier.com/blog/zapier-mcp-guide) (2026-08-18)
+- [Fathom vs. Fireflies: Which AI notetaker is best? [2026]](https://zapier.com/blog/fathom-vs-fireflies) (2026-08-18)
 - [The 7 best calendar apps for Android in 2026](https://zapier.com/blog/best-android-calendar-apps) (2026-08-18)
+- [Zapier MCP: Perform tens of thousands of actions in your AI tool](https://zapier.com/blog/zapier-mcp-guide) (2026-08-18)
 - [How to use Inspect Element in Chrome, Safari, and Firefox](https://zapier.com/blog/inspect-element-tutorial) (2026-08-18)
 - [The 5 best customer data platforms in 2026](https://zapier.com/blog/customer-data-platform) (2026-08-18)
-- [How to make the case for LinkedIn CAPI](https://zapier.com/blog/linkedin-capi-for-marketers) (2026-08-17)
 
 </details>
 
@@ -568,24 +568,13 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI president urges enterprises to hasten AI security defences](https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/) (2026-08-18)
-- [Alvys launches AI agents for freight TMS workflows](https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/) (2026-08-18)
-- [Reading Zhipu’s GLM-5.3 results past the headline number](https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/) (2026-08-18)
-- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
-- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision](https://towardsdatascience.com/jigsaw-jeeves-building-a-puzzle-assistant-using-computer-vision/) (2026-08-19)
 - [From Prototype to Production: The Architecture Behind Secure & Governed AI Agents](https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/) (2026-08-18)
 - [Building Enterprise Agent Systems that People can Trust, Verify and Improve](https://towardsdatascience.com/building-enterprise-agent-systems-that-people-can-trust-verify-and-improve/) (2026-08-18)
 - [Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used](https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/) (2026-08-18)
 - [Ten Is Not a Hundred](https://towardsdatascience.com/ten-is-not-a-hundred/) (2026-08-18)
-- [Webwright: Why AI Web Agents Should Write Code, Not Click](https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/) (2026-08-17)
 
 </details>
 
@@ -603,11 +592,11 @@ https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Tools for Building and Deploying AI Agents in Production](https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production) (2026-08-19)
 - [Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands](https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands) (2026-08-18)
 - [5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong](https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong) (2026-08-18)
 - [What Can I Actually Do with a Small Language Model?](https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model) (2026-08-17)
 - [5 Python Libraries That Make Data Cleaning More Enjoyable](https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable) (2026-08-17)
-- [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python) (2026-08-14)
 
 </details>
 
