@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/) (2026-08-20)
+- [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) (2026-08-20)
 - [Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/) (2026-08-19)
 - [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/) (2026-08-19)
 - [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/) (2026-08-19)
-- [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/) (2026-08-19)
-- [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/) (2026-08-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/) (2026-08-20)
-- [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) (2026-08-20)
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) (2026-08-20)
-- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235) (2026-08-19)
-- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) (2026-08-19)
+- [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/) (2026-08-20)
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) (2026-08-20)
+- [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) (2026-08-20)
+- [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/) (2026-08-20)
+- [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo) (2026-08-19)
-- [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data) (2026-08-19)
-- [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub) (2026-08-19)
-- [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos) (2026-08-19)
-- [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai) (2026-08-19)
+- [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security) (2026-08-20)
+- [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) (2026-08-20)
+- [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign) (2026-08-20)
+- [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder) (2026-08-20)
+- [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review) (2026-08-20)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) (2026-08-20)
+- [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) (2026-08-20)
+- [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) (2026-08-20)
+- [Support networks aim to help kids through the polycrisis](https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/) (2026-08-20)
 - [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/) (2026-08-19)
-- [Child-monitoring apps might need a reboot](https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/) (2026-08-19)
-- [The Download: how people really use AI, and Flock’s design choices](https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/) (2026-08-18)
-- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) (2026-08-18)
-- [The role of the astronaut is in flux](https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/) (2026-08-18)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han) (2026-08-20)
-- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68) (2026-08-20)
-- [Fix Next.js "params should be awaited" Error in Next.js 15+](https://dev.to/amrishkhan05/fix-nextjs-params-should-be-awaited-error-in-nextjs-15-273d) (2026-08-20)
-- [Run Local LLMs with Ollama and Spring AI](https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3) (2026-08-20)
-- [Self-Hosted Chatwoot: 5 Failures the Docs Don't Warn You About](https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3) (2026-08-20)
+- [A benchmark is only as good as the model you use to grade it](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01) (2026-08-20)
+- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a) (2026-08-20)
+- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co) (2026-08-20)
+- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8) (2026-08-20)
+- [Conectando Strava ao Claude através de MCP](https://dev.to/junior_carvalho/conectando-strava-no-claude-atraves-de-mcp-3ddf) (2026-08-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Is Making Average Developers Faster. But That’s Not the Real Opportunity.](https://elshad-karimov.medium.com/ai-is-making-average-developers-faster-but-thats-not-the-real-opportunity-1418bec3c439?source=rss------programming-5) (2026-08-20)
-- [The Bridge](https://medium.com/@patraffiah/the-bridge-94e0ab897a38?source=rss------programming-5) (2026-08-20)
-- [SQL Basics: A Beginner’s Guide to Databases and Queries](https://medium.com/@harshithamadhavarapu371/sql-basics-a-beginners-guide-to-databases-and-queries-f0aa6497f111?source=rss------programming-5) (2026-08-20)
-- [Push Notifications Alone Are Not Enough. Here’s What Most Apps Are Missing](https://mohammadmahd.medium.com/push-notifications-alone-are-not-enough-heres-what-most-apps-are-missing-989a6c27417b?source=rss------programming-5) (2026-08-20)
-- [The Python Script I Built to Turn Repetitive Business Work Into a One-Click System](https://medium.com/@SulemanSafdar/the-python-script-i-built-to-turn-repetitive-business-work-into-a-one-click-system-1354842cc935?source=rss------programming-5) (2026-08-20)
+- [9 Advanced JavaScript Promise Patterns Every Developer Should Know](https://medium.com/skillstuff/9-advanced-javascript-promise-patterns-every-developer-should-know-bd0528a99534?source=rss------programming-5) (2026-08-20)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-0eef24b48891?source=rss------programming-5) (2026-08-20)
+- [Angular 22: When to Use Signals, RxJS, or Both](https://codewithbilal.medium.com/angular-22-when-to-use-signals-rxjs-or-both-9507927bb59e?source=rss------programming-5) (2026-08-20)
+- [Go Rejected This Method for Five Years — Its Own Team Had Been Using It for Six](https://pub.huizhou92.com/go-rejected-this-method-for-five-years-its-own-team-had-been-using-it-for-six-3c33fafd71ac?source=rss------programming-5) (2026-08-20)
+- [Why Prompt Engineering Is the Most Underrated Skill of 2026
+The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/why-prompt-engineering-is-the-most-underrated-skill-of-2026-the-672-million-skill-nobodys-talking-beab5eae1b01?source=rss------programming-5) (2026-08-20)
 
 </details>
 
@@ -306,7 +307,7 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [New in Air: Claude Subscriptions, Multiproject View, and Improved Markdown](https://blog.jetbrains.com/air/2026/08/new-in-air-claude-subscriptions-multiproject-view-and-improved-markdown/) (2026-08-19)
+- [Ready for Go 1.27 on Day One](https://blog.jetbrains.com/go/2026/08/20/ready-for-go-1-27-on-day-one/) (2026-08-20)
 - [Signatures, be true: domain errors and functional handling in Kotlin](https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/) (2026-08-19)
 - [Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/) (2026-08-19)
 - [Rider 2026.2.1 and ReSharper 2026.2.1 Are Here!](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/) (2026-08-19)
@@ -373,14 +374,19 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Build Passwordless Auth With Twilio Verify in PHP
+[Webinar] Voice AI that connects
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php
-) (2026-08-19)
+https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
+) (2026-08-20)
 - [
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust
+) (2026-08-19)
+- [
+How to Build Passwordless Auth With Twilio Verify in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php
 ) (2026-08-19)
 - [
 How to Build Passwordless Auth With Twilio Verify in Go
@@ -391,11 +397,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 Add an AI Voice Assistant to a Twilio Video Room with Conversation Relay
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assistant-twilio-video-room-conversation-relay
-) (2026-08-18)
-- [
-How to Build Passwordless Auth Using TOTP With Twilio Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-php
 ) (2026-08-18)
 
 </details>
@@ -570,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Making the Knowledge Layer a Graph You Actually Traverse](https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/) (2026-08-20)
 - [How to Scale an Integration Pipeline Without Breaking Correctness](https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/) (2026-08-19)
 - [Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality](https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/) (2026-08-19)
 - [Understanding Anti-AI Public Opinion](https://towardsdatascience.com/understanding-anti-ai-public-opinion/) (2026-08-19)
 - [Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision](https://towardsdatascience.com/jigsaw-jeeves-building-a-puzzle-assistant-using-computer-vision/) (2026-08-19)
-- [From Prototype to Production: The Architecture Behind Secure & Governed AI Agents](https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/) (2026-08-18)
 
 </details>
 
@@ -592,11 +593,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 10 Open-Source Benchmarks for AI Coding Agents in 2026](https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026) (2026-08-20)
 - [How to Answer AI System Design Interview Questions](https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions) (2026-08-19)
 - [5 Tools for Building and Deploying AI Agents in Production](https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production) (2026-08-19)
 - [Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands](https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands) (2026-08-18)
 - [5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong](https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong) (2026-08-18)
-- [What Can I Actually Do with a Small Language Model?](https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model) (2026-08-17)
 
 </details>
 
