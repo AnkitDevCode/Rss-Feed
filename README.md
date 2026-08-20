@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/) (2026-08-19)
-- [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/) (2026-08-19)
-- [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21 ](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) (2026-08-19)
-- [TerraPower’s nuclear reactor has a secret weapon for powering AI data centers](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/) (2026-08-19)
-- [Rivian spinout Also raises another $150M](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/) (2026-08-19)
+- [Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/) (2026-08-19)
+- [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/) (2026-08-19)
+- [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/) (2026-08-19)
+- [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/) (2026-08-19)
+- [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/) (2026-08-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Opus 5.0 drives incoherence into the stratosphere](https://github.com/anthropics/claude-code/issues/77136) (2026-08-19)
-- [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) (2026-08-19)
-- [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/) (2026-08-19)
-- [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) (2026-08-19)
-- [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) (2026-08-19)
+- [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/) (2026-08-20)
+- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664) (2026-08-20)
+- [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) (2026-08-19)
+- [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap) (2026-08-19)
+- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235) (2026-08-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo) (2026-08-19)
+- [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data) (2026-08-19)
+- [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub) (2026-08-19)
 - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos) (2026-08-19)
 - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai) (2026-08-19)
-- [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale) (2026-08-19)
-- [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai) (2026-08-19)
-- [GTA VI keeps leaking ahead of its gameplay premiere](https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos) (2026-08-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [A fantastical journey unfolds in gorgeous Wildwood trailer](https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/) (2026-08-19)
-- [mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say](https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/) (2026-08-19)
-- [Google Pixel 11 series review: Is the magic fading?](https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/) (2026-08-19)
-- [Scientists find closest star to the Milky Way's central black hole](https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/) (2026-08-19)
-- [Meta ran ads for an app promising to nudify female politicians](https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/) (2026-08-19)
+- [NASA calls off mission to rescue Swift gamma-ray observatory](https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/) (2026-08-20)
+- [Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026](https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/) (2026-08-19)
+- [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/) (2026-08-19)
+- [Flight attendants freaked out that Google is buying tons of Spirit employee data](https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/) (2026-08-19)
+- [FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies](https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/) (2026-08-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Google Checks Is Shutting Down: What the Privacy Compliance Platform Deprecation Means for Developers](https://dev.to/jamilxt/google-checks-is-shutting-down-what-the-privacy-compliance-platform-deprecation-means-for-4h7k) (2026-08-19)
-- [Rules, Standards, and a Missing Line on My Chart](https://dev.to/lovestaco/rules-standards-and-a-missing-line-on-my-chart-4eme) (2026-08-19)
-- [Incremental Backup Using pg_basebackup in PostgreSQL 18](https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag) (2026-08-19)
-- [The Agency Stack in 2026: Lessons from Trueforge, OneCLI, and Lightdash on Building Production-Ready AI Agents](https://dev.to/tamizuddin/the-agency-stack-in-2026-lessons-from-trueforge-onecli-and-lightdash-on-building-27l8) (2026-08-19)
-- [API Documentation Best Practices: Reference, Guides, and Working Requests](https://dev.to/ninadpathak/api-documentation-best-practices-reference-guides-and-working-requests-5a65) (2026-08-19)
+- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj) (2026-08-20)
+- [Three of the First Four Alerts Were the Question's Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb) (2026-08-20)
+- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27) (2026-08-20)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc) (2026-08-20)
+- [What's New in Go 1.27: A Developer's Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622) (2026-08-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Go (Golang) Became My Go-To: A Developer’s Candid Take on Building Modern Apps ](https://medium.com/@anshusinghal703/why-go-golang-became-my-go-to-a-developers-candid-take-on-building-modern-apps-e3894f8a7737?source=rss------programming-5) (2026-08-19)
-- [Voll praktisch: Webseite für 1 Euro im Monat über GitHub Pages](https://medium.com/@kristina-neureuther/die-eigene-webseite-%C3%BCber-github-pages-707882aae49a?source=rss------programming-5) (2026-08-19)
-- [React State Management in 2026 — Context API vs Redux Toolkit vs Zustand vs Jotai (Deep Comparison…](https://medium.com/@randhir.jassal/react-state-management-in-2026-context-api-vs-redux-toolkit-vs-zustand-vs-jotai-deep-comparison-179edcd99daf?source=rss------programming-5) (2026-08-19)
-- [SQL CTEs (Common Table Expressions) Explained With Real Examples | SQL Interview Series #5](https://medium.com/@chikuv2205/sql-ctes-common-table-expressions-explained-with-real-examples-sql-interview-series-5-414af47e6e8e?source=rss------programming-5) (2026-08-19)
-- [Semantic Search vs Keyword Search: What’s the Real Difference?](https://err0rgod.medium.com/semantic-search-vs-keyword-search-whats-the-real-difference-f6e15972dd39?source=rss------programming-5) (2026-08-19)
+- [Loop Engineering Explained: How AI Coding Agents Start Working Without You](https://medium.com/@obayuwanap/loop-engineering-explained-how-ai-coding-agents-start-working-without-you-a7bd31b9b1d0?source=rss------programming-5) (2026-08-20)
+- [12 Java Interview Questions Asked at Wipro — With Answers and Code](https://medium.com/@sunil17bbmp/12-java-interview-questions-asked-at-wipro-with-answers-and-code-d771f489f30f?source=rss------programming-5) (2026-08-20)
+- [The 15 Claude Skills Worth Installing in 2026. Every Install Command Checked at the Source.](https://aminshamim.medium.com/the-15-claude-skills-worth-installing-in-2026-every-install-command-checked-at-the-source-95cee97ffa70?source=rss------programming-5) (2026-08-20)
+- [Unpopular Opinion: Ten Years at One Company Is Now a Red Flag to Interviewers, Not a Green One.](https://medium.com/codetodeploy/unpopular-opinion-ten-years-at-one-company-is-now-a-red-flag-to-interviewers-not-a-green-one-ee0722b7295b?source=rss------programming-5) (2026-08-19)
+- [Unpopular Opinion: Take-Home Assignments Are Filtering Out Your Best Senior Candidates, Not Finding…](https://medium.com/javarevisited/unpopular-opinion-take-home-assignments-are-filtering-out-your-best-senior-candidates-not-finding-e7d2f2a5c374?source=rss------programming-5) (2026-08-19)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Preparing your app for broader memory limits](https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html) (2026-08-19)
 - [Tinder cuts app cold starts by 47% with new R8 Configuration Analyzer](https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html) (2026-08-18)
 - [Jetpack XR SDK core libraries reach beta: The next milestone for Android XR](https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html) (2026-08-18)
 - [Enhance your app for the new Pixel lineup: Unveiled at Made by Google](https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html) (2026-08-12)
 - [Bring one-handed gestures to your Wear OS app](https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html) (2026-08-12)
-- [What's new in the Jetpack Compose August '26 release](https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html) (2026-08-12)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Why global workers are driving demand for stablecoin payouts](https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts) (2026-08-19)
 - [New currency capabilities for global businesses to cut FX costs ](https://stripe.com/blog/reduce-fx-costs-with-stripe) (2026-08-17)
 - [Mapping the AI economy](https://stripe.com/blog/mapping-the-ai-economy) (2026-08-11)
 - [Analyzing the evidence that helps businesses win “product not received” disputes](https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes) (2026-07-21)
 - [Four travel and hospitality trends from HITEC 2026](https://stripe.com/blog/trends-from-hitec) (2026-06-23)
-- [What Link data tells us about AI spending](https://stripe.com/blog/what-link-data-tells-us-about-ai-spending) (2026-06-18)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [From chaos to context: Building an AI dev workflow](https://about.gitlab.com/blog/building-an-ai-dev-workflow/) (2026-08-19)
 - [From OpenTofu to Argo CD: GitLab as your AWS control plane](https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/) (2026-08-18)
 - [Avoid the massive end-to-end tax of default full history clones](https://about.gitlab.com/blog/git-clone-override-policy/) (2026-08-18)
 - [GitLab Critical Patch Release: 19.2.4, 19.1.6, 19.0.8, 18.11.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/) (2026-08-17)
 - [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/) (2026-08-17)
-- [How I built a demo generator with GitLab Duo Agent Platform](https://about.gitlab.com/blog/agentic-click-through-demo/) (2026-08-13)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Vercel Connect now supports Microsoft](https://vercel.com/changelog/vercel-connect-supports-microsoft) (2026-08-19)
-- [Chat SDK adds Instagram adapter](https://vercel.com/changelog/chat-sdk-adds-instagram-adapter) (2026-08-19)
-- [Vercel for Platforms can now deploy from your users' GitHub repositories](https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories) (2026-08-18)
-- [$1 million hacker challenge for Vercel Sandbox](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox) (2026-08-18)
-- [Cline is now available in the AI SDK harness layer](https://vercel.com/changelog/cline-harness-adapter) (2026-08-18)
+- [Algolia joins the Vercel Marketplace](https://vercel.com/changelog/algolia-vercel-marketplace) (2026-08-19)
+- [Introducing Vercel for Slack](https://vercel.com/blog/introducing-vercel-for-slack) (2026-08-19)
+- [Compliance documents are now available in Team settings](https://vercel.com/changelog/compliance-documents-are-now-available-in-team-settings) (2026-08-19)
+- [Fish Audio models now available on Vercel AI Gateway for free](https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free) (2026-08-19)
+- [Vercel for Slack now in public beta](https://vercel.com/changelog/vercel-for-slack-now-in-public-beta) (2026-08-19)
 
 </details>
 
@@ -495,8 +495,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 
 - [What is ChatGPT Work? ](https://zapier.com/blog/chatgpt-work) (2026-08-19)
 - [Fathom vs. Fireflies: Which AI notetaker is best? [2026]](https://zapier.com/blog/fathom-vs-fireflies) (2026-08-18)
-- [The 7 best calendar apps for Android in 2026](https://zapier.com/blog/best-android-calendar-apps) (2026-08-18)
 - [Zapier MCP: Perform tens of thousands of actions in your AI tool](https://zapier.com/blog/zapier-mcp-guide) (2026-08-18)
+- [The 7 best calendar apps for Android in 2026](https://zapier.com/blog/best-android-calendar-apps) (2026-08-18)
 - [The 5 best customer data platforms in 2026](https://zapier.com/blog/customer-data-platform) (2026-08-18)
 
 </details>
@@ -542,17 +542,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [Introducing Wake Vision: A High-Quality, Large-Scale Dataset for TinyML Computer Vision Applications](https://blog.tensorflow.org/2024/12/introducing-wake-vision-new-dataset-for-person-detection-in-tinyml.html) (2024-12-05)
 - [MLSysBook.AI: Principles and Practices of Machine Learning Systems Engineering](https://blog.tensorflow.org/2024/11/mlsysbookai-principles-and-practices-of-machine-learning-systems-engineering.html) (2024-11-19)
 - [What's new in TensorFlow 2.18](https://blog.tensorflow.org/2024/10/whats-new-in-tensorflow-218.html) (2024-10-28)
-
-</details>
-
-<details>
-<summary>🔥 PyTorch Blog</summary>
-
-- [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
-- [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/) (2026-08-10)
-- [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/) (2026-08-06)
-- [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/) (2026-08-06)
-- [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/) (2026-07-30)
 
 </details>
 
