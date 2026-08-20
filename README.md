@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/) (2026-08-20)
-- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664) (2026-08-20)
-- [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) (2026-08-19)
-- [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap) (2026-08-19)
+- [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/) (2026-08-20)
+- [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) (2026-08-20)
+- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) (2026-08-20)
 - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235) (2026-08-19)
+- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) (2026-08-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj) (2026-08-20)
-- [Three of the First Four Alerts Were the Question's Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb) (2026-08-20)
-- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27) (2026-08-20)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc) (2026-08-20)
-- [What's New in Go 1.27: A Developer's Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622) (2026-08-20)
+- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han) (2026-08-20)
+- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68) (2026-08-20)
+- [Fix Next.js "params should be awaited" Error in Next.js 15+](https://dev.to/amrishkhan05/fix-nextjs-params-should-be-awaited-error-in-nextjs-15-273d) (2026-08-20)
+- [Run Local LLMs with Ollama and Spring AI](https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3) (2026-08-20)
+- [Self-Hosted Chatwoot: 5 Failures the Docs Don't Warn You About](https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3) (2026-08-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Loop Engineering Explained: How AI Coding Agents Start Working Without You](https://medium.com/@obayuwanap/loop-engineering-explained-how-ai-coding-agents-start-working-without-you-a7bd31b9b1d0?source=rss------programming-5) (2026-08-20)
-- [12 Java Interview Questions Asked at Wipro — With Answers and Code](https://medium.com/@sunil17bbmp/12-java-interview-questions-asked-at-wipro-with-answers-and-code-d771f489f30f?source=rss------programming-5) (2026-08-20)
-- [The 15 Claude Skills Worth Installing in 2026. Every Install Command Checked at the Source.](https://aminshamim.medium.com/the-15-claude-skills-worth-installing-in-2026-every-install-command-checked-at-the-source-95cee97ffa70?source=rss------programming-5) (2026-08-20)
-- [Unpopular Opinion: Ten Years at One Company Is Now a Red Flag to Interviewers, Not a Green One.](https://medium.com/codetodeploy/unpopular-opinion-ten-years-at-one-company-is-now-a-red-flag-to-interviewers-not-a-green-one-ee0722b7295b?source=rss------programming-5) (2026-08-19)
-- [Unpopular Opinion: Take-Home Assignments Are Filtering Out Your Best Senior Candidates, Not Finding…](https://medium.com/javarevisited/unpopular-opinion-take-home-assignments-are-filtering-out-your-best-senior-candidates-not-finding-e7d2f2a5c374?source=rss------programming-5) (2026-08-19)
+- [AI Is Making Average Developers Faster. But That’s Not the Real Opportunity.](https://elshad-karimov.medium.com/ai-is-making-average-developers-faster-but-thats-not-the-real-opportunity-1418bec3c439?source=rss------programming-5) (2026-08-20)
+- [The Bridge](https://medium.com/@patraffiah/the-bridge-94e0ab897a38?source=rss------programming-5) (2026-08-20)
+- [SQL Basics: A Beginner’s Guide to Databases and Queries](https://medium.com/@harshithamadhavarapu371/sql-basics-a-beginners-guide-to-databases-and-queries-f0aa6497f111?source=rss------programming-5) (2026-08-20)
+- [Push Notifications Alone Are Not Enough. Here’s What Most Apps Are Missing](https://mohammadmahd.medium.com/push-notifications-alone-are-not-enough-heres-what-most-apps-are-missing-989a6c27417b?source=rss------programming-5) (2026-08-20)
+- [The Python Script I Built to Turn Repetitive Business Work Into a One-Click System](https://medium.com/@SulemanSafdar/the-python-script-i-built-to-turn-repetitive-business-work-into-a-one-click-system-1354842cc935?source=rss------programming-5) (2026-08-20)
 
 </details>
 
@@ -546,6 +546,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 </details>
 
 <details>
+<summary>🔥 PyTorch Blog</summary>
+
+- [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
+- [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/) (2026-08-10)
+- [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/) (2026-08-06)
+- [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/) (2026-08-06)
+- [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/) (2026-07-30)
+
+</details>
+
+<details>
 <summary>🤗 Hugging Face</summary>
 
 - [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad) (2026-08-19)
@@ -553,17 +564,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-08-14)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI president urges enterprises to hasten AI security defences](https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/) (2026-08-18)
-- [Alvys launches AI agents for freight TMS workflows](https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/) (2026-08-18)
-- [Reading Zhipu’s GLM-5.3 results past the headline number](https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/) (2026-08-18)
-- [Samsung health AI models analyse wearable biosignal data](https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/) (2026-08-14)
-- [Google AI health coach to use Abbott glucose data](https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/) (2026-08-14)
 
 </details>
 
