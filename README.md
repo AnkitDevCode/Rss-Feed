@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/) (2026-08-20)
-- [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) (2026-08-20)
-- [Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/) (2026-08-19)
-- [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/) (2026-08-19)
-- [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/) (2026-08-19)
+- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) (2026-08-20)
+- [Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) (2026-08-20)
+- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-08-20)
+- [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/) (2026-08-20)
+- [Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner](https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/) (2026-08-20)
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) (2026-08-20)
-- [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) (2026-08-20)
-- [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/) (2026-08-20)
-- [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/) (2026-08-20)
+- [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/) (2026-08-20)
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) (2026-08-20)
+- [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html) (2026-08-20)
+- [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/) (2026-08-20)
+- [URL shortener links stored in your ATProto PDS](https://atpr.to/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security) (2026-08-20)
-- [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) (2026-08-20)
-- [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign) (2026-08-20)
-- [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder) (2026-08-20)
-- [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review) (2026-08-20)
+- [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal) (2026-08-20)
+- [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty) (2026-08-20)
+- [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion) (2026-08-20)
+- [This app makes the Pixel 11&#8217;s HiLight feature actually useful](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful) (2026-08-20)
+- [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale) (2026-08-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Genesis joins the giant electric SUV club with new GV90](https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/) (2026-08-20)
+- [SpaceX’s orbital data centers would create a new category of e-waste](https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/) (2026-08-20)
+- [Reverse-lookup service exposed millions of photos of people’s faces](https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/) (2026-08-20)
+- [Grok exfiltrates user data when malicious instructions are encrypted](https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/) (2026-08-20)
 - [NASA calls off mission to rescue Swift gamma-ray observatory](https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/) (2026-08-20)
-- [Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026](https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/) (2026-08-19)
-- [Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops](https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/) (2026-08-19)
-- [Flight attendants freaked out that Google is buying tons of Spirit employee data](https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/) (2026-08-19)
-- [FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies](https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/) (2026-08-19)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) (2026-08-20)
 - [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) (2026-08-20)
 - [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) (2026-08-20)
 - [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) (2026-08-20)
 - [Support networks aim to help kids through the polycrisis](https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/) (2026-08-20)
-- [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/) (2026-08-19)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A benchmark is only as good as the model you use to grade it](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01) (2026-08-20)
-- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a) (2026-08-20)
-- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co) (2026-08-20)
-- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8) (2026-08-20)
-- [Conectando Strava ao Claude através de MCP](https://dev.to/junior_carvalho/conectando-strava-no-claude-atraves-de-mcp-3ddf) (2026-08-20)
+- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3) (2026-08-20)
+- [The Lab: a backtester that is allowed to say "no"](https://dev.to/gexlive/the-lab-a-backtester-that-is-allowed-to-say-no-4m86) (2026-08-20)
+- [We listed gex.live on ~15 directories in a week. Here is what that did and did not do](https://dev.to/gexlive/we-listed-gexlive-on-15-directories-in-a-week-here-is-what-that-did-and-did-not-do-1l8h) (2026-08-20)
+- [Backtest SPX dealer-gamma rules from your AI assistant](https://dev.to/gexlive/backtest-spx-dealer-gamma-rules-from-your-ai-assistant-2ffn) (2026-08-20)
+- [AI Killed Git Commits: So I Stopped Publishing Them](https://dev.to/js402/ai-killed-git-commits-so-i-stopped-publishing-them-3182) (2026-08-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Advanced JavaScript Promise Patterns Every Developer Should Know](https://medium.com/skillstuff/9-advanced-javascript-promise-patterns-every-developer-should-know-bd0528a99534?source=rss------programming-5) (2026-08-20)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-0eef24b48891?source=rss------programming-5) (2026-08-20)
-- [Angular 22: When to Use Signals, RxJS, or Both](https://codewithbilal.medium.com/angular-22-when-to-use-signals-rxjs-or-both-9507927bb59e?source=rss------programming-5) (2026-08-20)
-- [Go Rejected This Method for Five Years — Its Own Team Had Been Using It for Six](https://pub.huizhou92.com/go-rejected-this-method-for-five-years-its-own-team-had-been-using-it-for-six-3c33fafd71ac?source=rss------programming-5) (2026-08-20)
-- [Why Prompt Engineering Is the Most Underrated Skill of 2026
-The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/why-prompt-engineering-is-the-most-underrated-skill-of-2026-the-672-million-skill-nobodys-talking-beab5eae1b01?source=rss------programming-5) (2026-08-20)
+- [I Built an AI Co-Teacher for Indian Classrooms and I Don’t Want It to Replace Teachers](https://medium.com/@sharshitsingh007/i-built-an-ai-co-teacher-for-indian-classrooms-and-i-dont-want-it-to-replace-teachers-d82f7c294475?source=rss------programming-5) (2026-08-20)
+- [ Two Decorators, One Broken Retry: Symfony HttpClient’s SSE + Retry Trap](https://medium.com/@laurentmn/two-decorators-one-broken-retry-symfony-httpclients-sse-retry-trap-071d95f3343a?source=rss------programming-5) (2026-08-20)
+- [I Switched From JWTs to Session Cookies and Everyone Yelled at Me](https://medium.com/@rameshkannanyt0078/i-switched-from-jwts-to-session-cookies-and-everyone-yelled-at-me-9ef13fddd5fd?source=rss------programming-5) (2026-08-20)
+- [Block’s New Berd: What Beginner AI App Builders Should Learn About Visible Context in 2026](https://marcusykim.medium.com/blocks-new-berd-what-beginner-ai-app-builders-should-learn-about-visible-context-in-2026-4a6a43054a12?source=rss------programming-5) (2026-08-20)
+- [We Rewrote Our Hottest Service in Rust. Latency Dropped 90% — Then the Real Bill Arrived](https://medium.com/@maahisoft20/we-rewrote-our-hottest-service-in-rust-latency-dropped-90-then-the-real-bill-arrived-ff5b6ea47ae6?source=rss------programming-5) (2026-08-20)
 
 </details>
 
@@ -131,11 +130,11 @@ The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/w
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/) (2026-08-20)
 - [Securing the Infrastructure of Intelligence](https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/) (2026-08-17)
 - [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/) (2026-08-14)
 - [Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More](https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/) (2026-08-13)
 - [NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs](https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/) (2026-08-12)
-- [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/) (2026-08-12)
 
 </details>
 
@@ -197,11 +196,11 @@ The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/w
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/) (2026-08-20)
 - [17,600 Actions: Agent Security Is a Systems Problem](https://www.docker.com/blog/ai-agent-security-systems-problem/) (2026-08-18)
 - [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/) (2026-08-18)
 - [Make zero CVEs your new default](https://www.docker.com/blog/make-zero-cves-your-new-default/) (2026-08-17)
 - [Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/) (2026-08-14)
-- [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/) (2026-08-12)
 
 </details>
 
@@ -307,11 +306,11 @@ The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/w
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [PyCharm for AI-assisted Django Workflows](https://blog.jetbrains.com/pycharm/2026/08/pycharm-for-ai-assisted-django-workflows/) (2026-08-20)
 - [Ready for Go 1.27 on Day One](https://blog.jetbrains.com/go/2026/08/20/ready-for-go-1-27-on-day-one/) (2026-08-20)
 - [Signatures, be true: domain errors and functional handling in Kotlin](https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/) (2026-08-19)
 - [Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/) (2026-08-19)
 - [Rider 2026.2.1 and ReSharper 2026.2.1 Are Here!](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/) (2026-08-19)
-- [What’s Fixed and Improved in PyCharm 2026.2](https://blog.jetbrains.com/pycharm/2026/08/what-s-fixed-and-improved-in-pycharm-2026-2/) (2026-08-19)
 
 </details>
 
@@ -351,22 +350,22 @@ The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/w
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Manage Vercel Toolbar comments from the CLI](https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli) (2026-08-20)
+- [Custom metrics are now supported in Vercel Observability](https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability) (2026-08-20)
+- [How v0 authenticates to Snowflake without exposing the user's OAuth token](https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token) (2026-08-20)
+- [Bun 1.4 is now available in Vercel Functions](https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions) (2026-08-20)
 - [Algolia joins the Vercel Marketplace](https://vercel.com/changelog/algolia-vercel-marketplace) (2026-08-19)
-- [Introducing Vercel for Slack](https://vercel.com/blog/introducing-vercel-for-slack) (2026-08-19)
-- [Compliance documents are now available in Team settings](https://vercel.com/changelog/compliance-documents-are-now-available-in-team-settings) (2026-08-19)
-- [Fish Audio models now available on Vercel AI Gateway for free](https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free) (2026-08-19)
-- [Vercel for Slack now in public beta](https://vercel.com/changelog/vercel-for-slack-now-in-public-beta) (2026-08-19)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) (2026-08-20)
 - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) (2026-08-19)
 - [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) (2026-08-18)
 - [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/) (2026-08-14)
 - [Secure all your internal vibe-coded applications — in one click](https://blog.cloudflare.com/workers-protected-by-access/) (2026-08-14)
-- [Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal](https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/) (2026-08-13)
 
 </details>
 
@@ -377,7 +376,7 @@ The $672 Million Skill Nobody’s Talking…](https://medium.com/@kurmianuj239/w
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
-) (2026-08-20)
+) (2026-08-21)
 - [
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
@@ -404,13 +403,12 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Enterprise-Managed Authorization for your MCP server: Setting Up and Testing XAA in Auth0](https://auth0.com/blog/setting-up-testing-cross-app-access-auth0/) (2026-08-20)
+- [Enterprise Readiness Is Not What You Support. It Is What Your Customers Can Own](https://auth0.com/blog/enterprise-readiness-is-not-what-you-support/) (2026-08-20)
 - [Building Secure AI Agents with Microsoft Agent Framework and Auth0: Sending Email with Token Vault](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-3-sending-email-with-token-vault/) (2026-08-19)
 - [Device Authorization Flow for a Rust CLI and an Axum API
 ](https://auth0.com/blog/device-authorization-flow-rust-cli-axum-api/) (2026-08-18)
 - [Auth0 Learning: The New Skill-Building Platform for Developers](https://auth0.com/blog/auth0-learning-new-developer-skill-building-platform/) (2026-08-17)
-- [Building Secure AI Agents with Microsoft Agent Framework and Auth0: RAG Filtering](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-2-rag-filtering/) (2026-08-12)
-- [Intent, Not Just Permissions: Rethinking Authorization for AI Agents 
-](https://auth0.com/blog/intent-rethinking-authorization-ai-agents/) (2026-08-11)
 
 </details>
 
@@ -494,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 7 best Salesforce alternatives in 2026](https://zapier.com/blog/salesforce-alternatives) (2026-08-20)
+- [The 6 best Replit alternatives in 2026](https://zapier.com/blog/replit-alternatives) (2026-08-20)
+- [The 6 best Boomi alternatives in 2026](https://zapier.com/blog/boomi-alternatives) (2026-08-20)
+- [How Rozas uses Zapier to give every lead a 2-minute headstart](https://zapier.com/blog/rozas-two-minute-lead-response) (2026-08-19)
 - [What is ChatGPT Work? ](https://zapier.com/blog/chatgpt-work) (2026-08-19)
-- [Fathom vs. Fireflies: Which AI notetaker is best? [2026]](https://zapier.com/blog/fathom-vs-fireflies) (2026-08-18)
-- [Zapier MCP: Perform tens of thousands of actions in your AI tool](https://zapier.com/blog/zapier-mcp-guide) (2026-08-18)
-- [The 7 best calendar apps for Android in 2026](https://zapier.com/blog/best-android-calendar-apps) (2026-08-18)
-- [The 5 best customer data platforms in 2026](https://zapier.com/blog/customer-data-platform) (2026-08-18)
 
 </details>
 
@@ -549,18 +547,18 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/) (2026-08-20)
 - [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
 - [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/) (2026-08-10)
 - [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/) (2026-08-06)
 - [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/) (2026-08-06)
-- [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/) (2026-07-30)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad) (2026-08-19)
+- [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark) (2026-08-20)
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
@@ -569,13 +567,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
+- [AI data centre regulation just got a template that needs no new law](https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/) (2026-08-20)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Effectively Align Your Intent with Claude Code](https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/) (2026-08-20)
+- [The LLM Judge That Kept Agreeing With Itself](https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/) (2026-08-20)
+- [Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One](https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/) (2026-08-20)
+- [How to Fine-Tune an LLM: An End-to-End Guide](https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/) (2026-08-20)
 - [Making the Knowledge Layer a Graph You Actually Traverse](https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/) (2026-08-20)
-- [How to Scale an Integration Pipeline Without Breaking Correctness](https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/) (2026-08-19)
-- [Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality](https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/) (2026-08-19)
-- [Understanding Anti-AI Public Opinion](https://towardsdatascience.com/understanding-anti-ai-public-opinion/) (2026-08-19)
-- [Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision](https://towardsdatascience.com/jigsaw-jeeves-building-a-puzzle-assistant-using-computer-vision/) (2026-08-19)
 
 </details>
 
@@ -593,22 +602,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Build a Career in AI: 3 Distinct Pathways](https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways) (2026-08-20)
 - [Top 10 Open-Source Benchmarks for AI Coding Agents in 2026](https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026) (2026-08-20)
 - [How to Answer AI System Design Interview Questions](https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions) (2026-08-19)
 - [5 Tools for Building and Deploying AI Agents in Production](https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production) (2026-08-19)
 - [Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands](https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands) (2026-08-18)
-- [5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong](https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong) (2026-08-18)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Build a Robust RAG System with Minimal Resources](https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/) (2026-08-20)
 - [Managing Small Context Windows in Language Models](https://machinelearningmastery.com/managing-small-context-windows-in-language-models/) (2026-08-18)
 - [7 Regression Tests Every AI Agent Should Pass Before Deploy](https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/) (2026-08-17)
 - [Understanding the Role of Latent Space in Machine Learning Models](https://machinelearningmastery.com/understanding-the-role-of-latent-space-in-machine-learning-models/) (2026-08-14)
 - [Retrieval vs. Memory in Agentic AI Systems](https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/) (2026-08-12)
-- [7 Async Patterns for Running Agents Concurrently in Python](https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/) (2026-08-11)
 
 </details>
 
