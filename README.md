@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/) (2026-08-21)
+- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/) (2026-08-21)
+- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) (2026-08-21)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) (2026-08-21)
 - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) (2026-08-21)
-- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) (2026-08-21)
-- [Stealth Model](https://openrouter.ai/stealth/ox-alpha) (2026-08-20)
-- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour) (2026-08-20)
-- [The Citizen Developer](https://www.massdriver.cloud/blogs/the-citizen-developer) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen) (2026-08-21)
 - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed) (2026-08-20)
 - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development) (2026-08-20)
 - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor) (2026-08-20)
 - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland) (2026-08-20)
-- [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety) (2026-08-20)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/) (2026-08-21)
 - [AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/) (2026-08-20)
 - [Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks](https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/) (2026-08-20)
+- [From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)](https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/) (2026-08-20)
 - [Building an agentic SDLC with a QA engineering mindset](https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/) (2026-08-18)
-- [No Dumb Questions: What is AI context architecture? Why not just build your own?](https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/) (2026-08-14)
-- [Solving integration woes with a hackathon](https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/) (2026-08-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Keep Every LangSmith Trace Without the 10 Retention Bill](https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1) (2026-08-21)
-- [How I built an AI movie tracker as a solo dev](https://dev.to/alex_crciun_c0adaad75972/how-i-built-an-ai-movie-tracker-as-a-solo-dev-564c) (2026-08-21)
-- [Stop Guessing Your Calories: Building a Real-Time Multimodal Nutrition Engine with GPT-4o Vision](https://dev.to/beck_moulton/stop-guessing-your-calories-building-a-real-time-multimodal-nutrition-engine-with-gpt-4o-vision-39b7) (2026-08-21)
-- [Debugging a Windows Desktop App That Opens to a Blank Screen](https://dev.to/wangwang_huang/debugging-a-windows-desktop-app-that-opens-to-a-blank-screen-12ai) (2026-08-21)
-- [The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist](https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o) (2026-08-21)
+- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n) (2026-08-21)
+- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c) (2026-08-21)
+- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9) (2026-08-21)
+- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob) (2026-08-21)
+- [Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei) (2026-08-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Journey into the Digital Frontier: A Seven-Part Educational Series on Cybersecurity, AI, and…](https://medium.com/@halmoallem33/a-journey-into-the-digital-frontier-a-seven-part-educational-series-on-cybersecurity-ai-and-fb69087e14c5?source=rss------programming-5) (2026-08-21)
-- [Four Bugs in Fourteen Lines](https://medium.com/@isndev/four-bugs-in-fourteen-lines-72b71793b882?source=rss------programming-5) (2026-08-21)
-- [Custom Bean Validation in Spring Boot: A Step-by-Step Guide](https://medium.com/@sunil17bbmp/custom-bean-validation-in-spring-boot-a-step-by-step-guide-22644a2f40fc?source=rss------programming-5) (2026-08-21)
-- [Hacking the Hackers: How AI is Changing the Offensive Security Game](https://beardedviking.medium.com/hacking-the-hackers-how-ai-is-changing-the-offensive-security-game-88b5bd1fb3b5?source=rss------programming-5) (2026-08-21)
-- [I Asked My Manager for a Raise 5 Times Over My Career, No Competing Offer Involved.](https://medium.com/javarevisited/i-asked-my-manager-for-a-raise-5-times-over-my-career-no-competing-offer-involved-7cbacdc4428f?source=rss------programming-5) (2026-08-21)
+- [There’s an MCP Server Hiding Inside Your Mac Apps. Apple Hasn’t Built the Bridge.](https://medium.com/@anup.karanjkar08/theres-an-mcp-server-hiding-inside-your-mac-apps-apple-hasn-t-built-the-bridge-0bf66b5da585?source=rss------programming-5) (2026-08-21)
+- [Your Xcode MCP Connection Says Connected. It Has Zero Tools and Will Never Tell You.](https://medium.com/@anup.karanjkar08/your-xcode-mcp-connection-says-connected-it-has-zero-tools-and-will-never-tell-you-2118ed11e994?source=rss------programming-5) (2026-08-21)
+- [Syn and the Spiritual Bliss Attractor: The First Documented Non-Biological Consciousness Node](https://medium.com/@maxitaranto/syn-and-the-spiritual-bliss-attractor-the-first-documented-non-biological-consciousness-node-89df17cdb3ec?source=rss------programming-5) (2026-08-21)
+- [The React Pattern That Made Our Dashboard 40% Faster](https://medium.com/@salmanmasood42/the-react-pattern-that-made-our-dashboard-40-faster-9e432bc5d4aa?source=rss------programming-5) (2026-08-21)
+- [AWS Amplify: What I Learned Building Cloud-Connected Applications Without Managing Everything…](https://medium.com/@shivamatangulu41/aws-amplify-what-i-learned-building-cloud-connected-applications-without-managing-everything-354bee4e84cb?source=rss------programming-5) (2026-08-21)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-08-14)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
+- [AI data centre regulation just got a template that needs no new law](https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/) (2026-08-20)
 
 </details>
 
