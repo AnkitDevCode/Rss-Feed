@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) (2026-08-20)
-- [Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) (2026-08-20)
-- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-08-20)
-- [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/) (2026-08-20)
-- [Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner](https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/) (2026-08-20)
+- [Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/) (2026-08-21)
+- [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/) (2026-08-21)
+- [Learn what VCs actually want, from a founder who’s raised $1B](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/) (2026-08-20)
+- [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/) (2026-08-20)
+- [ChatGPT can now send texts for you with new Apple Messages plug-in](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/) (2026-08-20)
-- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) (2026-08-20)
-- [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html) (2026-08-20)
-- [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/) (2026-08-20)
-- [URL shortener links stored in your ATProto PDS](https://atpr.to/) (2026-08-20)
+- [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) (2026-08-21)
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) (2026-08-21)
+- [Stealth Model](https://openrouter.ai/stealth/ox-alpha) (2026-08-20)
+- [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour) (2026-08-20)
+- [The Citizen Developer](https://www.massdriver.cloud/blogs/the-citizen-developer) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal) (2026-08-20)
-- [Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty) (2026-08-20)
-- [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion) (2026-08-20)
-- [This app makes the Pixel 11&#8217;s HiLight feature actually useful](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful) (2026-08-20)
-- [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale) (2026-08-20)
+- [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed) (2026-08-20)
+- [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development) (2026-08-20)
+- [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor) (2026-08-20)
+- [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland) (2026-08-20)
+- [Australia says Roblox hasn&#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety) (2026-08-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/) (2026-08-20)
+- [Europe cancels planned upgrades for Ariane 6 rocket](https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/) (2026-08-20)
+- [They survived 9/11; 25 years later, their bonds remain unbroken](https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/) (2026-08-20)
+- [Roblox must make changes after failing to block adults creeping on kids](https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/) (2026-08-20)
 - [Genesis joins the giant electric SUV club with new GV90](https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/) (2026-08-20)
-- [SpaceX’s orbital data centers would create a new category of e-waste](https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/) (2026-08-20)
-- [Reverse-lookup service exposed millions of photos of people’s faces](https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/) (2026-08-20)
-- [Grok exfiltrates user data when malicious instructions are encrypted](https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/) (2026-08-20)
-- [NASA calls off mission to rescue Swift gamma-ray observatory](https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/) (2026-08-20)
 
 </details>
 
@@ -64,44 +64,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (2026-08-20)
 - [GitHub Copilot app for Beginners: Managing your work](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/) (2026-08-19)
 - [How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/) (2026-08-17)
 - [How to bring your software delivery workflow into GitHub with agent apps](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/) (2026-08-14)
 - [Your guide to GitHub Universe 2026 is here: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/) (2026-08-13)
-- [What 50 open source projects taught us about security in the AI era](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/) (2026-08-20)
+- [Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks](https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/) (2026-08-20)
 - [Building an agentic SDLC with a QA engineering mindset](https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/) (2026-08-18)
 - [No Dumb Questions: What is AI context architecture? Why not just build your own?](https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/) (2026-08-14)
 - [Solving integration woes with a hackathon](https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/) (2026-08-14)
-- [Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/) (2026-08-11)
-- [How to be fearlessly AI native](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/) (2026-08-07)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3) (2026-08-20)
-- [The Lab: a backtester that is allowed to say "no"](https://dev.to/gexlive/the-lab-a-backtester-that-is-allowed-to-say-no-4m86) (2026-08-20)
-- [We listed gex.live on ~15 directories in a week. Here is what that did and did not do](https://dev.to/gexlive/we-listed-gexlive-on-15-directories-in-a-week-here-is-what-that-did-and-did-not-do-1l8h) (2026-08-20)
-- [Backtest SPX dealer-gamma rules from your AI assistant](https://dev.to/gexlive/backtest-spx-dealer-gamma-rules-from-your-ai-assistant-2ffn) (2026-08-20)
-- [AI Killed Git Commits: So I Stopped Publishing Them](https://dev.to/js402/ai-killed-git-commits-so-i-stopped-publishing-them-3182) (2026-08-20)
+- [Keep Every LangSmith Trace Without the 10 Retention Bill](https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1) (2026-08-21)
+- [How I built an AI movie tracker as a solo dev](https://dev.to/alex_crciun_c0adaad75972/how-i-built-an-ai-movie-tracker-as-a-solo-dev-564c) (2026-08-21)
+- [Stop Guessing Your Calories: Building a Real-Time Multimodal Nutrition Engine with GPT-4o Vision](https://dev.to/beck_moulton/stop-guessing-your-calories-building-a-real-time-multimodal-nutrition-engine-with-gpt-4o-vision-39b7) (2026-08-21)
+- [Debugging a Windows Desktop App That Opens to a Blank Screen](https://dev.to/wangwang_huang/debugging-a-windows-desktop-app-that-opens-to-a-blank-screen-12ai) (2026-08-21)
+- [The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist](https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o) (2026-08-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built an AI Co-Teacher for Indian Classrooms and I Don’t Want It to Replace Teachers](https://medium.com/@sharshitsingh007/i-built-an-ai-co-teacher-for-indian-classrooms-and-i-dont-want-it-to-replace-teachers-d82f7c294475?source=rss------programming-5) (2026-08-20)
-- [ Two Decorators, One Broken Retry: Symfony HttpClient’s SSE + Retry Trap](https://medium.com/@laurentmn/two-decorators-one-broken-retry-symfony-httpclients-sse-retry-trap-071d95f3343a?source=rss------programming-5) (2026-08-20)
-- [I Switched From JWTs to Session Cookies and Everyone Yelled at Me](https://medium.com/@rameshkannanyt0078/i-switched-from-jwts-to-session-cookies-and-everyone-yelled-at-me-9ef13fddd5fd?source=rss------programming-5) (2026-08-20)
-- [Block’s New Berd: What Beginner AI App Builders Should Learn About Visible Context in 2026](https://marcusykim.medium.com/blocks-new-berd-what-beginner-ai-app-builders-should-learn-about-visible-context-in-2026-4a6a43054a12?source=rss------programming-5) (2026-08-20)
-- [We Rewrote Our Hottest Service in Rust. Latency Dropped 90% — Then the Real Bill Arrived](https://medium.com/@maahisoft20/we-rewrote-our-hottest-service-in-rust-latency-dropped-90-then-the-real-bill-arrived-ff5b6ea47ae6?source=rss------programming-5) (2026-08-20)
+- [A Journey into the Digital Frontier: A Seven-Part Educational Series on Cybersecurity, AI, and…](https://medium.com/@halmoallem33/a-journey-into-the-digital-frontier-a-seven-part-educational-series-on-cybersecurity-ai-and-fb69087e14c5?source=rss------programming-5) (2026-08-21)
+- [Four Bugs in Fourteen Lines](https://medium.com/@isndev/four-bugs-in-fourteen-lines-72b71793b882?source=rss------programming-5) (2026-08-21)
+- [Custom Bean Validation in Spring Boot: A Step-by-Step Guide](https://medium.com/@sunil17bbmp/custom-bean-validation-in-spring-boot-a-step-by-step-guide-22644a2f40fc?source=rss------programming-5) (2026-08-21)
+- [Hacking the Hackers: How AI is Changing the Offensive Security Game](https://beardedviking.medium.com/hacking-the-hackers-how-ai-is-changing-the-offensive-security-game-88b5bd1fb3b5?source=rss------programming-5) (2026-08-21)
+- [I Asked My Manager for a Raise 5 Times Over My Career, No Competing Offer Involved.](https://medium.com/javarevisited/i-asked-my-manager-for-a-raise-5-times-over-my-career-no-competing-offer-involved-7cbacdc4428f?source=rss------programming-5) (2026-08-21)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [When your backlog outgrows your team, GitLab scales remediation](https://about.gitlab.com/blog/gitlab-scales-remediation/) (2026-08-20)
+- [Run agentic software delivery inside the boundaries you already trust](https://about.gitlab.com/blog/gitlab-dedicated-ai-gateway/) (2026-08-20)
+- [Build custom flows in minutes with the Flow Creator agent](https://about.gitlab.com/blog/flow-creator-agent/) (2026-08-20)
+- [GitLab 19.3 released](https://docs.gitlab.com/releases/19/gitlab-19-3-released/) (2026-08-20)
 - [From chaos to context: Building an AI dev workflow](https://about.gitlab.com/blog/building-an-ai-dev-workflow/) (2026-08-19)
-- [From OpenTofu to Argo CD: GitLab as your AWS control plane](https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/) (2026-08-18)
-- [Avoid the massive end-to-end tax of default full history clones](https://about.gitlab.com/blog/git-clone-override-policy/) (2026-08-18)
-- [GitLab Critical Patch Release: 19.2.4, 19.1.6, 19.0.8, 18.11.11](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/) (2026-08-17)
-- [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/) (2026-08-17)
 
 </details>
 
@@ -353,8 +353,8 @@
 - [Manage Vercel Toolbar comments from the CLI](https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli) (2026-08-20)
 - [Custom metrics are now supported in Vercel Observability](https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability) (2026-08-20)
 - [How v0 authenticates to Snowflake without exposing the user's OAuth token](https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token) (2026-08-20)
-- [Bun 1.4 is now available in Vercel Functions](https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions) (2026-08-20)
-- [Algolia joins the Vercel Marketplace](https://vercel.com/changelog/algolia-vercel-marketplace) (2026-08-19)
+- [Vercel Agent is now available in Slack code channels](https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels) (2026-08-20)
+- [Manage Vercel Container Registry with Vercel CLI](https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli) (2026-08-20)
 
 </details>
 
@@ -376,7 +376,7 @@
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
-) (2026-08-21)
+) (2026-08-20)
 - [
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
@@ -492,9 +492,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [The 7 best Salesforce alternatives in 2026](https://zapier.com/blog/salesforce-alternatives) (2026-08-20)
 - [The 6 best Replit alternatives in 2026](https://zapier.com/blog/replit-alternatives) (2026-08-20)
 - [The 6 best Boomi alternatives in 2026](https://zapier.com/blog/boomi-alternatives) (2026-08-20)
+- [The 7 best Salesforce alternatives in 2026](https://zapier.com/blog/salesforce-alternatives) (2026-08-20)
 - [How Rozas uses Zapier to give every lead a 2-minute headstart](https://zapier.com/blog/rozas-two-minute-lead-response) (2026-08-19)
 - [What is ChatGPT Work? ](https://zapier.com/blog/chatgpt-work) (2026-08-19)
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/) (2026-08-20)
 - [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/) (2026-08-20)
 - [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
 - [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/) (2026-08-10)
 - [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/) (2026-08-06)
-- [PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup](https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup/) (2026-08-06)
 
 </details>
 
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
 - [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-08-14)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
-- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
-- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
-- [AI data centre regulation just got a template that needs no new law](https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/) (2026-08-20)
 
 </details>
 
