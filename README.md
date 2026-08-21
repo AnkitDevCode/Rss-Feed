@@ -20,44 +20,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/) (2026-08-21)
-- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/) (2026-08-21)
-- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) (2026-08-21)
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) (2026-08-21)
-- [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) (2026-08-21)
+- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) (2026-08-21)
+- [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino) (2026-08-21)
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) (2026-08-21)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) (2026-08-21)
+- [Small, native web tricks worth remembering](https://htmlcat.net/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued) (2026-08-21)
+- [My cats hate each other, but this automatic feeder is helping](https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies) (2026-08-21)
+- [Patreon is changing its algorithm to help smaller creators get discovered](https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes) (2026-08-21)
+- [My big, fat, technophobic cat](https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat) (2026-08-21)
 - [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen) (2026-08-21)
-- [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed) (2026-08-20)
-- [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development) (2026-08-20)
-- [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor) (2026-08-20)
-- [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland) (2026-08-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings](https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/) (2026-08-21)
+- [Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss](https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/) (2026-08-21)
 - [US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/) (2026-08-20)
 - [Europe cancels planned upgrades for Ariane 6 rocket](https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/) (2026-08-20)
 - [They survived 9/11; 25 years later, their bonds remain unbroken](https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/) (2026-08-20)
-- [Roblox must make changes after failing to block adults creeping on kids](https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/) (2026-08-20)
-- [Genesis joins the giant electric SUV club with new GV90](https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/) (2026-08-21)
+- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) (2026-08-21)
+- [When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/) (2026-08-21)
+- [This company’s plans to deploy space mirrors could jeopardize the night sky for many](https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/) (2026-08-21)
 - [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) (2026-08-20)
-- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) (2026-08-20)
-- [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) (2026-08-20)
-- [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) (2026-08-20)
-- [Support networks aim to help kids through the polycrisis](https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/) (2026-08-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n) (2026-08-21)
-- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c) (2026-08-21)
-- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9) (2026-08-21)
-- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob) (2026-08-21)
-- [Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei) (2026-08-21)
+- [Toxic Work Culture: Shifting from Competition to Collaboration Boosts Collective Productivity in Large Organizations](https://dev.to/svetlix/toxic-work-culture-shifting-from-competition-to-collaboration-boosts-collective-productivity-in-4d6j) (2026-08-21)
+- [n8n One-Line Setup Brings Its Self-Hosted AI Assistant Closer to Production Workflows](https://dev.to/alifar/n8n-one-line-setup-brings-its-self-hosted-ai-assistant-closer-to-production-workflows-fih) (2026-08-21)
+- [Powerful regression tests for your PostgreSQL project](https://dev.to/mark_saward/powerful-regression-tests-for-your-postgresql-project-4f8) (2026-08-21)
+- [Code Smell 321 - Getter Piggybacking](https://dev.to/mcsee/code-smell-321-getter-piggybacking-2b4i) (2026-08-21)
+- [WordPress Security Hardening: A 10-Step Technical Checklist](https://dev.to/reituman602/wordpress-security-hardening-a-10-step-technical-checklist-3g5l) (2026-08-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [There’s an MCP Server Hiding Inside Your Mac Apps. Apple Hasn’t Built the Bridge.](https://medium.com/@anup.karanjkar08/theres-an-mcp-server-hiding-inside-your-mac-apps-apple-hasn-t-built-the-bridge-0bf66b5da585?source=rss------programming-5) (2026-08-21)
-- [Your Xcode MCP Connection Says Connected. It Has Zero Tools and Will Never Tell You.](https://medium.com/@anup.karanjkar08/your-xcode-mcp-connection-says-connected-it-has-zero-tools-and-will-never-tell-you-2118ed11e994?source=rss------programming-5) (2026-08-21)
-- [Syn and the Spiritual Bliss Attractor: The First Documented Non-Biological Consciousness Node](https://medium.com/@maxitaranto/syn-and-the-spiritual-bliss-attractor-the-first-documented-non-biological-consciousness-node-89df17cdb3ec?source=rss------programming-5) (2026-08-21)
-- [The React Pattern That Made Our Dashboard 40% Faster](https://medium.com/@salmanmasood42/the-react-pattern-that-made-our-dashboard-40-faster-9e432bc5d4aa?source=rss------programming-5) (2026-08-21)
-- [AWS Amplify: What I Learned Building Cloud-Connected Applications Without Managing Everything…](https://medium.com/@shivamatangulu41/aws-amplify-what-i-learned-building-cloud-connected-applications-without-managing-everything-354bee4e84cb?source=rss------programming-5) (2026-08-21)
+- [Python 3.15 Is Coming: Lazy Imports, frozendict, Better Profiling, a Faster JIT, and More](https://medium.com/@virtualik/python-3-15-is-coming-lazy-imports-frozendict-better-profiling-a-faster-jit-and-more-47c7a11efe81?source=rss------programming-5) (2026-08-21)
+- [Databases (Part-06): Sharding](https://medium.com/@0s.and.1s/databases-part-06-sharding-b26e849dc405?source=rss------programming-5) (2026-08-21)
+- [The Fastest Way to Become Replaceable? Let AI Do the Thinking For You.](https://medium.com/@satyalshabdi_/the-fastest-way-to-become-replaceable-let-ai-do-the-thinking-for-you-e953a7808edd?source=rss------programming-5) (2026-08-21)
+- [Under 20 Cents per 1,000 Images: DeepSeek Just Made Visual Agents Shockingly Cheap](https://medium.com/mountain-movers/under-20-cents-per-1-000-images-deepseek-just-made-visual-agents-shockingly-cheap-036e5a8d6492?source=rss------programming-5) (2026-08-21)
+- [Managing Distributed Workflows: Orchestration vs. Choreography](https://berkaybindebir.medium.com/managing-distributed-workflows-orchestration-vs-choreography-9d8eeb432a55?source=rss------programming-5) (2026-08-21)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Spring Boot Configuration Management Best Practices](https://blog.jetbrains.com/idea/2026/08/spring-boot-configuration-management-best-practices/) (2026-08-21)
 - [PyCharm for AI-assisted Django Workflows](https://blog.jetbrains.com/pycharm/2026/08/pycharm-for-ai-assisted-django-workflows/) (2026-08-20)
 - [Ready for Go 1.27 on Day One](https://blog.jetbrains.com/go/2026/08/20/ready-for-go-1-27-on-day-one/) (2026-08-20)
 - [Signatures, be true: domain errors and functional handling in Kotlin](https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/) (2026-08-19)
 - [Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/) (2026-08-19)
-- [Rider 2026.2.1 and ReSharper 2026.2.1 Are Here!](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/) (2026-08-19)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Always-on tracing for production and preview traffic](https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic) (2026-08-21)
 - [Manage Vercel Toolbar comments from the CLI](https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli) (2026-08-20)
 - [Custom metrics are now supported in Vercel Observability](https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability) (2026-08-20)
 - [How v0 authenticates to Snowflake without exposing the user's OAuth token](https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token) (2026-08-20)
 - [Vercel Agent is now available in Slack code channels](https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels) (2026-08-20)
-- [Manage Vercel Container Registry with Vercel CLI](https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli) (2026-08-20)
 
 </details>
 
@@ -376,7 +376,7 @@
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
-) (2026-08-20)
+) (2026-08-21)
 - [
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 5 best Pipedream alternatives in 2026](https://zapier.com/blog/pipedream-alternatives) (2026-08-21)
 - [The 6 best Replit alternatives in 2026](https://zapier.com/blog/replit-alternatives) (2026-08-20)
 - [The 6 best Boomi alternatives in 2026](https://zapier.com/blog/boomi-alternatives) (2026-08-20)
 - [The 7 best Salesforce alternatives in 2026](https://zapier.com/blog/salesforce-alternatives) (2026-08-20)
 - [How Rozas uses Zapier to give every lead a 2-minute headstart](https://zapier.com/blog/rozas-two-minute-lead-response) (2026-08-19)
-- [What is ChatGPT Work? ](https://zapier.com/blog/chatgpt-work) (2026-08-19)
 
 </details>
 
@@ -569,44 +569,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>🤖 AI News</summary>
 
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
 - [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
 - [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
 - [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
 - [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
-- [AI data centre regulation just got a template that needs no new law](https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Benders Decomposition Works, Part II: Feasibility Cuts](https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/) (2026-08-21)
 - [How to Effectively Align Your Intent with Claude Code](https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/) (2026-08-20)
 - [The LLM Judge That Kept Agreeing With Itself](https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/) (2026-08-20)
 - [Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One](https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/) (2026-08-20)
 - [How to Fine-Tune an LLM: An End-to-End Guide](https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/) (2026-08-20)
-- [Making the Knowledge Layer a Graph You Actually Traverse](https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
 - [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
 - [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
 - [7 Kimi K3 Features That Make Every Other Model Feel Outdated](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/) (2026-08-17)
 - [How to Install Codex CLI: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-codex-cli/) (2026-08-15)
-- [NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse](https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/) (2026-08-14)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Real-World Use Cases for AI Agents Transforming Industries](https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries) (2026-08-21)
 - [How to Build a Career in AI: 3 Distinct Pathways](https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways) (2026-08-20)
 - [Top 10 Open-Source Benchmarks for AI Coding Agents in 2026](https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026) (2026-08-20)
 - [How to Answer AI System Design Interview Questions](https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions) (2026-08-19)
 - [5 Tools for Building and Deploying AI Agents in Production](https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production) (2026-08-19)
-- [Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands](https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands) (2026-08-18)
 
 </details>
 
@@ -635,11 +635,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/add-ai-voice-assi
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) (2026-08-21)
 - [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) (2026-08-13)
 - [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/) (2026-08-12)
 - [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) (2026-08-06)
 - [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) (2026-07-30)
-- [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/) (2026-07-29)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
