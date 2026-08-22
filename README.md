@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Tesla’s solar roof is dead. Here’s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/) (2026-08-21)
-- [Waymo hands over documents in NHTSA’s child collision probe](https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/) (2026-08-21)
-- [Why is the DOJ investigating Andreessen Horowitz’s board seats?](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/) (2026-08-21)
-- [US government lab is probing Chinese lidar for security vulnerabilities](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/) (2026-08-21)
-- [Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/) (2026-08-21)
+- [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) (2026-08-21)
+- [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) (2026-08-21)
+- [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/) (2026-08-21)
+- [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/) (2026-08-21)
+- [TikTok reaches $400M settlement over children’s privacy lawsuit](https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift) (2026-08-21)
-- [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/) (2026-08-21)
-- [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) (2026-08-21)
-- [Another better lower bound for n=17 square packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html) (2026-08-21)
-- [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate) (2026-08-21)
+- [HN: The Good Parts (2016)](https://danluu.com/hn-comments/) (2026-08-21)
+- [Paul Atkins misreads Adam Smith and the American founding](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/) (2026-08-21)
+- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) (2026-08-21)
+- [Pentagon dismisses Stars and Stripes leadership after opposition to interference](https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70) (2026-08-21)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo) (2026-08-21)
+- [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa) (2026-08-21)
+- [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) (2026-08-21)
+- [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri) (2026-08-21)
 - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal) (2026-08-21)
-- [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch) (2026-08-21)
-- [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed) (2026-08-21)
-- [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend) (2026-08-21)
-- [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control) (2026-08-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) (2026-08-21)
+- [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) (2026-08-21)
+- [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/) (2026-08-21)
+- [Lawsuit demands Logitech hand tariff refunds over to customers](https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/) (2026-08-21)
 - [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/) (2026-08-21)
-- [Fighter jets help destroy Russian drone boat near European offshore gas platform](https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/) (2026-08-21)
-- [Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say](https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/) (2026-08-21)
-- [Waymo doubles spending on lobbying in robotaxi battle with Uber](https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/) (2026-08-21)
-- [As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings](https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/) (2026-08-21)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Christianity Makes Perfect Sense!](https://dev.to/wiseai/christianity-makes-perfect-sense-2e1e) (2026-08-21)
-- [Cifrado híbrido: por qué combinar criptografía clásica y post-cuántica](https://dev.to/isazajuancarlos/cifrado-hibrido-por-que-combinar-criptografia-clasica-y-post-cuantica-3k69) (2026-08-21)
-- [Language is Limited. ASI is Impossible.](https://dev.to/wiseai/language-is-limited-asi-is-impossible-e5l) (2026-08-21)
-- [Technology Has Destroyed My Livelihood](https://dev.to/wiseai/technology-has-destroyed-my-livelihood-15de) (2026-08-21)
-- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h) (2026-08-21)
+- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l) (2026-08-22)
+- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27) (2026-08-22)
+- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek) (2026-08-22)
+- [How to launch an AI automation agency offering voice AI agents for local businesses](https://dev.to/samchenreviews/how-to-launch-an-ai-automation-agency-offering-voice-ai-agents-for-local-businesses-1n0o) (2026-08-22)
+- [how to build voice ai for inbound calls](https://dev.to/samchenreviews/how-to-build-voice-ai-for-inbound-calls-2hpk) (2026-08-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI planning, the correct way](https://levelup.gitconnected.com/ai-planning-the-correct-way-55b1923f6906?source=rss------programming-5) (2026-08-21)
-- [Saving the Animals: Recreating an Old iOS Game from Scratch with libGDX](https://levelup.gitconnected.com/saving-the-animals-recreating-an-old-ios-game-from-scratch-with-libgdx-a414f7a9914d?source=rss------programming-5) (2026-08-21)
-- [Don’t Do Design by Coincidence](https://levelup.gitconnected.com/dont-do-design-by-coincidence-cee06616b2cd?source=rss------programming-5) (2026-08-21)
-- [We Made Our Consumers Idempotent. That’s When Duplicates Started Costing Money.](https://levelup.gitconnected.com/we-made-our-consumers-idempotent-thats-when-duplicates-started-costing-money-ab6eabca4b9c?source=rss------programming-5) (2026-08-21)
-- [The Knowledge We Lose While AI Helps Us Build](https://snehil-pandey.medium.com/the-knowledge-we-lose-while-ai-helps-us-build-df5bde3efbe5?source=rss------programming-5) (2026-08-21)
+- [LLMs and programming (rant)](https://medium.com/@bananicabananica/llms-and-programming-rant-71bb9811ce8c?source=rss------programming-5) (2026-08-22)
+- [15 Spring Boot Annotations Every Senior Developer Should Know](https://medium.com/@sunil17bbmp/15-spring-boot-annotations-every-senior-developer-should-know-9e2248653976?source=rss------programming-5) (2026-08-22)
+- [DevOps Roadmap 2026: From Zero to Job Ready in 6 Months](https://medium.com/beyond-localhost/devops-roadmap-2026-from-zero-to-job-ready-in-6-months-7ba0a7ac7039?source=rss------programming-5) (2026-08-22)
+- [I Said “We’ll Just Use Kafka.” Six Words Later I Was Toast.](https://medium.com/lets-code-future/i-said-well-just-use-kafka-six-words-later-i-was-toast-9c616fbce9ab?source=rss------programming-5) (2026-08-22)
+- [The Deploy Passed Every Test. Production Broke Anyway.](https://blog.stackademic.com/the-deploy-passed-every-test-production-broke-anyway-42105f7420f4?source=rss------programming-5) (2026-08-22)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support](https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/) (2026-08-21)
 - [In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo](https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/) (2026-08-18)
 - [AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/) (2026-08-17)
 - [AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/) (2026-08-10)
 - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/) (2026-08-06)
-- [Amazon DynamoDB now supports real-time vector search at any scale](https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/) (2026-08-05)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Deployment Storage keeps your deployments rollback-ready](https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready) (2026-08-22)
 - [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel) (2026-08-21)
+- [Deployment Storage keeps your deployments rollback-ready](https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready) (2026-08-21)
+- [Vercel CLI expands support for DNS, domains, and project commands](https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands) (2026-08-21)
+- [GPT-5.6 Sol is now 50% off a lower price](https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price) (2026-08-21)
 - [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway) (2026-08-21)
-- [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services) (2026-08-21)
-- [Always-on tracing for production and preview traffic](https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic) (2026-08-21)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Say it once: introducing Bot Preference SynC](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
 - [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) (2026-08-20)
 - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) (2026-08-19)
 - [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) (2026-08-18)
 - [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/) (2026-08-14)
-- [Secure all your internal vibe-coded applications — in one click](https://blog.cloudflare.com/workers-protected-by-access/) (2026-08-14)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
 
 </details>
 
