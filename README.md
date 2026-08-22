@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) (2026-08-22)
+- [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/) (2026-08-22)
 - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) (2026-08-21)
 - [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) (2026-08-21)
 - [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/) (2026-08-21)
-- [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/) (2026-08-21)
-- [TikTok reaches $400M settlement over children’s privacy lawsuit](https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) (2026-08-22)
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) (2026-08-22)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985) (2026-08-22)
 - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/) (2026-08-21)
-- [Paul Atkins misreads Adam Smith and the American founding](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/) (2026-08-21)
 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) (2026-08-21)
-- [Pentagon dismisses Stars and Stripes leadership after opposition to interference](https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70) (2026-08-21)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) (2026-08-21)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) (2026-08-21)
 - [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) (2026-08-21)
 - [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) (2026-08-21)
 - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/) (2026-08-21)
 - [Lawsuit demands Logitech hand tariff refunds over to customers](https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/) (2026-08-21)
-- [Chinese regulators tell Tesla to fix nearly 3 million cars](https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l) (2026-08-22)
-- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27) (2026-08-22)
-- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek) (2026-08-22)
-- [How to launch an AI automation agency offering voice AI agents for local businesses](https://dev.to/samchenreviews/how-to-launch-an-ai-automation-agency-offering-voice-ai-agents-for-local-businesses-1n0o) (2026-08-22)
-- [how to build voice ai for inbound calls](https://dev.to/samchenreviews/how-to-build-voice-ai-for-inbound-calls-2hpk) (2026-08-22)
+- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo) (2026-08-22)
+- [Understanding the Git workflow](https://dev.to/vyonara_keiy_535f4abe0b00/understanding-the-git-workflow-3ml) (2026-08-22)
+- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la) (2026-08-22)
+- [I Ran 300K Company API Lookups. 40K Hit Military Bases.](https://dev.to/onizuka/i-ran-300k-company-api-lookups-40k-hit-military-bases-3p1b) (2026-08-22)
+- [note taking app with auto sync leetcode and local llm model integration](https://dev.to/cyberhoax/note-taking-app-with-auto-sync-leetcode-and-local-llm-model-integration-2m5e) (2026-08-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [LLMs and programming (rant)](https://medium.com/@bananicabananica/llms-and-programming-rant-71bb9811ce8c?source=rss------programming-5) (2026-08-22)
-- [15 Spring Boot Annotations Every Senior Developer Should Know](https://medium.com/@sunil17bbmp/15-spring-boot-annotations-every-senior-developer-should-know-9e2248653976?source=rss------programming-5) (2026-08-22)
-- [DevOps Roadmap 2026: From Zero to Job Ready in 6 Months](https://medium.com/beyond-localhost/devops-roadmap-2026-from-zero-to-job-ready-in-6-months-7ba0a7ac7039?source=rss------programming-5) (2026-08-22)
-- [I Said “We’ll Just Use Kafka.” Six Words Later I Was Toast.](https://medium.com/lets-code-future/i-said-well-just-use-kafka-six-words-later-i-was-toast-9c616fbce9ab?source=rss------programming-5) (2026-08-22)
-- [The Deploy Passed Every Test. Production Broke Anyway.](https://blog.stackademic.com/the-deploy-passed-every-test-production-broke-anyway-42105f7420f4?source=rss------programming-5) (2026-08-22)
+- [Should we be polite to Chat GPT?](https://medium.com/@kinshukking1202/should-we-be-polite-to-chat-gpt-9818b088170a?source=rss------programming-5) (2026-08-22)
+- [When Architecture Becomes Overengineering: How Much Architecture Does a Flutter App Really Need?](https://medium.com/fludev/when-architecture-becomes-overengineering-how-much-architecture-does-a-flutter-app-really-need-cf5641b71e7b?source=rss------programming-5) (2026-08-22)
+- [Your Smart TV Is Watching You Watch](https://medium.com/@josephsides94/your-smart-tv-is-watching-you-watch-6aa2c3c69365?source=rss------programming-5) (2026-08-22)
+- [40% of Multi-Agent Systems Fail Within Six Months. Here’s Why](https://medium.com/practical-llm-systems/40-of-multi-agent-systems-fail-within-six-months-heres-why-c9ba0a93e218?source=rss------programming-5) (2026-08-22)
+- [I Stopped Building AI Automation From Scratch After Learning These Libraries](https://medium.com/@learnwithhercodingtut/i-stopped-building-ai-automation-from-scratch-after-learning-these-libraries-09ec43330c66?source=rss------programming-5) (2026-08-22)
 
 </details>
 
@@ -361,7 +361,7 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [Say it once: introducing Bot Preference SynC](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
+- [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
 - [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) (2026-08-20)
 - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) (2026-08-19)
 - [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) (2026-08-18)
