@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) (2026-08-22)
+- [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) (2026-08-22)
+- [US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/) (2026-08-22)
+- [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/) (2026-08-22)
 - [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) (2026-08-22)
-- [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/) (2026-08-22)
-- [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) (2026-08-21)
-- [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) (2026-08-21)
-- [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) (2026-08-22)
-- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) (2026-08-22)
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) (2026-08-22)
-- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) (2026-08-22)
-- [HN: The Good Parts (2016)](https://danluu.com/hn-comments/) (2026-08-21)
+- [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl) (2026-08-22)
+- [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729) (2026-08-22)
+- [Learning about "The Unix Time-Sharing System"](https://playtechnique.io/long/the-unix-time-sharing-system.html) (2026-08-22)
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) (2026-08-22)
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) (2026-08-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition) (2026-08-22)
+- [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview) (2026-08-22)
+- [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv) (2026-08-22)
+- [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review) (2026-08-22)
 - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2) (2026-08-22)
-- [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo) (2026-08-21)
-- [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa) (2026-08-21)
-- [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) (2026-08-21)
-- [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Chatbot Taught Me About LLM APIs](https://dev.to/bhaleraoneha/building-a-chatbot-taught-me-about-llm-apis-1k9b) (2026-08-22)
-- [Why Your Shared Docs Aren't End-to-End Encrypted](https://dev.to/havenmessenger/why-your-shared-docs-arent-end-to-end-encrypted-146f) (2026-08-22)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/karianjahi/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-hlf) (2026-08-22)
-- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2) (2026-08-22)
-- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151) (2026-08-22)
+- [Enterprise vibe coding: the governance framework for shipping AI-generated apps to production](https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1) (2026-08-22)
+- [If your MCP server uses OAuth, every directory thinks it has zero tools](https://dev.to/leo_framethrower/if-your-mcp-server-uses-oauth-every-directory-thinks-it-has-zero-tools-3cco) (2026-08-22)
+- [Why Your AI Agent Architecture Is Failing: Bridging Security Holes, Planning Failures, and Real-World Dev Workflows](https://dev.to/tamizuddin/why-your-ai-agent-architecture-is-failing-bridging-security-holes-planning-failures-and-2kc9) (2026-08-22)
+- [Same Model, Two Speeds: A Friendly Tour of LLM Inference Engines](https://dev.to/lovestaco/same-model-two-speeds-a-friendly-tour-of-llm-inference-engines-2ccj) (2026-08-22)
+- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko) (2026-08-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Read the AI Policies of 120 Open Source Projects. Here Is What They Actually Say.](https://medium.com/@yadavrakshit60/i-read-the-ai-policies-of-120-open-source-projects-here-is-what-they-actually-say-9a5ea6897893?source=rss------programming-5) (2026-08-22)
-- [What If OpenAI and xAI Merged?](https://medium.com/@airicamartel/what-if-openai-and-xai-merged-8928683a45b9?source=rss------programming-5) (2026-08-22)
-- [ 移動應用開發比併：Google Flutter vs Swift vs Kotlin](https://medium.com/@mindsteps.alex/%E7%A7%BB%E5%8B%95%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC%E6%AF%94%E4%BD%B5-google-flutter-vs-swift-vs-kotlin-c560068cb289?source=rss------programming-5) (2026-08-22)
-- [3 Puzzles on Python’s Strangest Keyword Placement](https://medium.com/becomebetter-dev/3-puzzles-on-pythons-strangest-keyword-placement-d1940d220276?source=rss------programming-5) (2026-08-22)
-- [Couple.me: Building Your Own AI Girlfriend(or More) in 2026](https://medium.com/data-science-in-your-pocket/couple-me-building-your-own-ai-girlfriend-or-more-in-2026-6d982b6b30a6?source=rss------programming-5) (2026-08-22)
+- [Top 20 Oracle PL/SQL Interview Questions for 5+ Years Experience (Coding Round) | Best of…](https://medium.com/@pranavsb699/top-10-oracle-pl-sql-interview-questions-for-5-years-experience-coding-round-best-of-27b794e810fa?source=rss------programming-5) (2026-08-22)
+- [The “lock” behind “lock-free” programming](https://medium.com/@vkyzsypvjy/the-lock-behind-lock-free-programming-715b124cc10b?source=rss------programming-5) (2026-08-22)
+- [Why I wrote 626 tests for a paid Next.js template (and what they caught)](https://medium.com/@thelordxi666/why-i-wrote-626-tests-for-a-paid-next-js-template-and-what-they-caught-661826c096d4?source=rss------programming-5) (2026-08-22)
+- [Mastering the Basics of Backend Data: What is CRUD? :By Emmanuel JALLAY.](https://medium.com/@mw807766/mastering-the-basics-of-backend-data-what-is-crud-by-emmanuel-jallay-86116cb78ae7?source=rss------programming-5) (2026-08-22)
+- [Identity and Access Management ( IAM )](https://kevin8ronex.medium.com/identity-and-access-management-iam-b53d269290ba?source=rss------programming-5) (2026-08-22)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Top user authentication trends for 2026
+](
+https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
+) (2026-08-21)
+- [
+The fraud-friction paradox: Why stronger security should feel invisible
+](
+https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
+) (2026-08-21)
+- [
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
@@ -386,16 +396,6 @@ https://www.twilio.com/en-us/blog/how-to-video-integration
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust
-) (2026-08-19)
-- [
-How to Build Passwordless Auth With Twilio Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php
-) (2026-08-19)
-- [
-How to Build Passwordless Auth With Twilio Verify in Go
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-go
 ) (2026-08-19)
 
 </details>
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Proper Backend for My LangGraph AI Agent](https://towardsdatascience.com/building-a-proper-backend-for-my-langgraph-ai-agent/) (2026-08-22)
+- [Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline](https://towardsdatascience.com/multi-document-rag-a-folder-of-unrelated-pdfs-is-one-long-document-with-a-nested-outline/) (2026-08-22)
+- [Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call)](https://towardsdatascience.com/why-we-fine-tuned-siglip-and-why-thats-not-always-the-right-call/) (2026-08-22)
 - [Running Codex as a Headless Agent](https://towardsdatascience.com/running-codex-as-a-headless-agent/) (2026-08-21)
 - [Estimating from No Data: Deriving a Continuous Score from Categories](https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/) (2026-08-21)
-- [Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG](https://towardsdatascience.com/retrieve-one-row-from-a-table-not-the-whole-table-row-level-chunks-for-rag/) (2026-08-21)
-- [The Types of Dimensions in a Star Schema, and How to Use Them](https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/) (2026-08-21)
-- [Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions](https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/) (2026-08-21)
 
 </details>
 
