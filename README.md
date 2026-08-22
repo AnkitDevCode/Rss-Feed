@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) (2026-08-22)
+- [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) (2026-08-22)
+- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) (2026-08-22)
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) (2026-08-22)
 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) (2026-08-22)
-- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985) (2026-08-22)
 - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/) (2026-08-21)
-- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) (2026-08-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2) (2026-08-22)
 - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo) (2026-08-21)
 - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa) (2026-08-21)
 - [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) (2026-08-21)
 - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri) (2026-08-21)
-- [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal) (2026-08-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) (2026-08-22)
+- [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) (2026-08-22)
 - [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) (2026-08-21)
 - [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) (2026-08-21)
 - [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) (2026-08-21)
-- [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/) (2026-08-21)
-- [Lawsuit demands Logitech hand tariff refunds over to customers](https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo) (2026-08-22)
-- [Understanding the Git workflow](https://dev.to/vyonara_keiy_535f4abe0b00/understanding-the-git-workflow-3ml) (2026-08-22)
-- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la) (2026-08-22)
-- [I Ran 300K Company API Lookups. 40K Hit Military Bases.](https://dev.to/onizuka/i-ran-300k-company-api-lookups-40k-hit-military-bases-3p1b) (2026-08-22)
-- [note taking app with auto sync leetcode and local llm model integration](https://dev.to/cyberhoax/note-taking-app-with-auto-sync-leetcode-and-local-llm-model-integration-2m5e) (2026-08-22)
+- [Building a Chatbot Taught Me About LLM APIs](https://dev.to/bhaleraoneha/building-a-chatbot-taught-me-about-llm-apis-1k9b) (2026-08-22)
+- [Why Your Shared Docs Aren't End-to-End Encrypted](https://dev.to/havenmessenger/why-your-shared-docs-arent-end-to-end-encrypted-146f) (2026-08-22)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/karianjahi/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-hlf) (2026-08-22)
+- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2) (2026-08-22)
+- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151) (2026-08-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Should we be polite to Chat GPT?](https://medium.com/@kinshukking1202/should-we-be-polite-to-chat-gpt-9818b088170a?source=rss------programming-5) (2026-08-22)
-- [When Architecture Becomes Overengineering: How Much Architecture Does a Flutter App Really Need?](https://medium.com/fludev/when-architecture-becomes-overengineering-how-much-architecture-does-a-flutter-app-really-need-cf5641b71e7b?source=rss------programming-5) (2026-08-22)
-- [Your Smart TV Is Watching You Watch](https://medium.com/@josephsides94/your-smart-tv-is-watching-you-watch-6aa2c3c69365?source=rss------programming-5) (2026-08-22)
-- [40% of Multi-Agent Systems Fail Within Six Months. Here’s Why](https://medium.com/practical-llm-systems/40-of-multi-agent-systems-fail-within-six-months-heres-why-c9ba0a93e218?source=rss------programming-5) (2026-08-22)
-- [I Stopped Building AI Automation From Scratch After Learning These Libraries](https://medium.com/@learnwithhercodingtut/i-stopped-building-ai-automation-from-scratch-after-learning-these-libraries-09ec43330c66?source=rss------programming-5) (2026-08-22)
+- [I Read the AI Policies of 120 Open Source Projects. Here Is What They Actually Say.](https://medium.com/@yadavrakshit60/i-read-the-ai-policies-of-120-open-source-projects-here-is-what-they-actually-say-9a5ea6897893?source=rss------programming-5) (2026-08-22)
+- [What If OpenAI and xAI Merged?](https://medium.com/@airicamartel/what-if-openai-and-xai-merged-8928683a45b9?source=rss------programming-5) (2026-08-22)
+- [ 移動應用開發比併：Google Flutter vs Swift vs Kotlin](https://medium.com/@mindsteps.alex/%E7%A7%BB%E5%8B%95%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC%E6%AF%94%E4%BD%B5-google-flutter-vs-swift-vs-kotlin-c560068cb289?source=rss------programming-5) (2026-08-22)
+- [3 Puzzles on Python’s Strangest Keyword Placement](https://medium.com/becomebetter-dev/3-puzzles-on-pythons-strangest-keyword-placement-d1940d220276?source=rss------programming-5) (2026-08-22)
+- [Couple.me: Building Your Own AI Girlfriend(or More) in 2026](https://medium.com/data-science-in-your-pocket/couple-me-building-your-own-ai-girlfriend-or-more-in-2026-6d982b6b30a6?source=rss------programming-5) (2026-08-22)
 
 </details>
 
@@ -567,17 +567,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
-- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
-- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Running Codex as a Headless Agent](https://towardsdatascience.com/running-codex-as-a-headless-agent/) (2026-08-21)
@@ -591,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 Agentic AI Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/) (2026-08-22)
 - [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
 - [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
 - [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
 - [7 Kimi K3 Features That Make Every Other Model Feel Outdated](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/) (2026-08-17)
-- [How to Install Codex CLI: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2026/08/how-to-install-codex-cli/) (2026-08-15)
 
 </details>
 
