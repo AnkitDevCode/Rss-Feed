@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) (2026-08-22)
+- [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/) (2026-08-22)
+- [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) (2026-08-22)
 - [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) (2026-08-22)
 - [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) (2026-08-22)
-- [US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/) (2026-08-22)
-- [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/) (2026-08-22)
-- [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) (2026-08-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl) (2026-08-22)
-- [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729) (2026-08-22)
-- [Learning about "The Unix Time-Sharing System"](https://playtechnique.io/long/the-unix-time-sharing-system.html) (2026-08-22)
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) (2026-08-22)
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) (2026-08-22)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) (2026-08-22)
+- [English ↔ Claudish Translator](https://programasweights.com/claudish) (2026-08-22)
+- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) (2026-08-22)
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) (2026-08-22)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) (2026-08-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Enterprise vibe coding: the governance framework for shipping AI-generated apps to production](https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1) (2026-08-22)
-- [If your MCP server uses OAuth, every directory thinks it has zero tools](https://dev.to/leo_framethrower/if-your-mcp-server-uses-oauth-every-directory-thinks-it-has-zero-tools-3cco) (2026-08-22)
-- [Why Your AI Agent Architecture Is Failing: Bridging Security Holes, Planning Failures, and Real-World Dev Workflows](https://dev.to/tamizuddin/why-your-ai-agent-architecture-is-failing-bridging-security-holes-planning-failures-and-2kc9) (2026-08-22)
-- [Same Model, Two Speeds: A Friendly Tour of LLM Inference Engines](https://dev.to/lovestaco/same-model-two-speeds-a-friendly-tour-of-llm-inference-engines-2ccj) (2026-08-22)
-- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko) (2026-08-22)
+- [Opinion: Your Tests Can't See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878) (2026-08-23)
+- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8) (2026-08-23)
+- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk) (2026-08-23)
+- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f) (2026-08-23)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke) (2026-08-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 20 Oracle PL/SQL Interview Questions for 5+ Years Experience (Coding Round) | Best of…](https://medium.com/@pranavsb699/top-10-oracle-pl-sql-interview-questions-for-5-years-experience-coding-round-best-of-27b794e810fa?source=rss------programming-5) (2026-08-22)
-- [The “lock” behind “lock-free” programming](https://medium.com/@vkyzsypvjy/the-lock-behind-lock-free-programming-715b124cc10b?source=rss------programming-5) (2026-08-22)
-- [Why I wrote 626 tests for a paid Next.js template (and what they caught)](https://medium.com/@thelordxi666/why-i-wrote-626-tests-for-a-paid-next-js-template-and-what-they-caught-661826c096d4?source=rss------programming-5) (2026-08-22)
-- [Mastering the Basics of Backend Data: What is CRUD? :By Emmanuel JALLAY.](https://medium.com/@mw807766/mastering-the-basics-of-backend-data-what-is-crud-by-emmanuel-jallay-86116cb78ae7?source=rss------programming-5) (2026-08-22)
-- [Identity and Access Management ( IAM )](https://kevin8ronex.medium.com/identity-and-access-management-iam-b53d269290ba?source=rss------programming-5) (2026-08-22)
+- [Kafka Consumer Lag Kept Climbing. Every Consumer Insisted It Was Keeping Up.](https://medium.com/javarevisited/kafka-consumer-lag-kept-climbing-every-consumer-insisted-it-was-keeping-up-4cad04b09e3e?source=rss------programming-5) (2026-08-23)
+- [RabbitMQ Queue Depth Hit 2 Million Messages. Every Consumer Showed Zero Errors.](https://python.plainenglish.io/rabbitmq-queue-depth-hit-2-million-messages-every-consumer-showed-zero-errors-d8b53c115f91?source=rss------programming-5) (2026-08-23)
+- [Nginx 502 Bad Gateway: The Upstream Service Was Healthy the Entire Time](https://medium.com/javascript-decoded-in-plain-english/nginx-502-bad-gateway-the-upstream-service-was-healthy-the-entire-time-365469030362?source=rss------programming-5) (2026-08-23)
+- [PostgreSQL “Too Many Connections”: The Error That Meant the Opposite of What I Thought](https://medium.com/javarevisited/postgresql-too-many-connections-the-error-that-meant-the-opposite-of-what-i-thought-44f490a7f622?source=rss------programming-5) (2026-08-23)
+- [Kubernetes CrashLoopBackOff: The Pod That Failed 47 Times Before I Found a Missing Environment…](https://medium.com/javarevisited/kubernetes-crashloopbackoff-the-pod-that-failed-47-times-before-i-found-a-missing-environment-1192ab61a59d?source=rss------programming-5) (2026-08-23)
 
 </details>
 
@@ -378,11 +378,6 @@ Top user authentication trends for 2026
 https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 ) (2026-08-21)
 - [
-The fraud-friction paradox: Why stronger security should feel invisible
-](
-https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
-) (2026-08-21)
-- [
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
@@ -396,6 +391,11 @@ https://www.twilio.com/en-us/blog/how-to-video-integration
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust
+) (2026-08-19)
+- [
+How to Build Passwordless Auth With Twilio Verify in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php
 ) (2026-08-19)
 
 </details>
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
 
 </details>
 
