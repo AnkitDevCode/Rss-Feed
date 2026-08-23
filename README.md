@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/) (2026-08-23)
+- [Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/) (2026-08-23)
+- [Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/) (2026-08-23)
 - [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/) (2026-08-23)
 - [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) (2026-08-22)
-- [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/) (2026-08-22)
-- [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) (2026-08-22)
-- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) (2026-08-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) (2026-08-23)
-- [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) (2026-08-23)
-- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides) (2026-08-23)
-- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) (2026-08-23)
-- [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) (2026-08-23)
+- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/) (2026-08-23)
+- [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/) (2026-08-23)
+- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) (2026-08-23)
+- [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) (2026-08-23)
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) (2026-08-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review) (2026-08-23)
 - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe) (2026-08-23)
 - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition) (2026-08-22)
 - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview) (2026-08-22)
 - [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv) (2026-08-22)
-- [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review) (2026-08-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Due to need for 'absolute success,' China delays critical Moon launch to 2027](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/) (2026-08-23)
 - [Volcanoes that made history](https://arstechnica.com/science/2026/08/volcanoes-that-made-history/) (2026-08-23)
 - [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) (2026-08-22)
 - [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) (2026-08-22)
 - [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) (2026-08-21)
-- [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Fixed-Window Rate Limiters Fail (And How to Fix Them with Math)](https://dev.to/doaaa_04/why-fixed-window-rate-limiters-fail-and-how-to-fix-them-with-math-1272) (2026-08-23)
-- [I Got 28 TPS Out of Free Kaggle GPUs. Here's What It Took.](https://dev.to/rautaditya2606/i-got-28-tps-out-of-free-kaggle-gpus-heres-what-it-took-5dpl) (2026-08-23)
-- [AI Agent Standards Experiment: Test Rules Before Teams Trust Them](https://dev.to/jackm-singularity/ai-agent-standards-experiment-test-rules-before-teams-trust-them-2eil) (2026-08-23)
-- [When Python is Too Slow](https://dev.to/djangotricks/when-python-is-too-slow-228n) (2026-08-23)
-- [Generate endless Roblox quests with AI (and cache them so it's cheap)](https://dev.to/korvus228/generate-endless-roblox-quests-with-ai-and-cache-them-so-its-cheap-3cj6) (2026-08-23)
+- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4) (2026-08-23)
+- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp) (2026-08-23)
+- [The Semantic Cache That Made a Free LLM Quota Feel Infinite](https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0) (2026-08-23)
+- [Windows 11 KB5077181 Causing Boot Loops? Here's How to Fix It](https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h) (2026-08-23)
+- [The AI Agent Reality Check: Why MCP Backdoors Fail in Production](https://dev.to/tamizuddin/the-ai-agent-reality-check-why-mcp-backdoors-fail-in-production-2d9b) (2026-08-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 CORS Errors, Decoded — And One Chrome Invented This Year](https://medium.com/@coolercoder/8-cors-errors-decoded-and-one-chrome-invented-this-year-d1a41e5fcb32?source=rss------programming-5) (2026-08-23)
-- [I Read the spawn_blocking Docs Line by Line. One Sentence Explains Every Hung Shutdown I’ve Seen.](https://ritik-chopra28.medium.com/i-read-the-spawn-blocking-docs-line-by-line-one-sentence-explains-every-hung-shutdown-ive-seen-f47a7ddff826?source=rss------programming-5) (2026-08-23)
-- [ChatGPT vs Claude for Web Development: Which Is Better?](https://medium.com/@dhruvkuhikar20/chatgpt-vs-claude-for-web-development-which-is-better-7e49a976f0e3?source=rss------programming-5) (2026-08-23)
-- [My Web Development Internship Journey with Oasis Infobyte](https://medium.com/@himethhansana07/my-web-development-internship-journey-with-oasis-infobyte-3d800abfe0c9?source=rss------programming-5) (2026-08-23)
-- [“Why Does 0.1](https://medium.com/@sawantprathamesh160/why-does-0-1-5af69091749a?source=rss------programming-5) (2026-08-23)
+- [How to Pass Microsoft’s AB-100 (Agentic AI Business Solutions Architect) Exam, and Why the Syllabus…](https://medium.com/@upadhyay.suraj09/how-to-pass-microsofts-ab-100-agentic-ai-business-solutions-architect-exam-and-why-the-syllabus-23557aac83ed?source=rss------programming-5) (2026-08-23)
+- [The Timeout That Created More Bugs Than the Failure](https://medium.com/skillstuff/the-timeout-that-created-more-bugs-than-the-failure-8995cb1d47db?source=rss------programming-5) (2026-08-23)
+- [Turn Any Room Into Movie Night ](https://medium.com/@TopGen93/turn-any-room-into-movie-night-a9fda3ca7e23?source=rss------programming-5) (2026-08-23)
+- [ The Day AssetMapper Hit a Wall: Tree-Shaking and Symfony](https://medium.com/@laurentmn/the-day-assetmapper-hit-a-wall-tree-shaking-and-symfony-34d99d4fafbf?source=rss------programming-5) (2026-08-23)
+- [I will design your own logo and brand identity](https://globalbrandcraft.medium.com/i-will-design-your-own-logo-and-brand-identity-4809b406924a?source=rss------programming-5) (2026-08-23)
 
 </details>
 
@@ -567,35 +567,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
-- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
-- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide](https://towardsdatascience.com/a-first-look-at-survival-analysis-and-the-cox-model/) (2026-08-23)
+- [Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File](https://towardsdatascience.com/parse-the-folder-not-just-the-pdfs-the-relational-tables-rag-needs-on-a-case-file/) (2026-08-23)
+- [Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond)](https://towardsdatascience.com/bug-detection-blind-spots-in-ai-coding-harnesses-gstack-and-beyond/) (2026-08-23)
 - [Building a Proper Backend for My LangGraph AI Agent](https://towardsdatascience.com/building-a-proper-backend-for-my-langgraph-ai-agent/) (2026-08-22)
 - [Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline](https://towardsdatascience.com/multi-document-rag-a-folder-of-unrelated-pdfs-is-one-long-document-with-a-nested-outline/) (2026-08-22)
-- [Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call)](https://towardsdatascience.com/why-we-fine-tuned-siglip-and-why-thats-not-always-the-right-call/) (2026-08-22)
-- [Running Codex as a Headless Agent](https://towardsdatascience.com/running-codex-as-a-headless-agent/) (2026-08-21)
-- [Estimating from No Data: Deriving a Continuous Score from Categories](https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Spec-Driven Development with Claude Code: Writing Bulletproof Specs](https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/) (2026-08-23)
 - [Top 5 Agentic AI Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/) (2026-08-22)
 - [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
 - [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
 - [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
-- [7 Kimi K3 Features That Make Every Other Model Feel Outdated](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/) (2026-08-17)
 
 </details>
 
