@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) (2026-08-23)
-- [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html) (2026-08-23)
-- [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) (2026-08-23)
-- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) (2026-08-23)
-- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/) (2026-08-23)
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) (2026-08-23)
+- [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) (2026-08-23)
+- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides) (2026-08-23)
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) (2026-08-23)
+- [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) (2026-08-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe) (2026-08-23)
 - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition) (2026-08-22)
 - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview) (2026-08-22)
 - [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv) (2026-08-22)
 - [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review) (2026-08-22)
-- [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2) (2026-08-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Volcanoes that made history](https://arstechnica.com/science/2026/08/volcanoes-that-made-history/) (2026-08-23)
 - [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) (2026-08-22)
 - [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) (2026-08-22)
 - [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) (2026-08-21)
 - [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) (2026-08-21)
-- [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7) (2026-08-23)
-- [Buildroot for Embedded Linux — Part 1: Your First Buildroot Root Filesystem](https://dev.to/raghu_bharadwaj_404e60eb0c/buildroot-for-embedded-linux-part-1-your-first-buildroot-root-filesystem-2m9g) (2026-08-23)
-- [This was an increadible package!! It was appearing on pub.dev for just a single word like "SOS" search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2) (2026-08-23)
-- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7) (2026-08-23)
-- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel) (2026-08-23)
+- [Why Fixed-Window Rate Limiters Fail (And How to Fix Them with Math)](https://dev.to/doaaa_04/why-fixed-window-rate-limiters-fail-and-how-to-fix-them-with-math-1272) (2026-08-23)
+- [I Got 28 TPS Out of Free Kaggle GPUs. Here's What It Took.](https://dev.to/rautaditya2606/i-got-28-tps-out-of-free-kaggle-gpus-heres-what-it-took-5dpl) (2026-08-23)
+- [AI Agent Standards Experiment: Test Rules Before Teams Trust Them](https://dev.to/jackm-singularity/ai-agent-standards-experiment-test-rules-before-teams-trust-them-2eil) (2026-08-23)
+- [When Python is Too Slow](https://dev.to/djangotricks/when-python-is-too-slow-228n) (2026-08-23)
+- [Generate endless Roblox quests with AI (and cache them so it's cheap)](https://dev.to/korvus228/generate-endless-roblox-quests-with-ai-and-cache-them-so-its-cheap-3cj6) (2026-08-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Software, LLMs, and Where Design Lives](https://medium.com/@aludanyi/software-llms-and-where-design-lives-1a1167d7a1ca?source=rss------programming-5) (2026-08-23)
-- [How GitHub Went Down: The Distributed-System Failure Behind the August 17 Outage](https://blog.stackademic.com/how-github-went-down-the-distributed-system-failure-behind-the-august-17-outage-a50124d491ca?source=rss------programming-5) (2026-08-23)
-- [Part 2 — HCMD: The Repository Where Meaning Becomes Structure](https://medium.com/@hiroshin/part-2-hcmd-the-repository-where-meaning-becomes-structure-a84b510679f6?source=rss------programming-5) (2026-08-23)
-- [5 Java Map Choices That Can Quietly Hurt Your Application’s Performance](https://medium.com/@devlogicwrites/5-java-map-choices-that-can-quietly-hurt-your-applications-performance-6e263da15f23?source=rss------programming-5) (2026-08-23)
-- [Why Everybody is Leaving Spotify](https://medium.com/@sf426692/why-everybody-is-leaving-spotify-f83a0c234444?source=rss------programming-5) (2026-08-23)
+- [8 CORS Errors, Decoded — And One Chrome Invented This Year](https://medium.com/@coolercoder/8-cors-errors-decoded-and-one-chrome-invented-this-year-d1a41e5fcb32?source=rss------programming-5) (2026-08-23)
+- [I Read the spawn_blocking Docs Line by Line. One Sentence Explains Every Hung Shutdown I’ve Seen.](https://ritik-chopra28.medium.com/i-read-the-spawn-blocking-docs-line-by-line-one-sentence-explains-every-hung-shutdown-ive-seen-f47a7ddff826?source=rss------programming-5) (2026-08-23)
+- [ChatGPT vs Claude for Web Development: Which Is Better?](https://medium.com/@dhruvkuhikar20/chatgpt-vs-claude-for-web-development-which-is-better-7e49a976f0e3?source=rss------programming-5) (2026-08-23)
+- [My Web Development Internship Journey with Oasis Infobyte](https://medium.com/@himethhansana07/my-web-development-internship-journey-with-oasis-infobyte-3d800abfe0c9?source=rss------programming-5) (2026-08-23)
+- [“Why Does 0.1](https://medium.com/@sawantprathamesh160/why-does-0-1-5af69091749a?source=rss------programming-5) (2026-08-23)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
 
 </details>
 
