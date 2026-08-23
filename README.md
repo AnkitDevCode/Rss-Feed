@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/) (2026-08-23)
 - [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) (2026-08-22)
 - [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/) (2026-08-22)
 - [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) (2026-08-22)
 - [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) (2026-08-22)
-- [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) (2026-08-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) (2026-08-22)
-- [English ↔ Claudish Translator](https://programasweights.com/claudish) (2026-08-22)
-- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) (2026-08-22)
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) (2026-08-22)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) (2026-08-22)
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) (2026-08-23)
+- [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html) (2026-08-23)
+- [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) (2026-08-23)
+- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) (2026-08-23)
+- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/) (2026-08-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Opinion: Your Tests Can't See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878) (2026-08-23)
-- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8) (2026-08-23)
-- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk) (2026-08-23)
-- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f) (2026-08-23)
-- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke) (2026-08-23)
+- [Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7) (2026-08-23)
+- [Buildroot for Embedded Linux — Part 1: Your First Buildroot Root Filesystem](https://dev.to/raghu_bharadwaj_404e60eb0c/buildroot-for-embedded-linux-part-1-your-first-buildroot-root-filesystem-2m9g) (2026-08-23)
+- [This was an increadible package!! It was appearing on pub.dev for just a single word like "SOS" search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2) (2026-08-23)
+- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7) (2026-08-23)
+- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel) (2026-08-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Kafka Consumer Lag Kept Climbing. Every Consumer Insisted It Was Keeping Up.](https://medium.com/javarevisited/kafka-consumer-lag-kept-climbing-every-consumer-insisted-it-was-keeping-up-4cad04b09e3e?source=rss------programming-5) (2026-08-23)
-- [RabbitMQ Queue Depth Hit 2 Million Messages. Every Consumer Showed Zero Errors.](https://python.plainenglish.io/rabbitmq-queue-depth-hit-2-million-messages-every-consumer-showed-zero-errors-d8b53c115f91?source=rss------programming-5) (2026-08-23)
-- [Nginx 502 Bad Gateway: The Upstream Service Was Healthy the Entire Time](https://medium.com/javascript-decoded-in-plain-english/nginx-502-bad-gateway-the-upstream-service-was-healthy-the-entire-time-365469030362?source=rss------programming-5) (2026-08-23)
-- [PostgreSQL “Too Many Connections”: The Error That Meant the Opposite of What I Thought](https://medium.com/javarevisited/postgresql-too-many-connections-the-error-that-meant-the-opposite-of-what-i-thought-44f490a7f622?source=rss------programming-5) (2026-08-23)
-- [Kubernetes CrashLoopBackOff: The Pod That Failed 47 Times Before I Found a Missing Environment…](https://medium.com/javarevisited/kubernetes-crashloopbackoff-the-pod-that-failed-47-times-before-i-found-a-missing-environment-1192ab61a59d?source=rss------programming-5) (2026-08-23)
+- [Software, LLMs, and Where Design Lives](https://medium.com/@aludanyi/software-llms-and-where-design-lives-1a1167d7a1ca?source=rss------programming-5) (2026-08-23)
+- [How GitHub Went Down: The Distributed-System Failure Behind the August 17 Outage](https://blog.stackademic.com/how-github-went-down-the-distributed-system-failure-behind-the-august-17-outage-a50124d491ca?source=rss------programming-5) (2026-08-23)
+- [Part 2 — HCMD: The Repository Where Meaning Becomes Structure](https://medium.com/@hiroshin/part-2-hcmd-the-repository-where-meaning-becomes-structure-a84b510679f6?source=rss------programming-5) (2026-08-23)
+- [5 Java Map Choices That Can Quietly Hurt Your Application’s Performance](https://medium.com/@devlogicwrites/5-java-map-choices-that-can-quietly-hurt-your-applications-performance-6e263da15f23?source=rss------programming-5) (2026-08-23)
+- [Why Everybody is Leaving Spotify](https://medium.com/@sf426692/why-everybody-is-leaving-spotify-f83a0c234444?source=rss------programming-5) (2026-08-23)
 
 </details>
 
@@ -378,6 +378,11 @@ Top user authentication trends for 2026
 https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 ) (2026-08-21)
 - [
+The fraud-friction paradox: Why stronger security should feel invisible
+](
+https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
+) (2026-08-21)
+- [
 [Webinar] Voice AI that connects
 ](
 https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/how-to-video-integration
 How to Build Passwordless Auth With Twilio Verify in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust
-) (2026-08-19)
-- [
-How to Build Passwordless Auth With Twilio Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php
 ) (2026-08-19)
 
 </details>
@@ -563,17 +563,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
-- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
-- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
 
 </details>
 
