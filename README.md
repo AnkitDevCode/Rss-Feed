@@ -9,11 +9,11 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/) (2026-08-23)
+- [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/) (2026-08-23)
+- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) (2026-08-23)
 - [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/) (2026-08-23)
 - [Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/) (2026-08-23)
-- [Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/) (2026-08-23)
-- [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/) (2026-08-23)
-- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) (2026-08-22)
 
 </details>
 
@@ -31,11 +31,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2026-08-23)
 - [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review) (2026-08-23)
 - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe) (2026-08-23)
 - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition) (2026-08-22)
 - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview) (2026-08-22)
-- [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv) (2026-08-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4) (2026-08-23)
-- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp) (2026-08-23)
-- [The Semantic Cache That Made a Free LLM Quota Feel Infinite](https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0) (2026-08-23)
-- [Windows 11 KB5077181 Causing Boot Loops? Here's How to Fix It](https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h) (2026-08-23)
-- [The AI Agent Reality Check: Why MCP Backdoors Fail in Production](https://dev.to/tamizuddin/the-ai-agent-reality-check-why-mcp-backdoors-fail-in-production-2d9b) (2026-08-23)
+- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc) (2026-08-24)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f) (2026-08-24)
+- [Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg) (2026-08-24)
+- [OzBrain's Shared Memory Architecture: How Multi-Agent Teams Avoid Re-Explaining Context Across Sessions](https://dev.to/mech_app_ai/ozbrains-shared-memory-architecture-how-multi-agent-teams-avoid-re-explaining-context-across-1c19) (2026-08-24)
+- [Architecting a background-service-based sound manager that survives Android's Doze mode](https://dev.to/haseebthedev0/architecting-a-background-service-based-sound-manager-that-survives-androids-doze-mode-1o1e) (2026-08-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Pass Microsoft’s AB-100 (Agentic AI Business Solutions Architect) Exam, and Why the Syllabus…](https://medium.com/@upadhyay.suraj09/how-to-pass-microsofts-ab-100-agentic-ai-business-solutions-architect-exam-and-why-the-syllabus-23557aac83ed?source=rss------programming-5) (2026-08-23)
-- [The Timeout That Created More Bugs Than the Failure](https://medium.com/skillstuff/the-timeout-that-created-more-bugs-than-the-failure-8995cb1d47db?source=rss------programming-5) (2026-08-23)
-- [Turn Any Room Into Movie Night ](https://medium.com/@TopGen93/turn-any-room-into-movie-night-a9fda3ca7e23?source=rss------programming-5) (2026-08-23)
-- [ The Day AssetMapper Hit a Wall: Tree-Shaking and Symfony](https://medium.com/@laurentmn/the-day-assetmapper-hit-a-wall-tree-shaking-and-symfony-34d99d4fafbf?source=rss------programming-5) (2026-08-23)
-- [I will design your own logo and brand identity](https://globalbrandcraft.medium.com/i-will-design-your-own-logo-and-brand-identity-4809b406924a?source=rss------programming-5) (2026-08-23)
+- [I Debugged 18 Linux Production Failures This Year. Here Is the Data Nobody Publishes.](https://medium.com/javarevisited/i-debugged-18-linux-production-failures-this-year-here-is-the-data-nobody-publishes-c88d0ab2237a?source=rss------programming-5) (2026-08-24)
+- [I Sat Through 20 System Design Interviews in 2026. Here Is the Data Nobody Publishes.](https://medium.com/codex/i-sat-through-20-system-design-interviews-in-2026-here-is-the-data-nobody-publishes-7ecc6c13ea48?source=rss------programming-5) (2026-08-24)
+- [I Negotiated 6 Backend Engineering Offers in 2026. Here Is the Data Nobody Publishes.](https://medium.com/codex/i-negotiated-6-backend-engineering-offers-in-2026-here-is-the-data-nobody-publishes-1ff64e3dd518?source=rss------programming-5) (2026-08-24)
+- [I Interviewed 60 Backend Engineers This Year as the Hiring Manager.](https://medium.com/lets-code-future/i-interviewed-60-backend-engineers-this-year-as-the-hiring-manager-c8b3b352a462?source=rss------programming-5) (2026-08-24)
+- [What is XML Schema (XSD)? Explained with Examples](https://medium.com/@sunil17bbmp/what-is-xml-schema-xsd-explained-with-examples-2a9a771cfff0?source=rss------programming-5) (2026-08-24)
 
 </details>
 
@@ -514,11 +514,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>💬 Slack API</summary>
 
-- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
-- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
-- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
-- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
-- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
+- [Slack Code: Where Your Team and Agents Build Together](https://slack.com/blog/news/slack-code-channels-for-agents) (2026-08-20)
+- [Anyone can now build Agents on Slack: Introducing Add to Slack](https://slack.com/blog/news/add-to-slack) (2026-08-20)
+- [AI Meeting Assistant Tools to Save Time and Boost Productivity](https://slack.com/blog/productivity/how-to-optimize-your-time-with-ai-meeting-assistant-tools) (2026-08-17)
+- [10 Proven Strategies to Boost Employee Morale and Engagement](https://slack.com/blog/collaboration/methods-boosting-employee-morale) (2026-08-17)
+- [What Is Agile Methodology? A Guide to Principles and Practices](https://slack.com/blog/productivity/agile-methodology-explained-principles-practices-and-more) (2026-08-17)
 
 </details>
 
@@ -563,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
+- [A third of ChatGPT ads appear in irrelevant conversations](https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/) (2026-08-20)
 
 </details>
 
