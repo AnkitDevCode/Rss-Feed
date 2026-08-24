@@ -31,11 +31,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11) (2026-08-24)
+- [Humanoid robots smash Usain Bolt&#8217;s 100-meter record](https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026) (2026-08-24)
 - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2026-08-23)
 - [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review) (2026-08-23)
 - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe) (2026-08-23)
-- [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition) (2026-08-22)
-- [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview) (2026-08-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/) (2026-08-24)
+- [Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/) (2026-08-24)
 - [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/) (2026-08-21)
 - [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) (2026-08-21)
 - [When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/) (2026-08-21)
-- [This company’s plans to deploy space mirrors could jeopardize the night sky for many](https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/) (2026-08-21)
-- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) (2026-08-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Changed in AI in the Last 90 Days (Quick Round-up)](https://dev.to/viv_chaudhary_88e872089e9/what-changed-in-ai-in-the-last-90-days-quick-round-up-4bae) (2026-08-24)
-- [How I Enforced a Privacy Rule, Commented It, Yet Still Shipped a Data Leak – Lessons Learned](https://dev.to/devtechpulse/how-i-enforced-a-privacy-rule-commented-it-yet-still-shipped-a-data-leak-lessons-learned-3nah) (2026-08-24)
-- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf) (2026-08-24)
-- [Your canvas.toBlob might be silently handing you a PNG](https://dev.to/pm_cheng_3f36acecfb9c59f5/your-canvastoblob-might-be-silently-handing-you-a-png-27bo) (2026-08-24)
-- [sentinel-scan-cli vs Cisco mcp-scanner vs Snyk Agent Scan: comparing open-source MCP security scanners](https://dev.to/ventrova/sentinel-scan-cli-vs-cisco-mcp-scanner-vs-snyk-agent-scan-comparing-open-source-mcp-security-f5a) (2026-08-24)
+- [One View Per Layer: Four Sharp Edges I Found in My Own Code](https://dev.to/srdjan_poppovic/one-view-per-layer-four-sharp-edges-i-found-in-my-own-code-23e8) (2026-08-24)
+- [From Developer to Architect — What Really Changes?](https://dev.to/syed_abdul_0fe078e9d99245/from-developer-to-architect-what-really-changes-343n) (2026-08-24)
+- [A Signed AI Agent Receipt Can Still Be Wrong](https://dev.to/dengyier/a-signed-ai-agent-receipt-can-still-be-wrong-4jd3) (2026-08-24)
+- [I Almost Shipped a RAG Assistant That Lied About APIs That Don't Exist](https://dev.to/dannwaneri/i-almost-shipped-a-rag-assistant-that-lied-about-apis-that-dont-exist-3426) (2026-08-24)
+- [n8n MCP Server Expands Agent Automation From Prompts to Governed Workflows](https://dev.to/alifar/n8n-mcp-server-expands-agent-automation-from-prompts-to-governed-workflows-2cgo) (2026-08-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Use Ox Alpha (1M Stealth Reasoning Model) in Cursor IDE & Python](https://medium.com/@pixeloffice/how-to-use-ox-alpha-1m-stealth-reasoning-model-in-cursor-ide-python-1274c9344c60?source=rss------programming-5) (2026-08-24)
-- [Rust is Officially Doomed (And C++ Developers Are Laughing)](https://medium.com/the-tech-notes/rust-is-officially-doomed-and-c-developers-are-laughing-77384e81bf47?source=rss------programming-5) (2026-08-24)
-- [The Complete Spring Boot Interview Roadmap: Everything You Need to Land the Job in 2026](https://medium.com/@aayushichourasiya/the-complete-spring-boot-interview-roadmap-everything-you-need-to-land-the-job-in-2026-47d5465e2ba2?source=rss------programming-5) (2026-08-24)
-- [TypeScript WeakRef and FinalizationRegistry: Type-Safe Patterns for Memory-Sensitive Caches](https://medium.com/@jsmanifest/typescript-weakref-and-finalizationregistry-type-safe-patterns-for-memory-sensitive-caches-f8bb202ea400?source=rss------programming-5) (2026-08-24)
-- [Angular Common Signal Mistakes That Hurt Performance](https://medium.com/@roshannavale7/angular-common-signal-mistakes-that-hurt-performance-3c5d26a36daa?source=rss------programming-5) (2026-08-24)
+- [ CUPOM DE VENDEDOR RESERVA 2026: RSV548](https://medium.com/@hollanda_pereira2/cupom-de-vendedor-reserva-2026-rsv548-bafdb0873ac4?source=rss------programming-5) (2026-08-24)
+- [Debounce and Throttle in React: Taming Events That Fire Too Often](https://medium.com/@dulana.m.waniga/debounce-and-throttle-in-react-taming-events-that-fire-too-often-219147d8c110?source=rss------programming-5) (2026-08-24)
+- [Your AI Agents Keep Forgetting Everything. Google Just Changed How They Remember.](https://pub.towardsai.net/your-ai-agents-keep-forgetting-everything-google-just-changed-how-they-remember-f46a19a60808?source=rss------programming-5) (2026-08-24)
+- [It just followed my orders](https://medium.com/@dmr.inbox/it-just-followed-my-orders-3c10f597e725?source=rss------programming-5) (2026-08-24)
+- [Your Team Picked Its Database Based on Boot Time](https://medium.com/@russel_2175/your-team-picked-its-database-based-on-boot-time-4fa3a1fe1f0a?source=rss------programming-5) (2026-08-24)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available) (2026-08-24)
 - [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel) (2026-08-21)
 - [Deployment Storage keeps your deployments rollback-ready](https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready) (2026-08-21)
 - [Vercel CLI expands support for DNS, domains, and project commands](https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands) (2026-08-21)
 - [GPT-5.6 Sol is now 50% off a lower price](https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price) (2026-08-21)
-- [DeepSeek V4 Flash Vision Experimental now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway) (2026-08-21)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 5 best Intercom alternatives in 2026](https://zapier.com/blog/intercom-alternatives) (2026-08-24)
 - [The 5 best Pipedream alternatives in 2026](https://zapier.com/blog/pipedream-alternatives) (2026-08-21)
+- [The best automation software for small business in 2026](https://zapier.com/blog/small-business-automation-software) (2026-08-21)
 - [What are Gemini Gems? And how to use them ](https://zapier.com/blog/gemini-gems) (2026-08-21)
 - [14 small business advertising ideas](https://zapier.com/blog/small-business-advertising-ideas) (2026-08-21)
-- [The best automation software for small business in 2026](https://zapier.com/blog/small-business-automation-software) (2026-08-21)
-- [The 6 best Boomi alternatives in 2026](https://zapier.com/blog/boomi-alternatives) (2026-08-20)
 
 </details>
 
@@ -514,11 +514,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Code: Where Your Team and Agents Build Together](https://slack.com/blog/news/slack-code-channels-for-agents) (2026-08-20)
-- [Anyone can now build Agents on Slack: Introducing Add to Slack](https://slack.com/blog/news/add-to-slack) (2026-08-20)
-- [AI Meeting Assistant Tools to Save Time and Boost Productivity](https://slack.com/blog/productivity/how-to-optimize-your-time-with-ai-meeting-assistant-tools) (2026-08-17)
-- [10 Proven Strategies to Boost Employee Morale and Engagement](https://slack.com/blog/collaboration/methods-boosting-employee-morale) (2026-08-17)
-- [What Is Agile Methodology? A Guide to Principles and Practices](https://slack.com/blog/productivity/agile-methodology-explained-principles-practices-and-more) (2026-08-17)
+- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
+- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
+- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
+- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 
 </details>
 
@@ -580,33 +580,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Agents Don’t Need More Context — They Need Typed Context](https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/) (2026-08-24)
 - [Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide](https://towardsdatascience.com/a-first-look-at-survival-analysis-and-the-cox-model/) (2026-08-23)
 - [Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File](https://towardsdatascience.com/parse-the-folder-not-just-the-pdfs-the-relational-tables-rag-needs-on-a-case-file/) (2026-08-23)
 - [Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond)](https://towardsdatascience.com/bug-detection-blind-spots-in-ai-coding-harnesses-gstack-and-beyond/) (2026-08-23)
 - [Building a Proper Backend for My LangGraph AI Agent](https://towardsdatascience.com/building-a-proper-backend-for-my-langgraph-ai-agent/) (2026-08-22)
-- [Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline](https://towardsdatascience.com/multi-document-rag-a-folder-of-unrelated-pdfs-is-one-long-document-with-a-nested-outline/) (2026-08-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/) (2026-08-24)
 - [Spec-Driven Development with Claude Code: Writing Bulletproof Specs](https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/) (2026-08-23)
 - [Top 5 Agentic AI Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/) (2026-08-22)
 - [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
 - [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
-- [How to Add Skills in Agents using LangChain](https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/) (2026-08-18)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6) (2026-08-24)
 - [Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi](https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi) (2026-08-21)
 - [5 Real-World Use Cases for AI Agents Transforming Industries](https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries) (2026-08-21)
 - [How to Build a Career in AI: 3 Distinct Pathways](https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways) (2026-08-20)
 - [Top 10 Open-Source Benchmarks for AI Coding Agents in 2026](https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026) (2026-08-20)
-- [How to Answer AI System Design Interview Questions](https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions) (2026-08-19)
 
 </details>
 
