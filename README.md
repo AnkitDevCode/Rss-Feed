@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc) (2026-08-24)
-- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f) (2026-08-24)
-- [Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg) (2026-08-24)
-- [OzBrain's Shared Memory Architecture: How Multi-Agent Teams Avoid Re-Explaining Context Across Sessions](https://dev.to/mech_app_ai/ozbrains-shared-memory-architecture-how-multi-agent-teams-avoid-re-explaining-context-across-1c19) (2026-08-24)
-- [Architecting a background-service-based sound manager that survives Android's Doze mode](https://dev.to/haseebthedev0/architecting-a-background-service-based-sound-manager-that-survives-androids-doze-mode-1o1e) (2026-08-24)
+- [What Changed in AI in the Last 90 Days (Quick Round-up)](https://dev.to/viv_chaudhary_88e872089e9/what-changed-in-ai-in-the-last-90-days-quick-round-up-4bae) (2026-08-24)
+- [How I Enforced a Privacy Rule, Commented It, Yet Still Shipped a Data Leak – Lessons Learned](https://dev.to/devtechpulse/how-i-enforced-a-privacy-rule-commented-it-yet-still-shipped-a-data-leak-lessons-learned-3nah) (2026-08-24)
+- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf) (2026-08-24)
+- [Your canvas.toBlob might be silently handing you a PNG](https://dev.to/pm_cheng_3f36acecfb9c59f5/your-canvastoblob-might-be-silently-handing-you-a-png-27bo) (2026-08-24)
+- [sentinel-scan-cli vs Cisco mcp-scanner vs Snyk Agent Scan: comparing open-source MCP security scanners](https://dev.to/ventrova/sentinel-scan-cli-vs-cisco-mcp-scanner-vs-snyk-agent-scan-comparing-open-source-mcp-security-f5a) (2026-08-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Debugged 18 Linux Production Failures This Year. Here Is the Data Nobody Publishes.](https://medium.com/javarevisited/i-debugged-18-linux-production-failures-this-year-here-is-the-data-nobody-publishes-c88d0ab2237a?source=rss------programming-5) (2026-08-24)
-- [I Sat Through 20 System Design Interviews in 2026. Here Is the Data Nobody Publishes.](https://medium.com/codex/i-sat-through-20-system-design-interviews-in-2026-here-is-the-data-nobody-publishes-7ecc6c13ea48?source=rss------programming-5) (2026-08-24)
-- [I Negotiated 6 Backend Engineering Offers in 2026. Here Is the Data Nobody Publishes.](https://medium.com/codex/i-negotiated-6-backend-engineering-offers-in-2026-here-is-the-data-nobody-publishes-1ff64e3dd518?source=rss------programming-5) (2026-08-24)
-- [I Interviewed 60 Backend Engineers This Year as the Hiring Manager.](https://medium.com/lets-code-future/i-interviewed-60-backend-engineers-this-year-as-the-hiring-manager-c8b3b352a462?source=rss------programming-5) (2026-08-24)
-- [What is XML Schema (XSD)? Explained with Examples](https://medium.com/@sunil17bbmp/what-is-xml-schema-xsd-explained-with-examples-2a9a771cfff0?source=rss------programming-5) (2026-08-24)
+- [How to Use Ox Alpha (1M Stealth Reasoning Model) in Cursor IDE & Python](https://medium.com/@pixeloffice/how-to-use-ox-alpha-1m-stealth-reasoning-model-in-cursor-ide-python-1274c9344c60?source=rss------programming-5) (2026-08-24)
+- [Rust is Officially Doomed (And C++ Developers Are Laughing)](https://medium.com/the-tech-notes/rust-is-officially-doomed-and-c-developers-are-laughing-77384e81bf47?source=rss------programming-5) (2026-08-24)
+- [The Complete Spring Boot Interview Roadmap: Everything You Need to Land the Job in 2026](https://medium.com/@aayushichourasiya/the-complete-spring-boot-interview-roadmap-everything-you-need-to-land-the-job-in-2026-47d5465e2ba2?source=rss------programming-5) (2026-08-24)
+- [TypeScript WeakRef and FinalizationRegistry: Type-Safe Patterns for Memory-Sensitive Caches](https://medium.com/@jsmanifest/typescript-weakref-and-finalizationregistry-type-safe-patterns-for-memory-sensitive-caches-f8bb202ea400?source=rss------programming-5) (2026-08-24)
+- [Angular Common Signal Mistakes That Hurt Performance](https://medium.com/@roshannavale7/angular-common-signal-mistakes-that-hurt-performance-3c5d26a36daa?source=rss------programming-5) (2026-08-24)
 
 </details>
 
