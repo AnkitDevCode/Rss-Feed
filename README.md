@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/) (2026-08-25)
 - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/) (2026-08-25)
 - [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/) (2026-08-24)
 - [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/) (2026-08-24)
 - [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/) (2026-08-24)
-- [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas) (2026-08-24)
-- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) (2026-08-24)
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) (2026-08-24)
-- [Moon (2024)](https://ciechanow.ski/moon/) (2026-08-24)
-- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) (2026-08-24)
+- [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context) (2026-08-25)
+- [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents) (2026-08-25)
+- [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform) (2026-08-25)
+- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model) (2026-08-25)
+- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) (2026-08-25)
 
 </details>
 
@@ -75,34 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/) (2026-08-25)
 - [Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/) (2026-08-24)
 - [Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/) (2026-08-21)
 - [Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/) (2026-08-21)
 - [AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/) (2026-08-20)
-- [Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks](https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Per-user two-factor auth in CakePHP with CakeDC/Users (opt-in, one method)](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d) (2026-08-25)
-- [I built a free image and video hosting tool after Imgur blocked the UK](https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na) (2026-08-25)
-- [I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30) (2026-08-25)
-- [Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6) (2026-08-25)
-- [I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.](https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0) (2026-08-25)
+- [D11：他昨天新增的規則，今天第一次上場就給出相反的解釋](https://dev.to/_2ab71a79dd36101e6be89/d11ta-zuo-tian-xin-zeng-de-gui-ze-jin-tian-di-ci-shang-chang-jiu-gei-chu-xiang-fan-de-jie-shi-147h) (2026-08-25)
+- [Building A Prompt Template That Works Without You In The Room](https://dev.to/faraz_farhan_83ed23a154a2/building-a-prompt-template-that-works-without-you-in-the-room-10ia) (2026-08-25)
+- [Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0) (2026-08-25)
+- [How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb) (2026-08-25)
+- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1) (2026-08-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Sending .env Files Around: I Built a Tiny CLI Instead](https://medium.com/@sazzadur/stop-sending-env-files-around-i-built-a-tiny-cli-instead-d1260346a46c?source=rss------programming-5) (2026-08-25)
-- [What is an API? Introduction, Types, and Usage](https://medium.com/@sunil17bbmp/what-is-an-api-introduction-types-and-usage-5d6c3661d0cc?source=rss------programming-5) (2026-08-25)
-- [Async/Await vs Promises — The Real Difference Nobody Explains Clearly](https://medium.com/@kaklotarrahul79/async-await-vs-promises-the-real-difference-nobody-explains-clearly-d5200b667acb?source=rss------programming-5) (2026-08-25)
-- [The Google L4 Interview Question I Was Nailing (Until I Tried To Make Consistency Global)](https://blog.stackademic.com/the-google-l4-interview-question-i-was-nailing-until-i-tried-to-make-consistency-global-859b27ffde80?source=rss------programming-5) (2026-08-25)
-- [The Foundations: Understanding Code and Logic
-A Journey into Cybersecurity, AI, and Programming](https://medium.com/@halmoallem33/the-foundations-understanding-code-and-logic-a-journey-into-cybersecurity-ai-and-programming-f661a65f0b3f?source=rss------programming-5) (2026-08-24)
+- [The Best AI Coding Tools in 2026: What the August Shake-Up Actually Changed](https://darshan-chauhan.medium.com/the-best-ai-coding-tools-in-2026-what-the-august-shake-up-actually-changed-7b7c9c2024de?source=rss------programming-5) (2026-08-25)
+- [Why I Killed My Perfect Pagination Code (And Learned to Love Infinite Scroll)](https://medium.com/@sai.vannala/why-i-killed-my-perfect-pagination-code-and-learned-to-love-infinite-scroll-aecb77fb3f61?source=rss------programming-5) (2026-08-25)
+- [One Day, AI Will Write Almost All the Code. What Will Developers Do Then?](https://elshad-karimov.medium.com/one-day-ai-will-write-almost-all-the-code-what-will-developers-do-then-4264ac7ecc75?source=rss------programming-5) (2026-08-25)
+- [How Non-IT Graduates Can Start a Software Career](https://medium.com/@skillsitacademyfaculty/how-non-it-graduates-can-start-a-software-career-54d1603e8c1b?source=rss------programming-5) (2026-08-25)
+- [Shopify Theme Customisation Limits: Three Header Rows Versus One Layout Call](https://ocontis.medium.com/shopify-theme-customisation-limits-three-header-rows-versus-one-layout-call-b572227927c4?source=rss------programming-5) (2026-08-25)
 
 </details>
 
@@ -558,22 +557,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
 - [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization) (2026-08-21)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark) (2026-08-20)
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
-- [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
-- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
-- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
 
 </details>
 
