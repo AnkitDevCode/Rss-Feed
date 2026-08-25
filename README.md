@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II](https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/) (2026-08-25)
+- [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/) (2026-08-25)
+- [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/) (2026-08-25)
 - [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/) (2026-08-25)
 - [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/) (2026-08-25)
-- [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/) (2026-08-24)
-- [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/) (2026-08-24)
-- [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context) (2026-08-25)
+- [Don't Wordle](https://dontwordle.com/) (2026-08-25)
+- [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly) (2026-08-25)
+- [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer) (2026-08-25)
+- [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets) (2026-08-25)
 - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents) (2026-08-25)
-- [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform) (2026-08-25)
-- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model) (2026-08-25)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) (2026-08-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked) (2026-08-24)
-- [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul) (2026-08-24)
-- [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement) (2026-08-24)
-- [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa) (2026-08-24)
-- [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom) (2026-08-24)
+- [The OLED Xbox Ally X20 officially starts at $1,300](https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300) (2026-08-25)
+- [The TCL Note A1 is a kinder, gentler tablet](https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review) (2026-08-25)
+- [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price) (2026-08-25)
+- [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack) (2026-08-25)
+- [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure) (2026-08-25)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Welcome to the spiderverse, a world measured through webs](https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/) (2026-08-25)
+- [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) (2026-08-25)
 - [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) (2026-08-24)
 - [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/) (2026-08-24)
 - [Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/) (2026-08-24)
-- [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/) (2026-08-21)
-- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) (2026-08-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [D11：他昨天新增的規則，今天第一次上場就給出相反的解釋](https://dev.to/_2ab71a79dd36101e6be89/d11ta-zuo-tian-xin-zeng-de-gui-ze-jin-tian-di-ci-shang-chang-jiu-gei-chu-xiang-fan-de-jie-shi-147h) (2026-08-25)
-- [Building A Prompt Template That Works Without You In The Room](https://dev.to/faraz_farhan_83ed23a154a2/building-a-prompt-template-that-works-without-you-in-the-room-10ia) (2026-08-25)
-- [Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0) (2026-08-25)
-- [How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb) (2026-08-25)
-- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1) (2026-08-25)
+- [How I Debugged a phpMyAdmin 500 Error While Importing a Large SQL File on Laragon](https://dev.to/tahsin000/how-i-debugged-a-phpmyadmin-500-error-while-importing-a-large-sql-file-on-laragon-245i) (2026-08-25)
+- [A Dead-Man's Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.](https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n) (2026-08-25)
+- [AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1) (2026-08-25)
+- [I removed the LLM call and replaced it with 200 lines of template code](https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0) (2026-08-25)
+- [Chega de git stash: como trabalhar em múltiplas features em paralelo com git worktree](https://dev.to/brduarte/chega-de-git-stash-como-trabalhar-em-multiplas-features-em-paralelo-com-git-worktree-171b) (2026-08-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Best AI Coding Tools in 2026: What the August Shake-Up Actually Changed](https://darshan-chauhan.medium.com/the-best-ai-coding-tools-in-2026-what-the-august-shake-up-actually-changed-7b7c9c2024de?source=rss------programming-5) (2026-08-25)
-- [Why I Killed My Perfect Pagination Code (And Learned to Love Infinite Scroll)](https://medium.com/@sai.vannala/why-i-killed-my-perfect-pagination-code-and-learned-to-love-infinite-scroll-aecb77fb3f61?source=rss------programming-5) (2026-08-25)
-- [One Day, AI Will Write Almost All the Code. What Will Developers Do Then?](https://elshad-karimov.medium.com/one-day-ai-will-write-almost-all-the-code-what-will-developers-do-then-4264ac7ecc75?source=rss------programming-5) (2026-08-25)
-- [How Non-IT Graduates Can Start a Software Career](https://medium.com/@skillsitacademyfaculty/how-non-it-graduates-can-start-a-software-career-54d1603e8c1b?source=rss------programming-5) (2026-08-25)
-- [Shopify Theme Customisation Limits: Three Header Rows Versus One Layout Call](https://ocontis.medium.com/shopify-theme-customisation-limits-three-header-rows-versus-one-layout-call-b572227927c4?source=rss------programming-5) (2026-08-25)
+- [Ox Alpha: Who is Behind This Anonymous Frontier Model](https://medium.com/@GaoDalie_AI/ox-alpha-who-is-behind-this-anonymous-frontier-model-79ae1b0922c4?source=rss------programming-5) (2026-08-25)
+- [Your First Game Is Not Your Dream Game](https://medium.com/@paul.crinigan218/your-first-game-is-not-your-dream-game-e5bf98da0813?source=rss------programming-5) (2026-08-25)
+- [Google Search is Officially Dead (And You Haven’t Even Heard of the Company Replacing It)](https://medium.com/the-tech-notes/google-search-is-officially-dead-and-you-havent-even-heard-of-the-company-replacing-it-6de275bd28b5?source=rss------programming-5) (2026-08-25)
+- [Your Prompt Leaves the Machine Before Your “Local” Image Exists](https://medium.com/@sebuzdugan/your-prompt-leaves-the-machine-before-your-local-image-exists-61049b50ce62?source=rss------programming-5) (2026-08-25)
+- [My First Year at University: Expectations, Lessons and What I Actually Learned](https://medium.com/@kkartikeyak/my-first-year-at-university-expectations-lessons-and-what-i-actually-learned-dc7fce142a53?source=rss------programming-5) (2026-08-25)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Ideas Worth a Longer Conversation: The JetBrains Research Podcast](https://blog.jetbrains.com/research/2026/08/jbr-podcast/) (2026-08-25)
 - [Help AI Coding Agents Write Up-To-Date Code With Modern Golang Skills](https://blog.jetbrains.com/go/2026/08/24/help-ai-coding-agents-write-up-to-date-code-with-modern-golang-skills/) (2026-08-24)
 - [How We Optimized the Qwen 3.6 Model for Our Junie Agent](https://blog.jetbrains.com/junie/2026/08/qwen-for-junie/) (2026-08-24)
 - [Junie Can Now Run Entirely on Your Mac – No Credits, No Cloud](https://blog.jetbrains.com/junie/2026/08/junie-local-launch/) (2026-08-24)
 - [Spring Boot Configuration Management Best Practices](https://blog.jetbrains.com/idea/2026/08/spring-boot-configuration-management-best-practices/) (2026-08-21)
-- [PyCharm for AI-assisted Django Workflows](https://blog.jetbrains.com/pycharm/2026/08/pycharm-for-ai-assisted-django-workflows/) (2026-08-20)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Scale software delivery pipelines in isolation without owning the runner fleet](https://about.gitlab.com/blog/hosted-runners-for-gitlab-dedicated/) (2026-08-25)
 - [When code is abundant](https://about.gitlab.com/blog/when-code-is-abundant/) (2026-08-24)
 - [When your backlog outgrows your team, GitLab scales remediation](https://about.gitlab.com/blog/gitlab-scales-remediation/) (2026-08-20)
 - [Run agentic software delivery inside the boundaries you already trust](https://about.gitlab.com/blog/gitlab-dedicated-ai-gateway/) (2026-08-20)
 - [Build custom flows in minutes with the Flow Creator agent](https://about.gitlab.com/blog/flow-creator-agent/) (2026-08-20)
-- [GitLab 19.3 released](https://docs.gitlab.com/releases/19/gitlab-19-3-released/) (2026-08-20)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Connect now supports Linq](https://vercel.com/changelog/vercel-connect-now-supports-linq) (2026-08-25)
+- [Bring your agent to Notion with Chat SDK](https://vercel.com/changelog/notion-chat-sdk) (2026-08-25)
+- [Chat SDK now supports XChat](https://vercel.com/changelog/chat-sdk-now-supports-xchat) (2026-08-25)
 - [Elastic build machines now use Turborepo cache hits to prevent downgrades](https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades) (2026-08-24)
 - [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available) (2026-08-24)
-- [Environment variables now use Config and Secret types](https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types) (2026-08-24)
-- [Bun runtime now supports large functions and extended max duration](https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration) (2026-08-24)
-- [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services) (2026-08-24)
 
 </details>
 
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Prisma Is Building the Stack for the Next Million Products](https://www.prisma.io/blog/building-the-stack-for-the-next-million-products) (2026-08-25)
 - [Prisma Schema as LLM Context: Why Agents Read It Best](https://www.prisma.io/blog/prisma-schema-as-llm-context) (2026-08-06)
 - [Infraslopture and Other Paradoxes](https://www.prisma.io/blog/infraslopture-and-other-paradoxes) (2026-08-03)
 - [From Local Development to Production with Prisma Postgres](https://www.prisma.io/blog/from-local-to-production-with-prisma-postgres) (2026-07-31)
 - [Search encrypted data with Prisma 8 and CipherStash](https://www.prisma.io/blog/search-encrypted-data-with-prisma-next-and-cipherstash) (2026-07-30)
-- [Don't Let Your AI Agent Delete Your Production Database | Prisma 8](https://www.prisma.io/blog/stop-your-ai-agent-dropping-your-database) (2026-07-30)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Code: Where Your Team and Agents Build Together](https://slack.com/blog/news/slack-code-channels-for-agents) (2026-08-20)
-- [Anyone can now build Agents on Slack: Introducing Add to Slack](https://slack.com/blog/news/add-to-slack) (2026-08-20)
-- [AI Meeting Assistant Tools to Save Time and Boost Productivity](https://slack.com/blog/productivity/how-to-optimize-your-time-with-ai-meeting-assistant-tools) (2026-08-17)
-- [10 Proven Strategies to Boost Employee Morale and Engagement](https://slack.com/blog/collaboration/methods-boosting-employee-morale) (2026-08-17)
-- [What Is Agile Methodology? A Guide to Principles and Practices](https://slack.com/blog/productivity/agile-methodology-explained-principles-practices-and-more) (2026-08-17)
+- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
+- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
+- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
+- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
+- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
 
 </details>
 
@@ -557,44 +557,55 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
+- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) (2026-08-21)
 - [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization) (2026-08-21)
 - [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark) (2026-08-20)
-- [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
-- [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [One Document Type, a Million Files: Structured Extraction into the SQL Table RAG Queries](https://towardsdatascience.com/one-document-type-a-million-files-structured-extraction-into-the-sql-table-rag-queries/) (2026-08-25)
 - [Put Your Own Logic Inside the Codex Agentic Loop](https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/) (2026-08-24)
 - [10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong](https://towardsdatascience.com/10-positions-for-enterprise-rag-that-mainstream-tutorials-get-wrong/) (2026-08-24)
 - [Can an LLM Forget the Right Things?](https://towardsdatascience.com/can-an-llm-forget-the-right-things/) (2026-08-24)
 - [Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash](https://towardsdatascience.com/speculative-decoding-on-cpus-nearly-4x-faster-token-generation-with-dflash/) (2026-08-24)
-- [AI Agents Don’t Need More Context — They Need Typed Context](https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is a Forward Deployed Engineer? Role, Skills & Salary](https://www.analyticsvidhya.com/blog/2026/08/what-is-a-forward-deployed-engineer/) (2026-08-25)
 - [How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/) (2026-08-24)
 - [Spec-Driven Development with Claude Code: Writing Bulletproof Specs](https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/) (2026-08-23)
 - [Top 5 Agentic AI Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/) (2026-08-22)
 - [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
-- [How to Remove Claude Watermarks from Text, Code, and Files](https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/) (2026-08-19)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [I Tried Kimi Agent and Here’s What I Found](https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found) (2026-08-25)
 - [How to Leverage Local Small Language Models for Your Projects](https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects) (2026-08-24)
 - [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6) (2026-08-24)
 - [Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi](https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi) (2026-08-21)
 - [5 Real-World Use Cases for AI Agents Transforming Industries](https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries) (2026-08-21)
-- [How to Build a Career in AI: 3 Distinct Pathways](https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways) (2026-08-20)
 
 </details>
 
