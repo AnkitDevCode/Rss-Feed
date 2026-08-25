@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/) (2026-08-24)
-- [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/) (2026-08-24)
-- [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/) (2026-08-24)
-- [Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/) (2026-08-24)
-- [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/) (2026-08-24)
+- [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/) (2026-08-25)
+- [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/) (2026-08-24)
+- [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/) (2026-08-24)
+- [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/) (2026-08-24)
+- [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/) (2026-08-23)
-- [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/) (2026-08-23)
-- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) (2026-08-23)
-- [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) (2026-08-23)
-- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) (2026-08-23)
+- [Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas) (2026-08-24)
+- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) (2026-08-24)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) (2026-08-24)
+- [Moon (2024)](https://ciechanow.ski/moon/) (2026-08-24)
+- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) (2026-08-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked) (2026-08-24)
+- [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul) (2026-08-24)
 - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement) (2026-08-24)
 - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa) (2026-08-24)
 - [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom) (2026-08-24)
-- [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase) (2026-08-24)
-- [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases) (2026-08-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo](https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/) (2026-08-24)
-- [Due to need for "absolute success," China delays critical Moon launch to 2027](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/) (2026-08-23)
-- [Volcanoes that made history](https://arstechnica.com/science/2026/08/volcanoes-that-made-history/) (2026-08-23)
-- [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) (2026-08-22)
-- [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) (2026-08-22)
+- [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/) (2026-08-24)
+- [Data centers become "killer application" for new power transformer tech](https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/) (2026-08-24)
+- [RFK Jr. may upend how vaccine recommendations are categorized](https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/) (2026-08-24)
+- [Ads and tracking infiltrated TVs. Now they're coming for monitors.](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/) (2026-08-24)
+- [GM vehicles under federal scrutiny after hundreds of reports](https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/) (2026-08-24)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/) (2026-08-24)
 - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (2026-08-20)
 - [GitHub Copilot app for Beginners: Managing your work](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/) (2026-08-19)
 - [How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/) (2026-08-17)
 - [How to bring your software delivery workflow into GitHub with agent apps](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/) (2026-08-14)
-- [Your guide to GitHub Universe 2026 is here: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/) (2026-08-13)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Macaron-V1: Continual Learning with Self-Improvement and Mixture-of-LoRA Adapters](https://dev.to/aimodels-fyi/macaron-v1-continual-learning-with-self-improvement-and-mixture-of-lora-adapters-1c45) (2026-08-24)
-- [BDH-CQ Uses Recurrent Latent Reasoning to Cut ARC-AGI Inference Costs](https://dev.to/aimodels-fyi/bdh-cq-uses-recurrent-latent-reasoning-to-cut-arc-agi-inference-costs-2hk7) (2026-08-24)
-- [How Cross-Model Compatibility Lets Attackers Extract Proprietary LLM Reasoning Traces](https://dev.to/aimodels-fyi/how-cross-model-compatibility-lets-attackers-extract-proprietary-llm-reasoning-traces-2ma) (2026-08-24)
-- [Stop Adding console.log to Production Just to See What a Webhook Sent](https://dev.to/sarfaraznaushad/stop-adding-consolelog-to-production-just-to-see-what-a-webhook-sent-29jm) (2026-08-24)
-- [Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc) (2026-08-24)
+- [Per-user two-factor auth in CakePHP with CakeDC/Users (opt-in, one method)](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d) (2026-08-25)
+- [I built a free image and video hosting tool after Imgur blocked the UK](https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na) (2026-08-25)
+- [I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30) (2026-08-25)
+- [Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6) (2026-08-25)
+- [I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.](https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0) (2026-08-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Tests Prove the Function Works. They Do Not Prove Anything Calls It.](https://medium.com/@MarcinFirmuga/your-tests-prove-the-function-works-they-do-not-prove-anything-calls-it-89b58fa4f7cc?source=rss------programming-5) (2026-08-24)
-- [The Real Reason Your Laptop Freezes Isn’t Speed](https://medium.com/@moothasriharshith/the-real-reason-your-laptop-freezes-isnt-speed-bdeef787ec7f?source=rss------programming-5) (2026-08-24)
-- [I Think I Just Became the Old Programmer](https://tejas-sridhar.medium.com/i-think-i-just-became-the-old-programmer-624ea0366fc2?source=rss------programming-5) (2026-08-24)
-- [ #[CurrentUser] + Union Types: Handling API Tokens and Sessions in One Symfony Controller](https://medium.com/@laurentmn/currentuser-union-types-handling-api-tokens-and-sessions-in-one-symfony-controller-d5a5bff37410?source=rss------programming-5) (2026-08-24)
-- [Observability: Designing APIs You Can Actually Debug in Production](https://medium.com/@emmanuelowusuadu10/observability-designing-apis-you-can-actually-debug-in-production-976ea33dcad9?source=rss------programming-5) (2026-08-24)
+- [Stop Sending .env Files Around: I Built a Tiny CLI Instead](https://medium.com/@sazzadur/stop-sending-env-files-around-i-built-a-tiny-cli-instead-d1260346a46c?source=rss------programming-5) (2026-08-25)
+- [What is an API? Introduction, Types, and Usage](https://medium.com/@sunil17bbmp/what-is-an-api-introduction-types-and-usage-5d6c3661d0cc?source=rss------programming-5) (2026-08-25)
+- [Async/Await vs Promises — The Real Difference Nobody Explains Clearly](https://medium.com/@kaklotarrahul79/async-await-vs-promises-the-real-difference-nobody-explains-clearly-d5200b667acb?source=rss------programming-5) (2026-08-25)
+- [The Google L4 Interview Question I Was Nailing (Until I Tried To Make Consistency Global)](https://blog.stackademic.com/the-google-l4-interview-question-i-was-nailing-until-i-tried-to-make-consistency-global-859b27ffde80?source=rss------programming-5) (2026-08-25)
+- [The Foundations: Understanding Code and Logic
+A Journey into Cybersecurity, AI, and Programming](https://medium.com/@halmoallem33/the-foundations-understanding-code-and-logic-a-journey-into-cybersecurity-ai-and-programming-f661a65f0b3f?source=rss------programming-5) (2026-08-24)
 
 </details>
 
@@ -141,11 +142,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Update: New domain for Sign in with Apple](https://developer.apple.com/news/?id=1ptvdtcm) (2026-08-24)
 - [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp) (2026-08-18)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=0cgo95n6) (2026-08-18)
 - [Updates to age ratings for the Republic of Korea](https://developer.apple.com/news/?id=oj3r9pvw) (2026-08-12)
 - [Get ready for new creative assets on the App Store](https://developer.apple.com/news/?id=kug6m2ea) (2026-08-05)
-- [Hello Developer: August 2026](https://developer.apple.com/news/?id=vrvvlonn) (2026-08-05)
 
 </details>
 
@@ -350,22 +351,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Elastic build machines now use Turborepo cache hits to prevent downgrades](https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades) (2026-08-24)
 - [Vercel Sandbox is now globally available](https://vercel.com/changelog/vercel-sandbox-is-now-globally-available) (2026-08-24)
+- [Environment variables now use Config and Secret types](https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types) (2026-08-24)
 - [Bun runtime now supports large functions and extended max duration](https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration) (2026-08-24)
 - [Connect v0 apps to Slack, Google, and 100+ other services](https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services) (2026-08-24)
-- [How Ora benchmarks every major AI agent on Vercel](https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel) (2026-08-21)
-- [Deployment Storage keeps your deployments rollback-ready](https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready) (2026-08-21)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [The Cloudflare Blog – Brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) (2026-08-24)
 - [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
 - [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) (2026-08-20)
 - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) (2026-08-19)
 - [BGP Role model: tracking the adoption of RFC 9234](https://blog.cloudflare.com/rfc9234-bgp-role-model/) (2026-08-18)
-- [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/) (2026-08-14)
 
 </details>
 
@@ -513,11 +514,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>💬 Slack API</summary>
 
-- [Organizational Efficiency: The Six Factors for Success](https://slack.com/blog/transformation/organizational-effectiveness-company-success) (2026-08-07)
-- [Slack vs. Zoom: Which Is Best for Collaboration?](https://slack.com/blog/compare/slack-vs-zoom) (2026-08-03)
-- [Slack vs. monday.com: Which Is Best for Teams?](https://slack.com/blog/compare/slack-vs-monday) (2026-08-03)
-- [Slack Feature Drop: Working While You’re Away](https://slack.com/blog/news/slack-feature-drop-july2026) (2026-07-30)
-- [Now Slackbot moves work forward](https://slack.com/blog/news/slackbot-july-surfaces-slide-creation-code) (2026-07-29)
+- [Slack Code: Where Your Team and Agents Build Together](https://slack.com/blog/news/slack-code-channels-for-agents) (2026-08-20)
+- [Anyone can now build Agents on Slack: Introducing Add to Slack](https://slack.com/blog/news/add-to-slack) (2026-08-20)
+- [AI Meeting Assistant Tools to Save Time and Boost Productivity](https://slack.com/blog/productivity/how-to-optimize-your-time-with-ai-meeting-assistant-tools) (2026-08-17)
+- [10 Proven Strategies to Boost Employee Morale and Engagement](https://slack.com/blog/collaboration/methods-boosting-employee-morale) (2026-08-17)
+- [What Is Agile Methodology? A Guide to Principles and Practices](https://slack.com/blog/productivity/agile-methodology-explained-principles-practices-and-more) (2026-08-17)
 
 </details>
 
@@ -562,6 +563,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) (2026-08-18)
 - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder) (2026-08-18)
 - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) (2026-08-17)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
+- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
+- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
+- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
+- [Agentic AI in government just hit the hard part: deciding what a machine may decide](https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/) (2026-08-20)
 
 </details>
 
