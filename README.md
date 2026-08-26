@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/) (2026-08-25)
-- [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit ](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/) (2026-08-25)
-- [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/) (2026-08-25)
-- [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/) (2026-08-25)
-- [Waymo robotaxis are headed to Munich](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/) (2026-08-25)
+- [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) (2026-08-26)
+- [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) (2026-08-26)
+- [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/) (2026-08-25)
+- [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/) (2026-08-25)
+- [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Message from the Family of Dolly Parton](https://www.instagram.com/reel/DceNXgPJyZ9/) (2026-08-25)
-- [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) (2026-08-25)
-- [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1) (2026-08-25)
-- [DOJ prosecutes single FOIA dodger while defending systemwide evasion](https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/) (2026-08-25)
-- [Clara (YC P26) is hiring a growth engineer to bring AI doctors to market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer) (2026-08-25)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) (2026-08-25)
+- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) (2026-08-25)
+- [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) (2026-08-25)
+- [XCancel also down, at least for time being](https://news.ycombinator.com/item?id=49440786) (2026-08-25)
+- [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) (2026-08-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories) (2026-08-25)
-- [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale) (2026-08-25)
-- [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley) (2026-08-25)
-- [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels) (2026-08-25)
-- [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17) (2026-08-25)
+- [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch) (2026-08-25)
+- [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration) (2026-08-25)
+- [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale) (2026-08-25)
+- [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer) (2026-08-25)
+- [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The world's busiest spaceport is about to get a lot quieter, at least for now](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/) (2026-08-25)
+- [World humanoid robot games show runners breaking records, bursting into flames](https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/) (2026-08-25)
+- [Preserving glow-in-the-dark art and fashion for future generations](https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/) (2026-08-25)
+- [Google's anti-nausea Motion Assist dots finally rolling out on Android](https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/) (2026-08-25)
 - [Two unvaccinated people die from measles in Pennsylvania, officials confirm](https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/) (2026-08-25)
-- [SpaceX intends to invest up to $100 billion in massive Louisiana spaceport](https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/) (2026-08-25)
-- [Lab supply companies have been selling antibodies using manipulated images](https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/) (2026-08-25)
-- [New bootloader lets you take the "Meta" out of the original Meta Quest](https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/) (2026-08-25)
-- [AI won’t replace radiologists, but it will dramatically change their jobs](https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Art and algorithms at Sotheby’s](https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/) (2026-08-25)
-- [The Download: smarter AI in schools, and a robot “carnival” in Shanghai](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/) (2026-08-25)
-- [Welcome to the spiderverse, a world measured through webs](https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/) (2026-08-25)
-- [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) (2026-08-25)
-- [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) (2026-08-24)
+- [Addressing a sticking point in sustainable adhesives](https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/) (2026-08-25)
+- [YouTuber finds niche as college admissions mentor](https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/) (2026-08-25)
+- [Launching youth entrepreneurship](https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/) (2026-08-25)
+- [A new stamp on cyberfraud prevention](https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/) (2026-08-25)
+- [AgeLab research inspires an A I startup](https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) (2026-08-25)
 - [Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/) (2026-08-24)
 - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (2026-08-20)
 - [GitHub Copilot app for Beginners: Managing your work](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/) (2026-08-19)
 - [How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/) (2026-08-17)
-- [How to bring your software delivery workflow into GitHub with agent apps](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/) (2026-08-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c) (2026-08-25)
-- [MyAnimeList-Module (NPM)](https://dev.to/nyxprojects/myanimelist-module-npm-3ef4) (2026-08-25)
-- [MVP que evolui: 7 decisões técnicas antes da primeira linha de código](https://dev.to/mestresdaweb/mvp-que-evolui-7-decisoes-tecnicas-antes-da-primeira-linha-de-codigo-1pa0) (2026-08-25)
-- [TPM Requirements for Post-Quantum Cryptography Readiness](https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj) (2026-08-25)
-- [Should a SaaS Password Recovery Flow Use Email API or SMS OTP?](https://dev.to/holdenfox8476/should-a-saas-password-recovery-flow-use-email-api-or-sms-otp-4h42) (2026-08-25)
+- [AI Cut Korean Herbal Medicine Prep Time from 300 Minutes to 5 - But the Smart Part Is What It Didn't Touch: the Korean Medicine Doctor's Judgment](https://dev.to/judy_miranttie/ai-cut-korean-herbal-medicine-prep-time-from-300-minutes-to-5-but-the-smart-part-is-what-it-1hlc) (2026-08-26)
+- [Even Cloudflare Is Now Issuing Wallets to AI - The 'Spending Cap' Everyone's Racing to Build Is What Actually Makes AI Safe to Spend Money](https://dev.to/judy_miranttie/even-cloudflare-is-now-issuing-wallets-to-ai-the-spending-cap-everyones-racing-to-build-is-4opm) (2026-08-26)
+- [Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt](https://dev.to/aws/build-a-full-stack-music-station-with-openrouter-amazon-bedrock-and-nuxt-5fh4) (2026-08-26)
+- [Which Skill Is Quietly Burning Your Tokens? Find Out From transcript.jsonl](https://dev.to/bokuwalily/which-skill-is-quietly-burning-your-tokens-find-out-from-transcriptjsonl-n65) (2026-08-26)
+- [⚡️ Leverage Go superpowers with PureScript! Native speed w/ absolute type safety](https://dev.to/0x1/native-speed-w-absolute-safety-leverage-go-superpowers-with-purescript-4jla) (2026-08-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [100 Companies Ask 500 Interview Questions. There Are Only 36 Problems](https://medium.com/interview-process/100-companies-ask-500-interview-questions-there-are-only-36-problems-e0440460d717?source=rss------programming-5) (2026-08-25)
-- [The Rust Revelation: How One Language Completely Changed My Development Mindset ](https://medium.com/@monikasinghal713/the-rust-revelation-how-one-language-completely-changed-my-development-mindset-d0925e08e0c4?source=rss------programming-5) (2026-08-25)
-- [5 Design Patterns for Building Long-Horizon AI Agents](https://pub.towardsai.net/5-design-patterns-for-building-long-horizon-ai-agents-d21a5f62f6a7?source=rss------programming-5) (2026-08-25)
-- [The JavaScript Automation I Built That Started Working While I Was Away](https://medium.com/@SulemanSafdar/the-javascript-automation-i-built-that-started-working-while-i-was-away-c831ccf91d75?source=rss------programming-5) (2026-08-25)
-- [The Great Language Experiment: 15 C/C++ Replacements I Tried and Why I Returned ](https://medium.com/@anshusinghal703/the-great-language-experiment-15-c-c-replacements-i-tried-and-why-i-returned-d76f0863df6a?source=rss------programming-5) (2026-08-25)
+- [SOLID Principles: Everyone Can Recite Them. Here’s the Code That Proves You Understand Them.](https://medium.com/@thecurlybrace/solid-principles-everyone-can-recite-them-heres-the-code-that-proves-you-understand-them-5f3c4eec65dd?source=rss------programming-5) (2026-08-26)
+- [YAML for DevOps: Introduction, Syntax, and Examples](https://medium.com/@sunil17bbmp/yaml-for-devops-introduction-syntax-and-examples-e027e8ebdc0e?source=rss------programming-5) (2026-08-26)
+- [I Stopped Using Lodash and Here’s What Replaced It](https://medium.com/@kaklotarrahul79/i-stopped-using-lodash-and-heres-what-replaced-it-c49844c7ae38?source=rss------programming-5) (2026-08-26)
+- [Your Repository Has a Truth Problem](https://medium.com/analysts-corner/your-repository-has-a-truth-problem-bfc2f89b0346?source=rss------programming-5) (2026-08-25)
+- [Your Coding Agent Shouldn’t Work Alone](https://pub.towardsai.net/your-coding-agent-shouldnt-work-alone-4e910cc835b9?source=rss------programming-5) (2026-08-25)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) (2026-08-25)
 - [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/) (2026-08-24)
 - [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/) (2026-08-21)
 - [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/) (2026-08-20)
 - [17,600 Actions: Agent Security Is a Systems Problem](https://www.docker.com/blog/ai-agent-security-systems-problem/) (2026-08-18)
-- [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/) (2026-08-18)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Speed Insights adds a free tier](https://vercel.com/changelog/speed-insights-free-tier) (2026-08-25)
+- [Vercel applications are protected from Next.js August 2026 security vulnerabilities](https://vercel.com/changelog/nextjs-august-2026-security-release) (2026-08-25)
+- [Speed Insights now has a free tier](https://vercel.com/changelog/speed-insights-free-tier) (2026-08-25)
+- [Introducing Run SDK: secure eval for your agents](https://vercel.com/blog/introducing-run) (2026-08-25)
 - [The end of credential sprawl for agents](https://vercel.com/blog/the-end-of-credential-sprawl-for-agents) (2026-08-25)
 - [MiniMax M3 and M2.7 are free on AI Gateway](https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway) (2026-08-25)
-- [Wan 3.0 now available on AI Gateway](https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway) (2026-08-25)
-- [AI Gateway now supports asynchronous video generation](https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation) (2026-08-25)
 
 </details>
 
@@ -405,10 +405,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 
 - [Auth0, Made for Whatever You Are Building
 ](https://auth0.com/blog/auth0-made-for-what-you-are-building/) (2026-08-25)
-- [Adding a UI to an Auth0-secured MCP server with Skybridge](https://auth0.com/blog/adding-ui-auth0-secured-mcp-server-skybridge/) (2026-08-24)
+- [Whatever You Are Building, Auth0 Has a Plan ](https://auth0.com/blog/whatever-you-are-building-auth0-has-a-plan/) (2026-08-25)
 - [Branded Login URLs and Email Workflows for Production Auth](https://auth0.com/blog/branded-login-urls-email-workflows-production-auth/) (2026-08-24)
+- [Adding a UI to an Auth0-secured MCP server with Skybridge](https://auth0.com/blog/adding-ui-auth0-secured-mcp-server-skybridge/) (2026-08-24)
 - [Enterprise Readiness Is Not What You Support. It Is What Your Customers Can Own](https://auth0.com/blog/enterprise-readiness-is-not-what-you-support/) (2026-08-20)
-- [Enterprise-Managed Authorization for your MCP server: Setting Up and Testing XAA in Auth0](https://auth0.com/blog/setting-up-testing-cross-app-access-auth0/) (2026-08-20)
 
 </details>
 
