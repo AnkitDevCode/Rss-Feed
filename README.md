@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/) (2026-08-26)
 - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) (2026-08-26)
-- [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) (2026-08-26)
+- [OpenAI loses a top data center exec as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) (2026-08-26)
 - [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/) (2026-08-25)
 - [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/) (2026-08-25)
-- [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding) (2026-08-26)
+- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503) (2026-08-26)
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) (2026-08-26)
 - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) (2026-08-25)
 - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) (2026-08-25)
-- [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) (2026-08-25)
-- [XCancel also down, at least for time being](https://news.ycombinator.com/item?id=49440786) (2026-08-25)
-- [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) (2026-08-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Cut Korean Herbal Medicine Prep Time from 300 Minutes to 5 - But the Smart Part Is What It Didn't Touch: the Korean Medicine Doctor's Judgment](https://dev.to/judy_miranttie/ai-cut-korean-herbal-medicine-prep-time-from-300-minutes-to-5-but-the-smart-part-is-what-it-1hlc) (2026-08-26)
-- [Even Cloudflare Is Now Issuing Wallets to AI - The 'Spending Cap' Everyone's Racing to Build Is What Actually Makes AI Safe to Spend Money](https://dev.to/judy_miranttie/even-cloudflare-is-now-issuing-wallets-to-ai-the-spending-cap-everyones-racing-to-build-is-4opm) (2026-08-26)
-- [Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt](https://dev.to/aws/build-a-full-stack-music-station-with-openrouter-amazon-bedrock-and-nuxt-5fh4) (2026-08-26)
-- [Which Skill Is Quietly Burning Your Tokens? Find Out From transcript.jsonl](https://dev.to/bokuwalily/which-skill-is-quietly-burning-your-tokens-find-out-from-transcriptjsonl-n65) (2026-08-26)
-- [⚡️ Leverage Go superpowers with PureScript! Native speed w/ absolute type safety](https://dev.to/0x1/native-speed-w-absolute-safety-leverage-go-superpowers-with-purescript-4jla) (2026-08-26)
+- [Portfolio Update, I Guess](https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3) (2026-08-26)
+- [A year of coding by talking: what I gained and what I lost](https://dev.to/tacckim/a-year-of-coding-by-talking-what-i-gained-and-what-i-lost-1p15) (2026-08-26)
+- [I built plugins for three editors. Everywhere, you're a guest in someone else's house](https://dev.to/eugeniya_ivanova_4a58eadc/i-built-plugins-for-three-editors-everywhere-youre-a-guest-in-someone-elses-house-34ck) (2026-08-26)
+- [How I "Vibe-Coded" a Privacy-First, Client-Side Base64 Tool (Deep-Dive into Unicode Handling in JS)](https://dev.to/hoangvibecode/how-i-vibe-coded-a-privacy-first-client-side-base64-tool-deep-dive-into-unicode-handling-in-js-39m9) (2026-08-26)
+- [# Redundant Links, İzleme Araçları ve Bir Affinity Kilitlenmesi (Modül 5)](https://dev.to/hakanbaban53/-redundant-links-izleme-araclari-ve-bir-affinity-kilitlenmesi-modul-5-479j) (2026-08-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [SOLID Principles: Everyone Can Recite Them. Here’s the Code That Proves You Understand Them.](https://medium.com/@thecurlybrace/solid-principles-everyone-can-recite-them-heres-the-code-that-proves-you-understand-them-5f3c4eec65dd?source=rss------programming-5) (2026-08-26)
-- [YAML for DevOps: Introduction, Syntax, and Examples](https://medium.com/@sunil17bbmp/yaml-for-devops-introduction-syntax-and-examples-e027e8ebdc0e?source=rss------programming-5) (2026-08-26)
-- [I Stopped Using Lodash and Here’s What Replaced It](https://medium.com/@kaklotarrahul79/i-stopped-using-lodash-and-heres-what-replaced-it-c49844c7ae38?source=rss------programming-5) (2026-08-26)
-- [Your Repository Has a Truth Problem](https://medium.com/analysts-corner/your-repository-has-a-truth-problem-bfc2f89b0346?source=rss------programming-5) (2026-08-25)
-- [Your Coding Agent Shouldn’t Work Alone](https://pub.towardsai.net/your-coding-agent-shouldnt-work-alone-4e910cc835b9?source=rss------programming-5) (2026-08-25)
+- [The check ran. Nothing said so.](https://medium.com/@sayantika-mlsec/the-check-ran-nothing-said-so-ba88d2ff2d03?source=rss------programming-5) (2026-08-26)
+- [How to Solve Exponent Towers by Matching Bases](https://medium.com/think-art/how-to-solve-exponent-towers-by-matching-bases-b96fe6c17624?source=rss------programming-5) (2026-08-26)
+- [TypeScript ReturnType, Parameters, and ConstructorParameters: Extracting Types From Functions You…](https://medium.com/@jsmanifest/typescript-returntype-parameters-and-constructorparameters-extracting-types-from-functions-you-ca1cf698739a?source=rss------programming-5) (2026-08-26)
+- [I Spent Three Weekends Perfecting My Dev Setup and Shipped Nothing](https://medium.com/@adnankhan13/i-spent-three-weekends-perfecting-my-dev-setup-and-shipped-nothing-33f6a1351581?source=rss------programming-5) (2026-08-26)
+- [Repository Pattern in Flutter: Beyond CRUD and Firebase](https://medium.com/fludev/repository-pattern-in-flutter-beyond-crud-and-firebase-5e5c9b852596?source=rss------programming-5) (2026-08-26)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Is Agentic AI Just Automation?](https://towardsdatascience.com/is-agentic-ai-just-automation/) (2026-08-26)
+- [How to Format Your TDS Draft: A New and Improved Guide](https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/) (2026-08-26)
 - [A New Towards Data Science: A Faster Site and a Brand-New Contributor Portal](https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal/) (2026-08-25)
 - [I Deployed My Data Pipeline to AWS. Then Everything That Was “Local” Broke.](https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/) (2026-08-25)
 - [Recursive CTEs: SQL’s Hidden Graph Traversal Engine](https://towardsdatascience.com/six-degrees-of-sql/) (2026-08-25)
-- [Hallucinations, Watermarks, Removers, and a Squeezed Balloon](https://towardsdatascience.com/hallucinations-watermarks-removers-and-a-squeezed-balloon/) (2026-08-25)
-- [One Document Type, a Million Files: Structured Extraction into the SQL Table RAG Queries](https://towardsdatascience.com/one-document-type-a-million-files-structured-extraction-into-the-sql-table-rag-queries/) (2026-08-25)
 
 </details>
 
