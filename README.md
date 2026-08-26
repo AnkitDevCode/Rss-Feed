@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/) (2026-08-26)
+- [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/) (2026-08-26)
+- [Ventures Platform goes bigger — and broader — with its second Africa fund](https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/) (2026-08-26)
 - [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/) (2026-08-26)
 - [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) (2026-08-26)
-- [OpenAI loses a top data center exec as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) (2026-08-26)
-- [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/) (2026-08-25)
-- [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding) (2026-08-26)
-- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503) (2026-08-26)
-- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) (2026-08-26)
-- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) (2026-08-25)
-- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) (2026-08-25)
+- [Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/) (2026-08-26)
+- [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer) (2026-08-26)
+- [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them) (2026-08-26)
+- [Debian polls its developers on AI: permit or ban?](https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270) (2026-08-26)
+- [Beyond Recall and the Illusion of Competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html) (2026-08-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking) (2026-08-26)
+- [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review) (2026-08-26)
+- [Bill Gates is deeply worried about AI, and he’s no longer staying quiet](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet) (2026-08-26)
+- [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool) (2026-08-26)
 - [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch) (2026-08-25)
-- [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration) (2026-08-25)
-- [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale) (2026-08-25)
-- [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer) (2026-08-25)
-- [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [IBM's new Granite 4.2 models ride the wave of interest in local LLMs](https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/) (2026-08-26)
+- [Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes](https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/) (2026-08-26)
 - [The world's busiest spaceport is about to get a lot quieter, at least for now](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/) (2026-08-25)
 - [World humanoid robot games show runners breaking records, bursting into flames](https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/) (2026-08-25)
 - [Preserving glow-in-the-dark art and fashion for future generations](https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/) (2026-08-25)
-- [Google's anti-nausea Motion Assist dots finally rolling out on Android](https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/) (2026-08-25)
-- [Two unvaccinated people die from measles in Pennsylvania, officials confirm](https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) (2026-08-26)
+- [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) (2026-08-26)
+- [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) (2026-08-26)
+- [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) (2026-08-26)
 - [Addressing a sticking point in sustainable adhesives](https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/) (2026-08-25)
-- [YouTuber finds niche as college admissions mentor](https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/) (2026-08-25)
-- [Launching youth entrepreneurship](https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/) (2026-08-25)
-- [A new stamp on cyberfraud prevention](https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/) (2026-08-25)
-- [AgeLab research inspires an A I startup](https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/) (2026-08-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Portfolio Update, I Guess](https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3) (2026-08-26)
-- [A year of coding by talking: what I gained and what I lost](https://dev.to/tacckim/a-year-of-coding-by-talking-what-i-gained-and-what-i-lost-1p15) (2026-08-26)
-- [I built plugins for three editors. Everywhere, you're a guest in someone else's house](https://dev.to/eugeniya_ivanova_4a58eadc/i-built-plugins-for-three-editors-everywhere-youre-a-guest-in-someone-elses-house-34ck) (2026-08-26)
-- [How I "Vibe-Coded" a Privacy-First, Client-Side Base64 Tool (Deep-Dive into Unicode Handling in JS)](https://dev.to/hoangvibecode/how-i-vibe-coded-a-privacy-first-client-side-base64-tool-deep-dive-into-unicode-handling-in-js-39m9) (2026-08-26)
-- [# Redundant Links, İzleme Araçları ve Bir Affinity Kilitlenmesi (Modül 5)](https://dev.to/hakanbaban53/-redundant-links-izleme-araclari-ve-bir-affinity-kilitlenmesi-modul-5-479j) (2026-08-26)
+- [Intent Alignment Reviews: Justify Every Line of Code](https://dev.to/turtleand/intent-alignment-reviews-justify-every-line-of-code-4346) (2026-08-26)
+- [The Audit's Blind Spot: I Weighed the Build, Not the Page](https://dev.to/gabbs279/the-audits-blind-spot-i-weighed-the-build-not-the-page-37p4) (2026-08-26)
+- [Writing QUIC in Pure Java](https://dev.to/cpkb/writing-quic-in-pure-java-2536) (2026-08-26)
+- [Docker in Production: What Changes When Containers Meet Reality?](https://dev.to/sreekanth_kuruba_91721e5d/docker-in-production-what-changes-when-containers-meet-reality-1bmm) (2026-08-26)
+- [AWS Serverless Weather Data Pipeline](https://dev.to/aws-builders/aws-serverless-weather-data-pipeline-2nh3) (2026-08-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The check ran. Nothing said so.](https://medium.com/@sayantika-mlsec/the-check-ran-nothing-said-so-ba88d2ff2d03?source=rss------programming-5) (2026-08-26)
-- [How to Solve Exponent Towers by Matching Bases](https://medium.com/think-art/how-to-solve-exponent-towers-by-matching-bases-b96fe6c17624?source=rss------programming-5) (2026-08-26)
-- [TypeScript ReturnType, Parameters, and ConstructorParameters: Extracting Types From Functions You…](https://medium.com/@jsmanifest/typescript-returntype-parameters-and-constructorparameters-extracting-types-from-functions-you-ca1cf698739a?source=rss------programming-5) (2026-08-26)
-- [I Spent Three Weekends Perfecting My Dev Setup and Shipped Nothing](https://medium.com/@adnankhan13/i-spent-three-weekends-perfecting-my-dev-setup-and-shipped-nothing-33f6a1351581?source=rss------programming-5) (2026-08-26)
-- [Repository Pattern in Flutter: Beyond CRUD and Firebase](https://medium.com/fludev/repository-pattern-in-flutter-beyond-crud-and-firebase-5e5c9b852596?source=rss------programming-5) (2026-08-26)
+- [The Biggest .NET 11 Performance Change Isn’t a New API — It’s How async/await Works](https://medium.com/@mohsho10/the-biggest-net-11-performance-change-isnt-a-new-api-it-s-how-async-await-works-8386f1fb0c6c?source=rss------programming-5) (2026-08-26)
+- [EAS Build in 2026: What Actually Changed for Indie React Native Teams](https://medium.com/@famitha_30242/eas-build-in-2026-what-actually-changed-for-indie-react-native-teams-178c6e29628a?source=rss------programming-5) (2026-08-26)
+- [Talking to a Machine That Only Reads](https://medium.com/@hackastak/talking-to-a-machine-that-only-reads-b1b04a020e92?source=rss------programming-5) (2026-08-26)
+- [I Spent 40 Years Learning to Build Software. AI Is Teaching Me What to Unlearn.](https://medium.com/@mukeshp64/i-spent-40-years-learning-to-build-software-ai-is-teaching-me-what-to-unlearn-3c944c9b098f?source=rss------programming-5) (2026-08-26)
+- [I Forgot About the Website I Used to Live On](https://pub.huizhou92.com/i-forgot-about-the-website-i-used-to-live-on-d363fd45fbf4?source=rss------programming-5) (2026-08-26)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2026-08-17)
 - [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
-- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How Ubuntu Is Using Rust to Rebuild Core System Tools ](https://blog.jetbrains.com/rust/2026/08/26/ubuntu-rust/) (2026-08-26)
+- [OpenTelemetry Comes to IntelliJ IDEA, GoLand, PyCharm, and WebStorm](https://blog.jetbrains.com/platform/2026/08/opentelemetry-plugin-for-jetbrains-ides/) (2026-08-26)
 - [Ideas Worth a Longer Conversation: The JetBrains Research Podcast](https://blog.jetbrains.com/research/2026/08/jbr-podcast/) (2026-08-25)
 - [Help AI Coding Agents Write Up-To-Date Code With Modern Golang Skills](https://blog.jetbrains.com/go/2026/08/24/help-ai-coding-agents-write-up-to-date-code-with-modern-golang-skills/) (2026-08-24)
 - [How We Optimized the Qwen 3.6 Model for Our Junie Agent](https://blog.jetbrains.com/junie/2026/08/qwen-for-junie/) (2026-08-24)
-- [Junie Can Now Run Entirely on Your Mac – No Credits, No Cloud](https://blog.jetbrains.com/junie/2026/08/junie-local-launch/) (2026-08-24)
-- [Spring Boot Configuration Management Best Practices](https://blog.jetbrains.com/idea/2026/08/spring-boot-configuration-management-best-practices/) (2026-08-21)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Making room for what's next in the GitLab UI](https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/) (2026-08-26)
+- [GitLab Patch Release: 19.3.1, 19.2.5, 19.1.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-1-released/) (2026-08-26)
 - [Scale software delivery pipelines in isolation without owning the runner fleet](https://about.gitlab.com/blog/hosted-runners-for-gitlab-dedicated/) (2026-08-25)
 - [When code is abundant](https://about.gitlab.com/blog/when-code-is-abundant/) (2026-08-24)
 - [When your backlog outgrows your team, GitLab scales remediation](https://about.gitlab.com/blog/gitlab-scales-remediation/) (2026-08-20)
-- [Run agentic software delivery inside the boundaries you already trust](https://about.gitlab.com/blog/gitlab-dedicated-ai-gateway/) (2026-08-20)
-- [Build custom flows in minutes with the Flow Creator agent](https://about.gitlab.com/blog/flow-creator-agent/) (2026-08-20)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video
+) (2026-08-25)
+- [
 Top user authentication trends for 2026
 ](
 https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
@@ -392,11 +397,6 @@ Video Call Integration on Different Platforms
 ](
 https://www.twilio.com/en-us/blog/how-to-video-integration
 ) (2026-08-20)
-- [
-How to Build Passwordless Auth With Twilio Verify in Rust
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust
-) (2026-08-19)
 
 </details>
 
@@ -492,10 +492,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [The 6 best Dropbox alternatives in 2026](https://zapier.com/blog/dropbox-alternatives) (2026-08-25)
-- [The 3 best AI website builders in 2026](https://zapier.com/blog/best-ai-website-builder) (2026-08-25)
 - [The 6 best to do list apps for Windows in 2026](https://zapier.com/blog/best-windows-to-do-list-apps) (2026-08-25)
-- [The 5 best Intercom alternatives in 2026](https://zapier.com/blog/intercom-alternatives) (2026-08-24)
+- [The 3 best AI website builders in 2026](https://zapier.com/blog/best-ai-website-builder) (2026-08-25)
+- [The 6 best Dropbox alternatives in 2026](https://zapier.com/blog/dropbox-alternatives) (2026-08-25)
+- [Gemini connected apps: How to connect Gemini to other apps](https://zapier.com/blog/gemini-apps) (2026-08-24)
 - [Claude for small business: What it is and how to use it](https://zapier.com/blog/claude-for-small-business) (2026-08-24)
 
 </details>
@@ -569,44 +569,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordles
 <details>
 <summary>🤖 AI News</summary>
 
+- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
+- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
 - [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
 - [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 - [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
-- [Amazon’s Prime Air autonomous drones to reach 500 US cities](https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/) (2026-08-20)
-- [Stripe agrees to buy OpenRouter as AI model routing expands](https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Does a RAG Reranker Really Work?](https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/) (2026-08-26)
+- [How to Effectively Solve 100+ Tasks with Claude Code](https://towardsdatascience.com/how-to-effectively-solve-100-tasks-with-claude-code/) (2026-08-26)
+- [Why Random Forest Needs to Be This Random](https://towardsdatascience.com/why-random-forest-needs-to-be-this-random/) (2026-08-26)
 - [Is Agentic AI Just Automation?](https://towardsdatascience.com/is-agentic-ai-just-automation/) (2026-08-26)
 - [How to Format Your TDS Draft: A New and Improved Guide](https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/) (2026-08-26)
-- [A New Towards Data Science: A Faster Site and a Brand-New Contributor Portal](https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal/) (2026-08-25)
-- [I Deployed My Data Pipeline to AWS. Then Everything That Was “Local” Broke.](https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/) (2026-08-25)
-- [Recursive CTEs: SQL’s Hidden Graph Traversal Engine](https://towardsdatascience.com/six-degrees-of-sql/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Mastering the AI Project Cycle: From Concept to Production](https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/) (2026-08-26)
 - [What is a Forward Deployed Engineer? Role, Skills & Salary](https://www.analyticsvidhya.com/blog/2026/08/what-is-a-forward-deployed-engineer/) (2026-08-25)
 - [How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/) (2026-08-24)
 - [Spec-Driven Development with Claude Code: Writing Bulletproof Specs](https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/) (2026-08-23)
 - [Top 5 Agentic AI Research Papers of 2026](https://www.analyticsvidhya.com/blog/2026/08/top-agentic-ai-research-papers/) (2026-08-22)
-- [PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management](https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Rules for Getting Better Results from AI Coding Agents](https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents) (2026-08-26)
 - [The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise AI](https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai) (2026-08-25)
 - [Python Data Classes Beyond the Boilerplate](https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate) (2026-08-25)
 - [I Tried Kimi Agent and Here’s What I Found](https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found) (2026-08-25)
 - [How to Leverage Local Small Language Models for Your Projects](https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects) (2026-08-24)
-- [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6) (2026-08-24)
 
 </details>
 
