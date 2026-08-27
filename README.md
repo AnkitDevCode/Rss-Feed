@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google’s Gemini has a branding problem, and so does the rest of AI](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/) (2026-08-26)
-- [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/) (2026-08-26)
-- [OpenAI releases its official report on the Hugging Face breach](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/) (2026-08-26)
-- [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/) (2026-08-26)
-- [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/) (2026-08-26)
+- [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/) (2026-08-27)
+- [Viral AI startup Instinct has raised $350M at a $2.5B valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/) (2026-08-27)
+- [Amazon just tripled its order of Nvidia chips over ‘surging demand’](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/) (2026-08-26)
+- [Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/) (2026-08-26)
+- [Anthropic continues compute-gobbling streak in $45B deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/) (2026-08-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) (2026-08-26)
-- [Designation of Autistici/Inventati as a Specially Designated Global Terrorist](https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/) (2026-08-26)
-- [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf) (2026-08-26)
-- [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/) (2026-08-26)
-- [Tailcat](https://github.com/tailscale/tailcat) (2026-08-26)
+- [Pnpm 12.0](https://pnpm.io/blog/releases/12.0) (2026-08-27)
+- [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661) (2026-08-27)
+- [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video) (2026-08-27)
+- [Laion Big Video Dataset](https://projects.laion.ai/bvd/) (2026-08-27)
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) (2026-08-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue) (2026-08-26)
+- [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr) (2026-08-26)
+- [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes) (2026-08-26)
 - [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale) (2026-08-26)
 - [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study) (2026-08-26)
-- [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa) (2026-08-26)
-- [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads) (2026-08-26)
-- [Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai) (2026-08-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [The Porsche 911 GT3 Touring punches above its weight class](https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/) (2026-08-26)
-- [Xbox’s new disc-to-digital program gives physical games a digital future](https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/) (2026-08-26)
-- [Court blocks Trump FCC order that could flood broadcast TV with more election ads](https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/) (2026-08-26)
-- [Researchers get two genetic codes to work at the same time](https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/) (2026-08-26)
-- [15,000 years of solar wind in four hours? A Seattle company gives it a go.](https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/) (2026-08-26)
+- [RIP, Tim Curry: Ars remembers his top 10 iconic performances](https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/) (2026-08-26)
+- [AI agents meant to replace Meta workers made “large-scale, disruptive actions”](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/) (2026-08-26)
+- [New Twitter launches, says Musk's X gave up the name](https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/) (2026-08-26)
+- [Meta settles states' child-safety claims for $18B; Florida rejects deal as "peanuts"](https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/) (2026-08-26)
+- [Florida Catholics slap down state AG by rejecting religious vaccine exemptions](https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/) (2026-08-26)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/) (2026-08-26)
 - [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) (2026-08-25)
 - [Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/) (2026-08-24)
 - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (2026-08-20)
 - [GitHub Copilot app for Beginners: Managing your work](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/) (2026-08-19)
-- [How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/) (2026-08-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The import that worked for months and broke on my first deploy](https://dev.to/vidhidixit2000/the-import-that-worked-for-months-and-broke-on-my-first-deploy-5a3l) (2026-08-26)
-- [Scaling Buzz: Performance, Cost, and Operational Tradeoffs](https://dev.to/lina_atar_b33f8cb45364a91/scaling-buzz-performance-cost-and-operational-tradeoffs-g2j) (2026-08-26)
-- [Building the Core of Omarchy: A Practical Implementation Guide](https://dev.to/lina_atar_b33f8cb45364a91/building-the-core-of-omarchy-a-practical-implementation-guide-1j6l) (2026-08-26)
-- [What it's like to let Claude Code subagents run a company](https://dev.to/ko-hi/what-its-like-to-let-claude-code-subagents-run-a-company-45ka) (2026-08-26)
-- [Building the Core of Timeline Visualizer: A Practical Implementation Guide](https://dev.to/lina_atar_b33f8cb45364a91/building-the-core-of-timeline-visualizer-a-practical-implementation-guide-526a) (2026-08-26)
+- [I Ran 89,479 WhatsApp Messages Through WAHA. Twilio: $604.](https://dev.to/achiya-automation/i-ran-89479-whatsapp-messages-through-waha-twilio-604-3bog) (2026-08-27)
+- [15 NLP Techniques Every Backend Developer Should Know in 2026 (With Code Examples)](https://dev.to/dextralabs/15-nlp-techniques-every-backend-developer-should-know-in-2026-with-code-examples-795) (2026-08-27)
+- [Java Service Steward, an open-source host for Java Windows services that reads wrapper.conf](https://dev.to/jayyanez/java-service-steward-an-open-source-host-for-java-windows-services-that-reads-wrapperconf-aam) (2026-08-27)
+- [Should Your Prompt Store Pick Your Model](https://dev.to/stormhub/should-your-prompt-store-pick-your-model-2c4f) (2026-08-27)
+- [OWASP A03 & A04: Understanding Software Supply Chain and Cryptographic Failures](https://dev.to/samyuktha_saravanan_97001/owasp-a03-a04-understanding-software-supply-chain-and-cryptographic-failures-4cmd) (2026-08-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The API Returned 200. The Customer Was Charged Twice.](https://blog.stackademic.com/the-api-returned-200-the-customer-was-charged-twice-29d5aceda1d9?source=rss------programming-5) (2026-08-26)
-- [Your AI Agent Can Work for Eight Hours. That’s Exactly Why It Needs a Kill Switch.](https://ai.plainenglish.io/your-ai-agent-can-work-for-eight-hours-thats-exactly-why-it-needs-a-kill-switch-ad98f77d4095?source=rss------programming-5) (2026-08-26)
-- [The MCP Transport Choice You Make On Day One Decides Everything After](https://medium.com/@paul.crinigan218/the-mcp-transport-choice-you-make-on-day-one-decides-everything-after-dbc1839f7354?source=rss------programming-5) (2026-08-26)
-- [ECS vs EKS in 2026: One Saves Platform Work. The Other Saves Escape Hatches.](https://ai.plainenglish.io/ecs-vs-eks-in-2026-one-saves-platform-work-the-other-saves-escape-hatches-ac1d17be72c6?source=rss------programming-5) (2026-08-26)
-- [The Job Was Never Just Writing Code](https://medium.com/rustaceans/the-job-was-never-just-writing-code-b853ee7d1832?source=rss------programming-5) (2026-08-26)
+- [Mastering Conventional Commits: The Secret to a Cleaner Git History](https://medium.com/@mehdiali_mk/mastering-conventional-commits-the-secret-to-a-cleaner-git-history-a330b07c317f?source=rss------programming-5) (2026-08-27)
+- [How to Access Zomato Restaurant Data in 2026 (Free API Alternative)](https://medium.com/@frankmanvideo/how-to-access-zomato-restaurant-data-in-2026-free-api-alternative-1e4bd842d362?source=rss------programming-5) (2026-08-27)
+- [TypeScript Proxy and Reflect With Full Type Safety: Patterns That Do Not Lie to the Compiler](https://medium.com/@jsmanifest/typescript-proxy-and-reflect-with-full-type-safety-patterns-that-do-not-lie-to-the-compiler-f201983b4a38?source=rss------programming-5) (2026-08-27)
+- [5 AI Skills Will Be More Valuable Than Programming in 2027](https://medium.com/@z.zulqurnain233/5-ai-skills-will-be-more-valuable-than-programming-in-2027-978707cb0e30?source=rss------programming-5) (2026-08-27)
+- [Shopify Plus Customer Lifetime Value: Strategies That Work After the First Order](https://ocontis.medium.com/shopify-plus-customer-lifetime-value-strategies-that-work-after-the-first-order-44329ccecda8?source=rss------programming-5) (2026-08-27)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2026-08-17)
 - [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
 - [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
-- [AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/) (2026-07-23)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/) (2026-08-26)
 - [Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark](https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/) (2026-08-25)
 - [How XPUs Meet a World-Class AI Factory](https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/) (2026-08-24)
 - [With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents](https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/) (2026-08-24)
 - [Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents](https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/) (2026-08-24)
-- [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/) (2026-08-20)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1) (2026-08-26)
 - [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0) (2026-08-26)
 - [Node.js 24.20.0 (LTS)](https://nodejs.org/en/blog/release/v24.20.0) (2026-08-26)
 - [Node.js Interactive 2026: A Recap](https://nodejs.org/en/blog/events/nodejs-interactive-2026) (2026-08-14)
 - [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0) (2026-08-05)
-- [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0) (2026-08-03)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Muse Image now available on AI Gateway](https://vercel.com/changelog/muse-image-now-available-on-ai-gateway) (2026-08-26)
 - [Gemini 3.5 Transcribe now available on AI Gateway](https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway) (2026-08-26)
 - [Qwen 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-flash-now-available-on-ai-gateway) (2026-08-26)
 - [GLM 5.3 Flash now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flash-now-available-on-ai-gateway) (2026-08-26)
 - [Vercel Security Dashboard is now generally available](https://vercel.com/changelog/vercel-security-dashboard-is-now-generally-available) (2026-08-26)
-- [Python projects now support routing rules](https://vercel.com/changelog/python-projects-now-support-routing-rules) (2026-08-26)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video
+](
+https://www.twilio.com/en-us/blog/build-video-chat-application-python-javascript-twilio-programmable-video
+) (2026-08-26)
+- [
+8 top conversational AI platforms in 2026
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
+) (2026-08-26)
+- [
 Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video
@@ -387,16 +397,6 @@ The fraud-friction paradox: Why stronger security should feel invisible
 ](
 https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
 ) (2026-08-21)
-- [
-[Webinar] Voice AI that connects
-](
-https://www.twilio.com/en-us/blog/events/-Webinar--Voice-AI-that-connects
-) (2026-08-20)
-- [
-Video Call Integration on Different Platforms
-](
-https://www.twilio.com/en-us/blog/how-to-video-integration
-) (2026-08-20)
 
 </details>
 
@@ -548,11 +548,11 @@ https://www.twilio.com/en-us/blog/how-to-video-integration
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv](https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update/) (2026-08-26)
 - [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/) (2026-08-20)
 - [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/) (2026-08-20)
 - [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
 - [Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch](https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/) (2026-08-10)
-- [PyTorch Conference North America Announces 2026 Keynotes](https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes/) (2026-08-06)
 
 </details>
 
@@ -564,17 +564,6 @@ https://www.twilio.com/en-us/blog/how-to-video-integration
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
 - [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) (2026-08-21)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
-- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
-- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
-- [How AI coding tools are contributing to the popularity of JavaScript](https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/) (2026-08-21)
 
 </details>
 
