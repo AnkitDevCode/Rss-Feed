@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/) (2026-08-28)
+- [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/) (2026-08-27)
 - [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/) (2026-08-27)
 - [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/) (2026-08-27)
 - [Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/) (2026-08-27)
-- [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/) (2026-08-27)
-- [Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/) (2026-08-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor](https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html) (2026-08-27)
-- [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/) (2026-08-27)
-- [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc) (2026-08-27)
-- [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523) (2026-08-27)
-- [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) (2026-08-27)
+- [Climate change is strengthening El Niño, coral records suggest](https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest) (2026-08-28)
+- [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) (2026-08-28)
+- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) (2026-08-28)
+- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/) (2026-08-28)
+- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core) (2026-08-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) (2026-08-28)
+- [The GTA VI ‘extended look’ is now streaming on YouTube](https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream) (2026-08-28)
+- [The biggest video game of all time looks like a movie](https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie) (2026-08-27)
 - [Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign](https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign) (2026-08-27)
 - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2026-08-27)
-- [GTA VI looks just as great as we could hope for](https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look) (2026-08-27)
-- [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books) (2026-08-27)
-- [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit) (2026-08-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Anthropic's new hardware standard lets AI agents control the physical world](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/) (2026-08-27)
+- [Elon Musk’s xAI used child porn to train Grok models, lawsuit says](https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/) (2026-08-27)
 - [GOP heads to Supreme Court after losing case over TV election ad prices](https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/) (2026-08-27)
 - [Report: Nvidia to acquire AI model repository Hugging Face for $13 billion](https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/) (2026-08-27)
 - [AI industry says Trump plans to tax chips in the “single dumbest way imaginable”](https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/) (2026-08-27)
-- [The iconic T-38 jets flown by astronauts just got a spiffy new look](https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/) (2026-08-27)
-- [RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn](https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/) (2026-08-27)
 
 </details>
 
@@ -75,34 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [When you keep AI Lean, you keep AI correct ](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/) (2026-08-28)
 - [Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/) (2026-08-25)
 - [Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/) (2026-08-24)
 - [Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/) (2026-08-21)
 - [Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/) (2026-08-21)
-- [AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/) (2026-08-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Junior AppSec Engineer Overwhelmed by Massive Code Reviews: Strategies for Efficiency and Confidence](https://dev.to/olgabyte/junior-appsec-engineer-overwhelmed-by-massive-code-reviews-strategies-for-efficiency-and-confidence-2p41) (2026-08-27)
-- [Building Cross-Framework Messaging with Quarkus, Micronaut, and RabbitMQ](https://dev.to/anand_jaisy_2f7644a12001b/building-cross-framework-messaging-with-quarkus-micronaut-and-rabbitmq-bc2) (2026-08-27)
-- [Implementing SMS Delivery Status Polling for Restaurant Waitlist Outage Alerts](https://dev.to/lorenzholm3752/implementing-sms-delivery-status-polling-for-restaurant-waitlist-outage-alerts-16c9) (2026-08-27)
-- [I built an open-source directory of 50+ free public APIs with daily automated health-checks](https://dev.to/rajender_arya_263e77a1bcc/i-built-an-open-source-directory-of-50-free-public-apis-with-daily-automated-health-checks-kgp) (2026-08-27)
-- [Google’s August 2026 Spam Update Brought Sharper Ranking Volatility for Site Owners](https://dev.to/alifar/googles-august-2026-spam-update-brought-sharper-ranking-volatility-for-site-owners-1n7c) (2026-08-27)
+- [Claude Code and git worktrees: two sessions, one repo](https://dev.to/mirekhovorka/claude-code-and-git-worktrees-two-sessions-one-repo-3do5) (2026-08-28)
+- [Gemini Omni 1.1 Flash ile Video Süresi 40 Saniyeye Nasıl Uzatılır](https://dev.to/tobiass_hoffmann/gemini-omni-11-flash-ile-video-suresi-40-saniyeye-nasil-uzatilir-1mkg) (2026-08-28)
+- [Your p50 Is a Lie: Four Free-Tier Myths You Can Verify in One Hour](https://dev.to/gitlab_3188/your-p50-is-a-lie-four-free-tier-myths-you-can-verify-in-one-hour-3edn) (2026-08-28)
+- [Giving the AI Assisted Job Search a Local Brain](https://dev.to/subraatakumar/giving-the-ai-assisted-job-search-a-local-brain-278l) (2026-08-28)
+- [Your AI Demo Works. So Why Is Your Product Failing?](https://dev.to/jaideepparashar/your-ai-demo-works-so-why-is-your-product-failing-mo8) (2026-08-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [RHAPSODY OF REALITIES - 27TH AUGUST 2026
-"Have you ever been in a situation where, after you’ve…](https://medium.com/@folajeff/rhapsody-of-realities-27th-august-2026-have-you-ever-been-in-a-situation-where-after-youve-aa6b6bd9d783?source=rss------programming-5) (2026-08-27)
-- [Our RAG Index Was Fresh. 28% of Answers Still Used Yesterday’s Policy.](https://medium.com/@chenyuan19920509/our-rag-index-was-fresh-28-of-answers-still-used-yesterdays-policy-b06c77bc5680?source=rss------programming-5) (2026-08-27)
-- [Why I Built a Free, 100% Offline Developer Workspace with 340+ Tools](https://medium.com/@devdeskapp/why-i-built-a-free-100-offline-developer-workspace-with-340-tools-a8b76df2ae72?source=rss------programming-5) (2026-08-27)
-- [Vibe Coding Does Not Remove Complexity. It Moves It.](https://medium.com/skillstuff/vibe-coding-does-not-remove-complexity-it-moves-it-13ab7331a856?source=rss------programming-5) (2026-08-27)
-- [Your AI Just Imported a Package That Doesn’t Exist](https://medium.com/codetodeploy/byour-ai-just-imported-a-package-that-doesnt-exist-9fbfdc47ce52?source=rss------programming-5) (2026-08-27)
+- [Building a Maintainable ASP.NET Core Minimal API](https://medium.com/@eng.noofsaeed/building-a-maintainable-asp-net-core-minimal-api-3f85bac2aa26?source=rss------programming-5) (2026-08-28)
+- [Rest On My very good friend DIPLOMATIC OPJ, I remember the day we were all laughing outside the…](https://medium.com/@miciyke/rest-on-my-very-good-friend-diplomatic-opj-i-remember-the-day-we-were-all-laughing-outside-the-771a57992010?source=rss------programming-5) (2026-08-28)
+- [Anthropic Wrote a Client Brief for Its Own Model. It Quotes Coco Chanel.](https://medium.com/@info_73960/anthropic-wrote-a-client-brief-for-its-own-model-it-quotes-coco-chanel-6891d13f6200?source=rss------programming-5) (2026-08-28)
+- [二元搜尋樹 Binary Search Tree 與紅黑樹 Red-Black Tree](https://medium.com/@acamvproducingstudio/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9-binary-search-tree-%E8%88%87%E7%B4%85%E9%BB%91%E6%A8%B9-red-black-tree-4b4b60fba5a4?source=rss------programming-5) (2026-08-28)
+- [Part 4: Guardrails as Architecture: How We Stopped Our Chatbot from Lying About Us](https://arg-software.medium.com/part-4-guardrails-as-architecture-how-we-stopped-our-chatbot-from-lying-about-us-93a4d22ff549?source=rss------programming-5) (2026-08-28)
 
 </details>
 
@@ -120,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
+- [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
 - [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2026-08-17)
 - [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/) (2026-08-06)
-- [What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/) (2026-07-27)
 
 </details>
 
@@ -208,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (2026-08-27)
 - [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/) (2026-08-26)
 - [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) (2026-08-11)
 - [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) (2026-08-03)
 - [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) (2026-07-31)
-- [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) (2026-07-29)
 
 </details>
 
@@ -307,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Project Loom in IntelliJ IDEA: Virtual Threads, Scoped Values, and Structured Concurrency](https://blog.jetbrains.com/idea/2026/08/project-loom-in-intellij-idea-virtual-threads-scoped-values-and-structured-concurrency/) (2026-08-28)
 - [Differential Privacy for Hugging Face Trainers – Without Rewriting Your Training Loop](https://blog.jetbrains.com/research/2026/08/dp-trainer/) (2026-08-27)
 - [The CLion Roadmap: What’s Coming Between Now and Late 2026](https://blog.jetbrains.com/clion/2026/08/roadmap/) (2026-08-27)
 - [How Much Code Do Developers Really Let Agents Write?](https://blog.jetbrains.com/research/2026/08/how-much-code-do-developers-really-let-agents-write/) (2026-08-26)
 - [AI Agents in DataGrip](https://blog.jetbrains.com/datagrip/2026/08/26/ai-agents-in-datagrip/) (2026-08-26)
-- [Compose Multiplatform 1.12.0 Released](https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/) (2026-08-26)
 
 </details>
 
@@ -353,9 +352,9 @@
 
 - [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-08-28)
 - [Cursor is now available in the AI SDK harness layer](https://vercel.com/changelog/cursor-ai-sdk-harness-adapter) (2026-08-27)
+- [Find deployments faster with redesigned filters](https://vercel.com/changelog/find-deployments-faster-with-redesigned-filters) (2026-08-27)
 - [The best workflow engine is a programming language](https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language) (2026-08-27)
 - [Ling 3.0 Flash Fin now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free) (2026-08-27)
-- [Muse Image now available on AI Gateway](https://vercel.com/changelog/muse-image-now-available-on-ai-gateway) (2026-08-26)
 
 </details>
 
@@ -373,6 +372,11 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
+) (2026-08-27)
 - [
 Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video
 ](
@@ -392,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-
 Top user authentication trends for 2026
 ](
 https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
-) (2026-08-21)
-- [
-The fraud-friction paradox: Why stronger security should feel invisible
-](
-https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
 ) (2026-08-21)
 
 </details>
@@ -516,11 +515,11 @@ https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot: Your Agentic AI Workspace for Deep Work](https://slack.com/blog/news/slackbot-ai-workspace-for-deep-work) (2026-08-27)
 - [Slack Code: Where Your Team and Agents Build Together](https://slack.com/blog/news/slack-code-channels-for-agents) (2026-08-20)
 - [Anyone can now build Agents on Slack: Introducing Add to Slack](https://slack.com/blog/news/add-to-slack) (2026-08-20)
 - [AI Meeting Assistant Tools to Save Time and Boost Productivity](https://slack.com/blog/productivity/how-to-optimize-your-time-with-ai-meeting-assistant-tools) (2026-08-17)
 - [10 Proven Strategies to Boost Employee Morale and Engagement](https://slack.com/blog/collaboration/methods-boosting-employee-morale) (2026-08-17)
-- [What Is Agile Methodology? A Guide to Principles and Practices](https://slack.com/blog/productivity/agile-methodology-explained-principles-practices-and-more) (2026-08-17)
 
 </details>
 
@@ -565,17 +564,6 @@ https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
 - [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) (2026-08-21)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
-- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
-- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
-- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 
 </details>
 
