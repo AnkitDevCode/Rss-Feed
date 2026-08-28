@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/) (2026-08-28)
-- [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/) (2026-08-27)
-- [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/) (2026-08-27)
-- [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/) (2026-08-27)
-- [Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/) (2026-08-27)
+- [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/) (2026-08-28)
+- [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) (2026-08-28)
+- [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/) (2026-08-28)
+- [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/) (2026-08-28)
+- [How Sweden built one of Europe’s hottest startup ecosystems ](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Climate change is strengthening El Niño, coral records suggest](https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest) (2026-08-28)
-- [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) (2026-08-28)
-- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) (2026-08-28)
-- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/) (2026-08-28)
-- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core) (2026-08-28)
+- [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) (2026-08-28)
+- [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/) (2026-08-28)
+- [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai) (2026-08-28)
+- [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/) (2026-08-28)
+- [Bye, Bye GitHub](https://log.ozgur.works/bye-bye-github.html) (2026-08-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) (2026-08-28)
-- [The GTA VI ‘extended look’ is now streaming on YouTube](https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream) (2026-08-28)
-- [The biggest video game of all time looks like a movie](https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie) (2026-08-27)
-- [Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign](https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign) (2026-08-27)
-- [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2026-08-27)
+- [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale) (2026-08-28)
+- [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) (2026-08-28)
+- [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai) (2026-08-28)
+- [The iPhone Fold could make concerts even worse](https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast) (2026-08-28)
+- [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike) (2026-08-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Anthropic's new hardware standard lets AI agents control the physical world](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/) (2026-08-27)
-- [Elon Musk’s xAI used child porn to train Grok models, lawsuit says](https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/) (2026-08-27)
-- [GOP heads to Supreme Court after losing case over TV election ad prices](https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/) (2026-08-27)
-- [Report: Nvidia to acquire AI model repository Hugging Face for $13 billion](https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/) (2026-08-27)
-- [AI industry says Trump plans to tax chips in the “single dumbest way imaginable”](https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/) (2026-08-27)
+- [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/) (2026-08-28)
+- [Here's what we know about the "space academy" Trump just announced](https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/) (2026-08-28)
+- [Apple One and Apple TV subscription prices increase by up to 20 percent](https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/) (2026-08-28)
+- [Our 10 favorite scenes from T2: Judgment Day](https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/) (2026-08-28)
+- [Meta makes AI glasses slightly less creepy with limit on nonconsensual recording](https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) (2026-08-28)
+- [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) (2026-08-28)
 - [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) (2026-08-27)
 - [The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/) (2026-08-27)
 - [Is Slate Auto’s new electric truck the EV Americans need?](https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/) (2026-08-27)
-- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) (2026-08-26)
-- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) (2026-08-26)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Claude Code and git worktrees: two sessions, one repo](https://dev.to/mirekhovorka/claude-code-and-git-worktrees-two-sessions-one-repo-3do5) (2026-08-28)
-- [Gemini Omni 1.1 Flash ile Video Süresi 40 Saniyeye Nasıl Uzatılır](https://dev.to/tobiass_hoffmann/gemini-omni-11-flash-ile-video-suresi-40-saniyeye-nasil-uzatilir-1mkg) (2026-08-28)
-- [Your p50 Is a Lie: Four Free-Tier Myths You Can Verify in One Hour](https://dev.to/gitlab_3188/your-p50-is-a-lie-four-free-tier-myths-you-can-verify-in-one-hour-3edn) (2026-08-28)
-- [Giving the AI Assisted Job Search a Local Brain](https://dev.to/subraatakumar/giving-the-ai-assisted-job-search-a-local-brain-278l) (2026-08-28)
-- [Your AI Demo Works. So Why Is Your Product Failing?](https://dev.to/jaideepparashar/your-ai-demo-works-so-why-is-your-product-failing-mo8) (2026-08-28)
+- [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf) (2026-08-28)
+- [Google Gemini Student Hub Brings Notebooks, Flashcards and Quizzes Into One Study Space](https://dev.to/alifar/google-gemini-student-hub-brings-notebooks-flashcards-and-quizzes-into-one-study-space-4nek) (2026-08-28)
+- [Google Gives Eligible US College Students One Year of Gemini AI Pro at No Cost](https://dev.to/alifar/google-gives-eligible-us-college-students-one-year-of-gemini-ai-pro-at-no-cost-4lna) (2026-08-28)
+- [The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7) (2026-08-28)
+- [Security news weekly round-up - 28th August 2026](https://dev.to/ziizium/security-news-weekly-round-up-28th-august-2026-2abh) (2026-08-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a Maintainable ASP.NET Core Minimal API](https://medium.com/@eng.noofsaeed/building-a-maintainable-asp-net-core-minimal-api-3f85bac2aa26?source=rss------programming-5) (2026-08-28)
-- [Rest On My very good friend DIPLOMATIC OPJ, I remember the day we were all laughing outside the…](https://medium.com/@miciyke/rest-on-my-very-good-friend-diplomatic-opj-i-remember-the-day-we-were-all-laughing-outside-the-771a57992010?source=rss------programming-5) (2026-08-28)
-- [Anthropic Wrote a Client Brief for Its Own Model. It Quotes Coco Chanel.](https://medium.com/@info_73960/anthropic-wrote-a-client-brief-for-its-own-model-it-quotes-coco-chanel-6891d13f6200?source=rss------programming-5) (2026-08-28)
-- [二元搜尋樹 Binary Search Tree 與紅黑樹 Red-Black Tree](https://medium.com/@acamvproducingstudio/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9-binary-search-tree-%E8%88%87%E7%B4%85%E9%BB%91%E6%A8%B9-red-black-tree-4b4b60fba5a4?source=rss------programming-5) (2026-08-28)
-- [Part 4: Guardrails as Architecture: How We Stopped Our Chatbot from Lying About Us](https://arg-software.medium.com/part-4-guardrails-as-architecture-how-we-stopped-our-chatbot-from-lying-about-us-93a4d22ff549?source=rss------programming-5) (2026-08-28)
+- [How Databases Actually Store Data on Disk: The Slotted Page Architecture](https://medium.com/@aayush04.ag/how-databases-actually-store-data-on-disk-the-slotted-page-architecture-011e910db443?source=rss------programming-5) (2026-08-28)
+- [My Entire Website Is a Key-Value Store](https://medium.com/@listcalc/my-entire-website-is-a-key-value-store-6725abe0ba07?source=rss------programming-5) (2026-08-28)
+- [Preparing for an AI Engineer Interview in 2026? Don’t Stop at LangChain.](https://medium.com/@kritnandan3/preparing-for-an-ai-engineer-interview-in-2026-dont-stop-at-langchain-d809d3eae779?source=rss------programming-5) (2026-08-28)
+- [The Full-Stack Title Is Meaningless in 2026. Here Is What Teams Actually Hire For](https://medium.com/write-a-catalyst/the-full-stack-title-is-meaningless-in-2026-here-is-what-teams-actually-hire-for-bd84c8e9bdd9?source=rss------programming-5) (2026-08-28)
+- [جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
+صیغه بهبهان صیغه مشگین…](https://medium.com/@hajyrda369/%D8%AC%D9%87%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D9%88%D9%82%D8%AA-%D9%88%D8%AF%D8%A7%D8%A6%D9%85-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A8%D8%AF%D9%87%DB%8C%D8%AF-09915528413-%D9%88%DB%8C%D8%A7-%D8%A8%D8%A7%D8%B4%D9%85%D8%A7%D8%B1%D9%87-09364608280-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%B4%DA%AF%DB%8C%D9%86-c2b08e1e75a8?source=rss------programming-5) (2026-08-28)
 
 </details>
 
@@ -174,11 +175,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Styling Mastery and Declarative Form Submissions ](https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4) (2026-08-28)
 - [The Forms Evolution, Web AI, and Architectural Vision! ](https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4) (2026-08-14)
 - [Free Book Chapters, Better Testing Control, and Smart MCP Configuration! ](https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4) (2026-07-31)
 - [Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡](https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4) (2026-07-17)
 - [Community Engineering, Agentic Coding, and Real-User Component Testing ️](https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4) (2026-07-07)
-- [Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App](https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4) (2026-06-26)
 
 </details>
 
@@ -229,11 +230,11 @@
 <details>
 <summary>🎬 Netflix Tech Blog</summary>
 
+- [MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4) (2026-08-28)
 - [A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4) (2026-08-21)
 - [How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4) (2026-08-07)
 - [Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4) (2026-07-31)
 - [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4) (2026-07-30)
-- [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4) (2026-07-17)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The State of Django 2026: Boring is so back](https://blog.jetbrains.com/pycharm/2026/08/the-state-of-django-2026-boring-is-so-back/) (2026-08-28)
+- [Security Incident Affecting JetBrains Cadence](https://blog.jetbrains.com/pycharm/2026/08/cadence-security-incident-august-2026/) (2026-08-28)
 - [Project Loom in IntelliJ IDEA: Virtual Threads, Scoped Values, and Structured Concurrency](https://blog.jetbrains.com/idea/2026/08/project-loom-in-intellij-idea-virtual-threads-scoped-values-and-structured-concurrency/) (2026-08-28)
 - [Differential Privacy for Hugging Face Trainers – Without Rewriting Your Training Loop](https://blog.jetbrains.com/research/2026/08/dp-trainer/) (2026-08-27)
 - [The CLion Roadmap: What’s Coming Between Now and Late 2026](https://blog.jetbrains.com/clion/2026/08/roadmap/) (2026-08-27)
-- [How Much Code Do Developers Really Let Agents Write?](https://blog.jetbrains.com/research/2026/08/how-much-code-do-developers-really-let-agents-write/) (2026-08-26)
-- [AI Agents in DataGrip](https://blog.jetbrains.com/datagrip/2026/08/26/ai-agents-in-datagrip/) (2026-08-26)
 
 </details>
 
@@ -350,22 +351,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Hy4 Preview now available on AI Gateway](https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway) (2026-08-28)
+- [Build and deploy eve agents from the Vercel dashboard](https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard) (2026-08-28)
+- [Vercel CLI expands commands for DNS, domains, and projects](https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects) (2026-08-28)
 - [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-08-28)
 - [Cursor is now available in the AI SDK harness layer](https://vercel.com/changelog/cursor-ai-sdk-harness-adapter) (2026-08-27)
-- [Find deployments faster with redesigned filters](https://vercel.com/changelog/find-deployments-faster-with-redesigned-filters) (2026-08-27)
-- [The best workflow engine is a programming language](https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language) (2026-08-27)
-- [Ling 3.0 Flash Fin now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free) (2026-08-27)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents](https://blog.cloudflare.com/botbase-for-operators/) (2026-08-28)
 - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) (2026-08-27)
 - [The Cloudflare Blog – Brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) (2026-08-24)
 - [Say it once: introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
 - [From all-or-nothing to task-based OAuth consent](https://blog.cloudflare.com/task-based-oauth-consent/) (2026-08-20)
-- [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) (2026-08-19)
 
 </details>
 
@@ -494,9 +495,9 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <summary>⚡ Zapier Blog</summary>
 
 - [What is HubSpot—and what does it do?](https://zapier.com/blog/what-is-hubspot) (2026-08-27)
-- [What is Google AI Mode? How it works and how to use it](https://zapier.com/blog/google-ai-mode) (2026-08-27)
-- [How to add Zoom to Google Calendar (and make it the default option)](https://zapier.com/blog/add-zoom-to-google-calendar-as-default) (2026-08-27)
 - [How to transfer files from Dropbox to Google Drive: 4 methods](https://zapier.com/blog/migrate-from-dropbox-to-google-drive) (2026-08-27)
+- [How to add Zoom to Google Calendar (and make it the default option)](https://zapier.com/blog/add-zoom-to-google-calendar-as-default) (2026-08-27)
+- [What is Google AI Mode? How it works and how to use it](https://zapier.com/blog/google-ai-mode) (2026-08-27)
 - [Claude integrations: How to use Zapier with Claude (Sonnet 5, Opus 5, and more)](https://zapier.com/blog/automate-claude) (2026-08-26)
 
 </details>
@@ -548,33 +549,44 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/) (2026-08-28)
 - [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/) (2026-08-27)
 - [PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv](https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update/) (2026-08-26)
 - [PyTorch Conference North America 2026 Keynote Speaker Sessions Announced](https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced/) (2026-08-20)
 - [Harnessing AI for Day-One Model Enablement](https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement/) (2026-08-20)
-- [FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements](https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements/) (2026-08-13)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) (2026-08-28)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (2026-08-26)
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
-- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) (2026-08-21)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
+- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
+- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
+- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
+- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Human-in-the-Loop Without Killing Throughput](https://towardsdatascience.com/human-in-the-loop-without-killing-throughput/) (2026-08-28)
+- [From One Agent to a Team: Understanding Codex Subagents](https://towardsdatascience.com/from-one-agent-to-a-team-understanding-codex-subagents/) (2026-08-28)
+- [Connecting My LangGraph AI Agent to Postgres](https://towardsdatascience.com/connecting-my-langgraph-ai-agent-to-postgres/) (2026-08-28)
+- [Why Claude Code Time Estimates Are Poor](https://towardsdatascience.com/why-claude-code-time-estimates-are-poor/) (2026-08-28)
 - [The Sigmoid Function: From 'e' to Neural Networks](https://towardsdatascience.com/the-sigmoid-function-from-e-to-neural-networks/) (2026-08-27)
-- [I Trained Six Models for Fraud Detection, and the Best One Isn't in Production](https://towardsdatascience.com/i-trained-six-models-for-fraud-detection-and-the-best-one-isnt-in-production/) (2026-08-27)
-- [Agentic AI Is Rewriting The Analytics Stack But There's One Skill It Still Can't Touch](https://towardsdatascience.com/agentic-ai-is-rewriting-the-analytics-stack-but-theres-one-skill-it-still-cant-touch/) (2026-08-27)
-- [How to Work with AI Coding Agents](https://towardsdatascience.com/how-to-work-with-ai-coding-agents/) (2026-08-27)
-- [Stop Giving Your AI Agent a Search Box and Start Giving It Typed Tools, Hard Bounds, and a Gate It Cannot Talk Past](https://towardsdatascience.com/stop-giving-your-ai-agent-a-search-box-and-start-giving-it-typed-tools-hard-bounds-and-a-gate-it-cannot-talk-past/) (2026-08-27)
 
 </details>
 
@@ -592,22 +604,22 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Local AI Stack for Productive SLMs](https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms) (2026-08-28)
+- [Quantization and Pruning Methods to Make Your LLM Leaner](https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner) (2026-08-28)
 - [What We Can Learn From Google Engineers’ Indispensible Prompts](https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts) (2026-08-27)
 - [Understanding the Impact of AI on Job Markets](https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets) (2026-08-26)
 - [10 Rules for Getting Better Results from AI Coding Agents](https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents) (2026-08-26)
-- [The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise AI](https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai) (2026-08-25)
-- [Python Data Classes Beyond the Boilerplate](https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces](https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/) (2026-08-28)
 - [Learn Vectorized Thinking in Python Through Examples](https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/) (2026-08-26)
 - [Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral](https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/) (2026-08-25)
 - [Integrating Agentic AI with Existing Machine Learning Pipelines](https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/) (2026-08-24)
 - [How to Build a Robust RAG System with Minimal Resources](https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/) (2026-08-20)
-- [Managing Small Context Windows in Language Models](https://machinelearningmastery.com/managing-small-context-windows-in-language-models/) (2026-08-18)
 
 </details>
 
