@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo) (2026-08-29)
+- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) (2026-08-29)
 - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) (2026-08-29)
 - [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/) (2026-08-29)
 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) (2026-08-29)
-- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) (2026-08-29)
-- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) (2026-08-29)
 - [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand) (2026-08-28)
 - [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices) (2026-08-28)
 - [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale) (2026-08-28)
 - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) (2026-08-28)
-- [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai) (2026-08-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) (2026-08-29)
 - [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
 - [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) (2026-08-28)
 - ["RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/) (2026-08-28)
 - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/) (2026-08-28)
-- [Here's what we know about the "space academy" Trump just announced](https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [8 Pitfalls I Hit Auto-Repairing 'Plugin directory does not exist' — and the 3-Layer Guard That Stopped a 22 8 Wipeout](https://dev.to/bokuwalily/8-pitfalls-i-hit-auto-repairing-plugin-directory-does-not-exist-and-the-3-layer-guard-that-4k0k) (2026-08-29)
-- [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) (2026-08-29)
-- [Shopify or WooCommerce? How I Chose My First E-Commerce Platform](https://dev.to/jessriche/shopify-or-woocommerce-how-i-chose-my-first-e-commerce-platform-4d30) (2026-08-29)
-- [Using Claude Code or Codex as a Teacher, Not an Autopilot](https://dev.to/ndabene/using-claude-code-or-codex-as-a-teacher-not-an-autopilot-513j) (2026-08-29)
-- [Client API Key — Design (Lite) ออกแบบ API key service to service ให้เบาและยังถูกต้อง](https://dev.to/m4r14/client-api-key-design-lite-10hg) (2026-08-29)
+- [Discord Webhook Tutorial: How to Send Automated Messages](https://dev.to/gamerz_bes01_71b5714e80f0/discord-webhook-tutorial-how-to-send-automated-messages-28oc) (2026-08-29)
+- [The Agent Paradox: Why Memory, Trust, and the Refusal to Act Are the Next Bottlenecks in AI Engineering](https://dev.to/tamizuddin/the-agent-paradox-why-memory-trust-and-the-refusal-to-act-are-the-next-bottlenecks-in-ai-5e79) (2026-08-29)
+- [pnpm wins in monorepos, npm wins on zero friction](https://dev.to/jtorchia/pnpm-wins-in-monorepos-npm-wins-on-zero-friction-195b) (2026-08-29)
+- [pnpm gana en monorepos, npm gana en fricción cero](https://dev.to/jtorchia/pnpm-gana-en-monorepos-npm-gana-en-friccion-cero-2o32) (2026-08-29)
+- [Python Async Web Scraping: Scrape 1000 Pages in Seconds](https://dev.to/qingluan/python-async-web-scraping-scrape-1000-pages-in-seconds-478) (2026-08-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Shopify Plan Should I Choose? A 2026 Decision Framework for Growing Stores](https://ocontis.medium.com/what-shopify-plan-should-i-choose-a-2026-decision-framework-for-growing-stores-4ffe0420d64a?source=rss------programming-5) (2026-08-29)
-- [How I’m Preparing for Developer Interviews (The Unglamorous Truth)](https://medium.com/@snehashreehazra783/how-im-preparing-for-developer-interviews-the-unglamorous-truth-514a01304e79?source=rss------programming-5) (2026-08-29)
-- [10 Python Libraries I Wish I Had Learned Earlier](https://python.plainenglish.io/10-python-libraries-i-wish-i-had-learned-earlier-a75b295bf1b3?source=rss------programming-5) (2026-08-29)
-- [Kubernetes Architecture Explained: Control Plane, Worker Nodes & Amazon EKS](https://medium.com/@venkatvk46/kubernetes-architecture-explained-control-plane-worker-nodes-amazon-eks-2dee6ce87c71?source=rss------programming-5) (2026-08-29)
-- [How to Use Claude Custom Skill Better Than 99% of People?](https://medium.com/coding-unique/how-to-use-claude-custom-skill-better-than-99-of-people-65765dd1a45c?source=rss------programming-5) (2026-08-29)
+- [Your Employer May Soon Track Your Brain at Work — Here’s What the Law and the Science Actually Say](https://medium.com/@eren.gp54/your-employer-may-soon-track-your-brain-at-work-heres-what-the-law-and-the-science-actually-say-b0700cffeb8d?source=rss------programming-5) (2026-08-29)
+- [Why 0.1 + 0.2 Is Not Exactly 0.3 in Java](https://medium.com/@prajaktadendge22/why-0-1-0-2-is-not-exactly-0-3-in-java-3e472c4b6df1?source=rss------programming-5) (2026-08-29)
+- [The Developer Skill Nobody Puts on a Resume](https://medium.com/@tayfun.kendiroglu20/the-developer-skill-nobody-puts-on-a-resume-fcd22b846d3d?source=rss------programming-5) (2026-08-29)
+- [I Found a Small Problem Hiding Behind Our Database Queries](https://medium.com/@premchandak_11/i-found-a-small-problem-hiding-behind-our-database-queries-7f21c93af650?source=rss------programming-5) (2026-08-29)
+- [The Difference Between a Clean React App and a Scalable React App](https://medium.com/@Evelyn.Taylor/the-difference-between-a-clean-react-app-and-a-scalable-react-app-9c3c5c2b13c4?source=rss------programming-5) (2026-08-29)
 
 </details>
 
@@ -564,6 +564,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
+- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
+- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
+- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
+- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 
 </details>
 
