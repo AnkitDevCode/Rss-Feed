@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/) (2026-08-28)
-- [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/) (2026-08-28)
-- [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/) (2026-08-28)
-- [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) (2026-08-28)
-- [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/) (2026-08-28)
+- [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) (2026-08-29)
+- [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/) (2026-08-29)
+- [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) (2026-08-29)
+- [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/) (2026-08-29)
+- [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/) (2026-08-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo) (2026-08-29)
-- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) (2026-08-29)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) (2026-08-29)
-- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/) (2026-08-29)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) (2026-08-29)
+- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) (2026-08-29)
+- [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) (2026-08-29)
+- [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits) (2026-08-29)
+- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/) (2026-08-29)
+- [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) (2026-08-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai) (2026-08-29)
-- [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand) (2026-08-28)
-- [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices) (2026-08-28)
-- [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale) (2026-08-28)
-- [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) (2026-08-28)
+- [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice) (2026-08-29)
+- [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) (2026-08-29)
+- [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions) (2026-08-29)
+- [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango) (2026-08-29)
+- [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review) (2026-08-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Discord Webhook Tutorial: How to Send Automated Messages](https://dev.to/gamerz_bes01_71b5714e80f0/discord-webhook-tutorial-how-to-send-automated-messages-28oc) (2026-08-29)
-- [The Agent Paradox: Why Memory, Trust, and the Refusal to Act Are the Next Bottlenecks in AI Engineering](https://dev.to/tamizuddin/the-agent-paradox-why-memory-trust-and-the-refusal-to-act-are-the-next-bottlenecks-in-ai-5e79) (2026-08-29)
-- [pnpm wins in monorepos, npm wins on zero friction](https://dev.to/jtorchia/pnpm-wins-in-monorepos-npm-wins-on-zero-friction-195b) (2026-08-29)
-- [pnpm gana en monorepos, npm gana en fricción cero](https://dev.to/jtorchia/pnpm-gana-en-monorepos-npm-gana-en-friccion-cero-2o32) (2026-08-29)
-- [Python Async Web Scraping: Scrape 1000 Pages in Seconds](https://dev.to/qingluan/python-async-web-scraping-scrape-1000-pages-in-seconds-478) (2026-08-29)
+- [Build an XRPL Token Screener in About 50 Lines](https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38) (2026-08-29)
+- [The WebGPU Export Engine: Rendering High-Res Canvases to MP4, SVG, and PDF Like a Senior Architect](https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc) (2026-08-29)
+- [Networking in the Power Grid for Software Developers Part 1: Rebuilding a Local Network with Medieval Signal Towers](https://dev.to/dmytro_huz/networking-in-the-power-grid-for-software-developers-part-1-rebuilding-a-local-network-with-3n21) (2026-08-29)
+- [How AI Stores Millions of Vectors Without Using Tons of Memory](https://dev.to/rijultp/ever-wondered-how-ai-stores-millions-of-embeddings-47ek) (2026-08-29)
+- [Do zero ao primeiro passo na programação: o que aprendi estudando Python](https://dev.to/luizbraga321/do-zero-ao-primeiro-passo-na-programacao-o-que-aprendi-estudando-python-1185) (2026-08-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Employer May Soon Track Your Brain at Work — Here’s What the Law and the Science Actually Say](https://medium.com/@eren.gp54/your-employer-may-soon-track-your-brain-at-work-heres-what-the-law-and-the-science-actually-say-b0700cffeb8d?source=rss------programming-5) (2026-08-29)
-- [Why 0.1 + 0.2 Is Not Exactly 0.3 in Java](https://medium.com/@prajaktadendge22/why-0-1-0-2-is-not-exactly-0-3-in-java-3e472c4b6df1?source=rss------programming-5) (2026-08-29)
-- [The Developer Skill Nobody Puts on a Resume](https://medium.com/@tayfun.kendiroglu20/the-developer-skill-nobody-puts-on-a-resume-fcd22b846d3d?source=rss------programming-5) (2026-08-29)
-- [I Found a Small Problem Hiding Behind Our Database Queries](https://medium.com/@premchandak_11/i-found-a-small-problem-hiding-behind-our-database-queries-7f21c93af650?source=rss------programming-5) (2026-08-29)
-- [The Difference Between a Clean React App and a Scalable React App](https://medium.com/@Evelyn.Taylor/the-difference-between-a-clean-react-app-and-a-scalable-react-app-9c3c5c2b13c4?source=rss------programming-5) (2026-08-29)
+- [Vibe Coding Is Exploding in 2026. But Most Developers Are Doing It Wrong.](https://medium.com/@solomongetachew112/vibe-coding-is-exploding-in-2026-but-most-developers-are-doing-it-wrong-656545ba042c?source=rss------programming-5) (2026-08-29)
+- [CSS Pseudo-Class Secrets Most Developers Never Learn](https://medium.com/@contato.blense/css-pseudo-class-secrets-most-developers-never-learn-cd69af87e4c7?source=rss------programming-5) (2026-08-29)
+- [Why DeFi UX Is Actually an Infrastructure Problem](https://medium.com/@khalifabagam/why-defi-ux-is-actually-an-infrastructure-problem-25ba69e0ab97?source=rss------programming-5) (2026-08-29)
+- [The AI-Generated Tests That Proved the Wrong Thing](https://medium.com/skillstuff/the-ai-generated-tests-that-proved-the-wrong-thing-e0b2c3105a5a?source=rss------programming-5) (2026-08-29)
+- [.NET Nedir?](https://mert-akbiyik.medium.com/net-nedir-adf54ce31df8?source=rss------programming-5) (2026-08-29)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
-) (2026-08-28)
-- [
-How to Use Svelte and Go to Build a Video Chat App
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-svelte-go
-) (2026-08-28)
-- [
-How to Confirm Phone Number Ownership with Lookup Identity Match in Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
-) (2026-08-28)
-- [
-Why 78% of customers try to bypass your AI agent
-](
-https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
-) (2026-08-28)
-- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
 ) (2026-08-27)
+- [
+Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video
+](
+https://www.twilio.com/en-us/blog/build-video-chat-application-python-javascript-twilio-programmable-video
+) (2026-08-26)
+- [
+8 top conversational AI platforms in 2026
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
+) (2026-08-26)
+- [
+Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video
+) (2026-08-25)
+- [
+Top user authentication trends for 2026
+](
+https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
+) (2026-08-21)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [4 Claude Skills Every Data Scientist Needs in 2026](https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/) (2026-08-29)
+- [When to Use Claude Code and When to Use Codex](https://towardsdatascience.com/when-to-use-claude-code-and-when-to-use-codex/) (2026-08-29)
+- [RAG Is Not the Whole Toolkit: The NLP Techniques Real Problems Still Need](https://towardsdatascience.com/rag-is-not-the-whole-toolkit-the-nlp-techniques-real-problems-still-need/) (2026-08-29)
 - [Human-in-the-Loop Without Killing Throughput](https://towardsdatascience.com/human-in-the-loop-without-killing-throughput/) (2026-08-28)
 - [From One Agent to a Team: Understanding Codex Subagents](https://towardsdatascience.com/from-one-agent-to-a-team-understanding-codex-subagents/) (2026-08-28)
-- [Connecting My LangGraph AI Agent to Postgres](https://towardsdatascience.com/connecting-my-langgraph-ai-agent-to-postgres/) (2026-08-28)
-- [Why Claude Code Time Estimates Are Poor](https://towardsdatascience.com/why-claude-code-time-estimates-are-poor/) (2026-08-28)
-- [The Sigmoid Function: From 'e' to Neural Networks](https://towardsdatascience.com/the-sigmoid-function-from-e-to-neural-networks/) (2026-08-27)
 
 </details>
 
