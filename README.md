@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/) (2026-08-28)
+- [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/) (2026-08-28)
 - [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/) (2026-08-28)
 - [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) (2026-08-28)
 - [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/) (2026-08-28)
-- [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/) (2026-08-28)
-- [How Sweden built one of Europe’s hottest startup ecosystems ](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) (2026-08-28)
-- [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/) (2026-08-28)
-- [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai) (2026-08-28)
-- [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/) (2026-08-28)
-- [Bye, Bye GitHub](https://log.ozgur.works/bye-bye-github.html) (2026-08-28)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) (2026-08-29)
+- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/) (2026-08-29)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) (2026-08-29)
+- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) (2026-08-29)
+- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand) (2026-08-28)
+- [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices) (2026-08-28)
 - [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale) (2026-08-28)
 - [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) (2026-08-28)
 - [DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai) (2026-08-28)
-- [The iPhone Fold could make concerts even worse](https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast) (2026-08-28)
-- [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike) (2026-08-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
+- [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) (2026-08-28)
+- ["RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/) (2026-08-28)
 - [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/) (2026-08-28)
 - [Here's what we know about the "space academy" Trump just announced](https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/) (2026-08-28)
-- [Apple One and Apple TV subscription prices increase by up to 20 percent](https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/) (2026-08-28)
-- [Our 10 favorite scenes from T2: Judgment Day](https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/) (2026-08-28)
-- [Meta makes AI glasses slightly less creepy with limit on nonconsensual recording](https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/) (2026-08-28)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf) (2026-08-28)
-- [Google Gemini Student Hub Brings Notebooks, Flashcards and Quizzes Into One Study Space](https://dev.to/alifar/google-gemini-student-hub-brings-notebooks-flashcards-and-quizzes-into-one-study-space-4nek) (2026-08-28)
-- [Google Gives Eligible US College Students One Year of Gemini AI Pro at No Cost](https://dev.to/alifar/google-gives-eligible-us-college-students-one-year-of-gemini-ai-pro-at-no-cost-4lna) (2026-08-28)
-- [The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7) (2026-08-28)
-- [Security news weekly round-up - 28th August 2026](https://dev.to/ziizium/security-news-weekly-round-up-28th-august-2026-2abh) (2026-08-28)
+- [8 Pitfalls I Hit Auto-Repairing 'Plugin directory does not exist' — and the 3-Layer Guard That Stopped a 22 8 Wipeout](https://dev.to/bokuwalily/8-pitfalls-i-hit-auto-repairing-plugin-directory-does-not-exist-and-the-3-layer-guard-that-4k0k) (2026-08-29)
+- [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) (2026-08-29)
+- [Shopify or WooCommerce? How I Chose My First E-Commerce Platform](https://dev.to/jessriche/shopify-or-woocommerce-how-i-chose-my-first-e-commerce-platform-4d30) (2026-08-29)
+- [Using Claude Code or Codex as a Teacher, Not an Autopilot](https://dev.to/ndabene/using-claude-code-or-codex-as-a-teacher-not-an-autopilot-513j) (2026-08-29)
+- [Client API Key — Design (Lite) ออกแบบ API key service to service ให้เบาและยังถูกต้อง](https://dev.to/m4r14/client-api-key-design-lite-10hg) (2026-08-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Databases Actually Store Data on Disk: The Slotted Page Architecture](https://medium.com/@aayush04.ag/how-databases-actually-store-data-on-disk-the-slotted-page-architecture-011e910db443?source=rss------programming-5) (2026-08-28)
-- [My Entire Website Is a Key-Value Store](https://medium.com/@listcalc/my-entire-website-is-a-key-value-store-6725abe0ba07?source=rss------programming-5) (2026-08-28)
-- [Preparing for an AI Engineer Interview in 2026? Don’t Stop at LangChain.](https://medium.com/@kritnandan3/preparing-for-an-ai-engineer-interview-in-2026-dont-stop-at-langchain-d809d3eae779?source=rss------programming-5) (2026-08-28)
-- [The Full-Stack Title Is Meaningless in 2026. Here Is What Teams Actually Hire For](https://medium.com/write-a-catalyst/the-full-stack-title-is-meaningless-in-2026-here-is-what-teams-actually-hire-for-bd84c8e9bdd9?source=rss------programming-5) (2026-08-28)
-- [جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
-صیغه بهبهان صیغه مشگین…](https://medium.com/@hajyrda369/%D8%AC%D9%87%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D9%88%D9%82%D8%AA-%D9%88%D8%AF%D8%A7%D8%A6%D9%85-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A8%D8%AF%D9%87%DB%8C%D8%AF-09915528413-%D9%88%DB%8C%D8%A7-%D8%A8%D8%A7%D8%B4%D9%85%D8%A7%D8%B1%D9%87-09364608280-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%B4%DA%AF%DB%8C%D9%86-c2b08e1e75a8?source=rss------programming-5) (2026-08-28)
+- [What Shopify Plan Should I Choose? A 2026 Decision Framework for Growing Stores](https://ocontis.medium.com/what-shopify-plan-should-i-choose-a-2026-decision-framework-for-growing-stores-4ffe0420d64a?source=rss------programming-5) (2026-08-29)
+- [How I’m Preparing for Developer Interviews (The Unglamorous Truth)](https://medium.com/@snehashreehazra783/how-im-preparing-for-developer-interviews-the-unglamorous-truth-514a01304e79?source=rss------programming-5) (2026-08-29)
+- [10 Python Libraries I Wish I Had Learned Earlier](https://python.plainenglish.io/10-python-libraries-i-wish-i-had-learned-earlier-a75b295bf1b3?source=rss------programming-5) (2026-08-29)
+- [Kubernetes Architecture Explained: Control Plane, Worker Nodes & Amazon EKS](https://medium.com/@venkatvk46/kubernetes-architecture-explained-control-plane-worker-nodes-amazon-eks-2dee6ce87c71?source=rss------programming-5) (2026-08-29)
+- [How to Use Claude Custom Skill Better Than 99% of People?](https://medium.com/coding-unique/how-to-use-claude-custom-skill-better-than-99-of-people-65765dd1a45c?source=rss------programming-5) (2026-08-29)
 
 </details>
 
@@ -208,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) (2026-08-28)
 - [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (2026-08-27)
 - [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/) (2026-08-26)
 - [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) (2026-08-11)
 - [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) (2026-08-03)
-- [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) (2026-07-31)
 
 </details>
 
@@ -374,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
+) (2026-08-28)
+- [
+How to Use Svelte and Go to Build a Video Chat App
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-svelte-go
+) (2026-08-28)
+- [
+How to Confirm Phone Number Ownership with Lookup Identity Match in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
+) (2026-08-28)
+- [
+Why 78% of customers try to bypass your AI agent
+](
+https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
+) (2026-08-28)
+- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
 ) (2026-08-27)
-- [
-Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video
-](
-https://www.twilio.com/en-us/blog/build-video-chat-application-python-javascript-twilio-programmable-video
-) (2026-08-26)
-- [
-8 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-08-26)
-- [
-Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video
-) (2026-08-25)
-- [
-Top user authentication trends for 2026
-](
-https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
-) (2026-08-21)
 
 </details>
 
@@ -565,17 +564,6 @@ https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
-- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
-- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
-- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 
 </details>
 
