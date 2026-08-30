@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) (2026-08-30)
 - [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) (2026-08-29)
 - [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/) (2026-08-29)
 - [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) (2026-08-29)
 - [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/) (2026-08-29)
-- [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/) (2026-08-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [My fat loss experiments with ChatGPT and water fasting](https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846) (2026-08-30)
-- [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766) (2026-08-30)
-- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/) (2026-08-30)
-- [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/) (2026-08-30)
-- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) (2026-08-30)
+- [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) (2026-08-30)
+- [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/) (2026-08-30)
+- [No AI Fridays](https://noaifridays.com/) (2026-08-30)
+- [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go) (2026-08-30)
+- [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/) (2026-08-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) (2026-08-30)
+- [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit) (2026-08-30)
+- [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race) (2026-08-30)
+- [Two new small, powerful Macs](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera) (2026-08-30)
 - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale) (2026-08-29)
-- [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice) (2026-08-29)
-- [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) (2026-08-29)
-- [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions) (2026-08-29)
-- [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango) (2026-08-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/) (2026-08-30)
 - [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) (2026-08-29)
 - [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
 - [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) (2026-08-28)
 - ["RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/) (2026-08-28)
-- [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Crackmes: The Methodology](https://dev.to/ddupard/crackmes-the-methodology-3ef2) (2026-08-30)
-- [Broken Retries: Why 'Just Try Again' Kept 5 Automation Lanes Dead for 63 Minutes](https://dev.to/bokuwalily/broken-retries-why-just-try-again-kept-5-automation-lanes-dead-for-63-minutes-3mj0) (2026-08-30)
-- [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn) (2026-08-30)
-- [From Figma to the browser: building a shared mental model](https://dev.to/ale3oula/from-figma-to-the-browser-building-a-shared-mental-model-41p8) (2026-08-30)
-- [🚀 DevLab One Angular Dynamic Components – Version 2 Released!](https://dev.to/aravindhan_senthilkumar_3/devlab-one-angular-dynamic-components-version-2-released-513a) (2026-08-30)
+- [Help wanted: validate a React faceted search SPFx sample in SharePoint Online](https://dev.to/vystartasv/help-wanted-validate-a-react-faceted-search-spfx-sample-in-sharepoint-online-5ahc) (2026-08-30)
+- [Building My First RAG System: Deriving the Architecture from First Principles - Part One](https://dev.to/timilehin-olusegun/building-my-first-rag-system-deriving-the-architecture-from-first-principles-part-one-n43) (2026-08-30)
+- [I Built a Free Tool That Turns Your GitHub Profile Into a Shareable Stat Card — Here's How](https://dev.to/itachi_f47864487ba59eff3e/i-built-a-free-tool-that-turns-your-github-profile-into-a-shareable-stat-card-heres-how-557m) (2026-08-30)
+- [My first excel data cleaning](https://dev.to/rachel_ngunjiri_4fef646b5/my-first-excel-data-cleaning-fng) (2026-08-30)
+- [How SkyBuild Technologies Built EduSky: Scalable School Management System](https://dev.to/sb-tech/how-skybuild-technologies-built-edusky-scalable-school-management-system-1dc6) (2026-08-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Used Nearly the Same Architecture in Two System Design Interviews. One Failed. One Passed.](https://blog.stackademic.com/i-used-nearly-the-same-architecture-in-two-system-design-interviews-one-failed-one-passed-1a8e1824d3a4?source=rss------programming-5) (2026-08-30)
-- [I Deleted 4,000 Lines of Repository Pattern From Our .NET API. Nothing Broke.](https://blog.stackademic.com/i-deleted-4-000-lines-of-repository-pattern-from-our-net-api-nothing-broke-3b3839b3f764?source=rss------programming-5) (2026-08-30)
-- [Rust is Taking Over: The Hidden Costs of C++ and the Push for Safer Code ](https://medium.com/@geragaming0212/rust-is-taking-over-the-hidden-costs-of-c-and-the-push-for-safer-code-d6d4dd346b5b?source=rss------programming-5) (2026-08-30)
-- [Your Optimizer Is Working Perfectly. That Is the Problem.](https://blog.stackademic.com/your-optimizer-is-working-perfectly-that-is-the-problem-d60fcb334c2a?source=rss------programming-5) (2026-08-30)
-- [We Didn’t Replace Developers With AI. We Rebuilt the Development Workflow Instead.](https://blog.stackademic.com/we-didnt-replace-developers-with-ai-we-rebuilt-the-development-workflow-instead-deb38f2a7849?source=rss------programming-5) (2026-08-30)
+- [Cybersecurity Explained: How the Digital World Stays Secure](https://medium.com/@priyadigitalsoiutions1/cybersecurity-explained-how-the-digital-world-stays-secure-fddea4fb872b?source=rss------programming-5) (2026-08-30)
+- [PLEv17 the Post Quantum Solution for Everything.](https://mme365.medium.com/plev17-the-post-quantum-solution-for-everything-142d6d3b29f2?source=rss------programming-5) (2026-08-30)
+- [“Find Your People, Plan Together: Building a Social Travel Platform from Scratch”](https://medium.com/@alisamsrivardhan72/find-your-people-plan-together-building-a-social-travel-platform-from-scratch-3c377b051e24?source=rss------programming-5) (2026-08-30)
+- [Software engineer resume keywords, measured across 1,360 job postings](https://medium.com/@llctoolsai/software-engineer-resume-keywords-measured-across-1-360-job-postings-10d05d1b02a9?source=rss------programming-5) (2026-08-30)
+- [Do You Need Claude Pro for Claude Code? Plans, API Math, and Free Access](https://medium.com/@sageholloway/do-you-need-claude-pro-for-claude-code-plans-api-math-and-free-access-80537ef37b89?source=rss------programming-5) (2026-08-30)
 
 </details>
 
@@ -568,24 +568,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
-- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
-- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
-- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Context Engineering Is Changing. Here’s What It Means for Data Scientists](https://towardsdatascience.com/context-engineering-is-changing-heres-what-it-means-for-data-scientists/) (2026-08-30)
+- [Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves](https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/) (2026-08-30)
 - [4 Claude Skills Every Data Scientist Needs in 2026](https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/) (2026-08-29)
 - [When to Use Claude Code and When to Use Codex](https://towardsdatascience.com/when-to-use-claude-code-and-when-to-use-codex/) (2026-08-29)
 - [RAG Is Not the Whole Toolkit: The NLP Techniques Real Problems Still Need](https://towardsdatascience.com/rag-is-not-the-whole-toolkit-the-nlp-techniques-real-problems-still-need/) (2026-08-29)
-- [Human-in-the-Loop Without Killing Throughput](https://towardsdatascience.com/human-in-the-loop-without-killing-throughput/) (2026-08-28)
-- [From One Agent to a Team: Understanding Codex Subagents](https://towardsdatascience.com/from-one-agent-to-a-team-understanding-codex-subagents/) (2026-08-28)
 
 </details>
 
