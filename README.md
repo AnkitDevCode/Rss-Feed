@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/) (2026-08-30)
+- [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) (2026-08-30)
+- [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/) (2026-08-30)
 - [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) (2026-08-30)
 - [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) (2026-08-29)
-- [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/) (2026-08-29)
-- [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) (2026-08-29)
-- [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/) (2026-08-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) (2026-08-30)
-- [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/) (2026-08-30)
-- [No AI Fridays](https://noaifridays.com/) (2026-08-30)
-- [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go) (2026-08-30)
-- [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/) (2026-08-30)
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) (2026-08-30)
+- [1kB Website as Status Symbol](https://async.cat/blog) (2026-08-30)
+- [The world may have less time than it thinks on climate change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change) (2026-08-30)
+- [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) (2026-08-30)
+- [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/) (2026-08-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3) (2026-08-30)
+- [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch) (2026-08-30)
 - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) (2026-08-30)
 - [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit) (2026-08-30)
 - [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race) (2026-08-30)
-- [Two new small, powerful Macs](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera) (2026-08-30)
-- [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale) (2026-08-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Why it matters that President Trump just dialed into a NASA news conference](https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/) (2026-08-30)
 - [Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/) (2026-08-30)
 - [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) (2026-08-29)
 - [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
 - [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) (2026-08-28)
-- ["RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Help wanted: validate a React faceted search SPFx sample in SharePoint Online](https://dev.to/vystartasv/help-wanted-validate-a-react-faceted-search-spfx-sample-in-sharepoint-online-5ahc) (2026-08-30)
-- [Building My First RAG System: Deriving the Architecture from First Principles - Part One](https://dev.to/timilehin-olusegun/building-my-first-rag-system-deriving-the-architecture-from-first-principles-part-one-n43) (2026-08-30)
-- [I Built a Free Tool That Turns Your GitHub Profile Into a Shareable Stat Card — Here's How](https://dev.to/itachi_f47864487ba59eff3e/i-built-a-free-tool-that-turns-your-github-profile-into-a-shareable-stat-card-heres-how-557m) (2026-08-30)
-- [My first excel data cleaning](https://dev.to/rachel_ngunjiri_4fef646b5/my-first-excel-data-cleaning-fng) (2026-08-30)
-- [How SkyBuild Technologies Built EduSky: Scalable School Management System](https://dev.to/sb-tech/how-skybuild-technologies-built-edusky-scalable-school-management-system-1dc6) (2026-08-30)
+- [How I Used an Uncensored Local LLM for Adversarial QA on My macOS App](https://dev.to/lafine_systemsdesign/how-i-used-an-uncensored-local-llm-for-adversarial-qa-on-my-macos-app-18cj) (2026-08-30)
+- [Stop the Infinite Loops: How to Rate-Limit and Secure Generative AI Media Pipelines](https://dev.to/programmingcentral/stop-the-infinite-loops-how-to-rate-limit-and-secure-generative-ai-media-pipelines-1hja) (2026-08-30)
+- [I fixed the catalog sync bug I said I'd fix](https://dev.to/ko-hi/i-fixed-the-catalog-sync-bug-i-said-id-fix-5300) (2026-08-30)
+- [Smart Contract Vulnerability Surface Analysis: Bitstamp](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitstamp-1ikj) (2026-08-30)
+- [Building Médicos por Venezuela: High-Performance Non-Profit Tech Stack](https://dev.to/softronic/building-medicos-por-venezuela-high-performance-non-profit-tech-stack-3abf) (2026-08-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cybersecurity Explained: How the Digital World Stays Secure](https://medium.com/@priyadigitalsoiutions1/cybersecurity-explained-how-the-digital-world-stays-secure-fddea4fb872b?source=rss------programming-5) (2026-08-30)
-- [PLEv17 the Post Quantum Solution for Everything.](https://mme365.medium.com/plev17-the-post-quantum-solution-for-everything-142d6d3b29f2?source=rss------programming-5) (2026-08-30)
-- [“Find Your People, Plan Together: Building a Social Travel Platform from Scratch”](https://medium.com/@alisamsrivardhan72/find-your-people-plan-together-building-a-social-travel-platform-from-scratch-3c377b051e24?source=rss------programming-5) (2026-08-30)
-- [Software engineer resume keywords, measured across 1,360 job postings](https://medium.com/@llctoolsai/software-engineer-resume-keywords-measured-across-1-360-job-postings-10d05d1b02a9?source=rss------programming-5) (2026-08-30)
-- [Do You Need Claude Pro for Claude Code? Plans, API Math, and Free Access](https://medium.com/@sageholloway/do-you-need-claude-pro-for-claude-code-plans-api-math-and-free-access-80537ef37b89?source=rss------programming-5) (2026-08-30)
+- [Managed Coroutines in TypeScript: How to Gain Control over Asynchrony and Memory. A Closer Look](https://medium.com/@devsdaddy_83760/managed-coroutines-in-typescript-how-to-gain-control-over-asynchrony-and-memory-a-closer-look-de001bbf7862?source=rss------programming-5) (2026-08-30)
+- [We Made Checkout Idempotent. The Refund Worker Still Charged Customers Twice.](https://blog.stackademic.com/we-made-checkout-idempotent-the-refund-worker-still-charged-customers-twice-b6a877e08d1c?source=rss------programming-5) (2026-08-30)
+- [The Part of Vibe Coding Nobody Notices Until Production](https://medium.com/skillstuff/the-part-of-vibe-coding-nobody-notices-until-production-7f3ead664a07?source=rss------programming-5) (2026-08-30)
+- [We Designed for Regional Failover. DNS Kept Sending Users to the Dead Region.](https://blog.stackademic.com/we-designed-for-regional-failover-dns-kept-sending-users-to-the-dead-region-e00ad9e26409?source=rss------programming-5) (2026-08-30)
+- [We Doubled PostgreSQL CPU. Query Latency Got Worse.](https://blog.stackademic.com/we-doubled-postgresql-cpu-query-latency-got-worse-785b7434a11e?source=rss------programming-5) (2026-08-30)
 
 </details>
 
@@ -568,13 +568,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
+- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
+- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
+- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
+- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [8 Tips for Writing Effective Agent Instructions](https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/) (2026-08-30)
 - [Context Engineering Is Changing. Here’s What It Means for Data Scientists](https://towardsdatascience.com/context-engineering-is-changing-heres-what-it-means-for-data-scientists/) (2026-08-30)
 - [Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves](https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/) (2026-08-30)
 - [4 Claude Skills Every Data Scientist Needs in 2026](https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/) (2026-08-29)
 - [When to Use Claude Code and When to Use Codex](https://towardsdatascience.com/when-to-use-claude-code-and-when-to-use-codex/) (2026-08-29)
-- [RAG Is Not the Whole Toolkit: The NLP Techniques Real Problems Still Need](https://towardsdatascience.com/rag-is-not-the-whole-toolkit-the-nlp-techniques-real-problems-still-need/) (2026-08-29)
 
 </details>
 
