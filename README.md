@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/) (2026-08-30)
-- [Bug Blindness](https://danluu.com/bug-blind/) (2026-08-30)
-- [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms) (2026-08-29)
-- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) (2026-08-29)
-- [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com) (2026-08-29)
+- [My fat loss experiments with ChatGPT and water fasting](https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846) (2026-08-30)
+- [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766) (2026-08-30)
+- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/) (2026-08-30)
+- [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/) (2026-08-30)
+- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) (2026-08-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built an AI agent for production incidents. The interesting part is when it refuses to act.](https://dev.to/singhakousik363del/i-built-an-ai-agent-for-production-incidents-the-interesting-part-is-when-it-refuses-to-act-1ddg) (2026-08-30)
-- [Why the AI character would not calm down, and how I fixed it](https://dev.to/ian_finn_ff87b6478b95e896/why-the-ai-character-would-not-calm-down-and-how-i-fixed-it-2k1o) (2026-08-30)
-- [นักพัฒนาส่งงานได้เร็วขึ้น แล้วใครจะอธิบายโค้ดตอนระบบพัง](https://dev.to/epichigh/nakphathnaasngngaanaiderwkhuen-aelwaikhrcchathibaayokhdtnrabbphang-43g7) (2026-08-30)
-- [How to Update MCP Tools When the Underlying API Changes](https://dev.to/bhavyshekhaliya/how-to-update-mcp-tools-when-the-underlying-api-changes-4jf2) (2026-08-30)
-- [Your Website Chatbot Is Talking to Nobody. The Dashboard Proves It](https://dev.to/automate-archit/your-website-chatbot-is-talking-to-nobody-the-dashboard-proves-it-33md) (2026-08-30)
+- [Crackmes: The Methodology](https://dev.to/ddupard/crackmes-the-methodology-3ef2) (2026-08-30)
+- [Broken Retries: Why 'Just Try Again' Kept 5 Automation Lanes Dead for 63 Minutes](https://dev.to/bokuwalily/broken-retries-why-just-try-again-kept-5-automation-lanes-dead-for-63-minutes-3mj0) (2026-08-30)
+- [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn) (2026-08-30)
+- [From Figma to the browser: building a shared mental model](https://dev.to/ale3oula/from-figma-to-the-browser-building-a-shared-mental-model-41p8) (2026-08-30)
+- [🚀 DevLab One Angular Dynamic Components – Version 2 Released!](https://dev.to/aravindhan_senthilkumar_3/devlab-one-angular-dynamic-components-version-2-released-513a) (2026-08-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [QA Engineer ต้องเขียนโค้ดไหม? มือใหม่ควรรู้อะไรก่อนเข้าสายงาน QA](https://medium.com/@kritasak/qa-engineer-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99-qa-cda49ab83589?source=rss------programming-5) (2026-08-30)
-- [Shopify Ecommerce Growth Plateau: Causes and What to Do When Revenue Stalls](https://ocontis.medium.com/shopify-ecommerce-growth-plateau-causes-and-what-to-do-when-revenue-stalls-065f4bd78132?source=rss------programming-5) (2026-08-30)
-- [We Had 99.99% Uptime. Our Largest Customer Still Couldn’t Use the Product.](https://blog.stackademic.com/we-had-99-99-uptime-our-largest-customer-still-couldnt-use-the-product-8c4a2d4ae1c6?source=rss------programming-5) (2026-08-30)
-- [I Reveal My Most Profitable Trading Strategy](https://medium.com/@sayedali_3166/i-reveal-my-most-profitable-trading-strategy-284060fc0c40?source=rss------programming-5) (2026-08-30)
-- [We Traced Every Request. The One Incident We Needed Had Been Sampled Out.](https://blog.stackademic.com/we-traced-every-request-the-one-incident-we-needed-had-been-sampled-out-1329b1b8f9e5?source=rss------programming-5) (2026-08-30)
+- [I Used Nearly the Same Architecture in Two System Design Interviews. One Failed. One Passed.](https://blog.stackademic.com/i-used-nearly-the-same-architecture-in-two-system-design-interviews-one-failed-one-passed-1a8e1824d3a4?source=rss------programming-5) (2026-08-30)
+- [I Deleted 4,000 Lines of Repository Pattern From Our .NET API. Nothing Broke.](https://blog.stackademic.com/i-deleted-4-000-lines-of-repository-pattern-from-our-net-api-nothing-broke-3b3839b3f764?source=rss------programming-5) (2026-08-30)
+- [Rust is Taking Over: The Hidden Costs of C++ and the Push for Safer Code ](https://medium.com/@geragaming0212/rust-is-taking-over-the-hidden-costs-of-c-and-the-push-for-safer-code-d6d4dd346b5b?source=rss------programming-5) (2026-08-30)
+- [Your Optimizer Is Working Perfectly. That Is the Problem.](https://blog.stackademic.com/your-optimizer-is-working-perfectly-that-is-the-problem-d60fcb334c2a?source=rss------programming-5) (2026-08-30)
+- [We Didn’t Replace Developers With AI. We Rebuilt the Development Workflow Instead.](https://blog.stackademic.com/we-didnt-replace-developers-with-ai-we-rebuilt-the-development-workflow-instead-deb38f2a7849?source=rss------programming-5) (2026-08-30)
 
 </details>
 
