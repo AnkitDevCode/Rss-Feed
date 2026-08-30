@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) (2026-08-29)
-- [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) (2026-08-29)
-- [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits) (2026-08-29)
-- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/) (2026-08-29)
-- [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) (2026-08-29)
+- [FreeCORE TrueNAS Core – Continued](https://freecore.org/) (2026-08-30)
+- [Bug Blindness](https://danluu.com/bug-blind/) (2026-08-30)
+- [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms) (2026-08-29)
+- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) (2026-08-29)
+- [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com) (2026-08-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale) (2026-08-29)
 - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice) (2026-08-29)
 - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) (2026-08-29)
 - [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions) (2026-08-29)
 - [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango) (2026-08-29)
-- [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review) (2026-08-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build an XRPL Token Screener in About 50 Lines](https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38) (2026-08-29)
-- [The WebGPU Export Engine: Rendering High-Res Canvases to MP4, SVG, and PDF Like a Senior Architect](https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc) (2026-08-29)
-- [Networking in the Power Grid for Software Developers Part 1: Rebuilding a Local Network with Medieval Signal Towers](https://dev.to/dmytro_huz/networking-in-the-power-grid-for-software-developers-part-1-rebuilding-a-local-network-with-3n21) (2026-08-29)
-- [How AI Stores Millions of Vectors Without Using Tons of Memory](https://dev.to/rijultp/ever-wondered-how-ai-stores-millions-of-embeddings-47ek) (2026-08-29)
-- [Do zero ao primeiro passo na programação: o que aprendi estudando Python](https://dev.to/luizbraga321/do-zero-ao-primeiro-passo-na-programacao-o-que-aprendi-estudando-python-1185) (2026-08-29)
+- [I built an AI agent for production incidents. The interesting part is when it refuses to act.](https://dev.to/singhakousik363del/i-built-an-ai-agent-for-production-incidents-the-interesting-part-is-when-it-refuses-to-act-1ddg) (2026-08-30)
+- [Why the AI character would not calm down, and how I fixed it](https://dev.to/ian_finn_ff87b6478b95e896/why-the-ai-character-would-not-calm-down-and-how-i-fixed-it-2k1o) (2026-08-30)
+- [นักพัฒนาส่งงานได้เร็วขึ้น แล้วใครจะอธิบายโค้ดตอนระบบพัง](https://dev.to/epichigh/nakphathnaasngngaanaiderwkhuen-aelwaikhrcchathibaayokhdtnrabbphang-43g7) (2026-08-30)
+- [How to Update MCP Tools When the Underlying API Changes](https://dev.to/bhavyshekhaliya/how-to-update-mcp-tools-when-the-underlying-api-changes-4jf2) (2026-08-30)
+- [Your Website Chatbot Is Talking to Nobody. The Dashboard Proves It](https://dev.to/automate-archit/your-website-chatbot-is-talking-to-nobody-the-dashboard-proves-it-33md) (2026-08-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Vibe Coding Is Exploding in 2026. But Most Developers Are Doing It Wrong.](https://medium.com/@solomongetachew112/vibe-coding-is-exploding-in-2026-but-most-developers-are-doing-it-wrong-656545ba042c?source=rss------programming-5) (2026-08-29)
-- [CSS Pseudo-Class Secrets Most Developers Never Learn](https://medium.com/@contato.blense/css-pseudo-class-secrets-most-developers-never-learn-cd69af87e4c7?source=rss------programming-5) (2026-08-29)
-- [Why DeFi UX Is Actually an Infrastructure Problem](https://medium.com/@khalifabagam/why-defi-ux-is-actually-an-infrastructure-problem-25ba69e0ab97?source=rss------programming-5) (2026-08-29)
-- [The AI-Generated Tests That Proved the Wrong Thing](https://medium.com/skillstuff/the-ai-generated-tests-that-proved-the-wrong-thing-e0b2c3105a5a?source=rss------programming-5) (2026-08-29)
-- [.NET Nedir?](https://mert-akbiyik.medium.com/net-nedir-adf54ce31df8?source=rss------programming-5) (2026-08-29)
+- [QA Engineer ต้องเขียนโค้ดไหม? มือใหม่ควรรู้อะไรก่อนเข้าสายงาน QA](https://medium.com/@kritasak/qa-engineer-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99-qa-cda49ab83589?source=rss------programming-5) (2026-08-30)
+- [Shopify Ecommerce Growth Plateau: Causes and What to Do When Revenue Stalls](https://ocontis.medium.com/shopify-ecommerce-growth-plateau-causes-and-what-to-do-when-revenue-stalls-065f4bd78132?source=rss------programming-5) (2026-08-30)
+- [We Had 99.99% Uptime. Our Largest Customer Still Couldn’t Use the Product.](https://blog.stackademic.com/we-had-99-99-uptime-our-largest-customer-still-couldnt-use-the-product-8c4a2d4ae1c6?source=rss------programming-5) (2026-08-30)
+- [I Reveal My Most Profitable Trading Strategy](https://medium.com/@sayedali_3166/i-reveal-my-most-profitable-trading-strategy-284060fc0c40?source=rss------programming-5) (2026-08-30)
+- [We Traced Every Request. The One Incident We Needed Had Been Sampled Out.](https://blog.stackademic.com/we-traced-every-request-the-one-incident-we-needed-had-been-sampled-out-1329b1b8f9e5?source=rss------programming-5) (2026-08-30)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
+) (2026-08-28)
+- [
+How to Use Svelte and Go to Build a Video Chat App
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-svelte-go
+) (2026-08-28)
+- [
+How to Confirm Phone Number Ownership with Lookup Identity Match in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
+) (2026-08-28)
+- [
+Why 78% of customers try to bypass your AI agent
+](
+https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
+) (2026-08-28)
+- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
 ) (2026-08-27)
-- [
-Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video
-](
-https://www.twilio.com/en-us/blog/build-video-chat-application-python-javascript-twilio-programmable-video
-) (2026-08-26)
-- [
-8 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-08-26)
-- [
-Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video
-) (2026-08-25)
-- [
-Top user authentication trends for 2026
-](
-https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends
-) (2026-08-21)
 
 </details>
 
