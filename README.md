@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SolarWindow launches 0.85 mm-thick, self-adhesive solar film](https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/) (2026-08-31)
-- [Flock Safety's controversial CEO just got a taste of his own medicine](https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/) (2026-08-31)
-- [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014) (2026-08-31)
-- [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html) (2026-08-31)
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) (2026-08-31)
+- [I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) (2026-08-31)
+- [What I Learned About AI Trust from Reconciling over 100B Transactions](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling) (2026-08-31)
+- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html) (2026-08-31)
+- [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/) (2026-08-31)
+- [I built a hardware-bound local password vault hidden in a photo](https://blindlock.app/en/) (2026-08-31)
 
 </details>
 
@@ -35,18 +35,18 @@
 - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3) (2026-08-30)
 - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch) (2026-08-30)
 - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) (2026-08-30)
-- [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit) (2026-08-30)
+- [Chess.com launched a poker site, and it’s planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit) (2026-08-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pocket's AI made my game ideas real. Now Meta controls the results.](https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/) (2026-08-31)
 - [A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/) (2026-08-30)
 - [Why it matters that President Trump just dialed into a NASA news conference](https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/) (2026-08-30)
 - [Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/) (2026-08-30)
 - [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) (2026-08-29)
-- [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your agent's memory needs the word 'no' — and a way to prove nobody edited it](https://dev.to/masondelan/your-agents-memory-needs-the-word-no-and-a-way-to-prove-nobody-edited-it-2kg8) (2026-08-31)
-- [Building Fluentic Style: Styling DOM You Do Not Own With `createSheet`](https://dev.to/omnidev/building-fluentic-style-styling-dom-you-do-not-own-with-createsheet-24j5) (2026-08-31)
-- [I Let Grok Bot Apply to Software Engineering Jobs While I Was Sleeping](https://dev.to/bobbyhalljr/i-let-grok-bot-apply-to-software-engineering-jobs-while-i-was-sleeping-n62) (2026-08-31)
-- [A beginner's guide to the Grok-Imagine-Image model by Xai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grok-imagine-image-model-by-xai-on-replicate-5f81) (2026-08-31)
-- [My AI Agent Didn’t Break. Its Tool Did.](https://dev.to/mneang/my-ai-agent-didnt-break-its-tool-did-58ip) (2026-08-31)
+- [Running Local LLMs with RamaLama and Docker on a Mac: A Hands-On Guide](https://dev.to/shubham_sharma_94/running-local-llms-with-ramalama-and-docker-on-a-mac-a-hands-on-guide-140p) (2026-08-31)
+- [95% of My PySpark Job Finished in 4 Minutes. The Last Task Took 40. Here's Why.](https://dev.to/maithreyan11/95-of-my-pyspark-job-finished-in-4-minutes-the-last-task-took-40-heres-why-309c) (2026-08-31)
+- [When Your AI Reviewer Remembers Too Much: A Two-Phase Memory Probe](https://dev.to/appjs_3979/when-your-ai-reviewer-remembers-too-much-a-two-phase-memory-probe-243c) (2026-08-31)
+- [Yield Strategy Optimization Report: USDT0](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-usdt0-5758) (2026-08-31)
+- [GitHub Copilot AI Credits vs Claude Code: The Real Math on What Your AI Coding Costs Now](https://dev.to/jamilxt/github-copilot-ai-credits-vs-claude-code-the-real-math-on-what-your-ai-coding-costs-now-852) (2026-08-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This INTRADAY Trading Strategy Helped Me Quit My Job](https://medium.com/@sayedali_3166/this-intraday-trading-strategy-helped-me-quit-my-job-a3853a020e21?source=rss------programming-5) (2026-08-31)
-- [China Quit the Chip War. It Decided to Win a Different One.](https://generativeai.pub/china-quit-the-chip-war-it-decided-to-win-a-different-one-c9a0e707a166?source=rss------programming-5) (2026-08-31)
-- [3 AI Terms That Could Make or Break Your Next Interview](https://medium.com/illumination/3-ai-terms-that-could-make-or-break-your-next-interview-50182afd8d68?source=rss------programming-5) (2026-08-31)
-- [Designing Cryptographic Verification Pipelines for Fork-Driven Updates](https://medium.com/@codingguy/designing-cryptographic-verification-pipelines-for-fork-driven-updates-f7ad280d2b91?source=rss------programming-5) (2026-08-31)
-- [Instant Navigations in Next.js 16.3: The Feature That Makes Server Components Feel Like a SPA](https://medium.com/@sanjeevanibhandari3/instant-navigations-in-next-js-16-3-the-feature-that-makes-server-components-feel-like-a-spa-71b1321b3a8d?source=rss------programming-5) (2026-08-31)
+- [The Python Libraries I’d Actually Learn in 2026](https://medium.com/codetodeploy/the-python-libraries-id-actually-learn-in-2026-4a83862b91b9?source=rss------programming-5) (2026-08-31)
+- [System Design: Notification System](https://medium.com/@rhutu.takle/system-design-notification-system-06a60a017ed9?source=rss------programming-5) (2026-08-31)
+- [I Tested Two Memory Frameworks for AI Agents. Both Scored 100% by Forgetting.](https://medium.com/@madhavanrobos/i-tested-two-memory-frameworks-for-ai-agents-both-scored-100-by-forgetting-7b92500d2532?source=rss------programming-5) (2026-08-31)
+- [Two Transactions, Frozen Forever: The Deadlock Explained](https://medium.com/@jaberadam2001/two-transactions-frozen-forever-the-deadlock-explained-d79d75535f89?source=rss------programming-5) (2026-08-31)
+- [Polymorphism in Java: One Reference, Many Forms](https://medium.com/@imon.cse15/polymorphism-in-java-one-reference-many-forms-db1a152dd30a?source=rss------programming-5) (2026-08-31)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [From Leaderboards to Model Profiles: A Deep Dive Evaluation of LLMs for Agentic Coding ](https://blog.jetbrains.com/junie/2026/08/from-leaderboards-to-profiles/) (2026-08-31)
+- [Sunsetting of the JetBrains Teacher Pack for Bootcamps](https://blog.jetbrains.com/education/2026/08/31/sunsetting-of-the-jetbrains-teacher-pack-for-bootcamps/) (2026-08-31)
 - [The State of Django 2026: Boring is so back](https://blog.jetbrains.com/pycharm/2026/08/the-state-of-django-2026-boring-is-so-back/) (2026-08-28)
 - [Security Incident Affecting JetBrains Cadence](https://blog.jetbrains.com/pycharm/2026/08/cadence-security-incident-august-2026/) (2026-08-28)
 - [Project Loom in IntelliJ IDEA: Virtual Threads, Scoped Values, and Structured Concurrency](https://blog.jetbrains.com/idea/2026/08/project-loom-in-intellij-idea-virtual-threads-scoped-values-and-structured-concurrency/) (2026-08-28)
-- [Differential Privacy for Hugging Face Trainers – Without Rewriting Your Training Loop](https://blog.jetbrains.com/research/2026/08/dp-trainer/) (2026-08-27)
-- [The CLion Roadmap: What’s Coming Between Now and Late 2026](https://blog.jetbrains.com/clion/2026/08/roadmap/) (2026-08-27)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why RAG Complexity Should Be Earned](https://towardsdatascience.com/why-rag-complexity-should-be-earned/) (2026-08-31)
+- [AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production](https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/) (2026-08-31)
 - [8 Tips for Writing Effective Agent Instructions](https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/) (2026-08-30)
 - [Context Engineering Is Changing. Here’s What It Means for Data Scientists](https://towardsdatascience.com/context-engineering-is-changing-heres-what-it-means-for-data-scientists/) (2026-08-30)
 - [Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves](https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/) (2026-08-30)
-- [4 Claude Skills Every Data Scientist Needs in 2026](https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/) (2026-08-29)
-- [When to Use Claude Code and When to Use Codex](https://towardsdatascience.com/when-to-use-claude-code-and-when-to-use-codex/) (2026-08-29)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Python Mistakes Beginners Make (And What to Do Instead)](https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead) (2026-08-31)
 - [The Local AI Stack for Productive SLMs](https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms) (2026-08-28)
 - [Quantization and Pruning Methods to Make Your LLM Leaner](https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner) (2026-08-28)
 - [What We Can Learn From Google Engineers’ Indispensible Prompts](https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts) (2026-08-27)
 - [Understanding the Impact of AI on Job Markets](https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets) (2026-08-26)
-- [10 Rules for Getting Better Results from AI Coding Agents](https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents) (2026-08-26)
 
 </details>
 
