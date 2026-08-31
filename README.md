@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/) (2026-08-31)
+- [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/) (2026-08-31)
 - [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/) (2026-08-30)
 - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) (2026-08-30)
 - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/) (2026-08-30)
-- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) (2026-08-30)
-- [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) (2026-08-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) (2026-08-30)
-- [1kB Website as Status Symbol](https://async.cat/blog) (2026-08-30)
-- [The world may have less time than it thinks on climate change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change) (2026-08-30)
-- [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) (2026-08-30)
-- [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/) (2026-08-30)
+- [SolarWindow launches 0.85 mm-thick, self-adhesive solar film](https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/) (2026-08-31)
+- [Flock Safety's controversial CEO just got a taste of his own medicine](https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/) (2026-08-31)
+- [Why do I lose my passion and want to do nothing?](https://news.ycombinator.com/item?id=49505014) (2026-08-31)
+- [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html) (2026-08-31)
+- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review) (2026-08-30)
 - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3) (2026-08-30)
 - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch) (2026-08-30)
 - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) (2026-08-30)
 - [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit) (2026-08-30)
-- [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race) (2026-08-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/) (2026-08-30)
 - [Why it matters that President Trump just dialed into a NASA news conference](https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/) (2026-08-30)
 - [Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/) (2026-08-30)
 - [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) (2026-08-29)
 - [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) (2026-08-28)
-- [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Used an Uncensored Local LLM for Adversarial QA on My macOS App](https://dev.to/lafine_systemsdesign/how-i-used-an-uncensored-local-llm-for-adversarial-qa-on-my-macos-app-18cj) (2026-08-30)
-- [Stop the Infinite Loops: How to Rate-Limit and Secure Generative AI Media Pipelines](https://dev.to/programmingcentral/stop-the-infinite-loops-how-to-rate-limit-and-secure-generative-ai-media-pipelines-1hja) (2026-08-30)
-- [I fixed the catalog sync bug I said I'd fix](https://dev.to/ko-hi/i-fixed-the-catalog-sync-bug-i-said-id-fix-5300) (2026-08-30)
-- [Smart Contract Vulnerability Surface Analysis: Bitstamp](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitstamp-1ikj) (2026-08-30)
-- [Building Médicos por Venezuela: High-Performance Non-Profit Tech Stack](https://dev.to/softronic/building-medicos-por-venezuela-high-performance-non-profit-tech-stack-3abf) (2026-08-30)
+- [Your agent's memory needs the word 'no' — and a way to prove nobody edited it](https://dev.to/masondelan/your-agents-memory-needs-the-word-no-and-a-way-to-prove-nobody-edited-it-2kg8) (2026-08-31)
+- [Building Fluentic Style: Styling DOM You Do Not Own With `createSheet`](https://dev.to/omnidev/building-fluentic-style-styling-dom-you-do-not-own-with-createsheet-24j5) (2026-08-31)
+- [I Let Grok Bot Apply to Software Engineering Jobs While I Was Sleeping](https://dev.to/bobbyhalljr/i-let-grok-bot-apply-to-software-engineering-jobs-while-i-was-sleeping-n62) (2026-08-31)
+- [A beginner's guide to the Grok-Imagine-Image model by Xai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grok-imagine-image-model-by-xai-on-replicate-5f81) (2026-08-31)
+- [My AI Agent Didn’t Break. Its Tool Did.](https://dev.to/mneang/my-ai-agent-didnt-break-its-tool-did-58ip) (2026-08-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Managed Coroutines in TypeScript: How to Gain Control over Asynchrony and Memory. A Closer Look](https://medium.com/@devsdaddy_83760/managed-coroutines-in-typescript-how-to-gain-control-over-asynchrony-and-memory-a-closer-look-de001bbf7862?source=rss------programming-5) (2026-08-30)
-- [We Made Checkout Idempotent. The Refund Worker Still Charged Customers Twice.](https://blog.stackademic.com/we-made-checkout-idempotent-the-refund-worker-still-charged-customers-twice-b6a877e08d1c?source=rss------programming-5) (2026-08-30)
-- [The Part of Vibe Coding Nobody Notices Until Production](https://medium.com/skillstuff/the-part-of-vibe-coding-nobody-notices-until-production-7f3ead664a07?source=rss------programming-5) (2026-08-30)
-- [We Designed for Regional Failover. DNS Kept Sending Users to the Dead Region.](https://blog.stackademic.com/we-designed-for-regional-failover-dns-kept-sending-users-to-the-dead-region-e00ad9e26409?source=rss------programming-5) (2026-08-30)
-- [We Doubled PostgreSQL CPU. Query Latency Got Worse.](https://blog.stackademic.com/we-doubled-postgresql-cpu-query-latency-got-worse-785b7434a11e?source=rss------programming-5) (2026-08-30)
+- [This INTRADAY Trading Strategy Helped Me Quit My Job](https://medium.com/@sayedali_3166/this-intraday-trading-strategy-helped-me-quit-my-job-a3853a020e21?source=rss------programming-5) (2026-08-31)
+- [China Quit the Chip War. It Decided to Win a Different One.](https://generativeai.pub/china-quit-the-chip-war-it-decided-to-win-a-different-one-c9a0e707a166?source=rss------programming-5) (2026-08-31)
+- [3 AI Terms That Could Make or Break Your Next Interview](https://medium.com/illumination/3-ai-terms-that-could-make-or-break-your-next-interview-50182afd8d68?source=rss------programming-5) (2026-08-31)
+- [Designing Cryptographic Verification Pipelines for Fork-Driven Updates](https://medium.com/@codingguy/designing-cryptographic-verification-pipelines-for-fork-driven-updates-f7ad280d2b91?source=rss------programming-5) (2026-08-31)
+- [Instant Navigations in Next.js 16.3: The Feature That Makes Server Components Feel Like a SPA](https://medium.com/@sanjeevanibhandari3/instant-navigations-in-next-js-16-3-the-feature-that-makes-server-components-feel-like-a-spa-71b1321b3a8d?source=rss------programming-5) (2026-08-31)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [MiniMax H3 and H3 Max are 50% off on AI Gateway](https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway) (2026-08-30)
 - [Hy4 Preview now available on AI Gateway](https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway) (2026-08-28)
 - [Build and deploy eve agents from the Vercel dashboard](https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard) (2026-08-28)
 - [Vercel CLI expands commands for DNS, domains, and projects](https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects) (2026-08-28)
 - [Run Claude Managed Agents with Chat SDK](https://vercel.com/changelog/claude-managed-agents-with-chat-sdk) (2026-08-28)
-- [Cursor is now available in the AI SDK harness layer](https://vercel.com/changelog/cursor-ai-sdk-harness-adapter) (2026-08-27)
 
 </details>
 
@@ -592,11 +592,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free AI Automation Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/08/free-ai-automation-courses-with-certificates/) (2026-08-30)
 - [10 Essential Agentic AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/08/basic-agentic-ai-concepts/) (2026-08-27)
 - [Mastering the AI Project Cycle: From Concept to Production](https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/) (2026-08-26)
 - [What is a Forward Deployed Engineer? Role, Skills & Salary](https://www.analyticsvidhya.com/blog/2026/08/what-is-a-forward-deployed-engineer/) (2026-08-25)
 - [How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/) (2026-08-24)
-- [Spec-Driven Development with Claude Code: Writing Bulletproof Specs](https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/) (2026-08-23)
 
 </details>
 
