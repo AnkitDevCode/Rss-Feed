@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/) (2026-09-01)
+- [Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/) (2026-09-01)
 - [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/) (2026-09-01)
 - [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) (2026-09-01)
 - [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/) (2026-08-31)
-- [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/) (2026-08-31)
-- [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo) (2026-09-01)
-- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) (2026-09-01)
-- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) (2026-08-31)
-- [Run macOS Software on Linux](https://www.darlinghq.org/) (2026-08-31)
-- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide) (2026-08-31)
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) (2026-09-01)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) (2026-09-01)
+- [NASA: Fill in a name, and you can have an exclusive coordinate in the universe](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/) (2026-09-01)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) (2026-09-01)
+- [Restroom Archive](https://restroomarchive.com) (2026-09-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [TP-Link’s first Wi-Fi 8 router is almost here](https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability) (2026-09-01)
+- [John Ternus is now the CEO of Apple](https://www.theverge.com/tech/987150/apple-ceo-john-ternus) (2026-09-01)
+- [Dyson made a camera-equipped toothbrush that flosses for you](https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability) (2026-09-01)
 - [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase) (2026-08-31)
 - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs) (2026-08-31)
-- [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit) (2026-08-31)
-- [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game) (2026-08-31)
-- [Alienware’s budget-friendly QD-OLED is discounted for the first time](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale) (2026-08-31)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) (2026-09-01)
 - [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
 - [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) (2026-08-28)
 - [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) (2026-08-28)
 - [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) (2026-08-27)
-- [The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/) (2026-08-27)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/) (2026-09-01)
 - [When you keep AI Lean, you keep AI correct ](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/) (2026-08-28)
 - [Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/) (2026-08-25)
 - [Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/) (2026-08-24)
 - [Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/) (2026-08-21)
-- [Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Image Format Conversion vs Compression Explained (for FastAPI Promo Video Pipelines)](https://dev.to/silhouette72591483/image-format-conversion-vs-compression-explained-for-fastapi-promo-video-pipelines-571d) (2026-09-01)
-- [ChatGPT Work vs Chat: What OpenAI's New Agent Mode Actually Adds, and Whether It Is Safe](https://dev.to/jamilxt/chatgpt-work-vs-chat-what-openais-new-agent-mode-actually-adds-and-whether-it-is-safe-18hm) (2026-09-01)
-- [Anthropic’s Hacker-Opus Simulation Shows Why AI Agents Need Strong Containment](https://dev.to/alifar/anthropics-hacker-opus-simulation-shows-why-ai-agents-need-strong-containment-59d7) (2026-09-01)
-- [Choosing an Unreleased API Over the One Already There](https://dev.to/megapixel99/choosing-an-unreleased-api-over-the-one-already-there-4h45) (2026-09-01)
-- [Next.js Best Practices in 2026: Why I Built Next-Elite](https://dev.to/salmanshahriar/nextjs-best-practices-in-2026-why-i-built-next-elite-24km) (2026-09-01)
+- [I built an AI PCB designer. The routing engine has no AI in it, here's why.](https://dev.to/dibyaprakash_pradhan/i-built-an-ai-pcb-designer-the-routing-engine-has-no-ai-in-it-heres-why-2ac5) (2026-09-01)
+- [Parsing SEC ownership filings (Form 4 / 13F) is awful. Here is what we learned building a normalized API for it.](https://dev.to/estrechoia/parsing-sec-ownership-filings-form-4-13f-is-awful-here-is-what-we-learned-building-a-3npp) (2026-09-01)
+- [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc) (2026-09-01)
+- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766) (2026-09-01)
+- [I Started Building an AI Action Safety Layer After Watching AI Agents Cross the Line](https://dev.to/seanchen/i-started-building-an-ai-action-safety-layer-after-watching-ai-agents-cross-the-line-4gh9) (2026-09-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Agent Resumed Exactly Where It Stopped. The Side Effect Ran Twice.](https://ai.plainenglish.io/the-agent-resumed-exactly-where-it-stopped-the-side-effect-ran-twice-17f08f8748e1?source=rss------programming-5) (2026-09-01)
-- [“Act as a Senior Developer” Is the Worst Prompt You Can Write.](https://medium.com/@nagatomopedro05/act-as-a-senior-developer-is-the-worst-prompt-you-can-write-9f1577493cd3?source=rss------programming-5) (2026-09-01)
-- [SOLID: The Grammar of Good Software Design](https://levelup.gitconnected.com/solid-the-grammar-of-good-software-design-bad9f130e0b7?source=rss------programming-5) (2026-09-01)
-- [Shadows Now Work On iGPU: Univah Pro Update](https://medium.com/@smsoftware/shadows-now-work-on-igpu-univah-pro-update-9d59ffa5075d?source=rss------programming-5) (2026-09-01)
-- [Do You Really Need Microservices?](https://medium.com/@shankarpoudel441_62905/do-you-really-need-microservices-3e70585c89de?source=rss------programming-5) (2026-09-01)
+- [One-shot is the word that deletes the hard half](https://medium.com/autocomplete-real-world-ai/one-shot-is-the-word-that-deletes-the-hard-half-7a0044ab0dd0?source=rss------programming-5) (2026-09-01)
+- [Claude Code virou o líder absoluto: o que a pesquisa JetBrains de 15 mil desenvolvedores revela](https://medium.com/@alexsandropimenta/claude-code-virou-o-l%C3%ADder-absoluto-o-que-a-pesquisa-jetbrains-de-15-mil-desenvolvedores-revela-05372ca0e297?source=rss------programming-5) (2026-09-01)
+- [Packages in Java: A Complete Guide with Examples](https://medium.com/@rachitalmora/packages-in-java-a-complete-guide-with-examples-73ca9e3c3a07?source=rss------programming-5) (2026-09-01)
+- [5 Million Users. $60,982 a Year. Declined $10 Million Foundation in 28 Hours.](https://canartuc.medium.com/5-million-users-60-982-a-year-declined-10-million-foundation-in-28-hours-4b966832eeb1?source=rss------programming-5) (2026-09-01)
+- [Most Developers Fix Bugs Backward. Here’s What Seniors Do Instead](https://medium.com/skillstuff/most-developers-fix-bugs-backward-heres-what-seniors-do-instead-b18c7aa9af93?source=rss------programming-5) (2026-09-01)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Ensuring Code Compliance in Public Sector Software Projects](https://blog.jetbrains.com/qodana/2026/09/ensuring-code-compliance/) (2026-09-01)
+- [Authenticating TeamCity Builds to External Services With OIDC](https://blog.jetbrains.com/teamcity/2026/09/authenticating-teamcity-builds-with-oidc/) (2026-09-01)
 - [Fine-Tuning SOTA Object Detection Models on Real-World Datasets](https://blog.jetbrains.com/pycharm/2026/08/fine-tuning-sota-object-detection-models-on-real-world-datasets/) (2026-08-31)
 - [From Leaderboards to Model Profiles: A Deep Dive Evaluation of LLMs for Agentic Coding ](https://blog.jetbrains.com/junie/2026/08/from-leaderboards-to-profiles/) (2026-08-31)
 - [Sunsetting of the JetBrains Teacher Pack for Bootcamps](https://blog.jetbrains.com/education/2026/08/31/sunsetting-of-the-jetbrains-teacher-pack-for-bootcamps/) (2026-08-31)
-- [The State of Django 2026: Boring is so back](https://blog.jetbrains.com/pycharm/2026/08/the-state-of-django-2026-boring-is-so-back/) (2026-08-28)
-- [Security Incident Affecting JetBrains Cadence](https://blog.jetbrains.com/pycharm/2026/08/cadence-security-incident-august-2026/) (2026-08-28)
 
 </details>
 
@@ -384,16 +384,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
-) (2026-08-31)
-- [
-How to Confirm Phone Number Ownership with Lookup Identity Match in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php
-) (2026-08-31)
-- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
@@ -408,6 +398,16 @@ How to Confirm Phone Number Ownership with Lookup Identity Match in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
 ) (2026-08-28)
+- [
+Why 78% of customers try to bypass your AI agent
+](
+https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
+) (2026-08-28)
+- [
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
+) (2026-08-27)
 
 </details>
 
@@ -581,22 +581,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-num
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [5 AI Skills That Will Keep Data Scientists Relevant in 2027](https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/) (2026-09-01)
 - [Your LLM Can Return Perfect JSON and Still Be Wrong](https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/) (2026-08-31)
 - [FAQ as RAG: When You Get to Design the Corpus](https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/) (2026-08-31)
 - [Why RAG Complexity Should Be Earned](https://towardsdatascience.com/why-rag-complexity-should-be-earned/) (2026-08-31)
 - [AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production](https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/) (2026-08-31)
-- [8 Tips for Writing Effective Agent Instructions](https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/) (2026-08-30)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Best Local LLMs You Can Run on a Mac mini in 2026](https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/) (2026-09-01)
 - [Top 7 Free AI Automation Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/08/free-ai-automation-courses-with-certificates/) (2026-08-30)
 - [10 Essential Agentic AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/08/basic-agentic-ai-concepts/) (2026-08-27)
 - [Mastering the AI Project Cycle: From Concept to Production](https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/) (2026-08-26)
 - [What is a Forward Deployed Engineer? Role, Skills & Salary](https://www.analyticsvidhya.com/blog/2026/08/what-is-a-forward-deployed-engineer/) (2026-08-25)
-- [How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model](https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/) (2026-08-24)
 
 </details>
 
