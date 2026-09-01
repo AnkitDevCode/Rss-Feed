@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [GoPro to be acquired for $285M, will remain a public company](https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/) (2026-09-01)
-- [Amazon Alexa can now alert you when something new might tempt you to shop](https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/) (2026-09-01)
-- [AIR raises $50M to help companies vet the skills and add-ons AI agents use](https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/) (2026-09-01)
-- [Microsoft 365 outage drags on, but things are improving](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/) (2026-09-01)
-- [Fambot introduces an ‘AI chief of staff’ for families](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/) (2026-09-01)
+- [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/) (2026-09-01)
+- [Anthropic’s new Fable release is cheaper, less restrictive](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/) (2026-09-01)
+- [Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/) (2026-09-01)
+- [Who is John Ternus, the new Apple CEO?](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/) (2026-09-01)
+- [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/) (2026-09-01)
-- [Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10](https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/) (2026-09-01)
-- [EFF to Governor Newsom: Veto California's AB 1709](https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709) (2026-09-01)
-- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) (2026-09-01)
-- [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-09-01)
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) (2026-09-01)
+- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) (2026-09-01)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) (2026-09-01)
+- [There Is No AI](https://wadler.blogspot.com/2026/08/there-is-no-ai.html) (2026-09-01)
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) (2026-09-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Shelly’s new $50 security camera watches your home without a subscription](https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation) (2026-09-01)
-- [Sonos introduces new headphones, soundbar, and software in its biggest announcement in years](https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement) (2026-09-01)
-- [Tim Cook’s legacy isn’t just phones, it’s politics](https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi) (2026-09-01)
-- [John Ternus takes over as Apple&#8217;s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook) (2026-09-01)
-- [Florida blocks Flock cams on state highways](https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways) (2026-09-01)
+- [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen) (2026-09-01)
+- [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy) (2026-09-01)
+- [The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack) (2026-09-01)
+- [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo) (2026-09-01)
+- [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit) (2026-09-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Without new landers or rovers, it's helicopters or bust for NASA's Mars program](https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/) (2026-09-01)
-- [Private group wants to launch "cheapest possible" mission to Alpha Centauri](https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/) (2026-09-01)
-- [The Bentley Supersports: A stripped-out engineer's indulgence](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/) (2026-08-31)
-- [Trump admin shelves Cyclospora research despite record-breaking outbreak](https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/) (2026-08-31)
-- [Get in on the Ars community that doesn’t fit beneath an article](https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/) (2026-08-31)
+- [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/) (2026-09-01)
+- [New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official](https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/) (2026-09-01)
+- [FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions](https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/) (2026-09-01)
+- [This is what a supercar was like a century ago](https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/) (2026-09-01)
+- [It turns out that Orion's much-maligned heat shield performed really well](https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/) (2026-09-01)
 - [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) (2026-09-01)
 - [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/) (2026-09-01)
 - [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) (2026-09-01)
 - [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
-- [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) (2026-08-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Web Page Can Tell Which Extensions You Have Installed. Here Is How.](https://dev.to/session_replay/a-web-page-can-tell-which-extensions-you-have-installed-here-is-how-553d) (2026-09-01)
-- [Zstandard einfach erklärt in 2 Episoden — Episode 1](https://dev.to/atec-systems/zstandard-einfach-erklart-in-2-episoden-episode-1-k29) (2026-09-01)
-- [An AI Agent Breached Hugging Face. The Attack Playbook Was Older Than the Attacker](https://dev.to/gitguardian/an-ai-agent-breached-hugging-face-the-attack-playbook-was-older-than-the-attacker-28dg) (2026-09-01)
-- [How an Abandoned Client Project Became My Proudest Showcase](https://dev.to/kate8382/how-an-abandoned-client-project-became-my-proudest-showcase-3icj) (2026-09-01)
-- [🤿 Diving Deep into Google SecOps: From Log Abyss to Automated Playbooks](https://dev.to/exegol/diving-deep-into-google-secops-from-log-abyss-to-automated-playbooks-23ac) (2026-09-01)
+- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j) (2026-09-01)
+- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf) (2026-09-01)
+- [Why Enterprise AI Fails: The Hidden Trap of Pure Probabilistic LLMs and the Rise of Neuro-Symbolic Architecture](https://dev.to/programmingcentral/why-enterprise-ai-fails-the-hidden-trap-of-pure-probabilistic-llms-and-the-rise-of-neuro-symbolic-40p3) (2026-09-01)
+- [Codex with ChatGPT Splits Planning From Execution](https://dev.to/dd8888/codex-with-chatgpt-splits-planning-from-execution-3bp2) (2026-09-01)
+- [Running the whole company on AI: the big picture](https://dev.to/uehara/running-the-whole-company-on-ai-the-big-picture-49m8) (2026-09-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code 2.0, The Revamp It Needed! And Higher Limits?? No Not Really..](https://medium.com/the-ai-brief/claude-code-2-0-the-revamp-it-needed-and-higher-limits-no-not-really-722c8be202d0?source=rss------programming-5) (2026-09-01)
-- [Sync vs Async Architecture: The Decision That Changes How Your System Fails](https://medium.com/javarevisited/sync-vs-async-architecture-the-decision-that-changes-how-your-system-fails-49e77198da56?source=rss------programming-5) (2026-09-01)
-- [Redis vs Database Caching: The Architecture Decision That Creates Your Next Consistency Bug](https://blog.stackademic.com/redis-vs-database-caching-the-architecture-decision-that-creates-your-next-consistency-bug-d5e6d459add1?source=rss------programming-5) (2026-09-01)
-- [Future-Proof Your Business: A Practical IT Modernization Strategy for Forward-Thinking Leaders](https://medium.com/@sahilsinha1505/future-proof-your-business-a-practical-it-modernization-strategy-for-forward-thinking-leaders-bb3946b39bd7?source=rss------programming-5) (2026-09-01)
-- [I have never once checked whether my Claude Code skills actually run](https://medium.com/@fullExpert/i-have-never-once-checked-whether-my-claude-code-skills-actually-run-4e8832919132?source=rss------programming-5) (2026-09-01)
+- [LangChain Just Made Frontier-Style Deep Agents Open Source](https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss------programming-5) (2026-09-01)
+- [I will do extremely modern minimalist and luxury business logo design](https://globalbrandcraft.medium.com/i-will-do-extremely-modern-minimalist-and-luxury-business-logo-design-60dcda4d8e42?source=rss------programming-5) (2026-09-01)
+- [The People Who Fix Everything Usually Pay for It](https://medium.com/loop-of-thought/the-people-who-fix-everything-usually-pay-for-it-c9b58959bb7c?source=rss------programming-5) (2026-09-01)
+- [System Design Interview: How Do You Make Sure a Payment API Never Charges a Customer Twice?](https://medium.com/@tihomir.manushev/system-design-interview-how-do-you-make-sure-a-payment-api-never-charges-a-customer-twice-fee5489a05cb?source=rss------programming-5) (2026-09-01)
+- [Why List Your App or Startup on Upsyte?](https://medium.com/@ccizeex/why-list-your-app-or-startup-on-upsyte-aa6528bece61?source=rss------programming-5) (2026-09-01)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Upcoming changes to Rosetta support for Intel-based macOS apps](https://developer.apple.com/news/?id=w5ngl9k2) (2026-09-01)
+- [“The impact was the biggest surprise“: Swiggy’s transition to native pays off](https://developer.apple.com/news/?id=o5spbekm) (2026-09-01)
 - [Tax and price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=artln8br) (2026-08-27)
 - [Surprise and shine](https://developer.apple.com/news/?id=s6spdug0) (2026-08-26)
 - [Update: New domain for Sign in with Apple](https://developer.apple.com/news/?id=1ptvdtcm) (2026-08-24)
-- [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp) (2026-08-18)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=0cgo95n6) (2026-08-18)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Compute that takes any shape](https://vercel.com/blog/fluid-compute-takes-any-shape) (2026-09-01)
+- [Claude Fable 5.1 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway) (2026-09-01)
 - [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise) (2026-09-01)
 - [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter) (2026-08-31)
 - [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway) (2026-08-31)
-- [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md) (2026-08-31)
-- [Vercel Sandbox now calculates snapshot storage costs daily](https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily) (2026-08-31)
 
 </details>
 
@@ -383,11 +383,6 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
-- [
-How to disclose AI to customers without killing the conversation
-](
-https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
-) (2026-09-01)
 - [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
 ](
@@ -408,18 +403,23 @@ How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Ver
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
 ) (2026-08-31)
+- [
+How to Confirm Phone Number Ownership with Lookup Identity Match in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php
+) (2026-08-31)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [How to Make Your AI Agent Enterprise-Ready: Enabling Enterprise-Managed Authorization for Client Apps in Auth0
+](https://auth0.com/blog/enabling-enterprise-managed-authorization-for-client-apps/) (2026-09-01)
 - [Securing Agentic Commerce](https://auth0.com/blog/securing-agentic-commerce/) (2026-08-31)
 - [Type-Safe Authentication in Rust with Auth0 and Axum](https://auth0.com/blog/type-safe-authentication-rust-auth0-axum/) (2026-08-31)
 - [Migrating to Auth0 for Startups from Another Auth Solution
 ](https://auth0.com/blog/migrating-to-auth0-for-startups/) (2026-08-26)
-- [Auth0, Made for Whatever You Are Building
-](https://auth0.com/blog/auth0-made-for-what-you-are-building/) (2026-08-25)
 - [Whatever You Are Building, Auth0 Has a Plan ](https://auth0.com/blog/whatever-you-are-building-auth0-has-a-plan/) (2026-08-25)
 
 </details>
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [The 10 best SEO audit tools in 2026](https://zapier.com/blog/best-seo-audit-tools) (2026-09-01)
+- [The 5 best journal apps in 2026](https://zapier.com/blog/best-journaling-apps) (2026-09-01)
+- [ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)](https://zapier.com/blog/automate-chatgpt) (2026-09-01)
 - [The 6 best Hootsuite alternatives in 2026](https://zapier.com/blog/hootsuite-alternatives) (2026-09-01)
+- [The 10 best SEO audit tools in 2026](https://zapier.com/blog/best-seo-audit-tools) (2026-09-01)
 - [How to find an email address: 6 methods](https://zapier.com/blog/find-email-address) (2026-08-31)
-- [How to train ChatGPT to write like you](https://zapier.com/blog/train-chatgpt-to-write-like-you) (2026-08-31)
-- [What is HubSpot—and what does it do?](https://zapier.com/blog/what-is-hubspot) (2026-08-27)
 
 </details>
 
@@ -636,11 +636,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/) (2026-09-01)
 - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) (2026-08-27)
 - [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/) (2026-08-27)
 - [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/) (2026-08-26)
 - [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/) (2026-08-21)
-- [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/) (2026-08-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
