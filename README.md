@@ -9,51 +9,51 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/) (2026-09-01)
+- [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) (2026-09-01)
+- [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/) (2026-08-31)
+- [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/) (2026-08-31)
 - [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/) (2026-08-31)
-- [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/) (2026-08-31)
-- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) (2026-08-31)
-- [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/) (2026-08-31)
-- [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails) (2026-08-31)
-- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) (2026-08-31)
-- [Autonomous (YC F25) Is Hiring Engineers](https://news.ycombinator.com/item?id=49514781) (2026-08-31)
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) (2026-08-31)
-- [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html) (2026-08-31)
+- [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo) (2026-09-01)
+- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) (2026-09-01)
+- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) (2026-08-31)
+- [Run macOS Software on Linux](https://www.darlinghq.org/) (2026-08-31)
+- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide) (2026-08-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase) (2026-08-31)
+- [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs) (2026-08-31)
+- [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit) (2026-08-31)
+- [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game) (2026-08-31)
 - [Alienware’s budget-friendly QD-OLED is discounted for the first time](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale) (2026-08-31)
-- [Car owners want tech they can ignore](https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition) (2026-08-31)
-- [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down) (2026-08-31)
-- [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor) (2026-08-31)
-- [Read Tim Cook&#8217;s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff) (2026-08-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The Bentley Supersports: A stripped-out engineer's indulgence](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/) (2026-08-31)
+- [Trump admin shelves Cyclospora research despite record-breaking outbreak](https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/) (2026-08-31)
+- [Get in on the Ars community that doesn’t fit beneath an article](https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/) (2026-08-31)
 - [Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes](https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/) (2026-08-31)
 - [Trump tells FCC to punish journalist for calling his election results "mixed"](https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/) (2026-08-31)
-- [“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit](https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/) (2026-08-31)
-- [Raindrops are tiny lightning bolts, and they’re corroding cars, study finds](https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/) (2026-08-31)
-- [Think twice before installing this device promising free movies](https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
+- [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
 - [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) (2026-08-28)
 - [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) (2026-08-28)
 - [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) (2026-08-27)
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Six tests that passed for the wrong reason](https://dev.to/chen0/six-tests-that-passed-for-the-wrong-reason-3bf0) (2026-08-31)
-- [Why more context makes your AI answers worse](https://dev.to/vladut02/why-more-context-makes-your-ai-answers-worse-2mnd) (2026-08-31)
-- [Shipping a Three.js Game to the iOS App Store](https://dev.to/raxxostudios/shipping-a-threejs-game-to-the-ios-app-store-31e1) (2026-08-31)
-- [Building EventMocha: An Autonomous Multi-Agent Assistant with Google ADK, Gemini Live Voice, and Workspace Automation](https://dev.to/karthikvrao/building-eventmocha-an-autonomous-multi-agent-assistant-with-google-adk-gemini-live-voice-and-1bei) (2026-08-31)
-- [The Delegation Boundary: Why AI SEO Workflows Need Clear Permission Limits](https://dev.to/alifar/the-delegation-boundary-why-ai-seo-workflows-need-clear-permission-limits-4g3i) (2026-08-31)
+- [Image Format Conversion vs Compression Explained (for FastAPI Promo Video Pipelines)](https://dev.to/silhouette72591483/image-format-conversion-vs-compression-explained-for-fastapi-promo-video-pipelines-571d) (2026-09-01)
+- [ChatGPT Work vs Chat: What OpenAI's New Agent Mode Actually Adds, and Whether It Is Safe](https://dev.to/jamilxt/chatgpt-work-vs-chat-what-openais-new-agent-mode-actually-adds-and-whether-it-is-safe-18hm) (2026-09-01)
+- [Anthropic’s Hacker-Opus Simulation Shows Why AI Agents Need Strong Containment](https://dev.to/alifar/anthropics-hacker-opus-simulation-shows-why-ai-agents-need-strong-containment-59d7) (2026-09-01)
+- [Choosing an Unreleased API Over the One Already There](https://dev.to/megapixel99/choosing-an-unreleased-api-over-the-one-already-there-4h45) (2026-09-01)
+- [Next.js Best Practices in 2026: Why I Built Next-Elite](https://dev.to/salmanshahriar/nextjs-best-practices-in-2026-why-i-built-next-elite-24km) (2026-09-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Solved the System Design Question. I Failed the Rollback Question.](https://blog.stackademic.com/i-solved-the-system-design-question-i-failed-the-rollback-question-d036ed9bb3b6?source=rss------programming-5) (2026-08-31)
-- [The Same C++ Struct Is 24 Bytes on Linux and 12 on Windows](https://medium.com/@sauravm14/the-same-c-struct-is-24-bytes-on-linux-and-12-on-windows-742d146bde8f?source=rss------programming-5) (2026-08-31)
-- [I Added Retries, Caching, and Autoscaling. Each One Made the Outage Worse.](https://blog.stackademic.com/i-added-retries-caching-and-autoscaling-each-one-made-the-outage-worse-8af9591d4d5f?source=rss------programming-5) (2026-08-31)
-- [The Payment Succeeded. The Order Never Existed. Now Design the Recovery.](https://blog.stackademic.com/the-payment-succeeded-the-order-never-existed-now-design-the-recovery-3d71636cbb7f?source=rss------programming-5) (2026-08-31)
-- [React useState: The Secrets Pro Teams Use (That Most People Skip)](https://medium.com/@contato.blense/react-usestate-the-secrets-pro-teams-use-that-most-people-skip-4f7dfe98038f?source=rss------programming-5) (2026-08-31)
+- [The Agent Resumed Exactly Where It Stopped. The Side Effect Ran Twice.](https://ai.plainenglish.io/the-agent-resumed-exactly-where-it-stopped-the-side-effect-ran-twice-17f08f8748e1?source=rss------programming-5) (2026-09-01)
+- [“Act as a Senior Developer” Is the Worst Prompt You Can Write.](https://medium.com/@nagatomopedro05/act-as-a-senior-developer-is-the-worst-prompt-you-can-write-9f1577493cd3?source=rss------programming-5) (2026-09-01)
+- [SOLID: The Grammar of Good Software Design](https://levelup.gitconnected.com/solid-the-grammar-of-good-software-design-bad9f130e0b7?source=rss------programming-5) (2026-09-01)
+- [Shadows Now Work On iGPU: Univah Pro Update](https://medium.com/@smsoftware/shadows-now-work-on-igpu-univah-pro-update-9d59ffa5075d?source=rss------programming-5) (2026-09-01)
+- [Do You Really Need Microservices?](https://medium.com/@shankarpoudel441_62905/do-you-really-need-microservices-3e70585c89de?source=rss------programming-5) (2026-09-01)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (2026-08-31)
 - [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) (2026-08-28)
 - [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (2026-08-27)
 - [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/) (2026-08-26)
 - [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) (2026-08-11)
-- [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) (2026-08-03)
 
 </details>
 
@@ -267,6 +267,17 @@
 - [How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond) (2026-07-20)
 - [How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
 - [How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security) (2026-06-12)
+
+</details>
+
+<details>
+<summary>🛒 Shopify Engineering</summary>
+
+- [Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost](https://shopify.engineering/gisting) (2026-08-19)
+- [How we raised mobile end-to-end test stability to 98%](https://shopify.engineering/mobile-e2e-testing) (2026-08-12)
+- [Sidekick's continual learning loop](https://shopify.engineering/sidekicks-continual-learning-loop) (2026-08-05)
+- [Building an agentic harness that outlasts the model](https://shopify.engineering/building-an-agentic-harness-that-outlasts-the-model) (2026-07-29)
+- [Upgrading Checkout Blocks app to Polaris web components](https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components) (2026-07-16)
 
 </details>
 
@@ -350,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter) (2026-08-31)
 - [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway) (2026-08-31)
 - [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md) (2026-08-31)
 - [Vercel Sandbox now calculates snapshot storage costs daily](https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily) (2026-08-31)
 - [MiniMax H3 and H3 Max are 50% off on AI Gateway](https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway) (2026-08-30)
-- [Hy4 Preview now available on AI Gateway](https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway) (2026-08-28)
 
 </details>
 
@@ -378,6 +389,11 @@ How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Ver
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
 ) (2026-08-31)
 - [
+How to Confirm Phone Number Ownership with Lookup Identity Match in PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php
+) (2026-08-31)
+- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
@@ -391,11 +407,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 How to Confirm Phone Number Ownership with Lookup Identity Match in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
-) (2026-08-28)
-- [
-Why 78% of customers try to bypass your AI agent
-](
-https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
 ) (2026-08-28)
 
 </details>
@@ -465,6 +476,17 @@ https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
+
+</details>
+
+<details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
+- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
+- [Graph Health Checks, Now a Prompt Away](https://www.apollographql.com/blog/graph-health-checks-now-a-prompt-away) (2026-07-21)
 
 </details>
 
@@ -553,17 +575,6 @@ https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [A quarter of Nvidia’s business next year comes from labs it is financing](https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/) (2026-08-27)
-- [Gatik raises $200M to scale AI-powered autonomous freight](https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/) (2026-08-26)
-- [NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots](https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/) (2026-08-26)
-- [MIT AI forecasts extreme weather without historical data](https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/) (2026-08-25)
-- [XPENG IRON humanoid robot draws record physical AI funding](https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/) (2026-08-24)
 
 </details>
 
