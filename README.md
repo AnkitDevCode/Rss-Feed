@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/) (2026-09-01)
-- [Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/) (2026-09-01)
-- [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/) (2026-09-01)
-- [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) (2026-09-01)
-- [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/) (2026-08-31)
+- [GoPro to be acquired for $285M, will remain a public company](https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/) (2026-09-01)
+- [Amazon Alexa can now alert you when something new might tempt you to shop](https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/) (2026-09-01)
+- [AIR raises $50M to help companies vet the skills and add-ons AI agents use](https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/) (2026-09-01)
+- [Microsoft 365 outage drags on, but things are improving](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/) (2026-09-01)
+- [Fambot introduces an ‘AI chief of staff’ for families](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) (2026-09-01)
-- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) (2026-09-01)
-- [NASA: Fill in a name, and you can have an exclusive coordinate in the universe](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/) (2026-09-01)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) (2026-09-01)
-- [Restroom Archive](https://restroomarchive.com) (2026-09-01)
+- [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/) (2026-09-01)
+- [Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10](https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/) (2026-09-01)
+- [EFF to Governor Newsom: Veto California's AB 1709](https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709) (2026-09-01)
+- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) (2026-09-01)
+- [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026) (2026-09-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TP-Link’s first Wi-Fi 8 router is almost here](https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability) (2026-09-01)
-- [John Ternus is now the CEO of Apple](https://www.theverge.com/tech/987150/apple-ceo-john-ternus) (2026-09-01)
-- [Dyson made a camera-equipped toothbrush that flosses for you](https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability) (2026-09-01)
-- [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase) (2026-08-31)
-- [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs) (2026-08-31)
+- [Shelly’s new $50 security camera watches your home without a subscription](https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation) (2026-09-01)
+- [Sonos introduces new headphones, soundbar, and software in its biggest announcement in years](https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement) (2026-09-01)
+- [Tim Cook’s legacy isn’t just phones, it’s politics](https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi) (2026-09-01)
+- [John Ternus takes over as Apple&#8217;s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook) (2026-09-01)
+- [Florida blocks Flock cams on state highways](https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways) (2026-09-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Without new landers or rovers, it's helicopters or bust for NASA's Mars program](https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/) (2026-09-01)
+- [Private group wants to launch "cheapest possible" mission to Alpha Centauri](https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/) (2026-09-01)
 - [The Bentley Supersports: A stripped-out engineer's indulgence](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/) (2026-08-31)
 - [Trump admin shelves Cyclospora research despite record-breaking outbreak](https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/) (2026-08-31)
 - [Get in on the Ars community that doesn’t fit beneath an article](https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/) (2026-08-31)
-- [Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes](https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/) (2026-08-31)
-- [Trump tells FCC to punish journalist for calling his election results "mixed"](https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) (2026-09-01)
+- [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/) (2026-09-01)
 - [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) (2026-09-01)
 - [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
 - [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) (2026-08-28)
-- [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) (2026-08-28)
-- [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) (2026-08-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built an AI PCB designer. The routing engine has no AI in it, here's why.](https://dev.to/dibyaprakash_pradhan/i-built-an-ai-pcb-designer-the-routing-engine-has-no-ai-in-it-heres-why-2ac5) (2026-09-01)
-- [Parsing SEC ownership filings (Form 4 / 13F) is awful. Here is what we learned building a normalized API for it.](https://dev.to/estrechoia/parsing-sec-ownership-filings-form-4-13f-is-awful-here-is-what-we-learned-building-a-3npp) (2026-09-01)
-- [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc) (2026-09-01)
-- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766) (2026-09-01)
-- [I Started Building an AI Action Safety Layer After Watching AI Agents Cross the Line](https://dev.to/seanchen/i-started-building-an-ai-action-safety-layer-after-watching-ai-agents-cross-the-line-4gh9) (2026-09-01)
+- [A Web Page Can Tell Which Extensions You Have Installed. Here Is How.](https://dev.to/session_replay/a-web-page-can-tell-which-extensions-you-have-installed-here-is-how-553d) (2026-09-01)
+- [Zstandard einfach erklärt in 2 Episoden — Episode 1](https://dev.to/atec-systems/zstandard-einfach-erklart-in-2-episoden-episode-1-k29) (2026-09-01)
+- [An AI Agent Breached Hugging Face. The Attack Playbook Was Older Than the Attacker](https://dev.to/gitguardian/an-ai-agent-breached-hugging-face-the-attack-playbook-was-older-than-the-attacker-28dg) (2026-09-01)
+- [How an Abandoned Client Project Became My Proudest Showcase](https://dev.to/kate8382/how-an-abandoned-client-project-became-my-proudest-showcase-3icj) (2026-09-01)
+- [🤿 Diving Deep into Google SecOps: From Log Abyss to Automated Playbooks](https://dev.to/exegol/diving-deep-into-google-secops-from-log-abyss-to-automated-playbooks-23ac) (2026-09-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [One-shot is the word that deletes the hard half](https://medium.com/autocomplete-real-world-ai/one-shot-is-the-word-that-deletes-the-hard-half-7a0044ab0dd0?source=rss------programming-5) (2026-09-01)
-- [Claude Code virou o líder absoluto: o que a pesquisa JetBrains de 15 mil desenvolvedores revela](https://medium.com/@alexsandropimenta/claude-code-virou-o-l%C3%ADder-absoluto-o-que-a-pesquisa-jetbrains-de-15-mil-desenvolvedores-revela-05372ca0e297?source=rss------programming-5) (2026-09-01)
-- [Packages in Java: A Complete Guide with Examples](https://medium.com/@rachitalmora/packages-in-java-a-complete-guide-with-examples-73ca9e3c3a07?source=rss------programming-5) (2026-09-01)
-- [5 Million Users. $60,982 a Year. Declined $10 Million Foundation in 28 Hours.](https://canartuc.medium.com/5-million-users-60-982-a-year-declined-10-million-foundation-in-28-hours-4b966832eeb1?source=rss------programming-5) (2026-09-01)
-- [Most Developers Fix Bugs Backward. Here’s What Seniors Do Instead](https://medium.com/skillstuff/most-developers-fix-bugs-backward-heres-what-seniors-do-instead-b18c7aa9af93?source=rss------programming-5) (2026-09-01)
+- [Claude Code 2.0, The Revamp It Needed! And Higher Limits?? No Not Really..](https://medium.com/the-ai-brief/claude-code-2-0-the-revamp-it-needed-and-higher-limits-no-not-really-722c8be202d0?source=rss------programming-5) (2026-09-01)
+- [Sync vs Async Architecture: The Decision That Changes How Your System Fails](https://medium.com/javarevisited/sync-vs-async-architecture-the-decision-that-changes-how-your-system-fails-49e77198da56?source=rss------programming-5) (2026-09-01)
+- [Redis vs Database Caching: The Architecture Decision That Creates Your Next Consistency Bug](https://blog.stackademic.com/redis-vs-database-caching-the-architecture-decision-that-creates-your-next-consistency-bug-d5e6d459add1?source=rss------programming-5) (2026-09-01)
+- [Future-Proof Your Business: A Practical IT Modernization Strategy for Forward-Thinking Leaders](https://medium.com/@sahilsinha1505/future-proof-your-business-a-practical-it-modernization-strategy-for-forward-thinking-leaders-bb3946b39bd7?source=rss------programming-5) (2026-09-01)
+- [I have never once checked whether my Claude Code skills actually run](https://medium.com/@fullExpert/i-have-never-once-checked-whether-my-claude-code-skills-actually-run-4e8832919132?source=rss------programming-5) (2026-09-01)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
+- [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
 - [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
 - [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
 - [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2026-08-17)
-- [The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/) (2026-08-12)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Leverage Android skills and Gemma 4 in Android Studio Quail 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html) (2026-09-01)
 - [Emulator control for adaptive app development](https://android-developers.googleblog.com/2026/08/emulator-adaptive.html) (2026-08-31)
 - [How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys](https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html) (2026-08-27)
 - [Elevating app quality: Reducing memory usage and improving device migration](https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html) (2026-08-26)
 - [Ensuring Safety in the Generative AI Ecosystem: Protecting Users from Non-Consensual Intimate Content](https://android-developers.googleblog.com/2026/08/ensuring-safety-genai-preventing-non-consensual-intimate-content.html) (2026-08-25)
-- [AAOS SDV - Secure by Design](https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html) (2026-08-24)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Becoming an AI Team](https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss-ef81ef829bcb------2) (2026-09-01)
 - [Scaling Conditional Learned Retrieval for Pinterest Home Feed](https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss-ef81ef829bcb------2) (2026-08-26)
 - [Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest](https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss-ef81ef829bcb------2) (2026-07-27)
 - [Securing Infrastructure at Scale: Introducing Pinterest’s Resource Provisioner Pipeline (RPP)](https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss-ef81ef829bcb------2) (2026-07-22)
 - [Achieving Near-Linear Training Scalability for Pinterest’s Foundation Models](https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss-ef81ef829bcb------2) (2026-06-25)
-- [Automated Schema Evolution in Pinterest’s Next-Generation DB Ingestion Framework](https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss-ef81ef829bcb------2) (2026-06-24)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Grails Plugin Has a New Home: Apache Grails](https://blog.jetbrains.com/idea/2026/09/the-grails-plugin-has-a-new-home-apache-grails/) (2026-09-01)
 - [Ensuring Code Compliance in Public Sector Software Projects](https://blog.jetbrains.com/qodana/2026/09/ensuring-code-compliance/) (2026-09-01)
 - [Authenticating TeamCity Builds to External Services With OIDC](https://blog.jetbrains.com/teamcity/2026/09/authenticating-teamcity-builds-with-oidc/) (2026-09-01)
 - [Fine-Tuning SOTA Object Detection Models on Real-World Datasets](https://blog.jetbrains.com/pycharm/2026/08/fine-tuning-sota-object-detection-models-on-real-world-datasets/) (2026-08-31)
 - [From Leaderboards to Model Profiles: A Deep Dive Evaluation of LLMs for Agentic Coding ](https://blog.jetbrains.com/junie/2026/08/from-leaderboards-to-profiles/) (2026-08-31)
-- [Sunsetting of the JetBrains Teacher Pack for Bootcamps](https://blog.jetbrains.com/education/2026/08/31/sunsetting-of-the-jetbrains-teacher-pack-for-bootcamps/) (2026-08-31)
 
 </details>
 
@@ -361,22 +361,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise) (2026-09-01)
 - [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter) (2026-08-31)
 - [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway) (2026-08-31)
 - [How our agents build on-brand pages with design.md](https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md) (2026-08-31)
 - [Vercel Sandbox now calculates snapshot storage costs daily](https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily) (2026-08-31)
-- [MiniMax H3 and H3 Max are 50% off on AI Gateway](https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway) (2026-08-30)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [How we could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/) (2026-09-01)
 - [Introducing Adaptive Intelligence: Undermining the economics of every bot attack](https://blog.cloudflare.com/introducing-adaptive-intelligence/) (2026-08-31)
 - [BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents](https://blog.cloudflare.com/botbase-for-operators/) (2026-08-28)
 - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) (2026-08-27)
 - [The Cloudflare Blog — brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) (2026-08-24)
-- [Say it once: Introducing Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/) (2026-08-21)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in C#
+How to disclose AI to customers without killing the conversation
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-csharp
-) (2026-08-28)
+https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
+) (2026-09-01)
 - [
-How to Use Svelte and Go to Build a Video Chat App
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-svelte-go
-) (2026-08-28)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
+) (2026-08-31)
 - [
-How to Confirm Phone Number Ownership with Lookup Identity Match in Python
+Your customers don't hate AI — they hate you lying about it
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-python
-) (2026-08-28)
+https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
+) (2026-08-31)
 - [
-Why 78% of customers try to bypass your AI agent
+How to Confirm Phone Number Ownership with Lookup Identity Match
 ](
-https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents
-) (2026-08-28)
+https://www.twilio.com/en-us/blog/confirm-phone-number-ownership-lookup-identity-match
+) (2026-08-31)
 - [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in Python
+How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-python
-) (2026-08-27)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
+) (2026-08-31)
 
 </details>
 
@@ -438,11 +438,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) (2026-09-01)
 - [How one connection kills a database](https://planetscale.com/blog/debugging-live-database-connections) (2026-08-31)
 - [Problems with large tables in Postgres](https://planetscale.com/blog/dealing-with-large-tables-in-postgres) (2026-08-25)
 - [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) (2026-08-24)
 - [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools) (2026-08-18)
-- [What is a data topology?](https://planetscale.com/blog/what-is-a-data-topology) (2026-08-17)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The 10 best SEO audit tools in 2026](https://zapier.com/blog/best-seo-audit-tools) (2026-09-01)
+- [The 6 best Hootsuite alternatives in 2026](https://zapier.com/blog/hootsuite-alternatives) (2026-09-01)
 - [How to find an email address: 6 methods](https://zapier.com/blog/find-email-address) (2026-08-31)
 - [How to train ChatGPT to write like you](https://zapier.com/blog/train-chatgpt-to-write-like-you) (2026-08-31)
 - [What is HubSpot—and what does it do?](https://zapier.com/blog/what-is-hubspot) (2026-08-27)
-- [What is Google AI Mode? How it works and how to use it](https://zapier.com/blog/google-ai-mode) (2026-08-27)
-- [How to transfer files from Dropbox to Google Drive: 4 methods](https://zapier.com/blog/migrate-from-dropbox-to-google-drive) (2026-08-27)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) (2026-09-01)
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) (2026-08-28)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (2026-08-26)
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 - [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
-- [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) (2026-08-25)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch](https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/) (2026-09-01)
+- [What We Miss About Missing Values](https://towardsdatascience.com/what-we-miss-about-missing-values/) (2026-09-01)
+- [Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks](https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/) (2026-09-01)
 - [5 AI Skills That Will Keep Data Scientists Relevant in 2027](https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/) (2026-09-01)
 - [Your LLM Can Return Perfect JSON and Still Be Wrong](https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/) (2026-08-31)
-- [FAQ as RAG: When You Get to Design the Corpus](https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/) (2026-08-31)
-- [Why RAG Complexity Should Be Earned](https://towardsdatascience.com/why-rag-complexity-should-be-earned/) (2026-08-31)
-- [AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production](https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/) (2026-08-31)
 
 </details>
 
@@ -603,22 +603,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Free Transcription with Speakr](https://www.kdnuggets.com/free-transcription-with-speakr) (2026-09-01)
+- [7 Common Python Mistakes to Avoid in AI Workflows](https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows) (2026-09-01)
 - [Speed Up LLM Inference with DSpark Speculative Decoding](https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding) (2026-08-31)
 - [7 Python Mistakes Beginners Make (And What to Do Instead)](https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead) (2026-08-31)
 - [The Local AI Stack for Productive SLMs](https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms) (2026-08-28)
-- [Quantization and Pruning Methods to Make Your LLM Leaner](https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner) (2026-08-28)
-- [What We Can Learn From Google Engineers’ Indispensible Prompts](https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts) (2026-08-27)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [3 Ways to Enhance Your AI Model’s Interpretability](https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/) (2026-09-01)
 - [Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline](https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/) (2026-08-31)
 - [Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces](https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/) (2026-08-28)
 - [Learn Vectorized Thinking in Python Through Examples](https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/) (2026-08-26)
 - [Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral](https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/) (2026-08-25)
-- [Integrating Agentic AI with Existing Machine Learning Pipelines](https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/) (2026-08-24)
 
 </details>
 
