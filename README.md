@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) (2026-09-01)
-- [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) (2026-09-01)
-- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) (2026-09-01)
-- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) (2026-09-01)
-- [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears) (2026-09-01)
+- [Telli (YC F24) is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/) (2026-09-02)
+- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/) (2026-09-02)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530) (2026-09-02)
+- [WebFPGA](https://webfpga.io/) (2026-09-02)
+- [True Rate of Unemployment](https://www.lisep.org/tru) (2026-09-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai) (2026-09-01)
-- [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) (2026-09-01)
-- [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming) (2026-09-01)
-- [Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750](https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale) (2026-09-01)
-- [OpenAI delayed its new model’s development after the Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay) (2026-09-01)
+- [Is this the future of America?](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash) (2026-09-02)
+- [Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs) (2026-09-02)
+- [Acer’s new concept hardware is a gaming handheld with a keyboard](https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa) (2026-09-02)
+- [Microsoft is enabling a Windows 11 security feature that can hurt gaming performance](https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026) (2026-09-02)
+- [Dell’s newest laptop sounds a lot like a MacBook Neo](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs) (2026-09-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Prototype to Production: Deploying an LLM App That Won't Collapse](https://dev.to/mryadavgulshan/from-prototype-to-production-deploying-an-llm-app-that-wont-collapse-4g4b) (2026-09-02)
-- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-49fp) (2026-09-02)
-- [Grant Miller (IBM) introduce Outcome Reviews in AI-era](https://dev.to/cognitalk/grant-miller-ibm-introduce-outcome-reviews-in-ai-era-2g5m) (2026-09-02)
-- [Google’s New AI Search Guidance Puts Unique Content at the Center of SEO Strategy](https://dev.to/alifar/googles-new-ai-search-guidance-puts-unique-content-at-the-center-of-seo-strategy-15ch) (2026-09-02)
-- [Your camera roll is part of your developer threat model](https://dev.to/dmytropolianskyi/your-camera-roll-is-part-of-your-developer-threat-model-2j2c) (2026-09-02)
+- [Give Your .NET REST API an AI Mouth: Adding MCP So Claude and Gemini Can Actually Use It](https://dev.to/karamkhoury88/give-your-net-rest-api-an-ai-mouth-adding-mcp-so-claude-and-gemini-can-actually-use-it-3fi4) (2026-09-02)
+- [AI Engineering for Flutter Developers - Production AI Engineering in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-production-ai-engineering-in-flutter-120i) (2026-09-02)
+- [A SQL escape is not a shell escape: OS command injection in GOautodial goAPIv2](https://dev.to/santosh_kumarpuppala_96e/a-sql-escape-is-not-a-shell-escape-os-command-injection-in-goautodial-goapiv2-3gj4) (2026-09-02)
+- [I got tired of having 5 different image tools open, so I built one that does everything](https://dev.to/akhourianmolkumar/i-got-tired-of-having-5-different-image-tools-open-so-i-built-one-that-does-everything-2d6d) (2026-09-02)
+- [The Best iLovePDF Alternatives (One of Them Never Touches Your Files)](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0) (2026-09-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Most Frequently Asked Scenario-Based Questions for Senior Java Developer Roles](https://medium.com/@anil-singh/most-frequently-asked-scenario-based-questions-for-senior-java-developer-roles-f4c38695329b?source=rss------programming-5) (2026-09-02)
-- [The 7 Levels of Learning a New Technology](https://pawannatekar220.medium.com/the-7-levels-of-learning-a-new-technology-ac962cc8aa91?source=rss------programming-5) (2026-09-02)
-- [The Night I Taught a Bunch of Docker Containers to Talk to Each Other](https://medium.com/@khalidpcm1/the-night-i-taught-a-bunch-of-docker-containers-to-talk-to-each-other-3134d882d54b?source=rss------programming-5) (2026-09-02)
-- [The Network Troubleshooting Playbook — Every Command, Every Scenario](https://medium.com/@prasantakumarroy1/the-network-troubleshooting-playbook-every-command-every-scenario-332dd4a389a2?source=rss------programming-5) (2026-09-02)
-- [The Complete Disaster Recovery Playbook — From Zero to Recovered](https://medium.com/@prasantakumarroy1/the-complete-disaster-recovery-playbook-from-zero-to-recovered-3c419386d614?source=rss------programming-5) (2026-09-02)
+- [You Added the Index. The Query Is Still Slow.](https://medium.com/@tiwarisaket3/you-added-the-index-the-query-is-still-slow-169cd4411249?source=rss------programming-5) (2026-09-02)
+- [A Practical Guide to Automated Crypto Trading Bots](https://medium.com/coinmonks/a-practical-guide-to-automated-crypto-trading-bots-2ab821d9c9ce?source=rss------programming-5) (2026-09-02)
+- [9 Habits of Senior Software Engineers That Junior Developers Usually Miss](https://medium.com/@sidshehria/9-habits-of-senior-software-engineers-that-junior-developers-usually-miss-1926f1b06a99?source=rss------programming-5) (2026-09-02)
+- [C# 15 Has Arrived: 7 Features .NET Developers Should Learn Before .NET 11](https://medium.com/@mohsho10/c-15-has-arrived-7-features-net-developers-should-learn-before-net-11-0ed3d1ab4cec?source=rss------programming-5) (2026-09-02)
+- [Application security : SAST vs. SCA vs. DAST](https://medium.com/@piyalidas.it/application-security-sast-vs-sca-vs-dast-e777f5a5ea74?source=rss------programming-5) (2026-09-02)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How to Handle Errors in Go](https://blog.jetbrains.com/go/2026/09/02/how-to-handle-errors-in-go/) (2026-09-02)
 - [The Grails Plugin Has a New Home: Apache Grails](https://blog.jetbrains.com/idea/2026/09/the-grails-plugin-has-a-new-home-apache-grails/) (2026-09-01)
 - [Ensuring Code Compliance in Public Sector Software Projects](https://blog.jetbrains.com/qodana/2026/09/ensuring-code-compliance/) (2026-09-01)
 - [Authenticating TeamCity Builds to External Services With OIDC](https://blog.jetbrains.com/teamcity/2026/09/authenticating-teamcity-builds-with-oidc/) (2026-09-01)
 - [Fine-Tuning SOTA Object Detection Models on Real-World Datasets](https://blog.jetbrains.com/pycharm/2026/08/fine-tuning-sota-object-detection-models-on-real-world-datasets/) (2026-08-31)
-- [From Leaderboards to Model Profiles: A Deep Dive Evaluation of LLMs for Agentic Coding ](https://blog.jetbrains.com/junie/2026/08/from-leaderboards-to-profiles/) (2026-08-31)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Compute that takes any shape](https://vercel.com/blog/fluid-compute-takes-any-shape) (2026-09-01)
+- [Qwen 3.8 Max 0902 now available on AI Gateway](https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway) (2026-09-01)
 - [Claude Fable 5.1 now available on AI Gateway](https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway) (2026-09-01)
 - [AWS PrivateLink is now available on Pro and Enterprise](https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise) (2026-09-01)
 - [fx is now available in the AI SDK harness layer](https://vercel.com/changelog/fx-ai-sdk-harness-adapter) (2026-08-31)
-- [Set per-user budgets on AI Gateway](https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway) (2026-08-31)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to disclose AI to customers without killing the conversation
+](
+https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
+) (2026-09-01)
+- [
+Complete guide to sending email to Google: Rules, signals & setup
+](
+https://www.twilio.com/en-us/blog/insights/sending-email-to-google
+) (2026-09-01)
+- [
+When AI takes the wheel: The rise of invisible identity intelligence in 2026
+](
+https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
+) (2026-09-01)
+- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
@@ -392,21 +407,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 Your customers don't hate AI — they hate you lying about it
 ](
 https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
-) (2026-08-31)
-- [
-How to Confirm Phone Number Ownership with Lookup Identity Match
-](
-https://www.twilio.com/en-us/blog/confirm-phone-number-ownership-lookup-identity-match
-) (2026-08-31)
-- [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
-) (2026-08-31)
-- [
-How to Confirm Phone Number Ownership with Lookup Identity Match in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php
 ) (2026-08-31)
 
 </details>
