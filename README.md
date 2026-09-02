@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/) (2026-09-01)
-- [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/) (2026-09-01)
-- [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/) (2026-09-01)
-- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/) (2026-09-01)
-- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/) (2026-09-01)
+- [HiddenLayer nabs $100M as enterprises rush to secure their AI deployments](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/) (2026-09-02)
+- [PSA: Amazon’s shopping AI can now tell you if that message is a scam](https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/) (2026-09-02)
+- [Adobe acquires Indian market intelligence startup Rilo](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/) (2026-09-02)
+- [Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/) (2026-09-02)
+- [Adobe is making its tools available in Slack](https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/) (2026-09-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Telli (YC F24) is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/) (2026-09-02)
-- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/) (2026-09-02)
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530) (2026-09-02)
-- [WebFPGA](https://webfpga.io/) (2026-09-02)
-- [True Rate of Unemployment](https://www.lisep.org/tru) (2026-09-02)
+- [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/) (2026-09-02)
+- [Exit the Cave](https://turtlespace.blog/p/exit-the-cave) (2026-09-02)
+- [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm) (2026-09-02)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435) (2026-09-02)
+- [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) (2026-09-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Is this the future of America?](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash) (2026-09-02)
-- [Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs) (2026-09-02)
-- [Acer’s new concept hardware is a gaming handheld with a keyboard](https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa) (2026-09-02)
-- [Microsoft is enabling a Windows 11 security feature that can hurt gaming performance](https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026) (2026-09-02)
-- [Dell’s newest laptop sounds a lot like a MacBook Neo](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs) (2026-09-02)
+- [Google is sending MrBeast into the wilderness, armed with AI](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit) (2026-09-02)
+- [Google dodges another breakup attempt](https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision) (2026-09-02)
+- [Continuous glucose monitors are about to get more complicated](https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis) (2026-09-02)
+- [Belkin’s kid-friendly wireless headphones are 25 percent off](https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale) (2026-09-02)
+- [OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting) (2026-09-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84](https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/) (2026-09-02)
+- [The Army just used a 20-kilowatt laser to take out three drones](https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/) (2026-09-02)
+- [Is Russia's rival to Starlink failing? Here's what we know.](https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/) (2026-09-02)
+- [BGP hijack infecting networks caused by a comedy of errors that’s not funny at all](https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/) (2026-09-02)
 - [Here's our first look—and drive—of the 2027 Range Rover Electric](https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/) (2026-09-01)
-- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/) (2026-09-01)
-- [A newborn and child reportedly died of measles; CDC isn't counting them](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/) (2026-09-01)
-- [New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official](https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/) (2026-09-01)
-- [FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions](https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) (2026-09-02)
+- [The Download: AI puzzles and a path to our nearest star system](https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/) (2026-09-02)
 - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/) (2026-09-01)
 - [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) (2026-09-01)
 - [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/) (2026-09-01)
-- [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) (2026-09-01)
-- [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) (2026-08-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Give Your .NET REST API an AI Mouth: Adding MCP So Claude and Gemini Can Actually Use It](https://dev.to/karamkhoury88/give-your-net-rest-api-an-ai-mouth-adding-mcp-so-claude-and-gemini-can-actually-use-it-3fi4) (2026-09-02)
-- [AI Engineering for Flutter Developers - Production AI Engineering in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-production-ai-engineering-in-flutter-120i) (2026-09-02)
-- [A SQL escape is not a shell escape: OS command injection in GOautodial goAPIv2](https://dev.to/santosh_kumarpuppala_96e/a-sql-escape-is-not-a-shell-escape-os-command-injection-in-goautodial-goapiv2-3gj4) (2026-09-02)
-- [I got tired of having 5 different image tools open, so I built one that does everything](https://dev.to/akhourianmolkumar/i-got-tired-of-having-5-different-image-tools-open-so-i-built-one-that-does-everything-2d6d) (2026-09-02)
-- [The Best iLovePDF Alternatives (One of Them Never Touches Your Files)](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0) (2026-09-02)
+- [DevRel in 2026: Your Developer Docs Have a New User](https://dev.to/kalpick_sharma_d32ace423a/devrel-in-2026-your-developer-docs-have-a-new-user-3b55) (2026-09-02)
+- [TVL Trend Analysis & Liquidity Risk Assessment: Gate](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-gate-32hk) (2026-09-02)
+- [Der Mensch als letzte Verteidigungslinie – oder nur ein „Meatproxy“?](https://dev.to/thomasdelfing_de/der-mensch-als-letzte-verteidigungslinie-oder-nur-ein-meatproxy-2g18) (2026-09-02)
+- [Building a multi-region routing system with Cloudflare Workers](https://dev.to/vatsalpatel/building-a-multi-region-routing-system-with-cloudflare-workers-4p4o) (2026-09-02)
+- [CQRS: Read-Write Separation Design Pattern](https://dev.to/bibekkakati/cqrs-read-write-separation-design-pattern-49fe) (2026-09-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Added the Index. The Query Is Still Slow.](https://medium.com/@tiwarisaket3/you-added-the-index-the-query-is-still-slow-169cd4411249?source=rss------programming-5) (2026-09-02)
-- [A Practical Guide to Automated Crypto Trading Bots](https://medium.com/coinmonks/a-practical-guide-to-automated-crypto-trading-bots-2ab821d9c9ce?source=rss------programming-5) (2026-09-02)
-- [9 Habits of Senior Software Engineers That Junior Developers Usually Miss](https://medium.com/@sidshehria/9-habits-of-senior-software-engineers-that-junior-developers-usually-miss-1926f1b06a99?source=rss------programming-5) (2026-09-02)
-- [C# 15 Has Arrived: 7 Features .NET Developers Should Learn Before .NET 11](https://medium.com/@mohsho10/c-15-has-arrived-7-features-net-developers-should-learn-before-net-11-0ed3d1ab4cec?source=rss------programming-5) (2026-09-02)
-- [Application security : SAST vs. SCA vs. DAST](https://medium.com/@piyalidas.it/application-security-sast-vs-sca-vs-dast-e777f5a5ea74?source=rss------programming-5) (2026-09-02)
+- [I Enabled Kafka 4.0’s New Rebalance Protocol — My 90-Second Timeout Silently Became 45](https://medium.com/javarevisited/kafka-kip-848-config-noop-42c7d9b4a0af?source=rss------programming-5) (2026-09-02)
+- [What @Transactional Actually Does And Where I’ve Seen It Go Wrong](https://medium.com/javarevisited/what-transactional-actually-does-and-where-ive-seen-it-go-wrong-6562006eb4eb?source=rss------programming-5) (2026-09-02)
+- [I Tested HitPaw VikPea on Old Videos : Here’s What Actually Happened](https://medium.com/data-science-in-your-pocket/i-tested-hitpaw-vikpea-on-old-videos-heres-what-actually-happened-9a3dd97509c0?source=rss------programming-5) (2026-09-02)
+- [AI Is Getting Better at Thinking — But Are We Getting Worse?](https://medium.com/@mdkiyamkhanriyan/ai-is-getting-better-at-thinking-but-are-we-getting-worse-7c7d49dc9f2d?source=rss------programming-5) (2026-09-02)
+- [Don’t Just Build What’s Asked: Think Like an Engineer](https://medium.com/@shyambatchu3/dont-just-build-what-s-asked-think-like-an-engineer-ed5eb0414ebd?source=rss------programming-5) (2026-09-02)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/) (2026-09-02)
+- [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/) (2026-09-02)
 - [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/) (2026-08-31)
 - [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) (2026-08-25)
 - [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/) (2026-08-24)
-- [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/) (2026-08-21)
-- [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/) (2026-08-20)
 
 </details>
 
@@ -317,33 +317,33 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity 2026.2: Pipelines General Availability, BYOK for AI Assistant, and More](https://blog.jetbrains.com/teamcity/2026/09/teamcity-20262/) (2026-09-02)
+- [The MPS 2026.2 Early Access Program Has Started](https://blog.jetbrains.com/mps/2026/09/the-mps-2026-2-eap-has-started-2-2/) (2026-09-02)
+- [Stop Guessing at Hard Faults](https://blog.jetbrains.com/clion/2026/09/hard-fault-debugging/) (2026-09-02)
 - [How to Handle Errors in Go](https://blog.jetbrains.com/go/2026/09/02/how-to-handle-errors-in-go/) (2026-09-02)
 - [The Grails Plugin Has a New Home: Apache Grails](https://blog.jetbrains.com/idea/2026/09/the-grails-plugin-has-a-new-home-apache-grails/) (2026-09-01)
-- [Ensuring Code Compliance in Public Sector Software Projects](https://blog.jetbrains.com/qodana/2026/09/ensuring-code-compliance/) (2026-09-01)
-- [Authenticating TeamCity Builds to External Services With OIDC](https://blog.jetbrains.com/teamcity/2026/09/authenticating-teamcity-builds-with-oidc/) (2026-09-01)
-- [Fine-Tuning SOTA Object Detection Models on Real-World Datasets](https://blog.jetbrains.com/pycharm/2026/08/fine-tuning-sota-object-detection-models-on-real-world-datasets/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.136 (Insiders)](https://code.visualstudio.com/updates/v1_136) (2026-09-02)
+- [Visual Studio Code 1.137 (Insiders)](https://code.visualstudio.com/updates/v1_137) (2026-09-09)
+- [Visual Studio Code 1.136](https://code.visualstudio.com/updates/v1_136) (2026-09-02)
 - [Visual Studio Code 1.135](https://code.visualstudio.com/updates/v1_135) (2026-08-26)
 - [Introducing the Agent Host for persistent, portable agent sessions](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture) (2026-08-26)
 - [Visual Studio Code 1.134](https://code.visualstudio.com/updates/v1_134) (2026-08-19)
-- [Visual Studio Code 1.133](https://code.visualstudio.com/updates/v1_133) (2026-08-12)
 
 </details>
 
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab’s internal playbook to foster AI-fluent technical teams](https://about.gitlab.com/blog/how-gitlab-fosters-ai-fluent-teams/) (2026-09-02)
 - [GitLab compliance frameworks: Adhere to SOC 2 in minutes](https://about.gitlab.com/blog/quick-compliance-with-compliance-framework-templates/) (2026-08-27)
 - [How to recognize your team with GitLab Achievements](https://about.gitlab.com/blog/how-to-recognize-your-team-with-gitlab-achievements/) (2026-08-27)
 - [Making room for what's next in the GitLab UI](https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/) (2026-08-26)
 - [Git was built for humans — agents need an upgrade](https://about.gitlab.com/blog/gitlab-next-gen-scm/) (2026-08-26)
-- [GitLab Patch Release: 19.3.1, 19.2.5, 19.1.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-1-released/) (2026-08-26)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [How to quote in Slack: 3 ways](https://zapier.com/blog/slack-quote-message-in-reply) (2026-09-02)
+- [The 7 best email clients for Windows in 2026](https://zapier.com/blog/best-email-clients-windows) (2026-09-02)
 - [The 5 best journal apps in 2026](https://zapier.com/blog/best-journaling-apps) (2026-09-01)
 - [ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)](https://zapier.com/blog/automate-chatgpt) (2026-09-01)
-- [The 6 best Hootsuite alternatives in 2026](https://zapier.com/blog/hootsuite-alternatives) (2026-09-01)
 - [The 10 best SEO audit tools in 2026](https://zapier.com/blog/best-seo-audit-tools) (2026-09-01)
-- [How to find an email address: 6 methods](https://zapier.com/blog/find-email-address) (2026-08-31)
 
 </details>
 
@@ -570,55 +570,55 @@ https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
 - [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt) (2026-09-01)
 - [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) (2026-09-01)
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) (2026-08-28)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (2026-08-26)
-- [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working](https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/) (2026-09-02)
+- [A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence](https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/) (2026-09-02)
+- [Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply](https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/) (2026-09-02)
+- [A Practical Introduction to PySpark Window Functions](https://towardsdatascience.com/a-practical-introduction-to-pyspark-window-functions/) (2026-09-02)
 - [Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch](https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/) (2026-09-01)
-- [What We Miss About Missing Values](https://towardsdatascience.com/what-we-miss-about-missing-values/) (2026-09-01)
-- [Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks](https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/) (2026-09-01)
-- [5 AI Skills That Will Keep Data Scientists Relevant in 2027](https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/) (2026-09-01)
-- [Your LLM Can Return Perfect JSON and Still Be Wrong](https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/) (2026-08-31)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [A Complete Guide to Decoding LLM Model Names](https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/) (2026-09-02)
 - [5 Best Local LLMs You Can Run on a Mac mini in 2026](https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/) (2026-09-01)
 - [Top 7 Free AI Automation Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/08/free-ai-automation-courses-with-certificates/) (2026-08-30)
 - [10 Essential Agentic AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/08/basic-agentic-ai-concepts/) (2026-08-27)
 - [Mastering the AI Project Cycle: From Concept to Production](https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/) (2026-08-26)
-- [What is a Forward Deployed Engineer? Role, Skills & Salary](https://www.analyticsvidhya.com/blog/2026/08/what-is-a-forward-deployed-engineer/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [This Python Library Can Run Pandas Workloads Up to 20x Faster](https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster) (2026-09-02)
+- [5 Real-World Applications of Agentic AI in Enterprise Automation](https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation) (2026-09-02)
 - [Free Transcription with Speakr](https://www.kdnuggets.com/free-transcription-with-speakr) (2026-09-01)
 - [7 Common Python Mistakes to Avoid in AI Workflows](https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows) (2026-09-01)
 - [Speed Up LLM Inference with DSpark Speculative Decoding](https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding) (2026-08-31)
-- [7 Python Mistakes Beginners Make (And What to Do Instead)](https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead) (2026-08-31)
-- [The Local AI Stack for Productive SLMs](https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms) (2026-08-28)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [AI Agent Memory Design: What Works and What Doesn’t](https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/) (2026-09-02)
 - [3 Ways to Enhance Your AI Model’s Interpretability](https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/) (2026-09-01)
 - [Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline](https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/) (2026-08-31)
 - [Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces](https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/) (2026-08-28)
 - [Learn Vectorized Thinking in Python Through Examples](https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/) (2026-08-26)
-- [Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral](https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/) (2026-08-25)
 
 </details>
 
