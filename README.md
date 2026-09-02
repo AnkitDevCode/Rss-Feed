@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/) (2026-09-01)
-- [Anthropic’s new Fable release is cheaper, less restrictive](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/) (2026-09-01)
-- [Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/) (2026-09-01)
-- [Who is John Ternus, the new Apple CEO?](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/) (2026-09-01)
-- [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/) (2026-09-01)
+- [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/) (2026-09-01)
+- [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/) (2026-09-01)
+- [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/) (2026-09-01)
+- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/) (2026-09-01)
+- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) (2026-09-01)
-- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) (2026-09-01)
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) (2026-09-01)
-- [There Is No AI](https://wadler.blogspot.com/2026/08/there-is-no-ai.html) (2026-09-01)
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) (2026-09-01)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) (2026-09-01)
+- [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) (2026-09-01)
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) (2026-09-01)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) (2026-09-01)
+- [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears) (2026-09-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen) (2026-09-01)
-- [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy) (2026-09-01)
-- [The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack) (2026-09-01)
-- [John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;](https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo) (2026-09-01)
-- [Apple accuses OpenAI of destroying evidence](https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit) (2026-09-01)
+- [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai) (2026-09-01)
+- [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) (2026-09-01)
+- [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming) (2026-09-01)
+- [Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750](https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale) (2026-09-01)
+- [OpenAI delayed its new model’s development after the Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay) (2026-09-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [CDC reported then deleted two measles deaths that were questioned by RFK Jr.](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/) (2026-09-01)
+- [Here's our first look—and drive—of the 2027 Range Rover Electric](https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/) (2026-09-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/) (2026-09-01)
+- [A newborn and child reportedly died of measles; CDC isn't counting them](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/) (2026-09-01)
 - [New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official](https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/) (2026-09-01)
 - [FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions](https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/) (2026-09-01)
-- [This is what a supercar was like a century ago](https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/) (2026-09-01)
-- [It turns out that Orion's much-maligned heat shield performed really well](https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/) (2026-09-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j) (2026-09-01)
-- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf) (2026-09-01)
-- [Why Enterprise AI Fails: The Hidden Trap of Pure Probabilistic LLMs and the Rise of Neuro-Symbolic Architecture](https://dev.to/programmingcentral/why-enterprise-ai-fails-the-hidden-trap-of-pure-probabilistic-llms-and-the-rise-of-neuro-symbolic-40p3) (2026-09-01)
-- [Codex with ChatGPT Splits Planning From Execution](https://dev.to/dd8888/codex-with-chatgpt-splits-planning-from-execution-3bp2) (2026-09-01)
-- [Running the whole company on AI: the big picture](https://dev.to/uehara/running-the-whole-company-on-ai-the-big-picture-49m8) (2026-09-01)
+- [From Prototype to Production: Deploying an LLM App That Won't Collapse](https://dev.to/mryadavgulshan/from-prototype-to-production-deploying-an-llm-app-that-wont-collapse-4g4b) (2026-09-02)
+- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-49fp) (2026-09-02)
+- [Grant Miller (IBM) introduce Outcome Reviews in AI-era](https://dev.to/cognitalk/grant-miller-ibm-introduce-outcome-reviews-in-ai-era-2g5m) (2026-09-02)
+- [Google’s New AI Search Guidance Puts Unique Content at the Center of SEO Strategy](https://dev.to/alifar/googles-new-ai-search-guidance-puts-unique-content-at-the-center-of-seo-strategy-15ch) (2026-09-02)
+- [Your camera roll is part of your developer threat model](https://dev.to/dmytropolianskyi/your-camera-roll-is-part-of-your-developer-threat-model-2j2c) (2026-09-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [LangChain Just Made Frontier-Style Deep Agents Open Source](https://pub.towardsai.net/langchain-just-made-frontier-style-deep-agents-open-source-54dd1b45b99f?source=rss------programming-5) (2026-09-01)
-- [I will do extremely modern minimalist and luxury business logo design](https://globalbrandcraft.medium.com/i-will-do-extremely-modern-minimalist-and-luxury-business-logo-design-60dcda4d8e42?source=rss------programming-5) (2026-09-01)
-- [The People Who Fix Everything Usually Pay for It](https://medium.com/loop-of-thought/the-people-who-fix-everything-usually-pay-for-it-c9b58959bb7c?source=rss------programming-5) (2026-09-01)
-- [System Design Interview: How Do You Make Sure a Payment API Never Charges a Customer Twice?](https://medium.com/@tihomir.manushev/system-design-interview-how-do-you-make-sure-a-payment-api-never-charges-a-customer-twice-fee5489a05cb?source=rss------programming-5) (2026-09-01)
-- [Why List Your App or Startup on Upsyte?](https://medium.com/@ccizeex/why-list-your-app-or-startup-on-upsyte-aa6528bece61?source=rss------programming-5) (2026-09-01)
+- [Most Frequently Asked Scenario-Based Questions for Senior Java Developer Roles](https://medium.com/@anil-singh/most-frequently-asked-scenario-based-questions-for-senior-java-developer-roles-f4c38695329b?source=rss------programming-5) (2026-09-02)
+- [The 7 Levels of Learning a New Technology](https://pawannatekar220.medium.com/the-7-levels-of-learning-a-new-technology-ac962cc8aa91?source=rss------programming-5) (2026-09-02)
+- [The Night I Taught a Bunch of Docker Containers to Talk to Each Other](https://medium.com/@khalidpcm1/the-night-i-taught-a-bunch-of-docker-containers-to-talk-to-each-other-3134d882d54b?source=rss------programming-5) (2026-09-02)
+- [The Network Troubleshooting Playbook — Every Command, Every Scenario](https://medium.com/@prasantakumarroy1/the-network-troubleshooting-playbook-every-command-every-scenario-332dd4a389a2?source=rss------programming-5) (2026-09-02)
+- [The Complete Disaster Recovery Playbook — From Zero to Recovered](https://medium.com/@prasantakumarroy1/the-complete-disaster-recovery-playbook-from-zero-to-recovered-3c419386d614?source=rss------programming-5) (2026-09-02)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/) (2026-09-01)
 - [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/) (2026-08-27)
 - [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](https://blogs.nvidia.com/blog/vera-cpu-delivery/) (2026-08-27)
 - [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/) (2026-08-26)
 - [Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark](https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/) (2026-08-25)
-- [How XPUs Meet a World-Class AI Factory](https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/) (2026-08-24)
 
 </details>
 
@@ -174,11 +174,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Customizing Angular Aria Tabs Quickly with Google Antigravity CLI](https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4) (2026-09-02)
 - [Styling Mastery and Declarative Form Submissions ](https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4) (2026-08-28)
 - [The Forms Evolution, Web AI, and Architectural Vision! ](https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4) (2026-08-14)
 - [Free Book Chapters, Better Testing Control, and Smart MCP Configuration! ](https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4) (2026-07-31)
 - [Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡](https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4) (2026-07-17)
-- [Community Engineering, Agentic Coding, and Real-User Component Testing ️](https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4) (2026-07-07)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (2026-09-01)
 - [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (2026-08-31)
 - [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) (2026-08-28)
 - [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (2026-08-27)
 - [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/) (2026-08-26)
-- [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) (2026-08-11)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-num
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt) (2026-09-01)
 - [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) (2026-09-01)
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) (2026-08-28)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (2026-08-26)
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) (2026-08-25)
-- [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) (2026-08-25)
 
 </details>
 
