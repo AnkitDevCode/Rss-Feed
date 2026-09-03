@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Japan halves speed limit to 30km/h on all narrow city streets](https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets) (2026-09-03)
+- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/) (2026-09-03)
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/) (2026-09-03)
 - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530) (2026-09-02)
 - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard) (2026-09-02)
-- [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o) (2026-09-02)
-- [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers) (2026-09-02)
-- [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf) (2026-09-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch) (2026-09-02)
-- [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash) (2026-09-02)
-- [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026) (2026-09-02)
-- [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy) (2026-09-02)
-- [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails) (2026-09-02)
+- [Microsoft discloses Azure revenue as part of major financial reporting changes](https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue) (2026-09-03)
+- [Here’s the first 4K 120Hz UST projector with optical lens shift](https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift) (2026-09-03)
+- [Belkin’s first trackers come ready to attach to your gear.](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag) (2026-09-03)
+- [Belkin introduces its first longer-lasting semi-solid-state power banks](https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer) (2026-09-03)
+- [Anker’s sleep speaker uses radar and flower power to help you relax](https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker) (2026-09-03)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/) (2026-09-03)
+- [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/) (2026-09-03)
 - [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) (2026-09-02)
 - [The Download: AI puzzles and a path to our nearest star system](https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/) (2026-09-02)
 - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/) (2026-09-01)
-- [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) (2026-09-01)
-- [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/) (2026-09-01)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/) (2026-09-03)
 - [The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/) (2026-09-01)
 - [When you keep AI Lean, you keep AI correct ](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/) (2026-08-28)
 - [Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/) (2026-08-25)
 - [Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/) (2026-08-24)
-- [Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/) (2026-08-21)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TIL: Insufficient /tmp Space Causes GBase Database Installation Failure](https://dev.to/mmllllzcn/til-insufficient-tmp-space-causes-gbase-database-installation-failure-31do) (2026-09-03)
-- [OpenAI Responses API previous_response_id Instructions: Repeat Policy on Every Turn](https://dev.to/ssukhpinder/openai-responses-api-previousresponseid-instructions-repeat-policy-on-every-turn-1c88) (2026-09-03)
-- [How to Get Found on ChatGPT, Perplexity, and Gemini — A Practical Guide](https://dev.to/mryadavgulshan/how-to-get-found-on-chatgpt-perplexity-and-gemini-a-practical-guide-2g54) (2026-09-03)
-- [How to run generative AI on SQL tables with Snowflake Cortex](https://dev.to/laura_cristinachicovisd/how-to-run-generative-ai-on-sql-tables-with-snowflake-cortex-5gh6) (2026-09-03)
-- [Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds](https://dev.to/frozenwindcn/-zero-npm-installs-i-built-a-40-page-developer-toolbox-that-loads-in-milliseconds-4jde) (2026-09-03)
+- [Open LLM Gateway: self-hosted LLM control plane (proxy + analytics + admin UI, no seat cap)](https://dev.to/nelsonlin/open-llm-gateway-self-hosted-llm-control-plane-proxy-admin-ui-no-seat-cap-3j1j) (2026-09-03)
+- [I built a PDF compressor that never uploads your file — here's the actual technique](https://dev.to/trytoolhub/i-built-a-pdf-compressor-that-never-uploads-your-file-heres-the-actual-technique-575m) (2026-09-03)
+- [TimesFM: Google's Foundation Model for Time Series, Explained for Developers](https://dev.to/arshtechpro/timesfm-googles-foundation-model-for-time-series-explained-for-developers-3jf9) (2026-09-03)
+- [Memory Is Not Talent: Talent Is Pattern Recognition and Connection](https://dev.to/sumit0rn/memory-is-not-talent-talent-is-pattern-recognition-and-connection-3bea) (2026-09-03)
+- [I Upscaled 550 Yearbook Scans for a School Archive. Total Cost: $0.](https://dev.to/photoupscaler/i-upscaled-550-yearbook-scans-for-a-school-archive-total-cost-0-30i9) (2026-09-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Idempotency & Delivery Guarantees: Making Retries Safe](https://medium.com/@scosmexs/idempotency-delivery-guarantees-making-retries-safe-5fe70bb6e49b?source=rss------programming-5) (2026-09-03)
-- [5 Windows Apps You Must Have on Your PC](https://pawannatekar220.medium.com/5-windows-apps-you-must-have-on-your-pc-06cd3813ffb7?source=rss------programming-5) (2026-09-03)
-- [How I Built an AI That Auto-Fixes Broken CI/CD Pipelines](https://medium.com/beyond-localhost/how-i-built-an-ai-that-auto-fixes-broken-ci-cd-pipelines-9bf9fe90cee0?source=rss------programming-5) (2026-09-03)
-- [OpenClaw 2.0 Makes Installation Easy — Whether You Need It Is Another Question](https://pub.huizhou92.com/openclaw-2-0-makes-installation-easy-whether-you-need-it-is-another-question-7c859c2f9302?source=rss------programming-5) (2026-09-03)
-- [Ultimatrix SDET Interview Experience | 5 Years of Experience |](https://medium.com/@preetjit82/ultimatrix-sdet-interview-experience-5-years-of-experience-d86e6dde9af6?source=rss------programming-5) (2026-09-03)
+- [The Database Is the Source of Truth. Your Agent Only Reads the Repo](https://medium.com/doubleverify-engineering/the-database-is-the-source-of-truth-your-agent-only-reads-the-repo-644b1cff0051?source=rss------programming-5) (2026-09-03)
+- [A summary of what I learned about Waterfall, Agile, Kanban and the Software Development Life Cycle](https://medium.com/@harisamaan789/a-summary-of-what-i-learned-about-waterfall-agile-kanban-and-the-software-development-life-cycle-692204b511d5?source=rss------programming-5) (2026-09-03)
+- [min(“10”, “2”) Is “10”: 3 Aggregator Puzzles That Audit Your Assumptions](https://medium.com/becomebetter-dev/min-10-2-is-10-3-aggregator-puzzles-that-audit-your-assumptions-9c0d09265b82?source=rss------programming-5) (2026-09-03)
+- [10 React Testing Mistakes That Are Secretly Making Your Tests Useless in 2026](https://medium.com/@ArunprakashS/10-react-testing-mistakes-that-are-secretly-making-your-tests-useless-in-2026-af1b2551d5cb?source=rss------programming-5) (2026-09-03)
+- [Managing PDF Properties and Metadata with Python](https://medium.com/@sirio1234/managing-pdf-properties-and-metadata-with-python-30f1f2d04451?source=rss------programming-5) (2026-09-03)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
 - [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt) (2026-09-01)
 - [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) (2026-09-01)
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) (2026-08-28)
-- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) (2026-08-26)
 
 </details>
 
