@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google’s latest AI weather model gives you no excuse to forget your umbrella](https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/) (2026-09-03)
-- [Volunteer at TechCrunch Founder Summit in Boston](https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/) (2026-09-03)
-- [TikTok comments are getting more interactive with voice comments, polls, and more](https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/) (2026-09-03)
-- [Nvidia confirms it will buy Hugging Face for $12.9 billion](https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/) (2026-09-03)
-- [Amazon’s Zoox expands its robotaxi service to Las Vegas airport](https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/) (2026-09-03)
+- [The Cybercab is Tesla’s ‘fork in the road’ moment ](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/) (2026-09-03)
+- [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/) (2026-09-03)
+- [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/) (2026-09-03)
+- [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/) (2026-09-03)
+- [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Grok Outage](https://status.x.ai/) (2026-09-03)
-- [Anatomy of a Browser](https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8) (2026-09-03)
-- [Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096) (2026-09-03)
-- [Codex Is Down](https://github.com/openai/codex/issues/28756) (2026-09-03)
-- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) (2026-09-03)
+- [Three-LLM: Three.js-based WebGPU LLM inference engine](https://three-llm.ben3d.ca) (2026-09-03)
+- [The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street) (2026-09-03)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) (2026-09-03)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) (2026-09-03)
+- [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent) (2026-09-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones) (2026-09-03)
-- [ChatGPT, Grok, and Claude all went down at the same time](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down) (2026-09-03)
-- [Google says its AI weather model is getting better](https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update) (2026-09-03)
-- [Dyson’s new straightener has liquid cooling pipes to reduce hair damage](https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling) (2026-09-03)
-- [Hohem’s tiny steadycam has a removable action cam](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam) (2026-09-03)
+- [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety) (2026-09-03)
+- [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale) (2026-09-03)
+- [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (2026-09-03)
+- [Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers](https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes) (2026-09-03)
+- [Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option) (2026-09-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Spending deal comes with a bonus: Blocking political control of grants](https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/) (2026-09-02)
-- [I rented a car, and within hours, my driver's license was for sale](https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/) (2026-09-02)
-- [FCC plans robocall scorecard to grade phone companies on spam call blocking](https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/) (2026-09-02)
-- [Wary of Artemis IV timeline, NASA is changing lunar spacesuit design](https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/) (2026-09-02)
-- [Google releases Gemini 3.8 Flash, its third Flash model in six weeks](https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/) (2026-09-02)
+- [US senator calls on the NSA to give guidance for use of VPNs](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/) (2026-09-03)
+- [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/) (2026-09-03)
+- [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/) (2026-09-03)
+- [Just like a fruit fly, a new algorithm never forgets old scents](https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/) (2026-09-03)
+- [Four major AI models suffer rare overlapping downtime](https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/) (2026-09-03)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/) (2026-09-03)
 - [Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/) (2026-09-02)
 - [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) (2026-09-02)
 - [OpenClaw went viral. Meet the maintainers building and securing it.](https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/) (2026-08-27)
 - [GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/) (2026-08-26)
-- [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) (2026-08-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your JPEG photos may contain GPS coordinates: inspect and remove metadata locally](https://dev.to/marco_ryszka_c0a2fa5716c9/your-jpeg-photos-may-contain-gps-coordinates-inspect-and-remove-metadata-locally-3j6h) (2026-09-03)
-- [My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.](https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p) (2026-09-03)
-- [Free open-source avatar resources for developers and designers👋](https://dev.to/simran_singh_836b353245fb/free-open-source-avatar-resources-for-developers-and-designers-3ck5) (2026-09-03)
-- [How pdlc-skills Keeps Quality Up When AI Writes the Code](https://dev.to/kanfu-panda/how-pdlc-skills-keeps-quality-up-when-ai-writes-the-code-42fk) (2026-09-03)
-- [AI Systems Need Runtime Budgets](https://dev.to/lukaswalter/ai-systems-need-runtime-budgets-43fc) (2026-09-03)
+- [I set up my first Docker SBX kit, and here's how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a) (2026-09-03)
+- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019) (2026-09-03)
+- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827) (2026-09-03)
+- [Identity Verification Gates Invite Acceptance Authentication: 2-Stage User Creation After Proof](https://dev.to/zeligholloway9071/identity-verification-gates-invite-acceptance-authentication-2-stage-user-creation-after-proof-5eif) (2026-09-03)
+- [100% line coverage did not catch the one bug that mattered](https://dev.to/bosun18/100-line-coverage-did-not-catch-the-one-bug-that-mattered-318a) (2026-09-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Linux Commands Every Cybersecurity Nerd Secretly Loves](https://medium.com/@bhaskar.685.vikas/8-linux-commands-every-cybersecurity-nerd-secretly-loves-79161afcf0ce?source=rss------programming-5) (2026-09-03)
-- [How Model Quantization Works and Fits a 70B LLM on Your Laptop](https://medium.com/data-science-collective/llm-quantization-explained-guide-how-to-run-70b-llm-locally-06342ed8b56c?source=rss------programming-5) (2026-09-03)
-- [The Polonius Borrow Checker Explains the Rust Errors That Never Made Sense](https://medium.com/@coders.stop/the-polonius-borrow-checker-explains-the-rust-errors-that-never-made-sense-de5344f4b11b?source=rss------programming-5) (2026-09-03)
-- [Anatomy of a Browser](https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8?source=rss------programming-5) (2026-09-03)
-- [Up to a Third of New Security Holes Now Trace Back to AI-Written Code](https://medium.com/@sohail_saifi/up-to-a-third-of-new-security-holes-now-trace-back-to-ai-written-code-0f52e39b193d?source=rss------programming-5) (2026-09-03)
+- [WhatsApp AI Agents That Qualify Leads While You Sleep](https://medium.com/@techpotions/whatsapp-ai-agents-that-qualify-leads-while-you-sleep-e347f180f37e?source=rss------programming-5) (2026-09-03)
+- [How to Use AI Agents Better Than 99% of People (Level 3 AI Masterclass)](https://divadsanders.medium.com/how-to-use-ai-agents-better-than-99-of-people-level-3-ai-masterclass-9d285eefd5c8?source=rss------programming-5) (2026-09-03)
+- [WhatsApp AI Customer Support Bot That Won’t Drop Context](https://medium.com/@techpotions/whatsapp-ai-customer-support-bot-that-wont-drop-context-86767d641cbc?source=rss------programming-5) (2026-09-03)
+- [Chapitre 1 : neuf logs pour construire un site, un bug à la fois](https://medium.com/@bongondamichael/chapitre-1-neuf-logs-pour-construire-un-site-un-bug-%C3%A0-la-fois-2dd34317d097?source=rss------programming-5) (2026-09-03)
+- [The More Senior You Get, the Less Feedback You Receive](https://medium.com/loop-of-thought/the-more-senior-you-get-the-less-feedback-you-receive-0aea9ca28c8f?source=rss------programming-5) (2026-09-03)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 - [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
 - [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
 - [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
+- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/) (2026-09-03)
 - [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/) (2026-09-03)
 - [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/) (2026-09-03)
 - [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/) (2026-09-01)
 - [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/) (2026-08-27)
-- [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](https://blogs.nvidia.com/blog/vera-cpu-delivery/) (2026-08-27)
 
 </details>
 
@@ -196,22 +196,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/) (2026-09-03)
 - [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/) (2026-09-02)
 - [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/) (2026-09-02)
 - [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/) (2026-08-31)
 - [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) (2026-08-25)
-- [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/) (2026-08-24)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) (2026-09-03)
 - [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/) (2026-09-02)
 - [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (2026-09-01)
 - [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (2026-08-31)
 - [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) (2026-08-28)
-- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (2026-08-27)
 
 </details>
 
@@ -240,22 +240,22 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) (2026-09-03)
 - [When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) (2026-08-13)
 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) (2026-07-27)
 - [Content Ingestion & Podcast Video Incident Report ](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) (2026-07-20)
 - [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) (2026-06-10)
-- [Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) (2026-06-03)
 
 </details>
 
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [ZGateway: Learnings from Putting a Proxy in Front of ZippyDB](https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/) (2026-09-03)
 - [An Organizational Second Brain: Building an AI That Learns From Experts](https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/) (2026-09-02)
 - [MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet](https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/) (2026-08-24)
 - [MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines](https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/) (2026-08-24)
 - [How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees](https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/) (2026-08-12)
-- [From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking](https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/) (2026-08-05)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox) (2026-09-03)
 - [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines) (2026-09-03)
 - [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro) (2026-09-02)
 - [Muse Spark 1.3 now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway) (2026-09-02)
 - [GLM-5.3 is 50% off through DigitalOcean on AI Gateway](https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway) (2026-09-02)
-- [Gemini 3.8 Flash now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway) (2026-09-02)
 
 </details>
 
@@ -527,7 +527,7 @@ https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
 <summary>💬 Slack API</summary>
 
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
-- [Slack vs. Line Works: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-01)
+- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 - [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
