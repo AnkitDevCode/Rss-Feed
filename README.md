@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/) (2026-09-04)
 - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/) (2026-09-04)
 - [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/) (2026-09-03)
 - [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/) (2026-09-03)
 - [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/) (2026-09-03)
-- [The Cybercab is Tesla’s ‘fork in the road’ moment ](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) (2026-09-04)
-- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) (2026-09-03)
-- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) (2026-09-03)
-- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) (2026-09-03)
-- [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) (2026-09-03)
+- [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline) (2026-09-04)
+- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/) (2026-09-04)
+- [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) (2026-09-04)
+- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html) (2026-09-04)
+- [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu) (2026-09-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [This NAS company wants to run your local smart home](https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home) (2026-09-04)
+- [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable) (2026-09-04)
+- [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026) (2026-09-04)
+- [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof) (2026-09-04)
 - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40) (2026-09-04)
-- [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk) (2026-09-04)
-- [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out) (2026-09-03)
-- [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling) (2026-09-03)
-- [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix) (2026-09-03)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) (2026-09-04)
 - [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/) (2026-09-03)
 - [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/) (2026-09-03)
 - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/) (2026-09-03)
 - [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) (2026-09-02)
-- [The Download: AI puzzles and a path to our nearest star system](https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/) (2026-09-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Guide to DNS on Ubuntu 26.04](https://dev.to/peculiarengineer/guide-to-dns-on-ubuntu-2604-1fk) (2026-09-04)
-- [nginx add_header Appends. It Doesn't Override — And That Can Remove Protection.](https://dev.to/nasrulhazim/nginx-addheader-appends-it-doesnt-override-and-that-can-remove-protection-54pf) (2026-09-04)
-- [Dev Log: 2 September 2026 — Every Bug Today Was a Claim Nobody Checked](https://dev.to/nasrulhazim/dev-log-2-september-2026-every-bug-today-was-a-claim-nobody-checked-5ghh) (2026-09-04)
-- [[Open source sharing] How I Built Three Small Party Games for a Spring Dinner](https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p) (2026-09-04)
-- [The board came back. The highlights lied.](https://dev.to/michaeltruong/the-board-came-back-the-highlights-lied-18bo) (2026-09-04)
+- [How do you turn traces into a training dataset?](https://dev.to/tyler007/how-do-you-turn-traces-into-a-training-dataset-1e9) (2026-09-04)
+- [Six Claude Code sessions in parallel, and only reading the output](https://dev.to/daichikudo/six-claude-code-sessions-in-parallel-and-only-reading-the-output-1i42) (2026-09-04)
+- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h) (2026-09-04)
+- [I Ran 1,000 Email Validations Against HIBP. 47 Were Breached.](https://dev.to/onizuka/i-ran-1000-email-validations-against-hibp-47-were-breached-4d5h) (2026-09-04)
+- [Azure Synapse Databricks: A Migration Playbook That Survives Production](https://dev.to/firfircelik/azure-synapse-databricks-a-migration-playbook-that-survives-production-nge) (2026-09-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Data Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?source=rss------programming-5) (2026-09-04)
-- [How to Earn Money on Binance in 2026: A Beginner’s Complete Guide](https://medium.com/@ahmedganatra83/how-to-earn-money-on-binance-in-2026-a-beginners-complete-guide-ae74b83c514b?source=rss------programming-5) (2026-09-04)
-- [CDN & Edge Caching: Moving Content Closer to Users](https://medium.com/@scosmexs/cdn-edge-caching-moving-content-closer-to-users-b4c96c8c156b?source=rss------programming-5) (2026-09-04)
-- [The C++ Interview Question That Made Me Re-Read My Own Thread Pool](https://medium.com/@sreekareetallapragada/the-c-interview-question-that-made-me-re-read-my-own-thread-pool-92e0121a0c8a?source=rss------programming-5) (2026-09-04)
-- [DevOps vs AIOps vs MLOps vs LLMOps: How They Are Different](https://pawannatekar220.medium.com/devops-vs-aiops-vs-mlops-vs-llmops-how-they-are-different-d7fc4e207882?source=rss------programming-5) (2026-09-04)
+- [Secure Coding: Practices and Design Patterns That Prevent Vulnerabilities](https://levelup.gitconnected.com/secure-coding-practices-and-design-patterns-that-prevent-vulnerabilities-dac59d9acb54?source=rss------programming-5) (2026-09-04)
+- [Why Your Next.js 16.3 Server Keeps OOMing (And How to Stop the use cache Leak)](https://medium.com/@vasist.96/why-your-next-js-16-3-server-keeps-ooming-and-how-to-stop-the-use-cache-leak-1bc09ff45c3b?source=rss------programming-5) (2026-09-04)
+- [The Foundations That Nobody Talks About](https://medium.com/@om7057/the-foundations-that-nobody-talks-about-d78209ef7f4e?source=rss------programming-5) (2026-09-04)
+- [Two Agents Shared One Cache Key. 23% of Tool Calls Returned the Wrong Result.](https://medium.com/@chenyuan19920509/two-agents-shared-one-cache-key-23-of-tool-calls-returned-the-wrong-result-1699ea2c9215?source=rss------programming-5) (2026-09-04)
+- [Building a Digital Therapist: A Deep Dive into the claude-cbt-companion Project](https://medium.com/@shaheer0.0/building-a-digital-therapist-a-deep-dive-into-the-claude-cbt-companion-project-4e981d426984?source=rss------programming-5) (2026-09-04)
 
 </details>
 
@@ -384,6 +384,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+4 must-ask questions before you delegate to your AI agent
+](
+https://www.twilio.com/en-us/blog/insights/questions-before-delegating-to-ai-agent
+) (2026-09-03)
+- [
+Build a Video Chat App with ASP.NET Core and Angular using Twilio Video
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-dotnet-angular
+) (2026-09-03)
+- [
 How to disclose AI to customers without killing the conversation
 ](
 https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
@@ -398,16 +408,6 @@ Complete guide to sending email to Google: Rules, signals & setup
 ](
 https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 ) (2026-09-01)
-- [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
-) (2026-08-31)
-- [
-Your customers don't hate AI — they hate you lying about it
-](
-https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
-) (2026-08-31)
 
 </details>
 
@@ -575,6 +575,17 @@ https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
+- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
+- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
+- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
+- [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/) (2026-09-02)
 
 </details>
 
