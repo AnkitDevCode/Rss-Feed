@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/) (2026-09-04)
+- [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/) (2026-09-04)
+- [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/) (2026-09-04)
+- [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/) (2026-09-04)
 - [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/) (2026-09-04)
-- [Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/) (2026-09-04)
-- [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/) (2026-09-04)
-- [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/) (2026-09-04)
-- [US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en) (2026-09-04)
-- [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/) (2026-09-04)
-- [US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers) (2026-09-04)
-- [IBM Bob](https://bob.ibm.com/) (2026-09-04)
-- [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/) (2026-09-04)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) (2026-09-04)
+- [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) (2026-09-04)
+- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) (2026-09-04)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) (2026-09-04)
+- [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nintendo&#8217;s next two Direct events are both happening next week](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th) (2026-09-04)
-- [Oh good, looks like yet another swarm of rogue AI agents from OpenAI](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki) (2026-09-04)
-- [Tesla Cybercab is barely on the road and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify) (2026-09-04)
-- [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs) (2026-09-04)
-- [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum) (2026-09-04)
+- [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright) (2026-09-04)
+- [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter) (2026-09-04)
+- [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip) (2026-09-04)
+- [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be) (2026-09-04)
+- [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit) (2026-09-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO](https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/) (2026-09-04)
-- [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/) (2026-09-04)
-- [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/) (2026-09-03)
-- [Xbox imposes harsh new time limits for Game Pass game streaming](https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/) (2026-09-03)
-- [150 research primates got diarrhea, flooding lab with priceless vaccine data](https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/) (2026-09-03)
+- [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/) (2026-09-04)
+- [“Trust, not features, is the real deficit”: VMware tries to appease SMBs](https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/) (2026-09-04)
+- [Once popular for attacking AI, ASCII smuggling is embraced by spammers](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) (2026-09-04)
+- [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/) (2026-09-04)
+- [A ratings board wouldn't let Valve release a trailer. It "leaked" it instead.](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) (2026-09-04)
 - [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/) (2026-09-04)
 - [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) (2026-09-04)
 - [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/) (2026-09-03)
 - [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/) (2026-09-03)
-- [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/) (2026-09-04)
 - [GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/) (2026-09-03)
 - [Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/) (2026-09-02)
 - [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) (2026-09-02)
 - [OpenClaw went viral. Meet the maintainers building and securing it.](https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/) (2026-08-27)
-- [GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/) (2026-08-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What actually happens when you tell an AI agent to build a business from $0](https://dev.to/crypled/what-actually-happens-when-you-tell-an-ai-agent-to-build-a-business-from-0-4cl5) (2026-09-04)
-- [Banking system C++](https://dev.to/ishiba/banking-system-c-ebo) (2026-09-04)
-- [81% of my agent's telemetry was a copy of something I already had](https://dev.to/olund/81-of-my-agents-telemetry-was-a-copy-of-something-i-already-had-l2l) (2026-09-04)
-- [Fable 5.1 cut cache reads by 75%. Cost per task went up 20% anyway.](https://dev.to/aidiveyt/fable-51-cut-cache-reads-by-75-cost-per-task-went-up-20-anyway-3l2i) (2026-09-04)
-- [Check Your Laptop Battery Health with BatteryHealth. A Simple PowerShell Script](https://dev.to/nstechbytes/check-your-laptop-battery-health-with-batteryhealth-a-simple-powershell-script-5do1) (2026-09-04)
+- [I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi) (2026-09-04)
+- [SEO in 2027 Will Depend on AI Answers, Community Signals and Traditional Search](https://dev.to/alifar/seo-in-2027-will-depend-on-ai-answers-community-signals-and-traditional-search-2p78) (2026-09-04)
+- [Google AI Overviews Can Expand in Search: What the SERP Change Means for SEO](https://dev.to/alifar/google-ai-overviews-can-expand-in-search-what-the-serp-change-means-for-seo-24op) (2026-09-04)
+- [Decode and encode JSON in Haskell like an Elm developer](https://dev.to/dwayne/decode-and-encode-json-in-haskell-like-an-elm-developer-1nod) (2026-09-04)
+- [Vibe coding got me 80% there. Spec-Driven Development got me the other 20%.](https://dev.to/rochijacob/vibe-coding-got-me-80-there-spec-driven-development-got-me-the-other-20-12hk) (2026-09-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python vs Java Which Programming Language Should Beginners Learn](https://medium.com/@mdaatifazam03/python-vs-java-which-programming-language-should-beginners-learn-ebee1968a958?source=rss------programming-5) (2026-09-04)
-- [Junior Devs Rely on Pessimistic Locks: Senior Devs Prefer Optimistic or Atomic SQL — Here’s Exactly…](https://blog.stackademic.com/junior-devs-rely-on-pessimistic-locks-senior-devs-prefer-optimistic-or-atomic-sql-heres-exactly-6177e3569355?source=rss------programming-5) (2026-09-04)
-- [20 Java 8 Stream API Coding Questions for Interview Preparation](https://medium.com/@anil-singh/20-java-8-stream-api-coding-questions-for-interview-preparation-f096452bbfe9?source=rss------programming-5) (2026-09-04)
-- [I Thought I Understood LLM Memory. Then I Learned How It Actually Works.](https://medium.com/c-sharp-programming/i-thought-i-understood-llm-memory-then-i-learned-how-it-actually-works-f3b2aae8c2a5?source=rss------programming-5) (2026-09-04)
-- [15 Senior Java Interview Questions That Actually Test Your Experience](https://medium.com/@kaurharjeet122/15-senior-java-interview-questions-that-actually-test-your-experience-7bc0850a8784?source=rss------programming-5) (2026-09-04)
+- [Part-01: Computer Hardware](https://medium.com/@0s.and.1s/computer-hardware-01-7cf6a491c86e?source=rss------programming-5) (2026-09-04)
+- [You Can Be Right and Still Lose the Argument](https://medium.com/loop-of-thought/you-can-be-right-and-still-lose-the-argument-5d1752a93c59?source=rss------programming-5) (2026-09-04)
+- [Coding in the age of AI](https://nir-orman.medium.com/coding-in-the-age-of-ai-c4ca7457ca3a?source=rss------programming-5) (2026-09-04)
+- [What Changes When Your Backend Goes From 10K to 10M Requests](https://medium.com/@optimzationking2/what-changes-when-your-backend-goes-from-10k-to-10m-requests-23140c7ecb27?source=rss------programming-5) (2026-09-04)
+- [Access Token & Refresh Token](https://medium.com/@ankitkumarsingh22dev/access-token-refresh-token-8133e98763e3?source=rss------programming-5) (2026-09-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 - [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
 - [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
 - [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
+- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 
 </details>
 
@@ -389,6 +389,11 @@
 https://www.twilio.com/en-us/blog/insights/questions-before-delegating-to-ai-agent
 ) (2026-09-03)
 - [
+Build a Video Chat App with ASP.NET Core and Angular using Twilio Video
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-dotnet-angular
+) (2026-09-03)
+- [
 How to disclose AI to customers without killing the conversation
 ](
 https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
@@ -403,11 +408,6 @@ Complete guide to sending email to Google: Rules, signals & setup
 ](
 https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 ) (2026-09-01)
-- [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify in PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-php
-) (2026-08-31)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026](https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/) (2026-09-04)
 - [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/) (2026-09-02)
 - [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/) (2026-09-02)
 - [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/) (2026-08-28)
 - [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/) (2026-08-27)
-- [PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv](https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update/) (2026-08-26)
 
 </details>
 
