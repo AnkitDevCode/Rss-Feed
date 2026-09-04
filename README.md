@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/) (2026-09-04)
+- [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/) (2026-09-03)
+- [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/) (2026-09-03)
+- [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/) (2026-09-03)
 - [The Cybercab is Tesla’s ‘fork in the road’ moment ](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/) (2026-09-03)
-- [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/) (2026-09-03)
-- [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/) (2026-09-03)
-- [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/) (2026-09-03)
-- [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Three-LLM: Three.js-based WebGPU LLM inference engine](https://three-llm.ben3d.ca) (2026-09-03)
-- [The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street) (2026-09-03)
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) (2026-09-03)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) (2026-09-03)
-- [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent) (2026-09-03)
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) (2026-09-04)
+- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) (2026-09-03)
+- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) (2026-09-03)
+- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) (2026-09-03)
+- [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) (2026-09-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety) (2026-09-03)
-- [Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale) (2026-09-03)
-- [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (2026-09-03)
-- [Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers](https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes) (2026-09-03)
-- [Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option) (2026-09-03)
+- [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40) (2026-09-04)
+- [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk) (2026-09-04)
+- [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out) (2026-09-03)
+- [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling) (2026-09-03)
+- [Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix) (2026-09-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [US senator calls on the NSA to give guidance for use of VPNs](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/) (2026-09-03)
-- [NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not "swaps"](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/) (2026-09-03)
-- [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/) (2026-09-03)
-- [Just like a fruit fly, a new algorithm never forgets old scents](https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/) (2026-09-03)
-- [Four major AI models suffer rare overlapping downtime](https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/) (2026-09-03)
+- [Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them](https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/) (2026-09-03)
+- [Xbox imposes harsh new time limits for Game Pass game streaming](https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/) (2026-09-03)
+- [150 research primates got diarrhea, flooding lab with priceless vaccine data](https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/) (2026-09-03)
+- [Confused about which VPN is right, US senator asks the NSA for guidance](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/) (2026-09-03)
+- [Supreme Court urged to let states regulate sports bets on prediction markets](https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/) (2026-09-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I set up my first Docker SBX kit, and here's how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a) (2026-09-03)
-- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019) (2026-09-03)
-- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827) (2026-09-03)
-- [Identity Verification Gates Invite Acceptance Authentication: 2-Stage User Creation After Proof](https://dev.to/zeligholloway9071/identity-verification-gates-invite-acceptance-authentication-2-stage-user-creation-after-proof-5eif) (2026-09-03)
-- [100% line coverage did not catch the one bug that mattered](https://dev.to/bosun18/100-line-coverage-did-not-catch-the-one-bug-that-mattered-318a) (2026-09-03)
+- [Guide to DNS on Ubuntu 26.04](https://dev.to/peculiarengineer/guide-to-dns-on-ubuntu-2604-1fk) (2026-09-04)
+- [nginx add_header Appends. It Doesn't Override — And That Can Remove Protection.](https://dev.to/nasrulhazim/nginx-addheader-appends-it-doesnt-override-and-that-can-remove-protection-54pf) (2026-09-04)
+- [Dev Log: 2 September 2026 — Every Bug Today Was a Claim Nobody Checked](https://dev.to/nasrulhazim/dev-log-2-september-2026-every-bug-today-was-a-claim-nobody-checked-5ghh) (2026-09-04)
+- [[Open source sharing] How I Built Three Small Party Games for a Spring Dinner](https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p) (2026-09-04)
+- [The board came back. The highlights lied.](https://dev.to/michaeltruong/the-board-came-back-the-highlights-lied-18bo) (2026-09-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [WhatsApp AI Agents That Qualify Leads While You Sleep](https://medium.com/@techpotions/whatsapp-ai-agents-that-qualify-leads-while-you-sleep-e347f180f37e?source=rss------programming-5) (2026-09-03)
-- [How to Use AI Agents Better Than 99% of People (Level 3 AI Masterclass)](https://divadsanders.medium.com/how-to-use-ai-agents-better-than-99-of-people-level-3-ai-masterclass-9d285eefd5c8?source=rss------programming-5) (2026-09-03)
-- [WhatsApp AI Customer Support Bot That Won’t Drop Context](https://medium.com/@techpotions/whatsapp-ai-customer-support-bot-that-wont-drop-context-86767d641cbc?source=rss------programming-5) (2026-09-03)
-- [Chapitre 1 : neuf logs pour construire un site, un bug à la fois](https://medium.com/@bongondamichael/chapitre-1-neuf-logs-pour-construire-un-site-un-bug-%C3%A0-la-fois-2dd34317d097?source=rss------programming-5) (2026-09-03)
-- [The More Senior You Get, the Less Feedback You Receive](https://medium.com/loop-of-thought/the-more-senior-you-get-the-less-feedback-you-receive-0aea9ca28c8f?source=rss------programming-5) (2026-09-03)
+- [Data Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?source=rss------programming-5) (2026-09-04)
+- [How to Earn Money on Binance in 2026: A Beginner’s Complete Guide](https://medium.com/@ahmedganatra83/how-to-earn-money-on-binance-in-2026-a-beginners-complete-guide-ae74b83c514b?source=rss------programming-5) (2026-09-04)
+- [CDN & Edge Caching: Moving Content Closer to Users](https://medium.com/@scosmexs/cdn-edge-caching-moving-content-closer-to-users-b4c96c8c156b?source=rss------programming-5) (2026-09-04)
+- [The C++ Interview Question That Made Me Re-Read My Own Thread Pool](https://medium.com/@sreekareetallapragada/the-c-interview-question-that-made-me-re-read-my-own-thread-pool-92e0121a0c8a?source=rss------programming-5) (2026-09-04)
+- [DevOps vs AIOps vs MLOps vs LLMOps: How They Are Different](https://pawannatekar220.medium.com/devops-vs-aiops-vs-mlops-vs-llmops-how-they-are-different-d7fc4e207882?source=rss------programming-5) (2026-09-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 - [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
 - [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
 - [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
-- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 
 </details>
 
@@ -372,11 +372,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models](https://blog.cloudflare.com/vulnerability-discovery-remediation/) (2026-09-03)
 - [How we could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/) (2026-09-01)
 - [Introducing Adaptive Intelligence: Undermining the economics of every bot attack](https://blog.cloudflare.com/introducing-adaptive-intelligence/) (2026-08-31)
 - [BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents](https://blog.cloudflare.com/botbase-for-operators/) (2026-08-28)
 - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) (2026-08-27)
-- [The Cloudflare Blog — brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) (2026-08-24)
 
 </details>
 
