@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/) (2026-09-04)
+- [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/) (2026-09-04)
+- [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/) (2026-09-04)
 - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/) (2026-09-04)
 - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/) (2026-09-04)
-- [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/) (2026-09-04)
-- [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/) (2026-09-04)
-- [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) (2026-09-04)
-- [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) (2026-09-04)
-- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) (2026-09-04)
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) (2026-09-04)
-- [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/) (2026-09-04)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) (2026-09-05)
+- [Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/) (2026-09-05)
+- [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/) (2026-09-04)
+- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90) (2026-09-04)
+- [Connecting every app to every other app](https://blog.val.town/connectors) (2026-09-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing) (2026-09-04)
 - [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright) (2026-09-04)
 - [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter) (2026-09-04)
 - [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip) (2026-09-04)
 - [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be) (2026-09-04)
-- [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit) (2026-09-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/) (2026-09-04)
+- [OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/) (2026-09-04)
+- [Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/) (2026-09-04)
+- [Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC](https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/) (2026-09-04)
 - [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/) (2026-09-04)
-- [“Trust, not features, is the real deficit”: VMware tries to appease SMBs](https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/) (2026-09-04)
-- [Once popular for attacking AI, ASCII smuggling is embraced by spammers](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) (2026-09-04)
-- [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/) (2026-09-04)
-- [A ratings board wouldn't let Valve release a trailer. It "leaked" it instead.](https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/) (2026-09-04)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi) (2026-09-04)
-- [SEO in 2027 Will Depend on AI Answers, Community Signals and Traditional Search](https://dev.to/alifar/seo-in-2027-will-depend-on-ai-answers-community-signals-and-traditional-search-2p78) (2026-09-04)
-- [Google AI Overviews Can Expand in Search: What the SERP Change Means for SEO](https://dev.to/alifar/google-ai-overviews-can-expand-in-search-what-the-serp-change-means-for-seo-24op) (2026-09-04)
-- [Decode and encode JSON in Haskell like an Elm developer](https://dev.to/dwayne/decode-and-encode-json-in-haskell-like-an-elm-developer-1nod) (2026-09-04)
-- [Vibe coding got me 80% there. Spec-Driven Development got me the other 20%.](https://dev.to/rochijacob/vibe-coding-got-me-80-there-spec-driven-development-got-me-the-other-20-12hk) (2026-09-04)
+- [Intrusion Activity in Latin America: LLM Trial and Error and SOCKS5 Relay Operations](https://dev.to/anoymask/intrusion-activity-in-latin-america-llm-trial-and-error-and-socks5-relay-operations-4c95) (2026-09-05)
+- [Build a Codex Amazon Product Research Workflow with Approval Gates](https://dev.to/nexscope/build-a-codex-amazon-product-research-workflow-with-approval-gates-5f1m) (2026-09-05)
+- [Lenexus wants to map everything that could take your business down](https://dev.to/yvanlloic/lenexus-wants-to-map-everything-that-could-take-your-business-down-1f68) (2026-09-05)
+- [I'm 12. I'm hosting a 3-day online coding festival from my phone. Here's the schedule.](https://dev.to/koda2026/im-12-im-hosting-a-3-day-online-coding-festival-from-my-phone-heres-the-schedule-1bo8) (2026-09-05)
+- [The Beginning of My Competitive Programming Journey](https://dev.to/mohan_kumara_2bcdc61f495/the-beginning-of-my-competitive-programming-journey-ljb) (2026-09-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Part-01: Computer Hardware](https://medium.com/@0s.and.1s/computer-hardware-01-7cf6a491c86e?source=rss------programming-5) (2026-09-04)
-- [You Can Be Right and Still Lose the Argument](https://medium.com/loop-of-thought/you-can-be-right-and-still-lose-the-argument-5d1752a93c59?source=rss------programming-5) (2026-09-04)
-- [Coding in the age of AI](https://nir-orman.medium.com/coding-in-the-age-of-ai-c4ca7457ca3a?source=rss------programming-5) (2026-09-04)
-- [What Changes When Your Backend Goes From 10K to 10M Requests](https://medium.com/@optimzationking2/what-changes-when-your-backend-goes-from-10k-to-10m-requests-23140c7ecb27?source=rss------programming-5) (2026-09-04)
-- [Access Token & Refresh Token](https://medium.com/@ankitkumarsingh22dev/access-token-refresh-token-8133e98763e3?source=rss------programming-5) (2026-09-04)
+- [Resilience Patterns: Timeout, Retry, Circuit Breaker & Bulkhead](https://medium.com/@scosmexs/resilience-patterns-timeout-retry-circuit-breaker-bulkhead-b323e6622566?source=rss------programming-5) (2026-09-05)
+- [Design a Distributed Cache From First Principles — Part 4](https://sumanthpoola.medium.com/design-a-distributed-cache-from-first-principles-part-4-39521b2db5b8?source=rss------programming-5) (2026-09-05)
+- [‏Turn Your Free Time Into Extra Money
+‏Have you ever wondered if your free time could be more…](https://medium.com/@alaa.alaac2026/turn-your-free-time-into-extra-money-have-you-ever-wondered-if-your-free-time-could-be-more-9fabe2e2f08f?source=rss------programming-5) (2026-09-05)
+- [From Python 3.6 to 3.14: Part 3 — What Python 3.14 Actually Ships](https://medium.com/@naprime2748/from-python-3-6-to-3-14-part-3-what-python-3-14-actually-ships-659eb7f13ee7?source=rss------programming-5) (2026-09-05)
+- [Why Long-Running AI Coding Tasks Are Still Hard to Resume](https://medium.com/@ranguoxing456/why-long-running-ai-coding-tasks-are-still-hard-to-resume-994350453719?source=rss------programming-5) (2026-09-05)
 
 </details>
 
@@ -119,11 +120,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 - [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
 - [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
 - [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
-- [The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/) (2026-08-25)
 
 </details>
 
@@ -207,11 +208,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) (2026-09-04)
 - [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) (2026-09-03)
 - [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/) (2026-09-02)
 - [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (2026-09-01)
 - [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (2026-08-31)
-- [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) (2026-08-28)
 
 </details>
 
@@ -361,11 +362,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free) (2026-09-04)
+- [GPT 6 Astra now available on Vercel AI Gateway](https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway) (2026-09-04)
 - [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox) (2026-09-03)
 - [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines) (2026-09-03)
 - [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro) (2026-09-02)
-- [Muse Spark 1.3 now available on AI Gateway](https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway) (2026-09-02)
-- [GLM-5.3 is 50% off through DigitalOcean on AI Gateway](https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway) (2026-09-02)
 
 </details>
 
@@ -579,6 +580,17 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
+- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
+- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
+- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
+- [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/) (2026-09-02)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Optimal Traffic Allocation Under Heterogeneous Variant Cost](https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/) (2026-09-04)
@@ -592,11 +604,11 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model](https://www.analyticsvidhya.com/blog/2026/09/gpt-6-astra-explained/) (2026-09-05)
 - [Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition) ](https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/) (2026-09-04)
 - [OpenCode Explained: The Open-Source AI Coding Agent](https://www.analyticsvidhya.com/blog/2026/09/opencode-ai-explained/) (2026-09-03)
 - [A Complete Guide to Decoding LLM Model Names](https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/) (2026-09-02)
 - [5 Best Local LLMs You Can Run on a Mac mini in 2026](https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/) (2026-09-01)
-- [Top 7 Free AI Automation Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/08/free-ai-automation-courses-with-certificates/) (2026-08-30)
 
 </details>
 
