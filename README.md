@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) (2026-09-05)
+- [Git hosting that never leaves Europe](https://pushin.eu) (2026-09-05)
+- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation) (2026-09-05)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances) (2026-09-05)
 - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) (2026-09-05)
-- [Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/) (2026-09-05)
-- [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/) (2026-09-04)
-- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90) (2026-09-04)
-- [Connecting every app to every other app](https://blog.val.town/connectors) (2026-09-04)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Intrusion Activity in Latin America: LLM Trial and Error and SOCKS5 Relay Operations](https://dev.to/anoymask/intrusion-activity-in-latin-america-llm-trial-and-error-and-socks5-relay-operations-4c95) (2026-09-05)
-- [Build a Codex Amazon Product Research Workflow with Approval Gates](https://dev.to/nexscope/build-a-codex-amazon-product-research-workflow-with-approval-gates-5f1m) (2026-09-05)
-- [Lenexus wants to map everything that could take your business down](https://dev.to/yvanlloic/lenexus-wants-to-map-everything-that-could-take-your-business-down-1f68) (2026-09-05)
-- [I'm 12. I'm hosting a 3-day online coding festival from my phone. Here's the schedule.](https://dev.to/koda2026/im-12-im-hosting-a-3-day-online-coding-festival-from-my-phone-heres-the-schedule-1bo8) (2026-09-05)
-- [The Beginning of My Competitive Programming Journey](https://dev.to/mohan_kumara_2bcdc61f495/the-beginning-of-my-competitive-programming-journey-ljb) (2026-09-05)
+- [I got tired of chaining 3 apps to translate a Korean dialog in a screenshot, so I built one Swift app that does it](https://dev.to/tuan_tran_c9f0b519756c494/i-got-tired-of-chaining-3-apps-to-translate-a-korean-dialog-in-a-screenshot-so-i-built-one-swift-342g) (2026-09-05)
+- [Stress-Testing dbx: 20 MB on the Disk, 90 Database Paths to Exercise](https://dev.to/jamse_bao/stress-testing-dbx-20-mb-on-the-disk-90-database-paths-to-exercise-443m) (2026-09-05)
+- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9) (2026-09-05)
+- [Zero Trust Network Architecture: A Practical Enterprise Implementation Guide ](https://dev.to/ronak_sharma_913570f6e215/zero-trust-network-architecture-a-practical-enterprise-implementation-guide-2mhe) (2026-09-05)
+- [I Tried Nx Plugin for AWS, Here's Why I'm Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce) (2026-09-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Resilience Patterns: Timeout, Retry, Circuit Breaker & Bulkhead](https://medium.com/@scosmexs/resilience-patterns-timeout-retry-circuit-breaker-bulkhead-b323e6622566?source=rss------programming-5) (2026-09-05)
-- [Design a Distributed Cache From First Principles — Part 4](https://sumanthpoola.medium.com/design-a-distributed-cache-from-first-principles-part-4-39521b2db5b8?source=rss------programming-5) (2026-09-05)
-- [‏Turn Your Free Time Into Extra Money
-‏Have you ever wondered if your free time could be more…](https://medium.com/@alaa.alaac2026/turn-your-free-time-into-extra-money-have-you-ever-wondered-if-your-free-time-could-be-more-9fabe2e2f08f?source=rss------programming-5) (2026-09-05)
-- [From Python 3.6 to 3.14: Part 3 — What Python 3.14 Actually Ships](https://medium.com/@naprime2748/from-python-3-6-to-3-14-part-3-what-python-3-14-actually-ships-659eb7f13ee7?source=rss------programming-5) (2026-09-05)
-- [Why Long-Running AI Coding Tasks Are Still Hard to Resume](https://medium.com/@ranguoxing456/why-long-running-ai-coding-tasks-are-still-hard-to-resume-994350453719?source=rss------programming-5) (2026-09-05)
+- [Same Model, Same Tasks, 17x the Cost: Blame the Harness](https://medium.com/@sebuzdugan/same-model-same-tasks-17x-the-cost-blame-the-harness-55d8c8b15b4d?source=rss------programming-5) (2026-09-05)
+- [I Spent a Weekend Auditing GitHub’s Trending Page.](https://medium.com/@inprogrammer651/i-spent-a-weekend-auditing-githubs-trending-page-7b7dddd50f21?source=rss------programming-5) (2026-09-05)
+- [I Thought I Was Good at Python Until I Discovered These 8 Hidden Features](https://medium.com/codetodeploy/i-thought-i-was-good-at-python-until-i-discovered-these-8-hidden-features-eee01fdf53ee?source=rss------programming-5) (2026-09-05)
+- [The Bug That Taught Me What class Actually Is](https://habtesoft.medium.com/the-bug-that-taught-me-what-class-actually-is-bc5a8f18c446?source=rss------programming-5) (2026-09-05)
+- [This Tool Compiles Python Into C. I Tested It Against Cython.](https://python.plainenglish.io/this-tool-compiles-python-into-c-i-tested-it-against-cython-1aa772cad68a?source=rss------programming-5) (2026-09-05)
 
 </details>
 
@@ -120,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
-- [Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/) (2026-08-31)
-- [Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/) (2026-08-27)
-- [The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/) (2026-08-26)
 
 </details>
 
@@ -477,17 +476,6 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
-- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
-- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
-- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
-- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
 
 </details>
 
