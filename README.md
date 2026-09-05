@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) (2026-09-05)
-- [Git hosting that never leaves Europe](https://pushin.eu) (2026-09-05)
-- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation) (2026-09-05)
-- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances) (2026-09-05)
-- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) (2026-09-05)
+- [Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/) (2026-09-05)
+- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) (2026-09-05)
+- [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/) (2026-09-05)
+- [Global warming will exceed 1.5-degree limit, UN says](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone) (2026-09-05)
+- [A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads](https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/) (2026-09-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad) (2026-09-05)
+- [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026) (2026-09-05)
+- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident) (2026-09-05)
+- [Robotaxis enter their villain era ](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai) (2026-09-05)
 - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing) (2026-09-04)
-- [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright) (2026-09-04)
-- [GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter) (2026-09-04)
-- [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip) (2026-09-04)
-- [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be) (2026-09-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I got tired of chaining 3 apps to translate a Korean dialog in a screenshot, so I built one Swift app that does it](https://dev.to/tuan_tran_c9f0b519756c494/i-got-tired-of-chaining-3-apps-to-translate-a-korean-dialog-in-a-screenshot-so-i-built-one-swift-342g) (2026-09-05)
-- [Stress-Testing dbx: 20 MB on the Disk, 90 Database Paths to Exercise](https://dev.to/jamse_bao/stress-testing-dbx-20-mb-on-the-disk-90-database-paths-to-exercise-443m) (2026-09-05)
-- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9) (2026-09-05)
-- [Zero Trust Network Architecture: A Practical Enterprise Implementation Guide ](https://dev.to/ronak_sharma_913570f6e215/zero-trust-network-architecture-a-practical-enterprise-implementation-guide-2mhe) (2026-09-05)
-- [I Tried Nx Plugin for AWS, Here's Why I'm Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce) (2026-09-05)
+- [AI Meeting Notes That Capture What Was Decided and What Comes Next](https://dev.to/xiaobei/ai-meeting-notes-that-capture-what-was-decided-and-what-comes-next-29m) (2026-09-05)
+- [Building a Zero-Paywall AI Font Identifier: Fast Typography Matching on the Edge](https://dev.to/hardiksharmaai/building-a-zero-paywall-ai-font-identifier-fast-typography-matching-on-the-edge-5h5k) (2026-09-05)
+- [AWS & SRE Field Manual (Part 7): Amazon RDS Deep Dive: Architecture and High Availability](https://dev.to/enesguler/aws-sre-filed-part-7-amazon-rds-deep-dive-architecture-and-high-availability-421n) (2026-09-05)
+- [Google Fixes Gemini 3.8 Flash Citation Bug in AI Mode After Missing Source Links](https://dev.to/alifar/google-fixes-gemini-38-flash-citation-bug-in-ai-mode-after-missing-source-links-jhf) (2026-09-05)
+- [Can Your AI Use What It Remembers?](https://dev.to/p0rt/can-your-ai-use-what-it-remembers-57c) (2026-09-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Same Model, Same Tasks, 17x the Cost: Blame the Harness](https://medium.com/@sebuzdugan/same-model-same-tasks-17x-the-cost-blame-the-harness-55d8c8b15b4d?source=rss------programming-5) (2026-09-05)
-- [I Spent a Weekend Auditing GitHub’s Trending Page.](https://medium.com/@inprogrammer651/i-spent-a-weekend-auditing-githubs-trending-page-7b7dddd50f21?source=rss------programming-5) (2026-09-05)
-- [I Thought I Was Good at Python Until I Discovered These 8 Hidden Features](https://medium.com/codetodeploy/i-thought-i-was-good-at-python-until-i-discovered-these-8-hidden-features-eee01fdf53ee?source=rss------programming-5) (2026-09-05)
-- [The Bug That Taught Me What class Actually Is](https://habtesoft.medium.com/the-bug-that-taught-me-what-class-actually-is-bc5a8f18c446?source=rss------programming-5) (2026-09-05)
-- [This Tool Compiles Python Into C. I Tested It Against Cython.](https://python.plainenglish.io/this-tool-compiles-python-into-c-i-tested-it-against-cython-1aa772cad68a?source=rss------programming-5) (2026-09-05)
+- [Building a 3-Node Highly Available Kubernetes Homelab with Talos Linux](https://medium.com/@prateekjain.dev/building-a-3-node-highly-available-kubernetes-homelab-with-talos-linux-0372066fe49c?source=rss------programming-5) (2026-09-05)
+- [6 Rs of Cloud Migration: A Practical Decision Guide for Your Applications](https://medium.com/@sahilsinha1505/6-rs-of-cloud-migration-a-practical-decision-guide-for-your-applications-86b0fbcbcec0?source=rss------programming-5) (2026-09-05)
+- [How Apps Keep You Logged In Without Asking for Your Password Every Time](https://medium.com/@ashutoshyad7080/how-apps-keep-you-logged-in-without-asking-for-your-password-every-time-4d4eeada84cf?source=rss------programming-5) (2026-09-05)
+- [Demystifying Access & Refresh Tokens: Beyond Simple Password Checks](https://medium.com/@sm4646779/demystifying-access-refresh-tokens-beyond-simple-password-checks-d10bf160bb1a?source=rss------programming-5) (2026-09-05)
+- [SQL Server SELECT Explained: FROM, WHERE, NOLOCK, ORDER BY, GROUP BY and HAVING](https://medium.com/@bruno.destro/sql-server-select-explained-from-where-nolock-order-by-group-by-and-having-235b6b07dc37?source=rss------programming-5) (2026-09-05)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -384,14 +384,19 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-4 must-ask questions before you delegate to your AI agent
+What is bring your own LLM (BYO LLM)?
 ](
-https://www.twilio.com/en-us/blog/insights/questions-before-delegating-to-ai-agent
-) (2026-09-03)
+https://www.twilio.com/en-us/blog/insights/bring-your-own-llm
+) (2026-09-04)
 - [
 Build a Video Chat App with ASP.NET Core and Angular using Twilio Video
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-dotnet-angular
+) (2026-09-03)
+- [
+4 must-ask questions before you delegate to your AI agent
+](
+https://www.twilio.com/en-us/blog/insights/questions-before-delegating-to-ai-agent
 ) (2026-09-03)
 - [
 How to disclose AI to customers without killing the conversation
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
 When AI takes the wheel: The rise of invisible identity intelligence in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
-) (2026-09-01)
-- [
-Complete guide to sending email to Google: Rules, signals & setup
-](
-https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 ) (2026-09-01)
 
 </details>
@@ -480,6 +480,17 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
+- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
+- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -515,8 +526,8 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
+- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 - [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
@@ -568,24 +579,13 @@ https://www.twilio.com/en-us/blog/insights/sending-email-to-google
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
-- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
-- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
-- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
-- [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/) (2026-09-02)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Dynamical System Transfer Learning with Reduced Order Models](https://towardsdatascience.com/dynamical-system-transfer-learning-with-reduced-order-models/) (2026-09-05)
 - [Optimal Traffic Allocation Under Heterogeneous Variant Cost](https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/) (2026-09-04)
 - [Disaggregation Is a Thousand-GPU Problem](https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/) (2026-09-04)
 - [The Power BI Developer's Survival Guide to Microsoft Fabric](https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/) (2026-09-04)
 - [How to Run 10+ Claude Code Sessions Without a Powerful Computer](https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/) (2026-09-04)
-- [My Model Worked Perfectly. Then I Tried to Make It Useful.](https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/) (2026-09-03)
 
 </details>
 
