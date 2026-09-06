@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) (2026-09-05)
 - [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) (2026-09-05)
 - [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) (2026-09-05)
 - [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/) (2026-09-05)
 - [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/) (2026-09-05)
-- [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The moral panic over data centres is foolish](https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish) (2026-09-05)
-- [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) (2026-09-05)
-- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) (2026-09-05)
-- [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods) (2026-09-05)
-- [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/) (2026-09-05)
+- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) (2026-09-06)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) (2026-09-06)
+- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) (2026-09-05)
+- [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory) (2026-09-05)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) (2026-09-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings) (2026-09-05)
+- [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27) (2026-09-05)
 - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence) (2026-09-05)
 - [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview) (2026-09-05)
 - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad) (2026-09-05)
-- [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026) (2026-09-05)
-- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident) (2026-09-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Dependency the Agent Invented: A Myth-Busting FAQ](https://dev.to/devio_3007/the-dependency-the-agent-invented-a-myth-busting-faq-j3a) (2026-09-05)
-- [How to Hire Ukrainian Developers Without Wasting Your Budget](https://dev.to/kpripper/how-to-hire-ukrainian-developers-without-wasting-your-budget-39eg) (2026-09-05)
-- [Goldie Brings Mobile Store Assets Into Agent Workflows](https://dev.to/dd8888/goldie-brings-mobile-store-assets-into-agent-workflows-2k8) (2026-09-05)
-- [I let my own 31B model take over development of the thing running it](https://dev.to/natuworkguy/i-let-my-own-31b-model-take-over-development-of-the-thing-running-it-551b) (2026-09-05)
-- [When Should an AI Suggestion Become a Financial Record?](https://dev.to/hakkiyuvanc/when-should-an-ai-suggestion-become-a-financial-record-3523) (2026-09-05)
+- [What Should a Board Ask Before Approving an AI Coding Tool Rollout?](https://dev.to/codacon/what-should-a-board-ask-before-approving-an-ai-coding-tool-rollout-49a7) (2026-09-06)
+- [13 findings no Juice Shop. Nenhuma virou issue.](https://dev.to/tiagovilasboas/13-findings-no-juice-shop-nenhuma-virou-issue-340p) (2026-09-06)
+- [Axiom: Stop Fighting Your Project Before You Even Run It](https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2) (2026-09-06)
+- [Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist](https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd) (2026-09-06)
+- [Finding "Duplicates Through Time"](https://dev.to/denzyldick/finding-duplicates-through-time-2c56) (2026-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spec-Driven Development: Why Writing Comes Before Coding](https://medium.com/@shashankbhatyes/spec-driven-development-why-writing-comes-before-coding-79d3aad70d7c?source=rss------programming-5) (2026-09-05)
-- [Programación en motos deportivas](https://medium.com/@giraldobermudezmatias/programaci%C3%B3n-en-motos-deportivas-bf88569a8633?source=rss------programming-5) (2026-09-05)
-- [Design a Notification System — Push, SMS & Email at Scale](https://medium.com/@randhir.jassal/design-a-notification-system-push-sms-email-at-scale-e4edc94e6c01?source=rss------programming-5) (2026-09-05)
-- [Vibe Coding Is Easy. Understanding the System Is the Real Skill..](https://focuscrafter.medium.com/vibe-coding-is-easy-understanding-the-system-is-the-real-skill-eff393d3f1d4?source=rss------programming-5) (2026-09-05)
-- [TypeScript 7 Is 10× Faster. That’s the Easy Part.](https://medium.com/@ishaqsaqib/typescript-7-is-10-faster-thats-the-easy-part-d1d034a38fbd?source=rss------programming-5) (2026-09-05)
+- [Distributed Systems Fundamentals: Why Distributed Systems Are Hard](https://medium.com/@scosmexs/distributed-systems-fundamentals-why-distributed-systems-are-hard-649029e59928?source=rss------programming-5) (2026-09-06)
+- [9 Cool Repositories I Found on the Internet This Week](https://21zerixpm.medium.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22?source=rss------programming-5) (2026-09-06)
+- [You’re Probably Using AI to Code Wrong: 25 Commands Engineers Should Steal](https://ai.plainenglish.io/youre-probably-using-ai-to-code-wrong-25-commands-engineers-should-steal-a5e564d7c1f7?source=rss------programming-5) (2026-09-06)
+- [Stop Coding on Day One](https://medium.com/@basalich43/stop-coding-on-day-one-e463746bc722?source=rss------programming-5) (2026-09-06)
+- [Beyond Scaling Laws: How Gemini 3.8 Flash Is Redefining AI Reasoning Through Agentic Execution](https://medium.com/@usmanboota01/beyond-scaling-laws-how-gemini-3-8-flash-is-redefining-ai-reasoning-through-agentic-execution-7b69e1afbc49?source=rss------programming-5) (2026-09-06)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
