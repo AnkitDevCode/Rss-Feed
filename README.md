@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/) (2026-09-06)
-- [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/) (2026-09-06)
-- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) (2026-09-06)
-- [Site Is Closed on Sundays](https://v7.robweychert.com/) (2026-09-06)
-- [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/) (2026-09-06)
+- [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3) (2026-09-06)
+- [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry) (2026-09-06)
+- [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/) (2026-09-06)
+- [2026 Hugo Awards](https://www.thehugoawards.org/) (2026-09-06)
+- [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity) (2026-09-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review) (2026-09-06)
+- [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility) (2026-09-06)
+- [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us) (2026-09-06)
 - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings) (2026-09-05)
 - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27) (2026-09-05)
-- [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence) (2026-09-05)
-- [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview) (2026-09-05)
-- [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad) (2026-09-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [German company becomes first in Europe to launch fully commercial orbital rocket](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/) (2026-09-06)
+- [Farmed salmon may not be as nutritious as it once was, new research suggests](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/) (2026-09-06)
 - [Tesla’s Cybercab has been deployed, and it’s already under investigation](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/) (2026-09-05)
 - [After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/) (2026-09-04)
 - [OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/) (2026-09-04)
-- [Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/) (2026-09-04)
-- [Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC](https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/) (2026-09-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Rebuilt My RAG Pipeline Without LangChain — What Got Better and What Got Worse](https://dev.to/hosseinhezami/i-rebuilt-my-rag-pipeline-without-langchain-what-got-better-and-what-got-worse-4d1a) (2026-09-06)
-- [Everyone agrees on the risk. They disagree on the price.](https://dev.to/lvlrsajjad/everyone-agrees-on-the-risk-they-disagree-on-the-price-44fl) (2026-09-06)
-- [Build a Booking.com hotel shortlist in Google Sheets with n8n and Apify](https://dev.to/luminar1/build-a-bookingcom-hotel-shortlist-in-google-sheets-with-n8n-and-apify-1pn0) (2026-09-06)
-- [I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p) (2026-09-06)
-- [RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc) (2026-09-06)
+- [npm Trusted Publishing fails with a 404, and the 404 is lying to you](https://dev.to/sirinivask/npm-trusted-publishing-fails-with-a-404-and-the-404-is-lying-to-you-3b7i) (2026-09-06)
+- [Intesta: an attested fact registry that AI agents query through MCP instead of scraping stale pages](https://dev.to/darius_ceponas_2b7889e363/intesta-an-attested-fact-registry-that-ai-agents-query-through-mcp-instead-of-scraping-stale-pages-48d9) (2026-09-06)
+- [Movie recommender for people who feels like there is nothing to watch now](https://dev.to/phoenix1854/movie-recommender-for-people-who-feels-like-there-is-nothing-to-watch-now-4g6o) (2026-09-06)
+- [A Reproducible QA Harness for AI Image Editing Features](https://dev.to/sanpaoxiao2/a-reproducible-qa-harness-for-ai-image-editing-features-m1b) (2026-09-06)
+- [Smriti: What If You Could Talk to Them, Just One More Time?](https://dev.to/manish_prajapati_cfaed027/smriti-what-if-you-could-talk-to-them-just-one-more-time-449p) (2026-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why your distributed lock is probably broken](https://clint-mathews.medium.com/why-your-distributed-lock-is-probably-broken-592987479e7b?source=rss------programming-5) (2026-09-06)
-- [In 2024, a Google Architect Told Me AI Would Not Take Developer Jobs. I Asked Him Again in 2026](https://javascript.plainenglish.io/in-2024-a-google-architect-told-me-ai-would-not-take-developer-jobs-i-asked-him-again-in-2026-b53065f2ad6a?source=rss------programming-5) (2026-09-06)
-- [I Built My First Real Python Project in Week 3 — Here’s the Exact Code (Part 2)….](https://python.plainenglish.io/i-built-my-first-real-python-project-in-week-3-heres-the-exact-code-part-2-df932f97999c?source=rss------programming-5) (2026-09-06)
-- [Python 3.15 Is Almost Here. These Are the Changes Developers Actually Need to Know](https://python.plainenglish.io/python-3-15-is-almost-here-these-are-the-changes-developers-actually-need-to-know-e277490183e3?source=rss------programming-5) (2026-09-06)
-- [The Hidden Cost of Technical Debt in Software Projects](https://medium.com/@TheLazyDev0/the-hidden-cost-of-technical-debt-in-software-projects-ae5f85eacc88?source=rss------programming-5) (2026-09-06)
+- [️ Shielding Sovereignty: Why Central Banks Deeply Need Blockchain Analytics (Chainalysis…](https://medium.com/@saidur48/%EF%B8%8F-shielding-sovereignty-why-central-banks-deeply-need-blockchain-analytics-chainalysis-5b2a498515e5?source=rss------programming-5) (2026-09-06)
+- [The Habits That Made Me a Senior Engineer Eventually Made Me a Bad One](https://medium.com/javarevisited/the-habits-that-made-me-a-senior-engineer-eventually-made-me-a-bad-one-d61a7497c726?source=rss------programming-5) (2026-09-06)
+- [I Thought Being the Best Engineer Would Protect Me. I Was Wrong.](https://medium.com/javarevisited/i-thought-being-the-best-engineer-would-protect-me-i-was-wrong-b2c11464781d?source=rss------programming-5) (2026-09-06)
+- [The Tenderness of Being Undone.](https://medium.com/@amakaaniegboka/the-tenderness-of-being-undone-c2161ff6b3cd?source=rss------programming-5) (2026-09-06)
+- [Interfaces in C#](https://medium.com/@rhutu.takle/interfaces-in-c-227f4623ac4c?source=rss------programming-5) (2026-09-06)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Text Watermarking in Python: Catch Whoever Copies Your Writing](https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/) (2026-09-06)
+- [Linear Discriminant Analysis (LDA) in Real-Life: Dimensionality Reduction in a Real-Estate Dataset](https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/) (2026-09-06)
 - [Why Transformers Need Positional Encoding For Time Series: A Visual Guide](https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/) (2026-09-05)
 - [Dynamical System Transfer Learning with Reduced Order Models](https://towardsdatascience.com/dynamical-system-transfer-learning-with-reduced-order-models/) (2026-09-05)
 - [Optimal Traffic Allocation Under Heterogeneous Variant Cost](https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/) (2026-09-04)
-- [Disaggregation Is a Thousand-GPU Problem](https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/) (2026-09-04)
-- [The Power BI Developer's Survival Guide to Microsoft Fabric](https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/) (2026-09-04)
 
 </details>
 
