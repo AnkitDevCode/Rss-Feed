@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) (2026-09-06)
-- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) (2026-09-06)
-- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) (2026-09-05)
-- [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory) (2026-09-05)
-- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) (2026-09-05)
+- [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/) (2026-09-06)
+- [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/) (2026-09-06)
+- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) (2026-09-06)
+- [Site Is Closed on Sundays](https://v7.robweychert.com/) (2026-09-06)
+- [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/) (2026-09-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Should a Board Ask Before Approving an AI Coding Tool Rollout?](https://dev.to/codacon/what-should-a-board-ask-before-approving-an-ai-coding-tool-rollout-49a7) (2026-09-06)
-- [13 findings no Juice Shop. Nenhuma virou issue.](https://dev.to/tiagovilasboas/13-findings-no-juice-shop-nenhuma-virou-issue-340p) (2026-09-06)
-- [Axiom: Stop Fighting Your Project Before You Even Run It](https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2) (2026-09-06)
-- [Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist](https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd) (2026-09-06)
-- [Finding "Duplicates Through Time"](https://dev.to/denzyldick/finding-duplicates-through-time-2c56) (2026-09-06)
+- [I Rebuilt My RAG Pipeline Without LangChain — What Got Better and What Got Worse](https://dev.to/hosseinhezami/i-rebuilt-my-rag-pipeline-without-langchain-what-got-better-and-what-got-worse-4d1a) (2026-09-06)
+- [Everyone agrees on the risk. They disagree on the price.](https://dev.to/lvlrsajjad/everyone-agrees-on-the-risk-they-disagree-on-the-price-44fl) (2026-09-06)
+- [Build a Booking.com hotel shortlist in Google Sheets with n8n and Apify](https://dev.to/luminar1/build-a-bookingcom-hotel-shortlist-in-google-sheets-with-n8n-and-apify-1pn0) (2026-09-06)
+- [I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p) (2026-09-06)
+- [RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc) (2026-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Distributed Systems Fundamentals: Why Distributed Systems Are Hard](https://medium.com/@scosmexs/distributed-systems-fundamentals-why-distributed-systems-are-hard-649029e59928?source=rss------programming-5) (2026-09-06)
-- [9 Cool Repositories I Found on the Internet This Week](https://21zerixpm.medium.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22?source=rss------programming-5) (2026-09-06)
-- [You’re Probably Using AI to Code Wrong: 25 Commands Engineers Should Steal](https://ai.plainenglish.io/youre-probably-using-ai-to-code-wrong-25-commands-engineers-should-steal-a5e564d7c1f7?source=rss------programming-5) (2026-09-06)
-- [Stop Coding on Day One](https://medium.com/@basalich43/stop-coding-on-day-one-e463746bc722?source=rss------programming-5) (2026-09-06)
-- [Beyond Scaling Laws: How Gemini 3.8 Flash Is Redefining AI Reasoning Through Agentic Execution](https://medium.com/@usmanboota01/beyond-scaling-laws-how-gemini-3-8-flash-is-redefining-ai-reasoning-through-agentic-execution-7b69e1afbc49?source=rss------programming-5) (2026-09-06)
+- [Why your distributed lock is probably broken](https://clint-mathews.medium.com/why-your-distributed-lock-is-probably-broken-592987479e7b?source=rss------programming-5) (2026-09-06)
+- [In 2024, a Google Architect Told Me AI Would Not Take Developer Jobs. I Asked Him Again in 2026](https://javascript.plainenglish.io/in-2024-a-google-architect-told-me-ai-would-not-take-developer-jobs-i-asked-him-again-in-2026-b53065f2ad6a?source=rss------programming-5) (2026-09-06)
+- [I Built My First Real Python Project in Week 3 — Here’s the Exact Code (Part 2)….](https://python.plainenglish.io/i-built-my-first-real-python-project-in-week-3-heres-the-exact-code-part-2-df932f97999c?source=rss------programming-5) (2026-09-06)
+- [Python 3.15 Is Almost Here. These Are the Changes Developers Actually Need to Know](https://python.plainenglish.io/python-3-15-is-almost-here-these-are-the-changes-developers-actually-need-to-know-e277490183e3?source=rss------programming-5) (2026-09-06)
+- [The Hidden Cost of Technical Debt in Software Projects](https://medium.com/@TheLazyDev0/the-hidden-cost-of-technical-debt-in-software-projects-ae5f85eacc88?source=rss------programming-5) (2026-09-06)
 
 </details>
 
@@ -526,8 +526,8 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
+- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 - [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
