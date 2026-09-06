@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) (2026-09-06)
+- [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/) (2026-09-06)
 - [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) (2026-09-05)
 - [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) (2026-09-05)
 - [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) (2026-09-05)
-- [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/) (2026-09-05)
-- [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/) (2026-09-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3) (2026-09-06)
-- [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry) (2026-09-06)
-- [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/) (2026-09-06)
-- [2026 Hugo Awards](https://www.thehugoawards.org/) (2026-09-06)
-- [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity) (2026-09-06)
+- [Finder is so frustrating and has been since day one](https://kepter.app/finder) (2026-09-06)
+- [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter) (2026-09-06)
+- [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) (2026-09-06)
+- [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) (2026-09-06)
+- [An Alien Mind](https://openai.com/index/an-alien-mind/) (2026-09-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch) (2026-09-06)
+- [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa) (2026-09-06)
 - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review) (2026-09-06)
 - [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility) (2026-09-06)
 - [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us) (2026-09-06)
-- [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings) (2026-09-05)
-- [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27) (2026-09-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [npm Trusted Publishing fails with a 404, and the 404 is lying to you](https://dev.to/sirinivask/npm-trusted-publishing-fails-with-a-404-and-the-404-is-lying-to-you-3b7i) (2026-09-06)
-- [Intesta: an attested fact registry that AI agents query through MCP instead of scraping stale pages](https://dev.to/darius_ceponas_2b7889e363/intesta-an-attested-fact-registry-that-ai-agents-query-through-mcp-instead-of-scraping-stale-pages-48d9) (2026-09-06)
-- [Movie recommender for people who feels like there is nothing to watch now](https://dev.to/phoenix1854/movie-recommender-for-people-who-feels-like-there-is-nothing-to-watch-now-4g6o) (2026-09-06)
-- [A Reproducible QA Harness for AI Image Editing Features](https://dev.to/sanpaoxiao2/a-reproducible-qa-harness-for-ai-image-editing-features-m1b) (2026-09-06)
-- [Smriti: What If You Could Talk to Them, Just One More Time?](https://dev.to/manish_prajapati_cfaed027/smriti-what-if-you-could-talk-to-them-just-one-more-time-449p) (2026-09-06)
+- [A New Challenger to CSS Selectors: WebForms Place Criteria (WPC)](https://dev.to/elanatframework/a-new-challenger-to-css-selectors-webforms-place-criteria-wpc-joc) (2026-09-06)
+- [🛡️ IMDSv1 vs IMDSv2 en EC2: SSRF, métricas, riesgos y una migración segura](https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62) (2026-09-06)
+- [Mozaik in Plain English: A Gentle Introduction to Concurrent AI Agents](https://dev.to/jamilxt/mozaik-in-plain-english-a-gentle-introduction-to-concurrent-ai-agents-5bed) (2026-09-06)
+- [I built Rewind: A zero-dependency TIME-TRAVEL DEBUGGER with live in-browser hot-patching (Open for Contributions)](https://dev.to/hrinkar/i-built-rewind-a-zero-dependency-time-travel-debugger-with-live-in-browser-hot-patching-open-for-3imp) (2026-09-06)
+- [Inside the Memory Decision Loop: How AI Agents Decide What to Remember, Update, or Forget](https://dev.to/mukesh_13/inside-the-memory-decision-loop-how-ai-agents-decide-what-to-remember-update-or-forget-1mfl) (2026-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [️ Shielding Sovereignty: Why Central Banks Deeply Need Blockchain Analytics (Chainalysis…](https://medium.com/@saidur48/%EF%B8%8F-shielding-sovereignty-why-central-banks-deeply-need-blockchain-analytics-chainalysis-5b2a498515e5?source=rss------programming-5) (2026-09-06)
-- [The Habits That Made Me a Senior Engineer Eventually Made Me a Bad One](https://medium.com/javarevisited/the-habits-that-made-me-a-senior-engineer-eventually-made-me-a-bad-one-d61a7497c726?source=rss------programming-5) (2026-09-06)
-- [I Thought Being the Best Engineer Would Protect Me. I Was Wrong.](https://medium.com/javarevisited/i-thought-being-the-best-engineer-would-protect-me-i-was-wrong-b2c11464781d?source=rss------programming-5) (2026-09-06)
-- [The Tenderness of Being Undone.](https://medium.com/@amakaaniegboka/the-tenderness-of-being-undone-c2161ff6b3cd?source=rss------programming-5) (2026-09-06)
-- [Interfaces in C#](https://medium.com/@rhutu.takle/interfaces-in-c-227f4623ac4c?source=rss------programming-5) (2026-09-06)
+- [Building CalclifyApp — 60+ free, privacy-first online calculators](https://medium.com/@marketing.calclifyapp/building-calclifyapp-60-free-privacy-first-online-calculators-00ef9ba59fe1?source=rss------programming-5) (2026-09-06)
+- [Stop Memorising Docker Commands: A Simple Survival Guide](https://medium.com/@rummansiddiqui1990/stop-memorising-docker-commands-a-simple-survival-guide-880f5d757e6a?source=rss------programming-5) (2026-09-06)
+- [Building an Adaptive Evidence Pool for AI Research](https://tinkerd.medium.com/building-an-adaptive-evidence-pool-for-ai-research-aef2711a674d?source=rss------programming-5) (2026-09-06)
+- [Build Your First LangGraph Agent: A Beginner’s Step-by-Step Guide](https://medium.com/@kgms.project/build-your-first-langgraph-agent-a-beginners-step-by-step-guide-ffb1c4649edb?source=rss------programming-5) (2026-09-06)
+- [The Lecture Hall vs. Reality ](https://medium.com/@prathameshghuge31/the-lecture-hall-vs-reality-6b09b2040669?source=rss------programming-5) (2026-09-06)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -526,8 +526,8 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
+- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 - [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
@@ -575,6 +575,17 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
+- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
+- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
+- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
+- [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/) (2026-09-02)
 
 </details>
 
