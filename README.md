@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) (2026-09-07)
 - [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) (2026-09-06)
 - [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) (2026-09-06)
 - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) (2026-09-06)
 - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/) (2026-09-06)
-- [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) (2026-09-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Impedance Matching](https://www.edge.org/response-detail/27238) (2026-09-07)
-- ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/) (2026-09-07)
-- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) (2026-09-07)
-- [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus) (2026-09-07)
-- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/) (2026-09-07)
+- [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233) (2026-09-07)
+- [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set) (2026-09-07)
+- [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker) (2026-09-07)
+- [If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/) (2026-09-07)
+- [bzip3](https://github.com/iczelia/bzip3) (2026-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones) (2026-09-07)
+- [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller) (2026-09-07)
+- [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone) (2026-09-07)
 - [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8) (2026-09-07)
 - [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display) (2026-09-07)
-- [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) (2026-09-06)
-- [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami) (2026-09-06)
-- [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch) (2026-09-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The complex corporate web behind a $3.2 billion AI data center](https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/) (2026-09-07)
 - [German company becomes first in Europe to launch fully commercial orbital rocket](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/) (2026-09-06)
 - [Farmed salmon may not be as nutritious as it once was, new research suggests](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/) (2026-09-06)
 - [Tesla’s Cybercab has been deployed, and it’s already under investigation](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/) (2026-09-05)
 - [After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/) (2026-09-04)
-- [OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/) (2026-09-07)
 - [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) (2026-09-04)
 - [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/) (2026-09-04)
 - [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) (2026-09-04)
 - [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/) (2026-09-03)
-- [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/) (2026-09-03)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Atlas Sanctum: Engineering Generosity for Human & Planetary Flourishing](https://dev.to/genesky/atlas-sanctum-engineering-generosity-for-human-planetary-flourishing-48im) (2026-09-07)
-- [The Python Basics Nobody Warns You Are the Real Foundation](https://dev.to/joan_rr/the-python-basics-nobody-warns-you-are-the-real-foundation-20l6) (2026-09-07)
-- [What If One Boring Specialist Agent Beats Your Swiss-Army Bot?](https://dev.to/aninmukhe/what-if-one-boring-specialist-agent-beats-your-swiss-army-bot-31g4) (2026-09-07)
-- [Claude Code permissions: how allow, ask, and deny actually compose](https://dev.to/ottoflightrules/claude-code-permissions-how-allow-ask-and-deny-actually-compose-3kme) (2026-09-07)
-- [Part of Speech Tagging: How NLP Understands Grammar](https://dev.to/javiagu13/part-of-speech-tagging-how-nlp-understands-grammar-2if5) (2026-09-07)
+- [Quantum Computing Is an Orchestration Problem: I Built a Multi-Provider Scheduler and Measured What the Textbooks Only Describe](https://dev.to/mattia_bitocchi/quantum-computing-is-an-orchestration-problem-i-built-a-multi-provider-scheduler-and-measured-what-n7p) (2026-09-07)
+- [DevGuard: A Zero-Dependency Security Scanner Built from Python's Standard Library](https://dev.to/mrudula_22/devguard-a-zero-dependency-security-scanner-built-from-pythons-standard-library-5706) (2026-09-07)
+- [eBPF on Linux — kprobe vs fentry: Hooking Internals & What Production Observability Misses](https://dev.to/harrisonsec/ebpf-on-linux-kprobe-vs-fentry-hooking-internals-what-production-observability-misses-2ohb) (2026-09-07)
+- [Three company registers, one word: what "active" actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2) (2026-09-07)
+- [Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef) (2026-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ASP.NET Core Output Cache: How to Speed Up Your API with In-Memory Cache and Redis](https://medium.com/codex/asp-net-core-output-cache-how-to-speed-up-your-api-with-in-memory-cache-and-redis-da4cd0c716d4?source=rss------programming-5) (2026-09-07)
-- [ The Never Type Is Finally Stable!](https://medium.com/rustaceans/the-never-type-is-finally-stable-58c7afb59b38?source=rss------programming-5) (2026-09-07)
-- [The Empty-String Trap: The Oracle Bug That Breaks Silently on PostgreSQL](https://medium.com/@saadakram210/the-empty-string-trap-the-oracle-bug-that-breaks-silently-on-postgresql-31993c3ad3b4?source=rss------programming-5) (2026-09-07)
-- [GitHub Actions](https://medium.com/@palaciomemoriacodigo/github-actions-1bcacba3c10d?source=rss------programming-5) (2026-09-07)
-- [GitHub Actions](https://medium.com/@palaciomemoriacodigo/github-actions-4796623b14ab?source=rss------programming-5) (2026-09-07)
+- [The Programming Lesson Most Beginners Learn Too Late](https://medium.com/@ad.antu30/the-programming-lesson-most-beginners-learn-too-late-ab1226f42fc9?source=rss------programming-5) (2026-09-07)
+- [How WhatsApp Actually Works: A Simple English Guide to Instant Messaging](https://medium.com/@ankitd9988/how-whatsapp-actually-works-a-simple-english-guide-to-instant-messaging-3fbde198ab74?source=rss------programming-5) (2026-09-07)
+- [Microsoft Doesn’t Need to Win the AI Coding Model War](https://medium.com/@the.coding.front/microsoft-doesnt-need-to-win-the-ai-coding-model-war-88d7fe5d9511?source=rss------programming-5) (2026-09-07)
+- [I Removed MediatR — Building Your Own CQRS Handlers in .NET 10](https://medium.com/@mariammaurice/i-removed-mediatr-building-your-own-cqrs-handlers-in-net-10-49a0030390d9?source=rss------programming-5) (2026-09-07)
+- [Why Elliptic Curve Cryptography](https://medium.com/@hasanmcse/why-elliptic-curve-cryptography-c8f6e96933eb?source=rss------programming-5) (2026-09-07)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/) (2026-09-07)
 - [Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/) (2026-08-31)
 - [AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/) (2026-08-31)
 - [Happy 20th Birthday, Amazon EC2](https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/) (2026-08-25)
 - [AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/) (2026-08-24)
-- [AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support](https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/) (2026-08-21)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin 2.4.20 Released](https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/) (2026-09-07)
+- [Java Annotated Monthly – September 2026 ](https://blog.jetbrains.com/idea/2026/09/java-annotated-monthly-september-2026/) (2026-09-07)
 - [The Rider 2026.3 Early Access Program Is Open](https://blog.jetbrains.com/dotnet/2026/09/07/rider-2026-3-eap/) (2026-09-07)
 - [Learning to Code in the Age of AI: Advice From a Top Udemy Instructor](https://blog.jetbrains.com/education/2026/09/03/learning-to-code-in-the-age-of-ai-advice-from-a-top-udemy-instructor/) (2026-09-03)
 - [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More](https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/) (2026-09-03)
-- [Register Now for JetBrains GameDev Day 2026](https://blog.jetbrains.com/dotnet/2026/09/03/register-now-for-jetbrains-gamedev-day-2026/) (2026-09-02)
-- [IntelliJ IDEA 2026.2.2 Is Out!](https://blog.jetbrains.com/idea/2026/09/intellij-idea-2026-2-2/) (2026-09-02)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/) (2026-09-07)
 - [Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026](https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/) (2026-09-04)
 - [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/) (2026-09-02)
 - [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/) (2026-09-02)
 - [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/) (2026-08-28)
-- [Core PyTorch Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026/) (2026-08-27)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day)](https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/) (2026-09-07)
+- [Why Most Multi-Agent Systems Fail Even When Evaluation Passes](https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/) (2026-09-07)
 - [Text Watermarking in Python: Catch Whoever Copies Your Writing](https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/) (2026-09-06)
 - [Linear Discriminant Analysis (LDA) in Real-Life: Dimensionality Reduction in a Real-Estate Dataset](https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/) (2026-09-06)
 - [Why Transformers Need Positional Encoding For Time Series: A Visual Guide](https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/) (2026-09-05)
-- [Dynamical System Transfer Learning with Reduced Order Models](https://towardsdatascience.com/dynamical-system-transfer-learning-with-reduced-order-models/) (2026-09-05)
-- [Optimal Traffic Allocation Under Heterogeneous Variant Cost](https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/) (2026-09-04)
 
 </details>
 
