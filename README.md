@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) (2026-09-06)
+- [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) (2026-09-06)
 - [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) (2026-09-06)
 - [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/) (2026-09-06)
 - [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) (2026-09-05)
-- [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) (2026-09-05)
-- [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) (2026-09-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Finder is so frustrating and has been since day one](https://kepter.app/finder) (2026-09-06)
-- [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter) (2026-09-06)
-- [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) (2026-09-06)
-- [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) (2026-09-06)
-- [An Alien Mind](https://openai.com/index/an-alien-mind/) (2026-09-06)
+- [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/) (2026-09-07)
+- [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel) (2026-09-07)
+- [Hard-Chat – A serverless, RAM-only P2P terminal chat](https://github.com/mrhardlint/Hard-Chat) (2026-09-06)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) (2026-09-06)
+- [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108) (2026-09-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) (2026-09-06)
+- [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami) (2026-09-06)
 - [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch) (2026-09-06)
 - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa) (2026-09-06)
 - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review) (2026-09-06)
-- [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility) (2026-09-06)
-- [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us) (2026-09-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A New Challenger to CSS Selectors: WebForms Place Criteria (WPC)](https://dev.to/elanatframework/a-new-challenger-to-css-selectors-webforms-place-criteria-wpc-joc) (2026-09-06)
-- [🛡️ IMDSv1 vs IMDSv2 en EC2: SSRF, métricas, riesgos y una migración segura](https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62) (2026-09-06)
-- [Mozaik in Plain English: A Gentle Introduction to Concurrent AI Agents](https://dev.to/jamilxt/mozaik-in-plain-english-a-gentle-introduction-to-concurrent-ai-agents-5bed) (2026-09-06)
-- [I built Rewind: A zero-dependency TIME-TRAVEL DEBUGGER with live in-browser hot-patching (Open for Contributions)](https://dev.to/hrinkar/i-built-rewind-a-zero-dependency-time-travel-debugger-with-live-in-browser-hot-patching-open-for-3imp) (2026-09-06)
-- [Inside the Memory Decision Loop: How AI Agents Decide What to Remember, Update, or Forget](https://dev.to/mukesh_13/inside-the-memory-decision-loop-how-ai-agents-decide-what-to-remember-update-or-forget-1mfl) (2026-09-06)
+- [I Built a Real-Time Train Tracker for Pakistan Railways](https://dev.to/partners_pk_773b1e4513b60/i-built-a-real-time-train-tracker-for-pakistan-railways-3hi0) (2026-09-07)
+- [The one fact no Ethereum receipt carries: which transaction ran first](https://dev.to/edycutjong/the-one-fact-no-ethereum-receipt-carries-which-transaction-ran-first-25a5) (2026-09-07)
+- [Resilient Fintech Microservices: High-Throughput with .NET 10 and Apache Kafka](https://dev.to/joshua_ajibade/resilient-fintech-microservices-high-throughput-with-net-10-and-apache-kafka-5fak) (2026-09-07)
+- [Before Your Shopping Agent Compares Prices, Test What One Unit Means](https://dev.to/seasonkoh/before-your-shopping-agent-compares-prices-test-what-one-unit-means-580g) (2026-09-07)
+- [sofka Under Real Workloads: The Generic Kubernetes Pipeline Nobody Mentions](https://dev.to/cny8834/sofka-under-real-workloads-the-generic-kubernetes-pipeline-nobody-mentions-4782) (2026-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building CalclifyApp — 60+ free, privacy-first online calculators](https://medium.com/@marketing.calclifyapp/building-calclifyapp-60-free-privacy-first-online-calculators-00ef9ba59fe1?source=rss------programming-5) (2026-09-06)
-- [Stop Memorising Docker Commands: A Simple Survival Guide](https://medium.com/@rummansiddiqui1990/stop-memorising-docker-commands-a-simple-survival-guide-880f5d757e6a?source=rss------programming-5) (2026-09-06)
-- [Building an Adaptive Evidence Pool for AI Research](https://tinkerd.medium.com/building-an-adaptive-evidence-pool-for-ai-research-aef2711a674d?source=rss------programming-5) (2026-09-06)
-- [Build Your First LangGraph Agent: A Beginner’s Step-by-Step Guide](https://medium.com/@kgms.project/build-your-first-langgraph-agent-a-beginners-step-by-step-guide-ffb1c4649edb?source=rss------programming-5) (2026-09-06)
-- [The Lecture Hall vs. Reality ](https://medium.com/@prathameshghuge31/the-lecture-hall-vs-reality-6b09b2040669?source=rss------programming-5) (2026-09-06)
+- [DSA Patterns #37 —  DFS in Trees: Solving Problems While Going Down](https://medium.com/codetodeploy/dsa-patterns-37-dfs-in-trees-solving-problems-while-going-down-376c5990614c?source=rss------programming-5) (2026-09-07)
+- [Uber Had Openly Blamed AI for the Layoffs in July. By September, It Cut 3,300 More and Said Nothing.](https://medium.com/codetodeploy/uber-had-openly-blamed-ai-for-the-layoffs-in-july-by-september-it-cut-3-300-more-and-said-nothing-d0765d6eed64?source=rss------programming-5) (2026-09-07)
+- [Start an Unreal PC Port With One Small Build](https://briefs.aiadvances.org/start-an-unreal-pc-port-with-one-small-build-9280a9063de7?source=rss------programming-5) (2026-09-07)
+- [How Two Simple Numbers Built Our Modern World](https://medium.com/@sukanthpachisia2007/how-two-simple-numbers-built-our-modern-world-4bdf242df223?source=rss------programming-5) (2026-09-07)
+- [5 Years as a Java Developer. Things I Wish I Knew at Year 1.](https://sumanthpoola.medium.com/5-years-as-a-java-developer-things-i-wish-i-knew-at-year-1-5c23f2811c27?source=rss------programming-5) (2026-09-07)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -526,8 +526,8 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
+- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 - [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
