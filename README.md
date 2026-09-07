@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/) (2026-09-07)
-- [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel) (2026-09-07)
-- [Hard-Chat – A serverless, RAM-only P2P terminal chat](https://github.com/mrhardlint/Hard-Chat) (2026-09-06)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) (2026-09-06)
-- [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108) (2026-09-06)
+- [Impedance Matching](https://www.edge.org/response-detail/27238) (2026-09-07)
+- ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/) (2026-09-07)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) (2026-09-07)
+- [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus) (2026-09-07)
+- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/) (2026-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8) (2026-09-07)
+- [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display) (2026-09-07)
 - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) (2026-09-06)
 - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami) (2026-09-06)
 - [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch) (2026-09-06)
-- [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa) (2026-09-06)
-- [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review) (2026-09-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Real-Time Train Tracker for Pakistan Railways](https://dev.to/partners_pk_773b1e4513b60/i-built-a-real-time-train-tracker-for-pakistan-railways-3hi0) (2026-09-07)
-- [The one fact no Ethereum receipt carries: which transaction ran first](https://dev.to/edycutjong/the-one-fact-no-ethereum-receipt-carries-which-transaction-ran-first-25a5) (2026-09-07)
-- [Resilient Fintech Microservices: High-Throughput with .NET 10 and Apache Kafka](https://dev.to/joshua_ajibade/resilient-fintech-microservices-high-throughput-with-net-10-and-apache-kafka-5fak) (2026-09-07)
-- [Before Your Shopping Agent Compares Prices, Test What One Unit Means](https://dev.to/seasonkoh/before-your-shopping-agent-compares-prices-test-what-one-unit-means-580g) (2026-09-07)
-- [sofka Under Real Workloads: The Generic Kubernetes Pipeline Nobody Mentions](https://dev.to/cny8834/sofka-under-real-workloads-the-generic-kubernetes-pipeline-nobody-mentions-4782) (2026-09-07)
+- [Atlas Sanctum: Engineering Generosity for Human & Planetary Flourishing](https://dev.to/genesky/atlas-sanctum-engineering-generosity-for-human-planetary-flourishing-48im) (2026-09-07)
+- [The Python Basics Nobody Warns You Are the Real Foundation](https://dev.to/joan_rr/the-python-basics-nobody-warns-you-are-the-real-foundation-20l6) (2026-09-07)
+- [What If One Boring Specialist Agent Beats Your Swiss-Army Bot?](https://dev.to/aninmukhe/what-if-one-boring-specialist-agent-beats-your-swiss-army-bot-31g4) (2026-09-07)
+- [Claude Code permissions: how allow, ask, and deny actually compose](https://dev.to/ottoflightrules/claude-code-permissions-how-allow-ask-and-deny-actually-compose-3kme) (2026-09-07)
+- [Part of Speech Tagging: How NLP Understands Grammar](https://dev.to/javiagu13/part-of-speech-tagging-how-nlp-understands-grammar-2if5) (2026-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DSA Patterns #37 —  DFS in Trees: Solving Problems While Going Down](https://medium.com/codetodeploy/dsa-patterns-37-dfs-in-trees-solving-problems-while-going-down-376c5990614c?source=rss------programming-5) (2026-09-07)
-- [Uber Had Openly Blamed AI for the Layoffs in July. By September, It Cut 3,300 More and Said Nothing.](https://medium.com/codetodeploy/uber-had-openly-blamed-ai-for-the-layoffs-in-july-by-september-it-cut-3-300-more-and-said-nothing-d0765d6eed64?source=rss------programming-5) (2026-09-07)
-- [Start an Unreal PC Port With One Small Build](https://briefs.aiadvances.org/start-an-unreal-pc-port-with-one-small-build-9280a9063de7?source=rss------programming-5) (2026-09-07)
-- [How Two Simple Numbers Built Our Modern World](https://medium.com/@sukanthpachisia2007/how-two-simple-numbers-built-our-modern-world-4bdf242df223?source=rss------programming-5) (2026-09-07)
-- [5 Years as a Java Developer. Things I Wish I Knew at Year 1.](https://sumanthpoola.medium.com/5-years-as-a-java-developer-things-i-wish-i-knew-at-year-1-5c23f2811c27?source=rss------programming-5) (2026-09-07)
+- [ASP.NET Core Output Cache: How to Speed Up Your API with In-Memory Cache and Redis](https://medium.com/codex/asp-net-core-output-cache-how-to-speed-up-your-api-with-in-memory-cache-and-redis-da4cd0c716d4?source=rss------programming-5) (2026-09-07)
+- [ The Never Type Is Finally Stable!](https://medium.com/rustaceans/the-never-type-is-finally-stable-58c7afb59b38?source=rss------programming-5) (2026-09-07)
+- [The Empty-String Trap: The Oracle Bug That Breaks Silently on PostgreSQL](https://medium.com/@saadakram210/the-empty-string-trap-the-oracle-bug-that-breaks-silently-on-postgresql-31993c3ad3b4?source=rss------programming-5) (2026-09-07)
+- [GitHub Actions](https://medium.com/@palaciomemoriacodigo/github-actions-1bcacba3c10d?source=rss------programming-5) (2026-09-07)
+- [GitHub Actions](https://medium.com/@palaciomemoriacodigo/github-actions-4796623b14ab?source=rss------programming-5) (2026-09-07)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Rider 2026.3 Early Access Program Is Open](https://blog.jetbrains.com/dotnet/2026/09/07/rider-2026-3-eap/) (2026-09-07)
 - [Learning to Code in the Age of AI: Advice From a Top Udemy Instructor](https://blog.jetbrains.com/education/2026/09/03/learning-to-code-in-the-age-of-ai-advice-from-a-top-udemy-instructor/) (2026-09-03)
 - [Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More](https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/) (2026-09-03)
 - [Register Now for JetBrains GameDev Day 2026](https://blog.jetbrains.com/dotnet/2026/09/03/register-now-for-jetbrains-gamedev-day-2026/) (2026-09-02)
 - [IntelliJ IDEA 2026.2.2 Is Out!](https://blog.jetbrains.com/idea/2026/09/intellij-idea-2026-2-2/) (2026-09-02)
-- [TeamCity 2026.2: Pipelines General Availability, BYOK for AI Assistant, and More](https://blog.jetbrains.com/teamcity/2026/09/teamcity-20262/) (2026-09-02)
 
 </details>
 
@@ -575,17 +575,6 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
-- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
-- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
-- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
-- [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/) (2026-09-02)
 
 </details>
 
