@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-09-07)
+- [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/) (2026-09-07)
 - [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) (2026-09-07)
 - [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) (2026-09-06)
 - [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) (2026-09-06)
-- [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) (2026-09-06)
-- [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/) (2026-09-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233) (2026-09-07)
-- [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set) (2026-09-07)
-- [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker) (2026-09-07)
-- [If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/) (2026-09-07)
-- [bzip3](https://github.com/iczelia/bzip3) (2026-09-07)
+- [Why the AfD Wins](https://firstthings.com/why-the-afd-wins/) (2026-09-07)
+- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/) (2026-09-07)
+- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559) (2026-09-07)
+- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) (2026-09-07)
+- [Show HN: HomeCat – Design your backyard office](https://myhomecat.com) (2026-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price) (2026-09-07)
 - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones) (2026-09-07)
 - [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller) (2026-09-07)
 - [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone) (2026-09-07)
 - [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8) (2026-09-07)
-- [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display) (2026-09-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Quantum Computing Is an Orchestration Problem: I Built a Multi-Provider Scheduler and Measured What the Textbooks Only Describe](https://dev.to/mattia_bitocchi/quantum-computing-is-an-orchestration-problem-i-built-a-multi-provider-scheduler-and-measured-what-n7p) (2026-09-07)
-- [DevGuard: A Zero-Dependency Security Scanner Built from Python's Standard Library](https://dev.to/mrudula_22/devguard-a-zero-dependency-security-scanner-built-from-pythons-standard-library-5706) (2026-09-07)
-- [eBPF on Linux — kprobe vs fentry: Hooking Internals & What Production Observability Misses](https://dev.to/harrisonsec/ebpf-on-linux-kprobe-vs-fentry-hooking-internals-what-production-observability-misses-2ohb) (2026-09-07)
-- [Three company registers, one word: what "active" actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2) (2026-09-07)
-- [Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef) (2026-09-07)
+- [A coding agent can request a discount. Who gets to approve it?](https://dev.to/dpelleri/a-coding-agent-can-request-a-discount-who-gets-to-approve-it-3h07) (2026-09-07)
+- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh) (2026-09-07)
+- [Our site served every URL the same 3,780 bytes, and Google believed it](https://dev.to/thedolceway/our-site-served-every-url-the-same-3780-bytes-and-google-believed-it-1d9m) (2026-09-07)
+- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef) (2026-09-07)
+- [How I Built a Server Health-Check & Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4) (2026-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Programming Lesson Most Beginners Learn Too Late](https://medium.com/@ad.antu30/the-programming-lesson-most-beginners-learn-too-late-ab1226f42fc9?source=rss------programming-5) (2026-09-07)
-- [How WhatsApp Actually Works: A Simple English Guide to Instant Messaging](https://medium.com/@ankitd9988/how-whatsapp-actually-works-a-simple-english-guide-to-instant-messaging-3fbde198ab74?source=rss------programming-5) (2026-09-07)
-- [Microsoft Doesn’t Need to Win the AI Coding Model War](https://medium.com/@the.coding.front/microsoft-doesnt-need-to-win-the-ai-coding-model-war-88d7fe5d9511?source=rss------programming-5) (2026-09-07)
-- [I Removed MediatR — Building Your Own CQRS Handlers in .NET 10](https://medium.com/@mariammaurice/i-removed-mediatr-building-your-own-cqrs-handlers-in-net-10-49a0030390d9?source=rss------programming-5) (2026-09-07)
-- [Why Elliptic Curve Cryptography](https://medium.com/@hasanmcse/why-elliptic-curve-cryptography-c8f6e96933eb?source=rss------programming-5) (2026-09-07)
+- [Shieldstral: Build an AI Content Moderation Classifier with Python](https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss------programming-5) (2026-09-07)
+- [I Built a Trading Bot That Refuses to Trade Until It Can Prove It Has an Edge](https://medium.com/@jsgastoniriartecabrera/i-built-a-trading-bot-that-refuses-to-trade-until-it-can-prove-it-has-an-edge-5c0519308a98?source=rss------programming-5) (2026-09-07)
+- [I Gave Myself One Day to Ship a Web App. The Point Wasn’t the App.](https://medium.com/@mylesh_/i-gave-myself-one-day-to-ship-a-web-app-the-point-wasnt-the-app-01e81c35d5f3?source=rss------programming-5) (2026-09-07)
+- [Cracking Agent Loops](https://pub.towardsai.net/cracking-agent-loops-02b50abd10fe?source=rss------programming-5) (2026-09-07)
+- [Openclaw Was The Biggest Github Project, But What Happened?](https://medium.com/the-ai-brief/openclaw-was-the-biggest-github-project-but-what-happened-b9ce7e2d6861?source=rss------programming-5) (2026-09-07)
 
 </details>
 
@@ -579,6 +579,17 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/) (2026-09-07)
+- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
+- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
+- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
+- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day)](https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/) (2026-09-07)
@@ -592,11 +603,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Getting Started with Grok Bot ](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) (2026-09-07)
 - [GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model](https://www.analyticsvidhya.com/blog/2026/09/gpt-6-astra-explained/) (2026-09-05)
 - [Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition) ](https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/) (2026-09-04)
 - [OpenCode Explained: The Open-Source AI Coding Agent](https://www.analyticsvidhya.com/blog/2026/09/opencode-ai-explained/) (2026-09-03)
 - [A Complete Guide to Decoding LLM Model Names](https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/) (2026-09-02)
-- [5 Best Local LLMs You Can Run on a Mac mini in 2026](https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/) (2026-09-01)
 
 </details>
 
