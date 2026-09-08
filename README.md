@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) (2026-09-08)
+- [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/) (2026-09-08)
+- [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) (2026-09-08)
+- [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) (2026-09-08)
 - [Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/) (2026-09-08)
-- [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/) (2026-09-08)
-- [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/) (2026-09-08)
-- [A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/) (2026-09-08)
-- [Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/) (2026-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/) (2026-09-08)
-- [Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola) (2026-09-08)
-- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) (2026-09-08)
-- [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/) (2026-09-08)
-- [How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/) (2026-09-08)
+- [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/) (2026-09-08)
+- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin) (2026-09-08)
+- [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) (2026-09-08)
+- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/) (2026-09-08)
+- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/) (2026-09-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game) (2026-09-08)
-- [JBL’s soundbar with detachable rear speakers is over $300 off](https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale) (2026-09-08)
-- [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer) (2026-09-08)
-- [A word with a woman who’s trying to pull off a crossbody phone strap](https://www.theverge.com/tech/990849/crossbody-phone-strap-style) (2026-09-08)
-- [SteelSeries’ pro-grade, wireless Xbox controller sure is expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features) (2026-09-08)
+- [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) (2026-09-08)
+- [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race) (2026-09-08)
+- [AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans) (2026-09-08)
+- [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6) (2026-09-08)
+- [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control) (2026-09-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [EV batteries last longer than drivers feared](https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/) (2026-09-08)
-- [With another huge infusion of cash, Stoke Space goes even bigger](https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/) (2026-09-08)
-- [The complex corporate web behind a $3.2 billion AI data center](https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/) (2026-09-07)
-- [German company becomes first in Europe to launch fully commercial orbital rocket](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/) (2026-09-06)
-- [Farmed salmon may not be as nutritious as it once was, new research suggests](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/) (2026-09-06)
+- [Supreme Court forces TV stations to sell more election ads at steep discounts](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/) (2026-09-08)
+- [Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change](https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/) (2026-09-08)
+- [Godzilla Minus Zero IMAX trailer teases King Ghidorah](https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/) (2026-09-08)
+- [“This is the AI men actually use”: Meta ads pushed apps nudifying real teens](https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/) (2026-09-08)
+- [Update to Google’s AI weather model improves forecast accuracy](https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/) (2026-09-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products.](https://dev.to/gabriel_wainaina_f7281529/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-335i) (2026-09-08)
-- [OpenSparrow v3.6 adds an External API module](https://dev.to/wrobeltomasz/opensparrow-v36-adds-an-external-api-module-dj1) (2026-09-08)
-- [AI Made Coding Faster. Now the Bottleneck Has Moved.](https://dev.to/khanh_nguyen_04b1205f5a91/ai-made-coding-faster-now-the-bottleneck-has-moved-4ek4) (2026-09-08)
-- [An AI-Fixed Test Passed. What Should QA Check Next?](https://dev.to/sri_ramya_1205/an-ai-fixed-test-passed-what-should-qa-check-next-186a) (2026-09-08)
-- [TrustGraph 2.8: Async Infrastructure, Hybrid Retrieval, Structured Output, and a Plugin-Based Workbench](https://dev.to/trustgraph/trustgraph-28-async-infrastructure-hybrid-retrieval-structured-output-and-a-plugin-based-lbi) (2026-09-08)
+- [Track AI Token Spend in Grafana: Claude, Codex, and Ollama](https://dev.to/josh_hall_b54941047f33661/track-ai-token-spend-in-grafana-claude-codex-and-ollama-5alm) (2026-09-08)
+- [How we made 2,000 customer conversations queryable in a few hours](https://dev.to/madebymonogram/how-we-made-2000-customer-conversations-queryable-in-a-few-hours-a8j) (2026-09-08)
+- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4) (2026-09-08)
+- [Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj) (2026-09-08)
+- [I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l) (2026-09-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Is Getting Expensive. Nobody Put This Part in the Demo.](https://devrimozcay.medium.com/ai-coding-is-getting-expensive-nobody-put-this-part-in-the-demo-82cd24b3f3c8?source=rss------programming-5) (2026-09-08)
-- [We’re Not Shipping 10x Faster. We’re Creating Technical Debt 10x Faster.](https://levelup.gitconnected.com/were-not-shipping-10x-faster-we-re-creating-technical-debt-10x-faster-d4cbb830a54f?source=rss------programming-5) (2026-09-08)
-- [AI Didn’t Kill Software Engineering. It Killed the Excuse for Being “Just a Coder.”](https://medium.com/codex/ai-didnt-kill-software-engineering-it-killed-the-excuse-for-being-just-a-coder-6fad660fc0f0?source=rss------programming-5) (2026-09-08)
-- [The Junior Developer Is Dying. That Might Destroy the Senior Developer Pipeline Next.](https://medium.com/javarevisited/the-junior-developer-is-dying-that-might-destroy-the-senior-developer-pipeline-next-eb582eaafe8e?source=rss------programming-5) (2026-09-08)
-- [Run an Open-Source Coding LLM on AWS EC2 and Connect It to OpenCode](https://levelup.gitconnected.com/run-an-open-source-coding-llm-on-aws-ec2-and-connect-it-to-opencode-1da9fa2e4989?source=rss------programming-5) (2026-09-08)
+- [JavaScript Functions: Declaration, Expression, Arrow, Callback, Higher-Order, Pure Functions, IIFE…](https://medium.com/@tuhinkairi/javascript-functions-declaration-expression-arrow-callback-higher-order-pure-functions-iife-48bef3af94cb?source=rss------programming-5) (2026-09-08)
+- [My Journey into Web Development: What I’ve Learned So Far](https://medium.com/@syedarsalana789/my-journey-into-web-development-what-ive-learned-so-far-1672bcb74d49?source=rss------programming-5) (2026-09-08)
+- [Top Survival Guide To Statistics For ML Engineers](https://medium.com/@niranjanky14/top-survival-guide-to-statistics-for-ml-engineers-1c0e6bb54e03?source=rss------programming-5) (2026-09-08)
+- [Juspay Tree of Space: Optimizing Lock, Unlock and Upgrade Operations in Java](https://medium.com/@jeffreythomas10566x/juspay-tree-of-space-optimizing-lock-unlock-and-upgrade-operations-in-java-9db471249335?source=rss------programming-5) (2026-09-08)
+- [The two data structures hiding inside every fast cache](https://medium.com/@adatiyavinayshaileshbhai/the-two-data-structures-hiding-inside-every-fast-cache-4fa8193c7755?source=rss------programming-5) (2026-09-08)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Introducing Flat Rate CDN](https://vercel.com/blog/introducing-flat-rate-cdn) (2026-09-08)
+- [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams) (2026-09-08)
 - [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free) (2026-09-04)
 - [GPT 6 Astra now available on Vercel AI Gateway](https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway) (2026-09-04)
 - [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox) (2026-09-03)
-- [Basic build machines are now available on Pro and Enterprise](https://vercel.com/changelog/basic-build-machines) (2026-09-03)
-- [Free domain with Pro offer now includes .app and .dev](https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro) (2026-09-02)
 
 </details>
 
@@ -479,6 +479,17 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
+- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
+- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
+- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -493,10 +504,10 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <summary>⚡ Zapier Blog</summary>
 
 - [The 8 best AI voice generators in 2026](https://zapier.com/blog/best-ai-voice-generator) (2026-09-08)
-- [OpenAI models: Every model (including GPT-6) and what it's best for](https://zapier.com/blog/openai-models) (2026-09-08)
-- [Jasper vs. Copy.ai: Which is best? [2026]](https://zapier.com/blog/jasper-vs-copy-ai) (2026-09-08)
-- [Claude integrations: How to use Zapier with Claude (Sonnet 5, Opus 5, and more)](https://zapier.com/blog/automate-claude) (2026-09-04)
-- [ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)](https://zapier.com/blog/automate-chatgpt) (2026-09-04)
+- [The 7 best AI scheduling assistants in 2026](https://zapier.com/blog/best-ai-scheduling) (2026-09-08)
+- [What is Jasper AI? And how to use it](https://zapier.com/blog/jasper-ai) (2026-09-08)
+- [The best free graphic design software to create social media posts in 2026](https://zapier.com/blog/graphic-design-tools-for-social-media-images) (2026-09-08)
+- [n8n vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/n8n-vs-power-automate) (2026-09-08)
 
 </details>
 
@@ -567,13 +578,24 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/) (2026-09-08)
+- [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/) (2026-09-08)
+- [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/) (2026-09-08)
+- [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/) (2026-09-08)
+- [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/) (2026-09-07)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Maximize GPT-6 Astra](https://towardsdatascience.com/how-to-maximize-gpt-6-astra/) (2026-09-08)
+- [The Model Validation Playbook for GenAI: Lessons from Banking](https://towardsdatascience.com/the-model-validation-playbook-for-genai-lessons-from-banking/) (2026-09-08)
+- [A Beginner’s Guide to World Models](https://towardsdatascience.com/a-beginners-guide-to-world-models/) (2026-09-08)
 - [Introducing ShipAI](https://towardsdatascience.com/introducing-shipai/) (2026-09-08)
 - [Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does](https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/) (2026-09-08)
-- [I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day)](https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/) (2026-09-07)
-- [Why Most Multi-Agent Systems Fail Even When Evaluation Passes](https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/) (2026-09-07)
-- [Text Watermarking in Python: Catch Whoever Copies Your Writing](https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/) (2026-09-06)
 
 </details>
 
@@ -591,11 +613,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems](https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems) (2026-09-08)
 - [Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found](https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era) (2026-09-08)
 - [5 Ways I Access Coding Models for Free](https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free) (2026-09-08)
 - [Switchyard: NVIDIA’s Open Source Routing Library](https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library) (2026-09-04)
 - [5 Free LLM API Providers You Can Use in 2026](https://www.kdnuggets.com/5-free-llm-api-providers-you-can-use-in-2026) (2026-09-04)
-- [I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time](https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time) (2026-09-03)
 
 </details>
 
