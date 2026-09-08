@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) (2026-09-08)
-- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) (2026-09-08)
-- [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) (2026-09-08)
-- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) (2026-09-07)
-- [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) (2026-09-07)
+- [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks) (2026-09-08)
+- [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics) (2026-09-08)
+- [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten) (2026-09-08)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf) (2026-09-08)
+- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents) (2026-09-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Xiaomi’s wide foldable promises more power than Samsung’s](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide) (2026-09-08)
 - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3) (2026-09-08)
 - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price) (2026-09-07)
 - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones) (2026-09-07)
 - [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller) (2026-09-07)
-- [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone) (2026-09-07)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/) (2026-09-08)
 - [How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/) (2026-09-04)
 - [Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/) (2026-09-03)
 - [The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/) (2026-09-03)
 - [The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/) (2026-09-01)
-- [When you keep AI Lean, you keep AI correct ](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/) (2026-08-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Sneaked a 1024-Dimensional AI Visual Brain Directly into a Browser Tab (With Zero Cloud Costs)](https://dev.to/superomni/textnv-0142-0891-0056-1204-0443n-26m0) (2026-09-08)
-- [x402 Payment Required](https://dev.to/hextiandro/x402-payment-required-2pk7) (2026-09-08)
-- [Qwen4 Isn’t Here Yet, but Qwen3.8-Flash-Next Tells Us a Lot](https://dev.to/masonreed1/qwen4-isnt-here-yet-but-qwen38-flash-next-tells-us-a-lot-4p1e) (2026-09-08)
-- [I ran Lodven on Lodven, a marketing diagnosis agent for founders](https://dev.to/lodven/i-ran-lodven-on-lodven-a-marketing-diagnosis-agent-for-founders-40h7) (2026-09-08)
-- [I Built an IP KVM – BeaconKVM](https://dev.to/beaconkvm/i-built-an-ip-kvm-beaconkvm-3gja) (2026-09-08)
+- [C++ isn't losing to Rust. The infra it runs is the moat.](https://dev.to/adioof/c-isnt-losing-to-rust-the-infra-it-runs-is-the-moat-2383) (2026-09-08)
+- [macOS Made a File That Reports Zero Bytes and Occupies Sixty Kilobytes](https://dev.to/devshakib/macos-made-a-file-that-reports-zero-bytes-and-occupies-sixty-kilobytes-3c4a) (2026-09-08)
+- [Two times an external API overruled my own repository](https://dev.to/morinaga/two-times-an-external-api-overruled-my-own-repository-5dg6) (2026-09-08)
+- [You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had](https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7) (2026-09-08)
+- [AI Coding Is Getting Expensive: How Developers Can Stop Burning Tokens](https://dev.to/robertadam987_/ai-coding-is-getting-expensive-how-developers-can-stop-burning-tokens-491g) (2026-09-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Design a Search Autocomplete for 100 Million Queries Per Day — Part 6](https://sumanthpoola.medium.com/design-a-search-autocomplete-for-100-million-queries-per-day-part-6-f939cbc82051?source=rss------programming-5) (2026-09-08)
-- [Shopify Metaobject Filters: Tracing the Combined Search URL Until the Grid Returns](https://ocontis.medium.com/shopify-metaobject-filters-tracing-the-combined-search-url-until-the-grid-returns-41617901755b?source=rss------programming-5) (2026-09-08)
-- [Day 198 of Learning Java & DSA: Finding Connected Components in Graphs](https://medium.com/@payalmehra3522/day-198-of-learning-java-dsa-finding-connected-components-in-graphs-b1da550d685e?source=rss------programming-5) (2026-09-08)
-- [12 AI Tools Developers Should Know in 2026](https://medium.com/illumination/12-ai-tools-developers-should-know-in-2026-8c073d102444?source=rss------programming-5) (2026-09-08)
-- [The Outage Was Over. Your System Stayed Down.](https://medium.com/@jaberadam2001/the-outage-was-over-your-system-stayed-down-f87935b79c43?source=rss------programming-5) (2026-09-08)
+- [Your Flutter App Isn’t Slow Because Flutter Is Slow — You’re Probably Doing This](https://blog.stackademic.com/your-flutter-app-isnt-slow-because-flutter-is-slow-you-re-probably-doing-this-184aa6838102?source=rss------programming-5) (2026-09-08)
+- [npm vs pnpm in 2026: Which One Should You Actually Use?](https://medium.com/skillstuff/npm-vs-pnpm-in-2026-which-one-should-you-actually-use-bce277f519be?source=rss------programming-5) (2026-09-08)
+- [Everything I Learned from Reading “The Pragmatic Programmer”](https://blog.stackademic.com/everything-i-learned-from-reading-the-pragmatic-programmer-2c0dfbcdf0b8?source=rss------programming-5) (2026-09-08)
+- [Stop Paying $20/mo: Top 5 High-Performance Free AI Tools for Developers in 2026](https://medium.com/@emelia99066/stop-paying-20-mo-top-5-high-performance-free-ai-tools-for-developers-in-2026-a16a2ca4eba2?source=rss------programming-5) (2026-09-08)
+- [AI Is Not a Chatbot for Data Analysts: How to Build an AI-Powered Data Analytics Workflow](https://medium.com/@kartikbhaskarx/ai-is-not-a-chatbot-for-data-analysts-how-to-build-an-ai-powered-data-analytics-workflow-202870eced3a?source=rss------programming-5) (2026-09-08)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -575,6 +575,17 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/) (2026-09-08)
+- [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/) (2026-09-08)
+- [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/) (2026-09-08)
+- [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/) (2026-09-07)
+- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
 
 </details>
 
