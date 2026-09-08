@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/) (2026-09-08)
 - [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-09-07)
 - [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/) (2026-09-07)
 - [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) (2026-09-07)
 - [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) (2026-09-06)
-- [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) (2026-09-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why the AfD Wins](https://firstthings.com/why-the-afd-wins/) (2026-09-07)
-- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/) (2026-09-07)
-- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559) (2026-09-07)
-- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) (2026-09-07)
-- [Show HN: HomeCat – Design your backyard office](https://myhomecat.com) (2026-09-07)
+- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) (2026-09-08)
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) (2026-09-08)
+- [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) (2026-09-08)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) (2026-09-07)
+- [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) (2026-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3) (2026-09-08)
 - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price) (2026-09-07)
 - [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones) (2026-09-07)
 - [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller) (2026-09-07)
 - [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone) (2026-09-07)
-- [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8) (2026-09-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A coding agent can request a discount. Who gets to approve it?](https://dev.to/dpelleri/a-coding-agent-can-request-a-discount-who-gets-to-approve-it-3h07) (2026-09-07)
-- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh) (2026-09-07)
-- [Our site served every URL the same 3,780 bytes, and Google believed it](https://dev.to/thedolceway/our-site-served-every-url-the-same-3780-bytes-and-google-believed-it-1d9m) (2026-09-07)
-- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef) (2026-09-07)
-- [How I Built a Server Health-Check & Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4) (2026-09-07)
+- [How We Sneaked a 1024-Dimensional AI Visual Brain Directly into a Browser Tab (With Zero Cloud Costs)](https://dev.to/superomni/textnv-0142-0891-0056-1204-0443n-26m0) (2026-09-08)
+- [x402 Payment Required](https://dev.to/hextiandro/x402-payment-required-2pk7) (2026-09-08)
+- [Qwen4 Isn’t Here Yet, but Qwen3.8-Flash-Next Tells Us a Lot](https://dev.to/masonreed1/qwen4-isnt-here-yet-but-qwen38-flash-next-tells-us-a-lot-4p1e) (2026-09-08)
+- [I ran Lodven on Lodven, a marketing diagnosis agent for founders](https://dev.to/lodven/i-ran-lodven-on-lodven-a-marketing-diagnosis-agent-for-founders-40h7) (2026-09-08)
+- [I Built an IP KVM – BeaconKVM](https://dev.to/beaconkvm/i-built-an-ip-kvm-beaconkvm-3gja) (2026-09-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Shieldstral: Build an AI Content Moderation Classifier with Python](https://pub.towardsai.net/shieldstral-ai-content-moderation-python-a856151c3a63?source=rss------programming-5) (2026-09-07)
-- [I Built a Trading Bot That Refuses to Trade Until It Can Prove It Has an Edge](https://medium.com/@jsgastoniriartecabrera/i-built-a-trading-bot-that-refuses-to-trade-until-it-can-prove-it-has-an-edge-5c0519308a98?source=rss------programming-5) (2026-09-07)
-- [I Gave Myself One Day to Ship a Web App. The Point Wasn’t the App.](https://medium.com/@mylesh_/i-gave-myself-one-day-to-ship-a-web-app-the-point-wasnt-the-app-01e81c35d5f3?source=rss------programming-5) (2026-09-07)
-- [Cracking Agent Loops](https://pub.towardsai.net/cracking-agent-loops-02b50abd10fe?source=rss------programming-5) (2026-09-07)
-- [Openclaw Was The Biggest Github Project, But What Happened?](https://medium.com/the-ai-brief/openclaw-was-the-biggest-github-project-but-what-happened-b9ce7e2d6861?source=rss------programming-5) (2026-09-07)
+- [Design a Search Autocomplete for 100 Million Queries Per Day — Part 6](https://sumanthpoola.medium.com/design-a-search-autocomplete-for-100-million-queries-per-day-part-6-f939cbc82051?source=rss------programming-5) (2026-09-08)
+- [Shopify Metaobject Filters: Tracing the Combined Search URL Until the Grid Returns](https://ocontis.medium.com/shopify-metaobject-filters-tracing-the-combined-search-url-until-the-grid-returns-41617901755b?source=rss------programming-5) (2026-09-08)
+- [Day 198 of Learning Java & DSA: Finding Connected Components in Graphs](https://medium.com/@payalmehra3522/day-198-of-learning-java-dsa-finding-connected-components-in-graphs-b1da550d685e?source=rss------programming-5) (2026-09-08)
+- [12 AI Tools Developers Should Know in 2026](https://medium.com/illumination/12-ai-tools-developers-should-know-in-2026-8c073d102444?source=rss------programming-5) (2026-09-08)
+- [The Outage Was Over. Your System Stayed Down.](https://medium.com/@jaberadam2001/the-outage-was-over-your-system-stayed-down-f87935b79c43?source=rss------programming-5) (2026-09-08)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/) (2026-09-08)
+- [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-09-08)
 - [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/) (2026-09-07)
 - [Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026](https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/) (2026-09-04)
 - [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/) (2026-09-02)
-- [Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/) (2026-09-02)
-- [vLLM Sessions at PyTorch Conference North America 2026](https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026/) (2026-08-28)
 
 </details>
 
@@ -575,17 +575,6 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
 - [Real-Time Intelligence with IBM Time Series Models on Confluent ](https://huggingface.co/blog/ibm-research/real-time-intelligence) (2026-09-02)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/) (2026-09-07)
-- [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/) (2026-09-04)
-- [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/) (2026-09-04)
-- [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/) (2026-09-03)
-- [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/) (2026-09-03)
 
 </details>
 
