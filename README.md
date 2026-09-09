@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/) (2026-09-09)
-- [Uber rival inDrive scales beyond ride-hailing to capture more consumer spending](https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/) (2026-09-09)
-- [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) (2026-09-09)
-- [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/) (2026-09-09)
-- [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/) (2026-09-09)
+- [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) (2026-09-09)
+- [There are new shiny iPhones, so Apple is making you pay more for older models ](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/) (2026-09-09)
+- [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/) (2026-09-09)
+- [Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/) (2026-09-09)
+- [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Investing in Mothers? The Long-Run Impact of a Universal Child Care](https://www.nber.org/papers/w35514) (2026-09-09)
-- [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) (2026-09-09)
-- [The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years](https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html) (2026-09-09)
-- [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/) (2026-09-09)
-- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify) (2026-09-09)
+- [iPhone Duo](https://www.apple.com/iphone-duo/) (2026-09-09)
+- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) (2026-09-09)
+- [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/) (2026-09-09)
+- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/) (2026-09-09)
+- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Framework is giving some customers a RAM refund](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds) (2026-09-09)
-- [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous) (2026-09-09)
-- [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin) (2026-09-09)
-- [My favorite gaming earbuds got their first discount](https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale) (2026-09-09)
-- [Nintendo Direct September 2026: The biggest news and trailers](https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements) (2026-09-09)
+- [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react) (2026-09-09)
+- [Apple’s new iPhone camera mode promises to prove your photo isn’t AI](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image) (2026-09-09)
+- [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event) (2026-09-09)
+- [Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4) (2026-09-09)
+- [Here’s how the new iPhone 18 Pro stacks up to the last-gen models](https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features) (2026-09-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Anthropic Signals AI Task Scenario Planning, While Claude Already Models Budget Futures](https://dev.to/alifar/anthropic-signals-ai-task-scenario-planning-while-claude-already-models-budget-futures-3gc9) (2026-09-09)
-- [How to Navigate Contracts as a Freelancer: The Non Paper Tiger Edition](https://dev.to/daedtech/how-to-navigate-contracts-as-a-freelancer-the-non-paper-tiger-edition-1312) (2026-09-09)
-- [Former Anthropic and OpenAI Researcher Jacob Coxon Resigns](https://dev.to/md_fahadmia_94ada001244f/former-anthropic-and-openai-researcher-jacob-coxon-resigns-2857) (2026-09-09)
-- [How to Build Secure AI Agents for DeFi: From Blockchain Data to On-Chain Actions](https://dev.to/fahadarif/how-to-build-secure-ai-agents-for-defi-from-blockchain-data-to-on-chain-actions-676) (2026-09-09)
-- [Development diary: Implement folder‑based batch JSON comparison](https://dev.to/jerrywang/development-diary-implement-folder-based-batch-json-comparison-12id) (2026-09-09)
+- [Por qué el texto invisible funciona en el nombre de TikTok y falla en el usuario de Instagram](https://dev.to/support_confileo_ce7442eb/por-que-el-texto-invisible-funciona-en-el-nombre-de-tiktok-y-falla-en-el-usuario-de-instagram-47l6) (2026-09-09)
+- [Google’s August Gemini Updates Expand Faster Models, Transcription and Task Workflows](https://dev.to/alifar/googles-august-gemini-updates-expand-faster-models-transcription-and-task-workflows-2bnp) (2026-09-09)
+- [I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'](https://dev.to/brmarcosbr/i-made-an-agent-play-slay-the-spire-2-on-its-own-and-what-unlocked-it-was-the-game-saying-no-2hc2) (2026-09-09)
+- [Reconstructing Bosun PKM with evidence](https://dev.to/woodyardae/reconstructing-bosun-pkm-with-evidence-1jl9) (2026-09-09)
+- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4) (2026-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Four Python Libraries for the Moment Your Data Stops Being Clean](https://python.plainenglish.io/four-python-libraries-for-the-moment-your-data-stops-being-clean-1125225981bb?source=rss------programming-5) (2026-09-09)
-- [Python Tricks That Make Your Code Look Senior-Level](https://python.plainenglish.io/python-tricks-that-make-your-code-look-senior-level-4081f3f45252?source=rss------programming-5) (2026-09-09)
-- [5 Python Concepts I Practiced With Just 2 Exercises](https://medium.com/@oluwatosinruth987/5-python-concepts-i-practiced-with-just-2-exercises-e8163f693e09?source=rss------programming-5) (2026-09-09)
-- [10 Python Tools I Now Use in Almost Every Project](https://python.plainenglish.io/10-python-tools-i-now-use-in-almost-every-project-84b55deb5ab8?source=rss------programming-5) (2026-09-09)
-- [The Database Layer Is Where Most Python Backends Get Expensive](https://medium.datadriveninvestor.com/the-database-layer-is-where-most-python-backends-get-expensive-068af3b52cb2?source=rss------programming-5) (2026-09-09)
+- [What Is Software Engineering? A Beginner’s Guide](https://medium.com/@chethaneeshehara/what-is-software-engineering-a-beginners-guide-02d7642001f7?source=rss------programming-5) (2026-09-09)
+- [More Agents ≠ Better AI: What I Learned Building a Multi-Agent System](https://yashanshrastogi.medium.com/more-agents-better-ai-what-i-learned-building-a-multi-agent-system-4af2d474767d?source=rss------programming-5) (2026-09-09)
+- [PekiSSL Nedir? SSL Sertifikasını Satmakla İşimiz Bitmiyor, Daha Yeni Başlıyor](https://medium.com/@pekissl/pekissl-nedir-ssl-sertifikas%C4%B1n%C4%B1-satmakla-i%CC%87%C5%9Fimiz-bitmiyor-daha-yeni-ba%C5%9Fl%C4%B1yor-2cb4a8ce1fef?source=rss------programming-5) (2026-09-09)
+- [Semantic Caching vs. Prompt Caching: Slashing LLM Costs and Latency by 70%](https://medium.com/the-ai-cafe/semantic-caching-vs-prompt-caching-slashing-llm-costs-and-latency-by-70-4d75d66c142a?source=rss------programming-5) (2026-09-09)
+- [Seven Ways My AI Workflow Lied to Me](https://medium.com/@sukurovruslan68/seven-ways-my-ai-workflow-lied-to-me-701cfb1d7476?source=rss------programming-5) (2026-09-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC](https://blogs.nvidia.com/blog/ibc-news-2026/) (2026-09-09)
 - [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/) (2026-09-03)
 - [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/) (2026-09-03)
 - [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/) (2026-09-03)
 - [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/) (2026-09-01)
-- [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/) (2026-08-27)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0](https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html) (2026-09-09)
 - [Leverage Android skills and Gemma 4 in Android Studio Quail 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html) (2026-09-01)
 - [Emulator control for adaptive app development](https://android-developers.googleblog.com/2026/08/emulator-adaptive.html) (2026-08-31)
 - [How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys](https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html) (2026-08-27)
 - [Elevating app quality: Reducing memory usage and improving device migration](https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html) (2026-08-26)
-- [Ensuring Safety in the Generative AI Ecosystem: Protecting Users from Non-Consensual Intimate Content](https://android-developers.googleblog.com/2026/08/ensuring-safety-genai-preventing-non-consensual-intimate-content.html) (2026-08-25)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.8.2 (Current)](https://nodejs.org/en/blog/release/v26.8.2) (2026-09-09)
+- [Node.js 24.21.0 (LTS)](https://nodejs.org/en/blog/release/v24.21.0) (2026-09-09)
 - [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1) (2026-08-26)
 - [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0) (2026-08-26)
 - [Node.js 24.20.0 (LTS)](https://nodejs.org/en/blog/release/v24.20.0) (2026-08-26)
-- [Node.js Interactive 2026: A Recap](https://nodejs.org/en/blog/events/nodejs-interactive-2026) (2026-08-14)
-- [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0) (2026-08-05)
 
 </details>
 
@@ -240,11 +240,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) (2026-09-08)
 - [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) (2026-09-03)
 - [When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) (2026-08-13)
 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) (2026-07-27)
 - [Content Ingestion & Podcast Video Incident Report ](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) (2026-07-20)
-- [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) (2026-06-10)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Why Rider and ReSharper Were Slow to Start, and How Microsoft Helped Fix the Problem](https://blog.jetbrains.com/dotnet/2026/09/09/why-rider-and-resharper-were-slow-to-start-and-how-microsoft-helped-fix-the-problem/) (2026-09-09)
 - [Get Gemini 3.8 Flash With 75% Off](https://blog.jetbrains.com/junie/2026/09/junie-gemini-3-8-flash/) (2026-09-09)
 - [Join our live webinars: Migrating from Atlassian to YouTrack](https://blog.jetbrains.com/youtrack/2026/09/migrating-from-atlassian-to-youtrack-webinar/) (2026-09-09)
 - [Rust AI in Practice: Building LLM Applications With Rig](https://blog.jetbrains.com/rust/2026/09/09/rust-ai-in-practice/) (2026-09-09)
 - [The Evolution of WSL Support in JetBrains IDEs](https://blog.jetbrains.com/platform/2026/09/the-evolution-of-wsl-support-in-jetbrains-ides/) (2026-09-09)
-- [dotInsights | September 2026](https://blog.jetbrains.com/dotnet/2026/09/08/dotinsights-september-2026/) (2026-09-08)
 
 </details>
 
@@ -363,9 +363,9 @@
 
 - [Password Protection is now priced per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
 - [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan) (2026-09-09)
+- [Persistent memory for eve agents](https://vercel.com/changelog/persistent-memory-for-eve-agents) (2026-09-09)
+- [v0 adds one-click integrations for email, auth, search, and databases](https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases) (2026-09-09)
 - [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally) (2026-09-08)
-- [Introducing Flat Rate CDN](https://vercel.com/blog/introducing-flat-rate-cdn) (2026-09-08)
-- [GPT Image 2.5 Flare and Sunburst now available on AI Gateway](https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway) (2026-09-08)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [How to write a memo: a step-by-step guide](https://zapier.com/blog/how-to-write-a-memo) (2026-09-09)
 - [How to make a copy of a folder in Google Drive](https://zapier.com/blog/copy-google-drive-folders) (2026-09-09)
+- [AI governance: What it is and why it's crucial for every business](https://zapier.com/blog/ai-governance) (2026-09-09)
 - [The 8 best CPQ software vendors in 2026](https://zapier.com/blog/cpq-software-vendors) (2026-09-09)
-- [The 10 best competitor analysis tools in 2026](https://zapier.com/blog/competitor-analysis-tools) (2026-09-09)
-- [The 8 best AI voice generators in 2026](https://zapier.com/blog/best-ai-voice-generator) (2026-09-08)
-- [What is Jasper AI? And how to use it](https://zapier.com/blog/jasper-ai) (2026-09-08)
+- [OpenAI models: Every model (including GPT-6) and what it's best for](https://zapier.com/blog/openai-models) (2026-09-09)
 
 </details>
 
