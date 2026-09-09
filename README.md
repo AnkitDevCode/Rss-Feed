@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google DeepMind alumni are building tools to accelerate fusion power for the grid](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/) (2026-09-09)
+- [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/) (2026-09-09)
 - [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/) (2026-09-08)
 - [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) (2026-09-08)
 - [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) (2026-09-08)
-- [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/) (2026-09-08)
-- [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) (2026-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance) (2026-09-09)
-- [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843) (2026-09-09)
-- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) (2026-09-09)
-- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/) (2026-09-08)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) (2026-09-08)
+- [Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34) (2026-09-09)
+- [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email) (2026-09-09)
+- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/) (2026-09-09)
+- [On Really Trying (2009)](https://gwern.net/on-really-trying) (2026-09-09)
+- [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm) (2026-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans) (2026-09-09)
+- [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable) (2026-09-09)
 - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent) (2026-09-08)
 - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution) (2026-09-08)
 - [Rivian spinout Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology) (2026-09-08)
-- [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale) (2026-09-08)
-- [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) (2026-09-08)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/) (2026-09-09)
+- [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/) (2026-09-09)
+- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) (2026-09-09)
 - [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/) (2026-09-08)
 - [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/) (2026-09-08)
-- [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) (2026-09-08)
-- [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/) (2026-09-08)
-- [This geneticist’s age-reversal tech could help restore sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/) (2026-09-08)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/) (2026-09-09)
 - [Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/) (2026-09-08)
 - [How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/) (2026-09-04)
 - [Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/) (2026-09-03)
 - [The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/) (2026-09-03)
-- [The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/) (2026-09-01)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Architecting WingZone: A Secure Serverless POS and Mobile Ordering Ecosystem](https://dev.to/ruumidev/architecting-wingzone-a-secure-serverless-pos-and-mobile-ordering-ecosystem-8pi) (2026-09-09)
-- [Slop-Creep: When Building Gets Cheaper Than Thinking](https://dev.to/awaiting_input/slop-creep-when-building-gets-cheaper-than-thinking-29fa) (2026-09-09)
-- [The LoRA won on its own moods, and the held-out tradeoff stayed visible](https://dev.to/ilya_mozerov_867dbdd91feb/the-lora-won-on-its-own-moods-and-the-held-out-tradeoff-stayed-visible-khk) (2026-09-09)
-- [Architecting Project Nero: Real-Time Exam Attendance via Local Computer Vision](https://dev.to/ruumidev/architecting-project-nero-real-time-exam-attendance-via-local-computer-vision-150e) (2026-09-09)
-- [Which to Use: MCP, Function Calling, or Plugins](https://dev.to/labyrinthanalytics/which-to-use-mcp-function-calling-or-plugins-4265) (2026-09-09)
+- [ChatGPT started citing my site. Here is what I changed, and what I still cannot prove.](https://dev.to/suman_debnath_1/chatgpt-started-citing-my-site-here-is-what-i-changed-and-what-i-still-cannot-prove-4a31) (2026-09-09)
+- [[Boost]](https://dev.to/vuong/-1hie) (2026-09-09)
+- [XXE Mastery: Finding and Exploiting XML External Entity Vulnerabilities](https://dev.to/atharva_baheti/xxe-mastery-finding-and-exploiting-xml-external-entity-vulnerabilities-4p54) (2026-09-09)
+- [When PageSpeed Insights is enough (and when it is not)](https://dev.to/femi_akinyemi/when-pagespeed-insights-is-enough-and-when-it-is-not-64g) (2026-09-09)
+- [Building a Privacy-First AI Companion with Next.js, FastAPI and Ollama](https://dev.to/has_san/building-a-privacy-first-ai-companion-with-nextjs-fastapi-and-ollama-17hp) (2026-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Minor DevOps Mistakes That Can Cause Major Production Issues](https://pawannatekar220.medium.com/10-minor-devops-mistakes-that-can-cause-major-production-issues-191d141e7686?source=rss------programming-5) (2026-09-09)
-- [The Void That Comes With AI-Assisted Programming](https://medium.com/@hashaamkhan4247/the-void-that-comes-with-ai-assisted-programming-679e47d3261a?source=rss------programming-5) (2026-09-09)
-- [What If Your Phone Could Tell You What to Do in the First 30 Minutes of an Emergency?](https://medium.com/@sharshitsingh007/what-if-your-phone-could-tell-you-what-to-do-in-the-first-30-minutes-of-an-emergency-9ac6791efc09?source=rss------programming-5) (2026-09-09)
-- [I americium fresh to Laravel improvement and person conscionable began implementing my archetypal…](https://medium.com/@zgza778/i-americium-fresh-to-laravel-improvement-and-person-conscionable-began-implementing-my-archetypal-9bc65818a501?source=rss------programming-5) (2026-09-09)
-- [Can Async Code Run in Parallel?](https://medium.com/@sudhanshjawale/can-async-code-run-in-parallel-cd16f96988a7?source=rss------programming-5) (2026-09-09)
+- [Code Review Comments I Ignore vs. the Ones That Actually Save Me](https://medium.com/@mayankgairola114/code-review-comments-i-ignore-vs-the-ones-that-actually-save-me-ec5ddbe76ab1?source=rss------programming-5) (2026-09-09)
+- [8 Software Developer Tricks That I Use Every Day](https://medium.com/@gopi_ck/8-software-developer-tricks-that-i-use-every-day-82a1221498c5?source=rss------programming-5) (2026-09-09)
+- [ChatGPT 6 Astra vs Claude Fable 5.1: An Agency Developer’s Benchmark](https://medium.com/@techminddevelopers/chatgpt-6-astra-vs-claude-fable-5-1-an-agency-developers-benchmark-af85839ef262?source=rss------programming-5) (2026-09-09)
+- [9 Python Libraries That Make Everyday Coding Smoother](https://medium.com/@djangowiki/9-python-libraries-that-make-everyday-coding-smoother-034817038238?source=rss------programming-5) (2026-09-09)
+- [Bloom Filters Can’t Delete Data? Meet the Cuckoo Filter](https://medium.com/@umeshcapg/bloom-filters-cant-delete-data-meet-the-cuckoo-filter-93e5b8bd0b65?source=rss------programming-5) (2026-09-09)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
 - [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
-- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Password Protection is now priced per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
+- [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan) (2026-09-09)
 - [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally) (2026-09-08)
 - [Introducing Flat Rate CDN](https://vercel.com/blog/introducing-flat-rate-cdn) (2026-09-08)
 - [GPT Image 2.5 Flare and Sunburst now available on AI Gateway](https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway) (2026-09-08)
-- [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams) (2026-09-08)
-- [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free) (2026-09-04)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Integrate Deepgram Flux with Twilio's Conversation Relay
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/deepgram-flux-twilio-conversation-relay
+) (2026-09-08)
+- [
+Holiday email marketing best practices for 2026 (and beyond)
+](
+https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
+) (2026-09-08)
+- [
+Choosing a low-latency infrastructure layer for conversational AI
+](
+https://www.twilio.com/en-us/blog/insights/low-latency-layer-conversational-ai
+) (2026-09-08)
+- [
 What is bring your own LLM (BYO LLM)?
 ](
 https://www.twilio.com/en-us/blog/insights/bring-your-own-llm
@@ -393,21 +408,6 @@ Build a Video Chat App with ASP.NET Core and Angular using Twilio Video
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-app-dotnet-angular
 ) (2026-09-03)
-- [
-4 must-ask questions before you delegate to your AI agent
-](
-https://www.twilio.com/en-us/blog/insights/questions-before-delegating-to-ai-agent
-) (2026-09-03)
-- [
-How to disclose AI to customers without killing the conversation
-](
-https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers
-) (2026-09-01)
-- [
-When AI takes the wheel: The rise of invisible identity intelligence in 2026
-](
-https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
-) (2026-09-01)
 
 </details>
 
