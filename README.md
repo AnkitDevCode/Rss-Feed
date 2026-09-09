@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/) (2026-09-08)
+- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) (2026-09-08)
+- [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) (2026-09-08)
+- [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/) (2026-09-08)
 - [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) (2026-09-08)
-- [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/) (2026-09-08)
-- [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) (2026-09-08)
-- [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) (2026-09-08)
-- [Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/) (2026-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/) (2026-09-08)
-- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin) (2026-09-08)
-- [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) (2026-09-08)
-- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/) (2026-09-08)
-- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/) (2026-09-08)
+- [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance) (2026-09-09)
+- [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843) (2026-09-09)
+- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) (2026-09-09)
+- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/) (2026-09-08)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) (2026-09-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent) (2026-09-08)
+- [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution) (2026-09-08)
+- [Rivian spinout Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology) (2026-09-08)
+- [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale) (2026-09-08)
 - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) (2026-09-08)
-- [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race) (2026-09-08)
-- [AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans) (2026-09-08)
-- [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6) (2026-09-08)
-- [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control) (2026-09-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Supreme Court forces TV stations to sell more election ads at steep discounts](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/) (2026-09-08)
-- [Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change](https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/) (2026-09-08)
-- [Godzilla Minus Zero IMAX trailer teases King Ghidorah](https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/) (2026-09-08)
-- [“This is the AI men actually use”: Meta ads pushed apps nudifying real teens](https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/) (2026-09-08)
-- [Update to Google’s AI weather model improves forecast accuracy](https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/) (2026-09-08)
+- [LG TV shown scanning LAN for third-party phones and other devices](https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/) (2026-09-08)
+- [GOG brings back "big box" PC games, one printable template at a time](https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/) (2026-09-08)
+- [Why this month's Microsoft patch release is a doozy](https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/) (2026-09-08)
+- [The universal language of space is... Star Trek? Mais oui.](https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/) (2026-09-08)
+- [NIH to use part of its budget to pay for Department of Defense research](https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/) (2026-09-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Track AI Token Spend in Grafana: Claude, Codex, and Ollama](https://dev.to/josh_hall_b54941047f33661/track-ai-token-spend-in-grafana-claude-codex-and-ollama-5alm) (2026-09-08)
-- [How we made 2,000 customer conversations queryable in a few hours](https://dev.to/madebymonogram/how-we-made-2000-customer-conversations-queryable-in-a-few-hours-a8j) (2026-09-08)
-- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4) (2026-09-08)
-- [Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj) (2026-09-08)
-- [I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l) (2026-09-08)
+- [Architecting WingZone: A Secure Serverless POS and Mobile Ordering Ecosystem](https://dev.to/ruumidev/architecting-wingzone-a-secure-serverless-pos-and-mobile-ordering-ecosystem-8pi) (2026-09-09)
+- [Slop-Creep: When Building Gets Cheaper Than Thinking](https://dev.to/awaiting_input/slop-creep-when-building-gets-cheaper-than-thinking-29fa) (2026-09-09)
+- [The LoRA won on its own moods, and the held-out tradeoff stayed visible](https://dev.to/ilya_mozerov_867dbdd91feb/the-lora-won-on-its-own-moods-and-the-held-out-tradeoff-stayed-visible-khk) (2026-09-09)
+- [Architecting Project Nero: Real-Time Exam Attendance via Local Computer Vision](https://dev.to/ruumidev/architecting-project-nero-real-time-exam-attendance-via-local-computer-vision-150e) (2026-09-09)
+- [Which to Use: MCP, Function Calling, or Plugins](https://dev.to/labyrinthanalytics/which-to-use-mcp-function-calling-or-plugins-4265) (2026-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [JavaScript Functions: Declaration, Expression, Arrow, Callback, Higher-Order, Pure Functions, IIFE…](https://medium.com/@tuhinkairi/javascript-functions-declaration-expression-arrow-callback-higher-order-pure-functions-iife-48bef3af94cb?source=rss------programming-5) (2026-09-08)
-- [My Journey into Web Development: What I’ve Learned So Far](https://medium.com/@syedarsalana789/my-journey-into-web-development-what-ive-learned-so-far-1672bcb74d49?source=rss------programming-5) (2026-09-08)
-- [Top Survival Guide To Statistics For ML Engineers](https://medium.com/@niranjanky14/top-survival-guide-to-statistics-for-ml-engineers-1c0e6bb54e03?source=rss------programming-5) (2026-09-08)
-- [Juspay Tree of Space: Optimizing Lock, Unlock and Upgrade Operations in Java](https://medium.com/@jeffreythomas10566x/juspay-tree-of-space-optimizing-lock-unlock-and-upgrade-operations-in-java-9db471249335?source=rss------programming-5) (2026-09-08)
-- [The two data structures hiding inside every fast cache](https://medium.com/@adatiyavinayshaileshbhai/the-two-data-structures-hiding-inside-every-fast-cache-4fa8193c7755?source=rss------programming-5) (2026-09-08)
+- [10 Minor DevOps Mistakes That Can Cause Major Production Issues](https://pawannatekar220.medium.com/10-minor-devops-mistakes-that-can-cause-major-production-issues-191d141e7686?source=rss------programming-5) (2026-09-09)
+- [The Void That Comes With AI-Assisted Programming](https://medium.com/@hashaamkhan4247/the-void-that-comes-with-ai-assisted-programming-679e47d3261a?source=rss------programming-5) (2026-09-09)
+- [What If Your Phone Could Tell You What to Do in the First 30 Minutes of an Emergency?](https://medium.com/@sharshitsingh007/what-if-your-phone-could-tell-you-what-to-do-in-the-first-30-minutes-of-an-emergency-9ac6791efc09?source=rss------programming-5) (2026-09-09)
+- [I americium fresh to Laravel improvement and person conscionable began implementing my archetypal…](https://medium.com/@zgza778/i-americium-fresh-to-laravel-improvement-and-person-conscionable-began-implementing-my-archetypal-9bc65818a501?source=rss------programming-5) (2026-09-09)
+- [Can Async Code Run in Parallel?](https://medium.com/@sudhanshjawale/can-async-code-run-in-parallel-cd16f96988a7?source=rss------programming-5) (2026-09-09)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>🔵 Azure Blog</summary>
 
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 - [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
 - [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
@@ -196,22 +196,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [6 Benefits of Sandbox Environments (and How Docker Sandboxes Delivers Them)](https://www.docker.com/blog/benefits-of-sandbox-environments/) (2026-09-08)
 - [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/) (2026-09-03)
 - [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/) (2026-09-02)
 - [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/) (2026-09-02)
 - [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/) (2026-08-31)
-- [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) (2026-08-25)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/) (2026-09-08)
 - [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) (2026-09-04)
 - [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) (2026-09-03)
 - [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/) (2026-09-02)
 - [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (2026-09-01)
-- [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (2026-08-31)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GPT-6 Astra on GitLab: Faster runs, fewer tokens used](https://about.gitlab.com/blog/gpt6-astra-on-gitlab/) (2026-09-08)
 - [Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry](https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/) (2026-09-08)
 - [GitLab’s internal playbook to foster AI-fluent technical teams](https://about.gitlab.com/blog/how-gitlab-fosters-ai-fluent-teams/) (2026-09-02)
 - [Critical remote code execution in vm2, a widely used Node.js sandbox library](https://about.gitlab.com/blog/critical-remote-code-execution-in-vm2/) (2026-09-02)
 - [GitLab compliance frameworks: Adhere to SOC 2 in minutes](https://about.gitlab.com/blog/quick-compliance-with-compliance-framework-templates/) (2026-08-27)
-- [How to recognize your team with GitLab Achievements](https://about.gitlab.com/blog/how-to-recognize-your-team-with-gitlab-achievements/) (2026-08-27)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally) (2026-09-08)
 - [Introducing Flat Rate CDN](https://vercel.com/blog/introducing-flat-rate-cdn) (2026-09-08)
+- [GPT Image 2.5 Flare and Sunburst now available on AI Gateway](https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway) (2026-09-08)
 - [Flat Rate CDN is now GA for Pro teams](https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams) (2026-09-08)
 - [Ling 3.0 Flash Sante is now available on AI Gateway for free](https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free) (2026-09-04)
-- [GPT 6 Astra now available on Vercel AI Gateway](https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway) (2026-09-04)
-- [Cursor Cloud Agents can now run in Vercel Sandbox](https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox) (2026-09-03)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [The 8 best AI voice generators in 2026](https://zapier.com/blog/best-ai-voice-generator) (2026-09-08)
 - [The 7 best AI scheduling assistants in 2026](https://zapier.com/blog/best-ai-scheduling) (2026-09-08)
-- [What is Jasper AI? And how to use it](https://zapier.com/blog/jasper-ai) (2026-09-08)
+- [The 8 best AI voice generators in 2026](https://zapier.com/blog/best-ai-voice-generator) (2026-09-08)
 - [The best free graphic design software to create social media posts in 2026](https://zapier.com/blog/graphic-design-tools-for-social-media-images) (2026-09-08)
-- [n8n vs. Power Automate: Which is best? [2026]](https://zapier.com/blog/n8n-vs-power-automate) (2026-09-08)
+- [What is Jasper AI? And how to use it](https://zapier.com/blog/jasper-ai) (2026-09-08)
+- [OpenAI models: Every model (including GPT-6) and what it's best for](https://zapier.com/blog/openai-models) (2026-09-08)
 
 </details>
 
@@ -574,17 +574,6 @@ https://www.twilio.com/en-us/blog/insights/invisible-identity-intelligence
 - [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct) (2026-09-03)
 - [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) (2026-09-03)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/) (2026-09-08)
-- [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/) (2026-09-08)
-- [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/) (2026-09-08)
-- [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/) (2026-09-08)
-- [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/) (2026-09-07)
 
 </details>
 
