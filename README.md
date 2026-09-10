@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The Boring Company raises $3B in round led by UAE](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/) (2026-09-10)
-- [AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/) (2026-09-10)
-- [Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/) (2026-09-10)
-- [Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/) (2026-09-10)
-- [Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/) (2026-09-10)
+- [Meta’s AI agent Muse is now the No. 2 app in the US](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/) (2026-09-10)
+- [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/) (2026-09-10)
+- [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/) (2026-09-10)
+- [Anthropic reveals rogue AI agents hate CAPTCHAs, just like you](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/) (2026-09-10)
+- [India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content](https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/) (2026-09-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/) (2026-09-10)
-- [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/) (2026-09-10)
-- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native) (2026-09-10)
-- [Who Dung It? (Turdle.fun)](https://turdle.fun/) (2026-09-10)
-- [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556) (2026-09-10)
+- [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat) (2026-09-10)
+- [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544) (2026-09-10)
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) (2026-09-10)
+- [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2) (2026-09-10)
+- [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/) (2026-09-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids) (2026-09-10)
+- [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale) (2026-09-10)
+- [Electric air taxis get the green light for test flights in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas) (2026-09-10)
 - [Universal Music is launching an AI music platform with ElevenLabs](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai) (2026-09-10)
 - [Where to preorder the new Apple Watch Series 12 and Ultra 4](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy) (2026-09-10)
-- [Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game](https://www.theverge.com/games/992937/wolverine-review-ps5) (2026-09-10)
-- [Meta’s Muse AI works and creeps me out](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on) (2026-09-10)
-- [Another big James Talarico interview is punted to YouTube due to FCC threats](https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico) (2026-09-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Artemis II commander and pilot become NASA's first astronaut emeriti](https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/) (2026-09-10)
-- [Four groups caught using the same Chrome and Windows exploit kit](https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/) (2026-09-09)
-- [Europe may finally have found a space entrepreneur who is meeting the moment](https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/) (2026-09-09)
-- [Six Chinese AI firms accused of aggressively copying US frontier models](https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/) (2026-09-09)
-- [Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo](https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/) (2026-09-09)
+- [Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/) (2026-09-10)
+- [Android can now securely migrate your logins between password managers](https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/) (2026-09-10)
+- [Panic builds over bankrupt Spirit’s looming data sale to Google](https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/) (2026-09-10)
+- [Physicist does the math on Star Trek’s “Picard maneuver”](https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/) (2026-09-10)
+- [Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats](https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/) (2026-09-10)
 
 </details>
 
@@ -75,44 +75,44 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/) (2026-09-10)
 - [Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/) (2026-09-09)
 - [Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/) (2026-09-08)
 - [How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/) (2026-09-04)
 - [Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/) (2026-09-03)
-- [The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Processing Heterogeneous IoT Logs with Fluent Bit and Elasticsearch](https://dev.to/christophe_chaussat_01ef4/processing-heterogeneous-iot-logs-with-fluent-bit-and-elasticsearch-4i8l) (2026-09-10)
-- [Consolidation Is the Missing Phase in Agent Memory](https://dev.to/swapnanilsaha/consolidation-is-the-missing-phase-in-agent-memory-2488) (2026-09-10)
-- [Language Models and Languages: Why "Multilingual" Is an Illusion of Equality](https://dev.to/den0011/language-models-and-languages-why-multilingual-is-an-illusion-of-equality-59ii) (2026-09-10)
-- [Why Big O Notation Matters More Than You Think](https://dev.to/christianluis07/why-i-built-a-devsecops-portfolio-with-a-fake-hacker-terminal-and-live-attack-logs-5ale) (2026-09-10)
-- [I put an LLM agent on a static site for free. Here is the actual bill](https://dev.to/martinimarcello00/i-put-an-llm-agent-on-a-static-site-for-free-here-is-the-actual-bill-1217) (2026-09-10)
+- [NVIDIA Jetson + ROS 2 + LiDAR: Building an Autonomous Navigation System](https://dev.to/vmodal_ai/nvidia-jetson-ros-2-lidar-building-an-autonomous-navigation-system-55l8) (2026-09-10)
+- [Building a Remote Robot Control App with Flutter and NVIDIA Jetson](https://dev.to/vmodal_ai/building-a-remote-robot-control-app-with-flutter-and-nvidia-jetson-1m5m) (2026-09-10)
+- [Flutter + ROS 2: Building a Mobile App for Controlling AI Robots](https://dev.to/vmodal_ai/flutter-ros-2-building-a-mobile-app-for-controlling-ai-robots-3m44) (2026-09-10)
+- [Run YOLO Object Detection on NVIDIA Jetson with TensorRT and ROS 2](https://dev.to/vmodal_ai/run-yolo-object-detection-on-nvidia-jetson-with-tensorrt-and-ros-2-ihe) (2026-09-10)
+- [NVIDIA Jetson Orin + ROS 2: Building a Real-Time AI Robot](https://dev.to/vmodal_ai/nvidia-jetson-orin-ros-2-building-a-real-time-ai-robot-3m77) (2026-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Writing Python Retry Logic From Scratch (Do These 4 Things Instead)](https://python.plainenglish.io/stop-writing-python-retry-logic-from-scratch-do-these-4-things-instead-634123e38091?source=rss------programming-5) (2026-09-10)
-- [The Code I Shipped Without Reading It](https://ntrongtin11702.medium.com/the-code-i-shipped-without-reading-it-e0f343ec7bd3?source=rss------programming-5) (2026-09-10)
-- [We May Have Been Learning Software Engineering Backwards](https://medium.com/@israeltubo/we-may-have-been-learning-software-engineering-backwards-a12425b6f51c?source=rss------programming-5) (2026-09-10)
-- [Are We Afraid of AI or of Losing the Wheel?](https://medium.com/@wlharris1130/are-we-afraid-of-ai-or-of-losing-the-wheel-1ba549b41893?source=rss------programming-5) (2026-09-10)
-- [How I’m Learning System Design: From Building Blocks to Case Studies, HLD, LLD & Code](https://medium.com/@shubhjain191/how-im-learning-system-design-from-building-blocks-to-case-studies-hld-lld-code-d0e54def04c6?source=rss------programming-5) (2026-09-10)
+- [Your Company Does Not Need 50 Engineers Anymore. It Needs 15 Good Ones Who Know How to Use AI.](https://medium.com/javarevisited/your-company-does-not-need-50-engineers-anymore-it-needs-15-good-ones-who-know-how-to-use-ai-ebd159dca1b8?source=rss------programming-5) (2026-09-10)
+- [The Ultimate AI Code-A-Thon Challenge: Part 5 ~ Google Gemini Updates & Enhancements](https://beardedviking.medium.com/the-ultimate-ai-code-a-thon-challenge-part-5-google-gemini-updates-enhancements-61711c6530ec?source=rss------programming-5) (2026-09-10)
+- [We Promoted the Engineer Who Wrote Less Code. The Guy Who Wrote the Most Was Furious.](https://medium.com/javarevisited/we-promoted-the-engineer-who-wrote-less-code-the-guy-who-wrote-the-most-was-furious-5408b191eb4d?source=rss------programming-5) (2026-09-10)
+- [Most Spring Boot Developers Don’t Actually Understand Spring](https://medium.com/javarevisited/most-spring-boot-developers-dont-actually-understand-spring-ef0fad74dba0?source=rss------programming-5) (2026-09-10)
+- [Why Practical IT Skills Matter More Than Ever in 2026](https://medium.com/@webprims/why-practical-it-skills-matter-more-than-ever-in-2026-2daed94f990c?source=rss------programming-5) (2026-09-10)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing Amazon EBS Volume Clones across AWS accounts](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/) (2026-09-09)
 - [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/) (2026-09-07)
 - [Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/) (2026-08-31)
 - [AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/) (2026-08-31)
 - [Happy 20th Birthday, Amazon EC2](https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/) (2026-08-25)
-- [AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/) (2026-08-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) (2026-09-10)
+- [Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies](https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/) (2026-09-10)
 - [d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment](https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/) (2026-09-10)
 - [Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/) (2026-09-10)
 - [NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC](https://blogs.nvidia.com/blog/ibc-news-2026/) (2026-09-09)
-- [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/) (2026-09-03)
-- [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/) (2026-09-03)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Prepare for the Cyber Resilience Act's 24-hour reporting deadline](https://about.gitlab.com/blog/cyber-resilience-act-reporting-deadline/) (2026-09-10)
 - [Co-Create: Building GitLab with our users](https://about.gitlab.com/blog/co-create-h1-2026/) (2026-09-10)
 - [GPT-6 Astra on GitLab: Faster runs, fewer tokens used](https://about.gitlab.com/blog/gpt6-astra-on-gitlab/) (2026-09-08)
 - [Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry](https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/) (2026-09-08)
 - [GitLab’s internal playbook to foster AI-fluent technical teams](https://about.gitlab.com/blog/how-gitlab-fosters-ai-fluent-teams/) (2026-09-02)
-- [Critical remote code execution in vm2, a widely used Node.js sandbox library](https://about.gitlab.com/blog/critical-remote-code-execution-in-vm2/) (2026-09-02)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox now provides 64 GB of storage](https://vercel.com/changelog/vercel-sandbox-64-gb-storage) (2026-09-11)
+- [FastAPI frontends and static files served from the CDN](https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn) (2026-09-10)
+- [How we cut CDN metadata lookup latency by 91%](https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent) (2026-09-10)
+- [Tako Search is free on AI Gateway through September 30th](https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th) (2026-09-10)
 - [Vercel Sandbox is now available in all regions](https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions) (2026-09-10)
-- [Password Protection is now available per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
-- [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan) (2026-09-09)
-- [DeepSeek V4.1 Flash now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway) (2026-09-09)
-- [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli) (2026-09-09)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-09-10)
 - [The 7 best AIOps platforms in 2026](https://zapier.com/blog/aiops-platform) (2026-09-10)
 - [The best sales pipeline management software in 2026](https://zapier.com/blog/pipeline-management-software) (2026-09-10)
-- [How to write a memo: a step-by-step guide](https://zapier.com/blog/how-to-write-a-memo) (2026-09-09)
 - [How to make a copy of a folder in Google Drive](https://zapier.com/blog/copy-google-drive-folders) (2026-09-09)
-- [AI governance: What it is and why it's crucial for every business](https://zapier.com/blog/ai-governance) (2026-09-09)
+- [How to write a memo: a step-by-step guide](https://zapier.com/blog/how-to-write-a-memo) (2026-09-09)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/) (2026-09-10)
 - [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
 - [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
 - [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
 - [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/) (2026-09-08)
-- [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/) (2026-09-08)
 
 </details>
 
@@ -613,11 +613,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises](https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/) (2026-09-10)
+- [Feature Engineering in Scikit-Learn: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/feature-engineering-in-scikit-learn-a-kdnuggets-cheat-sheet) (2026-09-10)
 - [7 Steps to Become a Forward Deployed Engineer in 2026](https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026) (2026-09-10)
 - [5 Useful Python Scripts to Automate CSV Processing](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing) (2026-09-10)
 - [Build an AI Data Analyst That Thinks Like a Senior Analyst](https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst) (2026-09-09)
-- [7 Approaches to Efficient LLM Training on Limited Hardware](https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware) (2026-09-09)
-- [From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems](https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems) (2026-09-08)
 
 </details>
 
