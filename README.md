@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) (2026-09-10)
-- [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (2026-09-09)
-- [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers) (2026-09-09)
-- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260) (2026-09-09)
-- [iPhone Duo](https://www.apple.com/iphone-duo/) (2026-09-09)
+- [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683) (2026-09-10)
+- [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/) (2026-09-10)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) (2026-09-10)
+- [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965) (2026-09-10)
+- [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/) (2026-09-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event) (2026-09-09)
-- [The black iPhone Pro returns](https://www.theverge.com/tech/993048/iphone-18-pro-black-color) (2026-09-09)
-- [The incomplete history of Duo devices](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices) (2026-09-09)
-- [Automattic CEO Matt Mullenweg placed on leave](https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence) (2026-09-09)
-- [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro) (2026-09-09)
+- [The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera](https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography) (2026-09-10)
+- [The Trump phone just got a $250 price hike](https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike) (2026-09-10)
+- [Nintendo’s latest Switch 2 update adds VRR support in TV mode](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update) (2026-09-10)
+- [Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it](https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox) (2026-09-10)
+- [Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini) (2026-09-10)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/) (2026-09-10)
+- [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/) (2026-09-10)
+- [Healthcare AI’s next test is integration](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/) (2026-09-10)
 - [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/) (2026-09-09)
 - [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/) (2026-09-09)
-- [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/) (2026-09-09)
-- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) (2026-09-09)
-- [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/) (2026-09-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a free browser tool that turns 2 ground tiles into a full 47-tile autotile set](https://dev.to/mojah2929mojaha/i-built-a-free-browser-tool-that-turns-2-ground-tiles-into-a-full-47-tile-autotile-set-87m) (2026-09-10)
-- [I Built a 64-Bit OS from Scratch: BIOS/UEFI, GUI, Networking, a Browser, and DOOM](https://dev.to/adrian-thebolt/i-built-a-64-bit-os-from-scratch-biosuefi-gui-networking-a-browser-and-doom-4j90) (2026-09-10)
-- [Why RBAC Alone Isn't Enough for Enterprise Data Agents](https://dev.to/arisyndata/why-rbac-alone-isnt-enough-for-enterprise-data-agents-3b4f) (2026-09-10)
-- [Nothing failed for twelve days while our post schedule drifted 76 hours: the label that meant two things](https://dev.to/rulestack/nothing-failed-for-twelve-days-while-our-post-schedule-drifted-76-hours-the-label-that-meant-two-18a3) (2026-09-10)
-- [Google’s August 2026 Spam Update Is Complete: How Website Owners Should Respond](https://dev.to/alifar/googles-august-2026-spam-update-is-complete-how-website-owners-should-respond-oal) (2026-09-10)
+- [We built an AI that presents your deck in the meeting. Here is what broke first.](https://dev.to/presango/we-built-an-ai-that-presents-your-deck-in-the-meeting-here-is-what-broke-first-11ik) (2026-09-10)
+- [Designing an explainable sync ledger for watch state across media servers](https://dev.to/plembfin/designing-an-explainable-sync-ledger-for-watch-state-across-media-servers-5g89) (2026-09-10)
+- [nixamp 0.9: a server that names itself, and a CNN feed that stopped talking](https://dev.to/chovy/nixamp-09-a-server-that-names-itself-and-a-cnn-feed-that-stopped-talking-3b3o) (2026-09-10)
+- [Function coloring is real and pretending context propagation isn't infection](https://dev.to/adioof/function-coloring-is-real-and-pretending-context-propagation-isnt-infection-1ihj) (2026-09-10)
+- [I Built a Voice-Based Daily Reflection Companion under 15 Minutes Using Agora Agents SDK](https://dev.to/dear-arah/i-built-a-voice-based-daily-reflection-companion-under-15-minutes-using-agora-agents-sdk-4eki) (2026-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lessons Programming in Python taught Me.](https://medium.com/@winnerlonginus6/lessons-programming-in-python-taught-me-7796810f10d3?source=rss------programming-5) (2026-09-10)
-- [10 AI Tools Every Computer Science Student Should Know in 2026](https://medium.com/@ali261145272/10-ai-tools-every-computer-science-student-should-know-in-2026-317e43366cff?source=rss------programming-5) (2026-09-10)
-- [Windows Built This Tool and hid it from you the entire time](https://pawannatekar220.medium.com/windows-built-this-tool-and-hid-it-from-you-the-entire-time-ac3e068b1242?source=rss------programming-5) (2026-09-10)
-- [Aritmetika dan Komparasi dalam Bahasa Pemrograman Python](https://medium.com/@althaf8385/aritmetika-dan-komparasi-dalam-bahasa-pemrograman-python-1b47f29446b9?source=rss------programming-5) (2026-09-10)
-- [I Made a Real Fly Brain Play Pong. It Didn’t Learn — And That’s the Interesting Part](https://jonatasperaza.medium.com/i-made-a-real-fly-brain-play-pong-it-didnt-learn-and-that-s-the-interesting-part-80b8560695fe?source=rss------programming-5) (2026-09-10)
+- [Criei uma estrela usando Java](https://arianweslley.medium.com/criei-uma-estrela-usando-java-0dfbba14ab09?source=rss------programming-5) (2026-09-10)
+- [My Week One Internship Journey with Dataraflow: Learning Python Through Practice](https://medium.com/@olubiyi.ibrahim.enitan/my-week-one-internship-journey-with-dataraflow-learning-python-through-practice-7cac5b4ef23d?source=rss------programming-5) (2026-09-10)
+- [CogWorkLabs vs Tray.io: Which Automation Path Fits?](https://medium.com/@maryamriqza/cogworklabs-vs-tray-io-which-automation-path-fits-1ed1cda48e90?source=rss------programming-5) (2026-09-10)
+- [They fired the people who knew how id Tech worked, and that knowledge doesn’t come back](https://medium.com/@thenewgencoder/they-fired-the-people-who-knew-how-id-tech-worked-and-that-knowledge-doesnt-come-back-78c897b66506?source=rss------programming-5) (2026-09-10)
+- [macOS has no public API for screen brightness](https://medium.com/@noahuhryan/macos-has-no-public-api-for-screen-brightness-e01e2ebbb009?source=rss------programming-5) (2026-09-10)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Sandbox is now available in all regions](https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions) (2026-09-10)
 - [Password Protection is now available per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
 - [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan) (2026-09-09)
+- [DeepSeek V4.1 Flash now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway) (2026-09-09)
 - [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli) (2026-09-09)
-- [Persistent memory for eve agents](https://vercel.com/changelog/persistent-memory-for-eve-agents) (2026-09-09)
-- [v0 adds one-click integrations for email, auth, search, and databases](https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases) (2026-09-09)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>🤖 AI News</summary>
 
+- [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
 - [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
 - [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
 - [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/) (2026-09-08)
 - [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/) (2026-09-08)
-- [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/) (2026-09-08)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Bodhan AI Releases Four Indic Models for OCR, Translation and Speech ](https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/) (2026-09-10)
 - [The Four Caches in LLM Serving ](https://www.analyticsvidhya.com/blog/2026/09/four-caches-in-llm-serving/) (2026-09-08)
 - [Getting Started with Grok Bot ](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) (2026-09-07)
 - [GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model](https://www.analyticsvidhya.com/blog/2026/09/gpt-6-astra-explained/) (2026-09-05)
 - [Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition) ](https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/) (2026-09-04)
-- [OpenCode Explained: The Open-Source AI Coding Agent](https://www.analyticsvidhya.com/blog/2026/09/opencode-ai-explained/) (2026-09-03)
 
 </details>
 
