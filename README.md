@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) (2026-09-09)
-- [There are new shiny iPhones, so Apple is making you pay more for older models ](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/) (2026-09-09)
-- [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/) (2026-09-09)
-- [Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/) (2026-09-09)
-- [Harvey hits $15.5B valuation, months after reaching $11B](https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/) (2026-09-09)
+- [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/) (2026-09-10)
+- [Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (2026-09-09)
+- [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/) (2026-09-09)
+- [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/) (2026-09-09)
+- [Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago](https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) (2026-09-10)
+- [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (2026-09-09)
+- [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers) (2026-09-09)
+- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260) (2026-09-09)
 - [iPhone Duo](https://www.apple.com/iphone-duo/) (2026-09-09)
-- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) (2026-09-09)
-- [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/) (2026-09-09)
-- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/) (2026-09-09)
-- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react) (2026-09-09)
-- [Apple’s new iPhone camera mode promises to prove your photo isn’t AI](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image) (2026-09-09)
-- [iPhone 18 Pro and Pro Max: Our first hands-on impressions](https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event) (2026-09-09)
-- [Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4) (2026-09-09)
-- [Here’s how the new iPhone 18 Pro stacks up to the last-gen models](https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features) (2026-09-09)
+- [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event) (2026-09-09)
+- [The black iPhone Pro returns](https://www.theverge.com/tech/993048/iphone-18-pro-black-color) (2026-09-09)
+- [The incomplete history of Duo devices](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices) (2026-09-09)
+- [Automattic CEO Matt Mullenweg placed on leave](https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence) (2026-09-09)
+- [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro) (2026-09-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [NOAA is putting commercial fishing ahead of conservation](https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/) (2026-09-09)
-- [Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.](https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/) (2026-09-09)
-- [LG TV shown scanning LAN for third-party phones and other devices](https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/) (2026-09-08)
-- [GOG brings back "big box" PC games, one printable template at a time](https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/) (2026-09-08)
-- [Why this month's Microsoft patch release is a doozy](https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/) (2026-09-08)
+- [4 groups caught using the same Chrome and Windows exploit kit](https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/) (2026-09-09)
+- [Europe may finally have found a space entrepreneur who is meeting the moment](https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/) (2026-09-09)
+- [Six Chinese AI firms accused of aggressively copying US frontier models](https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/) (2026-09-09)
+- [Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo](https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/) (2026-09-09)
+- [When it comes to Beatles references, scientists can't let it be](https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/) (2026-09-09)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) (2026-09-10)
 - [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/) (2026-09-04)
 - [GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/) (2026-09-03)
 - [Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/) (2026-09-02)
 - [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) (2026-09-02)
-- [OpenClaw went viral. Meet the maintainers building and securing it.](https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/) (2026-08-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Por qué el texto invisible funciona en el nombre de TikTok y falla en el usuario de Instagram](https://dev.to/support_confileo_ce7442eb/por-que-el-texto-invisible-funciona-en-el-nombre-de-tiktok-y-falla-en-el-usuario-de-instagram-47l6) (2026-09-09)
-- [Google’s August Gemini Updates Expand Faster Models, Transcription and Task Workflows](https://dev.to/alifar/googles-august-gemini-updates-expand-faster-models-transcription-and-task-workflows-2bnp) (2026-09-09)
-- [I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'](https://dev.to/brmarcosbr/i-made-an-agent-play-slay-the-spire-2-on-its-own-and-what-unlocked-it-was-the-game-saying-no-2hc2) (2026-09-09)
-- [Reconstructing Bosun PKM with evidence](https://dev.to/woodyardae/reconstructing-bosun-pkm-with-evidence-1jl9) (2026-09-09)
-- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4) (2026-09-09)
+- [I built a free browser tool that turns 2 ground tiles into a full 47-tile autotile set](https://dev.to/mojah2929mojaha/i-built-a-free-browser-tool-that-turns-2-ground-tiles-into-a-full-47-tile-autotile-set-87m) (2026-09-10)
+- [I Built a 64-Bit OS from Scratch: BIOS/UEFI, GUI, Networking, a Browser, and DOOM](https://dev.to/adrian-thebolt/i-built-a-64-bit-os-from-scratch-biosuefi-gui-networking-a-browser-and-doom-4j90) (2026-09-10)
+- [Why RBAC Alone Isn't Enough for Enterprise Data Agents](https://dev.to/arisyndata/why-rbac-alone-isnt-enough-for-enterprise-data-agents-3b4f) (2026-09-10)
+- [Nothing failed for twelve days while our post schedule drifted 76 hours: the label that meant two things](https://dev.to/rulestack/nothing-failed-for-twelve-days-while-our-post-schedule-drifted-76-hours-the-label-that-meant-two-18a3) (2026-09-10)
+- [Google’s August 2026 Spam Update Is Complete: How Website Owners Should Respond](https://dev.to/alifar/googles-august-2026-spam-update-is-complete-how-website-owners-should-respond-oal) (2026-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Is Software Engineering? A Beginner’s Guide](https://medium.com/@chethaneeshehara/what-is-software-engineering-a-beginners-guide-02d7642001f7?source=rss------programming-5) (2026-09-09)
-- [More Agents ≠ Better AI: What I Learned Building a Multi-Agent System](https://yashanshrastogi.medium.com/more-agents-better-ai-what-i-learned-building-a-multi-agent-system-4af2d474767d?source=rss------programming-5) (2026-09-09)
-- [PekiSSL Nedir? SSL Sertifikasını Satmakla İşimiz Bitmiyor, Daha Yeni Başlıyor](https://medium.com/@pekissl/pekissl-nedir-ssl-sertifikas%C4%B1n%C4%B1-satmakla-i%CC%87%C5%9Fimiz-bitmiyor-daha-yeni-ba%C5%9Fl%C4%B1yor-2cb4a8ce1fef?source=rss------programming-5) (2026-09-09)
-- [Semantic Caching vs. Prompt Caching: Slashing LLM Costs and Latency by 70%](https://medium.com/the-ai-cafe/semantic-caching-vs-prompt-caching-slashing-llm-costs-and-latency-by-70-4d75d66c142a?source=rss------programming-5) (2026-09-09)
-- [Seven Ways My AI Workflow Lied to Me](https://medium.com/@sukurovruslan68/seven-ways-my-ai-workflow-lied-to-me-701cfb1d7476?source=rss------programming-5) (2026-09-09)
+- [Lessons Programming in Python taught Me.](https://medium.com/@winnerlonginus6/lessons-programming-in-python-taught-me-7796810f10d3?source=rss------programming-5) (2026-09-10)
+- [10 AI Tools Every Computer Science Student Should Know in 2026](https://medium.com/@ali261145272/10-ai-tools-every-computer-science-student-should-know-in-2026-317e43366cff?source=rss------programming-5) (2026-09-10)
+- [Windows Built This Tool and hid it from you the entire time](https://pawannatekar220.medium.com/windows-built-this-tool-and-hid-it-from-you-the-entire-time-ac3e068b1242?source=rss------programming-5) (2026-09-10)
+- [Aritmetika dan Komparasi dalam Bahasa Pemrograman Python](https://medium.com/@althaf8385/aritmetika-dan-komparasi-dalam-bahasa-pemrograman-python-1b47f29446b9?source=rss------programming-5) (2026-09-10)
+- [I Made a Real Fly Brain Play Pong. It Didn’t Learn — And That’s the Interesting Part](https://jonatasperaza.medium.com/i-made-a-real-fly-brain-play-pong-it-didnt-learn-and-that-s-the-interesting-part-80b8560695fe?source=rss------programming-5) (2026-09-10)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Get ready for iPhone Duo](https://developer.apple.com/news/?id=vn8abkxx) (2026-09-09)
+- [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=k1mtkt1k) (2026-09-09)
 - [Hello Developer: September 2026](https://developer.apple.com/news/?id=ote61lrx) (2026-09-02)
 - [Upcoming changes to Rosetta support for Intel-based macOS apps](https://developer.apple.com/news/?id=w5ngl9k2) (2026-09-01)
 - [“The impact was the biggest surprise“: Swiggy’s transition to native pays off](https://developer.apple.com/news/?id=o5spbekm) (2026-09-01)
-- [Tax and price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=artln8br) (2026-08-27)
-- [Surprise and shine](https://developer.apple.com/news/?id=s6spdug0) (2026-08-26)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/) (2026-09-09)
 - [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/) (2026-09-08)
 - [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) (2026-09-04)
 - [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) (2026-09-03)
 - [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/) (2026-09-02)
-- [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (2026-09-01)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Password Protection is now priced per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
+- [Password Protection is now available per project on Pro](https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro) (2026-09-09)
 - [Protect production deployments for free on every plan](https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan) (2026-09-09)
+- [You can now read and search changelogs from the CLI](https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli) (2026-09-09)
 - [Persistent memory for eve agents](https://vercel.com/changelog/persistent-memory-for-eve-agents) (2026-09-09)
 - [v0 adds one-click integrations for email, auth, search, and databases](https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases) (2026-09-09)
-- [Vercel Sandbox routing is now 18x faster globally](https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally) (2026-09-08)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-video-chat-
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/) (2026-09-10)
 - [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/) (2026-09-08)
 - [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-09-08)
 - [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/) (2026-09-07)
 - [Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026](https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/) (2026-09-04)
-- [PyTorch 2.14 Release Blog](https://pytorch.org/blog/pytorch-2-14-release-blog/) (2026-09-02)
 
 </details>
 
