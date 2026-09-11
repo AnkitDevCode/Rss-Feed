@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) (2026-09-11)
-- [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/) (2026-09-11)
-- [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) (2026-09-11)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) (2026-09-11)
-- [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai) (2026-09-10)
+- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation) (2026-09-11)
+- [Neijuan](https://en.wikipedia.org/wiki/Neijuan) (2026-09-11)
+- [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics) (2026-09-11)
+- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/) (2026-09-11)
+- [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple addresses iPhone Duo copycats](https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats) (2026-09-11)
 - [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch) (2026-09-10)
 - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids) (2026-09-10)
 - [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale) (2026-09-10)
 - [Electric air taxis get the green light for test flights in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas) (2026-09-10)
-- [Universal Music is launching an AI music platform with ElevenLabs](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai) (2026-09-10)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/) (2026-09-11)
 - [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/) (2026-09-10)
 - [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) (2026-09-10)
 - [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/) (2026-09-10)
 - [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/) (2026-09-10)
-- [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/) (2026-09-10)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/) (2026-09-11)
 - [(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/) (2026-09-10)
 - [Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/) (2026-09-09)
 - [Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/) (2026-09-08)
 - [How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/) (2026-09-04)
-- [Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/) (2026-09-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products](https://dev.to/kingusd/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-2o7f) (2026-09-11)
-- [My Kubernetes App Moved to EKS Unchanged. Everything Around It Didn't.](https://dev.to/lbagga/my-kubernetes-app-moved-to-eks-unchanged-everything-around-it-didnt-e6j) (2026-09-11)
-- [AI Agent Tool Mastery: How Modern Agents Choose and Use Tools Effectively](https://dev.to/ryan_zhao/ai-agent-tool-mastery-how-modern-agents-choose-and-use-tools-effectively-2hkg) (2026-09-11)
-- [Post-hoc dedupe or a single writer? What a double-posted announcement taught us about the cost of each](https://dev.to/rulestack/post-hoc-dedupe-or-a-single-writer-what-a-double-posted-announcement-taught-us-about-the-cost-of-f63) (2026-09-11)
-- [Museum Image Access: Watermarked Derivatives Without Touching Master Files (3 Safeguards)](https://dev.to/ellsworthpierce7528/museum-image-access-watermarked-derivatives-without-touching-master-files-3-safeguards-3d1d) (2026-09-11)
+- [Azure Functions Hosted Skills: I Built a Scam-Checking Agent, Then Removed the Agency](https://dev.to/steefjan_wiggers_34a415b/azure-functions-hosted-skills-i-built-a-scam-checking-agent-then-removed-the-agency-40nj) (2026-09-11)
+- [A little copy-paste is cheaper than the wrong abstraction](https://dev.to/adioof/a-little-copy-paste-is-cheaper-than-the-wrong-abstraction-1b9l) (2026-09-11)
+- [KPIAssembler: stop hand-picking KPIs, let AI propose them](https://dev.to/akshat_srivastava_1930291/kpiassembler-stop-hand-picking-kpis-let-ai-propose-them-kbo) (2026-09-11)
+- [Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them](https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad) (2026-09-11)
+- [The Night Gemini Summoned a Choir of Ghosts in My YouTube Sidebar !! A Software Engineer’s Post-Mortem](https://dev.to/niroshan_dh/the-night-gemini-summoned-a-choir-of-ghosts-in-my-youtube-sidebar-a-software-engineers-57fc) (2026-09-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Think Like a Polymath Programmer Without Learning 10 Languages](https://medium.com/@loengnavy/how-to-think-like-a-polymath-programmer-without-learning-10-languages-52af1dfc8402?source=rss------programming-5) (2026-09-11)
-- [CSS Combinators: The Complete Guide to Relationships Between Selectors](https://er-raj-aryan.medium.com/css-combinators-the-complete-guide-to-relationships-between-selectors-a173831830dd?source=rss------programming-5) (2026-09-11)
-- [Stop Trying to Predict AI: The Best Career Advice for Developers in an Uncertain Future](https://medium.com/@naro7217/stop-trying-to-predict-ai-the-best-career-advice-for-developers-in-an-uncertain-future-9026658b2fbf?source=rss------programming-5) (2026-09-11)
-- [Caching with Redis: Fast Is Easy, Keeping It Correct Is the Hard Part](https://medium.com/@randiadhityassaputra/caching-with-redis-fast-is-easy-keeping-it-correct-is-the-hard-part-62ee81d3837c?source=rss------programming-5) (2026-09-11)
-- [Why Rust Is Taking Over Backend Development: Beyond Just Memory Safety](https://medium.com/@ronomahedi/why-rust-is-taking-over-backend-development-beyond-just-memory-safety-92ffadd5d78f?source=rss------programming-5) (2026-09-11)
+- [Why Do Freshers Forget What They Learn? How to Build a Learning System That Actually Works](https://medium.com/@vdesale181/why-do-freshers-forget-what-they-learn-how-to-build-a-learning-system-that-actually-works-04bc73a27560?source=rss------programming-5) (2026-09-11)
+- [Add Headers and Footers to Excel with Python](https://medium.com/@sirio1234/add-headers-and-footers-to-excel-with-python-d7ff9e09c49b?source=rss------programming-5) (2026-09-11)
+- [DATA ANALYTICS CAREER ROADMAP FOR FRESHERS](https://medium.com/@dilshadkku99/data-analytics-career-roadmap-for-freshers-3bbed930fe00?source=rss------programming-5) (2026-09-11)
+- [Every Frontier LLM API Leaks Its Hidden Reasoning. The Fix Is Worse](https://medium.com/@chenyuan19920509/every-frontier-llm-api-leaks-its-hidden-reasoning-the-fix-is-worse-e0308cda7156?source=rss------programming-5) (2026-09-11)
+- [From AI-Generated Code to Verified Systems: Two Korean Books You Can Start Reading for Free](https://itstedpark.medium.com/from-ai-generated-code-to-verified-systems-two-korean-books-you-can-start-reading-for-free-dc921806ae12?source=rss------programming-5) (2026-09-11)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
-- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
-- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
-- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
+- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -389,25 +389,25 @@
 https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp
 ) (2026-09-11)
 - [
-How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and Python
+Integrate Deepgram Flux with Twilio's Conversation Relay
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-python
-) (2026-09-10)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/deepgram-flux-twilio-conversation-relay
+) (2026-09-08)
 - [
-Build Voice AI Experiences with Twilio and GPT-Live-1 in the OpenAI API
+Holiday email marketing best practices for 2026 (and beyond)
 ](
-https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resources
-) (2026-09-10)
+https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
+) (2026-09-08)
 - [
-121+ Cyber Monday email subject line examples in 2026
+Choosing a low-latency infrastructure layer for conversational AI
 ](
-https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
-) (2026-09-10)
+https://www.twilio.com/en-us/blog/insights/low-latency-layer-conversational-ai
+) (2026-09-08)
 - [
-Build an AI Voice Assistant with Twilio Voice and Media Streams, OpenAI's GPT-Live API, and Node.js
+What is bring your own LLM (BYO LLM)?
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-assistant-openai-gpt-live-1-node
-) (2026-09-10)
+https://www.twilio.com/en-us/blog/insights/bring-your-own-llm
+) (2026-09-04)
 
 </details>
 
