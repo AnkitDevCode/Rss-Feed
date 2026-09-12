@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Kimi-maker Moonshot AI targets $2B in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/) (2026-09-11)
-- [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/) (2026-09-11)
-- [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/) (2026-09-11)
-- [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/) (2026-09-11)
-- [Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/) (2026-09-11)
+- [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) (2026-09-11)
+- [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) (2026-09-11)
+- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) (2026-09-11)
+- [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) (2026-09-11)
+- [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) (2026-09-11)
-- [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/) (2026-09-11)
-- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) (2026-09-11)
-- [The EPA is planning to scrap public review rules for data center pollution](https://capitalbnews.org/data-centers-permit-rules-epa/) (2026-09-11)
-- [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast) (2026-09-11)
+- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) (2026-09-12)
+- [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) (2026-09-12)
+- [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) (2026-09-12)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) (2026-09-11)
+- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf) (2026-09-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal) (2026-09-11)
 - [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return) (2026-09-11)
 - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms) (2026-09-11)
 - [The White House says Truth Social is the ‘most powerful and popular social media platform in the world’](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful) (2026-09-11)
 - [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity) (2026-09-11)
-- [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms) (2026-09-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Scientists unlock secrets of ancient Egyptian materials with proteomics](https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/) (2026-09-11)
-- [Oracle tries to appease Stargate data center opponents with renewables push](https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/) (2026-09-11)
-- [NASA moving at warp speed to set up US Space Academy](https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/) (2026-09-11)
-- [Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/) (2026-09-11)
-- [ClickFix attacks infecting PCs and Macs are going viral](https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/) (2026-09-11)
+- [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) (2026-09-11)
+- [Random rewards enrich classic game-theory insights](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/) (2026-09-11)
+- [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/) (2026-09-11)
+- [Trump's forced coal plant extensions thrown out by judge](https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/) (2026-09-11)
+- [ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses](https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-11)
 - [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/) (2026-09-11)
 - [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/) (2026-09-11)
 - [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/) (2026-09-10)
 - [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) (2026-09-10)
-- [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/) (2026-09-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AICOM is the factory. AIMarket is the economy it ships into.](https://dev.to/alexar76/aicom-is-the-factory-aimarket-is-the-economy-it-ships-into-1fgf) (2026-09-11)
-- [ChatGPT Traffic Rose 48% in the US as AI Discovery Reshapes Search Measurement](https://dev.to/alifar/chatgpt-traffic-rose-48-in-the-us-as-ai-discovery-reshapes-search-measurement-2ea5) (2026-09-11)
-- [Getting into SQL For Beginners:](https://dev.to/ian_munene/getting-into-sql-for-beginners-20hd) (2026-09-11)
-- [Quick tip: How to find and free up disk space in Linux](https://dev.to/prince_maurya_8845cfa6516/quick-tip-how-to-find-and-free-up-disk-space-in-linux-2iak) (2026-09-11)
-- [Deploy a Node/TypeScript API to Railway in 15 minutes (with a worker-friendly setup)](https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64) (2026-09-11)
+- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3) (2026-09-12)
+- [Arquitetura e Segurança em Aplicações Multiplataforma com .NET 8](https://dev.to/lp-menezes_78af3b44b/arquitetura-e-seguranca-em-aplicacoes-multiplataforma-com-net-8-1i1i) (2026-09-12)
+- [How to Get Clients for Freelancing: The 2026 Playbook](https://dev.to/mryadavgulshan/how-to-get-clients-for-freelancing-the-2026-playbook-1flc) (2026-09-12)
+- [Your Chatbot Has a Favourite Number](https://dev.to/unclejohnny101/your-chatbot-has-a-favourite-number-3128) (2026-09-12)
+- [My favorite screenshot extension vanished, so I built my own](https://dev.to/enknot96/my-favorite-screenshot-extension-vanished-so-i-built-my-own-58d5) (2026-09-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.medium.com/ai-%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81-ai-next-by-bizcore-74d0193fa0cd?source=rss------programming-5) (2026-09-11)
-- [Retry and Throttle Without Spring Retry: The Built-in Resilience in Spring Framework 7](https://medium.com/@cemdrman/retry-and-throttle-without-spring-retry-the-built-in-resilience-in-spring-framework-7-2130ab1d49ed?source=rss------programming-5) (2026-09-11)
-- [The Most Important DSA Patterns for Data Engineers- Part 2](https://medium.com/@poojatripathi0697/the-most-important-dsa-patterns-for-data-engineers-part-2-b83288459623?source=rss------programming-5) (2026-09-11)
-- [How to Use Codex in VS Code: From First Task to Reliable Agent Workflow](https://pub.towardsai.net/how-to-use-codex-in-vs-code-from-first-task-to-reliable-agent-workflow-3f31c424d11a?source=rss------programming-5) (2026-09-11)
-- [From Python Basics to Building Programs: My First DataraFlow Learning Experience](https://boladeux.medium.com/from-python-basics-to-building-programs-my-first-dataraflow-learning-experience-b606bce15391?source=rss------programming-5) (2026-09-11)
+- [I Built a Tiny PDF Tool Because I Was Tired of Overcomplicated PDF Websites](https://medium.com/@shreyashsr2004/i-built-a-tiny-pdf-tool-because-i-was-tired-of-overcomplicated-pdf-websites-7ac0b4bc1461?source=rss------programming-5) (2026-09-12)
+- [Optimistic vs. Pessimistic Concurrency Control: Preventing Lost Updates](https://medium.com/@scosmexs/optimistic-vs-pessimistic-concurrency-control-preventing-lost-updates-42ac192108f6?source=rss------programming-5) (2026-09-12)
+- [DeepSeek-V4.1-Flash Architecture Explained](https://medium.com/data-science-in-your-pocket/deepseek-v4-1-flash-architecture-explained-ea7068f5a273?source=rss------programming-5) (2026-09-12)
+- [Master SQL Window Functions With Real World Examples](https://medium.com/the-code-frontier/master-sql-window-functions-with-real-world-examples-556adcad782f?source=rss------programming-5) (2026-09-12)
+- [Part 1](https://medium.com/@nysimanami/part-1-2fca0b24b148?source=rss------programming-5) (2026-09-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
-- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
-- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
+- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
+- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
+- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/) (2026-09-11)
 - [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/) (2026-09-10)
 - [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/) (2026-09-09)
 - [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/) (2026-09-08)
 - [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) (2026-09-04)
-- [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) (2026-09-03)
 
 </details>
 
