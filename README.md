@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) (2026-09-12)
 - [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) (2026-09-11)
 - [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) (2026-09-11)
 - [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) (2026-09-11)
 - [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) (2026-09-11)
-- [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/) (2026-09-12)
-- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) (2026-09-12)
-- [Usenet rewind archive search engine](https://www.usenet-rewind.com/) (2026-09-12)
-- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/) (2026-09-12)
-- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) (2026-09-12)
+- [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun) (2026-09-12)
+- [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier) (2026-09-12)
+- [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/) (2026-09-12)
+- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) (2026-09-12)
+- [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/) (2026-09-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian) (2026-09-12)
+- [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy) (2026-09-12)
+- [OpenAI just wants to win](https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition) (2026-09-12)
 - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal) (2026-09-11)
 - [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return) (2026-09-11)
-- [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms) (2026-09-11)
-- [The White House says Truth Social is the ‘most powerful and popular social media platform in the world’](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful) (2026-09-11)
-- [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity) (2026-09-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/) (2026-09-12)
 - [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) (2026-09-11)
 - [Random rewards enrich classic game-theory insights](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/) (2026-09-11)
 - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/) (2026-09-11)
 - [Trump's forced coal plant extensions thrown out by judge](https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/) (2026-09-11)
-- [ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses](https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/) (2026-09-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MoE vs Edge AI: They Are Not the Same Thing](https://dev.to/ceasermikes002/moe-vs-edge-ai-they-are-not-the-same-thing-1pc6) (2026-09-12)
-- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4) (2026-09-12)
-- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b) (2026-09-12)
-- [An Attacker's Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh) (2026-09-12)
-- [I tested my sandbox against Deno and plain Python on 63 AI-written scripts](https://dev.to/gowrishankar-dev/i-tested-my-sandbox-against-deno-and-plain-python-on-63-ai-written-scripts-1llp) (2026-09-12)
+- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02) (2026-09-12)
+- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3) (2026-09-12)
+- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n) (2026-09-12)
+- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h) (2026-09-12)
+- [The Costs Cross-Platform Development Solves — and the Costs It Doesn't](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30) (2026-09-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cache Invalidation Never Died. AI Just Made It Expensive Again.](https://medium.com/@MahanKenway/cache-invalidation-never-died-ai-just-made-it-expensive-again-3792bdb03452?source=rss------programming-5) (2026-09-12)
-- [I Built a Python Script That Remembers My Workday So I Don’t Have To](https://medium.com/@touchwithashi/i-built-a-python-script-that-remembers-my-workday-so-i-dont-have-to-7c5c211f60fc?source=rss------programming-5) (2026-09-12)
-- [6 CI/CD Concepts That Made Deployment Finally Click for Me](https://medium.com/me-n-stack-development/6-ci-cd-concepts-that-made-deployment-finally-click-for-me-fca57c75c8c6?source=rss------programming-5) (2026-09-12)
-- [Context Parameters Are Stable in Kotlin 2.4 — Here’s Why That Matters](https://medium.com/@androidlab/context-parameters-are-stable-in-kotlin-2-4-heres-why-that-matters-9724525aac07?source=rss------programming-5) (2026-09-12)
-- [Run GPT-6 Astra and Claude Fable 5.1 for FREE](https://medium.com/@marocsofiane20/run-gpt-6-astra-and-claude-fable-5-1-for-free-78ec2475769a?source=rss------programming-5) (2026-09-12)
+- [This Tiny Python AI Agent Did What Normally Takes Me 20 Minutes](https://medium.com/@singhsumitpal081/this-tiny-python-ai-agent-did-what-normally-takes-me-20-minutes-475e5f156f2f?source=rss------programming-5) (2026-09-12)
+- [How to conduct interviews: The right way.](https://medium.com/@suvetma/how-to-conduct-interviews-the-right-way-8637f03d9698?source=rss------programming-5) (2026-09-12)
+- [Why Doesn’t YouTube Music Have Crossfade? I Built My Own Engine to Find Out!](https://medium.com/@darshandodia/why-doesnt-youtube-music-have-crossfade-i-built-my-own-engine-to-find-out-a1de09091328?source=rss------programming-5) (2026-09-12)
+- [Your CSV Has 1,000 Rows. How Many Are Actually Unique?](https://python.plainenglish.io/your-csv-has-1-000-rows-how-many-are-actually-unique-75868a5f3db3?source=rss------programming-5) (2026-09-12)
+- [How Software is Actually Built: The SDLC Explained for Beginners .](https://dushaniekanayake.medium.com/how-software-is-actually-built-the-sdlc-explained-for-beginners-0c776b8aa704?source=rss------programming-5) (2026-09-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
-- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
-- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
+- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
+- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
+- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 
 </details>
 
@@ -526,11 +526,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on](https://slack.com/blog/productivity/slack-surfaces) (2026-09-11)
 - [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
+- [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
 
 </details>
 
@@ -579,13 +579,24 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
+- [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/) (2026-09-10)
+- [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
+- [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
+- [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model](https://towardsdatascience.com/one-capital-letter-was-silently-breaking-my-ai-support-bot-and-it-wasnt-in-the-new-model/) (2026-09-12)
+- [Stop Managing Alarms: An Incident-First Blueprint for Telecom AIOps](https://towardsdatascience.com/stop-managing-alarms-an-incident-first-blueprint-for-telecom-aiops/) (2026-09-12)
 - [Coding Agents Don't Need Longer History — They Need Intent Continuity](https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/) (2026-09-11)
 - [Software Design in the Age of AI](https://towardsdatascience.com/software-design-in-the-age-of-ai/) (2026-09-11)
 - [The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is](https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/) (2026-09-11)
-- [Demystifying Anthropic's J-Space: A Mathematical Primer](https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/) (2026-09-11)
-- [How to 5x Your Communication Effectiveness with Claude Code](https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/) (2026-09-10)
 
 </details>
 
