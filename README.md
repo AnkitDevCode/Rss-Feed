@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) (2026-09-12)
-- [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) (2026-09-12)
-- [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) (2026-09-12)
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) (2026-09-11)
-- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf) (2026-09-11)
+- [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/) (2026-09-12)
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) (2026-09-12)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/) (2026-09-12)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/) (2026-09-12)
+- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) (2026-09-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3) (2026-09-12)
-- [Arquitetura e Segurança em Aplicações Multiplataforma com .NET 8](https://dev.to/lp-menezes_78af3b44b/arquitetura-e-seguranca-em-aplicacoes-multiplataforma-com-net-8-1i1i) (2026-09-12)
-- [How to Get Clients for Freelancing: The 2026 Playbook](https://dev.to/mryadavgulshan/how-to-get-clients-for-freelancing-the-2026-playbook-1flc) (2026-09-12)
-- [Your Chatbot Has a Favourite Number](https://dev.to/unclejohnny101/your-chatbot-has-a-favourite-number-3128) (2026-09-12)
-- [My favorite screenshot extension vanished, so I built my own](https://dev.to/enknot96/my-favorite-screenshot-extension-vanished-so-i-built-my-own-58d5) (2026-09-12)
+- [MoE vs Edge AI: They Are Not the Same Thing](https://dev.to/ceasermikes002/moe-vs-edge-ai-they-are-not-the-same-thing-1pc6) (2026-09-12)
+- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4) (2026-09-12)
+- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b) (2026-09-12)
+- [An Attacker's Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh) (2026-09-12)
+- [I tested my sandbox against Deno and plain Python on 63 AI-written scripts](https://dev.to/gowrishankar-dev/i-tested-my-sandbox-against-deno-and-plain-python-on-63-ai-written-scripts-1llp) (2026-09-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Tiny PDF Tool Because I Was Tired of Overcomplicated PDF Websites](https://medium.com/@shreyashsr2004/i-built-a-tiny-pdf-tool-because-i-was-tired-of-overcomplicated-pdf-websites-7ac0b4bc1461?source=rss------programming-5) (2026-09-12)
-- [Optimistic vs. Pessimistic Concurrency Control: Preventing Lost Updates](https://medium.com/@scosmexs/optimistic-vs-pessimistic-concurrency-control-preventing-lost-updates-42ac192108f6?source=rss------programming-5) (2026-09-12)
-- [DeepSeek-V4.1-Flash Architecture Explained](https://medium.com/data-science-in-your-pocket/deepseek-v4-1-flash-architecture-explained-ea7068f5a273?source=rss------programming-5) (2026-09-12)
-- [Master SQL Window Functions With Real World Examples](https://medium.com/the-code-frontier/master-sql-window-functions-with-real-world-examples-556adcad782f?source=rss------programming-5) (2026-09-12)
-- [Part 1](https://medium.com/@nysimanami/part-1-2fca0b24b148?source=rss------programming-5) (2026-09-12)
+- [Cache Invalidation Never Died. AI Just Made It Expensive Again.](https://medium.com/@MahanKenway/cache-invalidation-never-died-ai-just-made-it-expensive-again-3792bdb03452?source=rss------programming-5) (2026-09-12)
+- [I Built a Python Script That Remembers My Workday So I Don’t Have To](https://medium.com/@touchwithashi/i-built-a-python-script-that-remembers-my-workday-so-i-dont-have-to-7c5c211f60fc?source=rss------programming-5) (2026-09-12)
+- [6 CI/CD Concepts That Made Deployment Finally Click for Me](https://medium.com/me-n-stack-development/6-ci-cd-concepts-that-made-deployment-finally-click-for-me-fca57c75c8c6?source=rss------programming-5) (2026-09-12)
+- [Context Parameters Are Stable in Kotlin 2.4 — Here’s Why That Matters](https://medium.com/@androidlab/context-parameters-are-stable-in-kotlin-2-4-heres-why-that-matters-9724525aac07?source=rss------programming-5) (2026-09-12)
+- [Run GPT-6 Astra and Claude Fable 5.1 for FREE](https://medium.com/@marocsofiane20/run-gpt-6-astra-and-claude-fable-5-1-for-free-78ec2475769a?source=rss------programming-5) (2026-09-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
-- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
-- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
-- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
+- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -526,11 +526,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on](https://slack.com/blog/productivity/slack-surfaces) (2026-09-11)
 - [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
-- [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
 
 </details>
 
