@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) (2026-09-12)
+- [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) (2026-09-12)
 - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) (2026-09-12)
 - [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) (2026-09-11)
 - [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) (2026-09-11)
-- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) (2026-09-11)
-- [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun) (2026-09-12)
-- [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier) (2026-09-12)
-- [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/) (2026-09-12)
-- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) (2026-09-12)
-- [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/) (2026-09-12)
+- [Jimmy Kimmel Interviews James Talarico](https://www.youtube.com/watch?v=WLDE9LrGpNk) (2026-09-12)
+- [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/) (2026-09-12)
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) (2026-09-12)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) (2026-09-12)
+- [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) (2026-09-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music) (2026-09-12)
+- [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) (2026-09-12)
+- [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations) (2026-09-12)
+- [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa) (2026-09-12)
 - [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian) (2026-09-12)
-- [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy) (2026-09-12)
-- [OpenAI just wants to win](https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition) (2026-09-12)
-- [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal) (2026-09-11)
-- [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return) (2026-09-11)
 
 </details>
 
@@ -53,7 +53,7 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-11)
+- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-11)
 - [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/) (2026-09-11)
 - [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/) (2026-09-11)
 - [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/) (2026-09-10)
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02) (2026-09-12)
-- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3) (2026-09-12)
-- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n) (2026-09-12)
-- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h) (2026-09-12)
-- [The Costs Cross-Platform Development Solves — and the Costs It Doesn't](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30) (2026-09-12)
+- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap) (2026-09-12)
+- [Why Static Mock APIs Aren't Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861) (2026-09-12)
+- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5) (2026-09-12)
+- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks & 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo) (2026-09-12)
+- [Expo + Supabase GitHub Auth Broke 3 Times — Here's the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp) (2026-09-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This Tiny Python AI Agent Did What Normally Takes Me 20 Minutes](https://medium.com/@singhsumitpal081/this-tiny-python-ai-agent-did-what-normally-takes-me-20-minutes-475e5f156f2f?source=rss------programming-5) (2026-09-12)
-- [How to conduct interviews: The right way.](https://medium.com/@suvetma/how-to-conduct-interviews-the-right-way-8637f03d9698?source=rss------programming-5) (2026-09-12)
-- [Why Doesn’t YouTube Music Have Crossfade? I Built My Own Engine to Find Out!](https://medium.com/@darshandodia/why-doesnt-youtube-music-have-crossfade-i-built-my-own-engine-to-find-out-a1de09091328?source=rss------programming-5) (2026-09-12)
-- [Your CSV Has 1,000 Rows. How Many Are Actually Unique?](https://python.plainenglish.io/your-csv-has-1-000-rows-how-many-are-actually-unique-75868a5f3db3?source=rss------programming-5) (2026-09-12)
-- [How Software is Actually Built: The SDLC Explained for Beginners .](https://dushaniekanayake.medium.com/how-software-is-actually-built-the-sdlc-explained-for-beginners-0c776b8aa704?source=rss------programming-5) (2026-09-12)
+- [**EARLY WARNING: PREPARE FOR WHAT’S NEXT**](https://medium.com/@religiousimpact/early-warning-prepare-for-whats-next-d88a6c9b2ff6?source=rss------programming-5) (2026-09-12)
+- [Angular 22: I Migrated a Real App to the New OnPush Default — Here’s What Broke and How I Fixed…](https://medium.com/codetodeploy/angular-22-i-migrated-a-real-app-to-the-new-onpush-default-heres-what-broke-and-how-i-fixed-dc1cb3da4cbe?source=rss------programming-5) (2026-09-12)
+- [I Built an Agentic AI Runtime in Pure C++23 — Zero Dependencies](https://medium.com/@pooriayousefi/i-built-an-agentic-ai-runtime-in-pure-c-23-zero-dependencies-3211dd26067f?source=rss------programming-5) (2026-09-12)
+- [The Two Hardest Problems in Computer Science](https://medium.com/@yashbatra11111/the-two-hardest-problems-in-computer-science-3a246772bbb8?source=rss------programming-5) (2026-09-12)
+- [Actions in Apache Spark: How Spark Actually Executes Your Code](https://medium.com/@geekycodes/actions-in-apache-spark-how-spark-actually-executes-your-code-3dac5cecbc2a?source=rss------programming-5) (2026-09-12)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 - [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
 - [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
 - [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
-- [The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/) (2026-09-02)
-- [Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/) (2026-08-31)
 
 </details>
 
