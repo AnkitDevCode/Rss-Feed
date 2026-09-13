@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/) (2026-09-13)
+- [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) (2026-09-13)
+- [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/) (2026-09-13)
 - [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/) (2026-09-13)
 - [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) (2026-09-12)
-- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) (2026-09-12)
-- [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) (2026-09-12)
-- [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) (2026-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) (2026-09-13)
-- [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo) (2026-09-13)
-- [Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/) (2026-09-13)
-- [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc) (2026-09-13)
-- [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data) (2026-09-13)
+- [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) (2026-09-13)
+- [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E) (2026-09-13)
+- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html) (2026-09-13)
+- [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/) (2026-09-13)
+- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html) (2026-09-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting) (2026-09-13)
+- [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers) (2026-09-13)
+- [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review) (2026-09-13)
 - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun) (2026-09-13)
 - [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026) (2026-09-13)
-- [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data) (2026-09-13)
-- [Apple’s new phones are here](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones) (2026-09-13)
-- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) (2026-09-12)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o) (2026-09-13)
-- [AI Agent Authentication in 2026: Web Bot Auth, ARD & OAuth](https://dev.to/webdecoy/ai-agent-authentication-in-2026-web-bot-auth-ard-oauth-247) (2026-09-13)
-- [Browser Fingerprinting in 2026: What Still Works, What Doesn't](https://dev.to/webdecoy/browser-fingerprinting-in-2026-what-still-works-what-doesnt-1hk9) (2026-09-13)
-- [Why CAPTCHAs Are Dead (And What Replaces Them in 2026)](https://dev.to/webdecoy/why-captchas-are-dead-and-what-replaces-them-in-2026-170j) (2026-09-13)
-- [🔥 The Imposter’s Tax: Why Hiding Your Wins Is Secretly Hurting Everyone](https://dev.to/hizba_31d77c41803163b8ff0/the-imposters-tax-why-hiding-your-wins-is-secretly-hurting-everyone-bn8) (2026-09-13)
+- [Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt](https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie) (2026-09-13)
+- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka) (2026-09-13)
+- [Claude Certified Developer - Foundations certification Overview](https://dev.to/yashnigam/claude-certified-developer-foundations-certification-overview-4n07) (2026-09-13)
+- [Context aware Spring AI chat microservice](https://dev.to/marinenimd/context-aware-spring-ai-chat-microservice-ake) (2026-09-13)
+- [How I Built a Bilingual RAG-Powered AI Calling & Chat Agent (With a Full Admin Ops Center)](https://dev.to/nexoper/how-i-built-a-bilingual-rag-powered-ai-calling-chat-agent-with-a-full-admin-ops-center-573o) (2026-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Custom Web App Development Firms to Consider in 2026](https://medium.com/@zegham111ali/10-custom-web-app-development-firms-to-consider-in-2026-c49b8862850d?source=rss------programming-5) (2026-09-13)
-- [10 Simple Ways to Make Your Everyday Life More Productive
-In today’s fast-moving world, staying…](https://medium.com/@likhonsheikh091020/10-simple-ways-to-make-your-everyday-life-more-productive-in-todays-fast-moving-world-staying-dfc420485f31?source=rss------programming-5) (2026-09-13)
-- [Rust’s Package Ecosystem Now Needs the Same Threat Modeling as npm and PyPI](https://medium.com/rustaceans/rusts-package-ecosystem-now-needs-the-same-threat-modeling-as-npm-and-pypi-f7bb27e0573e?source=rss------programming-5) (2026-09-13)
-- [I Built 14 Postgres Indexes on the Same 10 Million Rows. Five Made a Query Slower.](https://medium.com/@nazmul_hasan/i-built-14-postgres-indexes-on-the-same-10-million-rows-five-made-a-query-slower-09733ea8d578?source=rss------programming-5) (2026-09-13)
-- [A Dialog Can Now Be a Native Desktop Window](https://medium.com/@Codename_One/a-dialog-can-now-be-a-native-desktop-window-ee68e1279c53?source=rss------programming-5) (2026-09-13)
+- [Exactly-Once Processing Doesn’t Guarantee Exactly-Once Outcomes](https://medium.com/@optimzationking2/exactly-once-processing-doesnt-guarantee-exactly-once-outcomes-3ed02ae5bdd6?source=rss------programming-5) (2026-09-13)
+- [LOOK: A Web Programming Language Built Around the Web](https://medium.com/@codlook/look-a-web-programming-language-built-around-the-web-b599aafd1119?source=rss------programming-5) (2026-09-13)
+- [Kafka Part Four: Idempotency](https://medium.com/@ak757981/kafka-part-four-idempotency-ad1e97c9fb31?source=rss------programming-5) (2026-09-13)
+- [How the Web Works: A Journey from URL to Screen](https://medium.com/@ejehadoledaniel/how-the-web-works-a-journey-from-url-to-screen-81cea0880673?source=rss------programming-5) (2026-09-13)
+- [L’hallucination de l’utilisateur : le risque invisible de l’intelligence artificielle](https://medium.com/@snorbik-ai/lhallucination-de-l-utilisateur-le-risque-invisible-de-l-intelligence-artificielle-e1cf8cfc0775?source=rss------programming-5) (2026-09-13)
 
 </details>
 
@@ -385,11 +384,6 @@ In today’s fast-moving world, staying…](https://medium.com/@likhonsheikh0910
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Connect Your Twilio Agent to External APIs in Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-python
-) (2026-09-12)
-- [
 [Webinar] Elevating customer engagement with WhatsApp
 ](
 https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp
@@ -408,6 +402,11 @@ https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resour
 121+ Cyber Monday email subject line examples in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
+) (2026-09-10)
+- [
+Build an AI Voice Assistant with Twilio Voice and Media Streams, OpenAI's GPT-Live API, and Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-assistant-openai-gpt-live-1-node
 ) (2026-09-10)
 
 </details>
@@ -576,6 +575,17 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
 - [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct) (2026-09-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
+- [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/) (2026-09-10)
+- [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
+- [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
+- [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
 
 </details>
 
