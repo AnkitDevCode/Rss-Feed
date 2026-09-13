@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) (2026-09-13)
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) (2026-09-13)
-- [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) (2026-09-13)
-- [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/) (2026-09-12)
-- [No Atlantic hurricanes by Sept. 12 breaks a 60-year record](https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278) (2026-09-12)
+- [Norton Neo Browser](https://neobrowser.ai/) (2026-09-13)
+- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/) (2026-09-13)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) (2026-09-13)
+- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html) (2026-09-13)
+- [A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart) (2026-09-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI วิเคราะห์หุ้นที่รันบนเครื่องคุณ, Hunter เปิดซอร์สแล้ว](https://dev.to/sarantoon/ai-wiekhraaahhunthiiranbnekhruuengkhun-hunter-epidchrsaelw-1bfl) (2026-09-13)
-- [The Book of Frankie](https://dev.to/blag/the-book-of-frankie-5gi0) (2026-09-13)
-- [VPC Peering: conectando redes privadas entre contas e regiões na AWS](https://dev.to/bianca_szimanski/vpc-peering-conectando-redes-privadas-entre-contas-e-regioes-na-aws-2gei) (2026-09-13)
-- [The Technological Ouroboros: Closing the Loop Between Open Source and Private Sovereignty](https://dev.to/thrumanshow/the-technological-ouroboros-closing-the-loop-between-open-source-and-private-sovereignty-25fm) (2026-09-13)
-- [Check Point VPN CVE-2026-85102 and CVE-2026-85103: Early Warning for Pre-Authentication RCE](https://dev.to/anoymask/check-point-vpn-cve-2026-85102-and-cve-2026-85103-early-warning-for-pre-authentication-rce-2i4n) (2026-09-13)
+- [Understanding Schemas, Relationships, and Data Modeling in Power BI.](https://dev.to/feddy_mwanjumwa_e4047cf0c/understanding-schemas-relationships-and-data-modeling-in-power-bi-4144) (2026-09-13)
+- [L'antenne qui n'arrêtait pas de grandir](https://dev.to/yannklein/lantenne-qui-narretait-pas-de-grandir-5c5i) (2026-09-13)
+- [Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586) (2026-09-13)
+- [Python - Functions: Defining, Calling, Parameters, Return Values & Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78) (2026-09-13)
+- [How Much Does It Actually Cost to Build a SaaS in 2026? A Technical Breakdown](https://dev.to/haseeb_sheikh_0f627e74ba7/how-much-does-it-actually-cost-to-build-a-saas-in-2026-a-technical-breakdown-6hd) (2026-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Chasing BUY & SELL Signals: Try This 2-Indicator Trading Strategy Instead](https://medium.com/@sayedali_3166/stop-chasing-buy-sell-signals-try-this-2-indicator-trading-strategy-instead-3446dce0b674?source=rss------programming-5) (2026-09-13)
-- [From Dev to DevOps: A Roadmap for Landing Your First DevOps Job](https://medium.com/@devopslesson/from-dev-to-devops-a-roadmap-for-landing-your-first-devops-job-dfe1c47093d5?source=rss------programming-5) (2026-09-13)
-- [ซีรีส์จับมือทำ EP.4: Environment Variables จัดการยังไงไม่ให้มั่วตอน Deploy](https://medium.com/@nunldevelopment/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3-ep-4-environment-variables-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%95%E0%B8%AD%E0%B8%99-deploy-c1b7137641f1?source=rss------programming-5) (2026-09-13)
-- [Database Isolation Levels: What Can Concurrent Transactions Actually See?](https://medium.com/@scosmexs/database-isolation-levels-what-can-concurrent-transactions-actually-see-210777f1a5d9?source=rss------programming-5) (2026-09-13)
-- [I Finally Stopped Fighting AI Tools. Here’s What Happened When I Did.](https://sumanthpoola.medium.com/i-finally-stopped-fighting-ai-tools-heres-what-happened-when-i-did-4ce983214e5b?source=rss------programming-5) (2026-09-13)
+- [String Formatting in Java](https://medium.com/@afzalsharif2007/string-formatting-in-java-9bcad19f4689?source=rss------programming-5) (2026-09-13)
+- [I Thought Claude Code Was All About Prompts — These 12 Skills Changed How I Code](https://medium.com/codetodeploy/i-thought-claude-code-was-all-about-prompts-these-12-skills-changed-how-i-code-46074cad60bc?source=rss------programming-5) (2026-09-13)
+- [GitHub Copilot vs Claude Code in VS Code: Which One Actually Stays?](https://codescaptain.medium.com/github-copilot-vs-claude-code-in-vs-code-which-one-actually-stays-7edc9ebf6c48?source=rss------programming-5) (2026-09-13)
+- [Learning, Building & Sharing: My Journey Through Game Development and Data Analysis](https://medium.com/@hetjigarshah/learning-building-sharing-my-journey-through-game-development-and-data-analysis-d8a27d2efccf?source=rss------programming-5) (2026-09-13)
+- [ICMP vs TCP vs UDP: the difference, explained for developers](https://medium.com/@slima4/icmp-vs-tcp-vs-udp-the-difference-explained-for-developers-c497ba305bc7?source=rss------programming-5) (2026-09-13)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
-- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 - [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
+- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
+- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
+- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 
 </details>
 
