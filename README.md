@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/) (2026-09-13)
 - [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) (2026-09-12)
 - [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) (2026-09-12)
 - [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) (2026-09-12)
 - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) (2026-09-12)
-- [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) (2026-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Norton Neo Browser](https://neobrowser.ai/) (2026-09-13)
-- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/) (2026-09-13)
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) (2026-09-13)
-- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html) (2026-09-13)
-- [A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart) (2026-09-13)
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) (2026-09-13)
+- [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo) (2026-09-13)
+- [Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/) (2026-09-13)
+- [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc) (2026-09-13)
+- [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data) (2026-09-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun) (2026-09-13)
+- [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026) (2026-09-13)
+- [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data) (2026-09-13)
+- [Apple’s new phones are here](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones) (2026-09-13)
 - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) (2026-09-12)
-- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) (2026-09-12)
-- [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter) (2026-09-12)
-- [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music) (2026-09-12)
-- [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) (2026-09-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.](https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/) (2026-09-13)
 - [I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/) (2026-09-12)
 - [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) (2026-09-11)
 - [Random rewards enrich classic game-theory insights](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/) (2026-09-11)
 - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/) (2026-09-11)
-- [Trump's forced coal plant extensions thrown out by judge](https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/) (2026-09-11)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding Schemas, Relationships, and Data Modeling in Power BI.](https://dev.to/feddy_mwanjumwa_e4047cf0c/understanding-schemas-relationships-and-data-modeling-in-power-bi-4144) (2026-09-13)
-- [L'antenne qui n'arrêtait pas de grandir](https://dev.to/yannklein/lantenne-qui-narretait-pas-de-grandir-5c5i) (2026-09-13)
-- [Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586) (2026-09-13)
-- [Python - Functions: Defining, Calling, Parameters, Return Values & Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78) (2026-09-13)
-- [How Much Does It Actually Cost to Build a SaaS in 2026? A Technical Breakdown](https://dev.to/haseeb_sheikh_0f627e74ba7/how-much-does-it-actually-cost-to-build-a-saas-in-2026-a-technical-breakdown-6hd) (2026-09-13)
+- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o) (2026-09-13)
+- [AI Agent Authentication in 2026: Web Bot Auth, ARD & OAuth](https://dev.to/webdecoy/ai-agent-authentication-in-2026-web-bot-auth-ard-oauth-247) (2026-09-13)
+- [Browser Fingerprinting in 2026: What Still Works, What Doesn't](https://dev.to/webdecoy/browser-fingerprinting-in-2026-what-still-works-what-doesnt-1hk9) (2026-09-13)
+- [Why CAPTCHAs Are Dead (And What Replaces Them in 2026)](https://dev.to/webdecoy/why-captchas-are-dead-and-what-replaces-them-in-2026-170j) (2026-09-13)
+- [🔥 The Imposter’s Tax: Why Hiding Your Wins Is Secretly Hurting Everyone](https://dev.to/hizba_31d77c41803163b8ff0/the-imposters-tax-why-hiding-your-wins-is-secretly-hurting-everyone-bn8) (2026-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [String Formatting in Java](https://medium.com/@afzalsharif2007/string-formatting-in-java-9bcad19f4689?source=rss------programming-5) (2026-09-13)
-- [I Thought Claude Code Was All About Prompts — These 12 Skills Changed How I Code](https://medium.com/codetodeploy/i-thought-claude-code-was-all-about-prompts-these-12-skills-changed-how-i-code-46074cad60bc?source=rss------programming-5) (2026-09-13)
-- [GitHub Copilot vs Claude Code in VS Code: Which One Actually Stays?](https://codescaptain.medium.com/github-copilot-vs-claude-code-in-vs-code-which-one-actually-stays-7edc9ebf6c48?source=rss------programming-5) (2026-09-13)
-- [Learning, Building & Sharing: My Journey Through Game Development and Data Analysis](https://medium.com/@hetjigarshah/learning-building-sharing-my-journey-through-game-development-and-data-analysis-d8a27d2efccf?source=rss------programming-5) (2026-09-13)
-- [ICMP vs TCP vs UDP: the difference, explained for developers](https://medium.com/@slima4/icmp-vs-tcp-vs-udp-the-difference-explained-for-developers-c497ba305bc7?source=rss------programming-5) (2026-09-13)
+- [10 Custom Web App Development Firms to Consider in 2026](https://medium.com/@zegham111ali/10-custom-web-app-development-firms-to-consider-in-2026-c49b8862850d?source=rss------programming-5) (2026-09-13)
+- [10 Simple Ways to Make Your Everyday Life More Productive
+In today’s fast-moving world, staying…](https://medium.com/@likhonsheikh091020/10-simple-ways-to-make-your-everyday-life-more-productive-in-todays-fast-moving-world-staying-dfc420485f31?source=rss------programming-5) (2026-09-13)
+- [Rust’s Package Ecosystem Now Needs the Same Threat Modeling as npm and PyPI](https://medium.com/rustaceans/rusts-package-ecosystem-now-needs-the-same-threat-modeling-as-npm-and-pypi-f7bb27e0573e?source=rss------programming-5) (2026-09-13)
+- [I Built 14 Postgres Indexes on the Same 10 Million Rows. Five Made a Query Slower.](https://medium.com/@nazmul_hasan/i-built-14-postgres-indexes-on-the-same-10-million-rows-five-made-a-query-slower-09733ea8d578?source=rss------programming-5) (2026-09-13)
+- [A Dialog Can Now Be a Native Desktop Window](https://medium.com/@Codename_One/a-dialog-can-now-be-a-native-desktop-window-ee68e1279c53?source=rss------programming-5) (2026-09-13)
 
 </details>
 
@@ -119,11 +120,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 - [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
-- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
-- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 
 </details>
 
@@ -384,6 +385,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Connect Your Twilio Agent to External APIs in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-python
+) (2026-09-12)
+- [
 [Webinar] Elevating customer engagement with WhatsApp
 ](
 https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp
@@ -402,11 +408,6 @@ https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resour
 121+ Cyber Monday email subject line examples in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
-) (2026-09-10)
-- [
-Build an AI Voice Assistant with Twilio Voice and Media Streams, OpenAI's GPT-Live API, and Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-assistant-openai-gpt-live-1-node
 ) (2026-09-10)
 
 </details>
@@ -581,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your Model Isn't Done Until Someone Else Can Call It](https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/) (2026-09-13)
+- [Your AI Adoption Lift Is a Selection Effect](https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/) (2026-09-13)
 - [One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model](https://towardsdatascience.com/one-capital-letter-was-silently-breaking-my-ai-support-bot-and-it-wasnt-in-the-new-model/) (2026-09-12)
 - [Stop Managing Alarms: An Incident-First Blueprint for Telecom AIOps](https://towardsdatascience.com/stop-managing-alarms-an-incident-first-blueprint-for-telecom-aiops/) (2026-09-12)
 - [Coding Agents Don't Need Longer History — They Need Intent Continuity](https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/) (2026-09-11)
-- [Software Design in the Age of AI](https://towardsdatascience.com/software-design-in-the-age-of-ai/) (2026-09-11)
-- [The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is](https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/) (2026-09-11)
 
 </details>
 
