@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) (2026-09-12)
+- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) (2026-09-12)
 - [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) (2026-09-12)
 - [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) (2026-09-12)
 - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) (2026-09-12)
-- [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) (2026-09-11)
-- [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jimmy Kimmel Interviews James Talarico](https://www.youtube.com/watch?v=WLDE9LrGpNk) (2026-09-12)
-- [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/) (2026-09-12)
-- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) (2026-09-12)
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) (2026-09-12)
-- [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) (2026-09-12)
+- [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) (2026-09-13)
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) (2026-09-13)
+- [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) (2026-09-13)
+- [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/) (2026-09-12)
+- [No Atlantic hurricanes by Sept. 12 breaks a 60-year record](https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278) (2026-09-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) (2026-09-12)
+- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) (2026-09-12)
+- [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter) (2026-09-12)
 - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music) (2026-09-12)
 - [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) (2026-09-12)
-- [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations) (2026-09-12)
-- [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa) (2026-09-12)
-- [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian) (2026-09-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap) (2026-09-12)
-- [Why Static Mock APIs Aren't Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861) (2026-09-12)
-- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5) (2026-09-12)
-- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks & 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo) (2026-09-12)
-- [Expo + Supabase GitHub Auth Broke 3 Times — Here's the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp) (2026-09-12)
+- [AI วิเคราะห์หุ้นที่รันบนเครื่องคุณ, Hunter เปิดซอร์สแล้ว](https://dev.to/sarantoon/ai-wiekhraaahhunthiiranbnekhruuengkhun-hunter-epidchrsaelw-1bfl) (2026-09-13)
+- [The Book of Frankie](https://dev.to/blag/the-book-of-frankie-5gi0) (2026-09-13)
+- [VPC Peering: conectando redes privadas entre contas e regiões na AWS](https://dev.to/bianca_szimanski/vpc-peering-conectando-redes-privadas-entre-contas-e-regioes-na-aws-2gei) (2026-09-13)
+- [The Technological Ouroboros: Closing the Loop Between Open Source and Private Sovereignty](https://dev.to/thrumanshow/the-technological-ouroboros-closing-the-loop-between-open-source-and-private-sovereignty-25fm) (2026-09-13)
+- [Check Point VPN CVE-2026-85102 and CVE-2026-85103: Early Warning for Pre-Authentication RCE](https://dev.to/anoymask/check-point-vpn-cve-2026-85102-and-cve-2026-85103-early-warning-for-pre-authentication-rce-2i4n) (2026-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [**EARLY WARNING: PREPARE FOR WHAT’S NEXT**](https://medium.com/@religiousimpact/early-warning-prepare-for-whats-next-d88a6c9b2ff6?source=rss------programming-5) (2026-09-12)
-- [Angular 22: I Migrated a Real App to the New OnPush Default — Here’s What Broke and How I Fixed…](https://medium.com/codetodeploy/angular-22-i-migrated-a-real-app-to-the-new-onpush-default-heres-what-broke-and-how-i-fixed-dc1cb3da4cbe?source=rss------programming-5) (2026-09-12)
-- [I Built an Agentic AI Runtime in Pure C++23 — Zero Dependencies](https://medium.com/@pooriayousefi/i-built-an-agentic-ai-runtime-in-pure-c-23-zero-dependencies-3211dd26067f?source=rss------programming-5) (2026-09-12)
-- [The Two Hardest Problems in Computer Science](https://medium.com/@yashbatra11111/the-two-hardest-problems-in-computer-science-3a246772bbb8?source=rss------programming-5) (2026-09-12)
-- [Actions in Apache Spark: How Spark Actually Executes Your Code](https://medium.com/@geekycodes/actions-in-apache-spark-how-spark-actually-executes-your-code-3dac5cecbc2a?source=rss------programming-5) (2026-09-12)
+- [Stop Chasing BUY & SELL Signals: Try This 2-Indicator Trading Strategy Instead](https://medium.com/@sayedali_3166/stop-chasing-buy-sell-signals-try-this-2-indicator-trading-strategy-instead-3446dce0b674?source=rss------programming-5) (2026-09-13)
+- [From Dev to DevOps: A Roadmap for Landing Your First DevOps Job](https://medium.com/@devopslesson/from-dev-to-devops-a-roadmap-for-landing-your-first-devops-job-dfe1c47093d5?source=rss------programming-5) (2026-09-13)
+- [ซีรีส์จับมือทำ EP.4: Environment Variables จัดการยังไงไม่ให้มั่วตอน Deploy](https://medium.com/@nunldevelopment/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3-ep-4-environment-variables-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%95%E0%B8%AD%E0%B8%99-deploy-c1b7137641f1?source=rss------programming-5) (2026-09-13)
+- [Database Isolation Levels: What Can Concurrent Transactions Actually See?](https://medium.com/@scosmexs/database-isolation-levels-what-can-concurrent-transactions-actually-see-210777f1a5d9?source=rss------programming-5) (2026-09-13)
+- [I Finally Stopped Fighting AI Tools. Here’s What Happened When I Did.](https://sumanthpoola.medium.com/i-finally-stopped-fighting-ai-tools-heres-what-happened-when-i-did-4ce983214e5b?source=rss------programming-5) (2026-09-13)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 - [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
-- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
-- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 
 </details>
 
@@ -526,11 +526,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on](https://slack.com/blog/productivity/slack-surfaces) (2026-09-11)
 - [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
 - [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
 - [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
 - [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
-- [Slack vs. ClickUp: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-clickup) (2026-08-31)
 
 </details>
 
@@ -575,17 +575,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-ass
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
 - [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
-- [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/) (2026-09-10)
-- [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
-- [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
-- [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
 
 </details>
 
