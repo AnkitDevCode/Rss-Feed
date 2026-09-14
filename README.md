@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/) (2026-09-13)
+- [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/) (2026-09-13)
+- [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/) (2026-09-13)
 - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/) (2026-09-13)
 - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) (2026-09-13)
-- [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/) (2026-09-13)
-- [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/) (2026-09-13)
-- [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) (2026-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) (2026-09-13)
-- [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E) (2026-09-13)
-- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html) (2026-09-13)
-- [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/) (2026-09-13)
-- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html) (2026-09-13)
+- [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg) (2026-09-14)
+- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228) (2026-09-14)
+- [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/) (2026-09-14)
+- [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology) (2026-09-14)
+- [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/) (2026-09-14)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Unvaccinated Pennsylvania woman died of measles complications, coroner says](https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/) (2026-09-13)
 - [I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.](https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/) (2026-09-13)
 - [I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/) (2026-09-12)
 - [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) (2026-09-11)
 - [Random rewards enrich classic game-theory insights](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/) (2026-09-11)
-- [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/) (2026-09-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt](https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie) (2026-09-13)
-- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka) (2026-09-13)
-- [Claude Certified Developer - Foundations certification Overview](https://dev.to/yashnigam/claude-certified-developer-foundations-certification-overview-4n07) (2026-09-13)
-- [Context aware Spring AI chat microservice](https://dev.to/marinenimd/context-aware-spring-ai-chat-microservice-ake) (2026-09-13)
-- [How I Built a Bilingual RAG-Powered AI Calling & Chat Agent (With a Full Admin Ops Center)](https://dev.to/nexoper/how-i-built-a-bilingual-rag-powered-ai-calling-chat-agent-with-a-full-admin-ops-center-573o) (2026-09-13)
+- [I Built Fastools: 70+ Free Browser Tools for Images, Video, PDF, and Everyday Dev Work](https://dev.to/lianglili/i-built-fastools-70-free-browser-tools-for-images-video-pdf-and-everyday-dev-work-10eo) (2026-09-14)
+- [Web Traffic Inspector Dash](https://dev.to/annavi11arrea1/web-traffic-inspector-dash-3af8) (2026-09-14)
+- [What a Single 3.07x Hides: From Mechanism to Distribution](https://dev.to/fengyugbt/what-a-single-307x-hides-from-mechanism-to-distribution-1dp1) (2026-09-14)
+- [Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis](https://dev.to/power_zhong/controlling-ai-api-spend-in-a-nextjs-15-micro-saas-with-cordis-4aac) (2026-09-14)
+- [12% of our posts had an image. The fix: a commit gate, a sha256, and one directory](https://dev.to/rulestack/12-of-our-posts-had-an-image-the-fix-a-commit-gate-a-sha256-and-one-directory-31n9) (2026-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Exactly-Once Processing Doesn’t Guarantee Exactly-Once Outcomes](https://medium.com/@optimzationking2/exactly-once-processing-doesnt-guarantee-exactly-once-outcomes-3ed02ae5bdd6?source=rss------programming-5) (2026-09-13)
-- [LOOK: A Web Programming Language Built Around the Web](https://medium.com/@codlook/look-a-web-programming-language-built-around-the-web-b599aafd1119?source=rss------programming-5) (2026-09-13)
-- [Kafka Part Four: Idempotency](https://medium.com/@ak757981/kafka-part-four-idempotency-ad1e97c9fb31?source=rss------programming-5) (2026-09-13)
-- [How the Web Works: A Journey from URL to Screen](https://medium.com/@ejehadoledaniel/how-the-web-works-a-journey-from-url-to-screen-81cea0880673?source=rss------programming-5) (2026-09-13)
-- [L’hallucination de l’utilisateur : le risque invisible de l’intelligence artificielle](https://medium.com/@snorbik-ai/lhallucination-de-l-utilisateur-le-risque-invisible-de-l-intelligence-artificielle-e1cf8cfc0775?source=rss------programming-5) (2026-09-13)
+- [How Browser Turns CSS Into Pixels — Part 3: Value Processing in action](https://amangupta-me.medium.com/how-browser-turns-css-into-pixels-part-3-value-processing-in-action-eb4251516c67?source=rss------programming-5) (2026-09-14)
+- [How to Become a Top Developer in the Era of GPT Astra?](https://1codensn.medium.com/how-to-become-a-top-developer-in-the-era-of-gpt-astra-02a220d5e951?source=rss------programming-5) (2026-09-14)
+- [Day 202 of Learning Android — Understanding What an Operating System Really Is](https://medium.com/@payalmehra3522/day-202-of-learning-android-understanding-what-an-operating-system-really-is-466f146b6d3e?source=rss------programming-5) (2026-09-14)
+- [Race Conditions Aren’t Just About Locks: From a Simple Counter to an E-Commerce Stock Bug](https://medium.com/@dziq_ha/race-conditions-arent-just-about-locks-from-a-simple-counter-to-an-e-commerce-stock-bug-5bb17e91372c?source=rss------programming-5) (2026-09-14)
+- [3 Programming Concepts They Almost Always Check in Every Python Interview](https://python.plainenglish.io/3-programming-concepts-they-almost-always-check-in-every-python-interview-59a393e0542f?source=rss------programming-5) (2026-09-14)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Connect Your Twilio Agent to External APIs in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-python
+) (2026-09-12)
+- [
 [Webinar] Elevating customer engagement with WhatsApp
 ](
 https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resour
 121+ Cyber Monday email subject line examples in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
-) (2026-09-10)
-- [
-Build an AI Voice Assistant with Twilio Voice and Media Streams, OpenAI's GPT-Live API, and Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-assistant-openai-gpt-live-1-node
 ) (2026-09-10)
 
 </details>
