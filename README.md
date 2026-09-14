@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg) (2026-09-14)
-- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228) (2026-09-14)
-- [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/) (2026-09-14)
-- [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology) (2026-09-14)
-- [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/) (2026-09-14)
+- [HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory](https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge) (2026-09-14)
+- [How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)](https://www.thepricer.org/how-much-has-trump-made-from-crypto/) (2026-09-14)
+- [Pkgsrc Is Cool (2022)](https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/) (2026-09-14)
+- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) (2026-09-14)
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [What happens after a town de-Flocks](https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy) (2026-09-14)
 - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting) (2026-09-13)
 - [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers) (2026-09-13)
 - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review) (2026-09-13)
 - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun) (2026-09-13)
-- [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026) (2026-09-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built Fastools: 70+ Free Browser Tools for Images, Video, PDF, and Everyday Dev Work](https://dev.to/lianglili/i-built-fastools-70-free-browser-tools-for-images-video-pdf-and-everyday-dev-work-10eo) (2026-09-14)
-- [Web Traffic Inspector Dash](https://dev.to/annavi11arrea1/web-traffic-inspector-dash-3af8) (2026-09-14)
-- [What a Single 3.07x Hides: From Mechanism to Distribution](https://dev.to/fengyugbt/what-a-single-307x-hides-from-mechanism-to-distribution-1dp1) (2026-09-14)
-- [Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis](https://dev.to/power_zhong/controlling-ai-api-spend-in-a-nextjs-15-micro-saas-with-cordis-4aac) (2026-09-14)
-- [12% of our posts had an image. The fix: a commit gate, a sha256, and one directory](https://dev.to/rulestack/12-of-our-posts-had-an-image-the-fix-a-commit-gate-a-sha256-and-one-directory-31n9) (2026-09-14)
+- [Designing a Production-Ready Data Science Pipeline: From Raw Events to Monitored Models](https://dev.to/mick_michaels_b9eb/designing-a-production-ready-data-science-pipeline-from-raw-events-to-monitored-models-48ln) (2026-09-14)
+- [DSA: Topic 2: Hash Maps & Sets](https://dev.to/m_t_ramkrushna/dsa-topic-2-hash-maps-sets-52d8) (2026-09-14)
+- [Flutter MVP Development: From Product Scope to iOS and Android Release](https://dev.to/abinschandran/flutter-mvp-development-from-product-scope-to-ios-and-android-release-1j29) (2026-09-14)
+- [Rework is an outcome your tracker probably cannot express](https://dev.to/sam_novak_574b07811e18495/rework-is-an-outcome-your-tracker-probably-cannot-express-3lcc) (2026-09-14)
+- [Flutter App Architecture Guide: Clean Architecture with BLoC & Repository Pattern (2025)](https://dev.to/abinschandran/flutter-app-architecture-guide-clean-architecture-with-bloc-repository-pattern-2025-4oc8) (2026-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Browser Turns CSS Into Pixels — Part 3: Value Processing in action](https://amangupta-me.medium.com/how-browser-turns-css-into-pixels-part-3-value-processing-in-action-eb4251516c67?source=rss------programming-5) (2026-09-14)
-- [How to Become a Top Developer in the Era of GPT Astra?](https://1codensn.medium.com/how-to-become-a-top-developer-in-the-era-of-gpt-astra-02a220d5e951?source=rss------programming-5) (2026-09-14)
-- [Day 202 of Learning Android — Understanding What an Operating System Really Is](https://medium.com/@payalmehra3522/day-202-of-learning-android-understanding-what-an-operating-system-really-is-466f146b6d3e?source=rss------programming-5) (2026-09-14)
-- [Race Conditions Aren’t Just About Locks: From a Simple Counter to an E-Commerce Stock Bug](https://medium.com/@dziq_ha/race-conditions-arent-just-about-locks-from-a-simple-counter-to-an-e-commerce-stock-bug-5bb17e91372c?source=rss------programming-5) (2026-09-14)
-- [3 Programming Concepts They Almost Always Check in Every Python Interview](https://python.plainenglish.io/3-programming-concepts-they-almost-always-check-in-every-python-interview-59a393e0542f?source=rss------programming-5) (2026-09-14)
+- [Why Most AI Agent Stacks Fail Solopreneurs in 2026 ](https://medium.com/@Travel4Fun4U/why-most-ai-agent-stacks-fail-solopreneurs-in-2026-5c6590f4177e?source=rss------programming-5) (2026-09-14)
+- [Day 05: Claude Code Commands You Should Know — And Why You Should Plan Before You Code](https://medium.com/@syednomanahmed/day-05-claude-code-commands-you-should-know-and-why-you-should-plan-before-you-code-9b51ac644153?source=rss------programming-5) (2026-09-14)
+- [Python Libraries I’d Learn First for AI Engineering](https://medium.com/codetodeploy/python-libraries-id-learn-first-for-ai-engineering-ec2986d9ec76?source=rss------programming-5) (2026-09-14)
+- [What If the Compiler Is Lying to You?](https://medium.com/@MahanKenway/what-if-the-compiler-is-lying-to-you-24aae9598790?source=rss------programming-5) (2026-09-14)
+- [How to Make Your Terminal Prompt Show You the Git Branch You Are On Automatically](https://medium.com/my-lifes-mirrow/how-to-make-your-terminal-prompt-show-you-the-git-branch-you-are-on-automatically-e115a842f26b?source=rss------programming-5) (2026-09-14)
 
 </details>
 
@@ -570,33 +570,33 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs) (2026-09-10)
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) (2026-09-09)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
-- [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct) (2026-09-03)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
+- [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/) (2026-09-14)
+- [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/) (2026-09-14)
 - [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
 - [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/) (2026-09-10)
-- [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/) (2026-09-10)
-- [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/) (2026-09-09)
-- [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Static to Dynamic Skills: A Different Model for Agent Knowledge](https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/) (2026-09-14)
 - [Your Model Isn't Done Until Someone Else Can Call It](https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/) (2026-09-13)
 - [Your AI Adoption Lift Is a Selection Effect](https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/) (2026-09-13)
 - [One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model](https://towardsdatascience.com/one-capital-letter-was-silently-breaking-my-ai-support-bot-and-it-wasnt-in-the-new-model/) (2026-09-12)
 - [Stop Managing Alarms: An Incident-First Blueprint for Telecom AIOps](https://towardsdatascience.com/stop-managing-alarms-an-incident-first-blueprint-for-telecom-aiops/) (2026-09-12)
-- [Coding Agents Don't Need Longer History — They Need Intent Continuity](https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/) (2026-09-11)
 
 </details>
 
