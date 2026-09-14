@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/) (2026-09-14)
-- [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/) (2026-09-14)
-- [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/) (2026-09-14)
-- [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/) (2026-09-14)
-- [Waymo opens robotaxi service in Las Vegas](https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/) (2026-09-14)
+- [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/) (2026-09-14)
+- [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/) (2026-09-14)
+- [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/) (2026-09-14)
+- [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/) (2026-09-14)
+- [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) (2026-09-14)
-- [It's a Scam](https://nice-marmot.net/Archives/2026/September_2026.html#note_3792) (2026-09-14)
-- [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/) (2026-09-14)
-- [Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead) (2026-09-14)
-- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) (2026-09-14)
+- [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/) (2026-09-14)
+- [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review) (2026-09-14)
+- [Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts](https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676) (2026-09-14)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) (2026-09-14)
+- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe) (2026-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TIFF 2026: the latest movie reviews from Toronto](https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews) (2026-09-14)
-- [macOS 27 is available now](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now) (2026-09-14)
-- [Apple releases iOS 27 with Siri AI overhaul](https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update) (2026-09-14)
-- [The Steam Frame is made for irresponsible hardware nerds like me](https://www.theverge.com/tech/994267/steam-frame-review) (2026-09-14)
-- [Valve’s Steam Frame costs $1,059](https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date) (2026-09-14)
+- [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) (2026-09-14)
+- [Trump throws out power plant climate pollution rules](https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers) (2026-09-14)
+- [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit) (2026-09-14)
+- [Valve&#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact) (2026-09-14)
+- [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Prehistoric builders transported Devil's Arrows 11 miles](https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/) (2026-09-14)
-- [Steam Frame: The Ars Technica review](https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/) (2026-09-14)
-- ["Offensively cheap": Solar power is looking up](https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/) (2026-09-14)
-- [New corners, new lights for 2028 Volvo XC40](https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/) (2026-09-14)
-- [F1 in Madrid: Like Monaco but twice as long and none of the glamour](https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/) (2026-09-14)
+- [OpenAI stuck fighting Musk antitrust suit after Apple finds a way out](https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/) (2026-09-14)
+- [Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/) (2026-09-14)
+- [Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements](https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/) (2026-09-14)
+- [AI leaders want to hit the brakes after years of reckless speed](https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/) (2026-09-14)
+- [Online hate researcher keeps hammering X despite deportation threat](https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) (2026-09-14)
 - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/) (2026-09-14)
 - [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) (2026-09-14)
 - [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/) (2026-09-14)
-- [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/) (2026-09-11)
-- [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/) (2026-09-11)
+- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Record Matches on Club Courts Automatically](https://dev.to/sportyplus/how-to-record-matches-on-club-courts-automatically-4571) (2026-09-14)
-- [Two friends pressed "Play" at the same time and both got a bot: lessons from building a browser 1v1 game](https://dev.to/tagkingiodeveloper/two-friends-pressed-play-at-the-same-time-and-both-got-a-bot-lessons-from-building-a-browser-1v1-2f39) (2026-09-14)
-- [JavaScript heap out of memory: read the GC line before you raise the heap size](https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp) (2026-09-14)
-- [48 Hours Chasing a Duplicate Nightly Job: SIGTERM Was Landing on the Wrapper](https://dev.to/codepy_1473/48-hours-chasing-a-duplicate-nightly-job-sigterm-was-landing-on-the-wrapper-c2b) (2026-09-14)
-- [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al) (2026-09-14)
+- [How to Engineer a Multi-Agent Pipeline for Production Reliability](https://dev.to/madebymonogram/how-to-engineer-a-multi-agent-pipeline-for-production-reliability-1n2p) (2026-09-14)
+- [HTB - Tactics](https://dev.to/zkrnvkf/htb-tactics-1bg9) (2026-09-14)
+- [Your first ASP.NET App: Dependency Injection](https://dev.to/__f5cd865bec2/your-first-aspnet-app-dependency-injection-741) (2026-09-14)
+- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2) (2026-09-14)
+- [Terraform for Cloud ML Infrastructure](https://dev.to/hamza_dev_talks/terraform-for-cloud-ml-infrastructure-3fpb) (2026-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ซีรีส์จับมือทำ EP.6: ต่อ Database จริงครั้งแรกด้วย EF Core](https://medium.com/@nunldevelopment/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3-ep-6-%E0%B8%95%E0%B9%88%E0%B8%AD-database-%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-ef-core-dea0dcff5ff2?source=rss------programming-5) (2026-09-14)
-- [Jaringan Komputer: Dasar Routing dan Switching](https://medium.com/@sivanuraini0407/jaringan-komputer-dasar-routing-dan-switching-f74a22cd7a0e?source=rss------programming-5) (2026-09-14)
-- [Python Internals Every Senior Developer Eventually Cares About](https://python.plainenglish.io/python-internals-every-senior-developer-eventually-cares-about-1d8147aebd14?source=rss------programming-5) (2026-09-14)
-- [ซีรีส์จับมือทำ EP.5: Error Handling ให้ Frontend กับ Backend เข้าใจตรงกัน](https://medium.com/@nunldevelopment/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3-ep-5-error-handling-%E0%B9%83%E0%B8%AB%E0%B9%89-frontend-%E0%B8%81%E0%B8%B1%E0%B8%9A-backend-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99-56d81bcdd858?source=rss------programming-5) (2026-09-14)
-- [Why LLMs Will Never Replace Serious C++ Developers](https://aiadvances.org/why-llms-will-never-replace-serious-c-developers-1228ffd2488a?source=rss------programming-5) (2026-09-14)
+- [5 Practices for Better Team Collaboration in Git and GitHub](https://preciouswords.medium.com/5-practices-for-better-team-collaboration-in-git-and-github-6f93dfad5350?source=rss------programming-5) (2026-09-14)
+- [Eleven Days to a Colony: What I Learned Shipping My First iOS Game](https://medium.com/@c.koch/eleven-days-to-a-colony-what-i-learned-shipping-my-first-ios-game-153dc439dc5b?source=rss------programming-5) (2026-09-14)
+- [Stop Fragmenting Your Ambition: How to Bridge Life Mastery and High-Velocity Business Execution](https://medium.com/@taha_/stop-fragmenting-your-ambition-how-to-bridge-life-mastery-and-high-velocity-business-execution-b8b336c7bad1?source=rss------programming-5) (2026-09-14)
+- [BitBash vs web development agency websites: What matters](https://medium.com/@bitbashofficial/bitbash-vs-web-development-agency-websites-what-matters-e39ec2bc8c6f?source=rss------programming-5) (2026-09-14)
+- [A Study of the Public URLs Cited by the IANA Time Zone Database](https://javascript.plainenglish.io/a-study-of-the-public-urls-cited-by-the-iana-time-zone-database-3c8bff331dd7?source=rss------programming-5) (2026-09-14)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 - [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
-- [Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/) (2026-09-03)
-- [GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/) (2026-09-03)
-- [How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/) (2026-09-03)
 
 </details>
 
@@ -579,24 +579,13 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
-- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
-- [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/) (2026-09-14)
-- [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/) (2026-09-14)
-- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your Model’s MSE Is Lying to You](https://towardsdatascience.com/your-models-mse-is-lying-to-you/) (2026-09-14)
+- [When to Use One Model and When to Use a Team of Agents](https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/) (2026-09-14)
 - [Graph Engineering for AI Agents: From Prompts and Loops to Workflows](https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/) (2026-09-14)
 - [From Static to Dynamic Skills: A Different Model for Agent Knowledge](https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/) (2026-09-14)
 - [Your Model Isn't Done Until Someone Else Can Call It](https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/) (2026-09-13)
-- [Your AI Adoption Lift Is a Selection Effect](https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/) (2026-09-13)
-- [One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model](https://towardsdatascience.com/one-capital-letter-was-silently-breaking-my-ai-support-bot-and-it-wasnt-in-the-new-model/) (2026-09-12)
 
 </details>
 
