@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/) (2026-09-15)
+- [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/) (2026-09-14)
 - [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/) (2026-09-14)
 - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/) (2026-09-14)
 - [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/) (2026-09-14)
-- [ClickFix attacks are tricking Mac and Windows users into hacking themselves](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/) (2026-09-14)
-- [Volkswagen’s crazy-efficient EV borrows an idea from Slate](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/) (2026-09-14)
-- [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review) (2026-09-14)
-- [Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts](https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676) (2026-09-14)
-- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) (2026-09-14)
-- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe) (2026-09-14)
+- [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) (2026-09-15)
+- [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325) (2026-09-15)
+- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) (2026-09-14)
+- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) (2026-09-14)
+- [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html) (2026-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when) (2026-09-15)
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) (2026-09-14)
+- [Apple Home’s new security camera features cost as much as $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription) (2026-09-14)
 - [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) (2026-09-14)
 - [Trump throws out power plant climate pollution rules](https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers) (2026-09-14)
-- [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit) (2026-09-14)
-- [Valve&#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact) (2026-09-14)
-- [The best deals from Nintendo’s ‘customer appreciation’ sale](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield](https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/) (2026-09-14)
+- [Rocket Lab is seeing red about NASA's decision on a Mars spacecraft](https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/) (2026-09-14)
+- [AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/) (2026-09-14)
 - [OpenAI stuck fighting Musk antitrust suit after Apple finds a way out](https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/) (2026-09-14)
 - [Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/) (2026-09-14)
-- [Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements](https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/) (2026-09-14)
-- [AI leaders want to hit the brakes after years of reckless speed](https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/) (2026-09-14)
-- [Online hate researcher keeps hammering X despite deportation threat](https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/) (2026-09-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Engineer a Multi-Agent Pipeline for Production Reliability](https://dev.to/madebymonogram/how-to-engineer-a-multi-agent-pipeline-for-production-reliability-1n2p) (2026-09-14)
-- [HTB - Tactics](https://dev.to/zkrnvkf/htb-tactics-1bg9) (2026-09-14)
-- [Your first ASP.NET App: Dependency Injection](https://dev.to/__f5cd865bec2/your-first-aspnet-app-dependency-injection-741) (2026-09-14)
-- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2) (2026-09-14)
-- [Terraform for Cloud ML Infrastructure](https://dev.to/hamza_dev_talks/terraform-for-cloud-ml-infrastructure-3fpb) (2026-09-14)
+- [The Working Set That Never Saturated](https://dev.to/megapixel99/the-working-set-that-never-saturated-5fl3) (2026-09-15)
+- [Railsのstructure.sqlって何？ 何のため?](https://dev.to/kaziusan/railsno-structuresql-tutehe-he-notame-313n) (2026-09-15)
+- [Stop Guessing Your Node Groups: A Deep Dive Into Karpenter on EKS](https://dev.to/tidding/stop-guessing-your-node-groups-a-deep-dive-into-karpenter-on-eks-ec4) (2026-09-15)
+- [Tenant DNS Record Types in Python: Let the Consumer Define the Contract](https://dev.to/jamesanderson121/tenant-dns-record-types-in-python-let-the-consumer-define-the-contract-1679) (2026-09-15)
+- [Make Each Characterization Test Fail Once Before You Refactor](https://dev.to/hackrs_6393/make-each-characterization-test-fail-once-before-you-refactor-47ka) (2026-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Practices for Better Team Collaboration in Git and GitHub](https://preciouswords.medium.com/5-practices-for-better-team-collaboration-in-git-and-github-6f93dfad5350?source=rss------programming-5) (2026-09-14)
-- [Eleven Days to a Colony: What I Learned Shipping My First iOS Game](https://medium.com/@c.koch/eleven-days-to-a-colony-what-i-learned-shipping-my-first-ios-game-153dc439dc5b?source=rss------programming-5) (2026-09-14)
-- [Stop Fragmenting Your Ambition: How to Bridge Life Mastery and High-Velocity Business Execution](https://medium.com/@taha_/stop-fragmenting-your-ambition-how-to-bridge-life-mastery-and-high-velocity-business-execution-b8b336c7bad1?source=rss------programming-5) (2026-09-14)
-- [BitBash vs web development agency websites: What matters](https://medium.com/@bitbashofficial/bitbash-vs-web-development-agency-websites-what-matters-e39ec2bc8c6f?source=rss------programming-5) (2026-09-14)
-- [A Study of the Public URLs Cited by the IANA Time Zone Database](https://javascript.plainenglish.io/a-study-of-the-public-urls-cited-by-the-iana-time-zone-database-3c8bff331dd7?source=rss------programming-5) (2026-09-14)
+- [Day 203 of Learning Android — Understanding Linux and Open Source](https://medium.com/@payalmehra3522/day-203-of-learning-android-understanding-linux-and-open-source-34dba71aa7b8?source=rss------programming-5) (2026-09-15)
+- [The Whole Thing Is a Hoax”: Trump, Huang, and the Fight Over How Scared We Should Be of AI](https://medium.com/@princekumar161999/the-whole-thing-is-a-hoax-trump-huang-and-the-fight-over-how-scared-we-should-be-of-ai-3c0de8ec72d7?source=rss------programming-5) (2026-09-15)
+- [Free Intraday Trading Strategy For Beginners 2026](https://medium.com/@sayedali_3166/free-intraday-trading-strategy-for-beginners-2026-d79d7f1b4fe7?source=rss------programming-5) (2026-09-15)
+- [From 3ms to 0ms: The Hidden Memory Trap in C++ Maps](https://medium.com/@jeet.patel0474/from-3ms-to-0ms-the-hidden-memory-trap-in-c-maps-3c5344a7bdad?source=rss------programming-5) (2026-09-15)
+- [Function Calling: Connecting LLMs to Real Actions](https://medium.com/@scosmexs/function-calling-connecting-llms-to-real-actions-5b0652731b51?source=rss------programming-5) (2026-09-15)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/) (2026-09-14)
+- [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) (2026-09-14)
 - [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/) (2026-09-11)
 - [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/) (2026-09-10)
 - [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/) (2026-09-09)
-- [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/) (2026-09-08)
-- [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) (2026-09-04)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication) (2026-09-14)
 - [Vercel Sandbox now provides 64 GB of storage](https://vercel.com/changelog/vercel-sandbox-64-gb-storage) (2026-09-11)
 - [How Featured's users make 100K media pitches per month on Vercel](https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel) (2026-09-11)
 - [How Tailscale built a customer-facing model router on AI Gateway](https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway) (2026-09-11)
 - [Control who can manage connectors in Vercel Connect](https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect) (2026-09-11)
-- [GitHub Copilot is now available in the AI SDK harness layer](https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter) (2026-09-10)
 
 </details>
 
@@ -414,10 +414,10 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Adding Google Login to a React App with Auth0
-](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
 - [A Developer's Guide to API Access Policies in Auth0
 ](https://auth0.com/blog/developers-guide-api-access-policies-auth0/) (2026-09-11)
+- [Adding Google Login to a React App with Auth0
+](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
 - [Why You're Getting 429s in Production Using Auth0 and How to Stop Them](https://auth0.com/blog/why-getting-429s-and-how-to-stop-them/) (2026-09-10)
 - [Audit Your Auth0 Tenant with Auth0 Agent Skills](https://auth0.com/blog/audit-your-auth0-tenant-with-auth0-agent-skills/) (2026-09-08)
 - [Five Reasons Why Your Auth0 Permissions Are Not in your Access Token](https://auth0.com/blog/five-reasons-permissions-not-in-access-token/) (2026-09-03)
@@ -575,6 +575,17 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) (2026-09-09)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
+- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
+- [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/) (2026-09-14)
+- [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/) (2026-09-14)
+- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
 
 </details>
 
