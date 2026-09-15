@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/) (2026-09-15)
-- [Nitter and XCancel are dead (again) after X’s latest legal actions](https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/) (2026-09-15)
-- [OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) (2026-09-15)
-- [AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round](https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/) (2026-09-15)
-- [Wonder scores a $425 million partnership with DoorDash as it builds its food empire](https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/) (2026-09-15)
+- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) (2026-09-15)
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-09-15)
+- [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) (2026-09-15)
+- [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/) (2026-09-15)
+- [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [V1.1 state of open source- OS 4.4 months behind frontier [pdf]](https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf) (2026-09-15)
-- [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/) (2026-09-15)
-- [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) (2026-09-15)
-- [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/) (2026-09-15)
-- [The CSS Zen Garden dream shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/) (2026-09-15)
+- [How much oil-market buffer is left?](https://www.depletion.org) (2026-09-15)
+- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) (2026-09-15)
+- [Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev) (2026-09-15)
+- [Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html) (2026-09-15)
+- [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) (2026-09-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster) (2026-09-15)
-- [Now Light’s minimalist phone can easily call an Uber](https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app) (2026-09-15)
-- [Meta&#8217;s new One subscriptions put a price on social media and AI](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai) (2026-09-15)
-- [Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint](https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection) (2026-09-15)
-- [This doorbell camera lets a human security guard watch your front door](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs) (2026-09-15)
+- [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco) (2026-09-15)
+- [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt) (2026-09-15)
+- [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale) (2026-09-15)
+- [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale) (2026-09-15)
+- [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [This Atlantic hurricane season is about to do something that hasn't happened in 175 years](https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/) (2026-09-15)
-- [Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/) (2026-09-15)
-- [Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh](https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/) (2026-09-15)
-- [For the first time, the US military confirms it has deployed weapons in orbit](https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/) (2026-09-15)
-- [RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield](https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/) (2026-09-14)
+- [18-year-old dies of measles in PA from severe neurological complication](https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/) (2026-09-15)
+- [SpaceX declares Starship ready for orbit, sets launch date next week](https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/) (2026-09-15)
+- [Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/) (2026-09-15)
+- [Boston dumps Flock, says it shared data nationwide in violation of contract](https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/) (2026-09-15)
+- [Demand for EV chargers is outstripping supply, says ChargePoint report](https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-15)
 - [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/) (2026-09-15)
 - [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/) (2026-09-15)
 - [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) (2026-09-15)
 - [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) (2026-09-14)
-- [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/) (2026-09-14)
 
 </details>
 
@@ -86,23 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MyZubster MVP: from an idea to a live decentralized green ecosystem](https://dev.to/n4k48/myzubster-mvp-from-an-idea-to-a-live-decentralized-green-ecosystem-4o5m) (2026-09-15)
-- [A Simple CI/CD Pipeline That Works](https://dev.to/cloudfrontier/a-simple-cicd-pipeline-that-works-1bj9) (2026-09-15)
-- [SPF redirect vs include: when to use each (and 5 mistakes to avoid)](https://dev.to/petr_michal_178dc4f87ad91/spf-redirect-vs-include-when-to-use-each-and-5-mistakes-to-avoid-2i56) (2026-09-15)
-- [Calculé la huella de carbono real de mi propio portfolio, paso a paso](https://dev.to/yel-seo-dev/calcule-la-huella-de-carbono-real-de-mi-propio-portfolio-paso-a-paso-39dk) (2026-09-15)
-- [Nithu Meets Neptune: Exploring Amazon Neptune 🐋☁️](https://dev.to/nithu_varshini_/nithu-meets-neptune-exploring-amazon-neptune-4l62) (2026-09-15)
+- [We scheduled a question for an hour when nobody could answer it](https://dev.to/unmannedops/we-scheduled-a-question-for-an-hour-when-nobody-could-answer-it-22oj) (2026-09-15)
+- [I expected hexagonal architecture to help my coding agent. It didn't.](https://dev.to/kstoyanovai/i-expected-hexagonal-architecture-to-help-my-coding-agent-it-didnt-3blg) (2026-09-15)
+- [Smart Contract Vulnerability Surface Analysis: Bitfinex](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitfinex-442l) (2026-09-15)
+- [Why AI Software Projects Fail Before Development Even Starts](https://dev.to/softdoes/why-ai-software-projects-fail-before-development-even-starts-1d2i) (2026-09-15)
+- [One Read Core, and the Code That Proves It](https://dev.to/anton_brilliantov/one-read-core-and-the-code-that-proves-it-39ia) (2026-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Board Removed Him. He Controls 40% of Web. They Lost More.](https://canartuc.medium.com/the-board-removed-him-he-controls-40-of-web-they-lost-more-ce2051bd1bed?source=rss------programming-5) (2026-09-15)
-- [11 Programming Languages That Changed How We Build Software](https://medium.com/@sovannaro17/11-programming-languages-that-changed-how-we-build-software-f6cd52ab75bc?source=rss------programming-5) (2026-09-15)
-- [The Death of Search: Why AI Overviews and Chatbots Are Killing Traditional Web Traffic
-For decades…](https://medium.com/@arahmedahmed99/the-death-of-search-why-ai-overviews-and-chatbots-are-killing-traditional-web-traffic-for-decades-707be43fe926?source=rss------programming-5) (2026-09-15)
-- [The Tiny GPU Project That Exposed a Huge Problem Inside Nvidia’s Software](https://medium.com/@cse20160007/the-tiny-gpu-project-that-exposed-a-huge-problem-inside-nvidias-software-eb63d25f53b9?source=rss------programming-5) (2026-09-15)
-- [How to Prepare for a FAANG Career Without Getting Lost in the Process](https://medium.com/@cse20160007/how-to-prepare-for-a-faang-career-without-getting-lost-in-the-process-4e7e260001ed?source=rss------programming-5) (2026-09-15)
+- [Every world map you’ve ever seen in a textbook was made with this dataset.](https://medium.com/@stacyfuende/every-world-map-youve-ever-seen-in-a-textbook-was-made-with-this-dataset-7762f0bd8b39?source=rss------programming-5) (2026-09-15)
+- [The 2026 Global Hiring Playbook: EOR / COR / PEO Options for Startups.](https://medium.com/@startearningindollarshere/the-2026-global-hiring-playbook-eor-cor-peo-options-for-startups-09839effd231?source=rss------programming-5) (2026-09-15)
+- [BitBash: best web development platform for custom builds](https://medium.com/@bitbashofficial/bitbash-best-web-development-platform-for-custom-builds-3924b6c42d62?source=rss------programming-5) (2026-09-15)
+- [ I Gave Antigravity Its Own “code .” Command](https://rjpatane2210.medium.com/i-gave-antigravity-its-own-code-command-21bd64ba7930?source=rss------programming-5) (2026-09-15)
+- [BitBash vs dev browsers: best web browser for developers](https://medium.com/@bitbash9/bitbash-vs-dev-browsers-best-web-browser-for-developers-b233f184124f?source=rss------programming-5) (2026-09-15)
 
 </details>
 
@@ -131,11 +130,11 @@ For decades…](https://medium.com/@arahmedahmed99/the-death-of-search-why-ai-ov
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/) (2026-09-15)
+- [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/) (2026-09-15)
 - [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/) (2026-09-15)
 - [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/) (2026-09-14)
 - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) (2026-09-10)
-- [Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies](https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/) (2026-09-10)
-- [d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment](https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/) (2026-09-10)
 
 </details>
 
@@ -219,11 +218,11 @@ For decades…](https://medium.com/@arahmedahmed99/the-death-of-search-why-ai-ov
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Beyond the model: Engineering AI infra with scientific judgement](https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4) (2026-09-15)
 - [Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize](https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4) (2026-08-25)
 - [How we knew COVID was over (and what our models had to unlearn)](https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4) (2026-08-19)
 - [Flexible Authentication: Reimagining authentication for millions of users at Airbnb](https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4) (2026-08-12)
 - [Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4) (2026-07-28)
-- [Personalizing Airbnb search by learning from the guest journey](https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4) (2026-07-21)
 
 </details>
 
@@ -362,11 +361,11 @@ For decades…](https://medium.com/@arahmedahmed99/the-death-of-search-why-ai-ov
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [How Delphi ships 100 times a day with its Python backend on Vercel](https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel) (2026-09-15)
+- [Gemini 3.8 Live models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway) (2026-09-15)
 - [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication) (2026-09-14)
 - [Vercel Sandbox now provides 64 GB of storage](https://vercel.com/changelog/vercel-sandbox-64-gb-storage) (2026-09-11)
 - [How Featured's users make 100K media pitches per month on Vercel](https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel) (2026-09-11)
-- [How Tailscale built a customer-facing model router on AI Gateway](https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway) (2026-09-11)
-- [Control who can manage connectors in Vercel Connect](https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect) (2026-09-11)
 
 </details>
 
@@ -385,30 +384,30 @@ For decades…](https://medium.com/@arahmedahmed99/the-death-of-search-why-ai-ov
 <summary>📞 Twilio Blog</summary>
 
 - [
+Italy's email open tracking pixels rules are changing
+](
+https://www.twilio.com/en-us/blog/insights/italy-open-pixel-rules
+) (2026-09-14)
+- [
+How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory in Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-python
+) (2026-09-14)
+- [
+How to Connect Your Twilio Agent to External APIs in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-nodejs
+) (2026-09-14)
+- [
+How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation in Node.js Memory
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-nodejs
+) (2026-09-14)
+- [
 How to Connect Your Twilio Agent to External APIs in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-python
 ) (2026-09-12)
-- [
-[Webinar] Elevating customer engagement with WhatsApp
-](
-https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp
-) (2026-09-11)
-- [
-How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-python
-) (2026-09-10)
-- [
-Build Voice AI Experiences with Twilio and GPT-Live-1 in the OpenAI API
-](
-https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resources
-) (2026-09-10)
-- [
-121+ Cyber Monday email subject line examples in 2026
-](
-https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
-) (2026-09-10)
 
 </details>
 
@@ -483,11 +482,11 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Custom scalar? I hardly know her!](https://www.apollographql.com/blog/custom-scalar-i-hardly-know-her) (2026-09-15)
 - [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
 - [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
 - [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
 - [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
-- [What’s new in Graph Artifacts](https://www.apollographql.com/blog/whats-new-in-graph-artifacts) (2026-07-27)
 
 </details>
 
@@ -507,20 +506,20 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 
 - [The 12 best online form builder apps in 2026](https://zapier.com/blog/best-online-form-builder-software) (2026-09-15)
 - [The 10 best free survey tools and form builders in 2026](https://zapier.com/blog/best-free-survey-tool-form-app) (2026-09-15)
-- [The 7 best QuickBooks alternatives in 2026](https://zapier.com/blog/quickbooks-alternatives) (2026-09-15)
+- [The 6 best AI writing generators in 2026](https://zapier.com/blog/best-ai-writing-generator) (2026-09-15)
+- [The best AI photo editors in 2026](https://zapier.com/blog/best-ai-photo-editor) (2026-09-15)
 - [Supabase vs. Firebase: Which backend platform is right for you? [2026]](https://zapier.com/blog/supabase-vs-firebase) (2026-09-15)
-- [Kit vs. Mailchimp: Which is best? [2026]](https://zapier.com/blog/convertkit-vs-mailchimp) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [Build with Confidence: App Governance, Access, and Accountability at HubSpot](https://developers.hubspot.com/blog/build-with-confidence-app-governance) (2026-09-15)
 - [Using dry run to change workflows safely with Agent CLI](https://developers.hubspot.com/blog/using-dry-run-to-change-workflows-safely-with-agent-cli) (2026-09-11)
 - [How to Scope a HubSpot Build Before Asking AI for Help](https://developers.hubspot.com/blog/how-to-scope-a-hubspot-build-before-asking-ai-for-help) (2026-08-18)
 - [You Don’t Need Better Agents, You Need Better Skills](https://developers.hubspot.com/blog/you-dont-need-better-agents-you-need-better-skills) (2026-08-13)
 - [The Ecosystem Guide to UNBOUND 2026](https://developers.hubspot.com/blog/the-ecosystem-guide-to-unbound-2026) (2026-08-11)
-- [Your sandbox should look like production. Now it actually does.](https://developers.hubspot.com/blog/your-sandbox-should-look-like-production) (2026-07-23)
 
 </details>
 
@@ -613,6 +612,17 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 </details>
 
 <details>
+<summary>💎 KDnuggets</summary>
+
+- [Orchestration and Execution: How JONI Approaches the Agent Layer](https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer) (2026-09-15)
+- [How I’m Using Google Opal for Even More AI Automations](https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations) (2026-09-15)
+- [5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence](https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence) (2026-09-15)
+- [7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)](https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss) (2026-09-14)
+- [Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release](https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release) (2026-09-14)
+
+</details>
+
+<details>
 <summary>🎯 Machine Learning Mastery</summary>
 
 - [Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV](https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/) (2026-09-15)
@@ -637,11 +647,11 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
 - [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) (2026-09-08)
 - [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/) (2026-09-03)
 - [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/) (2026-09-02)
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/) (2026-09-02)
-- [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/) (2026-09-01)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
