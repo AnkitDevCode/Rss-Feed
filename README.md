@@ -20,44 +20,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) (2026-09-15)
-- [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325) (2026-09-15)
-- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) (2026-09-14)
-- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) (2026-09-14)
-- [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html) (2026-09-14)
+- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo) (2026-09-15)
+- [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/) (2026-09-15)
+- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/) (2026-09-15)
+- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) (2026-09-15)
+- [The k-server conjecture is true](https://arxiv.org/abs/2609.15979) (2026-09-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft issues emergency Windows 11 update to fix its record-breaking patch](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues) (2026-09-15)
+- [Volvo’s plug-in hybrid XC60 and XC90 can really go the distance](https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range) (2026-09-15)
 - [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when) (2026-09-15)
 - [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) (2026-09-14)
 - [Apple Home’s new security camera features cost as much as $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription) (2026-09-14)
-- [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) (2026-09-14)
-- [Trump throws out power plant climate pollution rules](https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh](https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/) (2026-09-15)
+- [For the first time, the US military confirms it has deployed weapons in orbit](https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/) (2026-09-15)
 - [RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield](https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/) (2026-09-14)
 - [Rocket Lab is seeing red about NASA's decision on a Mars spacecraft](https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/) (2026-09-14)
 - [AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/) (2026-09-14)
-- [OpenAI stuck fighting Musk antitrust suit after Apple finds a way out](https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/) (2026-09-14)
-- [Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What must happen for AI’s trillion-dollar gamble to pay off](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) (2026-09-15)
 - [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) (2026-09-14)
 - [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/) (2026-09-14)
 - [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) (2026-09-14)
 - [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/) (2026-09-14)
-- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-11)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/) (2026-09-15)
 - [AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/) (2026-09-11)
 - [(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/) (2026-09-10)
 - [Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/) (2026-09-09)
 - [Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/) (2026-09-08)
-- [How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/) (2026-09-04)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Working Set That Never Saturated](https://dev.to/megapixel99/the-working-set-that-never-saturated-5fl3) (2026-09-15)
-- [Railsのstructure.sqlって何？ 何のため?](https://dev.to/kaziusan/railsno-structuresql-tutehe-he-notame-313n) (2026-09-15)
-- [Stop Guessing Your Node Groups: A Deep Dive Into Karpenter on EKS](https://dev.to/tidding/stop-guessing-your-node-groups-a-deep-dive-into-karpenter-on-eks-ec4) (2026-09-15)
-- [Tenant DNS Record Types in Python: Let the Consumer Define the Contract](https://dev.to/jamesanderson121/tenant-dns-record-types-in-python-let-the-consumer-define-the-contract-1679) (2026-09-15)
-- [Make Each Characterization Test Fail Once Before You Refactor](https://dev.to/hackrs_6393/make-each-characterization-test-fail-once-before-you-refactor-47ka) (2026-09-15)
+- [What Is RAG? Retrieval-Augmented Generation Explained](https://dev.to/amareswer/what-is-rag-retrieval-augmented-generation-explained-4afd) (2026-09-15)
+- [AI21 Labs — Deep Dive](https://dev.to/gautammanak1/ai21-labs-deep-dive-568f) (2026-09-15)
+- [🧩 Don't make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc) (2026-09-15)
+- [AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9) (2026-09-15)
+- [Enhancing Go Code Security: Applying Least Privilege Principle to Minimize Vulnerabilities](https://dev.to/viklogix/enhancing-go-code-security-applying-least-privilege-principle-to-minimize-vulnerabilities-3kh5) (2026-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 203 of Learning Android — Understanding Linux and Open Source](https://medium.com/@payalmehra3522/day-203-of-learning-android-understanding-linux-and-open-source-34dba71aa7b8?source=rss------programming-5) (2026-09-15)
-- [The Whole Thing Is a Hoax”: Trump, Huang, and the Fight Over How Scared We Should Be of AI](https://medium.com/@princekumar161999/the-whole-thing-is-a-hoax-trump-huang-and-the-fight-over-how-scared-we-should-be-of-ai-3c0de8ec72d7?source=rss------programming-5) (2026-09-15)
-- [Free Intraday Trading Strategy For Beginners 2026](https://medium.com/@sayedali_3166/free-intraday-trading-strategy-for-beginners-2026-d79d7f1b4fe7?source=rss------programming-5) (2026-09-15)
-- [From 3ms to 0ms: The Hidden Memory Trap in C++ Maps](https://medium.com/@jeet.patel0474/from-3ms-to-0ms-the-hidden-memory-trap-in-c-maps-3c5344a7bdad?source=rss------programming-5) (2026-09-15)
-- [Function Calling: Connecting LLMs to Real Actions](https://medium.com/@scosmexs/function-calling-connecting-llms-to-real-actions-5b0652731b51?source=rss------programming-5) (2026-09-15)
+- [The Python Libraries I Wish I Had Discovered Years Earlier](https://medium.com/codetodeploy/the-python-libraries-i-wish-i-had-discovered-years-earlier-a69425c94542?source=rss------programming-5) (2026-09-15)
+- [Why TypeScript Was Rewritten in Go](https://medium.com/@mernstackdevbykevin/why-typescript-was-rewritten-in-go-e44ce8147903?source=rss------programming-5) (2026-09-15)
+- [I Moved My Claude Code Skills Into Codex. Here’s What Survived.](https://medium.com/futura-creative/i-moved-my-claude-code-skills-into-codex-heres-what-survived-608cda761c03?source=rss------programming-5) (2026-09-15)
+- [DSA Patterns #43 —  Binary Search Trees: When Ordering Becomes a Superpower](https://medium.com/codetodeploy/dsa-patterns-43-binary-search-trees-when-ordering-becomes-a-superpower-174c38b73751?source=rss------programming-5) (2026-09-15)
+- [Threading in C#](https://medium.com/@rhutu.takle/threading-in-c-99b2706c2861?source=rss------programming-5) (2026-09-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/) (2026-09-15)
 - [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/) (2026-09-14)
 - [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) (2026-09-10)
 - [Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies](https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/) (2026-09-10)
 - [d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment](https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/) (2026-09-10)
-- [Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/) (2026-09-10)
 
 </details>
 
@@ -575,17 +575,6 @@ https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines
 - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series) (2026-09-09)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
-- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
-- [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/) (2026-09-14)
-- [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/) (2026-09-14)
-- [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/) (2026-09-11)
 
 </details>
 
