@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/) (2026-09-16)
 - [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) (2026-09-16)
 - [The AI data center boom is colliding with cities scarred by big industry ](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) (2026-09-15)
 - [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) (2026-09-15)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-09-15)
-- [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) (2026-09-16)
-- [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) (2026-09-16)
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) (2026-09-16)
-- [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html) (2026-09-15)
-- [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) (2026-09-15)
+- [Tech Fascism Has Come for American Democracy](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran) (2026-09-16)
+- [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) (2026-09-16)
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) (2026-09-16)
+- [MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc) (2026-09-16)
+- [A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/) (2026-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta is reportedly ready to launch less pervy smart glasses](https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect) (2026-09-16)
 - [The Boox Palma 3 gets stylus support and a sleek redesign](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16) (2026-09-16)
 - [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability) (2026-09-16)
 - [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september) (2026-09-15)
 - [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco) (2026-09-15)
-- [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [How chimps teach their kids tool tricks](https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/) (2026-09-16)
 - [The Roman telescope has enough gas for 22 years, double NASA's expectations](https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/) (2026-09-15)
 - [“Filmmaker” suing PassThePopcorn may be banned user out for revenge](https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/) (2026-09-15)
 - [18-year-old dies of measles in PA from severe neurological complication](https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/) (2026-09-15)
 - [SpaceX declares Starship ready for orbit, sets launch date next week](https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/) (2026-09-15)
-- [Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/) (2026-09-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Understand Why PDF Generation Is Harder Than HTML Rendering in Print Layout](https://dev.to/ethanbrooks111/how-to-understand-why-pdf-generation-is-harder-than-html-rendering-in-print-layout-2en9) (2026-09-16)
-- [I gave my AI coding agents a local long-term memory layer — 8 things that broke](https://dev.to/qianqiuwanzi/i-gave-my-ai-coding-agents-a-local-long-term-memory-layer-8-things-that-broke-a5i) (2026-09-16)
-- [GA4 คุยกับ AI ได้แล้ว แต่นักการตลาดส่วนใหญ่ยังไม่พร้อมใช้](https://dev.to/sarantoon/ga4-khuykab-ai-aidaelw-aetnakkaartlaadswnaihyyangaimphrmaich-4ebp) (2026-09-16)
-- [[Event Sourcing] Trying out Sekiban DCB: Introduction](https://dev.to/kary_0009/event-sourcing-trying-out-sekiban-dcb-introduction-4m78) (2026-09-16)
-- [Logarithms vs Exponentials: The Simple Idea Behind O(log n) and O(2ⁿ)](https://dev.to/jayy_prajapat/logarithms-vs-exponentials-the-simple-idea-behind-olog-n-and-o2n-3455) (2026-09-16)
+- [How to Avoid Unnecessary Re-renders in React Without Memoizing Everything](https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi) (2026-09-16)
+- [𝖧𝗈𝗐 🚀 𝖨 𝖡𝗎𝗂𝗅𝖽𝖾𝖽 𝖠𝗇 𝖠𝖨 𝖠𝗀𝖾𝗇𝗍 𝖳𝗁𝖺𝗍 𝖠𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝖶𝗈𝗋𝗄𝗌 (𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖫𝗈𝗌𝗂𝗇𝗀 𝖬𝗒 𝖲𝖺𝗇𝗂𝗍𝗒) 🔥](https://dev.to/hizba_cloud/--d3j) (2026-09-16)
+- [AI Can Write Code Faster Than We Can Review It — And That’s Becoming the Real Bottleneck](https://dev.to/robertadam987_/ai-can-write-code-faster-than-we-can-review-it-and-thats-becoming-the-real-bottleneck-25ee) (2026-09-16)
+- [Développeurs dépossédés : visiteurs de notre propre code](https://dev.to/karkael/developpeurs-depossedes-visiteurs-de-notre-propre-code-32pp) (2026-09-16)
+- [Dispossessed Developers: Visitors in Our Own Codebase](https://dev.to/karkael/my-llms-write-all-my-code-i-dont-even-open-it-anymore-5ekc) (2026-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Paying For Software - This Free Stack Can Build Your Entire Business](https://medium.com/@meerhadi0238/stop-paying-for-software-this-free-stack-can-build-your-entire-business-be4fb7fcc8c5?source=rss------programming-5) (2026-09-16)
-- [Stop Using 10 Indicators: This Simple 2-Indicator Strategy Is All I Watch](https://medium.com/@sayedali_3166/stop-using-10-indicators-this-simple-2-indicator-strategy-is-all-i-watch-617f4f086a9c?source=rss------programming-5) (2026-09-16)
-- [The Python Project I Built in One Weekend Is Still Making Me Money Months Later](https://medium.com/@zainahmad6716/the-python-project-i-built-in-one-weekend-is-still-making-me-money-months-later-ceea27ec860c?source=rss------programming-5) (2026-09-16)
-- [Java Developer Interview: 17 Questions on Core Java, Spring Boot and Microservices](https://medium.com/@preetjit82/java-developer-interview-17-questions-on-core-java-spring-boot-and-microservices-77433ee6f2d2?source=rss------programming-5) (2026-09-16)
-- [Capgemini Interview Experience: 20 Technical Questions Asked in 2 Rounds](https://medium.com/@preetjit82/capgemini-interview-experience-20-technical-questions-asked-in-2-rounds-15a386b58225?source=rss------programming-5) (2026-09-16)
+- [The AI Side Business I Would Build Before Quitting My Job](https://medium.com/@SulemanSafdar/the-ai-side-business-i-would-build-before-quitting-my-job-884824e63e41?source=rss------programming-5) (2026-09-16)
+- [A Bug I Missed in Testing and the Checklist I Built After That](https://medium.com/@talatwaheed/a-bug-i-missed-in-testing-and-the-checklist-i-built-after-that-05be0daaaeb7?source=rss------programming-5) (2026-09-16)
+- [4 Backend Concepts Every Developer Needs Before Writing Their First API](https://medium.com/@moazamkhan8999/4-backend-concepts-every-developer-needs-before-writing-their-first-api-ccdc5e64cb6c?source=rss------programming-5) (2026-09-16)
+- [Could Kotlin Multiplatform Finally Become Google’s Real Cross-Platform Answer?](https://medium.com/@sixtinbydizora/could-kotlin-multiplatform-finally-become-googles-real-cross-platform-answer-c4c86e868df5?source=rss------programming-5) (2026-09-16)
+- [Swift 6.4: 10 New Features Every iOS Developer Should Know](https://medium.com/@bhumibhuva18/swift-6-4-10-new-features-every-ios-developer-should-know-556983e17ecc?source=rss------programming-5) (2026-09-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/) (2026-09-16)
 - [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/) (2026-09-15)
 - [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/) (2026-09-15)
 - [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/) (2026-09-15)
 - [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/) (2026-09-15)
-- [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/) (2026-09-14)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.138 (Insiders)](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
+- [Visual Studio Code 1.139 (Insiders)](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
+- [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
 - [Visual Studio Code 1.137](https://code.visualstudio.com/updates/v1_137) (2026-09-09)
 - [Visual Studio Code 1.136](https://code.visualstudio.com/updates/v1_136) (2026-09-02)
 - [Visual Studio Code 1.135](https://code.visualstudio.com/updates/v1_135) (2026-08-26)
-- [Introducing the Agent Host for persistent, portable agent sessions](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture) (2026-08-26)
 
 </details>
 
@@ -575,6 +575,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/) (2026-09-16)
+- [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/) (2026-09-15)
+- [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/) (2026-09-15)
+- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
+- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
 
 </details>
 
