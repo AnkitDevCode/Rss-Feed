@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/) (2026-09-16)
-- [May Mobility is going public in a $1.4B SPAC deal](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/) (2026-09-16)
-- [Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/) (2026-09-16)
-- [Google says some Pixel phone owners were hacked in zero-day attacks](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/) (2026-09-16)
-- [Amazon gives its workers a raise of $1 per hour](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/) (2026-09-16)
+- [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) (2026-09-16)
+- [X will now let US users trade via Cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/) (2026-09-16)
+- [Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/) (2026-09-16)
+- [Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/) (2026-09-16)
+- [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/) (2026-09-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) (2026-09-16)
-- [Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo) (2026-09-16)
-- [PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/) (2026-09-16)
-- [Anatomy of a Texture](https://agentlien.github.io/texture/) (2026-09-16)
-- [OpenAI expands ChatGPT ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/) (2026-09-16)
+- [Xiami Mimo 2.6 Live Training Dashboard](https://mimo.xiaomi.com/rl/) (2026-09-16)
+- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009) (2026-09-16)
+- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) (2026-09-16)
+- [Barndoor acquires Diaphora, creators of open-source workflow runtime Frags](https://barndoor.ai/barndoor-acquires-diaphora/) (2026-09-16)
+- [A coffee shop owner used AI to make a menu poster. Then came the angry DMs](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9) (2026-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The sexy AI-powered dating app scams are here](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams) (2026-09-16)
-- [Xreal’s well-rounded 1S glasses are back down to their lowest price](https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale) (2026-09-16)
-- [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation) (2026-09-16)
-- [Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave](https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review) (2026-09-16)
-- [The iPhone 18 Pro’s big camera update is all about the small gains](https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture) (2026-09-16)
+- [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban) (2026-09-16)
+- [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review) (2026-09-16)
+- [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale) (2026-09-16)
+- [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia) (2026-09-16)
+- [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity) (2026-09-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [How chimps teach their kids tool tricks](https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/) (2026-09-16)
-- [The Roman telescope has enough gas for 22 years, double NASA's expectations](https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/) (2026-09-15)
-- [“Filmmaker” suing PassThePopcorn may be banned user out for revenge](https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/) (2026-09-15)
-- [18-year-old dies of measles in PA from severe neurological complication](https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/) (2026-09-15)
-- [SpaceX declares Starship ready for orbit, sets launch date next week](https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/) (2026-09-15)
+- [It’s OK to tell ICE their actions will haunt them, judge rules in speech fight](https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/) (2026-09-16)
+- [Iran strikes on Amazon data centers caused permanent loss of customer data](https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/) (2026-09-16)
+- [What happens when neutrinos swap identities inside a supernova?](https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/) (2026-09-16)
+- [macOS 27 Golden Gate: The Ars Technica review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/) (2026-09-16)
+- [The world’s best racing driver is about to race 100 karts at once](https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/) (2026-09-16)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a motion design studio in the browser. Here's what it took.](https://dev.to/codeideal/i-built-a-motion-design-studio-in-the-browser-heres-what-it-took-3ic1) (2026-09-16)
-- [Cinder is now Tomoshibi 灯火 — same scraper, better name](https://dev.to/dev_michael/cinder-is-now-tomoshibi-deng-huo-same-scraper-better-name-klj) (2026-09-16)
-- [Third-Party Listicles Drove Early AI Visibility in Two GEO Experiments](https://dev.to/alifar/third-party-listicles-drove-early-ai-visibility-in-two-geo-experiments-2ha0) (2026-09-16)
-- ["Nobody designed the frontmatter"](https://dev.to/lisandro_reinoso_d12ac7b9/nobody-designed-the-frontmatter-fa0) (2026-09-16)
-- [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db) (2026-09-16)
+- [A Pedagogical Introduction to Porting a Conjugate Gradient Solver to CUDA](https://dev.to/junsik_yoo/a-pedagogical-introduction-to-porting-a-conjugate-gradient-solver-to-cuda-aih) (2026-09-16)
+- [I tried giving a 26 MB Burp Suite dump to an LLM. It didn't work. So I built BurpSqueezer.](https://dev.to/vaginskii/i-tried-giving-a-26-mb-burp-suite-dump-to-an-llm-it-didnt-work-so-i-built-burpsqueezer-29i4) (2026-09-16)
+- [I scanned 13 popular AI-app starter repos. 4 were clean, and the same bug was in 6 of them.](https://dev.to/vibecheckai/i-scanned-13-popular-ai-app-starter-repos-4-were-clean-and-the-same-bug-was-in-6-of-them-4hdm) (2026-09-16)
+- [The AI Slowdown Nobody's Actually Slowing Down For](https://dev.to/jason_gunnells/the-ai-slowdown-nobodys-actually-slowing-down-for-4i62) (2026-09-16)
+- [What Actually Goes In an llms.txt](https://dev.to/lucasfernandezdiaz/what-actually-goes-in-an-llmstxt-2me5) (2026-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Passed the Technical Interview. The Rejection Came From a Question I Thought Was Small](https://medium.com/@devcommando/i-passed-the-technical-interview-the-rejection-came-from-a-question-i-thought-was-small-17f02ccd3a0c?source=rss------programming-5) (2026-09-16)
-- [13 Python Concepts That Made My Code Cleaner](https://medium.com/@learnwithhercodingtut/13-python-concepts-that-made-my-code-cleaner-d52e277f090a?source=rss------programming-5) (2026-09-16)
-- [The 56 Laws of Software Engineering: Where to Start Based on What’s Hurting You Right Now](https://saeedhbi.medium.com/the-56-laws-of-software-engineering-where-to-start-based-on-whats-hurting-you-right-now-4d11ab61ae12?source=rss------programming-5) (2026-09-16)
-- [I Failed a Senior Interview Because I Solved the Problem Too Fast](https://medium.com/@devcommando/i-failed-a-senior-interview-because-i-solved-the-problem-too-fast-4fdcaa84400c?source=rss------programming-5) (2026-09-16)
-- [A 17 GB AI Model Sounds Small. Running It Is a Different Story.](https://medium.com/@sovannaro17/a-17-gb-ai-model-sounds-small-running-it-is-a-different-story-edbe2c2a509c?source=rss------programming-5) (2026-09-16)
+- [I Rejected the Best Technical Candidate in the Interview. Six Months Later, I Realized I Was Wrong.](https://medium.com/lets-code-future/i-rejected-the-best-technical-candidate-in-the-interview-six-months-later-i-realized-i-was-wrong-ec987c378c5e?source=rss------programming-5) (2026-09-16)
+- [01 Linux — Data Engineer’ın Terminali](https://medium.com/@yunusemrekayaoglu/01-linux-data-engineer%C4%B1n-terminali-33f5ed21da73?source=rss------programming-5) (2026-09-16)
+- [A Rainy Day in Copenhagen Made Me Ditch Quiet Luxury](https://medium.com/@StudyBuddyC/a-rainy-day-in-copenhagen-made-me-ditch-quiet-luxury-9b80560f6859?source=rss------programming-5) (2026-09-16)
+- [Inheritance in Java: When to Use It — and When Composition Is Better](https://medium.com/@imon.cse15/inheritance-in-java-when-to-use-it-and-when-composition-is-better-64ff0ffaccf2?source=rss------programming-5) (2026-09-16)
+- [CodeRabbit’s Own Engineers Just Admitted Their AI Can’t Tell When It’s Wrong.](https://medium.com/@thedevnotebook/coderabbit-ai-code-review-confession-37d4d31c87b9?source=rss------programming-5) (2026-09-16)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS reimagines the getting started experience](https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/) (2026-09-16)
 - [AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/) (2026-09-14)
 - [Introducing Amazon EBS Volume Clones across AWS accounts](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/) (2026-09-09)
 - [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/) (2026-09-07)
 - [Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/) (2026-08-31)
-- [AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/) (2026-08-31)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updates to App Tracking Transparency in the European Union](https://developer.apple.com/news/?id=idsft9ai) (2026-09-16)
 - [Get ready for iPhone Duo](https://developer.apple.com/news/?id=vn8abkxx) (2026-09-09)
 - [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=k1mtkt1k) (2026-09-09)
 - [Hello Developer: September 2026](https://developer.apple.com/news/?id=ote61lrx) (2026-09-02)
 - [Upcoming changes to Rosetta support for Intel-based macOS apps](https://developer.apple.com/news/?id=w5ngl9k2) (2026-09-01)
-- [“The impact was the biggest surprise“: Swiggy’s transition to native pays off](https://developer.apple.com/news/?id=o5spbekm) (2026-09-01)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.9.0 (Current)](https://nodejs.org/en/blog/release/v26.9.0) (2026-09-16)
 - [Node.js 26.8.2 (Current)](https://nodejs.org/en/blog/release/v26.8.2) (2026-09-09)
 - [Node.js 24.21.0 (LTS)](https://nodejs.org/en/blog/release/v24.21.0) (2026-09-09)
 - [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1) (2026-08-26)
 - [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0) (2026-08-26)
-- [Node.js 24.20.0 (LTS)](https://nodejs.org/en/blog/release/v24.20.0) (2026-08-26)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [New Bug-Fix Releases Are Available for MPS Versions 2026.1.1, 2025.3.2, 2025.2.4, and 2025.1.4](https://blog.jetbrains.com/mps/2026/09/mps-2026-1-1-released/) (2026-09-16)
 - [Logpoints Walkthrough](https://blog.jetbrains.com/idea/2026/09/logpoints-walkthrough/) (2026-09-16)
 - [Rider and ReSharper 2026.2.2 Are Out!](https://blog.jetbrains.com/dotnet/2026/09/16/rd-rs-2026-2-2/) (2026-09-16)
 - [Behind the Scenes: How the OpenTelemetry Plugin Maps Your Microservices in Real-Time](https://blog.jetbrains.com/platform/2026/09/how-to-service-map-with-opentelemetry/) (2026-09-16)
 - [IntelliJ IDEA 2026.2.3 Is Out!](https://blog.jetbrains.com/idea/2026/09/intellij-idea-2026-2-3/) (2026-09-16)
-- [Java 27 in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/09/java-27-in-intellij-idea/) (2026-09-15)
 
 </details>
 
@@ -361,22 +361,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage) (2026-09-16)
 - [Secure Compute and Static IP builds start 64% faster](https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster) (2026-09-16)
 - [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace) (2026-09-16)
 - [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories) (2026-09-16)
 - [How Delphi ships 100 times a day with its Python backend on Vercel](https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel) (2026-09-15)
-- [Gemini 3.8 Live models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts](https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/) (2026-09-16)
 - [Have it both ways: stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) (2026-09-15)
 - [Give every teammate and agent the right level of access to your Workers](https://blog.cloudflare.com/workers-granular-authorization/) (2026-09-15)
 - [Introducing automatic remediation policies with Cloudflare CASB](https://blog.cloudflare.com/casb-policies/) (2026-09-11)
 - [1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it](https://blog.cloudflare.com/post-quantum-dnssec-1111/) (2026-09-10)
-- [How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility](https://blog.cloudflare.com/workers-module-registry-nodejs/) (2026-09-09)
 
 </details>
 
@@ -414,13 +414,14 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [A Developer's Guide to API Access Policies in Auth0
-](https://auth0.com/blog/developers-guide-api-access-policies-auth0/) (2026-09-11)
+- [Vibe Production-Ready Apps with Auth0 and v0
+](https://auth0.com/blog/vibe-production-ready-apps-auth0-v0/) (2026-09-16)
 - [Adding Google Login to a React App with Auth0
 ](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
+- [A Developer's Guide to API Access Policies in Auth0
+](https://auth0.com/blog/developers-guide-api-access-policies-auth0/) (2026-09-11)
 - [Why You're Getting 429s in Production Using Auth0 and How to Stop Them](https://auth0.com/blog/why-getting-429s-and-how-to-stop-them/) (2026-09-10)
 - [Audit Your Auth0 Tenant with Auth0 Agent Skills](https://auth0.com/blog/audit-your-auth0-tenant-with-auth0-agent-skills/) (2026-09-08)
-- [Five Reasons Why Your Auth0 Permissions Are Not in your Access Token](https://auth0.com/blog/five-reasons-permissions-not-in-access-token/) (2026-09-03)
 
 </details>
 
@@ -438,11 +439,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Introducing TIN: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) (2026-09-16)
 - [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) (2026-09-11)
 - [Introducing Neki](https://planetscale.com/blog/introducing-neki) (2026-09-10)
 - [The lifecycle of a sharded Postgres query](https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query) (2026-09-10)
 - [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) (2026-09-01)
-- [How one connection kills a database](https://planetscale.com/blog/debugging-live-database-connections) (2026-08-31)
 
 </details>
 
@@ -559,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/) (2026-09-16)
+- [Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell](https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell/) (2026-09-16)
 - [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/) (2026-09-11)
 - [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/) (2026-09-10)
 - [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/) (2026-09-08)
-- [Cambricon Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-09-08)
-- [PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors](https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors/) (2026-09-07)
 
 </details>
 
@@ -575,6 +576,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/) (2026-09-16)
+- [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/) (2026-09-16)
+- [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/) (2026-09-15)
+- [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/) (2026-09-15)
+- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
 
 </details>
 
