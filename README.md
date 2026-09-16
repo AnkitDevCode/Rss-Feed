@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) (2026-09-16)
+- [The AI data center boom is colliding with cities scarred by big industry ](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) (2026-09-15)
 - [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) (2026-09-15)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-09-15)
 - [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) (2026-09-15)
-- [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/) (2026-09-15)
-- [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How much oil-market buffer is left?](https://www.depletion.org) (2026-09-15)
-- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) (2026-09-15)
-- [Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev) (2026-09-15)
-- [Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html) (2026-09-15)
-- [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) (2026-09-15)
+- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) (2026-09-16)
+- [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) (2026-09-16)
+- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) (2026-09-16)
+- [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html) (2026-09-15)
+- [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Boox Palma 3 gets stylus support and a sleek redesign](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16) (2026-09-16)
+- [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability) (2026-09-16)
+- [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september) (2026-09-15)
 - [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco) (2026-09-15)
 - [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt) (2026-09-15)
-- [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale) (2026-09-15)
-- [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale) (2026-09-15)
-- [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon) (2026-09-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The Roman telescope has enough gas for 22 years, double NASA's expectations](https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/) (2026-09-15)
+- [“Filmmaker” suing PassThePopcorn may be banned user out for revenge](https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/) (2026-09-15)
 - [18-year-old dies of measles in PA from severe neurological complication](https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/) (2026-09-15)
 - [SpaceX declares Starship ready for orbit, sets launch date next week](https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/) (2026-09-15)
 - [Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/) (2026-09-15)
-- [Boston dumps Flock, says it shared data nationwide in violation of contract](https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/) (2026-09-15)
-- [Demand for EV chargers is outstripping supply, says ChargePoint report](https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/) (2026-09-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We scheduled a question for an hour when nobody could answer it](https://dev.to/unmannedops/we-scheduled-a-question-for-an-hour-when-nobody-could-answer-it-22oj) (2026-09-15)
-- [I expected hexagonal architecture to help my coding agent. It didn't.](https://dev.to/kstoyanovai/i-expected-hexagonal-architecture-to-help-my-coding-agent-it-didnt-3blg) (2026-09-15)
-- [Smart Contract Vulnerability Surface Analysis: Bitfinex](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitfinex-442l) (2026-09-15)
-- [Why AI Software Projects Fail Before Development Even Starts](https://dev.to/softdoes/why-ai-software-projects-fail-before-development-even-starts-1d2i) (2026-09-15)
-- [One Read Core, and the Code That Proves It](https://dev.to/anton_brilliantov/one-read-core-and-the-code-that-proves-it-39ia) (2026-09-15)
+- [How to Understand Why PDF Generation Is Harder Than HTML Rendering in Print Layout](https://dev.to/ethanbrooks111/how-to-understand-why-pdf-generation-is-harder-than-html-rendering-in-print-layout-2en9) (2026-09-16)
+- [I gave my AI coding agents a local long-term memory layer — 8 things that broke](https://dev.to/qianqiuwanzi/i-gave-my-ai-coding-agents-a-local-long-term-memory-layer-8-things-that-broke-a5i) (2026-09-16)
+- [GA4 คุยกับ AI ได้แล้ว แต่นักการตลาดส่วนใหญ่ยังไม่พร้อมใช้](https://dev.to/sarantoon/ga4-khuykab-ai-aidaelw-aetnakkaartlaadswnaihyyangaimphrmaich-4ebp) (2026-09-16)
+- [[Event Sourcing] Trying out Sekiban DCB: Introduction](https://dev.to/kary_0009/event-sourcing-trying-out-sekiban-dcb-introduction-4m78) (2026-09-16)
+- [Logarithms vs Exponentials: The Simple Idea Behind O(log n) and O(2ⁿ)](https://dev.to/jayy_prajapat/logarithms-vs-exponentials-the-simple-idea-behind-olog-n-and-o2n-3455) (2026-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Every world map you’ve ever seen in a textbook was made with this dataset.](https://medium.com/@stacyfuende/every-world-map-youve-ever-seen-in-a-textbook-was-made-with-this-dataset-7762f0bd8b39?source=rss------programming-5) (2026-09-15)
-- [The 2026 Global Hiring Playbook: EOR / COR / PEO Options for Startups.](https://medium.com/@startearningindollarshere/the-2026-global-hiring-playbook-eor-cor-peo-options-for-startups-09839effd231?source=rss------programming-5) (2026-09-15)
-- [BitBash: best web development platform for custom builds](https://medium.com/@bitbashofficial/bitbash-best-web-development-platform-for-custom-builds-3924b6c42d62?source=rss------programming-5) (2026-09-15)
-- [ I Gave Antigravity Its Own “code .” Command](https://rjpatane2210.medium.com/i-gave-antigravity-its-own-code-command-21bd64ba7930?source=rss------programming-5) (2026-09-15)
-- [BitBash vs dev browsers: best web browser for developers](https://medium.com/@bitbash9/bitbash-vs-dev-browsers-best-web-browser-for-developers-b233f184124f?source=rss------programming-5) (2026-09-15)
+- [Stop Paying For Software - This Free Stack Can Build Your Entire Business](https://medium.com/@meerhadi0238/stop-paying-for-software-this-free-stack-can-build-your-entire-business-be4fb7fcc8c5?source=rss------programming-5) (2026-09-16)
+- [Stop Using 10 Indicators: This Simple 2-Indicator Strategy Is All I Watch](https://medium.com/@sayedali_3166/stop-using-10-indicators-this-simple-2-indicator-strategy-is-all-i-watch-617f4f086a9c?source=rss------programming-5) (2026-09-16)
+- [The Python Project I Built in One Weekend Is Still Making Me Money Months Later](https://medium.com/@zainahmad6716/the-python-project-i-built-in-one-weekend-is-still-making-me-money-months-later-ceea27ec860c?source=rss------programming-5) (2026-09-16)
+- [Java Developer Interview: 17 Questions on Core Java, Spring Boot and Microservices](https://medium.com/@preetjit82/java-developer-interview-17-questions-on-core-java-spring-boot-and-microservices-77433ee6f2d2?source=rss------programming-5) (2026-09-16)
+- [Capgemini Interview Experience: 20 Technical Questions Asked in 2 Rounds](https://medium.com/@preetjit82/capgemini-interview-experience-20-technical-questions-asked-in-2-rounds-15a386b58225?source=rss------programming-5) (2026-09-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/) (2026-09-15)
 - [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/) (2026-09-15)
 - [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/) (2026-09-15)
 - [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/) (2026-09-15)
 - [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/) (2026-09-14)
-- [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/) (2026-09-10)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) (2026-09-15)
 - [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/) (2026-09-14)
 - [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) (2026-09-14)
 - [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/) (2026-09-11)
 - [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/) (2026-09-10)
-- [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/) (2026-09-09)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories) (2026-09-16)
 - [How Delphi ships 100 times a day with its Python backend on Vercel](https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel) (2026-09-15)
 - [Gemini 3.8 Live models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway) (2026-09-15)
 - [AI SDK harness layer now supports native subscription authentication](https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication) (2026-09-14)
 - [Vercel Sandbox now provides 64 GB of storage](https://vercel.com/changelog/vercel-sandbox-64-gb-storage) (2026-09-11)
-- [How Featured's users make 100K media pitches per month on Vercel](https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel) (2026-09-11)
 
 </details>
 
@@ -384,11 +384,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Italy's email open tracking pixels rules are changing
-](
-https://www.twilio.com/en-us/blog/insights/italy-open-pixel-rules
-) (2026-09-14)
-- [
 How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory in Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-python
@@ -402,6 +397,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation in Node.js Memory
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-nodejs
+) (2026-09-14)
+- [
+Italy's email open tracking pixels rules are changing
+](
+https://www.twilio.com/en-us/blog/insights/italy-open-pixel-rules
 ) (2026-09-14)
 - [
 How to Connect Your Twilio Agent to External APIs in Python
@@ -575,17 +575,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/) (2026-09-15)
-- [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/) (2026-09-15)
-- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
-- [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/) (2026-09-14)
-- [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/) (2026-09-14)
 
 </details>
 
