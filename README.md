@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) (2026-09-16)
-- [X will now let US users trade via Cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/) (2026-09-16)
-- [Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/) (2026-09-16)
-- [Former Waymo CFO jumps to self-driving startup Wayve](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/) (2026-09-16)
-- [Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/) (2026-09-16)
+- [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) (2026-09-17)
+- [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/) (2026-09-16)
+- [Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) (2026-09-16)
+- [US automakers could soon be forced to include AM radio for free](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/) (2026-09-16)
+- [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/) (2026-09-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Xiami Mimo 2.6 Live Training Dashboard](https://mimo.xiaomi.com/rl/) (2026-09-16)
-- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009) (2026-09-16)
-- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) (2026-09-16)
-- [Barndoor acquires Diaphora, creators of open-source workflow runtime Frags](https://barndoor.ai/barndoor-acquires-diaphora/) (2026-09-16)
-- [A coffee shop owner used AI to make a menu poster. Then came the angry DMs](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9) (2026-09-16)
+- [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) (2026-09-17)
+- [Pangram – AI detector for text and images](https://www.pangram.com) (2026-09-17)
+- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) (2026-09-17)
+- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) (2026-09-16)
+- [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html) (2026-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The streamers are fighting over Halloween](https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie) (2026-09-17)
+- [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) (2026-09-16)
+- [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses) (2026-09-16)
+- [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review) (2026-09-16)
 - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban) (2026-09-16)
-- [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review) (2026-09-16)
-- [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale) (2026-09-16)
-- [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia) (2026-09-16)
-- [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity) (2026-09-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [It’s OK to tell ICE their actions will haunt them, judge rules in speech fight](https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/) (2026-09-16)
-- [Iran strikes on Amazon data centers caused permanent loss of customer data](https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/) (2026-09-16)
-- [What happens when neutrinos swap identities inside a supernova?](https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/) (2026-09-16)
-- [macOS 27 Golden Gate: The Ars Technica review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/) (2026-09-16)
-- [The world’s best racing driver is about to race 100 karts at once](https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/) (2026-09-16)
+- [Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/) (2026-09-16)
+- [Epstein had huge cache of child sex pics; victims sue to find out who's in them](https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/) (2026-09-16)
+- [Nonprofit that tracks meteors taken down by "critical blow" from a cyberattack](https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/) (2026-09-16)
+- [Lionsgate releases a new trailer for Sunrise on the Reaping](https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/) (2026-09-16)
+- [Not just Proton: Getting to know Valve's new SteamOS compatibility layers](https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/) (2026-09-16)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) (2026-09-17)
 - [Marketing ops as code: Automating events from planning to follow-up on GitHub](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/) (2026-09-11)
 - [GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/) (2026-09-10)
 - [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) (2026-09-10)
 - [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/) (2026-09-04)
-- [GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/) (2026-09-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Pedagogical Introduction to Porting a Conjugate Gradient Solver to CUDA](https://dev.to/junsik_yoo/a-pedagogical-introduction-to-porting-a-conjugate-gradient-solver-to-cuda-aih) (2026-09-16)
-- [I tried giving a 26 MB Burp Suite dump to an LLM. It didn't work. So I built BurpSqueezer.](https://dev.to/vaginskii/i-tried-giving-a-26-mb-burp-suite-dump-to-an-llm-it-didnt-work-so-i-built-burpsqueezer-29i4) (2026-09-16)
-- [I scanned 13 popular AI-app starter repos. 4 were clean, and the same bug was in 6 of them.](https://dev.to/vibecheckai/i-scanned-13-popular-ai-app-starter-repos-4-were-clean-and-the-same-bug-was-in-6-of-them-4hdm) (2026-09-16)
-- [The AI Slowdown Nobody's Actually Slowing Down For](https://dev.to/jason_gunnells/the-ai-slowdown-nobodys-actually-slowing-down-for-4i62) (2026-09-16)
-- [What Actually Goes In an llms.txt](https://dev.to/lucasfernandezdiaz/what-actually-goes-in-an-llmstxt-2me5) (2026-09-16)
+- [AI thought my company was a typo. Here's what I measured.](https://dev.to/gary-tw/ai-thought-my-company-was-a-typo-heres-what-i-measured-4g8l) (2026-09-17)
+- [An Open Redirect Guard That Rebuilt What It Rejected](https://dev.to/megapixel99/an-open-redirect-guard-that-rebuilt-what-it-rejected-m30) (2026-09-17)
+- [Balancing Control and Speed: Headless Table Libraries vs. Full Grid Components for Data Table Implementation](https://dev.to/pavkode/balancing-control-and-speed-headless-table-libraries-vs-full-grid-components-for-data-table-419h) (2026-09-17)
+- [Azure: SSH to a VM on Azure](https://dev.to/theserverguy/azure-ssh-to-a-vm-on-azure-2j6e) (2026-09-17)
+- [161,764 Assets on Port 102: Sizing the Industrial Control Surface That AA26-231A Described](https://dev.to/kozhevniko/161764-assets-on-port-102-sizing-the-industrial-control-surface-that-aa26-231a-described-hik) (2026-09-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Rejected the Best Technical Candidate in the Interview. Six Months Later, I Realized I Was Wrong.](https://medium.com/lets-code-future/i-rejected-the-best-technical-candidate-in-the-interview-six-months-later-i-realized-i-was-wrong-ec987c378c5e?source=rss------programming-5) (2026-09-16)
-- [01 Linux — Data Engineer’ın Terminali](https://medium.com/@yunusemrekayaoglu/01-linux-data-engineer%C4%B1n-terminali-33f5ed21da73?source=rss------programming-5) (2026-09-16)
-- [A Rainy Day in Copenhagen Made Me Ditch Quiet Luxury](https://medium.com/@StudyBuddyC/a-rainy-day-in-copenhagen-made-me-ditch-quiet-luxury-9b80560f6859?source=rss------programming-5) (2026-09-16)
-- [Inheritance in Java: When to Use It — and When Composition Is Better](https://medium.com/@imon.cse15/inheritance-in-java-when-to-use-it-and-when-composition-is-better-64ff0ffaccf2?source=rss------programming-5) (2026-09-16)
-- [CodeRabbit’s Own Engineers Just Admitted Their AI Can’t Tell When It’s Wrong.](https://medium.com/@thedevnotebook/coderabbit-ai-code-review-confession-37d4d31c87b9?source=rss------programming-5) (2026-09-16)
+- [22 LINQ Interview Questions Every .NET Developer Should Prepare For](https://medium.com/@preetjit82/22-linq-interview-questions-every-net-developer-should-prepare-for-76ee339c9901?source=rss------programming-5) (2026-09-17)
+- [10 Data Analyst Interview Questions That Go Beyond SQL](https://medium.com/@preetjit82/10-data-analyst-interview-questions-that-go-beyond-sql-8a7ef0f52ac1?source=rss------programming-5) (2026-09-17)
+- [ReAct in AI Agents: Combining Reasoning and Action](https://medium.com/@scosmexs/react-in-ai-agents-combining-reasoning-and-action-359c5c2f2d81?source=rss------programming-5) (2026-09-17)
+- [10 Mobile App Development Firms to Consider in 2026](https://medium.com/@itsmughees1/10-mobile-app-development-firms-to-consider-in-2026-594be1a99127?source=rss------programming-5) (2026-09-17)
+- [Legacy Code Is Not a Rewrite Problem](https://doomerdgr8.medium.com/legacy-code-is-not-a-rewrite-problem-f1af39f1a13c?source=rss------programming-5) (2026-09-17)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=rfb1rooi) (2026-09-16)
+- [Get your subscriptions ready for iOS 27](https://developer.apple.com/news/?id=likeohx4) (2026-09-16)
 - [Updates to App Tracking Transparency in the European Union](https://developer.apple.com/news/?id=idsft9ai) (2026-09-16)
 - [Get ready for iPhone Duo](https://developer.apple.com/news/?id=vn8abkxx) (2026-09-09)
 - [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=k1mtkt1k) (2026-09-09)
-- [Hello Developer: September 2026](https://developer.apple.com/news/?id=ote61lrx) (2026-09-02)
-- [Upcoming changes to Rosetta support for Intel-based macOS apps](https://developer.apple.com/news/?id=w5ngl9k2) (2026-09-01)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/) (2026-09-16)
 - [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) (2026-09-15)
 - [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/) (2026-09-14)
 - [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) (2026-09-14)
 - [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/) (2026-09-11)
-- [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/) (2026-09-10)
 
 </details>
 
@@ -330,9 +330,9 @@
 
 - [Visual Studio Code 1.139 (Insiders)](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
 - [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
+- [Building the new GitHub Copilot Inline Suggestions Model: Part One](https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one) (2026-09-16)
 - [Visual Studio Code 1.137](https://code.visualstudio.com/updates/v1_137) (2026-09-09)
 - [Visual Studio Code 1.136](https://code.visualstudio.com/updates/v1_136) (2026-09-02)
-- [Visual Studio Code 1.135](https://code.visualstudio.com/updates/v1_135) (2026-08-26)
 
 </details>
 
@@ -364,8 +364,8 @@
 - [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage) (2026-09-16)
 - [Secure Compute and Static IP builds start 64% faster](https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster) (2026-09-16)
 - [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace) (2026-09-16)
+- [TypeSafe AI's Jev now available on AI Gateway](https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway) (2026-09-16)
 - [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories) (2026-09-16)
-- [How Delphi ships 100 times a day with its Python backend on Vercel](https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel) (2026-09-15)
 
 </details>
 
@@ -576,17 +576,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/) (2026-09-16)
-- [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/) (2026-09-16)
-- [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/) (2026-09-15)
-- [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/) (2026-09-15)
-- [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/) (2026-09-14)
 
 </details>
 
