@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/) (2026-09-17)
+- [Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/) (2026-09-17)
 - [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) (2026-09-17)
 - [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/) (2026-09-16)
-- [Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) (2026-09-16)
-- [US automakers could soon be forced to include AM radio for free](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/) (2026-09-16)
-- [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/) (2026-09-16)
+- [Al Gore says the real AI risk isn’t data centers](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) (2026-09-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) (2026-09-17)
-- [Pangram – AI detector for text and images](https://www.pangram.com) (2026-09-17)
-- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) (2026-09-17)
-- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) (2026-09-16)
-- [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html) (2026-09-16)
+- [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/) (2026-09-17)
+- [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure) (2026-09-17)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/) (2026-09-17)
+- [OpenAI Model Misalignment Report](https://openai.com/index/model-misalignment-reporting-framework/) (2026-09-17)
+- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill) (2026-09-17)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Meet the innovators under 35 shaping climate tech](https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/) (2026-09-17)
 - [Meet a mouse whose brain cortex is made up of human cells](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/) (2026-09-16)
 - [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) (2026-09-16)
 - [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/) (2026-09-16)
 - [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) (2026-09-15)
-- [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/) (2026-09-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI thought my company was a typo. Here's what I measured.](https://dev.to/gary-tw/ai-thought-my-company-was-a-typo-heres-what-i-measured-4g8l) (2026-09-17)
-- [An Open Redirect Guard That Rebuilt What It Rejected](https://dev.to/megapixel99/an-open-redirect-guard-that-rebuilt-what-it-rejected-m30) (2026-09-17)
-- [Balancing Control and Speed: Headless Table Libraries vs. Full Grid Components for Data Table Implementation](https://dev.to/pavkode/balancing-control-and-speed-headless-table-libraries-vs-full-grid-components-for-data-table-419h) (2026-09-17)
-- [Azure: SSH to a VM on Azure](https://dev.to/theserverguy/azure-ssh-to-a-vm-on-azure-2j6e) (2026-09-17)
-- [161,764 Assets on Port 102: Sizing the Industrial Control Surface That AA26-231A Described](https://dev.to/kozhevniko/161764-assets-on-port-102-sizing-the-industrial-control-surface-that-aa26-231a-described-hik) (2026-09-17)
+- [My wife and I built a trip planner for ourselves.](https://dev.to/escapoio/my-wife-and-i-built-a-trip-planner-for-ourselves-2419) (2026-09-17)
+- [Modal — Deep Dive](https://dev.to/gautammanak1/modal-deep-dive-1c1j) (2026-09-17)
+- [450 label words the test suite will not let us ship without](https://dev.to/daniel_pertu/450-label-words-the-test-suite-will-not-let-us-ship-without-4102) (2026-09-17)
+- [A type with no word for "absent": an allergen layer that can only push down](https://dev.to/daniel_pertu/a-type-with-no-word-for-absent-an-allergen-layer-that-can-only-push-down-1pkf) (2026-09-17)
+- [AI-Powered Frontend Debugging Tools: How They Work, What They Fix, and When to Watch Out](https://dev.to/mspk97/ai-powered-frontend-debugging-tools-how-they-work-what-they-fix-and-when-to-watch-out-2p7p) (2026-09-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [22 LINQ Interview Questions Every .NET Developer Should Prepare For](https://medium.com/@preetjit82/22-linq-interview-questions-every-net-developer-should-prepare-for-76ee339c9901?source=rss------programming-5) (2026-09-17)
-- [10 Data Analyst Interview Questions That Go Beyond SQL](https://medium.com/@preetjit82/10-data-analyst-interview-questions-that-go-beyond-sql-8a7ef0f52ac1?source=rss------programming-5) (2026-09-17)
-- [ReAct in AI Agents: Combining Reasoning and Action](https://medium.com/@scosmexs/react-in-ai-agents-combining-reasoning-and-action-359c5c2f2d81?source=rss------programming-5) (2026-09-17)
-- [10 Mobile App Development Firms to Consider in 2026](https://medium.com/@itsmughees1/10-mobile-app-development-firms-to-consider-in-2026-594be1a99127?source=rss------programming-5) (2026-09-17)
-- [Legacy Code Is Not a Rewrite Problem](https://doomerdgr8.medium.com/legacy-code-is-not-a-rewrite-problem-f1af39f1a13c?source=rss------programming-5) (2026-09-17)
+- [Swift’s Future Might Be Much Bigger Than Apple Platforms](https://medium.com/@bhumibhuva18/swifts-future-might-be-much-bigger-than-apple-platforms-a88c94132d35?source=rss------programming-5) (2026-09-17)
+- [Could Swift Finally Become a True Cross-Platform Language?](https://medium.com/@bhumibhuva18/could-swift-finally-become-a-true-cross-platform-language-0391a258695f?source=rss------programming-5) (2026-09-17)
+- [Kotlin’s Future Goes Far Beyond Android](https://medium.com/@androidlab/kotlins-future-goes-far-beyond-android-7073f5009a98?source=rss------programming-5) (2026-09-17)
+- [Kotlin 2.4 vs Kotlin 2.3: What Actually Changed?](https://medium.com/@androidlab/kotlin-2-4-vs-kotlin-2-3-what-actually-changed-0d58fdb8af6e?source=rss------programming-5) (2026-09-17)
+- [Gromov-Wasserstein Optimal Transport: Aligning Spaces That Cannot Be Directly Compared](https://medium.com/@izzetcansorna/gromov-wasserstein-optimal-transport-aligning-spaces-that-cannot-be-directly-compared-e4cebdf971d1?source=rss------programming-5) (2026-09-17)
 
 </details>
 
@@ -384,14 +384,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
+) (2026-09-16)
+- [
 How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory
-) (2026-09-15)
-- [
-9 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
 ) (2026-09-15)
 - [
  What is CIAM in 2026 and why does it matter?
@@ -399,15 +399,15 @@ https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
 https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 ) (2026-09-15)
 - [
+9 top conversational AI platforms in 2026
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
+) (2026-09-15)
+- [
 How to Connect Your Twilio Agent to External APIs
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis
 ) (2026-09-15)
-- [
-How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory in Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-python
-) (2026-09-14)
 
 </details>
 
@@ -416,10 +416,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 
 - [Vibe Production-Ready Apps with Auth0 and v0
 ](https://auth0.com/blog/vibe-production-ready-apps-auth0-v0/) (2026-09-16)
-- [Adding Google Login to a React App with Auth0
-](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
 - [A Developer's Guide to API Access Policies in Auth0
 ](https://auth0.com/blog/developers-guide-api-access-policies-auth0/) (2026-09-11)
+- [Adding Google Login to a React App with Auth0
+](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
 - [Why You're Getting 429s in Production Using Auth0 and How to Stop Them](https://auth0.com/blog/why-getting-429s-and-how-to-stop-them/) (2026-09-10)
 - [Audit Your Auth0 Tenant with Auth0 Agent Skills](https://auth0.com/blog/audit-your-auth0-tenant-with-auth0-agent-skills/) (2026-09-08)
 
@@ -593,11 +593,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale ](https://www.analyticsvidhya.com/blog/2026/09/mlops-vs-llmops-vs-agentops/) (2026-09-17)
 - [Top 5 Agentic Coding CLI Tools Developers Should Know in 2026 ](https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/) (2026-09-15)
 - [5 ChatGPT 2.5 Features to Try Today!](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/) (2026-09-11)
 - [Bodhan AI Releases Four Indic Models for OCR, Translation and Speech ](https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/) (2026-09-10)
 - [The Four Caches in LLM Serving ](https://www.analyticsvidhya.com/blog/2026/09/four-caches-in-llm-serving/) (2026-09-08)
-- [Getting Started with Grok Bot ](https://www.analyticsvidhya.com/blog/2026/09/grok-bot-automation-tutorial/) (2026-09-07)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [Estimators in Scikit-LLM: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet) (2026-09-16)
+- [How to Build Effective Evals for AI Agents](https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents) (2026-09-16)
+- [Orchestration and Execution: How JONI Approaches the Agent Layer](https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer) (2026-09-15)
+- [How I’m Using Google Opal for Even More AI Automations](https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations) (2026-09-15)
+- [5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence](https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence) (2026-09-15)
 
 </details>
 
