@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Roku’s new Labs hub brings experimental apps to the big screen](https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/) (2026-09-17)
-- [Last call: Disrupt volunteer application closes soon ](https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/) (2026-09-17)
-- [I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout](https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/) (2026-09-17)
-- [Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia](https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/) (2026-09-17)
-- [2 days left to exhibit at TechCrunch Disrupt 2026 ](https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/) (2026-09-17)
+- [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) (2026-09-17)
+- [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/) (2026-09-17)
+- [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/) (2026-09-17)
+- [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/) (2026-09-17)
+- [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) (2026-09-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/) (2026-09-17)
-- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
-- [OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance](https://asiaai.fyi/openai-misalignment-framework-global-governance/) (2026-09-17)
-- [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters) (2026-09-17)
-- [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) (2026-09-17)
+- [Astra for Law](https://openai.com/index/astra-for-law/) (2026-09-17)
+- [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html) (2026-09-17)
+- [Don't Just Say Hello](https://nohello.net/en/) (2026-09-17)
+- [Canto: A speech model built for the real world](https://wisprflow.ai/canto) (2026-09-17)
+- [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/) (2026-09-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) (2026-09-17)
+- [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) (2026-09-17)
+- [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale) (2026-09-17)
 - [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad) (2026-09-17)
 - [Camp Snap’s 110D gives slim retro film cameras a digital upgrade](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film) (2026-09-17)
-- [Your robotaxi might be a narc](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance) (2026-09-17)
-- [Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude) (2026-09-17)
-- [AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs) (2026-09-17)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Quarkus 4 Is Coming for Spring Boot 4. Here Is How the Two Big Java Frameworks Actually Compare in 2026](https://dev.to/jamilxt/quarkus-4-is-coming-for-spring-boot-4-here-is-how-the-two-big-java-frameworks-actually-compare-in-8p7) (2026-09-17)
-- [[Boost]](https://dev.to/dannwaneri/-21hf) (2026-09-17)
-- [Project memory is not chat history: a tiny handoff layer for AI agents](https://dev.to/louisen0o0/project-memory-is-not-chat-history-a-tiny-handoff-layer-for-ai-agents-2n03) (2026-09-17)
-- [Secure and Queue Telegram Webhooks in Laravel with Redis Idempotency](https://dev.to/serhii_a9c08345ac360cf5c8/secure-and-queue-telegram-webhooks-in-laravel-with-redis-idempotency-42hj) (2026-09-17)
-- [Your Japanese pages look fine to you. Here's what everyone else sees.](https://dev.to/nakyamura_dev/your-japanese-pages-look-fine-to-you-heres-what-everyone-else-sees-5ha8) (2026-09-17)
+- [AI-to-AI Payments: Why Autonomous Agents May Need Their Own Economy](https://dev.to/aonica/ai-to-ai-payments-why-autonomous-agents-may-need-their-own-economy-3k1) (2026-09-17)
+- [Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5) (2026-09-17)
+- [Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l) (2026-09-17)
+- [I never fully understood Python for loops until I grasped the range function. Here is what I learnt](https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312) (2026-09-17)
+- [Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access](https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g) (2026-09-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java 27 Is Here: The Runtime and Security Changes Java Developers Should Know](https://medium.com/@highsongs2020/java-27-is-here-the-runtime-and-security-changes-java-developers-should-know-a2fb2f7b88a2?source=rss------programming-5) (2026-09-17)
-- [ Building. Learning. Growing.](https://medium.com/@masudrana.npakhimara/building-learning-growing-2597ade776e3?source=rss------programming-5) (2026-09-17)
-- [Real Spotify vs crack Spotify ](https://kevin8ronex.medium.com/real-spotify-vs-crack-spotify-ea5dd5908c3a?source=rss------programming-5) (2026-09-17)
-- [Is ByteByteGo Worth It in 2026? My Complete ByteByteGo Review for System Design Interviews](https://medium.com/javarevisited/is-bytebytego-worth-it-in-2026-my-complete-bytebytego-review-for-system-design-interviews-ff5bf3622c8c?source=rss------programming-5) (2026-09-17)
-- [Redis Caching in Spring Boot: From @Cacheable to Cache Invalidation, TTLs, Eviction, Stampedes, and…](https://medium.com/@samanlnayak2003/redis-caching-in-spring-boot-from-cacheable-to-cache-invalidation-ttls-eviction-stampedes-and-2b0a6a26887c?source=rss------programming-5) (2026-09-17)
+- [We Let AI Review Every Pull Request for 30 Days. The Best Engineer on the Team Started Ignoring It.](https://ai.plainenglish.io/we-let-ai-review-every-pull-request-for-30-days-the-best-engineer-on-the-team-started-ignoring-it-df4ca2dcdfdb?source=rss------programming-5) (2026-09-17)
+- [AI Is Not Replacing Senior Engineers. It Is Quietly Removing the Need for Junior Ones.](https://medium.com/lets-code-future/ai-is-not-replacing-senior-engineers-it-is-quietly-removing-the-need-for-junior-ones-0792f6b2b075?source=rss------programming-5) (2026-09-17)
+- [I Reviewed 34 Production Retry Bugs. The Most Dangerous Line Was Usually retry(3).](https://levelup.gitconnected.com/i-reviewed-34-production-retry-bugs-the-most-dangerous-line-was-usually-retry-3-2eb3f264dcec?source=rss------programming-5) (2026-09-17)
+- [I Reviewed 18 Kafka Architectures. Most of Them Did Not Need Kafka.](https://javascript.plainenglish.io/i-reviewed-18-kafka-architectures-most-of-them-did-not-need-kafka-85aa7948b28f?source=rss------programming-5) (2026-09-17)
+- [15 Git Techniques That Are Already Installed and Nobody Uses](https://liu-111.medium.com/15-git-techniques-that-are-already-installed-and-nobody-uses-978c5e036e8b?source=rss------programming-5) (2026-09-17)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Elastic Beanstalk introduces Cluster Mode](https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/) (2026-09-17)
 - [AWS reimagines the getting started experience](https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/) (2026-09-16)
 - [AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/) (2026-09-14)
 - [Introducing Amazon EBS Volume Clones across AWS accounts](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/) (2026-09-09)
 - [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/) (2026-09-07)
-- [Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/) (2026-08-31)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Introducing the AndroidX Security State Libraries: A Unified View of Device Security](https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html) (2026-09-17)
 - [Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks](https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html) (2026-09-16)
 - [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0](https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html) (2026-09-09)
 - [Leverage Android skills and Gemma 4 in Android Studio Quail 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html) (2026-09-01)
 - [Emulator control for adaptive app development](https://android-developers.googleblog.com/2026/08/emulator-adaptive.html) (2026-08-31)
-- [How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys](https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html) (2026-08-27)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon](https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4) (2026-09-17)
 - [Beyond the model: Engineering AI infra with scientific judgement](https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4) (2026-09-15)
 - [Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize](https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4) (2026-08-25)
 - [How we knew COVID was over (and what our models had to unlearn)](https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4) (2026-08-19)
 - [Flexible Authentication: Reimagining authentication for millions of users at Airbnb](https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4) (2026-08-12)
-- [Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4) (2026-07-28)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
-- [When to use SAST versus an LLM security scanner](https://about.gitlab.com/blog/sast-vs-llm-security-scanner/) (2026-09-16)
-- [GitLab Dedicated: Compliance for a new regulatory era](https://about.gitlab.com/blog/gitlab-dedicated-compliance/) (2026-09-14)
-- [How to calculate DevOps platform total cost of ownership](https://about.gitlab.com/blog/how-to-calculate-devops-platform-total-cost-of-ownership/) (2026-09-11)
-- [GitLab Critical Patch Release: 19.3.2, 19.2.6, 19.1.8](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-2-released/) (2026-09-11)
+- [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/) (2026-09-17)
+- [See who spent your AI credits and set fair caps per team](https://about.gitlab.com/blog/new-usage-caps-2026/) (2026-09-17)
+- [New MCP tools help platform teams scale automation safely](https://about.gitlab.com/blog/new-mcp-tools-for-automation/) (2026-09-17)
+- [GitLab Duo CLI takes a task from goal to done](https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/) (2026-09-17)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Turbo build machines can now be enabled per deployment](https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment) (2026-09-17)
+- [Run Terminal-Bench and other Harbor evals on Vercel Sandbox](https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox) (2026-09-17)
+- [The skills CLI now supports Notion hosted skills](https://vercel.com/changelog/skills-cli-notion-skills) (2026-09-17)
+- [Native Marketplace integrations now support custom environments](https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations) (2026-09-17)
 - [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage) (2026-09-16)
-- [Secure Compute and Static IP builds start 64% faster](https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster) (2026-09-16)
-- [Mem0 joins the Vercel Marketplace](https://vercel.com/changelog/mem0-joins-the-vercel-marketplace) (2026-09-16)
-- [TypeSafe AI's Jev now available on AI Gateway](https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway) (2026-09-16)
-- [Is Agentic now tailors its audit by site type](https://vercel.com/changelog/is-agentic-report-categories) (2026-09-16)
 
 </details>
 
@@ -394,14 +394,14 @@ How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation 
 https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory
 ) (2026-09-15)
 - [
-9 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-09-15)
-- [
  What is CIAM in 2026 and why does it matter?
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
+) (2026-09-15)
+- [
+9 top conversational AI platforms in 2026
+](
+https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
 ) (2026-09-15)
 - [
 How to Connect Your Twilio Agent to External APIs
@@ -414,6 +414,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Preventing Destructive Actions with Step-up Authentication](https://auth0.com/blog/preventing-destructive-actions-with-step-up-authentication/) (2026-09-17)
 - [Vibe Production-Ready Apps with Auth0 and v0
 ](https://auth0.com/blog/vibe-production-ready-apps-auth0-v0/) (2026-09-16)
 - [A Developer's Guide to API Access Policies in Auth0
@@ -421,7 +422,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 - [Adding Google Login to a React App with Auth0
 ](https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/) (2026-09-11)
 - [Why You're Getting 429s in Production Using Auth0 and How to Stop Them](https://auth0.com/blog/why-getting-429s-and-how-to-stop-them/) (2026-09-10)
-- [Audit Your Auth0 Tenant with Auth0 Agent Skills](https://auth0.com/blog/audit-your-auth0-tenant-with-auth0-agent-skills/) (2026-09-08)
 
 </details>
 
@@ -439,11 +439,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Introducing Lead: TIN-compatible full-text search for CI](https://planetscale.com/blog/introducing-lead) (2026-09-17)
 - [Introducing TIN: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) (2026-09-16)
 - [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) (2026-09-11)
 - [Introducing Neki](https://planetscale.com/blog/introducing-neki) (2026-09-10)
 - [The lifecycle of a sharded Postgres query](https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query) (2026-09-10)
-- [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) (2026-09-01)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [The best employee onboarding software in 2026](https://zapier.com/blog/best-employee-onboarding-software) (2026-09-17)
 - [ClickFunnels vs. Shopify: Which is best? [2026]](https://zapier.com/blog/clickfunnels-vs-shopify) (2026-09-17)
 - [How to convert Google Sheets to Excel: 2 methods](https://zapier.com/blog/convert-google-sheets-to-excel) (2026-09-16)
-- [Vibe coding security: How to be sure your vibe-coded apps are safe to use](https://zapier.com/blog/vibe-coding-security) (2026-09-16)
-- [How to see who viewed your Google Doc](https://zapier.com/blog/how-to-see-who-viewed-your-google-doc) (2026-09-16)
 - [The top AI text generators in 2026](https://zapier.com/blog/ai-text-generator) (2026-09-16)
+- [How to see who viewed your Google Doc](https://zapier.com/blog/how-to-see-who-viewed-your-google-doc) (2026-09-16)
 
 </details>
 
