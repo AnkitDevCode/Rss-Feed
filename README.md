@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online) (2026-09-18)
-- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) (2026-09-18)
-- [Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe](https://github.com/aardappel/goose/tree/master) (2026-09-18)
-- [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) (2026-09-17)
-- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/) (2026-09-17)
+- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) (2026-09-18)
+- [OpenJev](https://openjev.com/) (2026-09-18)
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) (2026-09-18)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/) (2026-09-18)
+- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/) (2026-09-18)
 
 </details>
 
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/) (2026-09-16)
-- [Epstein had huge cache of child sex pics; victims sue to find out who's in them](https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/) (2026-09-16)
-- [Nonprofit that tracks meteors taken down by "critical blow" from a cyberattack](https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/) (2026-09-16)
-- [Lionsgate releases a new trailer for Sunrise on the Reaping](https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/) (2026-09-16)
-- [Not just Proton: Getting to know Valve's new SteamOS compatibility layers](https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/) (2026-09-16)
+- [RFK Jr. names 8 new members to influential preventive medicine task force](https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/) (2026-09-17)
+- [Small AI models let drones autonomously identify and attack battlefield targets](https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/) (2026-09-17)
+- [Google announces new experimental "CC" AI agent for families](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/) (2026-09-17)
+- [Microsoft exec called AI scraping the “largest theft of labor in human history”](https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/) (2026-09-17)
+- [Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites](https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/) (2026-09-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The specter of AI-enabled bioweapons is a wake-up call for biotech](https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/) (2026-09-18)
 - [The Download: mice with part-human brains and climate tech innovators](https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/) (2026-09-17)
 - [Meet the innovators under 35 shaping climate tech](https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/) (2026-09-17)
 - [Meet a mouse whose brain cortex is made up of human cells](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/) (2026-09-16)
 - [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) (2026-09-16)
-- [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/) (2026-09-16)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/) (2026-09-17)
 - [From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/) (2026-09-15)
 - [AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/) (2026-09-15)
 - [AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/) (2026-09-11)
 - [(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/) (2026-09-10)
-- [Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LEGO Architecture ใน Flutter วิธีจัดโค้ดให้ต่อได้เหมือนตัวต่อ](https://dev.to/sarantoon/lego-architecture-ain-flutter-withiicchadokhdaihtaidehmuuentawt-5feh) (2026-09-18)
-- [Harness Engineering: o dev que não conhece vai ficar pra trás?](https://dev.to/tiagovilasboas/harness-engineering-o-dev-que-nao-conhece-vai-ficar-pra-tras-5cn6) (2026-09-18)
-- [Your Team Has AI. Why Are You Still Chasing the Work?](https://dev.to/coryntas/your-team-has-ai-why-are-you-still-chasing-the-work-55j9) (2026-09-18)
-- [DNS Record Write Rejected Because Zone ID Is Not Domain Name — Validation Debug](https://dev.to/florianblake3536/dns-record-write-rejected-because-zone-id-is-not-domain-name-validation-debug-17gh) (2026-09-18)
-- [ข้างในระบบ SEO อัตโนมัติของ Fountain City ที่รันจริงมา 2 เดือน](https://dev.to/sarantoon/khaangainrabb-seo-atonmatikhng-fountain-city-thiirancchringmaa-2-eduuen-e9k) (2026-09-18)
+- [Maven Basics](https://dev.to/linara07/maven-basics-4oon) (2026-09-18)
+- [n8n’s Telegram Expense Template Turns Voice and Text Into Google Sheets Entries](https://dev.to/alifar/n8ns-telegram-expense-template-turns-voice-and-text-into-google-sheets-entries-5f33) (2026-09-18)
+- [You Read Your Code and Installed Everybody Else's](https://dev.to/sergueyasaelshinder/you-read-your-code-and-installed-everybody-elses-1h09) (2026-09-18)
+- [CSS Position Properties:](https://dev.to/sathish_kumar_967/css-position-properties-12a7) (2026-09-18)
+- [An isinstance(str) check that was always False capped every Facebook Page at exactly 3 posts](https://dev.to/devil_scrapes/an-isinstancestr-check-that-was-always-false-capped-every-facebook-page-at-exactly-3-posts-4od1) (2026-09-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Agent Loops: State, Steps and Stopping Conditions](https://medium.com/@scosmexs/agent-loops-state-steps-and-stopping-conditions-f8b889cebb7c?source=rss------programming-5) (2026-09-18)
-- [Ubuntu vs Debian for Servers: The Decision Nobody Explains Properly](https://medium.com/codex/ubuntu-vs-debian-for-servers-the-decision-nobody-explains-properly-b84c24c38d4c?source=rss------programming-5) (2026-09-18)
-- [Luminary Quantom Labs : First](https://medium.com/@franciscojosemunoz/luminary-quantom-labs-first-25d436c9cd25?source=rss------programming-5) (2026-09-18)
-- [AI Didn’t Make You a Worse Developer. It Deleted Your Mistakes.](https://medium.com/@jaberadam2001/ai-didnt-make-you-a-worse-developer-it-deleted-your-mistakes-ef2c3ed0238d?source=rss------programming-5) (2026-09-18)
-- [A Vending Machine Has to Prove It Can Make Change Before It Commits to Anything](https://medium.com/@iamakashrout/a-vending-machine-has-to-prove-it-can-make-change-before-it-commits-to-anything-c4c6bb273e91?source=rss------programming-5) (2026-09-18)
+- [Redis Made Our API 10x Faster. Then One Expired Key Took Down the Database.](https://medium.com/codeelevation/redis-made-our-api-10x-faster-then-one-expired-key-took-down-the-database-49835e95504e?source=rss------programming-5) (2026-09-18)
+- [We Used CompletableFuture to Make Our Java API Faster. Under Load, It Became 3x Slower.](https://javascript.plainenglish.io/we-used-completablefuture-to-make-our-java-api-faster-under-load-it-became-3x-slower-90dd592a9015?source=rss------programming-5) (2026-09-18)
+- [Our Spring Boot Endpoint Executed 201 SQL Queries. The Repository Had Only One Line.](https://medium.com/spring-boot/our-spring-boot-endpoint-executed-201-sql-queries-the-repository-had-only-one-line-d71eab7b7278?source=rss------programming-5) (2026-09-18)
+- [Python said, “Let’s Talk About Relationships” (Object-Oriented Ones).](https://medium.com/@khadeemeedey/python-said-lets-talk-about-relationships-object-oriented-ones-6c06f477475d?source=rss------programming-5) (2026-09-18)
+- [The Cancellation Pattern Almost Nobody Implements Correctly](https://habtesoft.medium.com/the-cancellation-pattern-almost-nobody-implements-correctly-2a98c334295d?source=rss------programming-5) (2026-09-18)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [GLM 5.3 FlashX now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway) (2026-09-18)
 - [Sub-second artifact deployments are now supported in Vercel CLI](https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli) (2026-09-17)
 - [Turbo build machines can now be enabled per deployment](https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment) (2026-09-17)
 - [Run Terminal-Bench and other Harbor evals on Vercel Sandbox](https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox) (2026-09-17)
 - [The skills CLI now supports Notion hosted skills](https://vercel.com/changelog/skills-cli-notion-skills) (2026-09-17)
-- [Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend](https://vercel.com/blog/ai-gateway-production-index-september-2026) (2026-09-17)
 
 </details>
 
@@ -593,11 +593,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Recursive Self-Improvement: The Last AI Built by Humans ](https://www.analyticsvidhya.com/blog/2026/09/recursive-self-improvement/) (2026-09-18)
 - [LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale ](https://www.analyticsvidhya.com/blog/2026/09/mlops-vs-llmops-vs-agentops/) (2026-09-17)
 - [Top 5 Agentic Coding CLI Tools Developers Should Know in 2026 ](https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/) (2026-09-15)
 - [5 ChatGPT 2.5 Features to Try Today!](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/) (2026-09-11)
 - [Bodhan AI Releases Four Indic Models for OCR, Translation and Speech ](https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/) (2026-09-10)
-- [The Four Caches in LLM Serving ](https://www.analyticsvidhya.com/blog/2026/09/four-caches-in-llm-serving/) (2026-09-08)
 
 </details>
 
