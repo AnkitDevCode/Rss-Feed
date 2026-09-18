@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) (2026-09-17)
-- [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/) (2026-09-17)
-- [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/) (2026-09-17)
-- [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/) (2026-09-17)
-- [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) (2026-09-17)
+- [Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/) (2026-09-18)
+- [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/) (2026-09-17)
+- [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/) (2026-09-17)
+- [Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/) (2026-09-17)
+- [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) (2026-09-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Astra for Law](https://openai.com/index/astra-for-law/) (2026-09-17)
-- [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html) (2026-09-17)
-- [Don't Just Say Hello](https://nohello.net/en/) (2026-09-17)
-- [Canto: A speech model built for the real world](https://wisprflow.ai/canto) (2026-09-17)
-- [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/) (2026-09-17)
+- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online) (2026-09-18)
+- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) (2026-09-18)
+- [Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe](https://github.com/aardappel/goose/tree/master) (2026-09-18)
+- [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) (2026-09-17)
+- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/) (2026-09-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027) (2026-09-18)
 - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) (2026-09-17)
 - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) (2026-09-17)
 - [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale) (2026-09-17)
 - [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad) (2026-09-17)
-- [Camp Snap’s 110D gives slim retro film cameras a digital upgrade](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film) (2026-09-17)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI-to-AI Payments: Why Autonomous Agents May Need Their Own Economy](https://dev.to/aonica/ai-to-ai-payments-why-autonomous-agents-may-need-their-own-economy-3k1) (2026-09-17)
-- [Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5) (2026-09-17)
-- [Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l) (2026-09-17)
-- [I never fully understood Python for loops until I grasped the range function. Here is what I learnt](https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312) (2026-09-17)
-- [Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access](https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g) (2026-09-17)
+- [LEGO Architecture ใน Flutter วิธีจัดโค้ดให้ต่อได้เหมือนตัวต่อ](https://dev.to/sarantoon/lego-architecture-ain-flutter-withiicchadokhdaihtaidehmuuentawt-5feh) (2026-09-18)
+- [Harness Engineering: o dev que não conhece vai ficar pra trás?](https://dev.to/tiagovilasboas/harness-engineering-o-dev-que-nao-conhece-vai-ficar-pra-tras-5cn6) (2026-09-18)
+- [Your Team Has AI. Why Are You Still Chasing the Work?](https://dev.to/coryntas/your-team-has-ai-why-are-you-still-chasing-the-work-55j9) (2026-09-18)
+- [DNS Record Write Rejected Because Zone ID Is Not Domain Name — Validation Debug](https://dev.to/florianblake3536/dns-record-write-rejected-because-zone-id-is-not-domain-name-validation-debug-17gh) (2026-09-18)
+- [ข้างในระบบ SEO อัตโนมัติของ Fountain City ที่รันจริงมา 2 เดือน](https://dev.to/sarantoon/khaangainrabb-seo-atonmatikhng-fountain-city-thiirancchringmaa-2-eduuen-e9k) (2026-09-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Let AI Review Every Pull Request for 30 Days. The Best Engineer on the Team Started Ignoring It.](https://ai.plainenglish.io/we-let-ai-review-every-pull-request-for-30-days-the-best-engineer-on-the-team-started-ignoring-it-df4ca2dcdfdb?source=rss------programming-5) (2026-09-17)
-- [AI Is Not Replacing Senior Engineers. It Is Quietly Removing the Need for Junior Ones.](https://medium.com/lets-code-future/ai-is-not-replacing-senior-engineers-it-is-quietly-removing-the-need-for-junior-ones-0792f6b2b075?source=rss------programming-5) (2026-09-17)
-- [I Reviewed 34 Production Retry Bugs. The Most Dangerous Line Was Usually retry(3).](https://levelup.gitconnected.com/i-reviewed-34-production-retry-bugs-the-most-dangerous-line-was-usually-retry-3-2eb3f264dcec?source=rss------programming-5) (2026-09-17)
-- [I Reviewed 18 Kafka Architectures. Most of Them Did Not Need Kafka.](https://javascript.plainenglish.io/i-reviewed-18-kafka-architectures-most-of-them-did-not-need-kafka-85aa7948b28f?source=rss------programming-5) (2026-09-17)
-- [15 Git Techniques That Are Already Installed and Nobody Uses](https://liu-111.medium.com/15-git-techniques-that-are-already-installed-and-nobody-uses-978c5e036e8b?source=rss------programming-5) (2026-09-17)
+- [Agent Loops: State, Steps and Stopping Conditions](https://medium.com/@scosmexs/agent-loops-state-steps-and-stopping-conditions-f8b889cebb7c?source=rss------programming-5) (2026-09-18)
+- [Ubuntu vs Debian for Servers: The Decision Nobody Explains Properly](https://medium.com/codex/ubuntu-vs-debian-for-servers-the-decision-nobody-explains-properly-b84c24c38d4c?source=rss------programming-5) (2026-09-18)
+- [Luminary Quantom Labs : First](https://medium.com/@franciscojosemunoz/luminary-quantom-labs-first-25d436c9cd25?source=rss------programming-5) (2026-09-18)
+- [AI Didn’t Make You a Worse Developer. It Deleted Your Mistakes.](https://medium.com/@jaberadam2001/ai-didnt-make-you-a-worse-developer-it-deleted-your-mistakes-ef2c3ed0238d?source=rss------programming-5) (2026-09-18)
+- [A Vending Machine Has to Prove It Can Make Change Before It Commits to Anything](https://medium.com/@iamakashrout/a-vending-machine-has-to-prove-it-can-make-change-before-it-commits-to-anything-c4c6bb273e91?source=rss------programming-5) (2026-09-18)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [New low-cost burstable Amazon EC2 T8i instances are generally available](https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/) (2026-09-17)
 - [AWS Elastic Beanstalk introduces Cluster Mode](https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/) (2026-09-17)
 - [AWS reimagines the getting started experience](https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/) (2026-09-16)
 - [AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/) (2026-09-14)
 - [Introducing Amazon EBS Volume Clones across AWS accounts](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/) (2026-09-09)
-- [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/) (2026-09-07)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Sub-second artifact deployments are now supported in Vercel CLI](https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli) (2026-09-17)
 - [Turbo build machines can now be enabled per deployment](https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment) (2026-09-17)
 - [Run Terminal-Bench and other Harbor evals on Vercel Sandbox](https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox) (2026-09-17)
 - [The skills CLI now supports Notion hosted skills](https://vercel.com/changelog/skills-cli-notion-skills) (2026-09-17)
-- [Native Marketplace integrations now support custom environments](https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations) (2026-09-17)
-- [Hobby projects now retain fewer deployments to free up storage](https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage) (2026-09-16)
+- [Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend](https://vercel.com/blog/ai-gateway-production-index-september-2026) (2026-09-17)
 
 </details>
 
@@ -384,6 +384,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How we AI-updated 1,138 Error-code Docs Pages
+](
+https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes
+) (2026-09-17)
+- [
+Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Peak Season
+](
+https://www.twilio.com/en-us/blog/products/messaging-hap-2026
+) (2026-09-17)
+- [
 On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
@@ -397,16 +407,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi
  What is CIAM in 2026 and why does it matter?
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
-) (2026-09-15)
-- [
-9 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-09-15)
-- [
-How to Connect Your Twilio Agent to External APIs
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis
 ) (2026-09-15)
 
 </details>
@@ -560,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch Day Japan 2026 Comes to Tokyo on December 10](https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo/) (2026-09-18)
 - [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/) (2026-09-16)
 - [Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell](https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell/) (2026-09-16)
 - [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/) (2026-09-11)
 - [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/) (2026-09-10)
-- [Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China](https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/) (2026-09-08)
 
 </details>
 
@@ -576,17 +576,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 - [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) (2026-09-08)
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) (2026-09-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries](https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/) (2026-09-17)
-- [Lidl deploys driverless truck for store deliveries in Germany](https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/) (2026-09-17)
-- [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/) (2026-09-16)
-- [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/) (2026-09-16)
-- [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/) (2026-09-15)
 
 </details>
 
@@ -609,6 +598,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-tw
 - [5 ChatGPT 2.5 Features to Try Today!](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/) (2026-09-11)
 - [Bodhan AI Releases Four Indic Models for OCR, Translation and Speech ](https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/) (2026-09-10)
 - [The Four Caches in LLM Serving ](https://www.analyticsvidhya.com/blog/2026/09/four-caches-in-llm-serving/) (2026-09-08)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field](https://www.kdnuggets.com/2026/09/prnews.io/whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field) (2026-09-17)
+- [What’s So Good About ChatGPT Work? Here’s What I Found](https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found) (2026-09-17)
+- [5 Free Zoomcamps From Data Pipelines to AI Agents](https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents) (2026-09-17)
+- [Estimators in Scikit-LLM: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet) (2026-09-16)
+- [How to Build Effective Evals for AI Agents](https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents) (2026-09-16)
 
 </details>
 
