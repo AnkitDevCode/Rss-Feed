@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) (2026-09-19)
+- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) (2026-09-19)
+- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) (2026-09-19)
 - [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/) (2026-09-19)
 - [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/) (2026-09-19)
-- [A startup that builds other startups raised $100M and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/) (2026-09-18)
-- [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/) (2026-09-18)
-- [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/) (2026-09-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI posters don't have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) (2026-09-19)
-- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) (2026-09-19)
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/) (2026-09-19)
-- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219) (2026-09-19)
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) (2026-09-19)
+- [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951) (2026-09-19)
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) (2026-09-19)
+- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/) (2026-09-19)
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) (2026-09-19)
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) (2026-09-18)
-- [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force) (2026-09-18)
-- [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai) (2026-09-18)
-- [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera) (2026-09-18)
-- [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch) (2026-09-18)
+- [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music) (2026-09-19)
+- [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale) (2026-09-19)
+- [Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition) (2026-09-19)
+- [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying) (2026-09-19)
+- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) (2026-09-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Learning another language may be one of the best ways to keep your brain healthy](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/) (2026-09-19)
+- [Rings around a tiny body have changed over the past decade](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/) (2026-09-19)
 - [AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) (2026-09-18)
 - [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/) (2026-09-18)
 - [FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/) (2026-09-18)
-- [Finding the cells that put our brain to sleep](https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/) (2026-09-18)
-- [US government website used Chinese model the FBI called "malicious"](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/) (2026-09-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Bedrock AgentCore Runtime: Multi-Model Migration from ECS to Managed Orchestration](https://dev.to/mech_app_ai/bedrock-agentcore-runtime-multi-model-migration-from-ecs-to-managed-orchestration-2j00) (2026-09-19)
-- [One new label multiplied our metrics by every order we take](https://dev.to/sergey_shinder_ab2d943365/one-new-label-multiplied-our-metrics-by-every-order-we-take-592l) (2026-09-19)
-- [Project LifeOps (Part 5): 24/7 Zero-Cost Cloud Deployment ($0/month), Mobile Optimization, and PWA](https://dev.to/datalaria/project-lifeops-part-5-247-zero-cost-cloud-deployment-0month-mobile-optimization-and-pwa-403n) (2026-09-19)
-- [I tried to check if our new blockchain tools were being used. The tool that would have told me was also silently broken — and so were two other things.](https://dev.to/presend/i-tried-to-check-if-our-new-blockchain-tools-were-being-used-the-tool-that-would-have-told-me-was-2b66) (2026-09-19)
-- [The configuration we changed in June arrived one pod at a time in August](https://dev.to/sergey_shinder_ab2d943365/the-configuration-we-changed-in-june-arrived-one-pod-at-a-time-in-august-3d7g) (2026-09-19)
+- [How I created a variant for the shadcn/ui <Input /> component](https://dev.to/kansoldev/how-i-created-a-variant-for-the-shadcnui-component-31ob) (2026-09-19)
+- [CyberDreams AI - Vibe-Coding a Strange Cyberpunk World with Sanity + Gemini](https://dev.to/vladimir_joseph_247918be4/cyberdreams-ai-vibe-coding-a-strange-cyberpunk-world-with-sanity-gemini-5b00) (2026-09-19)
+- [Why I built a local-first visual builder instead of another cloud SaaS](https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a) (2026-09-19)
+- [The Hidden Cost of Making AI Speak Indian Languages](https://dev.to/gnananveshreddy/the-hidden-cost-of-making-ai-speak-indian-languages-2eog) (2026-09-19)
+- [[Boost]](https://dev.to/dev_vaibhav_37/-424a) (2026-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Agents Changed Software Development. Most Developers Are Using Them Wrong](https://medium.com/@mohsho10/ai-coding-agents-changed-software-development-most-developers-are-using-them-wrong-220509459495?source=rss------programming-5) (2026-09-19)
-- [How to Format JSON and Catch What Formatting Cannot Fix](https://medium.com/@alltoolsverse/how-to-format-json-and-catch-what-formatting-cannot-fix-6ebd599e5dfa?source=rss------programming-5) (2026-09-19)
-- [SVG vs PNG vs WebP: The Icon Format Guide Nobody’s Giving You (2027)](https://medium.com/@iamvector03/svg-vs-png-vs-webp-the-icon-format-guide-nobodys-giving-you-2027-69b7f3c616bb?source=rss------programming-5) (2026-09-19)
-- [30 Billion Devices Run His Code. He Has Maintained It for 28 Years. Now AI Is Drowning in Fake Bugs](https://javascript.plainenglish.io/30-billion-devices-run-his-code-he-has-maintained-it-for-28-years-now-ai-is-drowning-in-fake-bugs-d026932104b9?source=rss------programming-5) (2026-09-19)
-- [You’re Not Getting Stuck Anymore. That’s the Problem.](https://medium.com/@jaberadam2001/youre-not-getting-stuck-anymore-that-s-the-problem-ad0f15135ee3?source=rss------programming-5) (2026-09-19)
+- [The Feature Flag We Forgot to Remove Rolled Back a Fix Six Months Later](https://javascript.plainenglish.io/the-feature-flag-we-forgot-to-remove-rolled-back-a-fix-six-months-later-1744ffed85a1?source=rss------programming-5) (2026-09-19)
+- [Why Your console.log Debugging Habit Is Actually a Good Instinct](https://javascript.plainenglish.io/why-your-console-log-debugging-habit-is-actually-a-good-instinct-141dfe34873f?source=rss------programming-5) (2026-09-19)
+- [I Asked 4 Python Datetime Libraries the Same 4 DST Questions. Two Got 0 out of 4.](https://medium.com/@nazmul_hasan/i-asked-4-python-datetime-libraries-the-same-4-dst-questions-two-got-0-out-of-4-e4eb5ba137cd?source=rss------programming-5) (2026-09-19)
+- [An AI Researcher Quit Over Existential Risk. What Does That Actually Tell Us?](https://medium.com/skillstuff/an-ai-researcher-quit-over-existential-risk-what-does-that-actually-tell-us-82029ca94ef1?source=rss------programming-5) (2026-09-19)
+- [Filters in ASP.NET Core MVC](https://medium.com/@rhutu.takle/filters-in-asp-net-core-mvc-6630ef652723?source=rss------programming-5) (2026-09-19)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores](https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/) (2026-09-19)
+- [AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.](https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/) (2026-09-19)
 - [Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them](https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/) (2026-09-18)
 - [We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.](https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/) (2026-09-18)
 - [Starting a Career in Data Science in the Age of AI](https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/) (2026-09-18)
-- [Multi-Agent Coding Isn’t Enough — Agents Need a Commitment Layer](https://towardsdatascience.com/multi-agent-coding-isnt-enough-agents-need-a-commitment-layer/) (2026-09-18)
-- [Building a Data Lakehouse with DuckDB and DuckLake](https://towardsdatascience.com/building-a-data-lakehouse-with-duckdb-and-ducklake/) (2026-09-17)
 
 </details>
 
