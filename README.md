@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (2026-09-19)
+- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) (2026-09-19)
+- [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/) (2026-09-19)
 - [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) (2026-09-19)
 - [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) (2026-09-19)
-- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) (2026-09-19)
-- [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/) (2026-09-19)
-- [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951) (2026-09-19)
+- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/) (2026-09-19)
+- [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob) (2026-09-19)
+- [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai) (2026-09-19)
+- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) (2026-09-19)
 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) (2026-09-19)
-- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/) (2026-09-19)
-- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) (2026-09-19)
-- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban) (2026-09-19)
+- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) (2026-09-19)
 - [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music) (2026-09-19)
 - [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale) (2026-09-19)
 - [Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition) (2026-09-19)
-- [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying) (2026-09-19)
-- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) (2026-09-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I created a variant for the shadcn/ui <Input /> component](https://dev.to/kansoldev/how-i-created-a-variant-for-the-shadcnui-component-31ob) (2026-09-19)
-- [CyberDreams AI - Vibe-Coding a Strange Cyberpunk World with Sanity + Gemini](https://dev.to/vladimir_joseph_247918be4/cyberdreams-ai-vibe-coding-a-strange-cyberpunk-world-with-sanity-gemini-5b00) (2026-09-19)
-- [Why I built a local-first visual builder instead of another cloud SaaS](https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a) (2026-09-19)
-- [The Hidden Cost of Making AI Speak Indian Languages](https://dev.to/gnananveshreddy/the-hidden-cost-of-making-ai-speak-indian-languages-2eog) (2026-09-19)
-- [[Boost]](https://dev.to/dev_vaibhav_37/-424a) (2026-09-19)
+- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless #3](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-3-k0d) (2026-09-19)
+- [Types of Context Rot in Harness Engineering](https://dev.to/coderonfleek/types-of-context-rot-in-harness-engineering-4fpc) (2026-09-19)
+- [Auto-localize prices in React with react-currency-localizer-realtime](https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2) (2026-09-19)
+- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9) (2026-09-19)
+- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j) (2026-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Feature Flag We Forgot to Remove Rolled Back a Fix Six Months Later](https://javascript.plainenglish.io/the-feature-flag-we-forgot-to-remove-rolled-back-a-fix-six-months-later-1744ffed85a1?source=rss------programming-5) (2026-09-19)
-- [Why Your console.log Debugging Habit Is Actually a Good Instinct](https://javascript.plainenglish.io/why-your-console-log-debugging-habit-is-actually-a-good-instinct-141dfe34873f?source=rss------programming-5) (2026-09-19)
-- [I Asked 4 Python Datetime Libraries the Same 4 DST Questions. Two Got 0 out of 4.](https://medium.com/@nazmul_hasan/i-asked-4-python-datetime-libraries-the-same-4-dst-questions-two-got-0-out-of-4-e4eb5ba137cd?source=rss------programming-5) (2026-09-19)
-- [An AI Researcher Quit Over Existential Risk. What Does That Actually Tell Us?](https://medium.com/skillstuff/an-ai-researcher-quit-over-existential-risk-what-does-that-actually-tell-us-82029ca94ef1?source=rss------programming-5) (2026-09-19)
-- [Filters in ASP.NET Core MVC](https://medium.com/@rhutu.takle/filters-in-asp-net-core-mvc-6630ef652723?source=rss------programming-5) (2026-09-19)
+- [AI Agents Just Rewrote Postgres in Rust and Passed Every One of Its 46,066 Tests.](https://medium.com/@thedevnotebook/postgres-rust-rewrite-ai-fuzzer-b4c6896ef590?source=rss------programming-5) (2026-09-19)
+- [IBM Sold Its Most Advanced Operating System Without a Screen](https://medium.com/it-chronicles/ibm-sold-its-most-advanced-operating-system-without-a-screen-e812c1cd709b?source=rss------programming-5) (2026-09-19)
+- [Angular Interview Q&A : Part 1 Angular Fundamentals](https://medium.com/@me.jahirahmed/angular-interview-q-a-part-1-angular-fundamentals-63b58a622cab?source=rss------programming-5) (2026-09-19)
+- [Hands‑On Healing: Scholars Tackle Fragile Papyrus in Michigan’s Rare Summer Seminar](https://medium.com/@StudyBuddyC/hands-on-healing-scholars-tackle-fragile-papyrus-in-michigans-rare-summer-seminar-44ff567ccaa8?source=rss------programming-5) (2026-09-19)
+- [Beyond zstd: A Lossless Compressor That Pushes the Pareto Frontier](https://medium.com/@FrankAzzollini/beyond-zstd-a-lossless-compressor-that-pushes-the-pareto-frontier-a5bcf82fd027?source=rss------programming-5) (2026-09-19)
 
 </details>
 
