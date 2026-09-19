@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) (2026-09-19)
-- [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html) (2026-09-19)
-- [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) (2026-09-19)
-- [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions) (2026-09-18)
-- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) (2026-09-18)
+- [AI posters don't have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) (2026-09-19)
+- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) (2026-09-19)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/) (2026-09-19)
+- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219) (2026-09-19)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) (2026-09-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Using the Grok API to Reduce the Effort of Keeping Up with AI](https://dev.to/tohru_yaginuma_4f041533c6/using-the-grok-api-to-reduce-the-effort-of-keeping-up-with-ai-3edk) (2026-09-19)
-- [Our test clicked a button our users couldn't reach](https://dev.to/enderyentar/our-test-clicked-a-button-our-users-couldnt-reach-2pkc) (2026-09-19)
-- [Laramod: Laravel modules without the magic that still feels magical](https://dev.to/saad_bb96774c5b24fb8a193c/laramod-laravel-modules-without-the-magic-that-still-feels-magical-10h) (2026-09-19)
-- [How to Stop a Leaked AI Agent Key From Still Working With Kinde Access Tokens](https://dev.to/sholajegede/how-to-stop-a-leaked-ai-agent-key-from-still-working-with-kinde-access-tokens-2je5) (2026-09-19)
-- [Gray-Scale Risk Control: Dynamic Scaling Instead of Hard Veto for High-Score Signals](https://dev.to/kestrelquant/gray-scale-risk-control-dynamic-scaling-instead-of-hard-veto-for-high-score-signals-c4a) (2026-09-19)
+- [Bedrock AgentCore Runtime: Multi-Model Migration from ECS to Managed Orchestration](https://dev.to/mech_app_ai/bedrock-agentcore-runtime-multi-model-migration-from-ecs-to-managed-orchestration-2j00) (2026-09-19)
+- [One new label multiplied our metrics by every order we take](https://dev.to/sergey_shinder_ab2d943365/one-new-label-multiplied-our-metrics-by-every-order-we-take-592l) (2026-09-19)
+- [Project LifeOps (Part 5): 24/7 Zero-Cost Cloud Deployment ($0/month), Mobile Optimization, and PWA](https://dev.to/datalaria/project-lifeops-part-5-247-zero-cost-cloud-deployment-0month-mobile-optimization-and-pwa-403n) (2026-09-19)
+- [I tried to check if our new blockchain tools were being used. The tool that would have told me was also silently broken — and so were two other things.](https://dev.to/presend/i-tried-to-check-if-our-new-blockchain-tools-were-being-used-the-tool-that-would-have-told-me-was-2b66) (2026-09-19)
+- [The configuration we changed in June arrived one pod at a time in August](https://dev.to/sergey_shinder_ab2d943365/the-configuration-we-changed-in-june-arrived-one-pod-at-a-time-in-august-3d7g) (2026-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Java Works Under the Hood: Does Every App Get Its Own JVM?](https://sahankekulandara.medium.com/how-java-works-under-the-hood-does-every-app-get-its-own-jvm-acb125048f41?source=rss------programming-5) (2026-09-19)
-- [3 Ways to Understand Any New Codebase](https://pawannatekar220.medium.com/3-ways-to-understand-any-new-codebase-15f1bc3b751d?source=rss------programming-5) (2026-09-19)
-- [Agent Memory: How AI Systems Remember Across Interactions](https://medium.com/@scosmexs/agent-memory-how-ai-systems-remember-across-interactions-cacd59765176?source=rss------programming-5) (2026-09-19)
-- [OpenAI's Codex Ships Two Subagent Toolsets. The Agents API Matches Neither.](https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss------programming-5) (2026-09-19)
-- [The Pragmatic Programmer by a GenZ — Chapter 9](https://chhanamthorat.medium.com/the-pragmatic-programmer-by-a-genz-chapter-9-aab4fee0653f?source=rss------programming-5) (2026-09-19)
+- [AI Coding Agents Changed Software Development. Most Developers Are Using Them Wrong](https://medium.com/@mohsho10/ai-coding-agents-changed-software-development-most-developers-are-using-them-wrong-220509459495?source=rss------programming-5) (2026-09-19)
+- [How to Format JSON and Catch What Formatting Cannot Fix](https://medium.com/@alltoolsverse/how-to-format-json-and-catch-what-formatting-cannot-fix-6ebd599e5dfa?source=rss------programming-5) (2026-09-19)
+- [SVG vs PNG vs WebP: The Icon Format Guide Nobody’s Giving You (2027)](https://medium.com/@iamvector03/svg-vs-png-vs-webp-the-icon-format-guide-nobodys-giving-you-2027-69b7f3c616bb?source=rss------programming-5) (2026-09-19)
+- [30 Billion Devices Run His Code. He Has Maintained It for 28 Years. Now AI Is Drowning in Fake Bugs](https://javascript.plainenglish.io/30-billion-devices-run-his-code-he-has-maintained-it-for-28-years-now-ai-is-drowning-in-fake-bugs-d026932104b9?source=rss------programming-5) (2026-09-19)
+- [You’re Not Getting Stuck Anymore. That’s the Problem.](https://medium.com/@jaberadam2001/youre-not-getting-stuck-anymore-that-s-the-problem-ad0f15135ee3?source=rss------programming-5) (2026-09-19)
 
 </details>
 
