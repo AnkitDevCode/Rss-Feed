@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/) (2026-09-18)
-- [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) (2026-09-18)
-- [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/) (2026-09-18)
-- [In India, the new iPhone can arrive faster than a pizza](https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/) (2026-09-18)
-- [Google’s new ‘CC’ is an AI agent that helps families run their households](https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/) (2026-09-18)
+- [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/) (2026-09-19)
+- [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/) (2026-09-19)
+- [A startup that builds other startups raised $100M and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/) (2026-09-18)
+- [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/) (2026-09-18)
+- [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/) (2026-09-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) (2026-09-18)
-- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) (2026-09-18)
-- [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215) (2026-09-18)
-- [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) (2026-09-18)
-- [Apple releases iPhone Duo simulator and Xcode 27.1 beta](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) (2026-09-18)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) (2026-09-19)
+- [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html) (2026-09-19)
+- [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) (2026-09-19)
+- [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions) (2026-09-18)
+- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) (2026-09-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) (2026-09-18)
 - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force) (2026-09-18)
 - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai) (2026-09-18)
 - [The real story of the iPhone 18 Pro&#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera) (2026-09-18)
 - [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch) (2026-09-18)
-- [What Hollywood thinks about existential AI warnings](https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings) (2026-09-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) (2026-09-18)
 - [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/) (2026-09-18)
 - [FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/) (2026-09-18)
 - [Finding the cells that put our brain to sleep](https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/) (2026-09-18)
 - [US government website used Chinese model the FBI called "malicious"](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/) (2026-09-18)
-- [Meet the winner of Nikon's Small World in Motion video contest](https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/) (2026-09-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Replacing Basic Auth with JWT and OAuth2 in Spring Security](https://dev.to/bilal_bukhari_75aeb34a969/replacing-basic-auth-with-jwt-and-oauth2-in-spring-security-h9k) (2026-09-18)
-- [Bookmarks for Your Terminal](https://dev.to/sizzlebop/bookmarks-for-your-terminal-efh) (2026-09-18)
-- [How to Check Laravel Page Memory Usage Without Guessing](https://dev.to/tahsin000/how-to-check-laravel-page-memory-usage-without-guessing-3mli) (2026-09-18)
-- [High-Performance In-Memory Graph Processing in Node.js: Zero-Hallucination Neuro-Symbolic AI](https://dev.to/programmingcentral/high-performance-in-memory-graph-processing-in-nodejs-zero-hallucination-neuro-symbolic-ai-3ioa) (2026-09-18)
-- [The beauty and terror of negative feedback](https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d) (2026-09-18)
+- [Using the Grok API to Reduce the Effort of Keeping Up with AI](https://dev.to/tohru_yaginuma_4f041533c6/using-the-grok-api-to-reduce-the-effort-of-keeping-up-with-ai-3edk) (2026-09-19)
+- [Our test clicked a button our users couldn't reach](https://dev.to/enderyentar/our-test-clicked-a-button-our-users-couldnt-reach-2pkc) (2026-09-19)
+- [Laramod: Laravel modules without the magic that still feels magical](https://dev.to/saad_bb96774c5b24fb8a193c/laramod-laravel-modules-without-the-magic-that-still-feels-magical-10h) (2026-09-19)
+- [How to Stop a Leaked AI Agent Key From Still Working With Kinde Access Tokens](https://dev.to/sholajegede/how-to-stop-a-leaked-ai-agent-key-from-still-working-with-kinde-access-tokens-2je5) (2026-09-19)
+- [Gray-Scale Risk Control: Dynamic Scaling Instead of Hard Veto for High-Score Signals](https://dev.to/kestrelquant/gray-scale-risk-control-dynamic-scaling-instead-of-hard-veto-for-high-score-signals-c4a) (2026-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Obfuscator & Virtualizer](https://medium.com/swlh/python-obfuscator-virtualizer-644a0a9252bb?source=rss------programming-5) (2026-09-18)
-- [TaskBucks App Real or Fake? My 7 Days Testing](https://medium.com/@pooja78615/taskbucks-app-real-or-fake-my-7-days-testing-493907f15c30?source=rss------programming-5) (2026-09-18)
-- [I Gave My Hermes Agent Memory. Then It Started Lying to Me With Confidence.](https://pub.towardsai.net/i-gave-my-hermes-agent-memory-then-it-started-lying-to-me-with-confidence-bf6fbe8ac6ae?source=rss------programming-5) (2026-09-18)
-- [The AI Coding Boom Has a Margin Problem](https://medium.com/@the.coding.front/the-ai-coding-boom-has-a-margin-problem-93f95e2eaae9?source=rss------programming-5) (2026-09-18)
-- [Coding with AI: Is the Role of Software Engineers Changing, or Evolving?](https://medium.com/@ardaaduranofficial/coding-with-ai-is-the-role-of-software-engineers-changing-or-evolving-8e77cbef0888?source=rss------programming-5) (2026-09-18)
+- [How Java Works Under the Hood: Does Every App Get Its Own JVM?](https://sahankekulandara.medium.com/how-java-works-under-the-hood-does-every-app-get-its-own-jvm-acb125048f41?source=rss------programming-5) (2026-09-19)
+- [3 Ways to Understand Any New Codebase](https://pawannatekar220.medium.com/3-ways-to-understand-any-new-codebase-15f1bc3b751d?source=rss------programming-5) (2026-09-19)
+- [Agent Memory: How AI Systems Remember Across Interactions](https://medium.com/@scosmexs/agent-memory-how-ai-systems-remember-across-interactions-cacd59765176?source=rss------programming-5) (2026-09-19)
+- [OpenAI's Codex Ships Two Subagent Toolsets. The Agents API Matches Neither.](https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss------programming-5) (2026-09-19)
+- [The Pragmatic Programmer by a GenZ — Chapter 9](https://chhanamthorat.medium.com/the-pragmatic-programmer-by-a-genz-chapter-9-aab4fee0653f?source=rss------programming-5) (2026-09-19)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/) (2026-09-18)
 - [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
 - [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/) (2026-09-17)
 - [See who spent your AI credits and set fair caps per team](https://about.gitlab.com/blog/new-usage-caps-2026/) (2026-09-17)
 - [New MCP tools help platform teams scale automation safely](https://about.gitlab.com/blog/new-mcp-tools-for-automation/) (2026-09-17)
-- [GitLab Duo CLI takes a task from goal to done](https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/) (2026-09-17)
 
 </details>
 
@@ -364,8 +364,8 @@
 - [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex) (2026-09-18)
 - [WebMCP support now available in mcp-handler](https://vercel.com/changelog/webmcp-mcp-handler) (2026-09-18)
 - [v0 now reads npm credentials from shared environment variables](https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables) (2026-09-18)
-- [GLM 5.3 FlashX now available on AI Gateway](https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway) (2026-09-18)
-- [Sub-second artifact deployments are now supported in Vercel CLI](https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli) (2026-09-17)
+- [Jev is the fastest-adopted model in AI Gateway history](https://vercel.com/blog/ai-gateway-jev-model-launch) (2026-09-18)
+- [Reproducing, disclosing, and fixing the libheif vulnerability with Hacktron and the maintainers](https://vercel.com/blog/reproducing-disclosing-and-fixing-the-libheif-vulnerability-with-hacktron-and-the-maintainers) (2026-09-18)
 
 </details>
 
@@ -525,11 +525,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>💬 Slack API</summary>
 
-- [Culture Change for Successful Teams](https://slack.com/blog/transformation/culture-change) (2026-09-17)
-- [Eight Tips for Successful Distributed Team Management](https://slack.com/blog/collaboration/distributed-team-management) (2026-09-17)
-- [Stages of Team Development: Make Collaboration Second Nature](https://slack.com/blog/collaboration/team-development) (2026-09-17)
-- [Why It’s Important to Improve the Employee Experience](https://slack.com/blog/collaboration/improve-employee-experience) (2026-09-17)
-- [Guide to Successful Incident Management Communication](https://slack.com/blog/collaboration/incident-management-communication) (2026-09-17)
+- [Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on](https://slack.com/blog/productivity/slack-surfaces) (2026-09-11)
+- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
+- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
+- [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
+- [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
 
 </details>
 
