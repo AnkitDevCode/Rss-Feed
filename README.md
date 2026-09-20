@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [A small but growing number of founders are betting on bringing people together offline](https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/) (2026-09-20)
-- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) (2026-09-20)
-- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) (2026-09-19)
-- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (2026-09-19)
-- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) (2026-09-19)
+- [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/) (2026-09-20)
+- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) (2026-09-20)
+- [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) (2026-09-20)
+- [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) (2026-09-20)
+- [New California law will penalize influencers who don’t disclose political ads](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/) (2026-09-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [system design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev) (2026-09-20)
-- [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108) (2026-09-20)
-- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1) (2026-09-20)
-- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/) (2026-09-20)
-- [The Millennium Problems for Biology](https://millenniumproblems.bio/) (2026-09-20)
+- [Why MCP Was Always a Bad Idea](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/) (2026-09-20)
+- [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/) (2026-09-20)
+- [Software Sandboxing: The Basics](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/) (2026-09-20)
+- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/) (2026-09-20)
+- [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/) (2026-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) (2026-09-20)
+- [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation) (2026-09-20)
+- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) (2026-09-20)
 - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) (2026-09-20)
 - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave) (2026-09-20)
-- [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator) (2026-09-20)
-- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) (2026-09-20)
-- [All roads lead to cable](https://www.theverge.com/column/997843/streamers-cable-fast-channels) (2026-09-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Free Sudoku Generation API with Rust and WebAssembly](https://dev.to/steven_chao_a66596ed7aaf8/how-i-built-a-free-sudoku-generation-api-with-rust-and-webassembly-89c) (2026-09-20)
-- [I downscaled a 1080p video to 480x270 to protect its quality](https://dev.to/maxslashwang/we-downscaled-a-1080p-video-to-480x270-to-protect-its-quality-1m46) (2026-09-20)
-- [How to Escape "Tutorial Hell" in 2026 (And Actually Build Projects)](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1) (2026-09-20)
-- [Building a development environment for Monkey: Part 1 - Syntax highlighting with Tree-sitter](https://dev.to/segniadebagodsson/building-a-development-environment-for-monkey-part-1-syntax-highlighting-with-tree-sitter-39oj) (2026-09-20)
-- [Iniciando meus estudos em Event Loop](https://dev.to/brendonhenrrique/-1c5g) (2026-09-20)
+- [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) (2026-09-20)
+- [The Neuro-Symbolic Revolution: Building an Enterprise Regulatory Audit & Fraud Detection System](https://dev.to/programmingcentral/the-neuro-symbolic-revolution-building-an-enterprise-regulatory-audit-fraud-detection-system-493e) (2026-09-20)
+- [I built a pipeline that turns a topic into a 20-30 minute documentary](https://dev.to/summitsingh/i-built-a-pipeline-that-turns-a-topic-into-a-20-30-minute-documentary-bfp) (2026-09-20)
+- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf) (2026-09-20)
+- [I turned a real OpenAPI into an MCP server in 5 min (without losing custom code on regen)](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k) (2026-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Ruby on Rails System Design: From Monolith to Scalable Production Systems](https://rajputlakhveer.medium.com/ruby-on-rails-system-design-from-monolith-to-scalable-production-systems-8a784d3ae06e?source=rss------programming-5) (2026-09-20)
-- [The Hidden Cost of AI Agents Nobody Talks About](https://medium.com/codetodeploy/the-hidden-cost-of-ai-agents-nobody-talks-about-7a0038babb80?source=rss------programming-5) (2026-09-20)
-- [AI Didn't Hack the Company Alone: Why the Human and Corporate Accountability Behind Autonomous AI…](https://medium.com/@litetechpoint1/ai-didnt-hack-the-company-alone-why-the-human-and-corporate-accountability-behind-autonomous-ai-39e4066c1b16?source=rss------programming-5) (2026-09-20)
-- [King John Seizes a Free Man. Chapter 39 Fires.](https://arxo.medium.com/king-john-seizes-a-free-man-chapter-39-fires-e8ac80c9376f?source=rss------programming-5) (2026-09-20)
-- [I Added pytest -n auto to 4 Real Test Suites. Two Got Slower and One Wanted 2 Workers, Not 8.](https://medium.com/@nazmul_hasan/i-added-pytest-n-auto-to-4-real-test-suites-two-got-slower-and-one-wanted-2-workers-not-8-fb128356332b?source=rss------programming-5) (2026-09-20)
+- [AI Coding Is Everywhere. But Is It Actually Making Developers Faster?](https://medium.com/@gauravshanker0206/ai-coding-is-everywhere-but-is-it-actually-making-developers-faster-dfb1e25c85c8?source=rss------programming-5) (2026-09-20)
+- [Handling Money in JavaScript: Why 0.1 + 0.2 Can Cost You Real Rupees](https://javascript.plainenglish.io/handling-money-in-javascript-why-0-1-0-2-can-cost-you-real-rupees-0ae7f831a94e?source=rss------programming-5) (2026-09-20)
+- [Von Neumann vs Harvard Architecture: How Computers Store and Access Instructions and Data](https://medium.com/@narek-sargsyan/von-neumann-vs-harvard-architecture-how-computers-store-and-access-instructions-and-data-9dbd558d303d?source=rss------programming-5) (2026-09-20)
+- [AI Agents Just Got a Production Runtime: What AWS and OpenAI’s Bedrock Move Means for Developers](https://medium.com/the-code-frontier/ai-agents-just-got-a-production-runtime-what-aws-and-openais-bedrock-move-means-for-developers-eaa6684492bd?source=rss------programming-5) (2026-09-20)
+- [I Thought My Java Resume Was Strong. Then I Looked at It Like a Recruiter](https://javatechonline.medium.com/i-thought-my-java-resume-was-strong-then-i-looked-at-it-like-a-recruiter-2a81d16d2047?source=rss------programming-5) (2026-09-20)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
