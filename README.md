@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A small but growing number of founders are betting on bringing people together offline](https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/) (2026-09-20)
+- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) (2026-09-20)
 - [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) (2026-09-19)
 - [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (2026-09-19)
 - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) (2026-09-19)
-- [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/) (2026-09-19)
-- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) (2026-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html) (2026-09-20)
-- [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282) (2026-09-20)
-- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors) (2026-09-20)
-- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com) (2026-09-20)
-- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/) (2026-09-20)
+- [system design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev) (2026-09-20)
+- [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108) (2026-09-20)
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1) (2026-09-20)
+- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/) (2026-09-20)
+- [The Millennium Problems for Biology](https://millenniumproblems.bio/) (2026-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy) (2026-09-19)
-- [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban) (2026-09-19)
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) (2026-09-19)
-- [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music) (2026-09-19)
-- [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale) (2026-09-19)
+- [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) (2026-09-20)
+- [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave) (2026-09-20)
+- [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator) (2026-09-20)
+- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) (2026-09-20)
+- [All roads lead to cable](https://www.theverge.com/column/997843/streamers-cable-fast-channels) (2026-09-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [An undercover Google analyst infiltrated a notorious supply-chain hacking gang](https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/) (2026-09-20)
+- [Don't call it an SUV: The Ferrari Purosangue review](https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/) (2026-09-20)
 - [T. rex teeth indicate it ran as warm as an elephant](https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/) (2026-09-20)
 - [Learning another language may be one of the best ways to keep your brain healthy](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/) (2026-09-19)
 - [Rings around a tiny body have changed over the past decade](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/) (2026-09-19)
-- [AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) (2026-09-18)
-- [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/) (2026-09-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Hybrid RAG System: Combining Neo4j Graph Memory with Vector Search](https://dev.to/rajanpanwar/building-a-hybrid-rag-system-combining-neo4j-graph-memory-with-vector-search-4mng) (2026-09-20)
-- [Building a tested calculator in the Uniface 10 IDE](https://dev.to/f345345dfg/building-a-tested-calculator-in-the-uniface-10-ide-c73) (2026-09-20)
-- [Point the official Sentry SDK at self-hosted ingest (DSN only)](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2) (2026-09-20)
-- [FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8) (2026-09-20)
-- [Using claude routines with github](https://dev.to/codecowboydotio/using-claude-routines-with-github-501f) (2026-09-20)
+- [How I Built a Free Sudoku Generation API with Rust and WebAssembly](https://dev.to/steven_chao_a66596ed7aaf8/how-i-built-a-free-sudoku-generation-api-with-rust-and-webassembly-89c) (2026-09-20)
+- [I downscaled a 1080p video to 480x270 to protect its quality](https://dev.to/maxslashwang/we-downscaled-a-1080p-video-to-480x270-to-protect-its-quality-1m46) (2026-09-20)
+- [How to Escape "Tutorial Hell" in 2026 (And Actually Build Projects)](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1) (2026-09-20)
+- [Building a development environment for Monkey: Part 1 - Syntax highlighting with Tree-sitter](https://dev.to/segniadebagodsson/building-a-development-environment-for-monkey-part-1-syntax-highlighting-with-tree-sitter-39oj) (2026-09-20)
+- [Iniciando meus estudos em Event Loop](https://dev.to/brendonhenrrique/-1c5g) (2026-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Write Code When AI Can Write It for You: A Human Guide to Programming](https://medium.com/@umii35097/how-to-write-code-when-ai-can-write-it-for-you-a-human-guide-to-programming-3adee59e5ed8?source=rss------programming-5) (2026-09-20)
-- [Access and Refresh Token](https://medium.com/@jassalgurneet3/access-and-refresh-token-751466e2f5c7?source=rss------programming-5) (2026-09-20)
-- [VitalCare — Help when it Matters](https://medium.com/@scriptsnsenses/vitalcare-help-when-it-matters-f6db3b5a8b8f?source=rss------programming-5) (2026-09-20)
-- [CSR SSR SSG and ISR Rendering Methods Explained](https://medium.com/@parthbhovad710/csr-ssr-ssg-and-isr-rendering-methods-explained-5b601acca7aa?source=rss------programming-5) (2026-09-20)
-- [Menfess di Apk“X” Bisa Diupload Otomatis, Tapi Kenapa Nggak Bisa Dihapus Otomatis?](https://medium.com/@ayubamir1234/menfess-di-apk-x-bisa-diupload-otomatis-tapi-kenapa-nggak-bisa-dihapus-otomatis-a04b7dddd440?source=rss------programming-5) (2026-09-20)
+- [ Ruby on Rails System Design: From Monolith to Scalable Production Systems](https://rajputlakhveer.medium.com/ruby-on-rails-system-design-from-monolith-to-scalable-production-systems-8a784d3ae06e?source=rss------programming-5) (2026-09-20)
+- [The Hidden Cost of AI Agents Nobody Talks About](https://medium.com/codetodeploy/the-hidden-cost-of-ai-agents-nobody-talks-about-7a0038babb80?source=rss------programming-5) (2026-09-20)
+- [AI Didn't Hack the Company Alone: Why the Human and Corporate Accountability Behind Autonomous AI…](https://medium.com/@litetechpoint1/ai-didnt-hack-the-company-alone-why-the-human-and-corporate-accountability-behind-autonomous-ai-39e4066c1b16?source=rss------programming-5) (2026-09-20)
+- [King John Seizes a Free Man. Chapter 39 Fires.](https://arxo.medium.com/king-john-seizes-a-free-man-chapter-39-fires-e8ac80c9376f?source=rss------programming-5) (2026-09-20)
+- [I Added pytest -n auto to 4 Real Test Suites. Two Got Slower and One Wanted 2 Workers, Not 8.](https://medium.com/@nazmul_hasan/i-added-pytest-n-auto-to-4-real-test-suites-two-got-slower-and-one-wanted-2-workers-not-8-fb128356332b?source=rss------programming-5) (2026-09-20)
 
 </details>
 
@@ -578,24 +578,13 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) (2026-09-18)
-- [Fulcra Brings Universal Multiplayer to Any Agents You Choose ](https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/) (2026-09-18)
-- [Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries](https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/) (2026-09-17)
-- [Lidl deploys driverless truck for store deliveries in Germany](https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/) (2026-09-17)
-- [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/) (2026-09-16)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-09-20)
+- [CBAM Paper Walkthrough: The Double-Attention Mechanism](https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/) (2026-09-20)
 - [One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores](https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/) (2026-09-19)
 - [AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.](https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/) (2026-09-19)
 - [Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them](https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/) (2026-09-18)
-- [We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.](https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/) (2026-09-18)
-- [Starting a Career in Data Science in the Age of AI](https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/) (2026-09-18)
 
 </details>
 
