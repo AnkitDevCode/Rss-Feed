@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/) (2026-09-21)
-- [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/) (2026-09-21)
-- [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/) (2026-09-21)
-- [Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/) (2026-09-21)
-- [Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/) (2026-09-21)
+- [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) (2026-09-21)
+- [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/) (2026-09-21)
+- [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) (2026-09-21)
+- [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/) (2026-09-21)
+- [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/) (2026-09-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/) (2026-09-21)
-- [Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge) (2026-09-21)
-- [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data) (2026-09-21)
-- [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) (2026-09-21)
-- [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work) (2026-09-21)
+- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) (2026-09-21)
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) (2026-09-21)
+- [Show HN: A website that tracks US food prices every day](https://www.kadoa.com/food-prices) (2026-09-21)
+- [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) (2026-09-21)
+- [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/) (2026-09-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google) (2026-09-21)
 - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement) (2026-09-21)
 - [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations) (2026-09-21)
 - [Grab an Xbox controller and a $50 Xbox gift card together for just $80](https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale) (2026-09-21)
 - [Can John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone) (2026-09-21)
-- [iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement) (2026-09-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Google confirms Gemini models hacked three companies in May 2026](https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/) (2026-09-21)
+- [Russel Vought will reportedly be given veto power over all NIH grants](https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/) (2026-09-21)
 - [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/) (2026-09-21)
 - [Trump rejects AI slowdown calls, launches "AI Force" instead](https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/) (2026-09-21)
 - [Review: Neagley is a worthy spinoff to megahit Reacher](https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/) (2026-09-21)
-- [Apple Mac mini review: The new M6 impresses, but the price hike is rough](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/) (2026-09-21)
-- [Googlebooks launch October 4 starting at $899—here are the five models you can preorder today](https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/) (2026-09-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Autonomous Agents: How to Set 3 Spend Limits They Cannot Edit](https://dev.to/eliasfischer8351/autonomous-agents-how-to-set-3-spend-limits-they-cannot-edit-4m6o) (2026-09-21)
-- [Mathematical Formulation of Continuous-Duty Thermal Ampacity in Residential EVSE Systems](https://dev.to/miad_ea7faef80e5125861119/mathematical-formulation-of-continuous-duty-thermal-ampacity-in-residential-evse-systems-459c) (2026-09-21)
-- [git stash a Single File Without Losing the Rest](https://dev.to/mrsaynothing/git-stash-a-single-file-without-losing-the-rest-4jcn) (2026-09-21)
-- [EXPLAIN (ANALYZE, IO) in PostgreSQL 19](https://dev.to/franckpachot/explain-analyze-io-in-postgresql-19-igh) (2026-09-21)
-- [The agent refused to delete our "dead" backend. It was right.](https://dev.to/rachidsahane/the-agent-refused-to-delete-our-dead-backend-it-was-right-4bal) (2026-09-21)
+- [Why I built Animal Sudoku without a single ad](https://dev.to/ganchclub/why-i-built-animal-sudoku-without-a-single-ad-25oi) (2026-09-21)
+- [I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.](https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i) (2026-09-21)
+- [I built 84 free CSS tools in one place — no login, no ads, just tools](https://dev.to/nxco02/i-built-84-free-css-tools-in-one-place-no-login-no-ads-just-tools-2mh9) (2026-09-21)
+- [SpikeForge grew into a toolkit, a model hub and a dashboard](https://dev.to/w4ffl35/spikeforge-grew-into-a-toolkit-a-model-hub-and-a-dashboard-37k3) (2026-09-21)
+- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4) (2026-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [An MCP Server Stayed Clean for Three Tool Calls, Then Went Hunting for SSH Keys](https://medium.com/@chenyuan19920509/an-mcp-server-stayed-clean-for-three-tool-calls-then-went-hunting-for-ssh-keys-f210944e9190?source=rss------programming-5) (2026-09-21)
-- [Nineteen CVEs Carry Fastjson’s Name. Three Are Actually Its Bugs. He Archived It Anyway.](https://medium.com/programmers-career/nineteen-cves-carry-fastjsons-name-three-are-actually-its-bugs-he-archived-it-anyway-b9192da8d1cd?source=rss------programming-5) (2026-09-21)
-- [72 Hours Between Opus 5 Shipping and OpenAI’s GitHub Org Getting Owned. Your Codex Token Is Next.](https://medium.com/c-sharp-programming/72-hours-between-opus-5-shipping-and-openais-github-org-getting-owned-your-codex-token-is-next-55c3a91fd55d?source=rss------programming-5) (2026-09-21)
-- [The Day Cars Started Getting Smarter While You Slept](https://medium.com/@bhargavamandapati/the-day-cars-started-getting-smarter-while-you-slept-8f1e0c9fd1dc?source=rss------programming-5) (2026-09-21)
-- [I Built a ‘Hack-Proof’ Rate Limiter. A User Bypassed It in 30 Seconds Using a Single HTTP Header.](https://medium.com/@rameshkannanyt0078/i-built-a-hack-proof-rate-limiter-a-user-bypassed-it-in-30-seconds-using-a-single-http-header-ede6fbefca33?source=rss------programming-5) (2026-09-21)
+- [I Gave an AI Agent Permission to Deploy My Code. Then I Watched What It Did.](https://medium.com/@the_atomic_architect/ai-agents-devops-deploy-code-production-038428980c77?source=rss------programming-5) (2026-09-21)
+- [I Was Using Claude Wrong for 3 Weeks. Here’s the Shift That Changed Everything](https://medium.com/activated-thinker/i-was-using-claude-wrong-for-3-weeks-heres-the-shift-that-changed-everything-d9cf7abf8907?source=rss------programming-5) (2026-09-21)
+- [Why Is My Local LLM So Slow? Half of It You Can Fix Tonight](https://pub.towardsai.net/why-is-my-local-llm-so-slow-half-of-it-you-can-fix-tonight-da7283a8adf6?source=rss------programming-5) (2026-09-21)
+- [How to Integrate an LLM into a Modern Web Application: A Practical Guide for Developers](https://erma0x.medium.com/how-to-integrate-an-llm-into-a-modern-web-application-a-practical-guide-for-developers-c2871cf827b7?source=rss------programming-5) (2026-09-21)
+- [Come Integrare un LLM in un’Applicazione Web Moderna: Guida Pratica per Sviluppatori e Startup](https://erma0x.medium.com/come-integrare-un-llm-in-unapplicazione-web-moderna-guida-pratica-per-sviluppatori-e-startup-bd18402a35c1?source=rss------programming-5) (2026-09-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/) (2026-09-21)
 - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/) (2026-09-21)
 - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/) (2026-09-21)
 - [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](https://blogs.nvidia.com/blog/ai-security-agent-stack/) (2026-09-21)
 - [5 Companies Using NVIDIA AI for Clean Energy](https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/) (2026-09-21)
-- [Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/) (2026-09-17)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/) (2026-09-18)
+- [GitLab 19.4 released](https://docs.gitlab.com/releases/19/gitlab-19-4-released/) (2026-09-18)
 - [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
 - [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/) (2026-09-17)
 - [See who spent your AI credits and set fair caps per team](https://about.gitlab.com/blog/new-usage-caps-2026/) (2026-09-17)
-- [New MCP tools help platform teams scale automation safely](https://about.gitlab.com/blog/new-mcp-tools-for-automation/) (2026-09-17)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
+](
+https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
+) (2026-09-22)
+- [
+Sending SMS with an Agentic AI using Twilio and Hermes Agent
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
+) (2026-09-21)
+- [
+More data won't make your AI smarter (here's what will)
+](
+https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
+) (2026-09-21)
+- [
 How we AI-updated 1,138 Error-code Docs Pages
 ](
 https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes
@@ -393,21 +408,6 @@ Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Pea
 ](
 https://www.twilio.com/en-us/blog/products/messaging-hap-2026
 ) (2026-09-17)
-- [
-On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
-) (2026-09-16)
-- [
-How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory
-) (2026-09-15)
-- [
- What is CIAM in 2026 and why does it matter?
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
-) (2026-09-15)
 
 </details>
 
@@ -504,8 +504,8 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 
 - [63% of developers have more work since non-devs began coding with AI, but most say it's good for the industry ](https://zapier.com/blog/ai-coding-survey) (2026-09-21)
 - [The 8 best AI sales assistant software in 2026](https://zapier.com/blog/ai-sales-assistant) (2026-09-18)
-- [The 7 best HR software for small businesses in 2026](https://zapier.com/blog/best-hr-software-for-small-businesses) (2026-09-18)
 - [The 6 best conversational AI platforms in 2026](https://zapier.com/blog/conversational-ai-platforms) (2026-09-18)
+- [The 7 best HR software for small businesses in 2026](https://zapier.com/blog/best-hr-software-for-small-businesses) (2026-09-18)
 - [The 9 best marketing automation software tools in 2026](https://zapier.com/blog/best-marketing-automation-software) (2026-09-17)
 
 </details>
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [TinyTorch: Don’t Just Import PyTorch. Build It.](https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it/) (2026-09-21)
 - [PyTorch Day Japan 2026 Comes to Tokyo on December 10](https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo/) (2026-09-18)
 - [Open Research, Tooling & Optimization at PyTorch Conference North America 2026](https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026/) (2026-09-16)
 - [Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell](https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell/) (2026-09-16)
 - [Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/) (2026-09-11)
-- [PyTorch Conference China 2026: Advancing the Open Source AI Stack](https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/) (2026-09-10)
 
 </details>
 
