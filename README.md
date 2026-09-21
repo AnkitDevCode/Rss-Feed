@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/) (2026-09-21)
-- [Amiga Unix, Again](https://amigaux.org/) (2026-09-20)
-- [DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO) (2026-09-20)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) (2026-09-20)
-- [Google's Open Agentic Orchestrator](https://agentexecutor.io) (2026-09-20)
+- [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/) (2026-09-21)
+- [ZuckOff Know when a camera is in the room](https://zuckoff.app/) (2026-09-21)
+- [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff) (2026-09-21)
+- [Jev-Leftpad](https://github.com/f/jev-leftpad) (2026-09-21)
+- [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) (2026-09-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Teardown details the iPhone 18 Pro’s mechanical camera](https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown) (2026-09-21)
+- [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle) (2026-09-21)
+- [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping) (2026-09-21)
 - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast) (2026-09-20)
-- [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) (2026-09-20)
-- [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation) (2026-09-20)
-- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) (2026-09-20)
-- [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) (2026-09-20)
+- [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) (2026-09-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A New Model Dropped. Don't Just Swap the ID.](https://dev.to/atsushi_hatchco/a-new-model-dropped-dont-just-swap-the-id-2a3e) (2026-09-21)
-- [Building FoxyInvoice — Chapter 5: The domain — invoices, tax, and money math](https://dev.to/seolith/building-foxyinvoice-chapter-5-the-domain-invoices-tax-and-money-math-56h7) (2026-09-21)
-- [Exposed Router Management: 8.09 Million RouterOS Assets and the 9,560 That Still Answer on SSH](https://dev.to/onaeiuspkz/exposed-router-management-809-million-routeros-assets-and-the-9560-that-still-answer-on-ssh-4aaa) (2026-09-21)
-- [Performance Tuning and Profiling: Enhancing Software Efficiency](https://dev.to/sharique_siddiqui_8242dad/performance-tuning-and-profiling-enhancing-software-efficiency-532m) (2026-09-21)
-- [Beyond the Veto: Implementing 'Conditional Approval' and Dynamic Risk Tuning in AI Trading Systems](https://dev.to/kestrelquant/beyond-the-veto-implementing-conditional-approval-and-dynamic-risk-tuning-in-ai-trading-systems-1754) (2026-09-21)
+- [A missing 'use client' shipped 165 games to play one of them](https://dev.to/daniel_pertu/a-missing-use-client-shipped-165-games-to-play-one-of-them-59gb) (2026-09-21)
+- [We shipped guest play at 17:39 and deleted it at 18:35](https://dev.to/daniel_pertu/we-shipped-guest-play-at-1739-and-deleted-it-at-1835-49b3) (2026-09-21)
+- [Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh) (2026-09-21)
+- [How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3) (2026-09-21)
+- [A New Take on Raw SQL in Python](https://dev.to/doekman/a-new-take-on-raw-sql-in-python-13ne) (2026-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 206 of Learning Android — Understanding Android Versions and Its Evolution](https://medium.com/@payalmehra3522/day-206-of-learning-android-understanding-android-versions-and-its-evolution-0c41d3e1f3db?source=rss------programming-5) (2026-09-21)
-- [Vector Databases: Storing and Searching Embeddings at Scale](https://medium.com/@scosmexs/vector-databases-storing-and-searching-embeddings-at-scale-e0f5cf1d177b?source=rss------programming-5) (2026-09-21)
-- [Most Developers Secure Login but Forget What Happens After It](https://medium.com/skillstuff/most-developers-secure-login-but-forget-what-happens-after-it-bfa5d0ebda21?source=rss------programming-5) (2026-09-21)
-- [If You Know These 7 SQL Queries, You Can Solve Most SQL Problems](https://javascript.plainenglish.io/if-you-know-these-7-sql-queries-you-can-solve-most-sql-problems-48f02fef3229?source=rss------programming-5) (2026-09-21)
-- [PBO: Pewarisan](https://medium.com/@sivanuraini0407/pbo-pewarisan-b39434cfbb21?source=rss------programming-5) (2026-09-21)
+- [Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE](https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------programming-5) (2026-09-21)
+- [8 Angular Patterns That Separate Beginner Code From Production Code](https://medium.com/@shubhamnalawade037/8-angular-patterns-that-separate-beginner-code-from-production-code-1226e401e257?source=rss------programming-5) (2026-09-21)
+- [Frontend Architecture Patterns You’ll Actually Use in Real Projects](https://mohammadtabishanwar9.medium.com/frontend-architecture-patterns-youll-actually-use-in-real-projects-ce4f5d37c28e?source=rss------programming-5) (2026-09-21)
+- [Four Ways AI Coding Agents Fail (and the Guardrails That Catch Them)](https://medium.com/codex/ai-coding-agent-failure-modes-guardrails-f36559c9baa5?source=rss------programming-5) (2026-09-21)
+- [Why Does AI-Written Code Follow Docs That Don’t Work?](https://ai-coding.medium.com/ai-api-docs-first-request-failure-bc8b02ab8186?source=rss------programming-5) (2026-09-21)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [5 Companies Using NVIDIA AI for Clean Energy](https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/) (2026-09-21)
 - [Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/) (2026-09-17)
 - [NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut](https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/) (2026-09-16)
 - [Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers](https://blogs.nvidia.com/blog/ai-energy-management-alliance/) (2026-09-16)
 - [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/) (2026-09-16)
-- [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/) (2026-09-15)
 
 </details>
 
@@ -578,13 +578,24 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [How to Improve Visibility Across Your Enterprise AI Ecosystem](https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/) (2026-09-21)
+- [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) (2026-09-18)
+- [Fulcra Brings Universal Multiplayer to Any Agents You Choose ](https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/) (2026-09-18)
+- [Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries](https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/) (2026-09-17)
+- [Lidl deploys driverless truck for store deliveries in Germany](https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/) (2026-09-17)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your AI Assistant Wrote the Code. Who Checked the Defaults?](https://towardsdatascience.com/your-ai-assistant-wrote-the-code-who-checked-the-defaults/) (2026-09-21)
 - [GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-09-20)
 - [CBAM Paper Walkthrough: The Double-Attention Mechanism](https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/) (2026-09-20)
 - [One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores](https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/) (2026-09-19)
 - [AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.](https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/) (2026-09-19)
-- [Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them](https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/) (2026-09-18)
 
 </details>
 
