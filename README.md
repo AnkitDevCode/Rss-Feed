@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) (2026-09-20)
+- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) (2026-09-20)
 - [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/) (2026-09-20)
 - [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) (2026-09-20)
 - [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) (2026-09-20)
-- [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) (2026-09-20)
-- [New California law will penalize influencers who don’t disclose political ads](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/) (2026-09-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why MCP Was Always a Bad Idea](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/) (2026-09-20)
-- [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/) (2026-09-20)
-- [Software Sandboxing: The Basics](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/) (2026-09-20)
-- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/) (2026-09-20)
-- [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/) (2026-09-20)
+- [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/) (2026-09-21)
+- [Amiga Unix, Again](https://amigaux.org/) (2026-09-20)
+- [DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO) (2026-09-20)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) (2026-09-20)
+- [Google's Open Agentic Orchestrator](https://agentexecutor.io) (2026-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast) (2026-09-20)
 - [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) (2026-09-20)
 - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation) (2026-09-20)
 - [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) (2026-09-20)
 - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) (2026-09-20)
-- [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave) (2026-09-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) (2026-09-20)
-- [The Neuro-Symbolic Revolution: Building an Enterprise Regulatory Audit & Fraud Detection System](https://dev.to/programmingcentral/the-neuro-symbolic-revolution-building-an-enterprise-regulatory-audit-fraud-detection-system-493e) (2026-09-20)
-- [I built a pipeline that turns a topic into a 20-30 minute documentary](https://dev.to/summitsingh/i-built-a-pipeline-that-turns-a-topic-into-a-20-30-minute-documentary-bfp) (2026-09-20)
-- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf) (2026-09-20)
-- [I turned a real OpenAPI into an MCP server in 5 min (without losing custom code on regen)](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k) (2026-09-20)
+- [A New Model Dropped. Don't Just Swap the ID.](https://dev.to/atsushi_hatchco/a-new-model-dropped-dont-just-swap-the-id-2a3e) (2026-09-21)
+- [Building FoxyInvoice — Chapter 5: The domain — invoices, tax, and money math](https://dev.to/seolith/building-foxyinvoice-chapter-5-the-domain-invoices-tax-and-money-math-56h7) (2026-09-21)
+- [Exposed Router Management: 8.09 Million RouterOS Assets and the 9,560 That Still Answer on SSH](https://dev.to/onaeiuspkz/exposed-router-management-809-million-routeros-assets-and-the-9560-that-still-answer-on-ssh-4aaa) (2026-09-21)
+- [Performance Tuning and Profiling: Enhancing Software Efficiency](https://dev.to/sharique_siddiqui_8242dad/performance-tuning-and-profiling-enhancing-software-efficiency-532m) (2026-09-21)
+- [Beyond the Veto: Implementing 'Conditional Approval' and Dynamic Risk Tuning in AI Trading Systems](https://dev.to/kestrelquant/beyond-the-veto-implementing-conditional-approval-and-dynamic-risk-tuning-in-ai-trading-systems-1754) (2026-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Is Everywhere. But Is It Actually Making Developers Faster?](https://medium.com/@gauravshanker0206/ai-coding-is-everywhere-but-is-it-actually-making-developers-faster-dfb1e25c85c8?source=rss------programming-5) (2026-09-20)
-- [Handling Money in JavaScript: Why 0.1 + 0.2 Can Cost You Real Rupees](https://javascript.plainenglish.io/handling-money-in-javascript-why-0-1-0-2-can-cost-you-real-rupees-0ae7f831a94e?source=rss------programming-5) (2026-09-20)
-- [Von Neumann vs Harvard Architecture: How Computers Store and Access Instructions and Data](https://medium.com/@narek-sargsyan/von-neumann-vs-harvard-architecture-how-computers-store-and-access-instructions-and-data-9dbd558d303d?source=rss------programming-5) (2026-09-20)
-- [AI Agents Just Got a Production Runtime: What AWS and OpenAI’s Bedrock Move Means for Developers](https://medium.com/the-code-frontier/ai-agents-just-got-a-production-runtime-what-aws-and-openais-bedrock-move-means-for-developers-eaa6684492bd?source=rss------programming-5) (2026-09-20)
-- [I Thought My Java Resume Was Strong. Then I Looked at It Like a Recruiter](https://javatechonline.medium.com/i-thought-my-java-resume-was-strong-then-i-looked-at-it-like-a-recruiter-2a81d16d2047?source=rss------programming-5) (2026-09-20)
+- [Day 206 of Learning Android — Understanding Android Versions and Its Evolution](https://medium.com/@payalmehra3522/day-206-of-learning-android-understanding-android-versions-and-its-evolution-0c41d3e1f3db?source=rss------programming-5) (2026-09-21)
+- [Vector Databases: Storing and Searching Embeddings at Scale](https://medium.com/@scosmexs/vector-databases-storing-and-searching-embeddings-at-scale-e0f5cf1d177b?source=rss------programming-5) (2026-09-21)
+- [Most Developers Secure Login but Forget What Happens After It](https://medium.com/skillstuff/most-developers-secure-login-but-forget-what-happens-after-it-bfa5d0ebda21?source=rss------programming-5) (2026-09-21)
+- [If You Know These 7 SQL Queries, You Can Solve Most SQL Problems](https://javascript.plainenglish.io/if-you-know-these-7-sql-queries-you-can-solve-most-sql-problems-48f02fef3229?source=rss------programming-5) (2026-09-21)
+- [PBO: Pewarisan](https://medium.com/@sivanuraini0407/pbo-pewarisan-b39434cfbb21?source=rss------programming-5) (2026-09-21)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
