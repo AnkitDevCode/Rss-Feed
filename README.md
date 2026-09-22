@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) (2026-09-21)
 - [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) (2026-09-21)
 - [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/) (2026-09-21)
 - [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) (2026-09-21)
 - [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/) (2026-09-21)
-- [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/) (2026-09-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) (2026-09-21)
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) (2026-09-21)
-- [Show HN: A website that tracks US food prices every day](https://www.kadoa.com/food-prices) (2026-09-21)
-- [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) (2026-09-21)
-- [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/) (2026-09-21)
+- [Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/) (2026-09-22)
+- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) (2026-09-22)
+- [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/) (2026-09-22)
+- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) (2026-09-21)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) (2026-09-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us) (2026-09-21)
+- [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses ](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river) (2026-09-21)
+- [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) (2026-09-21)
 - [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google) (2026-09-21)
 - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement) (2026-09-21)
-- [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations) (2026-09-21)
-- [Grab an Xbox controller and a $50 Xbox gift card together for just $80](https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale) (2026-09-21)
-- [Can John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone) (2026-09-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) (2026-09-21)
+- [Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat](https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/) (2026-09-21)
+- [Saudi Arabia wants a car industry, launches Ceer with two EVs](https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/) (2026-09-21)
 - [Google confirms Gemini models hacked three companies in May 2026](https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/) (2026-09-21)
 - [Russel Vought will reportedly be given veto power over all NIH grants](https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/) (2026-09-21)
-- [California settles lawsuit against Paramount/Warner merger, angering advocates](https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/) (2026-09-21)
-- [Trump rejects AI slowdown calls, launches "AI Force" instead](https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/) (2026-09-21)
-- [Review: Neagley is a worthy spinoff to megahit Reacher](https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/) (2026-09-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I built Animal Sudoku without a single ad](https://dev.to/ganchclub/why-i-built-animal-sudoku-without-a-single-ad-25oi) (2026-09-21)
-- [I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.](https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i) (2026-09-21)
-- [I built 84 free CSS tools in one place — no login, no ads, just tools](https://dev.to/nxco02/i-built-84-free-css-tools-in-one-place-no-login-no-ads-just-tools-2mh9) (2026-09-21)
-- [SpikeForge grew into a toolkit, a model hub and a dashboard](https://dev.to/w4ffl35/spikeforge-grew-into-a-toolkit-a-model-hub-and-a-dashboard-37k3) (2026-09-21)
-- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4) (2026-09-21)
+- [Your agent's cost problem isn't the model. It's the steps you never measured.](https://dev.to/tokenlat/your-agents-cost-problem-isnt-the-model-its-the-steps-you-never-measured-38ag) (2026-09-22)
+- [Why Schema Diagrams Go Stale (and the Fix)](https://dev.to/not_varunkv/why-schema-diagrams-go-stale-and-the-fix-3ib3) (2026-09-22)
+- [Building a Geo-fencing Engine: Why I Ditched Google's Geofencing API](https://dev.to/haseebthedev0/building-a-geo-fencing-engine-why-i-ditched-googles-geofencing-api-4id3) (2026-09-22)
+- [Is Kasparov still right?](https://dev.to/christian_johannsen_a14e8/is-kasparov-still-right-24d0) (2026-09-22)
+- [Rolling out phishing-resistant multi-factor authentication](https://dev.to/bianliang/rolling-out-phishing-resistant-multi-factor-authentication-1k22) (2026-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Gave an AI Agent Permission to Deploy My Code. Then I Watched What It Did.](https://medium.com/@the_atomic_architect/ai-agents-devops-deploy-code-production-038428980c77?source=rss------programming-5) (2026-09-21)
-- [I Was Using Claude Wrong for 3 Weeks. Here’s the Shift That Changed Everything](https://medium.com/activated-thinker/i-was-using-claude-wrong-for-3-weeks-heres-the-shift-that-changed-everything-d9cf7abf8907?source=rss------programming-5) (2026-09-21)
-- [Why Is My Local LLM So Slow? Half of It You Can Fix Tonight](https://pub.towardsai.net/why-is-my-local-llm-so-slow-half-of-it-you-can-fix-tonight-da7283a8adf6?source=rss------programming-5) (2026-09-21)
-- [How to Integrate an LLM into a Modern Web Application: A Practical Guide for Developers](https://erma0x.medium.com/how-to-integrate-an-llm-into-a-modern-web-application-a-practical-guide-for-developers-c2871cf827b7?source=rss------programming-5) (2026-09-21)
-- [Come Integrare un LLM in un’Applicazione Web Moderna: Guida Pratica per Sviluppatori e Startup](https://erma0x.medium.com/come-integrare-un-llm-in-unapplicazione-web-moderna-guida-pratica-per-sviluppatori-e-startup-bd18402a35c1?source=rss------programming-5) (2026-09-21)
+- [Flutter vs React Native: Which Is Better in 2026?](https://jhavtech.medium.com/flutter-vs-react-native-which-is-better-in-2026-e23d5b867863?source=rss------programming-5) (2026-09-22)
+- [I tried all the “coding for kids” apps with my 9-year-old so you don’t have to](https://startupcto.medium.com/i-tried-all-the-coding-for-kids-apps-with-my-9-year-old-so-you-dont-have-to-b8ac1ce9065d?source=rss------programming-5) (2026-09-22)
+- [Building A Search Feature? Stop Relying on AI. Learn The Algorithm First.](https://python.plainenglish.io/building-a-search-feature-stop-relying-on-ai-learn-the-algorithm-first-abbc6676c646?source=rss------programming-5) (2026-09-22)
+- [Stop Using !important. Every Modern CSS Codebase Is Quietly Switching to This.](https://medium.com/the-hotfix/stop-using-important-every-modern-css-codebase-is-quietly-switching-to-this-d05d4e565af6?source=rss------programming-5) (2026-09-22)
+- [I Wrote a Neural Network Layer in CUDA. Here’s What Actually Happens After model.to("cuda")](https://medium.com/programmed-iq/i-wrote-a-neural-network-layer-in-cuda-heres-what-actually-happens-after-model-to-cuda-bcd2c828744b?source=rss------programming-5) (2026-09-22)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
 - [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
 - [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/) (2026-09-21)
 - [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/) (2026-09-16)
 - [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) (2026-09-15)
 - [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/) (2026-09-14)
 - [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) (2026-09-14)
-- [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/) (2026-09-11)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>🛒 Shopify Engineering</summary>
 
+- [Helix: The internal tool powering our Shopify app's native migration](https://shopify.engineering/helix) (2026-09-21)
 - [Migrating Shop app from React Native to native](https://shopify.engineering/shop-app-migration) (2026-09-10)
 - [Native is now the future of mobile at Shopify](https://shopify.engineering/back-to-native) (2026-09-10)
 - [How River takes security work from a fix to merge](https://shopify.engineering/river-vulnerability-remediation) (2026-09-02)
 - [Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost](https://shopify.engineering/gisting) (2026-08-19)
-- [How we raised mobile end-to-end test stability to 98%](https://shopify.engineering/mobile-e2e-testing) (2026-08-12)
 
 </details>
 
@@ -363,9 +363,9 @@
 
 - [Vercel Connect now supports Microsoft Teams](https://vercel.com/changelog/vercel-connect-microsoft-teams) (2026-09-21)
 - [Deployments now show billable duration and CPU minutes](https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes) (2026-09-21)
+- [MiMo V2.6 models now available on AI Gateway](https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway) (2026-09-21)
+- [AI Gateway now supports TypeSafe clients and an HTTP API for Jev](https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev) (2026-09-21)
 - [Grok 4.7 now available and 40% off on AI Gateway, fx, and eve](https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve) (2026-09-21)
-- [Spend Management expands to Enterprise Flexible Commitment plans](https://vercel.com/changelog/spend-management-enterprise-flex) (2026-09-18)
-- [WebMCP support now available in mcp-handler](https://vercel.com/changelog/webmcp-mcp-handler) (2026-09-18)
 
 </details>
 
@@ -384,21 +384,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
-](
-https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
-) (2026-09-22)
-- [
-Sending SMS with an Agentic AI using Twilio and Hermes Agent
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
-) (2026-09-21)
-- [
-More data won't make your AI smarter (here's what will)
-](
-https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
-) (2026-09-21)
-- [
 How we AI-updated 1,138 Error-code Docs Pages
 ](
 https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes
@@ -408,6 +393,21 @@ Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Pea
 ](
 https://www.twilio.com/en-us/blog/products/messaging-hap-2026
 ) (2026-09-17)
+- [
+On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
+) (2026-09-16)
+- [
+How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory
+) (2026-09-15)
+- [
+ What is CIAM in 2026 and why does it matter?
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
+) (2026-09-15)
 
 </details>
 
