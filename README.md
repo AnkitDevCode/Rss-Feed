@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Morphotonics raises €40M to expand its display tech into data centers](https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/) (2026-09-22)
 - [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) (2026-09-21)
 - [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) (2026-09-21)
 - [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/) (2026-09-21)
 - [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) (2026-09-21)
-- [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/) (2026-09-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/) (2026-09-22)
-- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) (2026-09-22)
-- [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/) (2026-09-22)
-- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) (2026-09-21)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) (2026-09-21)
+- [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html) (2026-09-22)
+- [Verda (Finland) raises $189M in Series B](https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers) (2026-09-22)
+- [Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/) (2026-09-22)
+- [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261) (2026-09-22)
+- [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Can you forget how you feel about Meta?](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram) (2026-09-22)
+- [Apple&#8217;s first live music venue is opening beneath its UK headquarters](https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea) (2026-09-22)
 - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us) (2026-09-21)
 - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses ](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river) (2026-09-21)
 - [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) (2026-09-21)
-- [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google) (2026-09-21)
-- [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement) (2026-09-21)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/) (2026-09-22)
 - [The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/) (2026-09-17)
-- [From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/) (2026-09-15)
+- [From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/) (2026-09-16)
 - [AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/) (2026-09-15)
 - [AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/) (2026-09-11)
-- [(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/) (2026-09-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your agent's cost problem isn't the model. It's the steps you never measured.](https://dev.to/tokenlat/your-agents-cost-problem-isnt-the-model-its-the-steps-you-never-measured-38ag) (2026-09-22)
-- [Why Schema Diagrams Go Stale (and the Fix)](https://dev.to/not_varunkv/why-schema-diagrams-go-stale-and-the-fix-3ib3) (2026-09-22)
-- [Building a Geo-fencing Engine: Why I Ditched Google's Geofencing API](https://dev.to/haseebthedev0/building-a-geo-fencing-engine-why-i-ditched-googles-geofencing-api-4id3) (2026-09-22)
-- [Is Kasparov still right?](https://dev.to/christian_johannsen_a14e8/is-kasparov-still-right-24d0) (2026-09-22)
-- [Rolling out phishing-resistant multi-factor authentication](https://dev.to/bianliang/rolling-out-phishing-resistant-multi-factor-authentication-1k22) (2026-09-22)
+- [Part 1: What Really Happens When You Call SpringApplication.run()](https://dev.to/silver_dev/part-1-what-really-happens-when-you-call-springapplicationrun-5b1j) (2026-09-22)
+- [I added a comment section to my GitHub profile ( Using Discussions)](https://dev.to/lisk819129/i-added-a-comment-section-to-my-github-profile-using-discussions-9pl) (2026-09-22)
+- [Build a Multi-Agent RAG Legal Assistant with LangGraph, FastAPI, and Streamlit (Beginner Guide)](https://dev.to/malaikajunaid/build-a-multi-agent-rag-legal-assistant-with-langgraph-fastapi-and-streamlit-beginner-guide-54ka) (2026-09-22)
+- [Phase 1 HTML](https://dev.to/yashvikothari/phase-1-html-4j0o) (2026-09-22)
+- [Jev in Depth: Can It Reshape Agent Search?](https://dev.to/chen_zhang_bac430bc7f6b95/jev-in-depth-can-it-reshape-agent-search-1gki) (2026-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Flutter vs React Native: Which Is Better in 2026?](https://jhavtech.medium.com/flutter-vs-react-native-which-is-better-in-2026-e23d5b867863?source=rss------programming-5) (2026-09-22)
-- [I tried all the “coding for kids” apps with my 9-year-old so you don’t have to](https://startupcto.medium.com/i-tried-all-the-coding-for-kids-apps-with-my-9-year-old-so-you-dont-have-to-b8ac1ce9065d?source=rss------programming-5) (2026-09-22)
-- [Building A Search Feature? Stop Relying on AI. Learn The Algorithm First.](https://python.plainenglish.io/building-a-search-feature-stop-relying-on-ai-learn-the-algorithm-first-abbc6676c646?source=rss------programming-5) (2026-09-22)
-- [Stop Using !important. Every Modern CSS Codebase Is Quietly Switching to This.](https://medium.com/the-hotfix/stop-using-important-every-modern-css-codebase-is-quietly-switching-to-this-d05d4e565af6?source=rss------programming-5) (2026-09-22)
-- [I Wrote a Neural Network Layer in CUDA. Here’s What Actually Happens After model.to("cuda")](https://medium.com/programmed-iq/i-wrote-a-neural-network-layer-in-cuda-heres-what-actually-happens-after-model-to-cuda-bcd2c828744b?source=rss------programming-5) (2026-09-22)
+- [Anthropic’s new playbook says the constraint moved to planning, review, and deploy, and shows how…](https://medium.com/@heyambujsingh/anthropics-new-playbook-says-the-constraint-moved-to-planning-review-and-deploy-and-shows-how-b84efd7f3db7?source=rss------programming-5) (2026-09-22)
+- [The Paradox of AI: Monoliths vs Microservices](https://medium.com/@almiranda86/the-paradox-of-ai-monoliths-vs-microservices-74a7d8228b8a?source=rss------programming-5) (2026-09-22)
+- [What pushed me to build a vision engine on a normal CPU](https://medium.com/@olesha-ai/what-pushed-me-to-build-a-vision-engine-on-a-normal-cpu-76a91ab25674?source=rss------programming-5) (2026-09-22)
+- [15 Senior System Design Interview Questions That Get Much Harder After the First Answer](https://medium.com/javarevisited/15-senior-system-design-interview-questions-that-get-much-harder-after-the-first-answer-5aa859038579?source=rss------programming-5) (2026-09-22)
+- [12 System Design Interview Questions I Use to Separate Senior Engineers From Staff Engineers](https://medium.com/@coding_with_tech/12-system-design-interview-questions-i-use-to-separate-senior-engineers-from-staff-engineers-3b3b4314a738?source=rss------programming-5) (2026-09-22)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.10.0 (Current)](https://nodejs.org/en/blog/release/v26.10.0) (2026-09-22)
 - [Node.js 26.9.0 (Current)](https://nodejs.org/en/blog/release/v26.9.0) (2026-09-16)
 - [Node.js 26.8.2 (Current)](https://nodejs.org/en/blog/release/v26.8.2) (2026-09-09)
 - [Node.js 24.21.0 (LTS)](https://nodejs.org/en/blog/release/v24.21.0) (2026-09-09)
 - [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1) (2026-08-26)
-- [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0) (2026-08-26)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/) (2026-09-22)
 - [The AIDEs Framework: How We Built a “Theory of Everything” for AI Development Tools](https://blog.jetbrains.com/research/2026/09/aides-framework/) (2026-09-18)
 - [Making Local AI Smarter and Faster](https://blog.jetbrains.com/junie/2026/09/smarter-local-al/) (2026-09-18)
 - [Your diff has a demo now with Junie /demo](https://blog.jetbrains.com/junie/2026/09/junie-demo/) (2026-09-18)
 - [Ktor 3.6.0 Is Now Available!](https://blog.jetbrains.com/ktor/2026/09/18/ktor-3-6-0-is-now-available/) (2026-09-18)
-- [Building a RAG Pipeline for Semantic Code Search: A Developer Diary and Field Notes](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/) (2026-09-17)
 
 </details>
 
@@ -384,6 +384,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+More data won't make your AI smarter (here's what will)
+](
+https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
+) (2026-09-21)
+- [
+Sending SMS with an Agentic AI using Twilio and Hermes Agent
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
+) (2026-09-21)
+- [
 How we AI-updated 1,138 Error-code Docs Pages
 ](
 https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes
@@ -398,16 +408,6 @@ On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
 ) (2026-09-16)
-- [
-How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory
-) (2026-09-15)
-- [
- What is CIAM in 2026 and why does it matter?
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
-) (2026-09-15)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants) (2026-09-22)
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) (2026-09-22)
 - [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) (2026-09-21)
 - [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1) (2026-09-21)
 - [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) (2026-09-15)
-- [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs) (2026-09-10)
-- [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) (2026-09-10)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Toyota’s $6.4bn robotics estimate puts physical AI in focus](https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/) (2026-09-22)
 - [Multi-agent AI systems are taking over supply chain execution](https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/) (2026-09-21)
 - [How to Improve Visibility Across Your Enterprise AI Ecosystem](https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/) (2026-09-21)
 - [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) (2026-09-18)
 - [Fulcra Brings Universal Multiplayer to Any Agents You Choose ](https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/) (2026-09-18)
-- [Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries](https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/) (2026-09-17)
 
 </details>
 
