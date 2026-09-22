@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Stolen passwords are exposing America’s water providers to hackers](https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/) (2026-09-22)
-- [Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt](https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/) (2026-09-22)
-- [Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/) (2026-09-22)
-- [AstroForge is putting AI in command of its next spacecraft](https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/) (2026-09-22)
-- [TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage](https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/) (2026-09-22)
+- [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) (2026-09-22)
+- [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) (2026-09-22)
+- [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) (2026-09-22)
+- [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) (2026-09-22)
+- [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me](https://mouse.dev/blog/muse-runtime-export/) (2026-09-22)
-- [Vacate a Drone Restriction That Criminalized Recording Immigration Agents](https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration) (2026-09-22)
-- [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/) (2026-09-22)
-- [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev) (2026-09-22)
-- [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) (2026-09-22)
+- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/) (2026-09-22)
+- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples) (2026-09-22)
+- [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical) (2026-09-22)
+- [A Faster Shortest Path Algorithm](https://www.vals.ai/blogs/faster-shortest-path-algorithm) (2026-09-22)
+- [Overreliance on AI contributed to missile strike on Iran school – Pentagon](https://www.bloomberg.com/graphics/2026-iran-school-attack/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Xbox is barely Xbox anymore](https://www.theverge.com/games/998758/xbox-activision-blizzard) (2026-09-22)
-- [Xbox is merging its Forza developers into a single studio](https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio) (2026-09-22)
-- [Microsoft is laying off 268 Xbox staffers and Ninja Theory may close](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure) (2026-09-22)
-- [Activision is taking over Halo as part of a massive Xbox shake-up](https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs) (2026-09-22)
-- [The Beats 360 are what I’d bring to the gym if I hated earbuds](https://www.theverge.com/tech/998566/beats-360-headphones-review) (2026-09-22)
+- [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale) (2026-09-22)
+- [San Francisco sues Trump Media for selling early access to Trump posts](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco) (2026-09-22)
+- [Apple is reportedly working on a Whoop-like fitness tracker](https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker) (2026-09-22)
+- [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy) (2026-09-22)
+- [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (2026-09-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Protests for Germany’s car industry as job losses loom](https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/) (2026-09-22)
-- [Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent](https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/) (2026-09-22)
-- [Dyson’s most overengineered gadget may have a waterproofing problem](https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/) (2026-09-22)
-- [NASA chief: I'm only interested in "good deals" from international partners](https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/) (2026-09-22)
-- [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) (2026-09-21)
+- [Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/) (2026-09-22)
+- [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/) (2026-09-22)
+- [Review: Resident Evil might just be the best gaming adaptation yet](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/) (2026-09-22)
+- [Toyota orders workers to train humanoid robots but says humans won't be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/) (2026-09-22)
+- [IT mistake erases 11 years of viewing history for hospitals’ maternity records](https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/) (2026-09-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Google Open Sourced AX, an Orchestrator for Billions of AI Agents. Hacker News Isn't Buying the Number.](https://dev.to/jamilxt/google-open-sourced-ax-an-orchestrator-for-billions-of-ai-agents-hacker-news-isnt-buying-the-5hgf) (2026-09-22)
-- [Top 5 MCP Gateways in 2026](https://dev.to/therealmrmumba/top-5-mcp-gateways-in-2026-4f4j) (2026-09-22)
-- [The Great AI Reshoring: How Silicon Valley Stacks Are Replacing the World’s Virtual Assistants](https://dev.to/yuvalcohen/the-great-ai-reshoring-how-silicon-valley-stacks-are-replacing-the-worlds-virtual-assistants-5d90) (2026-09-22)
-- [Laravel's New whereBinary(): Simple Case-Sensitive Queries in MySQL](https://dev.to/othmane_nemli/laravels-new-wherebinary-simple-case-sensitive-queries-in-mysql-2mih) (2026-09-22)
-- [Building a CEX/DEX Alert Bot on Android: When Your Code Works, but Your Network Doesn't](https://dev.to/superwavvy/building-a-cexdex-alert-bot-on-android-when-your-code-works-but-your-network-doesnt-5aib) (2026-09-22)
+- [Criei um SDK para tornar apps React Native mais resilientes a conexões ruins](https://dev.to/rafael_ges_e03329a04a6bc/criei-um-sdk-para-tornar-apps-react-native-mais-resilientes-a-conexoes-ruins-34lb) (2026-09-22)
+- [OpenAI's GPT-5.6 Moves Point to a Broader API Price-Performance Strategy](https://dev.to/alifar/openais-gpt-56-moves-point-to-a-broader-api-price-performance-strategy-3609) (2026-09-22)
+- [Automating Bug Reports with Tally and Make](https://dev.to/benji377/automating-bug-reports-with-tally-and-make-510o) (2026-09-22)
+- [When Chain Analysis Beats Neural Detection: A Layer-by-Layer Look at the OpenAI Hack](https://dev.to/aegisgate/when-chain-analysis-beats-neural-detection-a-layer-by-layer-look-at-the-openai-hack-346n) (2026-09-22)
+- [ChaosCypher v0.4.3: When a Clean Restart Lost More Work Than a Crash](https://dev.to/chaoscypherinc/chaoscypher-v043-when-a-clean-restart-lost-more-work-than-a-crash-1c2a) (2026-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tried 20+ Java Functional Programming Courses — Here Are My Top 6 Recommendations for 2027](https://medium.com/javarevisited/i-tried-20-java-functional-programming-courses-here-are-my-top-6-recommendations-for-2027-be217d95c18c?source=rss------programming-5) (2026-09-22)
-- [My Senior Engineer Deleted 12,000 Lines of AI-Generated Code After One Question in Code Review.](https://medium.com/javarevisited/my-senior-engineer-deleted-12-000-lines-of-ai-generated-code-after-one-question-in-code-review-81bcd8293df3?source=rss------programming-5) (2026-09-22)
-- [A No-Nonsense Guide to Choosing UK Outsourced Software Development Partners](https://medium.com/@sujalkantnirala123/a-no-nonsense-guide-to-choosing-uk-outsourced-software-development-partners-571dab5185b6?source=rss------programming-5) (2026-09-22)
-- [Do Java 11 ao Java 27: o que realmente mudou na forma de construir sistemas](https://medium.com/@sham.vinicius/do-java-11-ao-java-27-o-que-realmente-mudou-na-forma-de-construir-sistemas-f76eb7b54b64?source=rss------programming-5) (2026-09-22)
-- [Our Best Engineer Hadn’t Written Code Without AI in Six Months. Then a Junior Fixed His Bug..](https://medium.com/javarevisited/our-best-engineer-hadnt-written-code-without-ai-in-six-months-then-a-junior-fixed-his-bug-7d92e7373b95?source=rss------programming-5) (2026-09-22)
+- [Grok 4.7: Why Even Release It?](https://medium.com/the-ai-brief/grok-4-7-why-even-release-it-8558e4d44097?source=rss------programming-5) (2026-09-22)
+- [The Fragmentation Tax: Why Modern Work Broke, and How to Reclaim Your Focus](https://medium.com/@taha_/the-fragmentation-tax-why-modern-work-broke-and-how-to-reclaim-your-focus-4ba4f65e80ae?source=rss------programming-5) (2026-09-22)
+- [Understand These 6 AI Terms Before You Trust Another AI Answer](https://halilozel1903.medium.com/understand-these-6-ai-terms-before-you-trust-another-ai-answer-59e9f1837e69?source=rss------programming-5) (2026-09-22)
+- [ Rust: What a dyn Trait Really Costs](https://medium.com/rustaceans/rust-what-a-dyn-trait-really-costs-1b4eab3afd81?source=rss------programming-5) (2026-09-22)
+- [Claude Opus 5.5 : The model-ID swap that 400s your production agents](https://medium.com/@kankit570/claude-opus-5-5-the-model-id-swap-that-400s-your-production-agents-74ec64c52723?source=rss------programming-5) (2026-09-22)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Land your apps on Googlebook with adaptive development ](https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html) (2026-09-22)
 - [Bring your Android game to the car screen today](https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html) (2026-09-21)
 - [Introducing the AndroidX Security State Libraries: A Unified View of Device Security](https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html) (2026-09-17)
 - [Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks](https://android-developers.googleblog.com/2026/09/android-bench-2-long-horizon-tasks.html) (2026-09-17)
 - [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0](https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html) (2026-09-09)
-- [Leverage Android skills and Gemma 4 in Android Studio Quail 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html) (2026-09-01)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How to design GitLab for enterprise scale](https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/) (2026-09-22)
+- [How GitLab reduced code-per-agentic-flow ratio by 45%](https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/) (2026-09-22)
 - [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/) (2026-09-18)
 - [GitLab 19.4 released](https://docs.gitlab.com/releases/19/gitlab-19-4-released/) (2026-09-18)
 - [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
-- [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/) (2026-09-17)
-- [See who spent your AI credits and set fair caps per team](https://about.gitlab.com/blog/new-usage-caps-2026/) (2026-09-17)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [GPT-6 Sol and Luna now available on AI Gateway](https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway) (2026-09-22)
+- [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta) (2026-09-22)
+- [Claude Opus 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway) (2026-09-22)
 - [Vercel Connect now supports Microsoft Teams](https://vercel.com/changelog/vercel-connect-microsoft-teams) (2026-09-21)
 - [Deployments now show billable duration and CPU minutes](https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes) (2026-09-21)
-- [MiMo V2.6 models now available on AI Gateway](https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway) (2026-09-21)
-- [AI Gateway now supports TypeSafe clients and an HTTP API for Jev](https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev) (2026-09-21)
-- [Grok 4.7 now available and 40% off on AI Gateway, fx, and eve](https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve) (2026-09-21)
 
 </details>
 
@@ -373,7 +373,7 @@
 <summary>🔶 Cloudflare Blog</summary>
 
 - [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/) (2026-09-22)
-- [Introducing Worker Previews: isolated preview environments for every change your agent makes](https://blog.cloudflare.com/worker-previews/) (2026-09-22)
+- [Introducing Worker Previews: Isolated preview environments for every change your agent makes](https://blog.cloudflare.com/worker-previews/) (2026-09-22)
 - [Python Workers are now generally available](https://blog.cloudflare.com/python-workers-ga/) (2026-09-21)
 - [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) (2026-09-18)
 - [When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts](https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/) (2026-09-16)
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-More data won't make your AI smarter (here's what will)
+The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
 ](
-https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
-) (2026-09-21)
+https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
+) (2026-09-22)
+- [
+How to design an AI-to-human handoff that preserves context
+](
+https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context
+) (2026-09-22)
 - [
 Sending SMS with an Agentic AI using Twilio and Hermes Agent
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
 ) (2026-09-21)
 - [
-How we AI-updated 1,138 Error-code Docs Pages
+More data won't make your AI smarter (here's what will)
 ](
-https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes
-) (2026-09-17)
+https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
+) (2026-09-21)
 - [
-Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Peak Season
+Automating Twilio Auth Token Detection and Rotation with TruffleHog, Tines, and Slack
 ](
-https://www.twilio.com/en-us/blog/products/messaging-hap-2026
-) (2026-09-17)
-- [
-On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy
-) (2026-09-16)
+https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-auth-token-detection-rotation-trufflehog-tines-slack
+) (2026-09-21)
 
 </details>
 
@@ -416,9 +416,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time
 
 - [Confused Deputy: The Old Bug That AI Agents Keep Reintroducing](https://auth0.com/blog/confused-deputy-the-old-bug-that-ai-agents-keep-reintroducing/) (2026-09-22)
 - [Building Secure AI Agents with Microsoft Agent Framework and Auth0: Human-in-the-Loop Approval](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-4-human-in-the-loop-approval/) (2026-09-21)
-- [Move and Scale Faster with FGA Permissions Index](https://auth0.com/blog/auth0-fga-permissions-index-early-access/) (2026-09-18)
 - [Optimize Your Identity Flows with Auth0 Identity Conversion Suite](https://auth0.com/blog/auth0-identity-conversion-suite-early-access/) (2026-09-18)
 - [Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI](https://auth0.com/blog/auth0-agent-gateway-beta/) (2026-09-18)
+- [Move and Scale Faster with FGA Permissions Index](https://auth0.com/blog/auth0-fga-permissions-index-early-access/) (2026-09-18)
 
 </details>
 
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) (2026-09-22)
 - [Blocking cutovers to save replication slots](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) (2026-09-21)
 - [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) (2026-09-18)
 - [Introducing Lead: TIN-compatible full-text search for CI](https://planetscale.com/blog/introducing-lead) (2026-09-17)
 - [Introducing TIN: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) (2026-09-16)
-- [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) (2026-09-11)
 
 </details>
 
@@ -504,9 +504,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time
 
 - [What is content engineering?](https://zapier.com/blog/content-engineering) (2026-09-22)
 - [AI vs. automation: What's the difference?](https://zapier.com/blog/automation-vs-ai) (2026-09-22)
-- [AI in HR: Benefits, types, and 7 use cases worth running](https://zapier.com/blog/ai-in-hr) (2026-09-22)
-- [63% of developers have more work since non-devs began coding with AI, but most say it's good for the industry ](https://zapier.com/blog/ai-coding-survey) (2026-09-21)
-- [The 8 best AI sales assistant software in 2026](https://zapier.com/blog/ai-sales-assistant) (2026-09-18)
+- [OpenAI models: Every model (including GPT-6) and what it's best for](https://zapier.com/blog/openai-models) (2026-09-22)
+- [Claude 5.5: What you need to know about Anthropic's AI models and chatbot](https://zapier.com/blog/claude-ai) (2026-09-22)
+- [76% of SMB owners are automating work. The next step is making sure they're doing it safely.](https://zapier.com/blog/ai-governance-for-small-teams) (2026-09-22)
 
 </details>
 
@@ -568,11 +568,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (2026-09-22)
 - [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants) (2026-09-22)
 - [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) (2026-09-22)
 - [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) (2026-09-21)
 - [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1) (2026-09-21)
-- [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) (2026-09-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [AutoScheduler launches warehouse app builder for logistics teams](https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/) (2026-09-22)
+- [Toyota’s $6.4bn robotics estimate puts physical AI in focus](https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/) (2026-09-22)
+- [Multi-agent AI systems are taking over supply chain execution](https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/) (2026-09-21)
+- [How to Improve Visibility Across Your Enterprise AI Ecosystem](https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/) (2026-09-21)
+- [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) (2026-09-18)
 
 </details>
 
@@ -590,22 +601,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Opus 5.5 Tested: What’s New and How Good is it?](https://www.analyticsvidhya.com/blog/2026/09/claude-opus-5-5-tested/) (2026-09-22)
+- [Jev Explained: The AI Model That Never Generates a Word of Text](https://www.analyticsvidhya.com/blog/2026/09/jev-explained/) (2026-09-22)
 - [OpenAI Model Misalignment Explained Through Six Real Incidents](https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/) (2026-09-21)
 - [Recursive Self-Improvement: The Last AI Built by Humans ](https://www.analyticsvidhya.com/blog/2026/09/recursive-self-improvement/) (2026-09-18)
 - [LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale ](https://www.analyticsvidhya.com/blog/2026/09/mlops-vs-llmops-vs-agentops/) (2026-09-17)
-- [Top 5 Agentic Coding CLI Tools Developers Should Know in 2026 ](https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/) (2026-09-15)
-- [5 ChatGPT 2.5 Features to Try Today!](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/) (2026-09-11)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [Bravely AI Browsing with Leo](https://www.kdnuggets.com/bravely-ai-browsing-with-leo) (2026-09-22)
-- [7 Open-Source Alternatives to ChatGPT You Can Run Locally](https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally) (2026-09-22)
-- [What Everyone Is Getting Wrong About TypeSafe AI’s Jev](https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev) (2026-09-21)
-- [How to Turn a Python Script Into an AI Agent](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent) (2026-09-21)
-- [3 Polars Tricks for High-Performance Data Manipulation](https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation) (2026-09-21)
 
 </details>
 
