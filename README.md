@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) (2026-09-22)
+- [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) (2026-09-22)
 - [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) (2026-09-22)
 - [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) (2026-09-22)
 - [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) (2026-09-22)
-- [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) (2026-09-22)
-- [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) (2026-09-23)
+- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open) (2026-09-22)
+- [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/) (2026-09-22)
+- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (2026-09-22)
 - [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/) (2026-09-22)
-- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples) (2026-09-22)
-- [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical) (2026-09-22)
-- [A Faster Shortest Path Algorithm](https://www.vals.ai/blogs/faster-shortest-path-algorithm) (2026-09-22)
-- [Overreliance on AI contributed to missile strike on Iran school – Pentagon](https://www.bloomberg.com/graphics/2026-iran-school-attack/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale) (2026-09-22)
-- [San Francisco sues Trump Media for selling early access to Trump posts](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco) (2026-09-22)
-- [Apple is reportedly working on a Whoop-like fitness tracker](https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker) (2026-09-22)
-- [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy) (2026-09-22)
-- [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (2026-09-22)
+- [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) (2026-09-23)
+- [Paramount will need to release way more movies to make this merger work](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails) (2026-09-22)
+- [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3) (2026-09-22)
+- [Saudi Arabia’s new Exobot EVs make the Cybertruck look normal](https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot) (2026-09-22)
+- [Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too](https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6) (2026-09-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Woman's brain worm infection confirmed after eggs grow tails in lab test](https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/) (2026-09-22)
+- [New Anthropic, OpenAI models make same promise: A little more for a lot less money](https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/) (2026-09-22)
+- [Cities across US oppose Trump FCC plan to preempt local broadband rules](https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/) (2026-09-22)
+- [Microsoft disrupts AI-assisted platform that compromised 12,000 accounts](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/) (2026-09-22)
 - [Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/) (2026-09-22)
-- [Adobe Premiere finally brings powerful video editing to Android, and it's free](https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/) (2026-09-22)
-- [Review: Resident Evil might just be the best gaming adaptation yet](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/) (2026-09-22)
-- [Toyota orders workers to train humanoid robots but says humans won't be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/) (2026-09-22)
-- [IT mistake erases 11 years of viewing history for hospitals’ maternity records](https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/) (2026-09-22)
 
 </details>
 
@@ -86,55 +86,55 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Criei um SDK para tornar apps React Native mais resilientes a conexões ruins](https://dev.to/rafael_ges_e03329a04a6bc/criei-um-sdk-para-tornar-apps-react-native-mais-resilientes-a-conexoes-ruins-34lb) (2026-09-22)
-- [OpenAI's GPT-5.6 Moves Point to a Broader API Price-Performance Strategy](https://dev.to/alifar/openais-gpt-56-moves-point-to-a-broader-api-price-performance-strategy-3609) (2026-09-22)
-- [Automating Bug Reports with Tally and Make](https://dev.to/benji377/automating-bug-reports-with-tally-and-make-510o) (2026-09-22)
-- [When Chain Analysis Beats Neural Detection: A Layer-by-Layer Look at the OpenAI Hack](https://dev.to/aegisgate/when-chain-analysis-beats-neural-detection-a-layer-by-layer-look-at-the-openai-hack-346n) (2026-09-22)
-- [ChaosCypher v0.4.3: When a Clean Restart Lost More Work Than a Crash](https://dev.to/chaoscypherinc/chaoscypher-v043-when-a-clean-restart-lost-more-work-than-a-crash-1c2a) (2026-09-22)
+- [D-Link DIR-822A: Pre-authentication DHCP Buffer Overflow and L2TP Out-of-Bounds Write](https://dev.to/anoymask/d-link-dir-822a-pre-authentication-dhcp-buffer-overflow-and-l2tp-out-of-bounds-write-3ic6) (2026-09-23)
+- [An Exit Code Cannot Say Whether Anything Happened](https://dev.to/megapixel99/an-exit-code-cannot-say-whether-anything-happened-4nbk) (2026-09-23)
+- [Kapibala: Government Data Theft via WordPress and Active Exploitation of Zyxel CVE-2026-7273](https://dev.to/anoymask/kapibala-government-data-theft-via-wordpress-and-active-exploitation-of-zyxel-cve-2026-7273-5c58) (2026-09-23)
+- [From Windows to Fedora: Debugging Package Mirrors, Ghost Updates, and AI Model Gating](https://dev.to/kaushikcoderpy/from-windows-to-fedora-debugging-package-mirrors-ghost-updates-and-ai-model-gating-54ha) (2026-09-23)
+- [EvilTokens: AI-Powered PhaaS Abusing Device Code Authentication to Compromise Over 12,000 Mailboxes](https://dev.to/anoymask/eviltokens-ai-powered-phaas-abusing-device-code-authentication-to-compromise-over-12000-mailboxes-5cje) (2026-09-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Grok 4.7: Why Even Release It?](https://medium.com/the-ai-brief/grok-4-7-why-even-release-it-8558e4d44097?source=rss------programming-5) (2026-09-22)
-- [The Fragmentation Tax: Why Modern Work Broke, and How to Reclaim Your Focus](https://medium.com/@taha_/the-fragmentation-tax-why-modern-work-broke-and-how-to-reclaim-your-focus-4ba4f65e80ae?source=rss------programming-5) (2026-09-22)
-- [Understand These 6 AI Terms Before You Trust Another AI Answer](https://halilozel1903.medium.com/understand-these-6-ai-terms-before-you-trust-another-ai-answer-59e9f1837e69?source=rss------programming-5) (2026-09-22)
-- [ Rust: What a dyn Trait Really Costs](https://medium.com/rustaceans/rust-what-a-dyn-trait-really-costs-1b4eab3afd81?source=rss------programming-5) (2026-09-22)
-- [Claude Opus 5.5 : The model-ID swap that 400s your production agents](https://medium.com/@kankit570/claude-opus-5-5-the-model-id-swap-that-400s-your-production-agents-74ec64c52723?source=rss------programming-5) (2026-09-22)
+- [Advanced RAG: Chunking, Hybrid Search and Reranking](https://medium.com/@scosmexs/advanced-rag-chunking-hybrid-search-and-reranking-d0767faa2c8c?source=rss------programming-5) (2026-09-23)
+- [10 Linux Commands You’ll Wish You Knew Earlier](https://pawannatekar220.medium.com/10-linux-commands-youll-wish-you-knew-earlier-f93654015796?source=rss------programming-5) (2026-09-23)
+- [Ate](https://medium.com/@tv.tinfov/ate-fb654a3ee81f?source=rss------programming-5) (2026-09-23)
+- [From print() to Business Insights: What My AI Internship Is Teaching Me](https://medium.com/@varshiniv.dev/from-print-to-business-insights-what-my-ai-internship-is-teaching-me-ceed823aa94c?source=rss------programming-5) (2026-09-23)
+- [This FREE Indicator Predicts Every Sell Signals](https://medium.com/@sayedali_3166/this-free-indicator-predicts-every-sell-signals-afb84cb47273?source=rss------programming-5) (2026-09-23)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/) (2026-09-22)
+- [Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/) (2026-09-22)
 - [AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/) (2026-09-21)
 - [New low-cost burstable Amazon EC2 T8i instances are generally available](https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/) (2026-09-17)
 - [AWS Elastic Beanstalk introduces Cluster Mode](https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/) (2026-09-17)
-- [AWS reimagines the getting started experience](https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/) (2026-09-16)
-- [AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/) (2026-09-14)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
+- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 - [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
-- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/) (2026-09-23)
 - [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/) (2026-09-22)
 - [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/) (2026-09-21)
 - [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/) (2026-09-21)
 - [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/) (2026-09-21)
-- [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](https://blogs.nvidia.com/blog/ai-security-agent-stack/) (2026-09-21)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) (2026-09-22)
 - [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/) (2026-09-21)
 - [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/) (2026-09-16)
 - [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) (2026-09-15)
 - [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/) (2026-09-14)
-- [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) (2026-09-14)
 
 </details>
 
@@ -262,7 +262,7 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
-- [Introducing Our New Dropbox API Documentation](https://dropbox.tech/developers/new-dropbox-api-documentation) (2026-09-21)
+- [Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation) (2026-09-21)
 - [Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces) (2026-08-31)
 - [Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai) (2026-08-18)
 - [How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond) (2026-07-20)
@@ -416,9 +416,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 
 - [Confused Deputy: The Old Bug That AI Agents Keep Reintroducing](https://auth0.com/blog/confused-deputy-the-old-bug-that-ai-agents-keep-reintroducing/) (2026-09-22)
 - [Building Secure AI Agents with Microsoft Agent Framework and Auth0: Human-in-the-Loop Approval](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-4-human-in-the-loop-approval/) (2026-09-21)
-- [Optimize Your Identity Flows with Auth0 Identity Conversion Suite](https://auth0.com/blog/auth0-identity-conversion-suite-early-access/) (2026-09-18)
 - [Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI](https://auth0.com/blog/auth0-agent-gateway-beta/) (2026-09-18)
 - [Move and Scale Faster with FGA Permissions Index](https://auth0.com/blog/auth0-fga-permissions-index-early-access/) (2026-09-18)
+- [Optimize Your Identity Flows with Auth0 Identity Conversion Suite](https://auth0.com/blog/auth0-identity-conversion-suite-early-access/) (2026-09-18)
 
 </details>
 
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Apollo API IP Allowlist Update: Second IP Addresss Now Live](https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live) (2026-09-22)
 - [What’s New in Apollo Client 4.3](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-3) (2026-09-15)
 - [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
 - [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
 - [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
-- [What We Think the 2026 Gartner Hype Cycle Gets Right About GraphQL](https://www.apollographql.com/blog/what-we-think-the-2026-gartner-hype-cycle-gets-right-about-graphql) (2026-07-29)
 
 </details>
 
@@ -606,6 +606,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 - [OpenAI Model Misalignment Explained Through Six Real Incidents](https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/) (2026-09-21)
 - [Recursive Self-Improvement: The Last AI Built by Humans ](https://www.analyticsvidhya.com/blog/2026/09/recursive-self-improvement/) (2026-09-18)
 - [LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale ](https://www.analyticsvidhya.com/blog/2026/09/mlops-vs-llmops-vs-agentops/) (2026-09-17)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [Bravely AI Browsing with Leo](https://www.kdnuggets.com/bravely-ai-browsing-with-leo) (2026-09-22)
+- [7 Open-Source Alternatives to ChatGPT You Can Run Locally](https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally) (2026-09-22)
+- [What Everyone Is Getting Wrong About TypeSafe AI’s Jev](https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev) (2026-09-21)
+- [How to Turn a Python Script Into an AI Agent](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent) (2026-09-21)
+- [3 Polars Tricks for High-Performance Data Manipulation](https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation) (2026-09-21)
 
 </details>
 
