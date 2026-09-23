@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) (2026-09-23)
+- [Discord’s age verification era is upon us, despite community backlash](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/) (2026-09-23)
 - [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) (2026-09-22)
 - [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) (2026-09-22)
 - [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) (2026-09-22)
-- [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) (2026-09-22)
-- [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) (2026-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) (2026-09-23)
-- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open) (2026-09-22)
-- [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/) (2026-09-22)
-- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (2026-09-22)
-- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/) (2026-09-22)
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/) (2026-09-23)
+- [How often do you think about the 1893 World's Fair?](https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/) (2026-09-23)
+- [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/) (2026-09-23)
+- [Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think) (2026-09-23)
+- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/) (2026-09-23)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Smart glasses are already causing havoc in India](https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/) (2026-09-23)
 - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) (2026-09-22)
 - [The Download: why AI’s latest breakthroughs and fears may be more hype than reality](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/) (2026-09-22)
 - [Don’t be fooled by this summer of AI hype ](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) (2026-09-22)
 - [The Download: investigating deaths at the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/) (2026-09-21)
-- [How we made the first comprehensive map of deaths along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) (2026-09-21)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Multiplayer AI: Why your team (and its agents) need a group chat](https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/) (2026-09-23)
 - [Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/) (2026-09-22)
 - [The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/) (2026-09-17)
 - [From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/) (2026-09-16)
 - [AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/) (2026-09-15)
-- [AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/) (2026-09-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [D-Link DIR-822A: Pre-authentication DHCP Buffer Overflow and L2TP Out-of-Bounds Write](https://dev.to/anoymask/d-link-dir-822a-pre-authentication-dhcp-buffer-overflow-and-l2tp-out-of-bounds-write-3ic6) (2026-09-23)
-- [An Exit Code Cannot Say Whether Anything Happened](https://dev.to/megapixel99/an-exit-code-cannot-say-whether-anything-happened-4nbk) (2026-09-23)
-- [Kapibala: Government Data Theft via WordPress and Active Exploitation of Zyxel CVE-2026-7273](https://dev.to/anoymask/kapibala-government-data-theft-via-wordpress-and-active-exploitation-of-zyxel-cve-2026-7273-5c58) (2026-09-23)
-- [From Windows to Fedora: Debugging Package Mirrors, Ghost Updates, and AI Model Gating](https://dev.to/kaushikcoderpy/from-windows-to-fedora-debugging-package-mirrors-ghost-updates-and-ai-model-gating-54ha) (2026-09-23)
-- [EvilTokens: AI-Powered PhaaS Abusing Device Code Authentication to Compromise Over 12,000 Mailboxes](https://dev.to/anoymask/eviltokens-ai-powered-phaas-abusing-device-code-authentication-to-compromise-over-12000-mailboxes-5cje) (2026-09-23)
+- [Stop Hand-Writing DefiLlama URLs: Meet defillama-go, a Go SDK for the Full API Surface](https://dev.to/tigusigalpa/stop-hand-writing-defillama-urls-meet-defillama-go-a-go-sdk-for-the-full-api-surface-gk5) (2026-09-23)
+- [I automated my 3,163-song music library with Spotify's API. Then Spotify killed the API.](https://dev.to/shaarkymoo/i-automated-my-3163-song-music-library-with-spotifys-api-then-spotify-killed-the-api-34n7) (2026-09-23)
+- [Building a Corporate Offsite Cost Calculator That Doesn't Guess](https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe) (2026-09-23)
+- [Building a 512-LED wall that dances to my music: FFT, ESP32, and a custom serial protocol](https://dev.to/shaarkymoo/building-a-512-led-wall-that-dances-to-my-music-fft-esp32-and-a-custom-serial-protocol-42o6) (2026-09-23)
+- [AI Agent Platforms: Agent Frameworks to Full-Stack Platforms](https://dev.to/minns-ai/ai-agent-platforms-agent-frameworks-to-full-stack-platforms-1bok) (2026-09-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Advanced RAG: Chunking, Hybrid Search and Reranking](https://medium.com/@scosmexs/advanced-rag-chunking-hybrid-search-and-reranking-d0767faa2c8c?source=rss------programming-5) (2026-09-23)
-- [10 Linux Commands You’ll Wish You Knew Earlier](https://pawannatekar220.medium.com/10-linux-commands-youll-wish-you-knew-earlier-f93654015796?source=rss------programming-5) (2026-09-23)
-- [Ate](https://medium.com/@tv.tinfov/ate-fb654a3ee81f?source=rss------programming-5) (2026-09-23)
-- [From print() to Business Insights: What My AI Internship Is Teaching Me](https://medium.com/@varshiniv.dev/from-print-to-business-insights-what-my-ai-internship-is-teaching-me-ceed823aa94c?source=rss------programming-5) (2026-09-23)
-- [This FREE Indicator Predicts Every Sell Signals](https://medium.com/@sayedali_3166/this-free-indicator-predicts-every-sell-signals-afb84cb47273?source=rss------programming-5) (2026-09-23)
+- [Your Java Code Is Correct. The JVM Might Still Be Making It Slower.](https://medium.com/@dikhyantkrishnadalai/your-java-code-is-correct-the-jvm-might-still-be-making-it-slower-cf5d16428a26?source=rss------programming-5) (2026-09-23)
+- [Your Shell History Is Not a Dotfile: Where Atuin Fits](https://alessiobussolari.medium.com/your-shell-history-is-not-a-dotfile-where-atuin-fits-8b820411e339?source=rss------programming-5) (2026-09-23)
+- [Stop Learning Random AI Tools: Master These 10 Skills Instead](https://medium.com/@CodeWithMasood/stop-learning-random-ai-tools-master-these-10-skills-instead-e1eafd123461?source=rss------programming-5) (2026-09-23)
+- [You Don’t Need More C# Features. You Need to Master These 7 Engineering Concepts](https://medium.com/@mohsho10/you-dont-need-more-c-features-you-need-to-master-these-7-engineering-concepts-ee1afaaf0f3b?source=rss------programming-5) (2026-09-23)
+- [The 10 Linux Commands Every Windows Administrator Needs to Know (And Stop Being Afraid Of)](https://medium.com/@prasantakumarroy1/the-10-linux-commands-every-windows-administrator-needs-to-know-and-stop-being-afraid-of-d5a9cddb4291?source=rss------programming-5) (2026-09-23)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
-- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 - [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
+- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [What Dropbox has learned from deploying AI at company scale](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale) (2026-09-23)
 - [Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation) (2026-09-21)
 - [Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces) (2026-08-31)
 - [Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai) (2026-08-18)
 - [How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond) (2026-07-20)
-- [How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat) (2026-06-25)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.139 (Insiders)](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
+- [Visual Studio Code 1.140 (Insiders)](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
+- [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
 - [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
 - [Building the new GitHub Copilot Inline Suggestions Model: Part One](https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one) (2026-09-16)
 - [Visual Studio Code 1.137](https://code.visualstudio.com/updates/v1_137) (2026-09-09)
-- [Visual Studio Code 1.136](https://code.visualstudio.com/updates/v1_136) (2026-09-02)
 
 </details>
 
@@ -416,9 +416,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 
 - [Confused Deputy: The Old Bug That AI Agents Keep Reintroducing](https://auth0.com/blog/confused-deputy-the-old-bug-that-ai-agents-keep-reintroducing/) (2026-09-22)
 - [Building Secure AI Agents with Microsoft Agent Framework and Auth0: Human-in-the-Loop Approval](https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-4-human-in-the-loop-approval/) (2026-09-21)
-- [Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI](https://auth0.com/blog/auth0-agent-gateway-beta/) (2026-09-18)
-- [Move and Scale Faster with FGA Permissions Index](https://auth0.com/blog/auth0-fga-permissions-index-early-access/) (2026-09-18)
 - [Optimize Your Identity Flows with Auth0 Identity Conversion Suite](https://auth0.com/blog/auth0-identity-conversion-suite-early-access/) (2026-09-18)
+- [Move and Scale Faster with FGA Permissions Index](https://auth0.com/blog/auth0-fga-permissions-index-early-access/) (2026-09-18)
+- [Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI](https://auth0.com/blog/auth0-agent-gateway-beta/) (2026-09-18)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI Agents Are Becoming a New Malware Distribution Channel](https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/) (2026-09-23)
 - [AutoScheduler launches warehouse app builder for logistics teams](https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/) (2026-09-22)
 - [Toyota’s $6.4bn robotics estimate puts physical AI in focus](https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/) (2026-09-22)
 - [Multi-agent AI systems are taking over supply chain execution](https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/) (2026-09-21)
 - [How to Improve Visibility Across Your Enterprise AI Ecosystem](https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/) (2026-09-21)
-- [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) (2026-09-18)
 
 </details>
 
