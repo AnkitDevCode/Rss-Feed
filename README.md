@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411) (2026-09-24)
-- [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) (2026-09-24)
-- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) (2026-09-24)
-- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted) (2026-09-24)
-- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) (2026-09-24)
+- [Starlink ground station in Poland hit by fire in suspected arson attack](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/) (2026-09-24)
+- [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html) (2026-09-24)
+- [AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html) (2026-09-24)
+- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) (2026-09-24)
+- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity) (2026-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) (2026-09-24)
 - [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware) (2026-09-24)
 - [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced) (2026-09-24)
 - [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on) (2026-09-23)
 - [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features) (2026-09-23)
-- [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026) (2026-09-23)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/) (2026-09-24)
 - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/) (2026-09-23)
 - [The Download: India’s smart glasses menace and AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/) (2026-09-23)
 - [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) (2026-09-23)
 - [Smart glasses are already causing havoc in India](https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/) (2026-09-23)
-- [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) (2026-09-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How three OSLabs engineers built a CLI to catch you overpaying Claude](https://dev.to/oliviamckelvey/how-three-oslabs-engineers-built-a-cli-to-catch-you-overpaying-claude-531e) (2026-09-24)
-- [We Built a CLI to Find Out If You’re Overpaying for Claude](https://dev.to/oliviamckelvey/we-built-a-cli-to-find-out-if-youre-overpaying-for-claude-1p26) (2026-09-24)
-- [Is a Codex usage-limit reset coming? Check from your terminal with a free API (or MCP)](https://dev.to/codexreset/is-a-codex-usage-limit-reset-coming-check-from-your-terminal-with-a-free-api-or-mcp-3enb) (2026-09-24)
-- [MCP or CLI? Choose by Who Controls the Workflow](https://dev.to/plopino/mcp-or-cli-choose-by-who-controls-the-workflow-4ii8) (2026-09-24)
-- [Billing an AI Agent Without Breaking Its Tool Loop](https://dev.to/gangan/billing-an-ai-agent-without-breaking-its-tool-loop-1474) (2026-09-24)
+- [Project access is not object permission](https://dev.to/authbyexample1/project-access-is-not-object-permission-2n7d) (2026-09-24)
+- [Our watchdog restarted a healthy agent 24 times a day for months, and its own log said everything was fine](https://dev.to/macyou/our-watchdog-restarted-a-healthy-agent-24-times-a-day-for-months-and-its-own-log-said-everything-2c2h) (2026-09-24)
+- [The Problem With AI](https://dev.to/aguowisdom/the-problem-with-ai-21lk) (2026-09-24)
+- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83) (2026-09-24)
+- [A scheduled job can be healthy while its work is overdue](https://dev.to/_nextquestion_/a-scheduled-job-can-be-healthy-while-its-work-is-overdue-39al) (2026-09-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [WSL2 Installation Stuck at 14.9%? What I Tried and What Finally Worked.](https://medium.com/@karannsinggh/wsl2-installation-stuck-at-14-9-what-i-tried-and-what-finally-worked-05108b5dc8fd?source=rss------programming-5) (2026-09-24)
-- [How I Stopped Typing and Let an AI Coworker Do My Coding](https://medium.com/@xhary0357/how-i-stopped-typing-and-let-an-ai-coworker-do-my-coding-d5782b24f143?source=rss------programming-5) (2026-09-24)
-- [Laravel MCP Just Hit 1.0. Your App Is Now an AI Tool Whether You Planned for It or Not](https://sadiqueali.medium.com/laravel-mcp-just-hit-1-0-your-app-is-now-an-ai-tool-whether-you-planned-for-it-or-not-a82665ba4c32?source=rss------programming-5) (2026-09-24)
-- [The Linux Skill Nobody Teaches You — But Every Administrator Needs](https://pawannatekar220.medium.com/the-linux-skill-nobody-teaches-you-but-every-administrator-needs-2581ff0ddf34?source=rss------programming-5) (2026-09-24)
-- [Want to Find Better Trading Opportunities? Start With These 2 Indicators](https://medium.com/@sayedali_3166/want-to-find-better-trading-opportunities-start-with-these-2-indicators-ea37c3ee6f55?source=rss------programming-5) (2026-09-24)
+- [Calling LLM APIs from Node.js: A Practical Architecture](https://medium.com/@dprasadbairwa1997/calling-llm-apis-from-node-js-a-practical-architecture-d7fd81579ddc?source=rss------programming-5) (2026-09-24)
+- [I Audited Our WordPress Security Checklist. Half of It Was Outdated](https://medium.com/write-your-world/i-audited-our-wordpress-security-checklist-half-of-it-was-outdated-8afea4562394?source=rss------programming-5) (2026-09-24)
+- [Building Smart Worlds: How Generative AI Is Changing Game Engine Architecture](https://medium.com/@jambrouce/building-smart-worlds-how-generative-ai-is-changing-game-engine-architecture-a16e90da8174?source=rss------programming-5) (2026-09-24)
+- [How I Use AI to Learn New Technologies Faster Than Reading Documentation](https://medium.com/@vivekbajpai884/how-i-use-ai-to-learn-new-technologies-faster-than-reading-documentation-490ac2770349?source=rss------programming-5) (2026-09-24)
+- [10 Python Features I Started Using After Building Dozens of Projects](https://medium.com/codetodeploy/10-python-features-i-started-using-after-building-dozens-of-projects-b57c9224fa19?source=rss------programming-5) (2026-09-24)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Continuing to move PHP Open Source Forward](https://blog.jetbrains.com/phpstorm/2026/09/continuing-to-move-php-open-source-forward/) (2026-09-24)
+- [Designing the Kotlin Multiplatform and TeamCity Integration](https://blog.jetbrains.com/teamcity/2026/09/designing-the-kotlin-multiplatform-and-teamcity-integration/) (2026-09-24)
 - [Small Talk With Prasun Kumar, CEO and Founder of Oppex AI](https://blog.jetbrains.com/startups/2026/09/small-talk-oppex-ai/) (2026-09-23)
 - [100 Exercises to Learn Rust, Updated](https://blog.jetbrains.com/rust/2026/09/23/100-exercises-to-learn-rust/) (2026-09-23)
 - [Code Quality Q&A With the JetBrains Qodana Team](https://blog.jetbrains.com/qodana/2026/09/code-quality-q-a/) (2026-09-22)
-- [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/) (2026-09-22)
-- [The AIDEs Framework: How We Built a “Theory of Everything” for AI Development Tools](https://blog.jetbrains.com/research/2026/09/aides-framework/) (2026-09-18)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Conversations in the AI Era: Manchester Meetup Recap
+](
+https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026
+) (2026-09-23)
+- [
 The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
 ](
 https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 More data won't make your AI smarter (here's what will)
 ](
 https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter
-) (2026-09-21)
-- [
-Automating Twilio Auth Token Detection and Rotation with TruffleHog, Tines, and Slack
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-auth-token-detection-rotation-trufflehog-tines-slack
 ) (2026-09-21)
 
 </details>
@@ -524,11 +524,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Culture Change for Successful Teams](https://slack.com/blog/transformation/culture-change) (2026-09-17)
-- [Eight Tips for Successful Distributed Team Management](https://slack.com/blog/collaboration/distributed-team-management) (2026-09-17)
-- [Stages of Team Development: Make Collaboration Second Nature](https://slack.com/blog/collaboration/team-development) (2026-09-17)
-- [Why It’s Important to Improve the Employee Experience](https://slack.com/blog/collaboration/improve-employee-experience) (2026-09-17)
-- [Guide to Successful Incident Management Communication](https://slack.com/blog/collaboration/incident-management-communication) (2026-09-17)
+- [How to Onboard Remote Employees: A Complete Guide](https://slack.com/blog/collaboration/remote-onboarding) (2026-09-23)
+- [Employee Burnout: Signs, Causes, and How to Prevent It](https://slack.com/blog/productivity/employee-burnout) (2026-09-23)
+- [Agile vs. Waterfall: How To Choose the Right Project Management Approach](https://slack.com/blog/productivity/agile-vs-waterfall) (2026-09-23)
+- [How to choose between Kanban and Scrum](https://slack.com/blog/productivity/kanban-vs-scrum) (2026-09-23)
+- [Combat Meeting Overload: Ideas for Success](https://slack.com/blog/productivity/meeting-overload) (2026-09-23)
 
 </details>
 
@@ -573,17 +573,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 - [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants) (2026-09-22)
 - [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) (2026-09-22)
 - [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) (2026-09-21)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [U.S. TRANSCOM deploys randomised AI to secure military logistics](https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/) (2026-09-23)
-- [AI Agents Are Becoming a New Malware Distribution Channel](https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/) (2026-09-23)
-- [AutoScheduler launches warehouse app builder for logistics teams](https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/) (2026-09-22)
-- [Toyota’s $6.4bn robotics estimate puts physical AI in focus](https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/) (2026-09-22)
-- [Multi-agent AI systems are taking over supply chain execution](https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/) (2026-09-21)
 
 </details>
 
