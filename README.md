@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [VC firm Bessemer now has another $5.75B to invest in (what else?) AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/) (2026-09-23)
-- [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/) (2026-09-23)
-- [Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/) (2026-09-23)
-- [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/) (2026-09-23)
-- [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/) (2026-09-23)
+- [Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) (2026-09-24)
+- [Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/) (2026-09-24)
+- [Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/) (2026-09-23)
+- [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/) (2026-09-23)
+- [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/) (2026-09-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How can this Amazon scammer keep going, not shipping any goods?](https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link) (2026-09-23)
-- [DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/) (2026-09-23)
-- [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/) (2026-09-23)
-- [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) (2026-09-23)
-- [Cloud Agents Are Inevitable AI Prisons](https://normanponte.io/19df691f) (2026-09-23)
+- [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411) (2026-09-24)
+- [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) (2026-09-24)
+- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) (2026-09-24)
+- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted) (2026-09-24)
+- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) (2026-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus) (2026-09-23)
-- [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback) (2026-09-23)
-- [Meta’s AI agent is a cute little guy who’s great at spending my money](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping) (2026-09-23)
-- [Data centers are black boxes, but California wants to change that ](https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills) (2026-09-23)
-- [Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr) (2026-09-23)
+- [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware) (2026-09-24)
+- [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced) (2026-09-24)
+- [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on) (2026-09-23)
+- [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features) (2026-09-23)
+- [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026) (2026-09-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them](https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/) (2026-09-23)
-- [Discord age verification rolls out today with changes spurred by user backlash](https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/) (2026-09-23)
-- [YouTube promises custom feeds and a lot more AI later this year](https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/) (2026-09-23)
-- [Contrary to some reports, you don't have two brains](https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/) (2026-09-23)
-- [Netflix releases trailer for Brad Bird's Ray Gunn](https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/) (2026-09-23)
+- [RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access](https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/) (2026-09-23)
+- [FBI rushes to investigate if ShinyHunters hack of thousands of employees is real](https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/) (2026-09-23)
+- [Disney+ and Hulu raise prices by up to 13 percent after doubling profits](https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/) (2026-09-23)
+- [Here's the Torcal, the first fully electric Bentley](https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/) (2026-09-23)
+- [Trump’s China rivalry and “AI race” delusion may endanger US, experts say](https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/) (2026-09-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 08)](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60) (2026-09-23)
-- [It agreed with the reference 100% of the time. It was right 75% of the time.](https://dev.to/maazkazi/it-agreed-with-the-reference-100-of-the-time-it-was-right-75-of-the-time-5c8k) (2026-09-23)
-- [Anthropic’s Bay Area Biology Lab Brings Claude Into Wet-Lab Research](https://dev.to/alifar/anthropics-bay-area-biology-lab-brings-claude-into-wet-lab-research-10o4) (2026-09-23)
-- [Combined Serilog and EF Core Logging to the Same File in ASP .NET Core](https://dev.to/karenpayneoregon/combined-serilog-and-ef-core-logging-to-the-same-file-in-asp-net-core-1cl6) (2026-09-23)
-- [Pytest in Practice](https://dev.to/nyakio/pytest-in-practice-4oda) (2026-09-23)
+- [How three OSLabs engineers built a CLI to catch you overpaying Claude](https://dev.to/oliviamckelvey/how-three-oslabs-engineers-built-a-cli-to-catch-you-overpaying-claude-531e) (2026-09-24)
+- [We Built a CLI to Find Out If You’re Overpaying for Claude](https://dev.to/oliviamckelvey/we-built-a-cli-to-find-out-if-youre-overpaying-for-claude-1p26) (2026-09-24)
+- [Is a Codex usage-limit reset coming? Check from your terminal with a free API (or MCP)](https://dev.to/codexreset/is-a-codex-usage-limit-reset-coming-check-from-your-terminal-with-a-free-api-or-mcp-3enb) (2026-09-24)
+- [MCP or CLI? Choose by Who Controls the Workflow](https://dev.to/plopino/mcp-or-cli-choose-by-who-controls-the-workflow-4ii8) (2026-09-24)
+- [Billing an AI Agent Without Breaking Its Tool Loop](https://dev.to/gangan/billing-an-ai-agent-without-breaking-its-tool-loop-1474) (2026-09-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What AI models Still Can’t See in Your Codebase, but Engineers Do](https://medium.com/@elgvard/what-ai-models-still-cant-see-in-your-codebase-but-engineers-do-172cd6cd6bfd?source=rss------programming-5) (2026-09-23)
-- [My Best Engineer Refused to Use AI. I Fired Her Six Months Later.](https://devrimozcay.medium.com/my-best-engineer-refused-to-use-ai-i-fired-her-six-months-later-8c4fe36c5ecb?source=rss------programming-5) (2026-09-23)
-- [File Uploads in Next.js: The Right Way (S3 and Presigned URLs)](https://medium.com/@entepazhe/file-uploads-in-next-js-the-right-way-s3-and-presigned-urls-681bc56c417b?source=rss------programming-5) (2026-09-23)
-- [SOLID Principles in Python: What Years of Production Code Taught Me](https://medium.com/@pranoy.prabhakar2009/solid-principles-in-python-what-years-of-production-code-taught-me-798d239d83b0?source=rss------programming-5) (2026-09-23)
-- [Comfy Router isn’t just simplifying pipelines – it’s routing the future of civilization.](https://medium.com/@ai_domez/comfy-router-isnt-just-simplifying-pipelines-it-s-routing-the-future-of-civilization-0f52dfbdf41c?source=rss------programming-5) (2026-09-23)
+- [WSL2 Installation Stuck at 14.9%? What I Tried and What Finally Worked.](https://medium.com/@karannsinggh/wsl2-installation-stuck-at-14-9-what-i-tried-and-what-finally-worked-05108b5dc8fd?source=rss------programming-5) (2026-09-24)
+- [How I Stopped Typing and Let an AI Coworker Do My Coding](https://medium.com/@xhary0357/how-i-stopped-typing-and-let-an-ai-coworker-do-my-coding-d5782b24f143?source=rss------programming-5) (2026-09-24)
+- [Laravel MCP Just Hit 1.0. Your App Is Now an AI Tool Whether You Planned for It or Not](https://sadiqueali.medium.com/laravel-mcp-just-hit-1-0-your-app-is-now-an-ai-tool-whether-you-planned-for-it-or-not-a82665ba4c32?source=rss------programming-5) (2026-09-24)
+- [The Linux Skill Nobody Teaches You — But Every Administrator Needs](https://pawannatekar220.medium.com/the-linux-skill-nobody-teaches-you-but-every-administrator-needs-2581ff0ddf34?source=rss------programming-5) (2026-09-24)
+- [Want to Find Better Trading Opportunities? Start With These 2 Indicators](https://medium.com/@sayedali_3166/want-to-find-better-trading-opportunities-start-with-these-2-indicators-ea37c3ee6f55?source=rss------programming-5) (2026-09-24)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
+- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
 - [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
-- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
-- [Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/) (2026-09-08)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Bringing Private Processing to Meta AI Glasses](https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/) (2026-09-24)
 - [Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems](https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/) (2026-09-21)
 - [Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable](https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/) (2026-09-21)
 - [ZGateway: Learnings from Putting a Proxy in Front of ZippyDB](https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/) (2026-09-03)
 - [An Organizational Second Brain: Building an AI That Learns From Experts](https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/) (2026-09-02)
-- [MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet](https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/) (2026-08-24)
 
 </details>
 
@@ -330,20 +330,20 @@
 
 - [Visual Studio Code 1.140 (Insiders)](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
 - [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
+- [Building the new GitHub Copilot Inline Suggestions Model: Part Two](https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two) (2026-09-23)
 - [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
 - [Building the new GitHub Copilot Inline Suggestions Model: Part One](https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one) (2026-09-16)
-- [Visual Studio Code 1.137](https://code.visualstudio.com/updates/v1_137) (2026-09-09)
 
 </details>
 
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Critical Patch Release: 19.4.1, 19.3.3, 19.2.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-1-released/) (2026-09-23)
 - [How to design GitLab for enterprise scale](https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/) (2026-09-22)
 - [How GitLab reduced code-per-agentic-flow ratio by 45%](https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/) (2026-09-22)
 - [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/) (2026-09-18)
 - [GitLab 19.4 released](https://docs.gitlab.com/releases/19/gitlab-19-4-released/) (2026-09-18)
-- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) (2026-09-17)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai) (2026-09-24)
 - [Unlimited Vercel Blob stores on every plan](https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan) (2026-09-23)
+- [Gemini 3.8 text-to-speech models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway) (2026-09-23)
 - [Drives for Vercel Sandbox are now in public beta](https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta) (2026-09-23)
 - [GPT-6 Sol and Luna now available on AI Gateway](https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway) (2026-09-22)
-- [Claude Opus 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway) (2026-09-22)
-- [Vercel Connect now supports Microsoft Teams](https://vercel.com/changelog/vercel-connect-microsoft-teams) (2026-09-21)
 
 </details>
 
@@ -505,8 +505,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-
 - [ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-6 + more)](https://zapier.com/blog/automate-chatgpt) (2026-09-23)
 - [Claude integrations: How to use Zapier with Claude (Fable 5.1, Opus 5.5, and more)](https://zapier.com/blog/automate-claude) (2026-09-23)
 - [Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-09-23)
-- [How Jocelyne Mendez-Guzman made follow-up faster](https://zapier.com/blog/biorender-sales-followup) (2026-09-23)
 - [How Ethan Schwandt helped Jobber turn AI adoption into a building culture](https://zapier.com/blog/jobber-ai-transformation-leader) (2026-09-23)
+- [How Jocelyne Mendez-Guzman made follow-up faster](https://zapier.com/blog/biorender-sales-followup) (2026-09-23)
 
 </details>
 
