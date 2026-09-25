@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) (2026-09-25)
-- [Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack](https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/) (2026-09-25)
-- [For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/) (2026-09-25)
-- [Anthropic’s founders seek voting control ahead of IPO](https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/) (2026-09-25)
-- [Tesla finally moves to electrify trucking after a decade of work and delays](https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/) (2026-09-25)
+- [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) (2026-09-25)
+- [The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/) (2026-09-25)
+- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) (2026-09-25)
+- [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) (2026-09-25)
+- [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem) (2026-09-25)
-- [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/) (2026-09-25)
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) (2026-09-25)
-- [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models) (2026-09-25)
-- [Factorio that you can touch](https://factorio.com/blog/post/fff-447) (2026-09-25)
+- [Rising sea destroys homes, erases beaches in California](https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/) (2026-09-25)
+- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035) (2026-09-25)
+- [Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding](https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding) (2026-09-25)
+- [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) (2026-09-25)
+- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk) (2026-09-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k) (2026-09-25)
-- [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) (2026-09-25)
-- [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) (2026-09-25)
-- [Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers](https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers) (2026-09-25)
-- [Gaming’s biggest horror series are more vital than ever](https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil) (2026-09-25)
+- [Roku&#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale) (2026-09-25)
+- [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks) (2026-09-25)
+- [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera) (2026-09-25)
+- [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands) (2026-09-25)
+- [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem) (2026-09-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [CDC opens state ordering for COVID-19 vaccines after unexplained delay](https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/) (2026-09-24)
-- [Donald Duck's uncle was partly based on Wernher von Braun](https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/) (2026-09-24)
-- [F-Droid gets its biggest update in a decade with new UI and smoother app installs](https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/) (2026-09-24)
-- [New York defies Trump admin, asks court to shut down Polymarket gambling](https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/) (2026-09-24)
-- [We have a trailer for Musk documentary Elon called a "hit piece"](https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/) (2026-09-24)
+- [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/) (2026-09-25)
+- [AI was supposed to hit new grads hard. So far, unemployment data says otherwise.](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/) (2026-09-25)
+- [Paramount/WBD merger conditions give the public "virtually nothing," judge is told](https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/) (2026-09-25)
+- [Is solar's growth finally slowing in the US?](https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/) (2026-09-25)
+- [Microsoft stops insisting you need a "Copilot+ PC"](https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/) (2026-09-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot app for Beginners: How to build custom workflows with canvases](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/) (2026-09-25)
 - [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/) (2026-09-25)
 - [When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/) (2026-09-24)
 - [AI-powered fuzzing with the GitHub Security Lab Taskflow Agent](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/) (2026-09-24)
 - [Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/) (2026-09-23)
-- [Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.](https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/) (2026-09-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SaaS File Uploads: Make Selection, Errors, and Success Clear](https://dev.to/urielbitton/saas-file-uploads-make-selection-errors-and-success-clear-3i9m) (2026-09-25)
-- [Hook constraint benchmark kaggle-challenge DONE !!!](https://dev.to/shahzeen_anwar_75143f6785/hook-constraint-benchmark-kaggle-challenge-done--25l7) (2026-09-25)
-- [What Really Happens When You Press Enter? The Browser Rendering Pipeline Explained](https://dev.to/avinashsharma01/what-really-happens-when-you-press-enter-the-browser-rendering-pipeline-explained-3paf) (2026-09-25)
-- [This Bug Tracker Lives Inside Your Git Repo: A Hands-On Guide to git-bug](https://dev.to/jamilxt/this-bug-tracker-lives-inside-your-git-repo-a-hands-on-guide-to-git-bug-3bjp) (2026-09-25)
-- [🔥 30 Days of Frontend — Day 2: React Reconciliation](https://dev.to/alaa-samy/30-days-of-frontend-day-2-react-reconciliation-2fa3) (2026-09-25)
+- [Integração com o iFood: o problema na homologação do developer](https://dev.to/felipebufelli/integracao-com-o-ifood-o-bug-que-ficou-escondido-por-semanas-e-a-investigacao-que-terminou-numa-30hf) (2026-09-25)
+- [DORA metrics + SLOs without external infrastructure: a Cloudflare Workers approach](https://dev.to/trimtabsignal/dora-metrics-slos-without-external-infrastructure-a-cloudflare-workers-approach-423c) (2026-09-25)
+- [Google Gemini 3.8 Connects Expressive Voice, Live Avatar and Notebook Context](https://dev.to/alifar/google-gemini-38-connects-expressive-voice-live-avatar-and-notebook-context-32h6) (2026-09-25)
+- [Crystals: agent memory that arrives before you act](https://dev.to/tom_jones_230c4659491adcd/crystals-agent-memory-that-arrives-before-you-act-27h8) (2026-09-25)
+- [The System Never Checked If You Slept. Ours Reads Your Pulse First.](https://dev.to/dronzer2code/the-system-never-checked-if-you-slept-ours-reads-your-pulse-first-2hai) (2026-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I will design logo and brand guidelines, brand identity kit brand style guide brandbook](https://globalbrandcraft.medium.com/i-will-design-logo-and-brand-guidelines-brand-identity-kit-brand-style-guide-brandbook-5fc98f75118e?source=rss------programming-5) (2026-09-25)
-- [Logging in .NET](https://medium.com/@rhutu.takle/logging-in-net-d57f494b5a96?source=rss------programming-5) (2026-09-25)
-- [Nmap Found the Port. The Real Work Started After That.](https://medium.com/@fatihaali093/nmap-found-the-port-the-real-work-started-after-that-3ace2ca07462?source=rss------programming-5) (2026-09-25)
-- [This AI research tool is incredible](https://medium.com/coding-beauty/this-ai-research-tool-is-incredible-aaf1f72f7b51?source=rss------programming-5) (2026-09-25)
-- [Why I’m Starting to Write About What I Build](https://medium.com/@syedmusa.ali.19/why-im-starting-to-write-about-what-i-build-22fe123188a8?source=rss------programming-5) (2026-09-25)
+- [I build custom Roblox environments from the ground up.](https://qoddackstudio.medium.com/i-build-custom-roblox-environments-from-the-ground-up-73743b02b1f8?source=rss------programming-5) (2026-09-25)
+- [Debugging Is Sisyphus’s Boulder. AI Didn’t Take It Away. It Just Made It Lighter.](https://medium.com/@afreennijam98/debugging-is-sisyphuss-boulder-ai-didn-t-take-it-away-it-just-made-it-lighter-7c5ef136e6ff?source=rss------programming-5) (2026-09-25)
+- [The Tower of Babel Was a Distributed Systems Problem](https://medium.com/@iamtokstesla/the-tower-of-babel-was-a-distributed-systems-problem-5849c8454151?source=rss------programming-5) (2026-09-25)
+- [Nine Worked Examples, Eight Risk Domains: pyvar’s Jupyter Notebooks in Practice](https://medium.com/@filippo.buchicchio/nine-worked-examples-eight-risk-domains-pyvars-jupyter-notebooks-in-practice-838c04d2f869?source=rss------programming-5) (2026-09-25)
+- [Architecting the RAG Pipeline: Ingestion, Chunking, and Vector DBs](https://medium.com/@rahimwalikt1/architecting-the-rag-pipeline-ingestion-chunking-and-vector-dbs-b42106bce1b9?source=rss------programming-5) (2026-09-25)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
-- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
-- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
+- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
+- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
+- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.140 (Insiders)](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
-- [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
-- [Building the new GitHub Copilot Inline Suggestions Model: Part Two](https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two) (2026-09-23)
-- [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
-- [Building the new GitHub Copilot Inline Suggestions Model: Part One](https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one) (2026-09-16)
+- [July 2025 (version 1.103)](https://code.visualstudio.com/updates/v1_103) (2025-08-07)
+- [Command GitHub's Coding Agent from VS Code](https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent) (2025-07-17)
+- [June 2025 (version 1.102)](https://code.visualstudio.com/updates/v1_102) (2025-07-09)
+- [Open Source AI Editor: First Milestone](https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone) (2025-06-30)
+- [May 2025 (version 1.101)](https://code.visualstudio.com/updates/v1_101) (2025-06-12)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [State of agent skills](https://vercel.com/blog/state-of-agent-skills) (2026-09-25)
 - [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available) (2026-09-24)
 - [How Klaviyo shipped 356 internal apps in two weeks on Vercel ](https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel) (2026-09-24)
 - [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai) (2026-09-24)
 - [Unlimited Vercel Blob stores on every plan](https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan) (2026-09-23)
-- [Gemini 3.8 text-to-speech models now available on AI Gateway](https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway) (2026-09-23)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Conversations in the AI Era: Manchester Meetup Recap
+The #1 AI behavior hurting your customers’ experiences
 ](
-https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026
-) (2026-09-23)
+https://www.twilio.com/en-us/blog/insights/lost-context-between-channels
+) (2026-09-25)
 - [
-Collected, stored, and useless: The lifecycle of most customer data
+What is AI agent orchestration? How it works in 2026
 ](
-https://www.twilio.com/en-us/blog/insights/customer-data-activation-problem
-) (2026-09-23)
+https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
+) (2026-09-25)
 - [
-The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
+How to handle real-time interruptions in your AI voice agent
 ](
-https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
-) (2026-09-22)
+https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling
+) (2026-09-25)
 - [
-How to design an AI-to-human handoff that preserves context
+How to Build an RCS Business Messaging Campaign with Twilio in C#
 ](
-https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context
-) (2026-09-22)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp
+) (2026-09-25)
 - [
-Sending SMS with an Agentic AI using Twilio and Hermes Agent
+How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
-) (2026-09-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay
+) (2026-09-24)
 
 </details>
 
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [When to choose x86-64 vs aarch64](https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64) (2026-09-25)
 - [TIN Postgres search is faster, better, and cheaper](https://planetscale.com/blog/searching-hn-with-tin) (2026-09-23)
 - [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) (2026-09-22)
 - [Blocking cutovers to save replication slots](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) (2026-09-21)
 - [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) (2026-09-18)
-- [Introducing Lead: TIN-compatible full-text search for CI](https://planetscale.com/blog/introducing-lead) (2026-09-17)
 
 </details>
 
@@ -582,7 +582,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 - [10 Things I’m Learning Beyond AI to Become More Technologically Fluent](https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/) (2026-09-25)
 - [Your Model's MSE Is Lying to You: Part II](https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/) (2026-09-25)
 - [RAG Isn't an Agent — I Built the Layer Between Retrieval and Action](https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/) (2026-09-25)
-- [Jev vs. LLMs: When AI moves from Generation to Decision-making](https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/) (2026-09-25)
+- [Jev vs. LLMs: When AI Moves from Generation to Decision-Making](https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/) (2026-09-25)
 - [How to Maximize Your Coding Agent Subscriptions](https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/) (2026-09-24)
 
 </details>
@@ -628,6 +628,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
+- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
+- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) (2026-09-08)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
