@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Waymo is scaling fast. Here’s what the fleet data shows.](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/) (2026-09-24)
+- [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/) (2026-09-25)
+- [Waymo is scaling fast: Here’s what the fleet data shows](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/) (2026-09-24)
 - [Nexterity wants to automate the hard, dangerous part of pipefitting](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/) (2026-09-24)
 - [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) (2026-09-24)
 - [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) (2026-09-24)
-- [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/) (2026-09-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions) (2026-09-25)
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) (2026-09-24)
-- [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/) (2026-09-24)
-- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that) (2026-09-24)
-- [Opus 5.5 is good at explainer videos](https://launchvideo.io) (2026-09-24)
+- [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go) (2026-09-25)
+- [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy) (2026-09-25)
+- [Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016) (2026-09-25)
+- [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/) (2026-09-25)
+- [Tech Needs Humanists More](https://passo.uno/tech-needs-humanists-more-than-ever/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer) (2026-09-25)
 - [Microsoft is killing off the ‘Copilot Plus PC’ brand](https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand) (2026-09-25)
 - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats) (2026-09-24)
 - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream) (2026-09-24)
 - [Microsoft puts Brad Smith in charge of communications](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela) (2026-09-24)
-- [Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) (2026-09-24)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) (2026-09-25)
+- [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/) (2026-09-25)
 - [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/) (2026-09-24)
 - [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/) (2026-09-24)
 - [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/) (2026-09-23)
-- [The Download: India’s smart glasses menace and AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/) (2026-09-23)
-- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) (2026-09-23)
 
 </details>
 
@@ -75,35 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Professional skepticism is a dev’s best skill](https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/) (2026-09-25)
 - [Multiplayer AI: Why your team (and its agents) need a group chat](https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/) (2026-09-23)
 - [Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/) (2026-09-22)
 - [The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/) (2026-09-17)
 - [From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/) (2026-09-16)
-- [AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/) (2026-09-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Two AI APIs die this weekend: Perplexity Sonar (Sep 27) and Appsmith AI (Sep 30)](https://dev.to/kashif_manzer/two-ai-apis-die-this-weekend-perplexity-sonar-sep-27-and-appsmith-ai-sep-30-599h) (2026-09-25)
-- [F-Droid 2.0 vs Google Play Store: Two App Stores, Two Completely Different Ideas About Your Phone](https://dev.to/jamilxt/f-droid-20-vs-google-play-store-two-app-stores-two-completely-different-ideas-about-your-phone-1pba) (2026-09-25)
-- [Mastering LLM-as-Judge: Automated Annotation and Triage for Production AI Failures](https://dev.to/hamza_dev_talks/mastering-llm-as-judge-automated-annotation-and-triage-for-production-ai-failures-56k2) (2026-09-25)
-- [A Check With a Zero Denominator Reports Clean](https://dev.to/megapixel99/a-check-with-a-zero-denominator-reports-clean-kj6) (2026-09-25)
-- [Searching some one to help with, mine Useful Personality test app/site idea](https://dev.to/g-hey/searching-some-one-to-help-with-mine-useful-personality-test-appsite-idea-42fn) (2026-09-25)
+- [A blank page and a green test: the bug an agent can't see](https://dev.to/jgauffin/a-blank-page-and-a-green-test-the-bug-an-agent-cant-see-3noo) (2026-09-25)
+- [Your ledger is losing money and your tests will never tell you](https://dev.to/sunny56/your-ledger-is-losing-money-and-your-tests-will-never-tell-you-gbo) (2026-09-25)
+- [Your first AI SRE: I gave the worst hour of on-call to a team of agents, and they diagnosed the incident, scored their own confidence, and opened the fix.](https://dev.to/sayokbose91/your-first-ai-sre-i-gave-the-worst-hour-of-on-call-to-a-team-of-agents-and-they-diagnosed-the-2fd0) (2026-09-25)
+- [I Built a Free Sci-Hub Alternative from Iraq - 250M Papers, No Paywall](https://dev.to/mahmood_aldulaimi_fe3d98/i-built-a-free-sci-hub-alternative-from-iraq-250m-papers-no-paywall-mf3) (2026-09-25)
+- [11810799000 doesn't want his 12324312000 to be called 0.000038195235563656617](https://dev.to/sunu15712/11810799000-doesnt-want-his-12324312000-to-be-called-0000038195235563656617-42fm) (2026-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [​Agentic AI Governance & Quantum Security Automation in 2026](https://medium.com/@arahmedahmed99/agentic-ai-governance-quantum-security-automation-in-2026-f9641d16cb7d?source=rss------programming-5) (2026-09-25)
-- [AI Agent Architecture: Orchestrating Models, Tools, Memory and Retrieval](https://medium.com/@scosmexs/ai-agent-architecture-orchestrating-models-tools-memory-and-retrieval-ac24e7fffa7f?source=rss------programming-5) (2026-09-25)
-- [My Recent Technical Interview Experience | React + JavaScript](https://medium.com/@anil-singh/my-recent-technical-interview-experience-react-javascript-ea9fe62eee98?source=rss------programming-5) (2026-09-25)
-- [EPAM | Interview Questions](https://medium.com/@anil-singh/epam-interview-questions-ce6921ba2879?source=rss------programming-5) (2026-09-25)
-- [You Know Windows.
-You Don’t Know Computers.
-Here’s The Difference.](https://medium.com/@rajkanjariya2020/you-know-windows-you-dont-know-computers-here-s-the-difference-26f12de6c802?source=rss------programming-5) (2026-09-25)
+- [RAG Explained: What Happens Behind the Scenes?](https://medium.com/@dprasadbairwa1997/rag-explained-what-happens-behind-the-scenes-53f29e879860?source=rss------programming-5) (2026-09-25)
+- [The 10 Commandments of Agentic AI Security](https://jordansrowles.medium.com/the-10-commandments-of-agentic-ai-security-07a91ba38a31?source=rss------programming-5) (2026-09-25)
+- [The Programming Languages Worth Learning in 2026 (And What Actually Builds AI)](https://medium.com/@danielmurphy02830/the-programming-languages-worth-learning-in-2026-and-what-actually-builds-ai-9b726f35b104?source=rss------programming-5) (2026-09-25)
+- [The One With The Reorder Reminders](https://medium.com/@obi.the.explorer/the-one-with-the-reorder-reminders-c4a9d7c843bc?source=rss------programming-5) (2026-09-25)
+- [MCP Explained: The Protocol That Connects AI to the Real World](https://medium.com/@abdullahshahidt/mcp-explained-the-protocol-that-connects-ai-to-the-real-world-38b31711f6f8?source=rss------programming-5) (2026-09-25)
 
 </details>
 
@@ -121,11 +119,11 @@ Here’s The Difference.](https://medium.com/@rajkanjariya2020/you-know-windows-
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 - [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 
 </details>
 
@@ -386,6 +384,11 @@ Here’s The Difference.](https://medium.com/@rajkanjariya2020/you-know-windows-
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay
+) (2026-09-24)
+- [
 Conversations in the AI Era: Manchester Meetup Recap
 ](
 https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026
@@ -405,11 +408,6 @@ How to design an AI-to-human handoff that preserves context
 ](
 https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context
 ) (2026-09-22)
-- [
-Sending SMS with an Agentic AI using Twilio and Hermes Agent
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent
-) (2026-09-21)
 
 </details>
 
@@ -581,22 +579,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Jev vs. LLMs: When AI moves from Generation to Decision-making](https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/) (2026-09-25)
 - [How to Maximize Your Coding Agent Subscriptions](https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/) (2026-09-24)
 - [Beyond RAGs: Building Actually Truthful AI Harnesses](https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/) (2026-09-24)
 - [Towards Spec-Driven Test Automation: Part 1](https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/) (2026-09-24)
 - [When the Correct Answer Is Nothing, What Does Your Pipeline Return?](https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/) (2026-09-24)
-- [I Trained a Tiny Network to Compress Data. It Drew a Pentagon.](https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/) (2026-09-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Solved Generative AI Projects to Boost your Profile ](https://www.analyticsvidhya.com/blog/2026/09/solved-generative-ai-projects/) (2026-09-25)
 - [GPT-6 Sol and Luna: Near-Astra Performance at Half the Price?](https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/) (2026-09-24)
 - [Claude Opus 5.5 Tested: What’s New and How Good is it?](https://www.analyticsvidhya.com/blog/2026/09/claude-opus-5-5-tested/) (2026-09-22)
 - [Jev Explained: The AI Model That Never Generates a Word of Text](https://www.analyticsvidhya.com/blog/2026/09/jev-explained/) (2026-09-22)
 - [OpenAI Model Misalignment Explained Through Six Real Incidents](https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/) (2026-09-21)
-- [Recursive Self-Improvement: The Last AI Built by Humans ](https://www.analyticsvidhya.com/blog/2026/09/recursive-self-improvement/) (2026-09-18)
 
 </details>
 
