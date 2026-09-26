@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) (2026-09-26)
+- [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) (2026-09-25)
+- [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) (2026-09-25)
+- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) (2026-09-25)
 - [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) (2026-09-25)
-- [The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/) (2026-09-25)
-- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) (2026-09-25)
-- [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) (2026-09-25)
-- [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rising sea destroys homes, erases beaches in California](https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/) (2026-09-25)
-- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035) (2026-09-25)
-- [Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding](https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding) (2026-09-25)
-- [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) (2026-09-25)
-- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk) (2026-09-25)
+- [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) (2026-09-26)
+- [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide) (2026-09-26)
+- [TiddlyInstall: A universal, reusable, install system](https://robertsdotpm.github.io/_static/tiddlyinstall.html) (2026-09-26)
+- [Show HN: A game about fake news and memes](https://unspin.app/) (2026-09-26)
+- [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens) (2026-09-25)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) (2026-09-25)
+- [Court rules Trump can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
+- [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) (2026-09-25)
+- [Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?](https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/) (2026-09-25)
 - [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/) (2026-09-25)
-- [AI was supposed to hit new grads hard. So far, unemployment data says otherwise.](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/) (2026-09-25)
-- [Paramount/WBD merger conditions give the public "virtually nothing," judge is told](https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/) (2026-09-25)
-- [Is solar's growth finally slowing in the US?](https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/) (2026-09-25)
-- [Microsoft stops insisting you need a "Copilot+ PC"](https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/) (2026-09-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Integração com o iFood: o problema na homologação do developer](https://dev.to/felipebufelli/integracao-com-o-ifood-o-bug-que-ficou-escondido-por-semanas-e-a-investigacao-que-terminou-numa-30hf) (2026-09-25)
-- [DORA metrics + SLOs without external infrastructure: a Cloudflare Workers approach](https://dev.to/trimtabsignal/dora-metrics-slos-without-external-infrastructure-a-cloudflare-workers-approach-423c) (2026-09-25)
-- [Google Gemini 3.8 Connects Expressive Voice, Live Avatar and Notebook Context](https://dev.to/alifar/google-gemini-38-connects-expressive-voice-live-avatar-and-notebook-context-32h6) (2026-09-25)
-- [Crystals: agent memory that arrives before you act](https://dev.to/tom_jones_230c4659491adcd/crystals-agent-memory-that-arrives-before-you-act-27h8) (2026-09-25)
-- [The System Never Checked If You Slept. Ours Reads Your Pulse First.](https://dev.to/dronzer2code/the-system-never-checked-if-you-slept-ours-reads-your-pulse-first-2hai) (2026-09-25)
+- [Kubernetes for Agents: Why Agent Fleets Need a Control Plane](https://dev.to/debashish_ghosal/kubernetes-for-agents-why-agent-fleets-need-a-control-plane-2lo6) (2026-09-26)
+- [Digital Logic Explained](https://dev.to/wesleybertipaglia/digital-logic-explained-2863) (2026-09-26)
+- [A Curve Fitter That Refuses to Answer](https://dev.to/megapixel99/a-curve-fitter-that-refuses-to-answer-2jm) (2026-09-26)
+- [Meta AIRA จากสนามซ้อมสู่เหรียญทอง Kaggle: ไล่ทีละตัวเลขว่าเกิดอะไรขึ้น](https://dev.to/sarantoon/meta-aira-cchaaksnaamchmsuuehriiyythng-kaggle-ailthiilatawelkhwaaekidaairkhuen-3a1c) (2026-09-26)
+- [Building FoxyInvoice — Chapter 12: Engagement & automation — UI first, then automate](https://dev.to/seolith/building-foxyinvoice-chapter-12-engagement-automation-ui-first-then-automate-14d5) (2026-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I build custom Roblox environments from the ground up.](https://qoddackstudio.medium.com/i-build-custom-roblox-environments-from-the-ground-up-73743b02b1f8?source=rss------programming-5) (2026-09-25)
-- [Debugging Is Sisyphus’s Boulder. AI Didn’t Take It Away. It Just Made It Lighter.](https://medium.com/@afreennijam98/debugging-is-sisyphuss-boulder-ai-didn-t-take-it-away-it-just-made-it-lighter-7c5ef136e6ff?source=rss------programming-5) (2026-09-25)
-- [The Tower of Babel Was a Distributed Systems Problem](https://medium.com/@iamtokstesla/the-tower-of-babel-was-a-distributed-systems-problem-5849c8454151?source=rss------programming-5) (2026-09-25)
-- [Nine Worked Examples, Eight Risk Domains: pyvar’s Jupyter Notebooks in Practice](https://medium.com/@filippo.buchicchio/nine-worked-examples-eight-risk-domains-pyvars-jupyter-notebooks-in-practice-838c04d2f869?source=rss------programming-5) (2026-09-25)
-- [Architecting the RAG Pipeline: Ingestion, Chunking, and Vector DBs](https://medium.com/@rahimwalikt1/architecting-the-rag-pipeline-ingestion-chunking-and-vector-dbs-b42106bce1b9?source=rss------programming-5) (2026-09-25)
+- [Ballerina HTTP Interceptors: Stop the Request Before It Reaches Your Handler](https://medium.com/@viththagan.rn/ballerina-http-interceptors-stop-the-request-before-it-reaches-your-handler-4cda7e3cb294?source=rss------programming-5) (2026-09-26)
+- [Multi-Agent Systems: When Multiple Agents Collaborate](https://medium.com/@scosmexs/multi-agent-systems-when-multiple-agents-collaborate-fb58942b6966?source=rss------programming-5) (2026-09-26)
+- [I Found 6 Websites That Make Learning Tech Much Easier](https://medium.com/coinmonks/i-found-6-websites-that-make-learning-tech-much-easier-154ea0337caf?source=rss------programming-5) (2026-09-26)
+- [Why the Record Matters](https://medium.com/@eduard.deira/why-the-record-matters-3a5f54477ff3?source=rss------programming-5) (2026-09-26)
+- [The Escalation Record: September 14–25, 2026](https://medium.com/@eduard.deira/the-escalation-record-september-14-25-2026-76ea76958e32?source=rss------programming-5) (2026-09-26)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/) (2026-09-10)
-- [The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/) (2026-09-10)
-- [The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/) (2026-09-10)
-- [Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/) (2026-09-09)
+- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
+- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
+- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
+- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
+- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [July 2025 (version 1.103)](https://code.visualstudio.com/updates/v1_103) (2025-08-07)
-- [Command GitHub's Coding Agent from VS Code](https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent) (2025-07-17)
-- [June 2025 (version 1.102)](https://code.visualstudio.com/updates/v1_102) (2025-07-09)
-- [Open Source AI Editor: First Milestone](https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone) (2025-06-30)
-- [May 2025 (version 1.101)](https://code.visualstudio.com/updates/v1_101) (2025-06-12)
+- [Visual Studio Code 1.140 (Insiders)](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
+- [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
+- [Building the new GitHub Copilot Inline Suggestions Model: Part Two](https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two) (2026-09-23)
+- [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
+- [Building the new GitHub Copilot Inline Suggestions Model: Part One](https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one) (2026-09-16)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Push images to Vercel Container Registry from GitHub Actions](https://vercel.com/changelog/vcr-login-github-action) (2026-09-25)
 - [State of agent skills](https://vercel.com/blog/state-of-agent-skills) (2026-09-25)
+- [Pixel Canary is now available in stealth for free on AI Gateway](https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway) (2026-09-25)
+- [Vercel Sandbox now supports memory observability](https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability) (2026-09-25)
 - [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available) (2026-09-24)
-- [How Klaviyo shipped 356 internal apps in two weeks on Vercel ](https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel) (2026-09-24)
-- [Vercel Connect now supports TanStack AI](https://vercel.com/changelog/vercel-connect-tanstack-ai) (2026-09-24)
-- [Unlimited Vercel Blob stores on every plan](https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan) (2026-09-23)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-The #1 AI behavior hurting your customers’ experiences
-](
-https://www.twilio.com/en-us/blog/insights/lost-context-between-channels
-) (2026-09-25)
-- [
-What is AI agent orchestration? How it works in 2026
-](
-https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
-) (2026-09-25)
-- [
-How to handle real-time interruptions in your AI voice agent
-](
-https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling
-) (2026-09-25)
-- [
-How to Build an RCS Business Messaging Campaign with Twilio in C#
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp
-) (2026-09-25)
-- [
 How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay
 ) (2026-09-24)
+- [
+Conversations in the AI Era: Manchester Meetup Recap
+](
+https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026
+) (2026-09-23)
+- [
+Collected, stored, and useless: The lifecycle of most customer data
+](
+https://www.twilio.com/en-us/blog/insights/customer-data-activation-problem
+) (2026-09-23)
+- [
+The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
+](
+https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
+) (2026-09-22)
+- [
+How to design an AI-to-human handoff that preserves context
+](
+https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context
+) (2026-09-22)
 
 </details>
 
@@ -480,7 +480,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
-- [Apollo API IP Allowlist Update: Second IP Addresss Now Live](https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live) (2026-09-22)
+- [Apollo API IP Allowlist Update: Second IP Addresses Now Live](https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live) (2026-09-22)
 - [What’s New in Apollo Client 4.3](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-3) (2026-09-15)
 - [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
 - [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
