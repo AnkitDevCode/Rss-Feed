@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/) (2026-09-26)
+- [Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/) (2026-09-26)
+- [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/) (2026-09-26)
 - [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) (2026-09-26)
 - [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) (2026-09-26)
-- [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) (2026-09-25)
-- [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) (2026-09-25)
-- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm) (2026-09-26)
-- [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior) (2026-09-26)
-- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) (2026-09-26)
-- [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) (2026-09-26)
-- [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) (2026-09-26)
+- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (2026-09-26)
+- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) (2026-09-26)
+- [I'm the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip) (2026-09-26)
+- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) (2026-09-26)
+- [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/) (2026-09-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview) (2026-09-26)
+- [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section) (2026-09-26)
+- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) (2026-09-26)
 - [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) (2026-09-26)
 - [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs) (2026-09-26)
-- [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers) (2026-09-26)
-- [Can &#8216;eSUV&#8217; e-bikes really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox) (2026-09-26)
-- [Roku&#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale) (2026-09-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Tesla’s big electric truck faces an even bigger infrastructure challenge](https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/) (2026-09-26)
 - [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) (2026-09-25)
 - [Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
 - [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) (2026-09-25)
 - [Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?](https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/) (2026-09-25)
-- [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/) (2026-09-25)
 
 </details>
 
@@ -86,22 +86,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Telegram AI Agent That Can Actually Use Tools O.O](https://dev.to/hexzonetwork/i-built-a-telegram-ai-agent-that-can-actually-use-tools-oo-2cgc) (2026-09-26)
-- [I Thought a Calendar Was Just a 7-Column Grid Until I Started Building One](https://dev.to/karecohen/i-thought-a-calendar-was-just-a-7-column-grid-until-i-started-building-one-5chi) (2026-09-26)
-- [Building the Capsize Audio Visualizer with C++ and Qt](https://dev.to/w4ffl35/building-the-capsize-audio-visualizer-with-c-and-qt-4lln) (2026-09-26)
-- [A web shop without a database or payment provider: the ForgeCMS shop module](https://dev.to/artanidos/a-web-shop-without-a-database-or-payment-provider-the-forgecms-shop-module-5e3n) (2026-09-26)
-- [Claude Code said "Done." My tests said otherwise. Here's the 20-line fix.](https://dev.to/elijahmanlockedin112/claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix-jc) (2026-09-26)
+- [Monitor your robots.txt and sitemap for accidental changes](https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac) (2026-09-26)
+- [How to get notified when a web page changes (without writing a scraper)](https://dev.to/daniel_root_5c360ddb87563/how-to-get-notified-when-a-web-page-changes-without-writing-a-scraper-531c) (2026-09-26)
+- [Verify an Indexer Can Recover from a Chain Reorganization](https://dev.to/pharos_production/verify-an-indexer-can-recover-from-a-chain-reorganization-1gn0) (2026-09-26)
+- [Astra Killed Claude, Claude Killed Gemini, Gemini Killed Google, Google Committed Suicide](https://dev.to/web_dev-usman/astra-killed-claude-claude-killed-gemini-gemini-killed-google-google-committed-suicide-n32) (2026-09-26)
+- [How I Built a Real-Time rPPG Heart Rate Tracker in Python (POS Algorithm & Butterworth Filtering)](https://dev.to/shakeelahmedneuroai/how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering-1koe) (2026-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code said “Done.” My tests said otherwise. Here’s the 20-line fix.](https://medium.com/@elijahtheman112/claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix-faa38ab16089?source=rss------programming-5) (2026-09-26)
-- [Your Tests Passed. Did Enough of Them Actually Run?](https://medium.com/womenintechnology/your-tests-passed-did-enough-of-them-actually-run-390b978beabf?source=rss------programming-5) (2026-09-26)
-- [I Built Resight to See Where My Time on the Internet Actually Goes](https://medium.com/@itshakemd/i-built-resight-to-see-where-my-time-on-the-internet-actually-goes-10bfa0b5f404?source=rss------programming-5) (2026-09-26)
-- [Is Your AI Framework Ready for GPT-6 Sol? We Probed 9 Libraries — 5 Still Get It Wrong](https://medium.com/@decoding_ai_by_nureravi/is-your-ai-framework-ready-for-gpt-6-sol-we-probed-9-libraries-5-still-get-it-wrong-5fb6cd13d96c?source=rss------programming-5) (2026-09-26)
-- [Qué es un WebSocket y cuándo usarlo (frente a un webhook)](https://medium.com/@jrdelriodom/qu%C3%A9-es-un-websocket-y-cu%C3%A1ndo-usarlo-frente-a-un-webhook-25b2e6d19b81?source=rss------programming-5) (2026-09-26)
+- [101+ Free Online Tools for Developers, Creators, and Everyday Work](https://medium.com/@awaisakhtar395/101-free-online-tools-for-developers-creators-and-everyday-work-c9c6a22d9e98?source=rss------programming-5) (2026-09-26)
+- [THE REDDTEAMPREMIUM® STANDARD
+What It Means to Represent RTP
+Talent can open a door.](https://medium.com/@Rtpcoverage/the-reddteampremium-standard-what-it-means-to-represent-rtp-talent-can-open-a-door-8b4b5223ac24?source=rss------programming-5) (2026-09-26)
+- [Building a Zero-Middleman Peer-to-Peer Remote Desktop using WebRTC and Native OS APIs](https://medium.com/@conexaremote/building-a-zero-middleman-peer-to-peer-remote-desktop-using-webrtc-and-native-os-apis-09812f887fcc?source=rss------programming-5) (2026-09-26)
+- [Python Kurulumu](https://medium.com/@dilberkartal/python-kurulumu-ad13831c6d76?source=rss------programming-5) (2026-09-26)
+- [GPT-6 Sol vs Claude Opus 5.5: Same Week, Different Bet](https://pub.towardsai.net/gpt-6-sol-vs-claude-opus-5-5-same-week-different-bet-e975a66dcb6b?source=rss------programming-5) (2026-09-26)
 
 </details>
 
@@ -119,11 +121,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 - [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
+- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 
 </details>
 
@@ -579,7 +581,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>📊 Towards Data Science</summary>
 
-- [AI Slop Is in Your Training Dataset Now. I Tested Three Ways to Spot It.](https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/) (2026-09-26)
+- [AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.](https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/) (2026-09-26)
 - [Your LLM Has a Curved Space of Paragraphs](https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/) (2026-09-26)
 - [10 Things I’m Learning Beyond AI to Become More Technologically Fluent](https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/) (2026-09-25)
 - [Your Model's MSE Is Lying to You: Part II](https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/) (2026-09-25)
@@ -628,17 +630,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
-- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) (2026-09-08)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
