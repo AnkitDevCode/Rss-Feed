@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) (2026-09-26)
-- [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide) (2026-09-26)
-- [TiddlyInstall: A universal, reusable, install system](https://robertsdotpm.github.io/_static/tiddlyinstall.html) (2026-09-26)
-- [Show HN: A game about fake news and memes](https://unspin.app/) (2026-09-26)
-- [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens) (2026-09-25)
+- [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) (2026-09-26)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) (2026-09-26)
+- [Floci: Locally emulating any cloud service](https://floci.io) (2026-09-26)
+- [The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html) (2026-09-26)
+- [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/) (2026-09-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Can &#8216;eSUV&#8217; e-bikes really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox) (2026-09-26)
 - [Roku&#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale) (2026-09-25)
 - [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks) (2026-09-25)
 - [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera) (2026-09-25)
 - [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands) (2026-09-25)
-- [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem) (2026-09-25)
 
 </details>
 
@@ -43,7 +43,7 @@
 <summary>🔬 Ars Technica</summary>
 
 - [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) (2026-09-25)
-- [Court rules Trump can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
+- [Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
 - [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) (2026-09-25)
 - [Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?](https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/) (2026-09-25)
 - [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/) (2026-09-25)
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Kubernetes for Agents: Why Agent Fleets Need a Control Plane](https://dev.to/debashish_ghosal/kubernetes-for-agents-why-agent-fleets-need-a-control-plane-2lo6) (2026-09-26)
-- [Digital Logic Explained](https://dev.to/wesleybertipaglia/digital-logic-explained-2863) (2026-09-26)
-- [A Curve Fitter That Refuses to Answer](https://dev.to/megapixel99/a-curve-fitter-that-refuses-to-answer-2jm) (2026-09-26)
-- [Meta AIRA จากสนามซ้อมสู่เหรียญทอง Kaggle: ไล่ทีละตัวเลขว่าเกิดอะไรขึ้น](https://dev.to/sarantoon/meta-aira-cchaaksnaamchmsuuehriiyythng-kaggle-ailthiilatawelkhwaaekidaairkhuen-3a1c) (2026-09-26)
-- [Building FoxyInvoice — Chapter 12: Engagement & automation — UI first, then automate](https://dev.to/seolith/building-foxyinvoice-chapter-12-engagement-automation-ui-first-then-automate-14d5) (2026-09-26)
+- [Testers Community Alternative: PeerPlay Comparison](https://dev.to/vmzavas/testers-community-alternative-peerplay-comparison-11be) (2026-09-26)
+- [Your AI Agent Needs an Escalation Path: Introducing Escalation Engineering](https://dev.to/miruky/your-ai-agent-needs-an-escalation-path-introducing-escalation-engineering-524a) (2026-09-26)
+- [CVE-2026-66066: an image upload path that reads /proc/self/environ](https://dev.to/onaeiuspkz/cve-2026-66066-an-image-upload-path-that-reads-procselfenviron-2o5a) (2026-09-26)
+- [A 5-minute SEO checklist for your homepage](https://dev.to/nadeemakram035/a-5-minute-seo-checklist-for-your-homepage-2eeo) (2026-09-26)
+- [Sticky Routing That Never Expires Isn't Sticky It's Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd) (2026-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Ballerina HTTP Interceptors: Stop the Request Before It Reaches Your Handler](https://medium.com/@viththagan.rn/ballerina-http-interceptors-stop-the-request-before-it-reaches-your-handler-4cda7e3cb294?source=rss------programming-5) (2026-09-26)
-- [Multi-Agent Systems: When Multiple Agents Collaborate](https://medium.com/@scosmexs/multi-agent-systems-when-multiple-agents-collaborate-fb58942b6966?source=rss------programming-5) (2026-09-26)
-- [I Found 6 Websites That Make Learning Tech Much Easier](https://medium.com/coinmonks/i-found-6-websites-that-make-learning-tech-much-easier-154ea0337caf?source=rss------programming-5) (2026-09-26)
-- [Why the Record Matters](https://medium.com/@eduard.deira/why-the-record-matters-3a5f54477ff3?source=rss------programming-5) (2026-09-26)
-- [The Escalation Record: September 14–25, 2026](https://medium.com/@eduard.deira/the-escalation-record-september-14-25-2026-76ea76958e32?source=rss------programming-5) (2026-09-26)
+- [The “Plausible Code” Trap: Why Vibe-Coded React Components Quietly Break in Production](https://medium.com/skillstuff/the-plausible-code-trap-why-vibe-coded-react-components-quietly-break-in-production-0dbb1d82111c?source=rss------programming-5) (2026-09-26)
+- [The First Job AI Removed From Software Engineering Was the Job That Created Senior Engineers](https://javascript.plainenglish.io/the-first-job-ai-removed-from-software-engineering-was-the-job-that-created-senior-engineers-5c39bda1012a?source=rss------programming-5) (2026-09-26)
+- [51 AI Concepts — The Complete Quick-Reference Guide](https://medium.com/@mohsho10/51-ai-concepts-the-complete-quick-reference-guide-9978b6df986c?source=rss------programming-5) (2026-09-26)
+- [We Promoted the Engineer Who Shipped the Most Code. Six Months Later, We Realized Everyone Else Was](https://medium.com/javarevisited/we-promoted-the-engineer-who-shipped-the-most-code-six-months-later-we-realized-everyone-else-was-2f6ac174b5ea?source=rss------programming-5) (2026-09-26)
+- [What Kubernetes Actually Does: Pods, Nodes, Services and the Loop That Heals Them](https://medium.com/@breakingcode49/what-kubernetes-actually-does-pods-nodes-services-and-the-loop-that-heals-them-20bbe75cf271?source=rss------programming-5) (2026-09-26)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The #1 AI behavior hurting your customers’ experiences
+](
+https://www.twilio.com/en-us/blog/insights/lost-context-between-channels
+) (2026-09-25)
+- [
+What is AI agent orchestration? How it works in 2026
+](
+https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
+) (2026-09-25)
+- [
+How to handle real-time interruptions in your AI voice agent
+](
+https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling
+) (2026-09-25)
+- [
+How to Build an RCS Business Messaging Campaign with Twilio in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp
+) (2026-09-25)
+- [
 How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay
 ) (2026-09-24)
-- [
-Conversations in the AI Era: Manchester Meetup Recap
-](
-https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026
-) (2026-09-23)
-- [
-Collected, stored, and useless: The lifecycle of most customer data
-](
-https://www.twilio.com/en-us/blog/insights/customer-data-activation-problem
-) (2026-09-23)
-- [
-The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure
-](
-https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure
-) (2026-09-22)
-- [
-How to design an AI-to-human handoff that preserves context
-](
-https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context
-) (2026-09-22)
 
 </details>
 
