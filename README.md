@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) (2026-09-26)
 - [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) (2026-09-26)
 - [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) (2026-09-25)
 - [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) (2026-09-25)
 - [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) (2026-09-25)
-- [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) (2026-09-26)
-- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) (2026-09-26)
-- [Floci: Locally emulating any cloud service](https://floci.io) (2026-09-26)
-- [The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html) (2026-09-26)
-- [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/) (2026-09-26)
+- [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm) (2026-09-26)
+- [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior) (2026-09-26)
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) (2026-09-26)
+- [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) (2026-09-26)
+- [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) (2026-09-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) (2026-09-26)
+- [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs) (2026-09-26)
+- [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers) (2026-09-26)
 - [Can &#8216;eSUV&#8217; e-bikes really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox) (2026-09-26)
 - [Roku&#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale) (2026-09-25)
-- [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks) (2026-09-25)
-- [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera) (2026-09-25)
-- [Tesla&#8217;s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands) (2026-09-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Testers Community Alternative: PeerPlay Comparison](https://dev.to/vmzavas/testers-community-alternative-peerplay-comparison-11be) (2026-09-26)
-- [Your AI Agent Needs an Escalation Path: Introducing Escalation Engineering](https://dev.to/miruky/your-ai-agent-needs-an-escalation-path-introducing-escalation-engineering-524a) (2026-09-26)
-- [CVE-2026-66066: an image upload path that reads /proc/self/environ](https://dev.to/onaeiuspkz/cve-2026-66066-an-image-upload-path-that-reads-procselfenviron-2o5a) (2026-09-26)
-- [A 5-minute SEO checklist for your homepage](https://dev.to/nadeemakram035/a-5-minute-seo-checklist-for-your-homepage-2eeo) (2026-09-26)
-- [Sticky Routing That Never Expires Isn't Sticky It's Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd) (2026-09-26)
+- [I Built a Telegram AI Agent That Can Actually Use Tools O.O](https://dev.to/hexzonetwork/i-built-a-telegram-ai-agent-that-can-actually-use-tools-oo-2cgc) (2026-09-26)
+- [I Thought a Calendar Was Just a 7-Column Grid Until I Started Building One](https://dev.to/karecohen/i-thought-a-calendar-was-just-a-7-column-grid-until-i-started-building-one-5chi) (2026-09-26)
+- [Building the Capsize Audio Visualizer with C++ and Qt](https://dev.to/w4ffl35/building-the-capsize-audio-visualizer-with-c-and-qt-4lln) (2026-09-26)
+- [A web shop without a database or payment provider: the ForgeCMS shop module](https://dev.to/artanidos/a-web-shop-without-a-database-or-payment-provider-the-forgecms-shop-module-5e3n) (2026-09-26)
+- [Claude Code said "Done." My tests said otherwise. Here's the 20-line fix.](https://dev.to/elijahmanlockedin112/claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix-jc) (2026-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The “Plausible Code” Trap: Why Vibe-Coded React Components Quietly Break in Production](https://medium.com/skillstuff/the-plausible-code-trap-why-vibe-coded-react-components-quietly-break-in-production-0dbb1d82111c?source=rss------programming-5) (2026-09-26)
-- [The First Job AI Removed From Software Engineering Was the Job That Created Senior Engineers](https://javascript.plainenglish.io/the-first-job-ai-removed-from-software-engineering-was-the-job-that-created-senior-engineers-5c39bda1012a?source=rss------programming-5) (2026-09-26)
-- [51 AI Concepts — The Complete Quick-Reference Guide](https://medium.com/@mohsho10/51-ai-concepts-the-complete-quick-reference-guide-9978b6df986c?source=rss------programming-5) (2026-09-26)
-- [We Promoted the Engineer Who Shipped the Most Code. Six Months Later, We Realized Everyone Else Was](https://medium.com/javarevisited/we-promoted-the-engineer-who-shipped-the-most-code-six-months-later-we-realized-everyone-else-was-2f6ac174b5ea?source=rss------programming-5) (2026-09-26)
-- [What Kubernetes Actually Does: Pods, Nodes, Services and the Loop That Heals Them](https://medium.com/@breakingcode49/what-kubernetes-actually-does-pods-nodes-services-and-the-loop-that-heals-them-20bbe75cf271?source=rss------programming-5) (2026-09-26)
+- [Claude Code said “Done.” My tests said otherwise. Here’s the 20-line fix.](https://medium.com/@elijahtheman112/claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix-faa38ab16089?source=rss------programming-5) (2026-09-26)
+- [Your Tests Passed. Did Enough of Them Actually Run?](https://medium.com/womenintechnology/your-tests-passed-did-enough-of-them-actually-run-390b978beabf?source=rss------programming-5) (2026-09-26)
+- [I Built Resight to See Where My Time on the Internet Actually Goes](https://medium.com/@itshakemd/i-built-resight-to-see-where-my-time-on-the-internet-actually-goes-10bfa0b5f404?source=rss------programming-5) (2026-09-26)
+- [Is Your AI Framework Ready for GPT-6 Sol? We Probed 9 Libraries — 5 Still Get It Wrong](https://medium.com/@decoding_ai_by_nureravi/is-your-ai-framework-ready-for-gpt-6-sol-we-probed-9-libraries-5-still-get-it-wrong-5fb6cd13d96c?source=rss------programming-5) (2026-09-26)
+- [Qué es un WebSocket y cuándo usarlo (frente a un webhook)](https://medium.com/@jrdelriodom/qu%C3%A9-es-un-websocket-y-cu%C3%A1ndo-usarlo-frente-a-un-webhook-25b2e6d19b81?source=rss------programming-5) (2026-09-26)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Slop Is in Your Training Dataset Now. I Tested Three Ways to Spot It.](https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/) (2026-09-26)
+- [Your LLM Has a Curved Space of Paragraphs](https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/) (2026-09-26)
 - [10 Things I’m Learning Beyond AI to Become More Technologically Fluent](https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/) (2026-09-25)
 - [Your Model's MSE Is Lying to You: Part II](https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/) (2026-09-25)
 - [RAG Isn't an Agent — I Built the Layer Between Retrieval and Action](https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/) (2026-09-25)
-- [Jev vs. LLMs: When AI Moves from Generation to Decision-Making](https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/) (2026-09-25)
-- [How to Maximize Your Coding Agent Subscriptions](https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/) (2026-09-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agentic Context Engineering (ACE): Self-Improving Language Models](https://www.analyticsvidhya.com/blog/2026/09/agentic-context-engineering/) (2026-09-26)
 - [10 Solved Generative AI Projects to Boost your Profile ](https://www.analyticsvidhya.com/blog/2026/09/solved-generative-ai-projects/) (2026-09-25)
 - [GPT-6 Sol and Luna: Near-Astra Performance at Half the Price?](https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/) (2026-09-24)
 - [Claude Opus 5.5 Tested: What’s New and How Good is it?](https://www.analyticsvidhya.com/blog/2026/09/claude-opus-5-5-tested/) (2026-09-22)
 - [Jev Explained: The AI Model That Never Generates a Word of Text](https://www.analyticsvidhya.com/blog/2026/09/jev-explained/) (2026-09-22)
-- [OpenAI Model Misalignment Explained Through Six Real Incidents](https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/) (2026-09-21)
 
 </details>
 
