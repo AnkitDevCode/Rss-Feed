@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/) (2026-09-27)
+- [Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/) (2026-09-27)
 - [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/) (2026-09-27)
 - [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) (2026-09-27)
 - [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) (2026-09-26)
-- [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/) (2026-09-26)
-- [Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/) (2026-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021) (2026-09-27)
-- [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/) (2026-09-27)
-- [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/) (2026-09-27)
-- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) (2026-09-27)
-- [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/) (2026-09-27)
+- [postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/) (2026-09-27)
+- [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html) (2026-09-27)
+- ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/) (2026-09-27)
+- [10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop) (2026-09-27)
+- [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) (2026-09-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance) (2026-09-27)
+- [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse) (2026-09-27)
+- [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard) (2026-09-27)
 - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents) (2026-09-26)
 - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview) (2026-09-26)
-- [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section) (2026-09-26)
-- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) (2026-09-26)
-- [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) (2026-09-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [How the Smithsonian became the latest front in Trump’s culture war](https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/) (2026-09-27)
 - [Tesla’s big electric truck faces an even bigger infrastructure challenge](https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/) (2026-09-26)
 - [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) (2026-09-25)
 - [Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
 - [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) (2026-09-25)
-- [Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?](https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/) (2026-09-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Slots You Must Skip](https://dev.to/abrownfox001/slots-you-must-skip-5h2m) (2026-09-27)
-- [🪪 Avatar RS: Very Efficient Avatar Components for WASM Frameworks](https://dev.to/wiseai/avatar-rs-very-efficient-avatar-components-for-wasm-frameworks-3lkn) (2026-09-27)
-- [When Cheap isn't cheap anymore.](https://dev.to/suprie_32/when-cheap-isnt-cheap-anymore-1o36) (2026-09-27)
-- [I Put an AI Assistant on a Mini PC at Home](https://dev.to/layton/i-put-an-ai-assistant-on-a-mini-pc-at-home-57o9) (2026-09-27)
-- [5 EDI Lessons Every API Developer Learns the Hard Way](https://dev.to/challan116ux/5-edi-lessons-every-api-developer-learns-the-hard-way-pga) (2026-09-27)
+- [What in-house AI visibility tracking costs to run](https://dev.to/answerline/what-in-house-ai-visibility-tracking-costs-to-run-3h17) (2026-09-27)
+- [Orca: Agent Development Environment (ADE) for shipping with coding agents](https://dev.to/empiree/orca-agent-development-environment-ade-for-shipping-with-coding-agents-4nj) (2026-09-27)
+- [Voice Rights Need Provenance That Travels](https://dev.to/chefbc2k_v1/voice-rights-need-provenance-that-travels-13c2) (2026-09-27)
+- [From Raw Data to Business Decisions: Building a Power BI Solution for JCars Logistics](https://dev.to/kbonymark/from-raw-data-to-business-decisions-building-a-power-bi-solution-for-jcars-logistics-865) (2026-09-27)
+- [What my blind brother taught me about making a shopping search engine work with VoiceOver](https://dev.to/ohadfarkash/what-my-blind-brother-taught-me-about-making-a-shopping-search-engine-work-with-voiceover-1npe) (2026-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why I Keep Choosing Godot for AI-Assisted Game Development](https://medium.com/futura-creative/why-i-keep-choosing-godot-for-ai-assisted-game-development-7423e3e59532?source=rss------programming-5) (2026-09-27)
-- [How to Start Coding When You Have No Idea Where to Begin](https://medium.com/@yashvishaw6/how-to-start-coding-when-you-have-no-idea-where-to-begin-ed2e2094ba3d?source=rss------programming-5) (2026-09-27)
-- [What Senior Engineers Notice About “Simple” Features Before Writing Any Code](https://medium.com/skillstuff/what-senior-engineers-notice-about-simple-features-before-writing-any-code-cb8345144ba5?source=rss------programming-5) (2026-09-27)
-- [AI Tools for Project Managers 2026 | Plan Smarter .Deliver Faster | Digital PDF Guide](https://medium.com/@info.express.store5/ai-tools-for-project-managers-2026-plan-smarter-deliver-faster-digital-pdf-guide-f9a66518790a?source=rss------programming-5) (2026-09-27)
-- [The New Rules of Making Money Online in 2026](https://medium.com/@authenticbozt/the-new-rules-of-making-money-online-in-2026-2262549f517b?source=rss------programming-5) (2026-09-27)
+- [Integrating a React application with a back-end](https://medium.com/@humbertofilho_30158/integrating-a-react-application-with-a-back-end-d9e5fe604fe3?source=rss------programming-5) (2026-09-27)
+- [Migrating From Vue 2 to Vue 3: A 3-Year Journey](https://medium.com/@xuhaib002/migrating-from-vue-2-to-vue-3-a-3-year-journey-d4d4fa17de36?source=rss------programming-5) (2026-09-27)
+- [Food Taster Jobs in the USA: Explore Food Testing Opportunities](https://medium.com/@mdjahid01332713731/food-taster-jobs-in-the-usa-explore-food-testing-opportunities-d873f6774724?source=rss------programming-5) (2026-09-27)
+- [SHEIN $100 Reward – US Offer](https://medium.com/@mdjahid01332713731/shein-100-reward-us-offer-118bffa856b6?source=rss------programming-5) (2026-09-27)
+- [Google Linked Code Quality to Speed. Coverage Cannot Be the Way We Measure It.](https://medium.com/@anatoly.khelmer/google-linked-code-quality-to-speed-coverage-cannot-be-the-way-we-measure-it-460382190a25?source=rss------programming-5) (2026-09-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 - [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 
 </details>
 
@@ -168,6 +168,17 @@
 - [How to Upgrade to React 18](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html) (2022-03-08)
 - [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html) (2021-12-17)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html) (2021-06-08)
+
+</details>
+
+<details>
+<summary>🅰️ Angular Blog</summary>
+
+- [Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡](https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4) (2026-09-25)
+- [An update on Angular’s TypeScript 7-powered Compiler](https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4) (2026-09-25)
+- [Customizing Angular Aria Tabs Quickly with Google Antigravity CLI](https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4) (2026-09-02)
+- [Styling Mastery and Declarative Form Submissions ](https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4) (2026-08-28)
+- [The Forms Evolution, Web AI, and Architectural Vision! ](https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4) (2026-08-14)
 
 </details>
 
@@ -436,11 +447,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Hosting and Postgres after your first 100 users](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
+- [Neon vs Prisma Postgres: app and database in one place](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
 - [How to use Prisma ORM 8 in NestJS: setup, queries, deploy](https://www.prisma.io/blog/prisma-orm-8-nestjs) (2026-09-24)
-- [Prisma vs Netlify for TypeScript apps: which platform?](https://www.prisma.io/blog/prisma-vs-netlify) (2026-09-16)
-- [Prisma vs Vercel for TypeScript apps: which platform?](https://www.prisma.io/blog/prisma-vs-vercel) (2026-09-16)
-- [Is Prisma 8 Ready for Long-Lived Production Apps?](https://www.prisma.io/blog/is-prisma-8-ready-for-long-lived-production-apps) (2026-09-09)
-- [Prisma Is Building the Stack for the Next Million Products](https://www.prisma.io/blog/building-the-stack-for-the-next-million-products) (2026-08-26)
+- [Where to host a TypeScript frontend, API and Postgres](https://www.prisma.io/blog/where-to-host-typescript-frontend-node-api-postgres) (2026-09-22)
+- [Netlify alternatives for a full-stack TypeScript app](https://www.prisma.io/blog/prisma-vs-netlify) (2026-09-16)
 
 </details>
 
@@ -568,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs](https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/) (2026-09-27)
+- [Good Architecture Deletes the Signals Your Agent Depends On](https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/) (2026-09-27)
 - [AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.](https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/) (2026-09-26)
 - [Your LLM Has a Curved Space of Paragraphs](https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/) (2026-09-26)
 - [10 Things I’m Learning Beyond AI to Become More Technologically Fluent](https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/) (2026-09-25)
-- [Your Model's MSE Is Lying to You: Part II](https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/) (2026-09-25)
-- [RAG Isn't an Agent — I Built the Layer Between Retrieval and Action](https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/) (2026-09-25)
 
 </details>
 
