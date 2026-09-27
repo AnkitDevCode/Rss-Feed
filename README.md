@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/) (2026-09-27)
+- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) (2026-09-27)
+- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) (2026-09-26)
 - [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/) (2026-09-26)
 - [Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/) (2026-09-26)
-- [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/) (2026-09-26)
-- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) (2026-09-26)
-- [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) (2026-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Sousveillance](https://en.wikipedia.org/wiki/Sousveillance) (2026-09-27)
+- [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/) (2026-09-26)
+- [HomeBody: A humanoid that explores, remembers, and acts on its own](https://tml.stanford.edu/homebody/) (2026-09-26)
 - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (2026-09-26)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) (2026-09-26)
-- [I'm the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip) (2026-09-26)
-- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) (2026-09-26)
-- [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/) (2026-09-26)
+- [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html) (2026-09-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents) (2026-09-26)
 - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview) (2026-09-26)
 - [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section) (2026-09-26)
 - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) (2026-09-26)
 - [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) (2026-09-26)
-- [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs) (2026-09-26)
 
 </details>
 
@@ -86,24 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Monitor your robots.txt and sitemap for accidental changes](https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac) (2026-09-26)
-- [How to get notified when a web page changes (without writing a scraper)](https://dev.to/daniel_root_5c360ddb87563/how-to-get-notified-when-a-web-page-changes-without-writing-a-scraper-531c) (2026-09-26)
-- [Verify an Indexer Can Recover from a Chain Reorganization](https://dev.to/pharos_production/verify-an-indexer-can-recover-from-a-chain-reorganization-1gn0) (2026-09-26)
-- [Astra Killed Claude, Claude Killed Gemini, Gemini Killed Google, Google Committed Suicide](https://dev.to/web_dev-usman/astra-killed-claude-claude-killed-gemini-gemini-killed-google-google-committed-suicide-n32) (2026-09-26)
-- [How I Built a Real-Time rPPG Heart Rate Tracker in Python (POS Algorithm & Butterworth Filtering)](https://dev.to/shakeelahmedneuroai/how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering-1koe) (2026-09-26)
+- [Five Cron Fields, One Trap: The Scheduling Bug Nobody Expects](https://dev.to/yuanke215/five-cron-fields-one-trap-the-scheduling-bug-nobody-expects-17i2) (2026-09-27)
+- [Measuring How Cost Scales by Counting Instead of Timing](https://dev.to/megapixel99/measuring-how-cost-scales-by-counting-instead-of-timing-lp3) (2026-09-27)
+- [Make vs Zapier for Freelancers in 2026 — How I Decide (and Why Most “Best Tool” Lists Fail)](https://dev.to/dan_mercede/make-vs-zapier-for-freelancers-in-2026-how-i-decide-and-why-most-best-tool-lists-fail-3jip) (2026-09-27)
+- [Keeping project decisions across Claude Code and Codex sessions with docs-governance](https://dev.to/_665ebb9fe210726956bcdb/keeping-project-decisions-across-claude-code-and-codex-sessions-with-docs-governance-3aaj) (2026-09-27)
+- [My prompt-injection fix caught 0 of 20 attacks. The part I almost didn't build caught all of them.](https://dev.to/vishalhabib99/my-prompt-injection-fix-caught-0-of-20-attacks-the-part-i-almost-didnt-build-caught-all-of-them-oi0) (2026-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [101+ Free Online Tools for Developers, Creators, and Everyday Work](https://medium.com/@awaisakhtar395/101-free-online-tools-for-developers-creators-and-everyday-work-c9c6a22d9e98?source=rss------programming-5) (2026-09-26)
-- [THE REDDTEAMPREMIUM® STANDARD
-What It Means to Represent RTP
-Talent can open a door.](https://medium.com/@Rtpcoverage/the-reddteampremium-standard-what-it-means-to-represent-rtp-talent-can-open-a-door-8b4b5223ac24?source=rss------programming-5) (2026-09-26)
-- [Building a Zero-Middleman Peer-to-Peer Remote Desktop using WebRTC and Native OS APIs](https://medium.com/@conexaremote/building-a-zero-middleman-peer-to-peer-remote-desktop-using-webrtc-and-native-os-apis-09812f887fcc?source=rss------programming-5) (2026-09-26)
-- [Python Kurulumu](https://medium.com/@dilberkartal/python-kurulumu-ad13831c6d76?source=rss------programming-5) (2026-09-26)
-- [GPT-6 Sol vs Claude Opus 5.5: Same Week, Different Bet](https://pub.towardsai.net/gpt-6-sol-vs-claude-opus-5-5-same-week-different-bet-e975a66dcb6b?source=rss------programming-5) (2026-09-26)
+- [Can Playwright Become Smarter? JEV Might Be the Missing Piece](https://milind-divre.medium.com/can-playwright-become-smarter-jev-might-be-the-missing-piece-1c10d7516a8b?source=rss------programming-5) (2026-09-27)
+- [11 Angular Features That Finally Made My Code Simpler](https://medium.com/@sourabhda1998/11-angular-features-that-finally-made-my-code-simpler-022114f69eec?source=rss------programming-5) (2026-09-27)
+- [I Couldn’t Sit Through My Own Video — So I Distilled Nine Books for a Few Bucks](https://aiominiu.medium.com/i-couldnt-sit-through-my-own-video-so-i-distilled-nine-books-for-a-few-bucks-490b47fd24c8?source=rss------programming-5) (2026-09-27)
+- [F](https://medium.com/@hillbowman561/f-9fa3cc85dc28?source=rss------programming-5) (2026-09-27)
+- [AI Agent Guardrails & Security: Controlling What Agents Can Do](https://medium.com/@scosmexs/ai-agent-guardrails-security-controlling-what-agents-can-do-6dd592069c18?source=rss------programming-5) (2026-09-27)
 
 </details>
 
@@ -630,6 +628,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
+- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
+- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) (2026-09-08)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
