@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sousveillance](https://en.wikipedia.org/wiki/Sousveillance) (2026-09-27)
-- [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/) (2026-09-26)
-- [HomeBody: A humanoid that explores, remembers, and acts on its own](https://tml.stanford.edu/homebody/) (2026-09-26)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (2026-09-26)
-- [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html) (2026-09-26)
+- ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021) (2026-09-27)
+- [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/) (2026-09-27)
+- [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/) (2026-09-27)
+- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) (2026-09-27)
+- [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/) (2026-09-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Five Cron Fields, One Trap: The Scheduling Bug Nobody Expects](https://dev.to/yuanke215/five-cron-fields-one-trap-the-scheduling-bug-nobody-expects-17i2) (2026-09-27)
-- [Measuring How Cost Scales by Counting Instead of Timing](https://dev.to/megapixel99/measuring-how-cost-scales-by-counting-instead-of-timing-lp3) (2026-09-27)
-- [Make vs Zapier for Freelancers in 2026 — How I Decide (and Why Most “Best Tool” Lists Fail)](https://dev.to/dan_mercede/make-vs-zapier-for-freelancers-in-2026-how-i-decide-and-why-most-best-tool-lists-fail-3jip) (2026-09-27)
-- [Keeping project decisions across Claude Code and Codex sessions with docs-governance](https://dev.to/_665ebb9fe210726956bcdb/keeping-project-decisions-across-claude-code-and-codex-sessions-with-docs-governance-3aaj) (2026-09-27)
-- [My prompt-injection fix caught 0 of 20 attacks. The part I almost didn't build caught all of them.](https://dev.to/vishalhabib99/my-prompt-injection-fix-caught-0-of-20-attacks-the-part-i-almost-didnt-build-caught-all-of-them-oi0) (2026-09-27)
+- [Slots You Must Skip](https://dev.to/abrownfox001/slots-you-must-skip-5h2m) (2026-09-27)
+- [🪪 Avatar RS: Very Efficient Avatar Components for WASM Frameworks](https://dev.to/wiseai/avatar-rs-very-efficient-avatar-components-for-wasm-frameworks-3lkn) (2026-09-27)
+- [When Cheap isn't cheap anymore.](https://dev.to/suprie_32/when-cheap-isnt-cheap-anymore-1o36) (2026-09-27)
+- [I Put an AI Assistant on a Mini PC at Home](https://dev.to/layton/i-put-an-ai-assistant-on-a-mini-pc-at-home-57o9) (2026-09-27)
+- [5 EDI Lessons Every API Developer Learns the Hard Way](https://dev.to/challan116ux/5-edi-lessons-every-api-developer-learns-the-hard-way-pga) (2026-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Can Playwright Become Smarter? JEV Might Be the Missing Piece](https://milind-divre.medium.com/can-playwright-become-smarter-jev-might-be-the-missing-piece-1c10d7516a8b?source=rss------programming-5) (2026-09-27)
-- [11 Angular Features That Finally Made My Code Simpler](https://medium.com/@sourabhda1998/11-angular-features-that-finally-made-my-code-simpler-022114f69eec?source=rss------programming-5) (2026-09-27)
-- [I Couldn’t Sit Through My Own Video — So I Distilled Nine Books for a Few Bucks](https://aiominiu.medium.com/i-couldnt-sit-through-my-own-video-so-i-distilled-nine-books-for-a-few-bucks-490b47fd24c8?source=rss------programming-5) (2026-09-27)
-- [F](https://medium.com/@hillbowman561/f-9fa3cc85dc28?source=rss------programming-5) (2026-09-27)
-- [AI Agent Guardrails & Security: Controlling What Agents Can Do](https://medium.com/@scosmexs/ai-agent-guardrails-security-controlling-what-agents-can-do-6dd592069c18?source=rss------programming-5) (2026-09-27)
+- [Why I Keep Choosing Godot for AI-Assisted Game Development](https://medium.com/futura-creative/why-i-keep-choosing-godot-for-ai-assisted-game-development-7423e3e59532?source=rss------programming-5) (2026-09-27)
+- [How to Start Coding When You Have No Idea Where to Begin](https://medium.com/@yashvishaw6/how-to-start-coding-when-you-have-no-idea-where-to-begin-ed2e2094ba3d?source=rss------programming-5) (2026-09-27)
+- [What Senior Engineers Notice About “Simple” Features Before Writing Any Code](https://medium.com/skillstuff/what-senior-engineers-notice-about-simple-features-before-writing-any-code-cb8345144ba5?source=rss------programming-5) (2026-09-27)
+- [AI Tools for Project Managers 2026 | Plan Smarter .Deliver Faster | Digital PDF Guide](https://medium.com/@info.express.store5/ai-tools-for-project-managers-2026-plan-smarter-deliver-faster-digital-pdf-guide-f9a66518790a?source=rss------programming-5) (2026-09-27)
+- [The New Rules of Making Money Online in 2026](https://medium.com/@authenticbozt/the-new-rules-of-making-money-online-in-2026-2262549f517b?source=rss------programming-5) (2026-09-27)
 
 </details>
 
@@ -168,17 +168,6 @@
 - [How to Upgrade to React 18](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html) (2022-03-08)
 - [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html) (2021-12-17)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html) (2021-06-08)
-
-</details>
-
-<details>
-<summary>🅰️ Angular Blog</summary>
-
-- [Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡](https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4) (2026-09-25)
-- [An update on Angular’s TypeScript 7-powered Compiler](https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4) (2026-09-25)
-- [Customizing Angular Aria Tabs Quickly with Google Antigravity CLI](https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4) (2026-09-02)
-- [Styling Mastery and Declarative Form Submissions ](https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4) (2026-08-28)
-- [The Forms Evolution, Web AI, and Architectural Vision! ](https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4) (2026-08-14)
 
 </details>
 
