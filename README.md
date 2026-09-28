@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/) (2026-09-27)
-- [When did Google get so f-ing weird?](https://sancho.bearblog.dev/google-weird/) (2026-09-27)
-- [Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) (2026-09-27)
-- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp) (2026-09-27)
-- [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html) (2026-09-27)
+- [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding) (2026-09-28)
+- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) (2026-09-28)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) (2026-09-28)
+- [As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) (2026-09-28)
+- [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products) (2026-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review) (2026-09-27)
 - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music) (2026-09-27)
 - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website) (2026-09-27)
 - [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance) (2026-09-27)
 - [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse) (2026-09-27)
-- [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard) (2026-09-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Model Routing para Software Engineers: como escolher o LLM certo dentro de cada harness](https://dev.to/tiagovilasboas/model-routing-para-software-engineers-como-escolher-o-llm-certo-dentro-de-cada-harness-o5g) (2026-09-27)
-- [Anatomía de un Slice en Producción: Handlers sin interfaces, EF Core sin repositorios y eventos desacoplados (Parte 2)](https://dev.to/betoramiz/anatomia-de-un-slice-en-produccion-handlers-sin-interfaces-ef-core-sin-repositorios-y-eventos-4cl9) (2026-09-27)
-- [Deconstruyendo Clean Architecture: Por qué nos cansa y cómo Vertical Slice Architecture nos devuelve la paz en .NET (Parte 1)](https://dev.to/betoramiz/deconstruyendo-clean-architecture-por-que-nos-cansa-y-como-vertical-slice-architecture-nos-4fn8) (2026-09-27)
-- [kubernetes for engineers who know literally nothing](https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54) (2026-09-27)
-- [Handling Concurrent Requests in Symfony with Doctrine and PostgreSQL](https://dev.to/mykola_vantukh/handling-concurrent-requests-in-symfony-with-doctrine-and-postgresql-38c8) (2026-09-27)
+- [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46) (2026-09-28)
+- [Building Bulletproof Social Media Import Pipelines: Designing UX That Survives API Failures](https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f) (2026-09-28)
+- [The CPU Explained](https://dev.to/wesleybertipaglia/the-cpu-explained-kl8) (2026-09-28)
+- [Finding Duplicate Functions by Executing Them, Not Reading Them](https://dev.to/megapixel99/finding-duplicate-functions-by-executing-them-not-reading-them-20bf) (2026-09-28)
+- [How to Create Claude Skills: Build, Install and Test Your First Skill](https://dev.to/rss_holmes/how-to-create-claude-skills-build-install-and-test-your-first-skill-29e6) (2026-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Our Junior Developer Shipped 47 Features With AI. Then We Asked Him to Build One Without It.](https://medium.com/@the_unwritten_algorithm/our-junior-developer-shipped-47-features-with-ai-then-we-asked-him-to-build-one-without-it-e7400b4c7b94?source=rss------programming-5) (2026-09-27)
-- [We Stopped Hiring Junior Developers Because AI Was Cheaper. A Year Later, We Needed Senior Engineers](https://medium.com/@the_unwritten_algorithm/we-stopped-hiring-junior-developers-because-ai-was-cheaper-a-year-later-we-needed-senior-engineers-6d2f7aa21df0?source=rss------programming-5) (2026-09-27)
-- [AI Is Making Junior Developers Faster. I Think It’s Making Senior Engineers Harder to Create.](https://blog.devgenius.io/ai-is-making-junior-developers-faster-i-think-its-making-senior-engineers-harder-to-create-8525c1c85041?source=rss------programming-5) (2026-09-27)
-- [4 Dev-Tooling Sites Crawled. 22 of 23 Redirects Point Back To Themselves](https://medium.com/@outreach_59700/4-dev-tooling-sites-crawled-22-of-23-redirects-point-back-to-themselves-aa4028335454?source=rss------programming-5) (2026-09-27)
-- [We Started Rejecting Requests on Purpose. Our System Became More Available.](https://medium.com/@the_unwritten_algorithm/we-started-rejecting-requests-on-purpose-our-system-became-more-available-79703b90defb?source=rss------programming-5) (2026-09-27)
+- [My Coding Agent Buries the Lede. So Do I.](https://ntrongtin11702.medium.com/my-coding-agent-buries-the-lede-so-do-i-acd26343deb5?source=rss------programming-5) (2026-09-28)
+- [Capgemini Java Backend Interview: 33 Questions You Should Prepare for in 2026](https://medium.com/@pardeepgill82/capgemini-java-backend-interview-33-questions-you-should-prepare-for-in-2026-5750a2388d2d?source=rss------programming-5) (2026-09-28)
+- [Deloitte Java Developer Interview Experience: Core Java, Multithreading, Coding and SQL](https://medium.com/@pardeepgill82/deloitte-java-developer-interview-experience-core-java-multithreading-coding-and-sql-50929cae47e3?source=rss------programming-5) (2026-09-28)
+- [El Lanzamiento del HT-Pop (Pop Haitiano)](https://medium.com/@BrotherswaggStudioRecords/el-lanzamiento-del-ht-pop-pop-haitiano-b68ca31c4de3?source=rss------programming-5) (2026-09-28)
+- [Arrays, Slices, and Maps Under the Hood](https://johirbuet.medium.com/arrays-slices-and-maps-under-the-hood-c7dd7e305c17?source=rss------programming-5) (2026-09-28)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 - [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
-- [Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2026-09-16)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Ember-1 from Fireworks now available on AI Gateway](https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway) (2026-09-27)
 - [Push images to Vercel Container Registry from GitHub Actions](https://vercel.com/changelog/vcr-login-github-action) (2026-09-25)
 - [State of agent skills](https://vercel.com/blog/state-of-agent-skills) (2026-09-25)
 - [Pixel Canary is now available in stealth for free on AI Gateway](https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway) (2026-09-25)
 - [Vercel Sandbox now supports memory observability](https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability) (2026-09-25)
-- [The Vercel Bug Bounty Program is now publicly available](https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available) (2026-09-24)
 
 </details>
 
@@ -474,6 +474,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
 - [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 - [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
+
+</details>
+
+<details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo API IP Allowlist Update: Second IP Addresses Now Live](https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live) (2026-09-22)
+- [What’s New in Apollo Client 4.3](https://www.apollographql.com/blog/whats-new-in-apollo-client-4-3) (2026-09-15)
+- [Apollo GraphOS and Apollo MCP Server Named 2026 API Award Winners](https://www.apollographql.com/blog/apollo-graphos-and-apollo-mcp-server-named-2026-api-award-winners) (2026-09-02)
+- [Where Apollo MCP Server Stands on the OWASP MCP Top 10](https://www.apollographql.com/blog/where-apollo-mcp-server-stands-on-the-owasp-mcp-top-10) (2026-08-14)
+- [Apollo Summit 2026: Turn Your API Platform Into Your AI Platform](https://www.apollographql.com/blog/apollo-summit-2026-turn-your-api-platform-into-your-ai-platform) (2026-08-04)
 
 </details>
 
@@ -617,17 +628,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
-- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) (2026-09-08)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
