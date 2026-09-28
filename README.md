@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/) (2026-09-28)
 - [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) (2026-09-27)
 - [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) (2026-09-27)
 - [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) (2026-09-27)
 - [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/) (2026-09-27)
-- [Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/) (2026-09-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding) (2026-09-28)
-- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) (2026-09-28)
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) (2026-09-28)
-- [As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) (2026-09-28)
-- [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products) (2026-09-28)
+- [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard) (2026-09-28)
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley) (2026-09-28)
+- [SpaceX's Starship launching to orbit for first time ever today](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live) (2026-09-28)
+- [Three Days in August: What a DDoS Attack Exposed in Our Network](https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/) (2026-09-28)
+- [AI companies in race to demonstrate their model most threatening to humanity](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/) (2026-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [SpaceX preps next-gen Starlink as Amazon’s competitor stalls](https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo) (2026-09-28)
+- [Honor’s Magic 9 Pro Max has a big camera and a bigger battery](https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china) (2026-09-28)
 - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review) (2026-09-27)
 - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music) (2026-09-27)
 - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website) (2026-09-27)
-- [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance) (2026-09-27)
-- [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse) (2026-09-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Microsoft goes quiet after church groups ask for 1% of data center costs](https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/) (2026-09-28)
 - [How the Smithsonian became the latest front in Trump’s culture war](https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/) (2026-09-27)
 - [Tesla’s big electric truck faces an even bigger infrastructure challenge](https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/) (2026-09-26)
 - [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) (2026-09-25)
 - [Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) (2026-09-25)
-- [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) (2026-09-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: rogue agent liability and the AI Hype Index](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/) (2026-09-28)
+- [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) (2026-09-28)
 - [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/) (2026-09-25)
 - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) (2026-09-25)
 - [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/) (2026-09-25)
-- [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/) (2026-09-24)
-- [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/) (2026-09-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46) (2026-09-28)
-- [Building Bulletproof Social Media Import Pipelines: Designing UX That Survives API Failures](https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f) (2026-09-28)
-- [The CPU Explained](https://dev.to/wesleybertipaglia/the-cpu-explained-kl8) (2026-09-28)
-- [Finding Duplicate Functions by Executing Them, Not Reading Them](https://dev.to/megapixel99/finding-duplicate-functions-by-executing-them-not-reading-them-20bf) (2026-09-28)
-- [How to Create Claude Skills: Build, Install and Test Your First Skill](https://dev.to/rss_holmes/how-to-create-claude-skills-build-install-and-test-your-first-skill-29e6) (2026-09-28)
+- [Our 72-hour soak lost 81% of its throughput. We had to prove it wasn't the runtime.](https://dev.to/hasanh47/our-72-hour-soak-lost-81-of-its-throughput-we-had-to-prove-it-wasnt-the-runtime-3jml) (2026-09-28)
+- [We Had Four Records for One Supplier and Paid Its Invoice Twice](https://dev.to/serguey_shinder_4ab9b87b1/we-had-four-records-for-one-supplier-and-paid-its-invoice-twice-53cg) (2026-09-28)
+- [1,200 AI agents escaped their lab. We used their method to audit ourselves | Xiliux Blog](https://dev.to/isazajuancarlos/1200-ai-agents-escaped-their-lab-we-used-their-method-to-audit-ourselves-xiliux-blog-3k2j) (2026-09-28)
+- [Four in ten of our requests were our own health checks](https://dev.to/sergey_shinder_ab2d943365/four-in-ten-of-our-requests-were-our-own-health-checks-4ej4) (2026-09-28)
+- [Getting the downloads was the easy part. Retention is the real game.](https://dev.to/ayotemi_therhymegame/getting-the-downloads-was-the-easy-part-retention-is-the-real-game-3n45) (2026-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Coding Agent Buries the Lede. So Do I.](https://ntrongtin11702.medium.com/my-coding-agent-buries-the-lede-so-do-i-acd26343deb5?source=rss------programming-5) (2026-09-28)
-- [Capgemini Java Backend Interview: 33 Questions You Should Prepare for in 2026](https://medium.com/@pardeepgill82/capgemini-java-backend-interview-33-questions-you-should-prepare-for-in-2026-5750a2388d2d?source=rss------programming-5) (2026-09-28)
-- [Deloitte Java Developer Interview Experience: Core Java, Multithreading, Coding and SQL](https://medium.com/@pardeepgill82/deloitte-java-developer-interview-experience-core-java-multithreading-coding-and-sql-50929cae47e3?source=rss------programming-5) (2026-09-28)
-- [El Lanzamiento del HT-Pop (Pop Haitiano)](https://medium.com/@BrotherswaggStudioRecords/el-lanzamiento-del-ht-pop-pop-haitiano-b68ca31c4de3?source=rss------programming-5) (2026-09-28)
-- [Arrays, Slices, and Maps Under the Hood](https://johirbuet.medium.com/arrays-slices-and-maps-under-the-hood-c7dd7e305c17?source=rss------programming-5) (2026-09-28)
+- [Your Rust CI Cache May Know More Than You Think](https://medium.com/rustaceans/your-rust-ci-cache-may-know-more-than-you-think-183a1d3b05dc?source=rss------programming-5) (2026-09-28)
+- [The Thing That Made Me Choose Software Engineering Wasn’t Money](https://medium.com/@sharonlelo6/the-thing-that-made-me-choose-software-engineering-wasnt-money-affdeaaa74ea?source=rss------programming-5) (2026-09-28)
+- [A simple explanation of Merge Sort and its runtime proof using Master’s Theorem.](https://medium.com/@riddhi.patell1306/a-simple-explanation-of-merge-sort-and-its-runtime-proof-using-masters-theorem-5763865fcdd8?source=rss------programming-5) (2026-09-28)
+- [Nobody Told Me This Is What Senior Software Engineers Actually Do.](https://medium.com/javarevisited/nobody-told-me-this-is-what-senior-software-engineers-actually-do-936a9a4073d0?source=rss------programming-5) (2026-09-28)
+- [Claude Code v2.1.278 Auto mode’s Server-Side Classifier: How to Check the Decision Path](https://medium.com/@katsuya.ds/claude-code-v2-1-278-auto-modes-server-side-classifier-how-to-check-the-decision-path-b478ac31a5e1?source=rss------programming-5) (2026-09-28)
 
 </details>
 
@@ -260,17 +260,6 @@
 </details>
 
 <details>
-<summary>📦 Dropbox Tech Blog</summary>
-
-- [Dropbox CTO Ali Dasdan on moving from AI adoption to transformation](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale) (2026-09-23)
-- [Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation) (2026-09-21)
-- [Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces) (2026-08-31)
-- [Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai) (2026-08-18)
-- [How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond) (2026-07-20)
-
-</details>
-
-<details>
 <summary>🛒 Shopify Engineering</summary>
 
 - [Helix: The internal tool powering our Shopify app's native migration](https://shopify.engineering/helix) (2026-09-21)
@@ -317,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [A More Reliable Compilation Scheme for Kotlin Multiplatform Modules](https://blog.jetbrains.com/kotlin/2026/09/a-more-reliable-compilation-scheme-for-kotlin-multiplatform-modules/) (2026-09-28)
 - [Continuing to Move PHP Open Source Forward](https://blog.jetbrains.com/phpstorm/2026/09/continuing-to-move-php-open-source-forward/) (2026-09-24)
 - [Designing the Kotlin Multiplatform and TeamCity Integration](https://blog.jetbrains.com/teamcity/2026/09/designing-the-kotlin-multiplatform-and-teamcity-integration/) (2026-09-24)
 - [Small Talk With Prasun Kumar, CEO and Founder of Oppex AI](https://blog.jetbrains.com/startups/2026/09/small-talk-oppex-ai/) (2026-09-23)
 - [100 Exercises to Learn Rust, Updated](https://blog.jetbrains.com/rust/2026/09/23/100-exercises-to-learn-rust/) (2026-09-23)
-- [Code Quality Q&A With the JetBrains Qodana Team](https://blog.jetbrains.com/qodana/2026/09/code-quality-q-a/) (2026-09-22)
 
 </details>
 
@@ -568,22 +557,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) (2026-09-28)
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) (2026-09-24)
 - [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp) (2026-09-23)
 - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) (2026-09-22)
 - [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants) (2026-09-22)
-- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) (2026-09-22)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The AI That Learned to Understand Long After It Stopped Trying](https://towardsdatascience.com/the-ai-that-learned-to-understand-long-after-it-stopped-trying/) (2026-09-28)
+- [How to Catch Data Drift When Every Feature Looks Normal](https://towardsdatascience.com/how-to-catch-data-drift-when-every-feature-looks-normal/) (2026-09-28)
 - [GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs](https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/) (2026-09-27)
 - [Good Architecture Deletes the Signals Your Agent Depends On](https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/) (2026-09-27)
 - [AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.](https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/) (2026-09-26)
-- [Your LLM Has a Curved Space of Paragraphs](https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/) (2026-09-26)
-- [10 Things I’m Learning Beyond AI to Become More Technologically Fluent](https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/) (2026-09-25)
 
 </details>
 
@@ -601,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-a
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [3 Numba Tricks for Python Runtime Optimization](https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization) (2026-09-28)
 - [Batching by Length Instead of Looping Item by Item for SLM Optimization](https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization) (2026-09-25)
 - [7 Advanced Python Tricks to Level Up Your Coding Skills](https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills) (2026-09-25)
 - [MCP Explained in 5 Minutes](https://www.kdnuggets.com/mcp-explained-in-5-minutes) (2026-09-24)
 - [What I’ve Learned About DeepSeek Harness](https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness) (2026-09-24)
-- [Everything Claude Opus 5.5 Actually Ships With](https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with) (2026-09-23)
 
 </details>
 
