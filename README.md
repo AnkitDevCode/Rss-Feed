@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/) (2026-09-29)
+- [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) (2026-09-28)
+- [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/) (2026-09-28)
 - [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/) (2026-09-28)
 - [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/) (2026-09-28)
-- [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/) (2026-09-28)
-- [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/) (2026-09-28)
-- [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/) (2026-09-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Who should be held accountable when an AI Agent (accidentally) acts maliciously?](https://blog.greenpants.net/ai-accountability/) (2026-09-28)
-- [Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/) (2026-09-28)
-- [Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs) (2026-09-28)
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) (2026-09-28)
-- [Best of British Design](https://best-of-british-design.vercel.app/) (2026-09-28)
+- [U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982](https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html) (2026-09-29)
+- [Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra](https://bluegraph.io/) (2026-09-29)
+- [Tank Body Problem](http://www.jimsitu.com) (2026-09-29)
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) (2026-09-29)
+- [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) (2026-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nothing’s new flagship Headphone 1 Pro put you in the studio](https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review) (2026-09-29)
 - [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal) (2026-09-28)
 - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support) (2026-09-28)
 - [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent) (2026-09-28)
 - [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards) (2026-09-28)
-- [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready) (2026-09-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Boeing "incredibly excited" to serve as nation's only astronaut transportation](https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/) (2026-09-28)
 - [Experts worry about Nvidia's AI chip sales in China and influence over Trump](https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/) (2026-09-28)
 - [SpaceX's Starship goes orbital, deploying first next-gen Starlinks](https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/) (2026-09-28)
 - [Florida invokes extinction fears in legal bid to halt OpenAI development](https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/) (2026-09-28)
 - [New device captures carbon dioxide by pumping it across a battery](https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/) (2026-09-28)
-- [To keep drug prices high, pharma has been piling up the patents](https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/) (2026-09-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rightsizing alone can cut 20 to 30 percent of your EC2 bill](https://dev.to/vlad_z_16b6320e21f32bee0d/rightsizing-alone-can-cut-20-to-30-percent-of-your-ec2-bill-ecm) (2026-09-28)
-- [Error Alerting API Polls — Unresolved Groups Across Cohort Experiments](https://dev.to/thalion51/error-alerting-api-polls-unresolved-groups-across-cohort-experiments-4bal) (2026-09-28)
-- [Googlebook’s Magic Pointer Brings Gemini Into the Screen Context for Everyday Work](https://dev.to/alifar/googlebooks-magic-pointer-brings-gemini-into-the-screen-context-for-everyday-work-470l) (2026-09-28)
-- ['terminal-harbor' - a GUI manager for many terminal sessions](https://dev.to/emalia/terminal-harbor-a-gui-manager-for-many-terminal-sessions-5f9a) (2026-09-28)
-- [Nearly 11 Million Submission Endpoints on Port 587: The Mail Path That Is Rarely Reviewed](https://dev.to/onaeiuspkz/nearly-11-million-submission-endpoints-on-port-587-the-mail-path-that-is-rarely-reviewed-15e) (2026-09-28)
+- [Tech Stack for Thumbrella Cloud](https://dev.to/shredwheat/tech-stack-for-thumbrella-cloud-18fm) (2026-09-29)
+- [What Brand Stability Can Teach Us About Evaluating Any Long-Term Dependency](https://dev.to/review-it/what-brand-stability-can-teach-us-about-evaluating-any-long-term-dependency-1kcm) (2026-09-29)
+- [How boxr runs rootless: namespaces, a trampoline, and uid mapping](https://dev.to/ryo_tanaka_dev/how-boxr-runs-rootless-namespaces-a-trampoline-and-uid-mapping-dne) (2026-09-29)
+- [Cloudflare outage 2019: how one regex caused 27 minutes of 502s](https://dev.to/axrisi/cloudflare-outage-2019-how-one-regex-caused-27-minutes-of-502s-1nla) (2026-09-29)
+- [AI Can Make Every Local Decision Look Reasonable — While Making the System Worse](https://dev.to/robertadam987_/ai-can-make-every-local-decision-look-reasonable-while-making-the-system-worse-11p0) (2026-09-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Sylvester Stallone Can Teach Us About Learning Programming](https://rmfranciacastillo.medium.com/what-sylvester-stallone-can-teach-us-about-learning-programming-c4e684587ca2?source=rss------programming-5) (2026-09-28)
-- [Why Big Systems Stopped Calling Each Other Directly](https://medium.com/@mahdi.nasermoghadasi/why-big-systems-stopped-calling-each-other-directly-fd06f924a6a3?source=rss------programming-5) (2026-09-28)
-- [Keeps is an open source gallery for a Google Photos takeout](https://medium.com/@mutazyounes/browse-a-google-photos-takeout-on-your-own-machine-53f11d399aac?source=rss------programming-5) (2026-09-28)
-- [AI Engineer Roadmap 2026: How to Go From Zero to Hired](https://medium.com/@syamkumar0418/ai-engineer-roadmap-2026-how-to-go-from-zero-to-hired-7152e686b0e4?source=rss------programming-5) (2026-09-28)
-- [What a Folder Rename Taught Me About Knowledge](https://medium.com/how-we-turn-ideas-into-software-the-creative/what-a-folder-rename-taught-me-about-knowledge-9cbb009d544a?source=rss------programming-5) (2026-09-28)
+- [A Senior Dev’s Verdict: GPT-6 Astra or Claude Opus 5.5 for Coding?](https://medium.com/skillstuff/a-senior-devs-verdict-gpt-6-astra-or-claude-opus-5-5-for-coding-94e7b0a8864d?source=rss------programming-5) (2026-09-29)
+- [I recently appeared for Java Backend Developer interviews.](https://medium.com/@anil-singh/i-recently-appeared-for-java-backend-developer-interviews-84efd387b944?source=rss------programming-5) (2026-09-29)
+- [Accenture Java Backend Developer Interview Questions (3–5 Years Experience)](https://medium.com/@anil-singh/accenture-java-backend-developer-interview-questions-3-5-years-experience-a9fdd1a0eea3?source=rss------programming-5) (2026-09-29)
+- [Recently attended the interview process for a Custom Software Engineering role at Accenture (2–4…](https://medium.com/@anil-singh/recently-attended-the-interview-process-for-a-custom-software-engineering-role-at-accenture-2-4-595d22399f74?source=rss------programming-5) (2026-09-29)
+- [For a Honeywell Java interview, prepare across Core Java, Spring Boot, microservices, SQL…](https://medium.com/@anil-singh/for-a-honeywell-java-interview-prepare-across-core-java-spring-boot-microservices-sql-79be4e64666e?source=rss------programming-5) (2026-09-29)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
-- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Search domains without authentication](https://vercel.com/changelog/search-domains-without-authentication) (2026-09-28)
 - [Claude Sonnet 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway) (2026-09-28)
 - [Vercel Sandbox now supports memory observability](https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability) (2026-09-28)
 - [Ember-1 from Fireworks now available on AI Gateway](https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway) (2026-09-27)
 - [Push images to Vercel Container Registry from GitHub Actions](https://vercel.com/changelog/vcr-login-github-action) (2026-09-25)
-- [State of agent skills](https://vercel.com/blog/state-of-agent-skills) (2026-09-25)
 
 </details>
 
