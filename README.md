@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple Pay finally launches in India after years on the sidelines](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/) (2026-09-30)
 - [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) (2026-09-29)
 - [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) (2026-09-29)
 - [Your car and its mobile app are probably handing over all kinds of data to tech companies](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/) (2026-09-29)
 - [a16z-backed EliseAI raises $350M, doubles valuation to $4B](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/) (2026-09-29)
-- [Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)](https://mightygodking.com/2008/04/21/fun-from-yesterday/) (2026-09-30)
-- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) (2026-09-29)
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) (2026-09-29)
-- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/) (2026-09-29)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) (2026-09-29)
+- [GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence) (2026-09-30)
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/) (2026-09-30)
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) (2026-09-30)
+- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/) (2026-09-30)
+- [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/) (2026-09-29)
 
 </details>
 
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Cloudflare plans to issue quantum-safe TLS certificates](https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/) (2026-09-30)
 - [Most powerful obesity drug yet: People lost up to 25% of weight in trial](https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/) (2026-09-29)
 - [Protests against OpenAI get increasingly creative](https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/) (2026-09-29)
 - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/) (2026-09-29)
 - [Trump ads paid for by US government allegedly violate anti-propaganda laws](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/) (2026-09-29)
-- [NASA has a Dragon dilemma, and there appear to be no good answers](https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) (2026-09-30)
 - [The Download: climate tech companies to watch and AI’s discovery problem](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/) (2026-09-29)
 - [Coming soon: Our 2026 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) (2026-09-29)
 - [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) (2026-09-29)
 - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) (2026-09-28)
-- [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) (2026-09-28)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your LangChain SQL agent sends the model every table, including the ones that caller can't read](https://dev.to/ashish_sinha_5241c7673d93/your-langchain-sql-agent-sends-the-model-every-table-including-the-ones-that-caller-cant-read-56oo) (2026-09-30)
-- [웹사이트를 찾는 과정 자체를 제품으로 만들었습니다 — Radar 개발 이야기](https://dev.to/mraustinblake/websaiteureul-cajneun-gwajeong-jacereul-jepumeuro-mandeuleossseubnida-radar-gaebal-iyagi-k0) (2026-09-30)
-- [What Happens When You Treat AI Agents Like Employees, Not Chatbots](https://dev.to/mininglamp/what-happens-when-you-treat-ai-agents-like-employees-not-chatbots-13hm) (2026-09-30)
-- [Secure Push](https://dev.to/hansica_venkatayogi_090cc/secure-push-41i6) (2026-09-30)
-- [Combining Power System Modeling with AI Forecasting for Renewable Grid Integration](https://dev.to/muhammad_shahzaibshahzai/combining-power-system-modeling-with-ai-forecasting-for-renewable-grid-integration-4dmb) (2026-09-30)
+- [Making a Next.js Site Readable by AI Agents: llms.txt, a Markdown Mirror and Accept: text/markdown](https://dev.to/olivia_342fsfsdgrere/making-a-nextjs-site-readable-by-ai-agents-llmstxt-a-markdown-mirror-and-accept-textmarkdown-38e3) (2026-09-30)
+- [Rust malware in arrayref: how a build.rs ran a payload at compile time](https://dev.to/axrisi/rust-malware-in-arrayref-how-a-buildrs-ran-a-payload-at-compile-time-e7f) (2026-09-30)
+- [🚀 𝗡𝗲𝘄 𝗥𝗲𝗮𝗰𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲: Virtualized List](https://dev.to/reactchallenges/-virtualized-list-4593) (2026-09-30)
+- [I Use AI to Build Software. I Still Don't Trust the Code.](https://dev.to/unnita1235/i-use-ai-to-build-software-i-still-dont-trust-the-code-cci) (2026-09-30)
+- [SuperAGI — Deep Dive](https://dev.to/gautammanak1/superagi-deep-dive-10bf) (2026-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [84% of Developers Use AI. Only 29% Trust It. Here's What That Means for Every Stage of the SDLC.](https://medium.com/@sagaraglawe.pl/84-of-developers-use-ai-only-29-trust-it-heres-what-that-means-for-every-stage-of-the-sdlc-b219386b6ae4?source=rss------programming-5) (2026-09-30)
-- [I Sent 147 Prompts and Burned $38 to Fix One Login Screen. Vibe Coding Has Become Doomcoding.](https://medium.com/@trends24/i-sent-147-prompts-and-burned-38-to-fix-one-login-screen-vibe-coding-has-become-doomcoding-f79e39a9b1a4?source=rss------programming-5) (2026-09-30)
-- [Java Microservices Interview Questions (2026) For 3–5 Years Experienced Developers](https://medium.com/@anil-singh/java-microservices-interview-questions-2026-for-3-5-years-experienced-developers-8c04db3071c6?source=rss------programming-5) (2026-09-30)
-- [Recently attended a Java Developer interview for a role requiring 4.5+](https://medium.com/@anil-singh/recently-attended-a-java-developer-interview-for-a-role-requiring-4-5-3c6bf31f6e88?source=rss------programming-5) (2026-09-30)
-- [Four rounds at Thoughtworks, and the most memorable one had almost zero code.](https://medium.com/@anil-singh/four-rounds-at-thoughtworks-and-the-most-memorable-one-had-almost-zero-code-77675666d922?source=rss------programming-5) (2026-09-30)
+- [AI Is Writing the Code. What Should Programmers Do Now?](https://medium.com/@tirthababusarkar7852/ai-is-writing-the-code-what-should-programmers-do-now-ad2bbd521f55?source=rss------programming-5) (2026-09-30)
+- [How to Build an Automated Content Engine Using Google AI Studio and Node.js](https://medium.com/@deesharmala02/how-to-build-an-automated-content-engine-using-google-ai-studio-and-node-js-feddd03b5689?source=rss------programming-5) (2026-09-30)
+- [ Turn Your Idea Into a Website
+Your business deserves more than just a social media page.](https://medium.com/@ibmumuib40/turn-your-idea-into-a-website-your-business-deserves-more-than-just-a-social-media-page-37b30f72efe7?source=rss------programming-5) (2026-09-30)
+- [Nobody Understands the Code Anymore](https://medium.com/skillstuff/nobody-understands-the-code-anymore-ec87cb211172?source=rss------programming-5) (2026-09-30)
+- [Stars on the Other Side: Unpacking Arguments at the Call](https://medium.com/becomebetter-dev/stars-on-the-other-side-unpacking-arguments-at-the-call-9ef7e2ea6b06?source=rss------programming-5) (2026-09-30)
 
 </details>
 
@@ -119,11 +120,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
+- [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
-- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 
 </details>
 
@@ -317,11 +318,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Companions to Come](https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/) (2026-09-30)
 - [The State of Kotlin in 2026 Report](https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/) (2026-09-29)
 - [Software Quality Assurance Tools and Tips for Developers](https://blog.jetbrains.com/qodana/2026/09/software-quality-assurance-tools/) (2026-09-29)
 - [Air Teams: Bring Your Best Agentic Workflows to the Whole Team – and Automate Repeatable Work](https://blog.jetbrains.com/air/2026/09/introducing-air-teams/) (2026-09-28)
 - [Rider 2026.2.3 Is Released!](https://blog.jetbrains.com/dotnet/2026/09/28/rd-2026-2-3/) (2026-09-28)
-- [A More Reliable Compilation Scheme for Kotlin Multiplatform Modules](https://blog.jetbrains.com/kotlin/2026/09/a-more-reliable-compilation-scheme-for-kotlin-multiplatform-modules/) (2026-09-28)
 
 </details>
 
@@ -361,11 +362,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Connect now accepts service submissions](https://vercel.com/changelog/vercel-connect-service-submissions) (2026-09-29)
 - [Search trace spans from the Vercel CLI](https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli) (2026-09-29)
 - [GPT-6.1 Sol now available on AI Gateway](https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway) (2026-09-29)
 - [Search domains without authentication](https://vercel.com/changelog/search-domains-without-authentication) (2026-09-28)
 - [Claude Sonnet 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway) (2026-09-28)
-- [Vercel Sandbox now supports memory observability](https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability) (2026-09-28)
 
 </details>
 
@@ -384,30 +385,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-86% of brands think their AI works. Only 51% of customers agree. 
-](
-https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction
-) (2026-09-29)
-- [
-How to Augment Voice Calls with Twilio Intelligence in C#
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp
-) (2026-09-29)
-- [
-How to Augment Voice Calls with Twilio Intelligence
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-php
-) (2026-09-29)
-- [
 How to Build an RCS Business Messaging Campaign with Twilio in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php
 ) (2026-09-28)
 - [
-Building Localised, Enterprise-Grade AI Voice Agents
+The #1 AI behavior hurting your customers’ experiences
 ](
-https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents
-) (2026-09-28)
+https://www.twilio.com/en-us/blog/insights/lost-context-between-channels
+) (2026-09-25)
+- [
+What is AI agent orchestration? How it works in 2026
+](
+https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
+) (2026-09-25)
+- [
+How to handle real-time interruptions in your AI voice agent
+](
+https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling
+) (2026-09-25)
+- [
+How to Build an RCS Business Messaging Campaign with Twilio in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp
+) (2026-09-25)
 
 </details>
 
@@ -515,11 +516,11 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Meta Muse AI agent: How to use the personal AI agent](https://zapier.com/blog/muse-ai) (2026-09-30)
 - [Meta selects Zapier as named Connector inside Muse](https://zapier.com/blog/zapier-connector-in-muse) (2026-09-29)
-- [The best large language models (LLMs) in 2026](https://zapier.com/blog/best-llm) (2026-09-29)
 - [Meta AI Muse Spark: A guide to Meta's AI models](https://zapier.com/blog/meta-ai-muse-spark) (2026-09-29)
+- [The best large language models (LLMs) in 2026](https://zapier.com/blog/best-llm) (2026-09-29)
 - [Claude integrations: How to use Zapier with Claude (Fable 5.1, Opus 5.5, and more)](https://zapier.com/blog/automate-claude) (2026-09-28)
-- [Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-09-28)
 
 </details>
 
@@ -592,22 +593,22 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Towards Spec-Driven Test Automation: Part 2](https://towardsdatascience.com/towards-spec-driven-test-automation-part-2/) (2026-09-30)
 - [I Compacted 1,000 Apache Iceberg Files Into 6. Here’s What Happened to Query Performance.](https://towardsdatascience.com/i-compacted-1000-apache-iceberg-files-into-6-heres-what-happened-to-query-performance/) (2026-09-29)
 - [AI Made Data Scientists Faster. Now It’s Expanding the Job.](https://towardsdatascience.com/ai-made-data-scientists-faster-now-its-expanding-the-job/) (2026-09-29)
 - [When All You Have Are Decoders, Every Decision Looks Like Generation](https://towardsdatascience.com/when-all-you-have-are-decoders-every-decision-looks-like-generation/) (2026-09-29)
 - [How to Design Architectural Guardrails Around AI Agents](https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/) (2026-09-29)
-- [Building Fair Evaluation Sets Is a Combinatorial Problem](https://towardsdatascience.com/building-fair-evaluation-sets-is-a-combinatorial-problem/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-dot-access-setup-hands-on/) (2026-09-30)
 - [Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA](https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/) (2026-09-29)
 - [7 Open-Source Memory GitHub Projects on AI Memory ](https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/) (2026-09-29)
 - [Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has ](https://www.analyticsvidhya.com/blog/2026/09/sarvam-vision-2-1-review/) (2026-09-28)
 - [Agentic Context Engineering (ACE): Self-Improving Language Models](https://www.analyticsvidhya.com/blog/2026/09/agentic-context-engineering/) (2026-09-26)
-- [10 Solved Generative AI Projects to Boost your Profile ](https://www.analyticsvidhya.com/blog/2026/09/solved-generative-ai-projects/) (2026-09-25)
 
 </details>
 
