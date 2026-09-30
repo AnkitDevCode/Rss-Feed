@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) (2026-09-29)
+- [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) (2026-09-29)
+- [Your car and its mobile app are probably handing over all kinds of data to tech companies](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/) (2026-09-29)
+- [a16z-backed EliseAI raises $350M, doubles valuation to $4B](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/) (2026-09-29)
 - [Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/) (2026-09-29)
-- [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) (2026-09-29)
-- [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/) (2026-09-29)
-- [More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope](https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/) (2026-09-29)
-- [Apple Pay set to launch in India with Axis Bank today, sources say](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [YC employee blocks Jews from hackathon](https://twitter.com/realAdamLevi/status/2104921647081799899) (2026-09-29)
+- [Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)](https://mightygodking.com/2008/04/21/fun-from-yesterday/) (2026-09-30)
+- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) (2026-09-29)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) (2026-09-29)
+- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/) (2026-09-29)
 - [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) (2026-09-29)
-- [Memory Companies Have Destroyed the Consumer Market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market) (2026-09-29)
-- [Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT) (2026-09-29)
-- [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews) (2026-09-29)
-- [Razer’s low-latency wireless gaming keyboard is almost half off](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale) (2026-09-29)
-- [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) (2026-09-29)
-- [Protesters gather at OpenAI’s DevDay](https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers) (2026-09-29)
-- [Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature) (2026-09-29)
+- [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) (2026-09-30)
+- [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) (2026-09-29)
+- [BMW’s revamped i3 boasts up to 468 miles of range](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range) (2026-09-29)
+- [Suspected ShinyHunters leader arrested in the Netherlands](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested) (2026-09-29)
+- [Elon Musk&#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again) (2026-09-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Most powerful obesity drug yet: People lost up to 25% of weight in trial](https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/) (2026-09-29)
+- [Protests against OpenAI get increasingly creative](https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/) (2026-09-29)
 - [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/) (2026-09-29)
 - [Trump ads paid for by US government allegedly violate anti-propaganda laws](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/) (2026-09-29)
 - [NASA has a Dragon dilemma, and there appear to be no good answers](https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/) (2026-09-29)
-- [Here's what actually happened in OpenAI's Australian gov't server hack](https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/) (2026-09-29)
-- [Apple pressured to explain Trump role in ICE-tracking app removals](https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/) (2026-09-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Vibe Was Never the Problem. But the Missing Half Starts Before the Build.](https://dev.to/maryam_zare_3fd580d8abbb1/vibe-was-never-the-problem-but-the-missing-half-starts-before-the-build-5m2) (2026-09-29)
-- [HashiCorp Vault RCE Vulnerability Persists Despite OpenBao Patch: Urgent Mitigation Needed](https://dev.to/maricode/hashicorp-vault-rce-vulnerability-persists-despite-openbao-patch-urgent-mitigation-needed-53hk) (2026-09-29)
-- [Why DKMS says "Manual intervention is required!" (and how I fixed it upstream)](https://dev.to/hopsayer/why-dkms-says-manual-intervention-is-required-and-how-i-fixed-it-upstream-1pn1) (2026-09-29)
-- [Study computer science, university-style: 15 free resources](https://dev.to/pfeilbr/study-computer-science-university-style-15-free-resources-148) (2026-09-29)
-- [How to Capture Node.js Express API Errors With Request Context and Stack Traces](https://dev.to/fletchervance3712/how-to-capture-nodejs-express-api-errors-with-request-context-and-stack-traces-2nhb) (2026-09-29)
+- [Your LangChain SQL agent sends the model every table, including the ones that caller can't read](https://dev.to/ashish_sinha_5241c7673d93/your-langchain-sql-agent-sends-the-model-every-table-including-the-ones-that-caller-cant-read-56oo) (2026-09-30)
+- [웹사이트를 찾는 과정 자체를 제품으로 만들었습니다 — Radar 개발 이야기](https://dev.to/mraustinblake/websaiteureul-cajneun-gwajeong-jacereul-jepumeuro-mandeuleossseubnida-radar-gaebal-iyagi-k0) (2026-09-30)
+- [What Happens When You Treat AI Agents Like Employees, Not Chatbots](https://dev.to/mininglamp/what-happens-when-you-treat-ai-agents-like-employees-not-chatbots-13hm) (2026-09-30)
+- [Secure Push](https://dev.to/hansica_venkatayogi_090cc/secure-push-41i6) (2026-09-30)
+- [Combining Power System Modeling with AI Forecasting for Renewable Grid Integration](https://dev.to/muhammad_shahzaibshahzai/combining-power-system-modeling-with-ai-forecasting-for-renewable-grid-integration-4dmb) (2026-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Replaced RestTemplate With WebClient. Our Service Did Not Become Faster.](https://medium.com/engineering-playbook/we-replaced-resttemplate-with-webclient-our-service-did-not-become-faster-7047942c5e48?source=rss------programming-5) (2026-09-29)
-- [Why do physics engines break?](https://thegoldenmule.medium.com/why-do-physics-engines-break-eae92015c371?source=rss------programming-5) (2026-09-29)
-- [We Removed Half Our Spring Boot Annotations. The Code Became Easier to Debug.](https://medium.com/engineering-playbook/we-removed-half-our-spring-boot-annotations-the-code-became-easier-to-debug-151bda6ac7eb?source=rss------programming-5) (2026-09-29)
-- [AI Wrote the SQL in 10 Seconds. PostgreSQL Paid for It All Day.](https://medium.com/engineering-playbook/ai-wrote-the-sql-in-10-seconds-postgresql-paid-for-it-all-day-ccec875167e1?source=rss------programming-5) (2026-09-29)
-- [ What Is Happening With SIMD in Rust?](https://medium.com/rustaceans/what-is-happening-with-simd-in-rust-02ccad97e3f9?source=rss------programming-5) (2026-09-29)
+- [84% of Developers Use AI. Only 29% Trust It. Here's What That Means for Every Stage of the SDLC.](https://medium.com/@sagaraglawe.pl/84-of-developers-use-ai-only-29-trust-it-heres-what-that-means-for-every-stage-of-the-sdlc-b219386b6ae4?source=rss------programming-5) (2026-09-30)
+- [I Sent 147 Prompts and Burned $38 to Fix One Login Screen. Vibe Coding Has Become Doomcoding.](https://medium.com/@trends24/i-sent-147-prompts-and-burned-38-to-fix-one-login-screen-vibe-coding-has-become-doomcoding-f79e39a9b1a4?source=rss------programming-5) (2026-09-30)
+- [Java Microservices Interview Questions (2026) For 3–5 Years Experienced Developers](https://medium.com/@anil-singh/java-microservices-interview-questions-2026-for-3-5-years-experienced-developers-8c04db3071c6?source=rss------programming-5) (2026-09-30)
+- [Recently attended a Java Developer interview for a role requiring 4.5+](https://medium.com/@anil-singh/recently-attended-a-java-developer-interview-for-a-role-requiring-4-5-3c6bf31f6e88?source=rss------programming-5) (2026-09-30)
+- [Four rounds at Thoughtworks, and the most memorable one had almost zero code.](https://medium.com/@anil-singh/four-rounds-at-thoughtworks-and-the-most-memorable-one-had-almost-zero-code-77675666d922?source=rss------programming-5) (2026-09-30)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 - [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
 - [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
+- [Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051) (2026-09-22)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+86% of brands think their AI works. Only 51% of customers agree. 
+](
+https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction
+) (2026-09-29)
+- [
+How to Augment Voice Calls with Twilio Intelligence in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp
+) (2026-09-29)
+- [
+How to Augment Voice Calls with Twilio Intelligence
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-php
+) (2026-09-29)
+- [
 How to Build an RCS Business Messaging Campaign with Twilio in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php
@@ -393,21 +408,6 @@ Building Localised, Enterprise-Grade AI Voice Agents
 ](
 https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents
 ) (2026-09-28)
-- [
-The #1 AI behavior hurting your customers’ experiences
-](
-https://www.twilio.com/en-us/blog/insights/lost-context-between-channels
-) (2026-09-25)
-- [
-What is AI agent orchestration? How it works in 2026
-](
-https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration
-) (2026-09-25)
-- [
-How to handle real-time interruptions in your AI voice agent
-](
-https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling
-) (2026-09-25)
 
 </details>
 
