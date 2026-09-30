@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The ugly economics of consumer AI](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/) (2026-09-30)
-- [Meta disputes claim that Muse read a user’s private messages without permission](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/) (2026-09-30)
-- [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/) (2026-09-30)
-- [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/) (2026-09-30)
-- [Instinct’s new product recommendations are giving some users the ick](https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/) (2026-09-30)
+- [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) (2026-09-30)
+- [Factory CEO just accused his VC board advisor of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) (2026-09-30)
+- [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/) (2026-09-30)
+- [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/) (2026-09-30)
+- [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/) (2026-09-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Let's Ditch Google (Verb)](https://adam.farkas.pro/lets-ditch-google-verb/) (2026-09-30)
-- [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) (2026-09-30)
-- [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603) (2026-09-30)
-- [SDF Public Access Unix System ... est. 1987](https://sdf.org/) (2026-09-30)
-- [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal) (2026-09-30)
+- [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) (2026-09-30)
+- [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/) (2026-09-30)
+- [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) (2026-09-30)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) (2026-09-30)
+- [CS240 AI Cheating Retrospective](https://turkeyland.net/thoughts/ai.php) (2026-09-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie) (2026-09-30)
+- [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) (2026-09-30)
+- [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices) (2026-09-30)
+- [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) (2026-09-30)
 - [Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy) (2026-09-30)
-- [Here&#8217;s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments) (2026-09-30)
-- [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health) (2026-09-30)
-- [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing) (2026-09-30)
-- [&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview) (2026-09-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Cloudflare plans to issue quantum-safe TLS certificates](https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/) (2026-09-30)
-- [Most powerful obesity drug yet: People lost up to 25% of weight in trial](https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/) (2026-09-29)
-- [Protests against OpenAI get increasingly creative](https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/) (2026-09-29)
-- [AMD acquires World Labs AI startup, upping the ante against Nvidia](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/) (2026-09-29)
-- [Trump ads paid for by US government allegedly violate anti-propaganda laws](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/) (2026-09-29)
+- [Google announces Gemini 4 Argon AI model, but you can't use it yet](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/) (2026-09-30)
+- [Reddit is putting more limits on Old.Reddit.com](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/) (2026-09-30)
+- [RFK Jr. thinks AI will free us from the "tyranny" of medical facts, expertise](https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/) (2026-09-30)
+- [The Disney protests were a wake-up call about the risks of streaming mergers](https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/) (2026-09-30)
+- [Trump plan to combat AI risks hinges on Big Tech pals policing themselves](https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/) (2026-09-30)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Queues and workflows with conveyor](https://dev.to/tigawanna/queues-and-workflows-with-conveyor-48kk) (2026-09-30)
-- [grapheme_levenshtein() in PHP 8.5: what the docs don't tell you](https://dev.to/_er2es_/graphemelevenshtein-in-php-85-what-the-docs-dont-tell-you-322n) (2026-09-30)
-- [The green lamp lies: ten months growing a harness around Claude Code](https://dev.to/jord0cmd/the-green-lamp-lies-ten-months-growing-a-harness-around-claude-code-1goa) (2026-09-30)
-- [remove.bg's API is shutting down Dec 1 — here's what that actually means for you](https://dev.to/noah1919/removebgs-api-is-shutting-down-dec-1-heres-what-that-actually-means-for-you-5af9) (2026-09-30)
-- [The 402 beta is open. The roadmap says 'discovery.'](https://dev.to/minia2a/the-402-beta-is-open-the-roadmap-says-discovery-5fla) (2026-09-30)
+- [Secure AI Driven Database Access with db-mcp-gateway](https://dev.to/developerzai/secure-ai-driven-database-access-with-db-mcp-gateway-4ke) (2026-09-30)
+- [How I Build Software From Scratch: From a Rough Idea to Architecture and Code](https://dev.to/roshan_ican/how-i-build-software-from-scratch-from-a-rough-idea-to-architecture-and-code-2lp4) (2026-09-30)
+- [🎵 Burnout: I wrote a song - "Bleeding Knuckles"](https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp) (2026-09-30)
+- [How our Top 11 HopHacks project turned noisy MediaPipe pose data into reliable rehabilitation metrics for adaptive AI planning](https://dev.to/jasonpg/how-our-top-11-hophacks-project-turned-noisy-mediapipe-pose-data-into-reliable-rehabilitation-411d) (2026-09-30)
+- [ERC-4626 first-depositor inflation, explained for founders](https://dev.to/juan23z/erc-4626-first-depositor-inflation-explained-for-founders-3ih1) (2026-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Upgrading to Spring Boot 4? Jackson 3 will break your imports — here’s the complete fix](https://medium.com/@umeshcapg/upgrading-to-spring-boot-4-jackson-3-will-break-your-imports-heres-the-complete-fix-77589396f008?source=rss------programming-5) (2026-09-30)
-- [Event Handling in JavaScript: A Practical Guide with Code Examples](https://hohanga.medium.com/event-handling-in-javascript-a-practical-guide-with-code-examples-2a22b4330933?source=rss------programming-5) (2026-09-30)
-- [10 React Patterns Senior Devs Use That Juniors Never Learn](https://medium.com/@kaklotarrahul79/10-react-patterns-senior-devs-use-that-juniors-never-learn-51cadd970245?source=rss------programming-5) (2026-09-30)
-- [AI-Assisted Software Development: How Developers Can Work With AI](https://medium.com/@shrirangesh/ai-assisted-software-development-how-developers-can-work-with-ai-d9c4be02c961?source=rss------programming-5) (2026-09-30)
-- [Compiling Conversations: I Built a Compiler for Game NPC Dialogue in C++20](https://medium.com/@adarsh1ss79038/compiling-conversations-i-built-a-compiler-for-game-npc-dialogue-in-c-20-3505ee16460f?source=rss------programming-5) (2026-09-30)
+- [Google Just Announced Gemini 4 Argon. Here Is What It Means for You.](https://medium.com/@vinayanand2/google-just-announced-gemini-4-argon-here-is-what-it-means-for-you-d0e24d8a8c7e?source=rss------programming-5) (2026-09-30)
+- [The Ultimate Redis & Docker Cheat Sheet Every Developer Needs](https://medium.com/@adatiyavinayshaileshbhai/the-ultimate-redis-docker-cheat-sheet-every-developer-needs-a4a451ab72fa?source=rss------programming-5) (2026-09-30)
+- [The AI Didn’t Escape the Sandbox. It Hacked the Things the Sandbox Trusted](https://medium.com/@fahey_james/the-ai-didnt-escape-the-sandbox-it-hacked-the-things-the-sandbox-trusted-3fcf3332addd?source=rss------programming-5) (2026-09-30)
+- [Salting in Apache Spark: How to Handle Data Skew in Large-Scale Joins](https://medium.com/@geekycodes/salting-in-apache-spark-how-to-handle-data-skew-in-large-scale-joins-ca3286232e39?source=rss------programming-5) (2026-09-30)
+- [16 Types of Databases Every Developer Should Understand (And When to Use Them)](https://medium.com/codex/16-types-of-databases-every-developer-should-understand-and-when-to-use-them-dd405d5c8ad4?source=rss------programming-5) (2026-09-30)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/) (2026-09-30)
 - [Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/) (2026-09-30)
 - [Celebrating Our Newest AWS Heroes – September 2026](https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/) (2026-09-30)
 - [AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/) (2026-09-28)
 - [Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications](https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/) (2026-09-24)
-- [Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/) (2026-09-22)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%](https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html) (2026-09-30)
 - [Driving growth on Google Play: The next era of subscriptions](https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html) (2026-09-29)
 - [ Build intelligent Android apps: In-app agentic workflows](https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html) (2026-09-28)
 - [Build your way: Use any AI agent of your choice in Android Studio](https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html) (2026-09-24)
 - [Land your apps on Googlebook with adaptive development ](https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html) (2026-09-22)
-- [Bring your Android game to the car screen today](https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html) (2026-09-21)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Introducing Team Authorizations](https://www.heroku.com/blog/introducing-team-authorizations/) (2026-09-30)
 - [6 Lesser-Known Heroku CLI Commands You Probably Aren’t Using](https://www.heroku.com/blog/6-lesser-known-heroku-cli-commands/) (2026-08-25)
 - [Fine-Grained Access Control Now Available for All Heroku Customers](https://www.heroku.com/blog/fine-grained-access-control-now-available-all-customers/) (2026-08-21)
 - [How To Set Up a Staging Environment on Heroku in 3 Easy Steps](https://www.heroku.com/blog/how-to-set-up-staging-environment-3-easy-steps/) (2026-07-16)
 - [Securing Heroku CLI Credentials with System Keychain Storage](https://www.heroku.com/blog/securing-heroku-cli-credentials-with-system-keychain-storage/) (2026-07-01)
-- [A 15-Second Health Check for Your Heroku Connect Data Pipeline](https://www.heroku.com/blog/health-check-for-your-heroku-connect-data-pipeline/) (2026-06-24)
 
 </details>
 
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Edge Requests are now called CDN Requests](https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests) (2026-09-30)
+- [Vercel Sandbox now supports Secure Compute](https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute) (2026-09-30)
+- [Ling 3.1 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway) (2026-09-30)
+- [Vercel CDN no longer caches responses with Vary: Cookie](https://vercel.com/changelog/vary-cookie-responses-no-longer-cached) (2026-09-30)
 - [Vercel Connect now accepts service submissions](https://vercel.com/changelog/vercel-connect-service-submissions) (2026-09-29)
-- [Search trace spans from the Vercel CLI](https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli) (2026-09-29)
-- [GPT-6.1 Sol now available on AI Gateway](https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway) (2026-09-29)
-- [Search domains without authentication](https://vercel.com/changelog/search-domains-without-authentication) (2026-09-28)
-- [Claude Sonnet 5.5 now available on AI Gateway](https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway) (2026-09-28)
 
 </details>
 
@@ -516,10 +516,10 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [What is AI orchestration? A guide to intelligent systems](https://zapier.com/blog/ai-orchestration) (2026-09-30)
+- [Outlook vs. Gmail: Which platform is best? [2026]](https://zapier.com/blog/microsoft-outlook-vs-gmail) (2026-09-30)
+- [Google Sheets vs. Excel: Which is right for you? [2026]](https://zapier.com/blog/google-sheets-vs-excel) (2026-09-30)
 - [Meta Muse AI agent: How to use the personal AI agent](https://zapier.com/blog/muse-ai) (2026-09-30)
-- [Meta AI Muse Spark: A guide to Meta's AI models](https://zapier.com/blog/meta-ai-muse-spark) (2026-09-29)
-- [Meta selects Zapier as named Connector inside Muse](https://zapier.com/blog/zapier-connector-in-muse) (2026-09-29)
+- [What is AI orchestration? A guide to intelligent systems](https://zapier.com/blog/ai-orchestration) (2026-09-30)
 - [The best large language models (LLMs) in 2026](https://zapier.com/blog/best-llm) (2026-09-29)
 
 </details>
@@ -648,11 +648,11 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
 - [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
 - [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
 - [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 - [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) (2026-09-15)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
