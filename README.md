@@ -9,21 +9,21 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/) (2026-10-01)
 - [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) (2026-09-30)
 - [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/) (2026-09-30)
 - [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) (2026-09-30)
 - [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) (2026-09-30)
-- [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/) (2026-09-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [California bans child marriage, a practice still legal in 32 US states](https://www.bbc.com/news/articles/c6rm9mnn0w3eo) (2026-10-01)
-- [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) (2026-10-01)
-- [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/) (2026-10-01)
-- [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/) (2026-10-01)
+- [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) (2026-10-01)
+- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) (2026-10-01)
+- [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design) (2026-10-01)
+- [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) (2026-10-01)
 - [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) (2026-09-30)
 
 </details>
@@ -31,11 +31,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Huawei made a whole camera to attach to its latest phone](https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera) (2026-10-01)
+- [This very fancy e-bike is one of the first to go semi-solid state](https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery) (2026-10-01)
+- [The People of Utah vs. Kevin O&#8217;Leary](https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash) (2026-10-01)
+- [Noise from Universal&#8217;s latest ride made rich locals furious, fast](https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise) (2026-10-01)
 - [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras) (2026-10-01)
-- [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai) (2026-10-01)
-- [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez) (2026-09-30)
-- [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie) (2026-09-30)
-- [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) (2026-09-30)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) (2026-10-01)
+- [How smaller, distributed batteries could help the grid](https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/) (2026-10-01)
 - [The Download: OpenAI’s chief research officer explains its hacking response](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/) (2026-09-30)
 - [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) (2026-09-30)
 - [The Download: climate tech companies to watch and AI’s discovery problem](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/) (2026-09-29)
-- [Coming soon: Our 2026 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) (2026-09-29)
-- [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) (2026-09-29)
 
 </details>
 
@@ -86,22 +86,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TanStack npm supply-chain attack: how a Dependabot bump spread a worm](https://dev.to/axrisi/tanstack-npm-supply-chain-attack-how-a-dependabot-bump-spread-a-worm-1h4l) (2026-10-01)
-- [Python for Agentic AI: LangGraph vs CrewAI vs MAF](https://dev.to/shaam_ai/python-for-agentic-ai-langgraph-vs-crewai-vs-maf-4od0) (2026-10-01)
-- [Making seamless video loops with ffmpeg: repeat, ping-pong, crossfade and a generated bridge](https://dev.to/jimmylee0252/making-seamless-video-loops-with-ffmpeg-repeat-ping-pong-crossfade-and-a-generated-bridge-41jm) (2026-10-01)
-- [CVE-2026-96362 and the Limits of Version-Based Drupal Scanning](https://dev.to/stark_zhuang_df5076f35c68/cve-2026-96362-and-the-limits-of-version-based-drupal-scanning-38hp) (2026-10-01)
-- [Implementing Multi‑Agent RAG with Azure Functions and Redis Cache](https://dev.to/amitesh0512/implementing-multi-agent-rag-with-azure-functions-and-redis-cache-3g07) (2026-10-01)
+- [Probing FTS5 Support in node:sqlite: A Field Guide to Graceful Degradation](https://dev.to/shubh-sa-24/probing-fts5-support-in-nodesqlite-a-field-guide-to-graceful-degradation-2n8e) (2026-10-01)
+- [A callback-first recovery pattern for AI video jobs on Vercel](https://dev.to/zhenyu_xu_b378d8d11d18138/a-callback-first-recovery-pattern-for-ai-video-jobs-on-vercel-2efo) (2026-10-01)
+- [A Beginner’s Guide to Regression and Regularization](https://dev.to/venuskennedy/a-beginners-guide-to-regression-and-regularization-4a60) (2026-10-01)
+- [the senior developer who can't get hired](https://dev.to/vyixor/the-senior-developer-who-cant-get-hired-83i) (2026-10-01)
+- [AWS AIF-C01: Bias, Variance & the AWS Tools That Detect Them](https://dev.to/pandeyc005/aws-aif-c01-bias-variance-the-aws-tools-that-detect-them-4a6h) (2026-10-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Label Is the Brake](https://medium.com/@eduard.deira/the-label-is-the-brake-aacd4ea639e4?source=rss------programming-5) (2026-10-01)
-- [28.7%: The Luna Footnote Behind OpenAI’s Decisions API](https://generativeai.pub/28-7-the-luna-footnote-behind-openais-decisions-api-ea31ac648a7e?source=rss------programming-5) (2026-10-01)
-- [WordPress.org,](https://medium.com/@outreach_59700/wordpress-org-10d58379a471?source=rss------programming-5) (2026-10-01)
-- [The Winter Arc Starts October 1, and Most People Will Quit by October 12](https://medium.com/pen-with-paper/the-winter-arc-starts-october-1-and-most-people-will-quit-by-october-12-593fe0ca971e?source=rss------programming-5) (2026-10-01)
-- [Python Web Scraping: The 7 Tools I’d Use Before Writing a Scraper From Scratch](https://medium.com/codetodeploy/python-web-scraping-the-7-tools-id-use-before-writing-a-scraper-from-scratch-24d0cc97bd22?source=rss------programming-5) (2026-10-01)
+- [OpenAI Trained GPT-6.1 Astra to Stop Giving Up, and It Started Acting Without Permission](https://pub.towardsai.net/openai-trained-gpt-6-1-astra-to-stop-giving-up-and-it-started-acting-without-permission-2d8ceef3ac7d?source=rss------programming-5) (2026-10-01)
+- [Floyd–Warshall in Airline Alliance Routing:
+ Finding the Cheapest Multi-Airline Ticket](https://medium.com/@24bt04101/floyd-warshall-in-airline-alliance-routing-finding-the-cheapest-multi-airline-ticket-b418db5b4449?source=rss------programming-5) (2026-10-01)
+- [Practical AI Engineering: Shipping AI Features That Actually Work](https://medium.com/@brianeugene851/practical-ai-engineering-shipping-ai-features-that-actually-work-d81622736604?source=rss------programming-5) (2026-10-01)
+- [We Took AI Away From a Senior Developer for One Day. He Hadn’t Forgotten How to Code. He Had..](https://medium.com/engineering-playbook/we-took-ai-away-from-a-senior-developer-for-one-day-he-hadnt-forgotten-how-to-code-he-had-31db4a574ca4?source=rss------programming-5) (2026-10-01)
+- [Our Fastest Developer Was Shipping 3× More Code With AI. Then We Asked Him to Work Without It for On](https://medium.com/engineering-playbook/our-fastest-developer-was-shipping-3-more-code-with-ai-then-we-asked-him-to-work-without-it-for-on-977e9fda8c33?source=rss------programming-5) (2026-10-01)
 
 </details>
 
@@ -317,11 +318,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [RustRover vs VS Code + rust-analyzer: What Changes in Your Rust Workflow](https://blog.jetbrains.com/rust/2026/10/01/rustrover-vs-vs-code/) (2026-10-01)
 - [Small Talk with Emiliano Bonilla, CEO and Co-Founder of Synnax](https://blog.jetbrains.com/startups/2026/09/small-talk-synnax/) (2026-09-30)
 - [The Companions to Come](https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/) (2026-09-30)
 - [The State of Kotlin in 2026 Report](https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/) (2026-09-29)
 - [Software Quality Assurance Tools and Tips for Developers](https://blog.jetbrains.com/qodana/2026/09/software-quality-assurance-tools/) (2026-09-29)
-- [Air Teams: Bring Your Best Agentic Workflows to the Whole Team – and Automate Repeatable Work](https://blog.jetbrains.com/air/2026/09/introducing-air-teams/) (2026-09-28)
 
 </details>
 
@@ -384,6 +385,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Augment Voice Calls with Twilio Conversation Intelligence Using Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs
+) (2026-09-30)
+- [
 86% of brands think their AI works. Only 51% of customers agree. 
 ](
 https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction
@@ -402,11 +408,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 How to Build an RCS Business Messaging Campaign with Twilio in PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php
-) (2026-09-28)
-- [
-Building Localised, Enterprise-Grade AI Voice Agents
-](
-https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents
 ) (2026-09-28)
 
 </details>
@@ -593,22 +594,33 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your AI Bill Is a Toll Booth. Stop Paying Twice.](https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/) (2026-10-01)
 - [How Many Stories Can Your Data Tell?](https://towardsdatascience.com/how-many-stories-can-your-data-tell/) (2026-09-30)
 - [Insight Is Still the Currency of Data Science](https://towardsdatascience.com/insight-is-still-the-currency-of-data-science/) (2026-09-30)
 - [How to Solve Issues When You Nest Measures While Overwriting the Same Filter](https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/) (2026-09-30)
 - [Towards Spec-Driven Test Automation: Part 2](https://towardsdatascience.com/towards-spec-driven-test-automation-part-2/) (2026-09-30)
-- [I Compacted 1,000 Apache Iceberg Files Into 6. Here’s What Happened to Query Performance.](https://towardsdatascience.com/i-compacted-1000-apache-iceberg-files-into-6-heres-what-happened-to-query-performance/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Code Custom Commands & Skills: Automate Your Workflow](https://www.analyticsvidhya.com/blog/2026/10/claude-code-custom-commands-skills-automate-your-workflow/) (2026-10-01)
 - [OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-dot-access-setup-hands-on/) (2026-09-30)
 - [Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA](https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/) (2026-09-29)
 - [7 Open-Source Memory GitHub Projects on AI Memory ](https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/) (2026-09-29)
 - [Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has ](https://www.analyticsvidhya.com/blog/2026/09/sarvam-vision-2-1-review/) (2026-09-28)
-- [Agentic Context Engineering (ACE): Self-Improving Language Models](https://www.analyticsvidhya.com/blog/2026/09/agentic-context-engineering/) (2026-09-26)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [10 Python One-Liners That Will Make Your Code Cleaner and Faster](https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster) (2026-10-01)
+- [Did AI Just Solve One of Mathematics’ Biggest Problems?](https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems) (2026-09-30)
+- [Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet) (2026-09-30)
+- [How to Turn Excel Data Into PowerPoint Presentations With AI](https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai) (2026-09-29)
+- [SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription](https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription) (2026-09-29)
 
 </details>
 
@@ -631,17 +643,6 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
