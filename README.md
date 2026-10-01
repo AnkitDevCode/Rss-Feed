@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) (2026-09-30)
+- [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/) (2026-09-30)
 - [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) (2026-09-30)
-- [Factory CEO just accused his VC board advisor of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) (2026-09-30)
+- [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) (2026-09-30)
 - [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/) (2026-09-30)
-- [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/) (2026-09-30)
-- [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/) (2026-09-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) (2026-09-30)
-- [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/) (2026-09-30)
-- [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) (2026-09-30)
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) (2026-09-30)
-- [CS240 AI Cheating Retrospective](https://turkeyland.net/thoughts/ai.php) (2026-09-30)
+- [California bans child marriage, a practice still legal in 32 US states](https://www.bbc.com/news/articles/c6rm9mnn0w3eo) (2026-10-01)
+- [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) (2026-10-01)
+- [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/) (2026-10-01)
+- [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/) (2026-10-01)
+- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) (2026-09-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras) (2026-10-01)
+- [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai) (2026-10-01)
+- [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez) (2026-09-30)
 - [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie) (2026-09-30)
 - [Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) (2026-09-30)
-- [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices) (2026-09-30)
-- [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) (2026-09-30)
-- [Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy) (2026-09-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google announces Gemini 4 Argon AI model, but you can't use it yet](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/) (2026-09-30)
-- [Reddit is putting more limits on Old.Reddit.com](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/) (2026-09-30)
-- [RFK Jr. thinks AI will free us from the "tyranny" of medical facts, expertise](https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/) (2026-09-30)
-- [The Disney protests were a wake-up call about the risks of streaming mergers](https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/) (2026-09-30)
-- [Trump plan to combat AI risks hinges on Big Tech pals policing themselves](https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/) (2026-09-30)
+- [Dinosaur-killing impact crater might have been teeming with life](https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/) (2026-09-30)
+- [Fifth unvaccinated person dies of measles; CDC still not counting all deaths](https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/) (2026-09-30)
+- [Returning from vacation? The government can search your phone without a warrant.](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) (2026-09-30)
+- [A local network of implants uses your body as the wiring](https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/) (2026-09-30)
+- [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) (2026-09-30)
 
 </details>
 
@@ -86,44 +86,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Secure AI Driven Database Access with db-mcp-gateway](https://dev.to/developerzai/secure-ai-driven-database-access-with-db-mcp-gateway-4ke) (2026-09-30)
-- [How I Build Software From Scratch: From a Rough Idea to Architecture and Code](https://dev.to/roshan_ican/how-i-build-software-from-scratch-from-a-rough-idea-to-architecture-and-code-2lp4) (2026-09-30)
-- [🎵 Burnout: I wrote a song - "Bleeding Knuckles"](https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp) (2026-09-30)
-- [How our Top 11 HopHacks project turned noisy MediaPipe pose data into reliable rehabilitation metrics for adaptive AI planning](https://dev.to/jasonpg/how-our-top-11-hophacks-project-turned-noisy-mediapipe-pose-data-into-reliable-rehabilitation-411d) (2026-09-30)
-- [ERC-4626 first-depositor inflation, explained for founders](https://dev.to/juan23z/erc-4626-first-depositor-inflation-explained-for-founders-3ih1) (2026-09-30)
+- [TanStack npm supply-chain attack: how a Dependabot bump spread a worm](https://dev.to/axrisi/tanstack-npm-supply-chain-attack-how-a-dependabot-bump-spread-a-worm-1h4l) (2026-10-01)
+- [Python for Agentic AI: LangGraph vs CrewAI vs MAF](https://dev.to/shaam_ai/python-for-agentic-ai-langgraph-vs-crewai-vs-maf-4od0) (2026-10-01)
+- [Making seamless video loops with ffmpeg: repeat, ping-pong, crossfade and a generated bridge](https://dev.to/jimmylee0252/making-seamless-video-loops-with-ffmpeg-repeat-ping-pong-crossfade-and-a-generated-bridge-41jm) (2026-10-01)
+- [CVE-2026-96362 and the Limits of Version-Based Drupal Scanning](https://dev.to/stark_zhuang_df5076f35c68/cve-2026-96362-and-the-limits-of-version-based-drupal-scanning-38hp) (2026-10-01)
+- [Implementing Multi‑Agent RAG with Azure Functions and Redis Cache](https://dev.to/amitesh0512/implementing-multi-agent-rag-with-azure-functions-and-redis-cache-3g07) (2026-10-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Google Just Announced Gemini 4 Argon. Here Is What It Means for You.](https://medium.com/@vinayanand2/google-just-announced-gemini-4-argon-here-is-what-it-means-for-you-d0e24d8a8c7e?source=rss------programming-5) (2026-09-30)
-- [The Ultimate Redis & Docker Cheat Sheet Every Developer Needs](https://medium.com/@adatiyavinayshaileshbhai/the-ultimate-redis-docker-cheat-sheet-every-developer-needs-a4a451ab72fa?source=rss------programming-5) (2026-09-30)
-- [The AI Didn’t Escape the Sandbox. It Hacked the Things the Sandbox Trusted](https://medium.com/@fahey_james/the-ai-didnt-escape-the-sandbox-it-hacked-the-things-the-sandbox-trusted-3fcf3332addd?source=rss------programming-5) (2026-09-30)
-- [Salting in Apache Spark: How to Handle Data Skew in Large-Scale Joins](https://medium.com/@geekycodes/salting-in-apache-spark-how-to-handle-data-skew-in-large-scale-joins-ca3286232e39?source=rss------programming-5) (2026-09-30)
-- [16 Types of Databases Every Developer Should Understand (And When to Use Them)](https://medium.com/codex/16-types-of-databases-every-developer-should-understand-and-when-to-use-them-dd405d5c8ad4?source=rss------programming-5) (2026-09-30)
+- [The Label Is the Brake](https://medium.com/@eduard.deira/the-label-is-the-brake-aacd4ea639e4?source=rss------programming-5) (2026-10-01)
+- [28.7%: The Luna Footnote Behind OpenAI’s Decisions API](https://generativeai.pub/28-7-the-luna-footnote-behind-openais-decisions-api-ea31ac648a7e?source=rss------programming-5) (2026-10-01)
+- [WordPress.org,](https://medium.com/@outreach_59700/wordpress-org-10d58379a471?source=rss------programming-5) (2026-10-01)
+- [The Winter Arc Starts October 1, and Most People Will Quit by October 12](https://medium.com/pen-with-paper/the-winter-arc-starts-october-1-and-most-people-will-quit-by-october-12-593fe0ca971e?source=rss------programming-5) (2026-10-01)
+- [Python Web Scraping: The 7 Tools I’d Use Before Writing a Scraper From Scratch](https://medium.com/codetodeploy/python-web-scraping-the-7-tools-id-use-before-writing-a-scraper-from-scratch-24d0cc97bd22?source=rss------programming-5) (2026-10-01)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon S3 Tables now support all Apache Iceberg V3 data types](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/) (2026-09-30)
 - [Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/) (2026-09-30)
 - [Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/) (2026-09-30)
 - [Celebrating Our Newest AWS Heroes – September 2026](https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/) (2026-09-30)
 - [AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/) (2026-09-28)
-- [Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications](https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/) (2026-09-24)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
+- [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 - [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
-- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Agent now installs private packages from npm and custom registries](https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries) (2026-09-30)
+- [AI Gateway adds Browserbase Search and Fetch tools](https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools) (2026-09-30)
 - [Edge Requests are now called CDN Requests](https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests) (2026-09-30)
 - [Vercel Sandbox now supports Secure Compute](https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute) (2026-09-30)
 - [Ling 3.1 Flash is now available on AI Gateway](https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway) (2026-09-30)
-- [Vercel CDN no longer caches responses with Vary: Cookie](https://vercel.com/changelog/vary-cookie-responses-no-longer-cached) (2026-09-30)
-- [Vercel Connect now accepts service submissions](https://vercel.com/changelog/vercel-connect-service-submissions) (2026-09-29)
 
 </details>
 
@@ -609,17 +609,6 @@ https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-A
 - [7 Open-Source Memory GitHub Projects on AI Memory ](https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/) (2026-09-29)
 - [Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has ](https://www.analyticsvidhya.com/blog/2026/09/sarvam-vision-2-1-review/) (2026-09-28)
 - [Agentic Context Engineering (ACE): Self-Improving Language Models](https://www.analyticsvidhya.com/blog/2026/09/agentic-context-engineering/) (2026-09-26)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [Did AI Just Solve One of Mathematics’ Biggest Problems?](https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems) (2026-09-30)
-- [Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet) (2026-09-30)
-- [How to Turn Excel Data Into PowerPoint Presentations With AI](https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai) (2026-09-29)
-- [SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription](https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription) (2026-09-29)
-- [5 Free Courses to Learn AI Engineering](https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering) (2026-09-29)
 
 </details>
 
