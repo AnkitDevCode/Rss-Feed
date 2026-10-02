@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/) (2026-10-02)
+- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-02)
 - [Lyft is paying $272.5M to settle lawsuit over how it classified drivers](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/) (2026-10-01)
 - [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/) (2026-10-01)
 - [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) (2026-10-01)
-- [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/) (2026-10-01)
-- [Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/) (2026-10-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/) (2026-10-01)
-- [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com) (2026-10-01)
-- [The death of web development education](https://molily.de/web-dev-education/) (2026-10-01)
-- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus) (2026-10-01)
-- [Show HN: Rhun, an open-source code editor written in assembly](https://rhun.app/) (2026-10-01)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) (2026-10-02)
+- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators) (2026-10-01)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) (2026-10-01)
+- [2026 International Utility Locate Rodeo](https://locaterodeo.net/) (2026-10-01)
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) (2026-10-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video) (2026-10-01)
 - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision) (2026-10-01)
 - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs) (2026-10-01)
 - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for) (2026-10-01)
 - [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed) (2026-10-01)
-- [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr) (2026-10-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Venus' mysterious haze is actually cosmic dust](https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/) (2026-10-01)
+- [SpaceX describes surgical intervention before launch of latest crew mission](https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/) (2026-10-01)
 - [Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data](https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/) (2026-10-01)
 - [Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search](https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/) (2026-10-01)
 - [Can good design stop content creators from having sex in robotaxis?](https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/) (2026-10-01)
-- [Marvel releases one last VisionQuest trailer](https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/) (2026-10-01)
-- [Memory executives expect RAM shortage to continue through 2028](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/) (2026-10-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Gemini 4 Argon Goes to Cyber Defenders First, the FTC Steps In, and Rubin NVL72 Goes Live](https://dev.to/hiroki-ii-ai/gemini-4-argon-goes-to-cyber-defenders-first-the-ftc-steps-in-and-rubin-nvl72-goes-live-j11) (2026-10-01)
-- [How to Access Your WSL2 Web Apps from Mobile Devices & LAN](https://dev.to/logifire/how-to-access-your-wsl2-web-apps-from-mobile-devices-lan-37lf) (2026-10-01)
-- [We thought our GPT-5.4 agent got lazier in production — it was a 3-bug workflow teaching it to quit](https://dev.to/lars_winstand/we-thought-our-gpt-54-agent-got-lazier-in-production-it-was-a-3-bug-workflow-teaching-it-to-quit-1b3b) (2026-10-01)
-- [tokenmaxxing: track AI coding usage across tools and devices](https://dev.to/pondorasti/tokenmaxxing-track-ai-coding-usage-across-tools-and-devices-mda) (2026-10-01)
-- [My static site started returning 429 to visitors - here is what I actually measured, and the $0 fix](https://dev.to/monkeyrun/my-static-site-started-returning-429-to-visitors-here-is-what-i-actually-measured-and-the-0-fix-1jc6) (2026-10-01)
+- [🏠 Meet Awaas AI — a smarter way to understand your home.](https://dev.to/aditya_prem_f914eb4f51381/meet-awaas-ai-a-smarter-way-to-understand-your-home-2g90) (2026-10-02)
+- [Context, Not Models: What Actually Made AI BI Reliable](https://dev.to/datatechbridge/context-not-models-what-actually-made-ai-bi-reliable-572l) (2026-10-02)
+- [Shared and Managed Fortinet Estates: Whose Gateway Is It When Credentials Leak?](https://dev.to/jeffreyciend/shared-and-managed-fortinet-estates-whose-gateway-is-it-when-credentials-leak-14mn) (2026-10-02)
+- [Day 1: Demystifying AI — From Buzzword to Business Logic](https://dev.to/suresh_kumar_de3920bedd1c/day-1-demystifying-ai-from-buzzword-to-business-logic-4415) (2026-10-02)
+- [What I Learned After Running AI Agents in Production for a Year](https://dev.to/aibughunter/what-i-learned-after-running-ai-agents-in-production-for-a-year-2ofd) (2026-10-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Backend Performance Optimization: 12 Bottlenecks Senior Engineers Should Find Before Scaling](https://medium.com/@pixel1234/backend-performance-optimization-12-bottlenecks-senior-engineers-should-find-before-scaling-4293c027f618?source=rss------programming-5) (2026-10-01)
-- [On-Call Engineering at Senior Level: How to Build an Incident Response System That Actually Works](https://medium.com/@pixel1234/on-call-engineering-at-senior-level-how-to-build-an-incident-response-system-that-actually-works-09a0f10a303d?source=rss------programming-5) (2026-10-01)
-- [Production Debugging for Senior Engineers: How to Find Root Cause Without Guessing](https://medium.com/@pixel1234/production-debugging-for-senior-engineers-how-to-find-root-cause-without-guessing-5629e13f15ae?source=rss------programming-5) (2026-10-01)
-- [AI Coding in Production: 12 Guardrails I Would Require Before Letting an Agent Touch a Backend](https://medium.com/@pixel1234/ai-coding-in-production-12-guardrails-i-would-require-before-letting-an-agent-touch-a-backend-14cc30623d0a?source=rss------programming-5) (2026-10-01)
-- [10 Production Incidents Every Backend Engineer Should Know How to Debug](https://medium.com/@webdeveloper45/10-production-incidents-every-backend-engineer-should-know-how-to-debug-386d37576f62?source=rss------programming-5) (2026-10-01)
+- [The One Python Trick That Makes You Think Like a Principal Engineer](https://medium.com/@zaydislam25/the-one-python-trick-that-makes-you-think-like-a-principal-engineer-6a447ed5b421?source=rss------programming-5) (2026-10-02)
+- [Design a Web Crawler at Google Scale: URL Frontiers, Bloom Filters, and the Politeness Problem That…](https://sumanthpoola.medium.com/design-a-web-crawler-at-google-scale-url-frontiers-bloom-filters-and-the-politeness-problem-that-5157df8a7938?source=rss------programming-5) (2026-10-02)
+- [Redis for AI Agents: Memory, Queues, Checkpoints](https://medium.com/@coolercoder/redis-for-ai-agents-memory-queues-checkpoints-d09e12d65a97?source=rss------programming-5) (2026-10-02)
+- [How Does Docker Compose handles container dependencies?](https://medium.com/@15.22.bobj/how-does-docker-compose-handles-container-dependencies-fac0433ac9b0?source=rss------programming-5) (2026-10-02)
+- [Netlify Self-Redirects Its Two Most-Linked Pages (40 Links).](https://medium.com/@outreach_59700/netlify-self-redirects-its-two-most-linked-pages-40-links-b8bdfe2bf5aa?source=rss------programming-5) (2026-10-02)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/) (2026-10-01)
 - [Fall Into 25 New Games on GeForce NOW This October](https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/) (2026-10-01)
 - [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/) (2026-10-01)
 - [NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000](https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/) (2026-09-30)
 - [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/) (2026-09-30)
-- [How Open Science Can Help Researchers Prepare for the Next Pandemic](https://blogs.nvidia.com/blog/open-protein-dataset/) (2026-09-24)
 
 </details>
 
@@ -538,11 +538,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-busines
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Onboard Remote Employees: A Complete Guide](https://slack.com/blog/collaboration/remote-onboarding) (2026-09-23)
-- [Employee Burnout: Signs, Causes, and How to Prevent It](https://slack.com/blog/productivity/employee-burnout) (2026-09-23)
-- [Agile vs. Waterfall: How To Choose the Right Project Management Approach](https://slack.com/blog/productivity/agile-vs-waterfall) (2026-09-23)
-- [How to choose between Kanban and Scrum](https://slack.com/blog/productivity/kanban-vs-scrum) (2026-09-23)
-- [Combat Meeting Overload: Ideas for Success](https://slack.com/blog/productivity/meeting-overload) (2026-09-23)
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
+- [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
+- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
+- [What Is a PMO?](https://slack.com/blog/productivity/pmo) (2026-09-28)
+- [What Are Soft Skills? Definition, Examples, and Why They Matter at Work](https://slack.com/blog/collaboration/soft-skills) (2026-09-28)
 
 </details>
 
@@ -571,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-busines
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell](https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/) (2026-10-01)
 - [A Ray-Focused Guide to PyTorch Conference North America](https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america/) (2026-09-30)
 - [From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR](https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/) (2026-09-30)
 - [Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training](https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/) (2026-09-24)
 - [From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA](https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/) (2026-09-23)
-- [Hardware-Agnostic Models in vLLM](https://pytorch.org/blog/hardware-agnostic-models-in-vllm/) (2026-09-22)
 
 </details>
 
@@ -609,6 +609,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-busines
 - [Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA](https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/) (2026-09-29)
 - [7 Open-Source Memory GitHub Projects on AI Memory ](https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/) (2026-09-29)
 - [Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has ](https://www.analyticsvidhya.com/blog/2026/09/sarvam-vision-2-1-review/) (2026-09-28)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly](https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly) (2026-10-01)
+- [From Messy Documents to Structured Data with Docling](https://www.kdnuggets.com/from-messy-documents-to-structured-data-with-docling) (2026-10-01)
+- [How to Use Marimo for Interactive Data Analysis](https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis) (2026-10-01)
+- [10 Python One-Liners That Will Make Your Code Cleaner and Faster](https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster) (2026-10-01)
+- [Did AI Just Solve One of Mathematics’ Biggest Problems?](https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems) (2026-09-30)
 
 </details>
 
