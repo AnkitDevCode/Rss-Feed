@@ -20,44 +20,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) (2026-10-02)
-- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators) (2026-10-01)
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) (2026-10-01)
-- [2026 International Utility Locate Rodeo](https://locaterodeo.net/) (2026-10-01)
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) (2026-10-01)
+- [Why media fans want to escape algorithms with CDs, DVDs and vinyl](https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl) (2026-10-02)
+- [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut) (2026-10-02)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) (2026-10-02)
+- [Building reliable (and fast) directory sync](https://www.firezone.dev/blog/building-reliable-directory-sync) (2026-10-02)
+- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/) (2026-10-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) (2026-10-02)
 - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video) (2026-10-01)
 - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision) (2026-10-01)
 - [Android Central &#8216;will continue&#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs) (2026-10-01)
 - [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for) (2026-10-01)
-- [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed) (2026-10-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [TCL is right to question Samsung’s use of the term “Mini LED”](https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/) (2026-10-02)
 - [Venus' mysterious haze is actually cosmic dust](https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/) (2026-10-01)
 - [SpaceX describes surgical intervention before launch of latest crew mission](https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/) (2026-10-01)
 - [Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data](https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/) (2026-10-01)
 - [Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search](https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/) (2026-10-01)
-- [Can good design stop content creators from having sex in robotaxis?](https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/) (2026-10-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A new contest pits competitors against each other in a race to biological youth](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/) (2026-10-02)
+- [Don’t be fooled—LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/) (2026-10-02)
 - [The Download: AI “mind-reading” and creative uses for small batteries](https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/) (2026-10-01)
 - [An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) (2026-10-01)
 - [How smaller, distributed batteries could help the grid](https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/) (2026-10-01)
-- [The Download: OpenAI’s chief research officer explains its hacking response](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/) (2026-09-30)
-- [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) (2026-09-30)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Constraints that make developers faster](https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/) (2026-10-02)
 - [A look back before we look forward: A Developer Survey retrospective](https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/) (2026-10-01)
 - [Organizations need decision-grade knowledge. AI makes it urgent.](https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/) (2026-09-30)
 - [Anyone can start building verified knowledge with Stack Internal](https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/) (2026-09-30)
 - [Getting ready for 2026 results: A look back on Developer Survey findings](https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/) (2026-09-30)
-- [Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🏠 Meet Awaas AI — a smarter way to understand your home.](https://dev.to/aditya_prem_f914eb4f51381/meet-awaas-ai-a-smarter-way-to-understand-your-home-2g90) (2026-10-02)
-- [Context, Not Models: What Actually Made AI BI Reliable](https://dev.to/datatechbridge/context-not-models-what-actually-made-ai-bi-reliable-572l) (2026-10-02)
-- [Shared and Managed Fortinet Estates: Whose Gateway Is It When Credentials Leak?](https://dev.to/jeffreyciend/shared-and-managed-fortinet-estates-whose-gateway-is-it-when-credentials-leak-14mn) (2026-10-02)
-- [Day 1: Demystifying AI — From Buzzword to Business Logic](https://dev.to/suresh_kumar_de3920bedd1c/day-1-demystifying-ai-from-buzzword-to-business-logic-4415) (2026-10-02)
-- [What I Learned After Running AI Agents in Production for a Year](https://dev.to/aibughunter/what-i-learned-after-running-ai-agents-in-production-for-a-year-2ofd) (2026-10-02)
+- [Why 14 BIND CVEs Landed at Once: Reading the September 2026 DNS Advisory](https://dev.to/jeffreyciend/why-14-bind-cves-landed-at-once-reading-the-september-2026-dns-advisory-2li5) (2026-10-02)
+- [nefuOS: A from-scratch OS with a browser, WebGL, and a local LLM — built in one month](https://dev.to/nefu-dev/nefuos-a-from-scratch-os-with-a-browser-webgl-and-a-local-llm-built-in-one-month-l1b) (2026-10-02)
+- [Our voice agent costs 2.5¢ a minute. Here's the whole bill.](https://dev.to/neeraj_sharma_757fbb49aa7/our-voice-agent-costs-25c-a-minute-heres-the-whole-bill-3a17) (2026-10-02)
+- [I operate Karpenter every day. I wanted to see how its brain works, so I built a controller.](https://dev.to/jesskearney/i-operate-karpenter-every-day-i-wanted-to-see-how-its-brain-works-so-i-built-a-controller-55c0) (2026-10-02)
+- [Building a Multi-Year Battery-Powered Cellular Data Logger](https://dev.to/bhanuka_gamachchige/building-a-multi-year-battery-powered-cellular-data-logger-ji1) (2026-10-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The One Python Trick That Makes You Think Like a Principal Engineer](https://medium.com/@zaydislam25/the-one-python-trick-that-makes-you-think-like-a-principal-engineer-6a447ed5b421?source=rss------programming-5) (2026-10-02)
-- [Design a Web Crawler at Google Scale: URL Frontiers, Bloom Filters, and the Politeness Problem That…](https://sumanthpoola.medium.com/design-a-web-crawler-at-google-scale-url-frontiers-bloom-filters-and-the-politeness-problem-that-5157df8a7938?source=rss------programming-5) (2026-10-02)
-- [Redis for AI Agents: Memory, Queues, Checkpoints](https://medium.com/@coolercoder/redis-for-ai-agents-memory-queues-checkpoints-d09e12d65a97?source=rss------programming-5) (2026-10-02)
-- [How Does Docker Compose handles container dependencies?](https://medium.com/@15.22.bobj/how-does-docker-compose-handles-container-dependencies-fac0433ac9b0?source=rss------programming-5) (2026-10-02)
-- [Netlify Self-Redirects Its Two Most-Linked Pages (40 Links).](https://medium.com/@outreach_59700/netlify-self-redirects-its-two-most-linked-pages-40-links-b8bdfe2bf5aa?source=rss------programming-5) (2026-10-02)
+- [5 Ways to Find Duplicate Records in SQL — With Real-World Examples](https://ravi-chan.medium.com/5-ways-to-find-duplicate-records-in-sql-with-real-world-examples-20b3dec47a36?source=rss------programming-5) (2026-10-02)
+- [Our Senior Engineer Had Been Warning Us About This Database Table for Two Years. At 180 Million Rows](https://medium.com/engineering-playbook/our-senior-engineer-had-been-warning-us-about-this-database-table-for-two-years-at-180-million-rows-45c5e78acd9b?source=rss------programming-5) (2026-10-02)
+- [The Backwards Startup Method: Get Users First, Build Product Later](https://medium.com/@meerhadi0238/the-backwards-startup-method-get-users-first-build-product-later-c0ec9376541f?source=rss------programming-5) (2026-10-02)
+- [Our Most Expensive Microservice Was Doing Something PostgreSQL Already Did](https://medium.com/engineering-playbook/our-most-expensive-microservice-was-doing-something-postgresql-already-did-8f320af37467?source=rss------programming-5) (2026-10-02)
+- [AI Coding Agents, Six Months Later. What Actually Stuck?](https://medium.com/futura-creative/ai-coding-agents-six-months-later-what-actually-stuck-060e4072c99e?source=rss------programming-5) (2026-10-02)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 
 </details>
 
@@ -582,22 +582,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-busines
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) (2026-10-02)
 - [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3) (2026-10-01)
 - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (2026-09-30)
 - [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular) (2026-09-29)
 - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) (2026-09-29)
-- [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) (2026-09-28)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build a Control Plane for AI Agents](https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/) (2026-10-02)
 - [Autoencoders vs. PCA: I Rigged the Test and PCA Still Won](https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/) (2026-10-01)
 - [Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?](https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/) (2026-10-01)
 - [What the ReLU Revolution Revealed About Biological Plausibility](https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/) (2026-10-01)
 - [Your AI Bill Is a Toll Booth. Stop Paying Twice.](https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/) (2026-10-01)
-- [How Many Stories Can Your Data Tell?](https://towardsdatascience.com/how-many-stories-can-your-data-tell/) (2026-09-30)
 
 </details>
 
