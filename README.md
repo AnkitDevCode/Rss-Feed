@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) (2026-10-03)
+- [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/) (2026-10-03)
 - [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) (2026-10-02)
 - [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) (2026-10-02)
 - [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) (2026-10-02)
-- [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/) (2026-10-02)
-- [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/) (2026-10-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html) (2026-10-02)
-- [Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/) (2026-10-02)
-- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) (2026-10-02)
-- [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression) (2026-10-02)
-- [Muse Gadgets](https://gadgets.muse.ai) (2026-10-02)
+- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) (2026-10-03)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) (2026-10-03)
+- [Where Is the Planet](http://whereistheplanet.com) (2026-10-03)
+- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) (2026-10-03)
+- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company) (2026-10-02)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) (2026-10-02)
+- [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) (2026-10-02)
 - [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/) (2026-10-02)
 - [Patient-zero drill put health facilities to the test—40% of them failed](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/) (2026-10-02)
 - [Lyft settles landmark driver misclassification lawsuit for $272.5M](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/) (2026-10-02)
-- [The 2008 economic crisis changed the US's relationship with energy](https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/) (2026-10-02)
-- [US arrests tech CEO accused of smuggling $300M in Nvidia chips into China](https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/) (2026-10-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rehearsal Mirror helps you find your own story before an interview](https://dev.to/simon_levy_e0b34a39073843/rehearsal-mirror-helps-you-find-your-own-story-before-an-interview-1d1n) (2026-10-02)
-- [How to clean an email list and remove invalid addresses before sending](https://dev.to/hay_equipos/how-to-clean-an-email-list-and-remove-invalid-addresses-before-sending-kel) (2026-10-02)
-- [Moderating Spoken Content Explained (Why Support Teams Transcribe Text First)](https://dev.to/frosty45/moderating-spoken-content-explained-why-support-teams-transcribe-text-first-3p5b) (2026-10-02)
-- [Attributing Changed DNS Records in Edtech Zone Drift Reconciliation](https://dev.to/corneliushayes8579/attributing-changed-dns-records-in-edtech-zone-drift-reconciliation-3il0) (2026-10-02)
-- [How to check domain expiry dates, DNS records and SSL certificates in bulk](https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3) (2026-10-02)
+- [Working with ZIP Files Entirely in the Browser Using JSZip](https://dev.to/toolzip/working-with-zip-files-entirely-in-the-browser-using-jszip-1ln3) (2026-10-03)
+- [JSON in Production: 7 Subtle Bugs That Break Web APIs and How to Debug Them](https://dev.to/tinali7564eng/json-in-production-7-subtle-bugs-that-break-web-apis-and-how-to-debug-them-3dn4) (2026-10-03)
+- [Comeback dev.to Wave Language Announcement](https://dev.to/lunastev/comeback-devto-wave-language-announcement-3b0d) (2026-10-03)
+- [UUID v4 vs. UUID v7 vs. ULID in 2026: Database Index Performance, B-Tree Fragmentation & When to Migrate](https://dev.to/tinali7564eng/uuid-v4-vs-uuid-v7-vs-ulid-in-2026-database-index-performance-b-tree-fragmentation-when-to-27hi) (2026-10-03)
+- [What to Check Before You Spend More Time on SEO](https://dev.to/edchapman/what-to-check-before-you-spend-more-time-on-seo-2dpi) (2026-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Best Engineer Asked AI to Do His Job for 30 Days. On Day 27, He Told Me We Had a Serious Problem](https://medium.com/engineering-playbook/my-best-engineer-asked-ai-to-do-his-job-for-30-days-on-day-27-he-told-me-we-had-a-serious-problem-3b1d8294fa63?source=rss------programming-5) (2026-10-02)
-- [How I Turned Three Weekend AI Experiments Into a $4,200/Month Income Stream](https://python.plainenglish.io/how-i-turned-three-weekend-ai-experiments-into-a-4-200-month-income-stream-bd198973e847?source=rss------programming-5) (2026-10-02)
-- [Why Legacy WhatsApp APIs Are Draining Your Startup’s Budget](https://medium.com/@globalotpservice9/why-legacy-whatsapp-apis-are-draining-your-startups-budget-5d6e6b70182f?source=rss------programming-5) (2026-10-02)
-- [Claude Code vs Codex: Stop Picking a Side, Start Picking a Task](https://medium.com/@jamilxt/claude-code-vs-codex-stop-picking-a-side-start-picking-a-task-96395ad4b8dc?source=rss------programming-5) (2026-10-02)
-- [JSON vs. CBOR](https://blog.devgenius.io/json-vs-cbor-9fa00ef5f320?source=rss------programming-5) (2026-10-02)
+- [ChatGPT Dots vs Hermes Agent](https://medium.com/data-science-in-your-pocket/chatgpt-dots-vs-hermes-agent-25ea408a49c1?source=rss------programming-5) (2026-10-03)
+- [Why WebContainer Compilation Errors Stall Modern Browser Workspace Engines](https://medium.com/@Biztechpulsehub/why-webcontainer-compilation-errors-stall-modern-browser-workspace-engines-b06a26eb2573?source=rss------programming-5) (2026-10-03)
+- [I think coding agents are guessing too long](https://medium.com/@aka.kevinh/i-think-coding-agents-are-guessing-too-long-bb3444bc9cd2?source=rss------programming-5) (2026-10-03)
+- [How to Use Claude on Real Software Projects: 8 Workflows (With Prompts You Can Copy)](https://medium.com/@makara.seng.mkr97/how-to-use-claude-on-real-software-projects-8-workflows-with-prompts-you-can-copy-99a5b4120f2b?source=rss------programming-5) (2026-10-03)
+- [Mailgun’s Locale Pages All 301-Redirect to Themselves.](https://medium.com/@outreach_59700/mailguns-locale-pages-all-301-redirect-to-themselves-5cbccf165974?source=rss------programming-5) (2026-10-03)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
+- [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
+- [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
-- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 <details>
 <summary>💬 Slack API</summary>
 
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
 - [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 - [What Is a PMO?](https://slack.com/blog/productivity/pmo) (2026-09-28)
 - [What Are Soft Skills? Definition, Examples, and Why They Matter at Work](https://slack.com/blog/collaboration/soft-skills) (2026-09-28)
-- [What Is a Stakeholder? Definition, Types, and Examples](https://slack.com/blog/productivity/what-is-a-stakeholder) (2026-09-28)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
