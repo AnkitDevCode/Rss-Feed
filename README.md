@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) (2026-10-03)
+- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) (2026-10-03)
+- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) (2026-10-03)
 - [Jack Dorsey’s Bitchat disappears from app stores in India after government order](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/) (2026-10-03)
 - [Vessev built an electric ferry that almost flies](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/) (2026-10-03)
-- [All the AI agents that can live in your text messages ](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-03)
-- [Spotify billionaire’s body scan startup has come to America](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/) (2026-10-03)
-- [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) (2026-10-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) (2026-10-03)
-- [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia) (2026-10-03)
-- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri) (2026-10-03)
-- [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/) (2026-10-03)
-- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) (2026-10-03)
+- [Elon Musk Emails](https://elonmuskmails.com/) (2026-10-03)
+- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/) (2026-10-03)
+- [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife) (2026-10-03)
+- [Two American Airlines Flights End Up with the Same Flight Numbers](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/) (2026-10-03)
+- [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) (2026-10-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) (2026-10-03)
+- [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october) (2026-10-03)
 - [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) (2026-10-03)
 - [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) (2026-10-03)
 - [3D movies are finally worth watching](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro) (2026-10-03)
-- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) (2026-10-02)
-- [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig) (2026-10-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PlateMate — Dietary Safety & Allergen Intelligence Powered by TabPFN](https://dev.to/sanjaysah/platemate-dietary-safety-allergen-intelligence-powered-by-tabpfn-34nj) (2026-10-03)
-- [Building InsightTrack with SerpApi for the SerpApi India Hackathon](https://dev.to/nishikantaray/building-insighttrack-with-serpapi-for-the-serpapi-india-hackathon-5o6) (2026-10-03)
-- [How Much to Charge Clients for Travel Time](https://dev.to/d3bd863b497b/how-much-to-charge-clients-for-travel-time-107) (2026-10-03)
-- [I attack-tested my agent's seatbelt. Here's what survived.](https://dev.to/slabb/i-attack-tested-my-agents-seatbelt-heres-what-survived-15mj) (2026-10-03)
-- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi) (2026-10-03)
+- [I rejected a model that passed everyone else's benchmark](https://dev.to/dawnofgenx/i-rejected-a-model-that-passed-everyone-elses-benchmark-33gm) (2026-10-03)
+- [Un backup sirve cuando puedes restaurarlo: laboratorio con SQLite y GitHub Actions](https://dev.to/antonys3010/un-backup-sirve-cuando-puedes-restaurarlo-laboratorio-con-sqlite-y-github-actions-3i4p) (2026-10-03)
+- [A Windows context menu editor in one PowerShell file](https://dev.to/rocisapps/a-windows-context-menu-editor-in-one-powershell-file-2mc) (2026-10-03)
+- [StudyBuddy](https://dev.to/ankit_kumar810/studybuddy-5bc8) (2026-10-03)
+- [I built a tiny tool that catches the "printed at 94%" problem](https://dev.to/removewaterfromspeakers/i-built-a-tiny-tool-that-catches-the-printed-at-94-problem-1hj1) (2026-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built My Own JARVIS as a Final-Year Student. Here’s How It Works (and What Almost Broke Me)](https://medium.com/@sanchitv11104/i-built-my-own-jarvis-as-a-final-year-student-heres-how-it-works-and-what-almost-broke-me-85ff38b4eb7e?source=rss------programming-5) (2026-10-03)
-- [20 Open-Source Projects for AI Agents In Production](https://medium.com/the-ai-brief/20-open-source-projects-for-ai-agents-in-production-6ce90c9b74a6?source=rss------programming-5) (2026-10-03)
-- [Why Python Is a Preferred Language for Artificial Intelligence](https://medium.com/@aysha25comp/why-python-is-a-preferred-language-for-artificial-intelligence-5b0f2665a64a?source=rss------programming-5) (2026-10-03)
-- [I Expected Rejecting Bad JSON to Be the Expensive Path. It Wasn’t. The Library Was 93× Worse.](https://medium.com/@nazmul_hasan/i-expected-rejecting-bad-json-to-be-the-expensive-path-it-wasnt-the-library-was-93-worse-aba9d8f7786c?source=rss------programming-5) (2026-10-03)
-- [Why √2 Is Irrational : The Rational Root Proof](https://medium.com/think-art/why-2-is-irrational-the-rational-root-proof-05b0c6084fb7?source=rss------programming-5) (2026-10-03)
+- [SOAS III — Hedge Sandwich with Two Signed Prices: Part I](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149?source=rss------programming-5) (2026-10-03)
+- [Python Is the Steering Wheel, Not the Engine](https://medium.com/@kaustubhb25comp/python-is-the-steering-wheel-not-the-engine-e573c696d049?source=rss------programming-5) (2026-10-03)
+- [Code Is Not Cheap: Why Software Fundamentals Matter More Than Ever in the AI Era](https://medium.com/@anasahmedadawy/code-is-not-cheap-why-software-fundamentals-matter-more-than-ever-in-the-ai-era-4f2b1efdf6bd?source=rss------programming-5) (2026-10-03)
+- [How to Use No-Code Platforms to Build Business Applications Without Programming Skills???](https://medium.com/@aarab.abdelmalek266/how-to-use-no-code-platforms-to-build-business-applications-without-programming-skills-a745b767db4a?source=rss------programming-5) (2026-10-03)
+- [My Journey Building CVNet](https://medium.com/@jithmiwickramasinghe4/my-journey-building-cvnet-e6bd05e6fc1f?source=rss------programming-5) (2026-10-03)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 
 </details>
 
@@ -394,6 +394,11 @@ How to Track Opt-Outs in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php
 ) (2026-10-02)
 - [
+How to Get Started With WebRTC: Intro to Browser APIs
+](
+https://www.twilio.com/en-us/blog/get-started-webrtc
+) (2026-10-02)
+- [
 Your customers don't want an AI friend. They want an answer.
 ](
 https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend
@@ -403,11 +408,6 @@ Prioritize your messages at scale with the Twilio Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine
 ) (2026-10-01)
-- [
-Augment Voice Calls with Twilio Conversation Intelligence Using Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs
-) (2026-09-30)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
-- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
 - [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
+- [What Is a PMO?](https://slack.com/blog/productivity/pmo) (2026-09-28)
+- [What Are Soft Skills? Definition, Examples, and Why They Matter at Work](https://slack.com/blog/collaboration/soft-skills) (2026-09-28)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
+- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
