@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) (2026-10-03)
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) (2026-10-03)
-- [Where Is the Planet](http://whereistheplanet.com) (2026-10-03)
-- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) (2026-10-03)
-- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company) (2026-10-02)
+- [An AI agent emailed researchers for help. It told us why](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why) (2026-10-03)
+- [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/) (2026-10-03)
+- [Gemini ending free use of Flash and Pro models](https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/) (2026-10-03)
+- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows) (2026-10-03)
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) (2026-10-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Working with ZIP Files Entirely in the Browser Using JSZip](https://dev.to/toolzip/working-with-zip-files-entirely-in-the-browser-using-jszip-1ln3) (2026-10-03)
-- [JSON in Production: 7 Subtle Bugs That Break Web APIs and How to Debug Them](https://dev.to/tinali7564eng/json-in-production-7-subtle-bugs-that-break-web-apis-and-how-to-debug-them-3dn4) (2026-10-03)
-- [Comeback dev.to Wave Language Announcement](https://dev.to/lunastev/comeback-devto-wave-language-announcement-3b0d) (2026-10-03)
-- [UUID v4 vs. UUID v7 vs. ULID in 2026: Database Index Performance, B-Tree Fragmentation & When to Migrate](https://dev.to/tinali7564eng/uuid-v4-vs-uuid-v7-vs-ulid-in-2026-database-index-performance-b-tree-fragmentation-when-to-27hi) (2026-10-03)
-- [What to Check Before You Spend More Time on SEO](https://dev.to/edchapman/what-to-check-before-you-spend-more-time-on-seo-2dpi) (2026-10-03)
+- [“Vibe-Coding” Will Only Take You So Far: Why Fundamentals Are the Separation Layer](https://dev.to/laith_alkhdour/vibe-coding-will-only-take-you-so-far-why-fundamentals-are-the-separation-layer-kjd) (2026-10-03)
+- [Trust nothing your AI assistant tells you it did published: false](https://dev.to/dracopol/trust-nothing-your-ai-assistant-tells-you-it-did-published-false-3hkp) (2026-10-03)
+- [199 GitHub Profile README Templates to Help You Get Started](https://dev.to/kong_cept_ef3f8e9bcdfc45b/199-github-profile-readme-templates-to-help-you-get-started-69k) (2026-10-03)
+- [DevOps-Pulse: Integrated Observability Dashboard for Documentation Drift Detection and Infrastructure Cost Monitoring](https://dev.to/toai/devops-pulse-integrated-observability-dashboard-for-documentation-drift-detection-and-2c8b) (2026-10-03)
+- [Cross Context: I Built a Universal AI Context Bridge for My Best Friend Who Kept Hitting Model Rate Limits.](https://dev.to/shriraj888/cross-context-i-built-a-universal-ai-context-bridge-for-my-best-friend-who-kept-hitting-model-rate-53lp) (2026-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ChatGPT Dots vs Hermes Agent](https://medium.com/data-science-in-your-pocket/chatgpt-dots-vs-hermes-agent-25ea408a49c1?source=rss------programming-5) (2026-10-03)
-- [Why WebContainer Compilation Errors Stall Modern Browser Workspace Engines](https://medium.com/@Biztechpulsehub/why-webcontainer-compilation-errors-stall-modern-browser-workspace-engines-b06a26eb2573?source=rss------programming-5) (2026-10-03)
-- [I think coding agents are guessing too long](https://medium.com/@aka.kevinh/i-think-coding-agents-are-guessing-too-long-bb3444bc9cd2?source=rss------programming-5) (2026-10-03)
-- [How to Use Claude on Real Software Projects: 8 Workflows (With Prompts You Can Copy)](https://medium.com/@makara.seng.mkr97/how-to-use-claude-on-real-software-projects-8-workflows-with-prompts-you-can-copy-99a5b4120f2b?source=rss------programming-5) (2026-10-03)
-- [Mailgun’s Locale Pages All 301-Redirect to Themselves.](https://medium.com/@outreach_59700/mailguns-locale-pages-all-301-redirect-to-themselves-5cbccf165974?source=rss------programming-5) (2026-10-03)
+- [Why Your Website Feels Slow Even When Every API Is Fast](https://medium.com/@harsh-gupta-js/why-your-website-feels-slow-even-when-every-api-is-fast-66dafdf38706?source=rss------programming-5) (2026-10-03)
+- [How I Passed the eJPT at 15](https://medium.com/@YusifMammadzada/how-i-passed-the-ejpt-at-15-78bcf0474fce?source=rss------programming-5) (2026-10-03)
+- [Top 10 Python Training Institutes in Hyderabad: Courses, Skills & What to Look For](https://medium.com/@chandrasekharkondeti417/top-10-python-training-institutes-in-hyderabad-courses-skills-what-to-look-for-002c7e04e172?source=rss------programming-5) (2026-10-03)
+- [Zero to Hero in Python  | Two Days of Learning, Mistakes & Growth](https://medium.com/@sathishkavm/zero-to-hero-in-python-two-days-of-learning-mistakes-growth-751a559de7d3?source=rss------programming-5) (2026-10-03)
+- [How App Signing Actually Works on iOS and Android](https://medium.com/@dubeyprakhar13/how-app-signing-actually-works-on-ios-and-android-f837f237e4b5?source=rss------programming-5) (2026-10-03)
 
 </details>
 
@@ -394,6 +394,11 @@ How to Track Opt-Outs in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php
 ) (2026-10-02)
 - [
+How to Get Started With WebRTC: Intro to Browser APIs
+](
+https://www.twilio.com/en-us/blog/get-started-webrtc
+) (2026-10-02)
+- [
 Your customers don't want an AI friend. They want an answer.
 ](
 https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend
@@ -403,11 +408,6 @@ Prioritize your messages at scale with the Twilio Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine
 ) (2026-10-01)
-- [
-Augment Voice Calls with Twilio Conversation Intelligence Using Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs
-) (2026-09-30)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-cal
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
+- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
