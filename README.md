@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Jack Dorsey’s Bitchat disappears from app stores in India after government order](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/) (2026-10-03)
+- [Vessev built an electric ferry that almost flies](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/) (2026-10-03)
+- [All the AI agents that can live in your text messages ](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-03)
+- [Spotify billionaire’s body scan startup has come to America](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/) (2026-10-03)
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) (2026-10-03)
-- [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/) (2026-10-03)
-- [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) (2026-10-02)
-- [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) (2026-10-02)
-- [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) (2026-10-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [An AI agent emailed researchers for help. It told us why](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why) (2026-10-03)
+- [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) (2026-10-03)
+- [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia) (2026-10-03)
+- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri) (2026-10-03)
 - [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/) (2026-10-03)
-- [Gemini ending free use of Flash and Pro models](https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/) (2026-10-03)
-- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows) (2026-10-03)
-- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) (2026-10-03)
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) (2026-10-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) (2026-10-03)
+- [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) (2026-10-03)
+- [3D movies are finally worth watching](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro) (2026-10-03)
 - [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) (2026-10-02)
 - [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig) (2026-10-02)
-- [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) (2026-10-02)
-- [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops) (2026-10-02)
-- [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent) (2026-10-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) (2026-10-03)
 - [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) (2026-10-02)
 - [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) (2026-10-02)
 - [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/) (2026-10-02)
 - [Patient-zero drill put health facilities to the test—40% of them failed](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/) (2026-10-02)
-- [Lyft settles landmark driver misclassification lawsuit for $272.5M](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/) (2026-10-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [“Vibe-Coding” Will Only Take You So Far: Why Fundamentals Are the Separation Layer](https://dev.to/laith_alkhdour/vibe-coding-will-only-take-you-so-far-why-fundamentals-are-the-separation-layer-kjd) (2026-10-03)
-- [Trust nothing your AI assistant tells you it did published: false](https://dev.to/dracopol/trust-nothing-your-ai-assistant-tells-you-it-did-published-false-3hkp) (2026-10-03)
-- [199 GitHub Profile README Templates to Help You Get Started](https://dev.to/kong_cept_ef3f8e9bcdfc45b/199-github-profile-readme-templates-to-help-you-get-started-69k) (2026-10-03)
-- [DevOps-Pulse: Integrated Observability Dashboard for Documentation Drift Detection and Infrastructure Cost Monitoring](https://dev.to/toai/devops-pulse-integrated-observability-dashboard-for-documentation-drift-detection-and-2c8b) (2026-10-03)
-- [Cross Context: I Built a Universal AI Context Bridge for My Best Friend Who Kept Hitting Model Rate Limits.](https://dev.to/shriraj888/cross-context-i-built-a-universal-ai-context-bridge-for-my-best-friend-who-kept-hitting-model-rate-53lp) (2026-10-03)
+- [PlateMate — Dietary Safety & Allergen Intelligence Powered by TabPFN](https://dev.to/sanjaysah/platemate-dietary-safety-allergen-intelligence-powered-by-tabpfn-34nj) (2026-10-03)
+- [Building InsightTrack with SerpApi for the SerpApi India Hackathon](https://dev.to/nishikantaray/building-insighttrack-with-serpapi-for-the-serpapi-india-hackathon-5o6) (2026-10-03)
+- [How Much to Charge Clients for Travel Time](https://dev.to/d3bd863b497b/how-much-to-charge-clients-for-travel-time-107) (2026-10-03)
+- [I attack-tested my agent's seatbelt. Here's what survived.](https://dev.to/slabb/i-attack-tested-my-agents-seatbelt-heres-what-survived-15mj) (2026-10-03)
+- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi) (2026-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Your Website Feels Slow Even When Every API Is Fast](https://medium.com/@harsh-gupta-js/why-your-website-feels-slow-even-when-every-api-is-fast-66dafdf38706?source=rss------programming-5) (2026-10-03)
-- [How I Passed the eJPT at 15](https://medium.com/@YusifMammadzada/how-i-passed-the-ejpt-at-15-78bcf0474fce?source=rss------programming-5) (2026-10-03)
-- [Top 10 Python Training Institutes in Hyderabad: Courses, Skills & What to Look For](https://medium.com/@chandrasekharkondeti417/top-10-python-training-institutes-in-hyderabad-courses-skills-what-to-look-for-002c7e04e172?source=rss------programming-5) (2026-10-03)
-- [Zero to Hero in Python  | Two Days of Learning, Mistakes & Growth](https://medium.com/@sathishkavm/zero-to-hero-in-python-two-days-of-learning-mistakes-growth-751a559de7d3?source=rss------programming-5) (2026-10-03)
-- [How App Signing Actually Works on iOS and Android](https://medium.com/@dubeyprakhar13/how-app-signing-actually-works-on-ios-and-android-f837f237e4b5?source=rss------programming-5) (2026-10-03)
+- [I Built My Own JARVIS as a Final-Year Student. Here’s How It Works (and What Almost Broke Me)](https://medium.com/@sanchitv11104/i-built-my-own-jarvis-as-a-final-year-student-heres-how-it-works-and-what-almost-broke-me-85ff38b4eb7e?source=rss------programming-5) (2026-10-03)
+- [20 Open-Source Projects for AI Agents In Production](https://medium.com/the-ai-brief/20-open-source-projects-for-ai-agents-in-production-6ce90c9b74a6?source=rss------programming-5) (2026-10-03)
+- [Why Python Is a Preferred Language for Artificial Intelligence](https://medium.com/@aysha25comp/why-python-is-a-preferred-language-for-artificial-intelligence-5b0f2665a64a?source=rss------programming-5) (2026-10-03)
+- [I Expected Rejecting Bad JSON to Be the Expensive Path. It Wasn’t. The Library Was 93× Worse.](https://medium.com/@nazmul_hasan/i-expected-rejecting-bad-json-to-be-the-expensive-path-it-wasnt-the-library-was-93-worse-aba9d8f7786c?source=rss------programming-5) (2026-10-03)
+- [Why √2 Is Irrational : The Rational Root Proof](https://medium.com/think-art/why-2-is-irrational-the-rational-root-proof-05b0c6084fb7?source=rss------programming-5) (2026-10-03)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
+- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 
 </details>
 
@@ -394,11 +394,6 @@ How to Track Opt-Outs in PHP
 https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php
 ) (2026-10-02)
 - [
-How to Get Started With WebRTC: Intro to Browser APIs
-](
-https://www.twilio.com/en-us/blog/get-started-webrtc
-) (2026-10-02)
-- [
 Your customers don't want an AI friend. They want an answer.
 ](
 https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend
@@ -408,6 +403,11 @@ Prioritize your messages at scale with the Twilio Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine
 ) (2026-10-01)
+- [
+Augment Voice Calls with Twilio Conversation Intelligence Using Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs
+) (2026-09-30)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
 - [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
-- [What Is a PMO?](https://slack.com/blog/productivity/pmo) (2026-09-28)
-- [What Are Soft Skills? Definition, Examples, and Why They Matter at Work](https://slack.com/blog/collaboration/soft-skills) (2026-09-28)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Measuring the Creativity Potential of LLM Agents](https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/) (2026-10-03)
+- [How to Use a PINN for a Navier-Stokes Inverse Problem](https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/) (2026-10-03)
 - [Where the Agent Development Lifecycle Fits](https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/) (2026-10-02)
 - [How to Build a Control Plane for AI Agents](https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/) (2026-10-02)
 - [Autoencoders vs. PCA: I Rigged the Test and PCA Still Won](https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/) (2026-10-01)
-- [Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?](https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/) (2026-10-01)
-- [What the ReLU Revolution Revealed About Biological Plausibility](https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/) (2026-10-01)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
