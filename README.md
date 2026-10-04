@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/) (2026-10-04)
+- [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/) (2026-10-04)
 - [TechCrunch Mobility: Reining in robotaxis](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/) (2026-10-04)
 - [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/) (2026-10-04)
 - [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) (2026-10-03)
-- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) (2026-10-03)
-- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) (2026-10-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/) (2026-10-04)
-- [RuneScape's Position on Gen AI](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/) (2026-10-04)
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) (2026-10-04)
-- [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and) (2026-10-04)
-- [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) (2026-10-04)
+- [Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0) (2026-10-04)
+- [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI) (2026-10-04)
+- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) (2026-10-04)
+- [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) (2026-10-04)
+- [Incentives in Academic Research](https://www.msoos.org/2026/10/incentives-in-academic-research/) (2026-10-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Well, if AI said it, it must be true](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) (2026-10-04)
+- [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review) (2026-10-04)
+- [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october) (2026-10-04)
+- [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) (2026-10-04)
 - [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) (2026-10-04)
 - [This toolless modular lever-action wallet is the coolest I’ve stuck to my phone](https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone) (2026-10-04)
-- [The AirPods Pro 3 are a fantastic deal at $179](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale) (2026-10-04)
-- [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale) (2026-10-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife](https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/) (2026-10-04)
 - [All hail electrification. But let’s talk about the hard part.](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/) (2026-10-04)
 - [Milt Windler, NASA flight director who helped save Apollo 13, dies at 94](https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/) (2026-10-03)
 - [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) (2026-10-03)
 - [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) (2026-10-02)
-- [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) (2026-10-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Image Batches Exist: Node.js Rate Limits, Progress, and Wrong-Import Cancellation](https://dev.to/valerianblack3895/why-image-batches-exist-nodejs-rate-limits-progress-and-wrong-import-cancellation-fc6) (2026-10-04)
-- [Tech Support Assistant: Help for My Parent with Local Gemma](https://dev.to/niral261/tech-support-assistant-help-for-my-parent-with-local-gemma-2pj0) (2026-10-04)
-- [BOSS vs YOU: I Built a Boss Fight for My Bored Friend — and an Open LLM Plays the Boss](https://dev.to/ishaan-jindal/boss-vs-you-i-built-a-boss-fight-for-my-bored-friend-and-an-open-llm-plays-the-boss-1e9a) (2026-10-04)
-- [StudyBuddy: A Private AI Study Assistant Built for a Friend](https://dev.to/mayank_tiwari_1710/studybuddy-a-private-ai-study-assistant-built-for-a-friend-hkg) (2026-10-04)
-- [LifeBuddy - a local-first AI copilot for an overloaded student](https://dev.to/yashtwt29/lifebuddy-a-local-first-ai-copilot-for-an-overloaded-student-3npn) (2026-10-04)
+- [SafeSpeak -A Private English Practice Partner for My Shy Friend](https://dev.to/nishant_kumar_47349fe4f1e/safespeak-a-private-english-practice-partner-for-my-shy-friend-5g1g) (2026-10-04)
+- [I built a local AI workout planner for my gym-obsessed friend](https://dev.to/ohmanand7643/i-built-a-local-ai-workout-planner-for-my-gym-obsessed-friend-1fac) (2026-10-04)
+- [Explain This Thing: An AI That Helps My Parents Understand Their Devices](https://dev.to/muskan110/explain-this-thing-an-ai-that-helps-my-parents-understand-their-devices-3a35) (2026-10-04)
+- [LocalLens — On-Device, Privacy-First AI Browser Automation Extension](https://dev.to/yuvraj_sau_cc057705e86961/locallens-on-device-privacy-first-ai-browser-automation-extension-kcj) (2026-10-04)
+- [Study Buddy: an offline GATE study partner for my friend, built with Ollama](https://dev.to/khushighosh/study-buddy-an-offline-gate-study-partner-for-my-friend-built-with-ollama-kd7) (2026-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cybersecurity for Growing Businesses: A Complete Practical Guide](https://medium.com/@sahilsinha1505/cybersecurity-for-growing-businesses-a-complete-practical-guide-01010c40104d?source=rss------programming-5) (2026-10-04)
-- [Microservices Interview Questions: 50 Senior & Staff-Level Production Scenarios](https://medium.com/engineering-playbook/microservices-interview-questions-50-senior-staff-level-production-scenarios-b2ad91d0220b?source=rss------programming-5) (2026-10-04)
-- [Database System Design Interview Questions: 40 Senior-Level Scenarios on Sharding, Replication &…](https://medium.com/engineering-playbook/database-system-design-interview-questions-40-senior-level-scenarios-on-sharding-replication-ba1283e3d207?source=rss------programming-5) (2026-10-04)
-- [The Python Workflow I Use to Analyze User Research](https://medium.com/codetodeploy/the-python-workflow-i-use-to-analyze-user-research-d2bb7748d4e8?source=rss------programming-5) (2026-10-04)
-- [The 14 Percent Shaping the Future of Flight](https://medium.com/@noorkeshaish/the-14-percent-shaping-the-future-of-flight-9cd21b2a4b28?source=rss------programming-5) (2026-10-04)
+- [Floci: Run AWS on Localhost Without an Account, Then Lock It Down](https://halilozel1903.medium.com/floci-run-aws-on-localhost-without-an-account-then-lock-it-down-21542f27fa27?source=rss------programming-5) (2026-10-04)
+- [The AI Skills That Will Make You More Valuable in 2026](https://medium.com/@authenticbozt/the-ai-skills-that-will-make-you-more-valuable-in-2026-7281ab9937e4?source=rss------programming-5) (2026-10-04)
+- [Writing High-Performance Python Code](https://medium.com/@abhinavk25comp/writing-high-performance-python-code-f0138f1bfc78?source=rss------programming-5) (2026-10-04)
+- [Coding with AI : My Do’s and Don’ts](https://medium.com/@george.gaskin.gg/coding-with-ai-my-dos-and-don-ts-c246c91ce42f?source=rss------programming-5) (2026-10-04)
+- [Adaptive Query Execution (AQE) in Apache Spark: How Spark Optimizes Your Query at Runtime](https://medium.com/@geekycodes/adaptive-query-execution-aqe-in-apache-spark-how-spark-optimizes-your-query-at-runtime-0803cf382012?source=rss------programming-5) (2026-10-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
 
 </details>
 
@@ -372,9 +372,9 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [8 major updates to Cloudflare Observability](https://blog.cloudflare.com/one-observability-platform/) (2026-10-02)
 - [Streamline: custom video pipelines with Cloudflare Stream and Workers](https://blog.cloudflare.com/streamline/) (2026-10-02)
 - [Introducing Web Search API via AI Gateway](https://blog.cloudflare.com/introducing-web-search-api/) (2026-10-02)
-- [8 major updates to Cloudflare Observability](https://blog.cloudflare.com/one-observability-platform/) (2026-10-02)
 - [Introducing Cloudflare Traces: follow requests through our entire platform](https://blog.cloudflare.com/cloudflare-tracing/) (2026-10-02)
 - [Updates on our pledge to make Cloudflare features accessible to everyone](https://blog.cloudflare.com/enterprise-for-all-update/) (2026-10-02)
 
