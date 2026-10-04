@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Elon Musk Emails](https://elonmuskmails.com/) (2026-10-03)
-- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/) (2026-10-03)
-- [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife) (2026-10-03)
-- [Two American Airlines Flights End Up with the Same Flight Numbers](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/) (2026-10-03)
-- [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) (2026-10-03)
+- [Inside Anthropic's Quest to Instill Morality into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) (2026-10-04)
+- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) (2026-10-04)
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) (2026-10-04)
+- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) (2026-10-03)
+- [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) (2026-10-03)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Milt Windler, NASA flight director who helped save Apollo 13, dies at 94](https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/) (2026-10-03)
 - [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) (2026-10-03)
 - [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) (2026-10-02)
 - [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) (2026-10-02)
 - [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/) (2026-10-02)
-- [Patient-zero drill put health facilities to the test—40% of them failed](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/) (2026-10-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I rejected a model that passed everyone else's benchmark](https://dev.to/dawnofgenx/i-rejected-a-model-that-passed-everyone-elses-benchmark-33gm) (2026-10-03)
-- [Un backup sirve cuando puedes restaurarlo: laboratorio con SQLite y GitHub Actions](https://dev.to/antonys3010/un-backup-sirve-cuando-puedes-restaurarlo-laboratorio-con-sqlite-y-github-actions-3i4p) (2026-10-03)
-- [A Windows context menu editor in one PowerShell file](https://dev.to/rocisapps/a-windows-context-menu-editor-in-one-powershell-file-2mc) (2026-10-03)
-- [StudyBuddy](https://dev.to/ankit_kumar810/studybuddy-5bc8) (2026-10-03)
-- [I built a tiny tool that catches the "printed at 94%" problem](https://dev.to/removewaterfromspeakers/i-built-a-tiny-tool-that-catches-the-printed-at-94-problem-1hj1) (2026-10-03)
+- [Zipkin at 40 Titles and 562 Fingerprints: When the Signature Finds More Than the Name](https://dev.to/bianliang/zipkin-at-40-titles-and-562-fingerprints-when-the-signature-finds-more-than-the-name-f9i) (2026-10-04)
+- [Compress Image to 100KB Online — No Upload](https://dev.to/nawalshrestha/compress-image-to-100kb-online-no-upload-9pk) (2026-10-04)
+- [TVL Trend Analysis & Liquidity Risk Assessment: Maple](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-maple-1pmf) (2026-10-04)
+- [I built a small kanban board that my coding agents update with curl](https://dev.to/siekwiedev/i-built-a-small-kanban-board-that-my-coding-agents-update-with-curl-1kf) (2026-10-04)
+- [Understanding Elastic IP in AWS EC2](https://dev.to/simran_rajoriya/understanding-elastic-ip-in-aws-ec2-2obg) (2026-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [SOAS III — Hedge Sandwich with Two Signed Prices: Part I](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149?source=rss------programming-5) (2026-10-03)
-- [Python Is the Steering Wheel, Not the Engine](https://medium.com/@kaustubhb25comp/python-is-the-steering-wheel-not-the-engine-e573c696d049?source=rss------programming-5) (2026-10-03)
-- [Code Is Not Cheap: Why Software Fundamentals Matter More Than Ever in the AI Era](https://medium.com/@anasahmedadawy/code-is-not-cheap-why-software-fundamentals-matter-more-than-ever-in-the-ai-era-4f2b1efdf6bd?source=rss------programming-5) (2026-10-03)
-- [How to Use No-Code Platforms to Build Business Applications Without Programming Skills???](https://medium.com/@aarab.abdelmalek266/how-to-use-no-code-platforms-to-build-business-applications-without-programming-skills-a745b767db4a?source=rss------programming-5) (2026-10-03)
-- [My Journey Building CVNet](https://medium.com/@jithmiwickramasinghe4/my-journey-building-cvnet-e6bd05e6fc1f?source=rss------programming-5) (2026-10-03)
+- [7 Angular File Upload Challenges That Simple Examples Never Show](https://medium.com/@sourabhda1998/7-angular-file-upload-challenges-that-simple-examples-never-show-b9cfac3bb320?source=rss------programming-5) (2026-10-04)
+- [11 Angular Data Table Problems That Get Worse as Your Dataset Grows](https://medium.com/@sourabhda1998/11-angular-data-table-problems-that-get-worse-as-your-dataset-grows-2ae71084397d?source=rss------programming-5) (2026-10-04)
+- [LeetCode 3: Longest Substring Without Repeating Characters — Master the Sliding Window](https://medium.com/codex/leetcode-3-longest-substring-without-repeating-characters-master-the-sliding-window-d96c45d49652?source=rss------programming-5) (2026-10-04)
+- [PwC Data Engineer Interview Experience: 10 Questions for a 21 LPA Role](https://medium.com/@pardeepgill82/pwc-data-engineer-interview-experience-10-questions-for-a-21-lpa-role-5f15c793b202?source=rss------programming-5) (2026-10-04)
+- [CLM and Jev in Enterprise Agentic applications](https://medium.com/@prateekparhi936/clm-and-jev-in-enterprise-agentic-applications-b951180672d4?source=rss------programming-5) (2026-10-04)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) (2026-10-03)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) (2026-10-02)
 - [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) (2026-10-02)
 - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (2026-09-30)
 - [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular) (2026-09-29)
-- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) (2026-09-29)
 
 </details>
 
