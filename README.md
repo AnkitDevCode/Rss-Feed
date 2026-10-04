@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Inside Anthropic's Quest to Instill Morality into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) (2026-10-04)
-- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) (2026-10-04)
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) (2026-10-04)
-- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) (2026-10-03)
-- [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) (2026-10-03)
+- [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/) (2026-10-04)
+- [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/) (2026-10-04)
+- [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart) (2026-10-04)
+- [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) (2026-10-04)
+- [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) (2026-10-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Zipkin at 40 Titles and 562 Fingerprints: When the Signature Finds More Than the Name](https://dev.to/bianliang/zipkin-at-40-titles-and-562-fingerprints-when-the-signature-finds-more-than-the-name-f9i) (2026-10-04)
-- [Compress Image to 100KB Online — No Upload](https://dev.to/nawalshrestha/compress-image-to-100kb-online-no-upload-9pk) (2026-10-04)
-- [TVL Trend Analysis & Liquidity Risk Assessment: Maple](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-maple-1pmf) (2026-10-04)
-- [I built a small kanban board that my coding agents update with curl](https://dev.to/siekwiedev/i-built-a-small-kanban-board-that-my-coding-agents-update-with-curl-1kf) (2026-10-04)
-- [Understanding Elastic IP in AWS EC2](https://dev.to/simran_rajoriya/understanding-elastic-ip-in-aws-ec2-2obg) (2026-10-04)
+- [Windows AppContainer: a sandbox that depends on how the application is written](https://dev.to/kozhevniko/windows-appcontainer-a-sandbox-that-depends-on-how-the-application-is-written-1lnk) (2026-10-04)
+- [Grammarly vs ProWritingAid in 2026: Which Editor Earns the Subscription?](https://dev.to/stimlau/grammarly-vs-prowritingaid-in-2026-which-editor-earns-the-subscription-3734) (2026-10-04)
+- [Dataverse Plugin Development in 2026: The Tooling Stack Explained](https://dev.to/honza/dataverse-plugin-development-in-2026-the-tooling-stack-explained-2kfn) (2026-10-04)
+- [Best AI Transcription Tool in 2026 (6 Tested for Accuracy and Price)](https://dev.to/stimlau/best-ai-transcription-tool-in-2026-6-tested-for-accuracy-and-price-4b5d) (2026-10-04)
+- [I built my friend an offline AI to justify skipping 8 AM classes](https://dev.to/grkadam7/i-built-my-friend-an-offline-ai-to-justify-skipping-8-am-classes-52f3) (2026-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Angular File Upload Challenges That Simple Examples Never Show](https://medium.com/@sourabhda1998/7-angular-file-upload-challenges-that-simple-examples-never-show-b9cfac3bb320?source=rss------programming-5) (2026-10-04)
-- [11 Angular Data Table Problems That Get Worse as Your Dataset Grows](https://medium.com/@sourabhda1998/11-angular-data-table-problems-that-get-worse-as-your-dataset-grows-2ae71084397d?source=rss------programming-5) (2026-10-04)
-- [LeetCode 3: Longest Substring Without Repeating Characters — Master the Sliding Window](https://medium.com/codex/leetcode-3-longest-substring-without-repeating-characters-master-the-sliding-window-d96c45d49652?source=rss------programming-5) (2026-10-04)
-- [PwC Data Engineer Interview Experience: 10 Questions for a 21 LPA Role](https://medium.com/@pardeepgill82/pwc-data-engineer-interview-experience-10-questions-for-a-21-lpa-role-5f15c793b202?source=rss------programming-5) (2026-10-04)
-- [CLM and Jev in Enterprise Agentic applications](https://medium.com/@prateekparhi936/clm-and-jev-in-enterprise-agentic-applications-b951180672d4?source=rss------programming-5) (2026-10-04)
+- [Go Web Frameworks in 2026: net/http, chi, Gin, Echo, Fiber Compared](https://medium.com/go-systems/go-web-frameworks-in-2026-net-http-chi-gin-echo-fiber-compared-1b9f5e3ac23c?source=rss------programming-5) (2026-10-04)
+- [I Thought I Understood C Pointers — Until They Broke My Code](https://medium.com/codetodeploy/i-thought-i-understood-c-pointers-until-they-broke-my-code-6ae043973fd9?source=rss------programming-5) (2026-10-04)
+- [Python 3.15 Is Here: Lazy Imports, Frozendict, And A Faster JIT](https://medium.com/@kp9810113/python-3-15-is-here-lazy-imports-frozendict-and-a-faster-jit-bfd0c814a166?source=rss------programming-5) (2026-10-04)
+- [Stop Using Kubernetes For Apps That Fit On 1 Server](https://medium.com/@ArkProtocol1/stop-using-kubernetes-for-apps-that-fit-on-1-server-b891d6477214?source=rss------programming-5) (2026-10-04)
+- [CrewAI vs LangGraph vs AutoGen vs OpenAI Agents SDK: The Framework You Pick Matters Less Than the…](https://ai.plainenglish.io/crewai-vs-langgraph-vs-autogen-vs-openai-agents-sdk-the-framework-you-pick-matters-less-than-the-8934e2cc4bbb?source=rss------programming-5) (2026-10-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
-- [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
-- [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
+- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
+- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
+- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
 - [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
-- [What Is a PMO?](https://slack.com/blog/productivity/pmo) (2026-09-28)
-- [What Are Soft Skills? Definition, Examples, and Why They Matter at Work](https://slack.com/blog/collaboration/soft-skills) (2026-09-28)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
