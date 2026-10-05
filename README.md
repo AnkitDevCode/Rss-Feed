@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0) (2026-10-04)
-- [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI) (2026-10-04)
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) (2026-10-04)
-- [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) (2026-10-04)
-- [Incentives in Academic Research](https://www.msoos.org/2026/10/incentives-in-academic-research/) (2026-10-04)
+- [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) (2026-10-05)
+- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) (2026-10-05)
+- [A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/) (2026-10-05)
+- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) (2026-10-04)
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) (2026-10-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks) (2026-10-04)
 - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review) (2026-10-04)
 - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october) (2026-10-04)
 - [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) (2026-10-04)
 - [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) (2026-10-04)
-- [This toolless modular lever-action wallet is the coolest I’ve stuck to my phone](https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone) (2026-10-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SafeSpeak -A Private English Practice Partner for My Shy Friend](https://dev.to/nishant_kumar_47349fe4f1e/safespeak-a-private-english-practice-partner-for-my-shy-friend-5g1g) (2026-10-04)
-- [I built a local AI workout planner for my gym-obsessed friend](https://dev.to/ohmanand7643/i-built-a-local-ai-workout-planner-for-my-gym-obsessed-friend-1fac) (2026-10-04)
-- [Explain This Thing: An AI That Helps My Parents Understand Their Devices](https://dev.to/muskan110/explain-this-thing-an-ai-that-helps-my-parents-understand-their-devices-3a35) (2026-10-04)
-- [LocalLens — On-Device, Privacy-First AI Browser Automation Extension](https://dev.to/yuvraj_sau_cc057705e86961/locallens-on-device-privacy-first-ai-browser-automation-extension-kcj) (2026-10-04)
-- [Study Buddy: an offline GATE study partner for my friend, built with Ollama](https://dev.to/khushighosh/study-buddy-an-offline-gate-study-partner-for-my-friend-built-with-ollama-kd7) (2026-10-04)
+- [How a struggling React project and an old Delphi habit led me to build a framework](https://dev.to/nekutuzov/how-a-struggling-react-project-and-an-old-delphi-habit-led-me-to-build-a-framework-1a09) (2026-10-05)
+- [Hi DEV 👋 I'm Anish: a Mechanical Engineer Explaining ML & AI in Plain English](https://dev.to/mlaiinsightshub/hi-dev-im-anish-a-mechanical-engineer-explaining-ml-ai-in-plain-english-15hd) (2026-10-05)
+- [I built Pocket Tutor, a local Gemma study buddy for a friend](https://dev.to/shivansh_garg_02/i-built-pocket-tutor-a-local-gemma-study-buddy-for-a-friend-n3k) (2026-10-05)
+- [Claude Max Plan Price 2026: Max 5x vs Max 20x, 5x Wins](https://dev.to/shaam_ai/claude-max-plan-price-2026-max-5x-vs-max-20x-5x-wins-fhl) (2026-10-05)
+- [When Should a UK Freelancer Register for VAT?](https://dev.to/uk_vat_guide/when-should-a-uk-freelancer-register-for-vat-2kbh) (2026-10-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Floci: Run AWS on Localhost Without an Account, Then Lock It Down](https://halilozel1903.medium.com/floci-run-aws-on-localhost-without-an-account-then-lock-it-down-21542f27fa27?source=rss------programming-5) (2026-10-04)
-- [The AI Skills That Will Make You More Valuable in 2026](https://medium.com/@authenticbozt/the-ai-skills-that-will-make-you-more-valuable-in-2026-7281ab9937e4?source=rss------programming-5) (2026-10-04)
-- [Writing High-Performance Python Code](https://medium.com/@abhinavk25comp/writing-high-performance-python-code-f0138f1bfc78?source=rss------programming-5) (2026-10-04)
-- [Coding with AI : My Do’s and Don’ts](https://medium.com/@george.gaskin.gg/coding-with-ai-my-dos-and-don-ts-c246c91ce42f?source=rss------programming-5) (2026-10-04)
-- [Adaptive Query Execution (AQE) in Apache Spark: How Spark Optimizes Your Query at Runtime](https://medium.com/@geekycodes/adaptive-query-execution-aqe-in-apache-spark-how-spark-optimizes-your-query-at-runtime-0803cf382012?source=rss------programming-5) (2026-10-04)
+- [The JavaScript Behaviors Python Didn’t Prepare Me For](https://medium.com/coding-nexus/the-javascript-behaviors-python-didnt-prepare-me-for-6e28b36abcef?source=rss------programming-5) (2026-10-05)
+- [Hotjar’s Own Redirects Eat 36 Internal Links — a New High for This Series.](https://medium.com/@outreach_59700/hotjars-own-redirects-eat-36-internal-links-a-new-high-for-this-series-9dac7a6cc9da?source=rss------programming-5) (2026-10-05)
+- [Fly.io’s Own Redirects Eat 35 Internal Links — More Than Any PaaS We’ve Crawled.](https://medium.com/@outreach_59700/fly-ios-own-redirects-eat-35-internal-links-more-than-any-paas-we-ve-crawled-5d876ca5196f?source=rss------programming-5) (2026-10-05)
+- [Stop Waiting for Spark: Enabling High Concurrency Mode in Fabric Notebooks](https://pub.towardsai.net/stop-waiting-for-spark-enabling-high-concurrency-mode-in-fabric-notebooks-386afb319f0f?source=rss------programming-5) (2026-10-05)
+- [I Trusted My Own AI Agent. That Was the Bug.](https://ntrongtin11702.medium.com/i-trusted-my-own-ai-agent-that-was-the-bug-0a6fa89f22cc?source=rss------programming-5) (2026-10-05)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
+- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
