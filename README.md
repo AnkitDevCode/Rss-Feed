@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Facebook tests going Reels-first in India](https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/) (2026-10-06)
+- [Type One Energy raised $200M to build a fusion power plant by 2034](https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/) (2026-10-06)
 - [Lucid Motors’ EV output falls to lowest level in almost 2 years](https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/) (2026-10-05)
 - [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/) (2026-10-05)
 - [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/) (2026-10-05)
-- [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/) (2026-10-05)
-- [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/) (2026-10-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm) (2026-10-06)
-- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/) (2026-10-06)
-- [Why Common Lisp Is Now the Best Programming Language](https://www.vivienhenz.com/common-lisp) (2026-10-06)
-- [Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77) (2026-10-06)
-- [High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days) (2026-10-06)
+- [JetBrains reported a net financial loss first time in its tracked history](https://www.helgilibrary.com/companies/jetbrains) (2026-10-06)
+- [World's First enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/) (2026-10-06)
+- [Nature's capacity to 'bounce back' when species are lost is vastly overestimated](https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html) (2026-10-06)
+- [ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o) (2026-10-06)
+- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) (2026-10-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Gemini Call for Me might tell your mom you&#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors) (2026-10-05)
-- [Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports) (2026-10-05)
-- [The Matic is the first robovac to get an FCC ban waiver, not that it needs it](https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval) (2026-10-05)
-- [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions) (2026-10-05)
-- [All the drama around AI&#8217;s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution) (2026-10-05)
+- [The planetary wave headed for California isn’t what you think it is ](https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin) (2026-10-06)
+- [The Pixel 11 Pro and Pro XL phones are $250 off](https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale) (2026-10-06)
+- [The Verge&#8217;s guide to the best October Prime Day deals](https://www.theverge.com/tech/1004783/october-prime-day-deals-guide) (2026-10-06)
+- [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech) (2026-10-06)
+- [Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end) (2026-10-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [OpenAI agents tried to hack Wikipedia tools and flooded it with traffic](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/) (2026-10-06)
+- [Licensing costs driving 90 percent of VMware users to explore options: Survey](https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/) (2026-10-06)
 - [MCP for agent-to-agent comms may be the riskiest protocol you've never heard of](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/) (2026-10-05)
 - [Cable lobby to sue Trump FCC over repeal of national TV ownership cap](https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/) (2026-10-05)
 - [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/) (2026-10-05)
-- [Command-line tool quickly removes Apple Intelligence from macOS 27](https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/) (2026-10-05)
-- [Controlling the brain with light earns a physiology Nobel](https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/) (2026-10-05)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/) (2026-10-05)
-- [Bringing predictive analytics to the agentic AI era ](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) (2026-10-05)
-- [The Download: AI’s popularity paradox and EmTech Future 2026](https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/) (2026-10-05)
-- [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) (2026-10-05)
-- [EmTech Future 2026: When AI Meets Everything](https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/) (2026-10-05)
+- [The Download: 10 climate tech companies to watch](https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/) (2026-10-06)
+- [2026 Climate Tech Companies to Watch](https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/) (2026-10-06)
+- [Here’s how our climate team picked 10 promising companies to watch](https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/) (2026-10-06)
+- [WeLion New Energy and its semi-solid-state batteries](https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/) (2026-10-06)
+- [Form Energy and its iron batteries](https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/) (2026-10-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TOOL JUDGMENT: Does an AI Know When NOT to Use a Tool?](https://dev.to/jay_jain_/tool-judgment-does-an-ai-know-when-not-to-use-a-tool-2pk6) (2026-10-06)
-- [Alerts Worth Waking Up For](https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof) (2026-10-06)
-- [VM Placement Is a Moving Target: Reading the IDEAL SDN Paper](https://dev.to/wanqiu_7ad7bc3efc7b7/vm-placement-is-a-moving-target-reading-the-ideal-sdn-paper-14jn) (2026-10-06)
-- [Making a machine reviewer prove its own findings](https://dev.to/idlecultivation/making-a-machine-reviewer-prove-its-own-findings-3535) (2026-10-06)
-- [CSS Flexbox Cheatsheet: Every Property Explained with Examples](https://dev.to/pulkitgovrani/css-flexbox-cheatsheet-every-property-explained-with-examples-5efg) (2026-10-06)
+- [Two translation bugs your build will pass, and one command that catches them](https://dev.to/thebedcoder/two-translation-bugs-your-build-will-pass-and-one-command-that-catches-them-76j) (2026-10-06)
+- [Every LLM I tested would help my mother prepay a fake OLX seller](https://dev.to/olegvdv/every-llm-i-tested-would-help-my-mother-prepay-a-fake-olx-seller-465e) (2026-10-06)
+- [Awesome Laravel AI: Every Package, Tool and Guide for Building AI Agents with Laravel in One List](https://dev.to/mahdyaralipor/awesome-laravel-ai-every-package-tool-and-guide-for-building-ai-agents-with-laravel-in-one-list-2pem) (2026-10-06)
+- [Edit Lattes XML Safely with Node.js and lattes-toolkit](https://dev.to/paladini/edit-lattes-xml-safely-with-nodejs-and-lattes-toolkit-ekh) (2026-10-06)
+- [Booking.com's Node savings don't carry over to Bun. Autoheal does.](https://dev.to/chovy/bookingcoms-node-savings-dont-carry-over-to-bun-autoheal-does-57n1) (2026-10-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 213 of Learning Android — Getting Familiar with Android Views and UI Components](https://medium.com/@payalmehra3522/day-213-of-learning-android-getting-familiar-with-android-views-and-ui-components-484669f42340?source=rss------programming-5) (2026-10-06)
-- [Why I Still Recommend Learning C (Even in 2026)](https://medium.com/@suyadav2072005/why-i-still-recommend-learning-c-even-in-2026-54866269804a?source=rss------programming-5) (2026-10-06)
-- [How to take your Java project from GitHub to AWS](https://medium.com/@carlosjmendoza.dev/how-to-take-your-java-project-from-github-to-aws-c9e7fe854b1e?source=rss------programming-5) (2026-10-06)
-- [Uncensor Your LLM Without Melting Its Brain](https://medium.com/sapiens-ai-mentis/uncensor-your-llm-without-melting-its-brain-80877ea02c5a?source=rss------programming-5) (2026-10-06)
-- [A booking isn’t a booking until it’s paid](https://medium.com/@abhi_93773/a-booking-isnt-a-booking-until-it-s-paid-42d76290f68f?source=rss------programming-5) (2026-10-06)
+- [How to Design a Notification System That Can Handle 10 Million Users](https://medium.com/@anurag.ydv36/how-to-design-a-notification-system-that-can-handle-10-million-users-6865b3431889?source=rss------programming-5) (2026-10-06)
+- [Android Developer Verification Is Live: What It Actually Means for Your App](https://towardsdev.com/android-developer-verification-is-live-what-it-actually-means-for-your-app-777679c6f7d0?source=rss------programming-5) (2026-10-06)
+- [Ponytail: The AI Coding Skill That Refuses to Over-Build](https://medium.com/@hansaanuradha93/ponytail-the-ai-coding-skill-that-refuses-to-over-build-5f418644ff5c?source=rss------programming-5) (2026-10-06)
+- [Virtual Threads in Spring Boot Won’t Make Your App Faster (Here’s What They Actually Do)](https://medium.com/@makara.seng.mkr97/virtual-threads-in-spring-boot-wont-make-your-app-faster-here-s-what-they-actually-do-02aee4fbbdff?source=rss------programming-5) (2026-10-06)
+- [Java 25 for Spring Boot Developers: 6 Upgrades Worth Your Attention (and 3 You Can Ignore)](https://medium.com/@makara.seng.mkr97/java-25-for-spring-boot-developers-6-upgrades-worth-your-attention-and-3-you-can-ignore-d1d92d5fe6d9?source=rss------programming-5) (2026-10-06)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Amper Is Now the Kotlin Toolchain: Moving to the Kotlin Blog](https://blog.jetbrains.com/amper/2026/10/amper-is-now-the-kotlin-toolchain-moving-to-the-kotlin-blog/) (2026-10-06)
+- [Java and Kotlin by IntelliJ IDEA: The LSP-Based Extension Reaches Release Candidate](https://blog.jetbrains.com/idea/2026/10/java-and-kotlin-by-intellij-idea-the-lsp-based-extension-reaches-release-candidate/) (2026-10-06)
+- [JetBrains Joins the Open Source Security Foundation](https://blog.jetbrains.com/blog/2026/10/06/jetbrains-joins-the-open-source-security-foundation/) (2026-10-06)
 - [dotInsights | October 2026](https://blog.jetbrains.com/dotnet/2026/10/05/dotinsights-october-2026/) (2026-10-05)
 - [Java Annotated Monthly – October 2026](https://blog.jetbrains.com/idea/2026/10/java-annotated-monthly-october-2026/) (2026-10-05)
-- [TeamCity 2026.2.1 and 2026.1.5 Are Out](https://blog.jetbrains.com/teamcity/2026/10/teamcity-2026-2-1-2026-1-5-bugfix/) (2026-10-05)
-- [Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin](https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/) (2026-10-05)
-- [A New Agentic Experience: JetBrains Air in IDEs – EAP Now Open](https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/) (2026-10-01)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Dependency Firewall: Block risky packages before the build](https://about.gitlab.com/blog/transcend-dependency-firewall/) (2026-10-06)
+- [Every artifact your teams ship, assembled right the first time](https://about.gitlab.com/blog/transcend-artifact-central/) (2026-10-06)
 - [Two front doors: Module-level access in a Django GRC app](https://about.gitlab.com/blog/module-level-access-in-a-django-grc-app/) (2026-10-05)
 - [DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent](https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/) (2026-10-02)
 - [GitLab and Claude Code: Fast, compliant AI](https://about.gitlab.com/blog/gitlab-and-claude-code-fast-compliant-ai/) (2026-09-29)
-- [What's new in Git 2.56.0?](https://about.gitlab.com/blog/whats-new-in-git-2-56-0/) (2026-09-28)
-- [GitLab Critical Patch Release: 19.4.1, 19.3.3, 19.2.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-1-released/) (2026-09-23)
 
 </details>
 
@@ -461,8 +461,8 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
 - [App hosting platforms with managed Postgres compared (2026)](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
-- [Hosting and Postgres after your first 100 users](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
-- [Neon vs Prisma Postgres: app and database in one place](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
+- [Managed Postgres hosting that scales: hosting and Postgres for your first 100 paying users (2026)](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
+- [Neon alternatives with app hosting and Postgres in one place (2026)](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
 - [How to use Prisma ORM 8 in NestJS: setup, queries, deploy](https://www.prisma.io/blog/prisma-orm-8-nestjs) (2026-09-24)
 
 </details>
@@ -580,22 +580,22 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati) (2026-10-06)
 - [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) (2026-10-03)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) (2026-10-02)
 - [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) (2026-10-02)
 - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) (2026-09-30)
-- [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular) (2026-09-29)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)](https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/) (2026-10-06)
+- [I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.](https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/) (2026-10-06)
 - [Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)](https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/) (2026-10-05)
 - [How to Build a Cheap, Yet Reliable Model Router With Jev](https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/) (2026-10-05)
 - [How to Govern AI Agents](https://towardsdatascience.com/how-to-govern-ai-agents/) (2026-10-04)
-- [The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”](https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/) (2026-10-04)
-- [Measuring the Creativity Potential of LLM Agents](https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/) (2026-10-03)
 
 </details>
 
@@ -613,22 +613,22 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Best Practices for Building Robust Python AI Libraries](https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries) (2026-10-06)
 - [Meta Muse Explained: What It Is, How It Works, and What It Can Do](https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do) (2026-10-05)
 - [3 Statsmodels Tricks for Time Series Analysis & Forecasting](https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting) (2026-10-05)
 - [Python Foundations for Engineering: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet) (2026-10-02)
 - [Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?](https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title) (2026-10-02)
-- [5 Proven Techniques for Token Compression and Prompt Optimization](https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization) (2026-10-02)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production](https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/) (2026-10-06)
 - [How (and Why) to Build an AI Agent from Scratch in Python](https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/) (2026-10-05)
 - [Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness](https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/) (2026-10-01)
 - [AI Agent Observability: Logging, Tracing, and Debugging Explained](https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/) (2026-10-01)
 - [Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM](https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/) (2026-09-29)
-- [Local Agentic AI Workflows with Hermes + Ollama](https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/) (2026-09-28)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-t
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
-- [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
