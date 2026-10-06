@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Worth Building](https://armstr.ng/writing/worth-building) (2026-10-05)
-- [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) (2026-10-05)
-- [Food Atlas: Connections behind the dishes we love](https://knowledgeartist.org/pages/food-atlas) (2026-10-05)
-- [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/) (2026-10-05)
-- [Graphical UI](https://www.graphicalui.com/) (2026-10-05)
+- [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm) (2026-10-06)
+- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/) (2026-10-06)
+- [Why Common Lisp Is Now the Best Programming Language](https://www.vivienhenz.com/common-lisp) (2026-10-06)
+- [Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77) (2026-10-06)
+- [High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days) (2026-10-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lookout: the alarm that goes off before a scam's getaway](https://dev.to/anudeep_bonagiri/lookout-the-alarm-that-goes-off-before-a-scams-getaway-1hgc) (2026-10-05)
-- [My PPTX converter silently dropped half a pitch deck — SmartArt text lives in a different XML part](https://dev.to/imapphelp/my-pptx-converter-silently-dropped-half-a-pitch-deck-smartart-text-lives-in-a-different-xml-part-14kp) (2026-10-05)
-- [Giving Your LLM Agent Web Search Without Burning Money: Self-hosted SearXNG, Caching and Citation Checks](https://dev.to/eme_gug_0821b41b948be6516/giving-your-llm-agent-web-search-without-burning-money-self-hosted-searxng-caching-and-citation-5el3) (2026-10-05)
-- [I Had AI Grade My 12 Vibe-Coded Blog Posts: 15.1 out of 25](https://dev.to/sungwoo_lee_e0f26be4a29fd/i-had-ai-grade-my-12-vibe-coded-blog-posts-151-out-of-25-nj6) (2026-10-05)
-- [Add AI meeting summaries to any app with Zoom AI Services in 15 minutes](https://dev.to/dummy_chen_4cfe24c5fe88fc/add-ai-meeting-summaries-to-any-app-with-zoom-ai-services-in-15-minutes-6ke) (2026-10-05)
+- [TOOL JUDGMENT: Does an AI Know When NOT to Use a Tool?](https://dev.to/jay_jain_/tool-judgment-does-an-ai-know-when-not-to-use-a-tool-2pk6) (2026-10-06)
+- [Alerts Worth Waking Up For](https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof) (2026-10-06)
+- [VM Placement Is a Moving Target: Reading the IDEAL SDN Paper](https://dev.to/wanqiu_7ad7bc3efc7b7/vm-placement-is-a-moving-target-reading-the-ideal-sdn-paper-14jn) (2026-10-06)
+- [Making a machine reviewer prove its own findings](https://dev.to/idlecultivation/making-a-machine-reviewer-prove-its-own-findings-3535) (2026-10-06)
+- [CSS Flexbox Cheatsheet: Every Property Explained with Examples](https://dev.to/pulkitgovrani/css-flexbox-cheatsheet-every-property-explained-with-examples-5efg) (2026-10-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Testing Is Not Just Checking Whether Code Works](https://vxdeveloper.medium.com/testing-is-not-just-checking-whether-code-works-54f3d0cbd96f?source=rss------programming-5) (2026-10-05)
-- [8 Python Mistakes That Quietly Make Your Code Harder to Maintain](https://python.plainenglish.io/8-python-mistakes-that-quietly-make-your-code-harder-to-maintain-bced0ee3e918?source=rss------programming-5) (2026-10-05)
-- [8 Python Libraries You’ll Wish You Found Years Ago](https://python.plainenglish.io/8-python-libraries-youll-wish-you-found-years-ago-3743c8b479c1?source=rss------programming-5) (2026-10-05)
-- [Custom Hooks I Write in Every Single React Project](https://medium.com/@kaklotarrahul79/custom-hooks-i-write-in-every-single-react-project-cacd8cb4cabd?source=rss------programming-5) (2026-10-05)
-- [I told my coding agents not to stop, and went to bed](https://medium.com/@diogosmendes/i-told-my-coding-agents-not-to-stop-and-went-to-bed-0e6eca755792?source=rss------programming-5) (2026-10-05)
+- [Day 213 of Learning Android — Getting Familiar with Android Views and UI Components](https://medium.com/@payalmehra3522/day-213-of-learning-android-getting-familiar-with-android-views-and-ui-components-484669f42340?source=rss------programming-5) (2026-10-06)
+- [Why I Still Recommend Learning C (Even in 2026)](https://medium.com/@suyadav2072005/why-i-still-recommend-learning-c-even-in-2026-54866269804a?source=rss------programming-5) (2026-10-06)
+- [How to take your Java project from GitHub to AWS](https://medium.com/@carlosjmendoza.dev/how-to-take-your-java-project-from-github-to-aws-c9e7fe854b1e?source=rss------programming-5) (2026-10-06)
+- [Uncensor Your LLM Without Melting Its Brain](https://medium.com/sapiens-ai-mentis/uncensor-your-llm-without-melting-its-brain-80877ea02c5a?source=rss------programming-5) (2026-10-06)
+- [A booking isn’t a booking until it’s paid](https://medium.com/@abhi_93773/a-booking-isnt-a-booking-until-it-s-paid-42d76290f68f?source=rss------programming-5) (2026-10-06)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
+- [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
+- [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 - [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
-- [Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/) (2026-09-23)
-- [Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/) (2026-09-23)
-- [GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/) (2026-09-22)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Prepare and submit your apps for iPhone Duo](https://developer.apple.com/news/?id=kkphp5qo) (2026-10-06)
 - [Showcase your apps with new assets on the App Store](https://developer.apple.com/news/?id=ljpl7kyn) (2026-10-05)
 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw) (2026-10-02)
 - [Upcoming expiration of Developer ID Certification Authority (Sub-CA)](https://developer.apple.com/news/?id=w4atic4c) (2026-10-01)
 - [Build for iPhone Duo with new resources](https://developer.apple.com/news/?id=nyuppv9r) (2026-09-18)
-- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=rfb1rooi) (2026-09-16)
 
 </details>
 
