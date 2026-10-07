@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/) (2026-10-06)
+- [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/) (2026-10-06)
+- [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/) (2026-10-06)
 - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/) (2026-10-06)
 - [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/) (2026-10-06)
-- [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/) (2026-10-06)
-- [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/) (2026-10-06)
-- [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/) (2026-10-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484) (2026-10-06)
-- [Decisions API](https://developers.openai.com/api/docs/guides/decisions) (2026-10-06)
-- [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6) (2026-10-06)
-- [Paramount Skydance has completed its $111B merger with Warner Bros. Discovery](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/) (2026-10-06)
-- [System-level ad-blocking in Android](https://kevinboone.me/adblock.html) (2026-10-06)
+- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) (2026-10-07)
+- [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights) (2026-10-07)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) (2026-10-07)
+- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) (2026-10-07)
+- [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis) (2026-10-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github) (2026-10-06)
 - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights) (2026-10-06)
 - [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale) (2026-10-06)
 - [Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat](https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc) (2026-10-06)
 - [Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say](https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy) (2026-10-06)
-- [Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house](https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup) (2026-10-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [154 of 529 top homepages have no canonical tag. 15 point to a URL that redirects straight back.](https://dev.to/mahirhir/154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back-3p28) (2026-10-06)
-- [trilha: identifying birds by ear on the trail, with no signal](https://dev.to/wellington_filipe_fccda4c/trilha-identifying-birds-by-ear-on-the-trail-with-no-signal-30k7) (2026-10-06)
-- [Cursor MCP setup for agent skills](https://dev.to/skillgild/cursor-mcp-setup-for-agent-skills-4kpk) (2026-10-06)
-- [Create research plots with Claude Code and Academic Plotting](https://dev.to/skillgild/create-research-plots-with-claude-code-and-academic-plotting-34h6) (2026-10-06)
-- [A rival's price was nested two dicts deep — and the obvious min() read 20 competitors as free](https://dev.to/fetchsmith/a-rivals-price-was-nested-two-dicts-deep-and-the-obvious-min-read-20-competitors-as-free-1jnl) (2026-10-06)
+- [I Built a Data-Driven Palworld Breeding Calculator for Version 1.0](https://dev.to/airball_nick_f1598c78e1cd/i-built-a-data-driven-palworld-breeding-calculator-for-version-10-dg0) (2026-10-07)
+- [I don’t code. My AI usage still reached 145 million tokens.](https://dev.to/katsudo/i-dont-code-my-ai-usage-still-reached-145-million-tokens-43n6) (2026-10-07)
+- [I built a game that replaces doomscrolling with quizzes, hidden history, and brain puzzles](https://dev.to/akkhor7/i-built-a-game-that-replaces-doomscrolling-with-quizzes-hidden-history-and-brain-puzzles-2710) (2026-10-07)
+- [Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System](https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce) (2026-10-07)
+- [I Opened the Palworld Breeding Dataset Behind My Calculator](https://dev.to/airball_nick_f1598c78e1cd/i-opened-the-palworld-breeding-dataset-behind-my-calculator-11gp) (2026-10-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Day My Project Started Asking Questions](https://medium.com/@thehumanalgorithm/the-day-my-project-started-asking-questions-481fba3e85c1?source=rss------programming-5) (2026-10-06)
-- [The AI Fixed Your Bug. It Kept the Lesson.](https://pub.towardsai.net/the-ai-fixed-your-bug-it-kept-the-lesson-373bad702e57?source=rss------programming-5) (2026-10-06)
-- [How I Set Up a KDE Development Environment on Fedora (and Built My First KDE App from Source)](https://medium.com/@ankitgia336/how-i-set-up-a-kde-development-environment-on-fedora-and-built-my-first-kde-app-from-source-8219cb04daa3?source=rss------programming-5) (2026-10-06)
-- [Deploying Big Features Safely When Legacy Infrastructure Sets the Rules](https://medium.com/@jayeshutchanah/deploying-big-features-safely-when-legacy-infrastructure-sets-the-rules-c9abf6b3df37?source=rss------programming-5) (2026-10-06)
-- [Python Spatial Data Architecture: Designing Systems That Scale](https://medium.com/@stacyfuende/python-spatial-data-architecture-designing-systems-that-scale-8ca9f7750ac8?source=rss------programming-5) (2026-10-06)
+- [GitHub App Tokens Just Grew From 40 to ~520 Characters. Here's What Breaks](https://medium.com/@ascendrixtech/github-app-tokens-just-grew-from-40-to-520-characters-heres-what-breaks-8d041c47c886?source=rss------programming-5) (2026-10-07)
+- [Free Tier Isn’t Free. It Costs You One Cron — And Mine Was Lying.](https://bobde-yagyesh.medium.com/free-tier-isnt-free-it-costs-you-one-cron-and-mine-was-lying-c3e3e0d748b2?source=rss------programming-5) (2026-10-07)
+- [Day 214 of Learning Android — Understanding Android Layouts](https://medium.com/@payalmehra3522/day-214-of-learning-android-understanding-android-layouts-cfeb11087f30?source=rss------programming-5) (2026-10-07)
+- [What a Checkout’s Shipping Options Taught Me About the Strategy Pattern](https://medium.com/@enok.jesus/what-a-checkouts-shipping-options-taught-me-about-the-strategy-pattern-85e04c2691d5?source=rss------programming-5) (2026-10-07)
+- [Stop Writing Media Queries for Screen Sizes](https://medium.com/the-hotfix/stop-writing-media-queries-for-screen-sizes-ade194b58940?source=rss------programming-5) (2026-10-07)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/) (2026-10-06)
 - [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
-- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-fr
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Modernizing Table Batched Embeddings with FBTriton](https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton/) (2026-10-06)
 - [Evolution of the PyTorch Media Processing Landscape](https://pytorch.org/blog/evolution-of-the-pytorch-media-processing-landscape/) (2026-10-05)
 - [PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group](https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/) (2026-10-05)
 - [Building a High-Performance and Portable vLLM Linear Backend with Helion](https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/) (2026-10-02)
 - [New Pathway to PyTorch Certified Associate (PTCA) Certification](https://pytorch.org/blog/new-pathway-to-pytorch-certified-associate-ptca-certification/) (2026-10-02)
-- [Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell](https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/) (2026-10-01)
 
 </details>
 
