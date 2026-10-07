@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Spotify expands audiobooks to over 180 markets](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/) (2026-10-07)
 - [How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/) (2026-10-06)
 - [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/) (2026-10-06)
 - [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/) (2026-10-06)
 - [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/) (2026-10-06)
-- [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/) (2026-10-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) (2026-10-07)
-- [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights) (2026-10-07)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) (2026-10-07)
-- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) (2026-10-07)
-- [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis) (2026-10-07)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) (2026-10-07)
+- [PS5 Jailbreaks Are Escalating at an Unprecedented Pace](https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating) (2026-10-07)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/) (2026-10-07)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/) (2026-10-07)
+- [Forever Junior: The Skills AI Can't Develop for You](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/) (2026-10-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github) (2026-10-06)
-- [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights) (2026-10-06)
-- [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale) (2026-10-06)
-- [Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat](https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc) (2026-10-06)
-- [Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say](https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy) (2026-10-06)
+- [Google&#8217;s Pixel Buds update will put them to sleep along with you](https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute) (2026-10-07)
+- [AI could upend food delivery](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites) (2026-10-07)
+- [At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses](https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder) (2026-10-07)
+- [Google now lets you make games with AI](https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai) (2026-10-07)
+- [The best October Prime Day deals from Apple, Sony, Google, and more](https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two) (2026-10-07)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: weight-loss drugs slowing aging and carbon dioxide batteries](https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/) (2026-10-07)
 - [Weight-loss drugs show signs of slowing biological aging, say drugmakers](https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/) (2026-10-06)
 - [The Download: 10 climate tech companies to watch](https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/) (2026-10-06)
 - [2026 Climate Tech Companies to Watch](https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/) (2026-10-06)
 - [Here’s how our climate team picked 10 promising companies to watch](https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/) (2026-10-06)
-- [WeLion New Energy and its semi-solid-state batteries](https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/) (2026-10-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Data-Driven Palworld Breeding Calculator for Version 1.0](https://dev.to/airball_nick_f1598c78e1cd/i-built-a-data-driven-palworld-breeding-calculator-for-version-10-dg0) (2026-10-07)
-- [I don’t code. My AI usage still reached 145 million tokens.](https://dev.to/katsudo/i-dont-code-my-ai-usage-still-reached-145-million-tokens-43n6) (2026-10-07)
-- [I built a game that replaces doomscrolling with quizzes, hidden history, and brain puzzles](https://dev.to/akkhor7/i-built-a-game-that-replaces-doomscrolling-with-quizzes-hidden-history-and-brain-puzzles-2710) (2026-10-07)
-- [Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System](https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce) (2026-10-07)
-- [I Opened the Palworld Breeding Dataset Behind My Calculator](https://dev.to/airball_nick_f1598c78e1cd/i-opened-the-palworld-breeding-dataset-behind-my-calculator-11gp) (2026-10-07)
+- [Agent cost optimization: same quality, lower price](https://dev.to/nicolai_bohn_rhesis/agent-cost-optimization-same-quality-lower-price-3jof) (2026-10-07)
+- [Sepio.dev: I've built a Figma style database designing tool](https://dev.to/abutahermuhammad/sepiodev-ive-built-a-figma-style-database-designing-tool-164c) (2026-10-07)
+- [I Rebranded My Free Google Drive Cloner to DriveZap ⚡ — New Logo, Same Free Tool](https://dev.to/abdull_hanan/i-rebranded-my-free-google-drive-cloner-to-drivezap-new-logo-same-free-tool-5fk4) (2026-10-07)
+- [I Vibe Coded My First iOS App With AI — Here’s What I Learned](https://dev.to/sakuharo/i-vibe-coded-my-first-ios-app-with-ai-heres-what-i-learned-3d1f) (2026-10-07)
+- [Showing Series and Trim from vPIC Without Turning Blanks into Upgrades](https://dev.to/vin_lookup_8dbd4710f77e9e/showing-series-and-trim-from-vpic-without-turning-blanks-into-upgrades-34ml) (2026-10-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GitHub App Tokens Just Grew From 40 to ~520 Characters. Here's What Breaks](https://medium.com/@ascendrixtech/github-app-tokens-just-grew-from-40-to-520-characters-heres-what-breaks-8d041c47c886?source=rss------programming-5) (2026-10-07)
-- [Free Tier Isn’t Free. It Costs You One Cron — And Mine Was Lying.](https://bobde-yagyesh.medium.com/free-tier-isnt-free-it-costs-you-one-cron-and-mine-was-lying-c3e3e0d748b2?source=rss------programming-5) (2026-10-07)
-- [Day 214 of Learning Android — Understanding Android Layouts](https://medium.com/@payalmehra3522/day-214-of-learning-android-understanding-android-layouts-cfeb11087f30?source=rss------programming-5) (2026-10-07)
-- [What a Checkout’s Shipping Options Taught Me About the Strategy Pattern](https://medium.com/@enok.jesus/what-a-checkouts-shipping-options-taught-me-about-the-strategy-pattern-85e04c2691d5?source=rss------programming-5) (2026-10-07)
-- [Stop Writing Media Queries for Screen Sizes](https://medium.com/the-hotfix/stop-writing-media-queries-for-screen-sizes-ade194b58940?source=rss------programming-5) (2026-10-07)
+- [Spring Boot @Transactional Worked Perfectly. Until We Put It in Production.](https://medium.com/@gkhanalkan_71996/spring-boot-transactional-worked-perfectly-until-we-put-it-in-production-a8a869993273?source=rss------programming-5) (2026-10-07)
+- [I Built EasyUI for Developers Who Like Good UI](https://medium.com/@surajmaurvanshi1000/i-built-easyui-for-developers-who-like-good-ui-3f299526b217?source=rss------programming-5) (2026-10-07)
+- [Your PostgreSQL Query Is Fast. Your Connection Pool Is Killing Production.](https://medium.com/engineering-playbook/your-postgresql-query-is-fast-your-connection-pool-is-killing-production-c24347929e5f?source=rss------programming-5) (2026-10-07)
+- [TypeScript Got Faster](https://medium.com/skillstuff/typescript-got-faster-8898750f3c31?source=rss------programming-5) (2026-10-07)
+- [Zero-Downtime Deployment Is Easy Until the Database Schema Changes](https://medium.com/engineering-playbook/zero-downtime-deployment-is-easy-until-the-database-schema-changes-cc64196ef992?source=rss------programming-5) (2026-10-07)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/) (2026-10-06)
 - [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
 - [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
+- [Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/) (2026-09-24)
 
 </details>
 
@@ -317,22 +317,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Start Your Next KMP App With Kotlin Toolchain 0.13](https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/) (2026-10-07)
+- [Your Next Action Is Two Dots Away](https://blog.jetbrains.com/idea/2026/10/your-next-action-is-two-dots-away/) (2026-10-07)
 - [Our Framework for Reviewing AI-Generated Code](https://blog.jetbrains.com/research/2026/10/review-ai-generated/) (2026-10-06)
 - [Amper Is Now the Kotlin Toolchain: Moving to the Kotlin Blog](https://blog.jetbrains.com/amper/2026/10/amper-is-now-the-kotlin-toolchain-moving-to-the-kotlin-blog/) (2026-10-06)
 - [Java and Kotlin by IntelliJ IDEA: The LSP-Based Extension Reaches Release Candidate](https://blog.jetbrains.com/idea/2026/10/java-and-kotlin-by-intellij-idea-the-lsp-based-extension-reaches-release-candidate/) (2026-10-06)
-- [JetBrains Joins the Open Source Security Foundation](https://blog.jetbrains.com/blog/2026/10/06/jetbrains-joins-the-open-source-security-foundation/) (2026-10-06)
-- [dotInsights | October 2026](https://blog.jetbrains.com/dotnet/2026/10/05/dotinsights-october-2026/) (2026-10-05)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.141 (Insiders)](https://code.visualstudio.com/updates/v1_141) (2026-10-07)
+- [Visual Studio Code 1.142 (Insiders)](https://code.visualstudio.com/updates/v1_142) (2026-10-14)
+- [Visual Studio Code 1.141](https://code.visualstudio.com/updates/v1_141) (2026-10-07)
 - [Visual Studio Code 1.140](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
 - [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139) (2026-09-23)
 - [Building the new GitHub Copilot Inline Suggestions Model: Part Two](https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two) (2026-09-23)
-- [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138) (2026-09-16)
 
 </details>
 
@@ -591,44 +591,44 @@ https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-fr
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Consistency Quadrant: A Visual Guide to LLM Reliability](https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/) (2026-10-07)
+- [When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment](https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/) (2026-10-07)
 - [How I Use AI to Learn New Topics Faster: An AI-Assisted Learning Framework](https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/) (2026-10-06)
 - [A Google Team Measured Half of My Argument, and Left the Other Half Open](https://towardsdatascience.com/a-google-team-measured-half-of-my-argument-and-left-the-other-half-open/) (2026-10-06)
 - [How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)](https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/) (2026-10-06)
-- [I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.](https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/) (2026-10-06)
-- [Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)](https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/) (2026-10-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Jev Projects on GitHub You Should Check Out](https://www.analyticsvidhya.com/blog/2026/10/jev-projects-on-github/) (2026-10-07)
 - [JEV vs LLM as a Judge: The AI Evaluation Comparison](https://www.analyticsvidhya.com/blog/2026/10/jev-vs-llm-as-a-judge-evals/) (2026-10-06)
 - [Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code](https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/) (2026-10-05)
 - [Claude Code Custom Commands & Skills: Automate Your Workflow](https://www.analyticsvidhya.com/blog/2026/10/claude-code-custom-commands-skills-automate-your-workflow/) (2026-10-01)
 - [OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent](https://www.analyticsvidhya.com/blog/2026/09/chatgpt-dot-access-setup-hands-on/) (2026-09-30)
-- [Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA](https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/) (2026-09-29)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found](https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found) (2026-10-07)
 - [Who Pays for AI Data Centers?](https://www.kdnuggets.com/who-pays-for-ai-data-centers) (2026-10-06)
 - [5 Best Practices for Building Robust Python AI Libraries](https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries) (2026-10-06)
 - [Meta Muse Explained: What It Is, How It Works, and What It Can Do](https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do) (2026-10-05)
 - [3 Statsmodels Tricks for Time Series Analysis & Forecasting](https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting) (2026-10-05)
-- [Python Foundations for Engineering: A KDnuggets Cheat Sheet](https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet) (2026-10-02)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/) (2026-10-07)
 - [Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production](https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/) (2026-10-06)
 - [How (and Why) to Build an AI Agent from Scratch in Python](https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/) (2026-10-05)
 - [Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness](https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/) (2026-10-01)
 - [AI Agent Observability: Logging, Tracing, and Debugging Explained](https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/) (2026-10-01)
-- [Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM](https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/) (2026-09-29)
 
 </details>
 
