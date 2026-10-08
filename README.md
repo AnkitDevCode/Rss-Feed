@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/) (2026-10-07)
+- [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/) (2026-10-07)
 - [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/) (2026-10-07)
 - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) (2026-10-07)
 - [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) (2026-10-07)
-- [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/) (2026-10-07)
-- [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/) (2026-10-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) (2026-10-07)
-- [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7) (2026-10-07)
-- [The Mathocalypse](https://scottaaronson.blog/?p=10169) (2026-10-07)
-- [ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en) (2026-10-07)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) (2026-10-07)
+- ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/) (2026-10-07)
 - [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) (2026-10-07)
+- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/) (2026-10-07)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) (2026-10-07)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Microsoft event debuts new AI-friendly hardware and Windows changes](https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/) (2026-10-08)
+- [“Software is over”: Bold AI developer takes aim at Adobe with open source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) (2026-10-07)
 - [PA measles outbreak tops 1,000 cases, largest since disease was eliminated](https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/) (2026-10-07)
 - [TP-Link problems in US grow amid FCC router ban and four state lawsuits](https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/) (2026-10-07)
 - [Chemistry Nobel goes to reactions like those that gave life a hand](https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/) (2026-10-07)
-- [Pediatricians renew call to ban raw milk as anti-science rhetoric reigns](https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/) (2026-10-07)
-- [Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift](https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/) (2026-10-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Microsoft Brings MAI Code 1.1 Flash Local Inference to GitHub Copilot](https://dev.to/alifar/microsoft-brings-mai-code-11-flash-local-inference-to-github-copilot-2j4d) (2026-10-07)
-- [My AI agent needed another AI agent. Apparently, we’re doing this now.](https://dev.to/mottych/my-ai-agent-needed-another-ai-agent-apparently-were-doing-this-now-2g5e) (2026-10-07)
-- [Janela — a local Gemma tells you when to go outside (and why)](https://dev.to/mauricioandrade/janela-a-local-gemma-tells-you-when-to-go-outside-and-why-2j37) (2026-10-07)
-- ["My Mergetober story: building a BambooHR connector for cognee"](https://dev.to/abhishekm_shivanagoudar/my-mergetober-story-building-a-bamboohr-connector-for-cognee-4d1n) (2026-10-07)
-- [Walk Bingo: a local AI that gives you a reason to leave your phone in your pocket](https://dev.to/segeco/walk-bingo-a-local-ai-that-gives-you-a-reason-to-leave-your-phone-in-your-pocket-2id4) (2026-10-07)
+- [How My OpenAI Dot Starts Real Claude Code Sessions on My PC](https://dev.to/danmercede/how-my-openai-dot-starts-real-claude-code-sessions-on-my-pc-2p0g) (2026-10-08)
+- [Como usar Claude Haiku 5.5 no Claude Code e como modelo de subagente](https://dev.to/lucas_ferreira/como-usar-claude-haiku-55-no-claude-code-e-como-modelo-de-subagente-571a) (2026-10-08)
+- [A guide to set up outbound AI voice agent for customer service](https://dev.to/aharna/a-guide-to-set-up-outbound-ai-voice-agent-for-customer-service-32p0) (2026-10-08)
+- [A zero-disruption PodDisruptionBudget can block an AKS upgrade](https://dev.to/jlmartel/a-zero-disruption-poddisruptionbudget-can-block-an-aks-upgrade-18h5) (2026-10-08)
+- [How I Have Claude Code Control Grok Bot (There Is No API)](https://dev.to/danmercede/how-i-have-claude-code-control-grok-bot-there-is-no-api-14oh) (2026-10-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Are LLMs silver bullets?](https://aiadvances.org/are-llms-silver-bullets-a764c668338e?source=rss------programming-5) (2026-10-07)
-- [Python NumPy Geospatial: The Numerical Backbone of Spatial Computing](https://medium.com/@stacyfuende/python-numpy-geospatial-the-numerical-backbone-of-spatial-computing-569ada6419cf?source=rss------programming-5) (2026-10-07)
-- [I Tried to Build a “Simple” App. I Realized I Was Overcomplicating It.](https://medium.com/@nfatimadeen/i-tried-to-build-a-simple-app-i-realized-i-was-overcomplicating-it-25db27912b53?source=rss------programming-5) (2026-10-07)
-- [One Normal Plugin that Can Get You an Upper Hand](https://pub.towardsai.net/one-normal-plugin-that-can-get-you-an-upper-hand-821c711d57bc?source=rss------programming-5) (2026-10-07)
-- [10 Claude Code Features I Ignored Until They Became Useful](https://python.plainenglish.io/10-claude-code-features-i-ignored-until-they-became-useful-97c967cd6c12?source=rss------programming-5) (2026-10-07)
+- [HSRP Series — Part 2: Why Human Representation Needs State, Time, and Uncertainty](https://medium.com/@shahinasamir786/hsrp-series-part-2-why-human-representation-needs-state-time-and-uncertainty-062013b328f8?source=rss------programming-5) (2026-10-08)
+- [Why I Chose to Stay in My Tech Stack Instead of Chasing Trends](https://medium.com/@sheshikiran.gone2002/why-i-chose-to-stay-in-my-tech-stack-instead-of-chasing-trends-25d98ab579e8?source=rss------programming-5) (2026-10-08)
+- [Day 215 of Learning Android — Understanding Activities in Android](https://medium.com/@payalmehra3522/day-215-of-learning-android-understanding-activities-in-android-28ca4d08dcbc?source=rss------programming-5) (2026-10-08)
+- [10 Python Hacks to Start Earning From Home Without a Degree or Experience](https://medium.com/@dpthantsha/10-python-hacks-to-start-earning-from-home-without-a-degree-or-experience-8dad0d8c75c3?source=rss------programming-5) (2026-10-08)
+- [C++26 <debugging>: A Standard Way to Break Into the Debugger](https://medium.com/@sagarmadala/cpp26-debugging-breakpoint-functions-6b97925fd766?source=rss------programming-5) (2026-10-08)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/) (2026-10-06)
 - [Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/) (2026-09-30)
 - [SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/) (2026-09-29)
 - [FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) (2026-09-29)
+- [Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/) (2026-09-28)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 26.11.1 (Current)](https://nodejs.org/en/blog/release/v26.11.1) (2026-10-07)
 - [Node.js 26.11.0 (Current)](https://nodejs.org/en/blog/release/v26.11.0) (2026-10-07)
 - [Node.js 22.23.3 (LTS)](https://nodejs.org/en/blog/release/v22.23.3) (2026-09-23)
 - [Node.js 26.10.0 (Current)](https://nodejs.org/en/blog/release/v26.10.0) (2026-09-22)
 - [Node.js 26.9.0 (Current)](https://nodejs.org/en/blog/release/v26.9.0) (2026-09-16)
-- [Node.js 26.8.2 (Current)](https://nodejs.org/en/blog/release/v26.8.2) (2026-09-09)
 
 </details>
 
