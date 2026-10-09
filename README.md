@@ -9,7 +9,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [President Trump awards big tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/) (2026-10-08)
+- [President Trump awards Big Tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/) (2026-10-08)
 - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/) (2026-10-08)
 - [Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/) (2026-10-08)
 - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/) (2026-10-08)
@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) (2026-10-08)
-- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) (2026-10-08)
-- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full) (2026-10-08)
-- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) (2026-10-08)
-- [Theranos.world](https://www.theranos.world/) (2026-10-08)
+- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) (2026-10-09)
+- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/) (2026-10-09)
+- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) (2026-10-09)
+- [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) (2026-10-09)
+- [Show HN: SVG Spark – 10 client-side SVG design and dev tools](https://svg-spark.vercel.app/) (2026-10-08)
 
 </details>
 
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing](https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/) (2026-10-08)
-- [Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027](https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/) (2026-10-08)
-- [Driver wins $76 after ALPR led to bogus traffic stop, drug searches](https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/) (2026-10-08)
-- [RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries](https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/) (2026-10-08)
-- [An experimental tour-de-force: Entanglement between glass bead and light](https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/) (2026-10-08)
+- [SpaceX calls for better coordination in orbit after near-misses with Starlink](https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/) (2026-10-08)
+- [Judge weighs if Trump can charge $100K for early access to Truth Social posts](https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/) (2026-10-08)
+- [Trump Mobile hack and apparent lack of FCC authorization raise security alarms](https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/) (2026-10-08)
+- [Feds get ready to rewrite car headlight rules](https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/) (2026-10-08)
+- [RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing](https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/) (2026-10-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) (2026-10-09)
 - [The Download: AI roadblocks for humanoids and portable rubber dams](https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/) (2026-10-08)
 - [Why we’re watching these climate tech companies](https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/) (2026-10-08)
 - [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/) (2026-10-08)
 - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/) (2026-10-08)
-- [The Download: weight-loss drugs slowing aging and carbon dioxide batteries](https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/) (2026-10-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [EP02: The self-hosted CDN answer — PPCDN architecture overview](https://dev.to/greg_tham_9527/ep02-the-self-hosted-cdn-answer-ppcdn-architecture-overview-73b) (2026-10-08)
-- [Matara Garden: an offline weekly garden checklist, with Gemma on my laptop](https://dev.to/hasalawa/matara-garden-an-offline-weekly-garden-checklist-with-gemma-on-my-laptop-4596) (2026-10-08)
-- [EP01: The interactive-video dilemma](https://dev.to/greg_tham_9527/ep01-the-interactive-video-dilemma-4i1m) (2026-10-08)
-- [A solarpunk garden for your GitHub profile, generated daily from your contributions](https://dev.to/shagshag/a-solarpunk-garden-for-your-github-profile-generated-daily-from-your-contributions-4k3f) (2026-10-08)
-- [Market Analysis: The Regulatory-Technical Paradox and the Structural Vulnerability of Privacy-Centric Assets](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-regulatory-technical-paradox-and-the-structural-vulnerability-of-3hh7) (2026-10-08)
+- [how i track button clicks without cookies](https://dev.to/omyvnss/how-i-track-button-clicks-without-cookies-3j30) (2026-10-09)
+- [Why Your AI Agent Thinks It Succeeded (And How to Catch When It Didn’t)](https://dev.to/starebrain/why-your-ai-agent-thinks-it-succeeded-and-how-to-catch-when-it-didnt-3k6l) (2026-10-09)
+- [How to Audit a Website Tool Stack: A Practical Guide for Agencies](https://dev.to/sgen/how-to-audit-a-website-tool-stack-a-practical-guide-for-agencies-5a2c) (2026-10-09)
+- [Every PDF failed on Windows because of one trailing backslash (and two more Windows text gotchas)](https://dev.to/mike_kim_692aa79c288bfed8/every-pdf-failed-on-windows-because-of-one-trailing-backslash-and-two-more-windows-text-gotchas-9n5) (2026-10-09)
+- [MonkeysCode Ships Auto Mode: Phase-Based Model Routing](https://dev.to/yorchperaza/monkeyscode-ships-auto-mode-phase-based-model-routing-2eb3) (2026-10-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Agrupar Anagramas: por qué el plano va antes que los ladrillos (JAVA)](https://medium.com/@juanmanuelceronfernandez123/agrupar-anagramas-por-qu%C3%A9-el-plano-va-antes-que-los-ladrillos-java-255d18ce9299?source=rss------programming-5) (2026-10-08)
-- [Python Dunder Methods: The Hidden Protocols Behind Pythonic Code](https://python.plainenglish.io/python-dunder-methods-the-hidden-protocols-behind-pythonic-code-e670e91ad39d?source=rss------programming-5) (2026-10-08)
-- [25 Claude Code Hacks That Make Building With AI Feel Like a Different Game](https://medium.com/@theexplainer/25-claude-code-hacks-that-make-building-with-ai-feel-like-a-different-game-065120a10adf?source=rss------programming-5) (2026-10-08)
-- [El código que nos llevó a la Luna y la visión que definió nuestra industria: En memoria de Margaret…](https://medium.com/@jthan24/el-c%C3%B3digo-que-nos-llev%C3%B3-a-la-luna-y-la-visi%C3%B3n-que-defini%C3%B3-nuestra-industria-en-memoria-de-margaret-664de080f62e?source=rss------programming-5) (2026-10-08)
-- [We Had Thousands of Patient Records. Then We Had to Move Them.](https://devdeejay.medium.com/we-had-thousands-of-patient-records-then-we-had-to-move-them-5f7620ae034c?source=rss------programming-5) (2026-10-08)
+- [How I route SSH inside the kernel with SOCKMAP](https://medium.com/@arasydafa/how-i-route-ssh-inside-the-kernel-with-sockmap-4d102aade0e3?source=rss------programming-5) (2026-10-09)
+- [#Get Apple Developer Account](https://medium.com/@12fsfnpcel/get-apple-developer-account-b0ee9d2b3b56?source=rss------programming-5) (2026-10-09)
+- [The HTTP QUERY Method in Web APIs: Semantics, Design, and Practical Implementation](https://medium.com/@chaudharijay1254/the-http-query-method-in-web-apis-semantics-design-and-practical-implementation-9e8c16bffccb?source=rss------programming-5) (2026-10-09)
+- [The Last Moat Just Fell: AI Now Speaks Fluent Compiler](https://levelup.gitconnected.com/the-last-moat-just-fell-ai-now-speaks-fluent-compiler-29ee6064200c?source=rss------programming-5) (2026-10-09)
+- [I Let an AI Agent Run My Entire Sprint. Here’s What Broke First](https://heymramit.medium.com/i-let-an-ai-agent-run-my-entire-sprint-heres-what-broke-first-0a915febc93c?source=rss------programming-5) (2026-10-09)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building a Multi-Channel AI Agent with Twilio Conversations and eve
+](
+https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve
+) (2026-10-08)
+- [
 Avoid Sending SMS to Landlines in PHP with Twilio's Lookup v2 API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/insights/peak-season-deliverability-quality-be
 My Voice AI Demo Was Hit by a $982 Traffic-Pumping Attack! Here’s What I Learned
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/secure-voice-agent-demos
-) (2026-10-06)
-- [
-How to design an AI agent for resolution instead of rapport
-](
-https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution
 ) (2026-10-06)
 
 </details>
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
