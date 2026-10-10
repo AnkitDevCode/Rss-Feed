@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [REA Reverse – Engineer Anything](https://rea.tools/) (2026-10-10)
-- [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/) (2026-10-09)
-- [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants) (2026-10-09)
-- [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf) (2026-10-09)
-- [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) (2026-10-09)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) (2026-10-10)
+- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) (2026-10-10)
+- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions) (2026-10-10)
+- [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html) (2026-10-10)
+- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) (2026-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck) (2026-10-10)
+- [The director of Fjord takes the &#8216;risky position&#8217; of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview) (2026-10-10)
+- [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too) (2026-10-10)
 - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback) (2026-10-09)
 - [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) (2026-10-09)
-- [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude) (2026-10-09)
-- [&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) (2026-10-09)
-- [Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air) (2026-10-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [You Have Three Copies of SOUL.md and They Already Disagree](https://dev.to/xin_jiang_0586987bb7e572c/you-have-three-copies-of-soulmd-and-they-already-disagree-4mp7) (2026-10-10)
-- [Governance Attack Surface Review: Sentora Curator](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-sentora-curator-4i1f) (2026-10-10)
-- [Three Agents Share One Soul Over MCP With Zero Tool Calls Per Turn](https://dev.to/xin_jiang_0586987bb7e572c/three-agents-share-one-soul-over-mcp-with-zero-tool-calls-per-turn-43m5) (2026-10-10)
-- [The Model Updated Overnight and the Persona You Tuned Is Gone](https://dev.to/xin_jiang_0586987bb7e572c/the-model-updated-overnight-and-the-persona-you-tuned-is-gone-f01) (2026-10-10)
-- [Is Your Text-to-SQL Agent Just a Fancy Way to Drop Your Production Tables?](https://dev.to/aniketsoni/is-your-text-to-sql-agent-just-a-fancy-way-to-drop-your-production-tables-1c7h) (2026-10-10)
+- [Balancing Security and Productivity: Strategies to Safeguard Company Data from Unauthorized AI Access](https://dev.to/kserude/balancing-security-and-productivity-strategies-to-safeguard-company-data-from-unauthorized-ai-55dm) (2026-10-10)
+- [Defensive cybersecurity skills (Blue team)](https://dev.to/fatehmohamed14/defensive-cybersecurity-skills-blue-team-1741) (2026-10-10)
+- [I built an open-source Trello where a custom Pi agent harness does the cards](https://dev.to/ancs21/i-built-an-open-source-trello-where-a-custom-pi-agent-harness-does-the-cards-a16) (2026-10-10)
+- [Send Custom Notifications in Salesforce Using Flow: A No-Code Guide](https://dev.to/rohanmehta/send-custom-notifications-in-salesforce-using-flow-a-no-code-guide-1547) (2026-10-10)
+- [Touch Grassss](https://dev.to/aditya_narayan_7a94f8bd1c/touch-grassss-50o3) (2026-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Miro.com Spends 24 Internal Links on 6 Self-Redirects and Has 3 Orphan Pages.](https://medium.com/@outreach_59700/miro-com-spends-24-internal-links-on-6-self-redirects-and-has-3-orphan-pages-4460e8c56e3e?source=rss------programming-5) (2026-10-10)
-- [Google Play’s Apps Experience Program: Better Android Apps Can Now Mean Lower Fees](https://medium.com/@adsalihac/google-plays-apps-experience-program-better-android-apps-can-now-mean-lower-fees-7ff39261dfba?source=rss------programming-5) (2026-10-10)
-- [Deel.com’s Own Redirects Hit 10 Separate URLs, Spending 41 Internal Links.](https://medium.com/@outreach_59700/deel-coms-own-redirects-hit-10-separate-urls-spending-41-internal-links-89883f77255f?source=rss------programming-5) (2026-10-10)
-- [Most LLM Classifiers Don’t Classify. They Write Essays](https://medium.com/@ahirlog/most-llm-classifiers-dont-classify-they-write-essays-2b2ac70dcd23?source=rss------programming-5) (2026-10-10)
-- [Wave.com Spends 28 Internal Links on Its Own /index.html Redirects](https://medium.com/@outreach_59700/what-i-ran-a2b4db328a9d?source=rss------programming-5) (2026-10-10)
+- [Qwen3.8 Flash-Next Asks Coding-Tool Makers for a License](https://ai.plainenglish.io/qwen3-8-flash-next-asks-coding-tool-makers-for-a-license-01dabd983478?source=rss------programming-5) (2026-10-10)
+- [Developing Ethereum Contracts with Hardhat](https://hashtagweb3.medium.com/developing-ethereum-contracts-with-hardhat-e938d5a91e66?source=rss------programming-5) (2026-10-10)
+- [Transactional Outbox Pattern for Reliable Event Delivery](https://medium.com/@yashvi.hiteshpatel2712/transactional-outbox-pattern-for-reliable-event-delivery-29478171b2c1?source=rss------programming-5) (2026-10-10)
+- [Your AI Coding Agent Is Guessing. Here’s the Setup That Stops It](https://ai.plainenglish.io/your-ai-coding-agent-is-guessing-heres-the-setup-that-stops-it-22b2b047d341?source=rss------programming-5) (2026-10-10)
+- [7 Cybersecurity Skills Developers Need in the Age of AI](https://ai.plainenglish.io/7-cybersecurity-skills-developers-need-in-the-age-of-ai-a916f024a4b9?source=rss------programming-5) (2026-10-10)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
+- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
