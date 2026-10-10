@@ -9,11 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/) (2026-10-10)
+- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) (2026-10-10)
 - [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/) (2026-10-09)
 - [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) (2026-10-09)
 - [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) (2026-10-09)
-- [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/) (2026-10-09)
-- [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/) (2026-10-09)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [REA Reverse – Engineer Anything](https://rea.tools/) (2026-10-10)
+- [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/) (2026-10-09)
+- [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants) (2026-10-09)
+- [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf) (2026-10-09)
+- [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) (2026-10-09)
 
 </details>
 
@@ -31,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) (2026-10-09)
-- [Outrage grows as CDC reportedly poised to fund "unethical" vaccine trial](https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/) (2026-10-09)
-- [PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023](https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/) (2026-10-09)
-- [AI disqualification yields new Nikon Small World in Motion winner](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/) (2026-10-09)
-- [Your artwork could be featured in the next Debian release](https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/) (2026-10-09)
+- [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
+- [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) (2026-10-09)
+- [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/) (2026-10-09)
+- [NASA issues long-awaited call to industry for private space stations](https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/) (2026-10-09)
+- [What's been driving Hawaii's lava fountains?](https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/) (2026-10-09)
 
 </details>
 
@@ -75,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I turned the PS5 camera in my drawer into a depth-sensing webcam](https://dev.to/krou4/i-turned-the-ps5-camera-in-my-drawer-into-a-depth-sensing-webcam-4j1i) (2026-10-09)
-- [Massachusetts Layoffs 2026: WARN Numbers Explained](https://dev.to/layoffatlas/massachusetts-layoffs-2026-warn-numbers-explained-pfd) (2026-10-09)
-- [Preventing double-purchases in agentic commerce — the retry-storm problem](https://dev.to/brudy_dev24/preventing-double-purchases-in-agentic-commerce-the-retry-storm-problem-2h62) (2026-10-09)
-- [Why Your Telegram OSINT Pipeline Should Filter by Language, Not Geography](https://dev.to/yuhehe/why-your-telegram-osint-pipeline-should-filter-by-language-not-geography-1km9) (2026-10-09)
-- [Three Android settings that limit tracking on your phone](https://dev.to/hacksgr/three-android-settings-that-limit-tracking-on-your-phone-1i00) (2026-10-09)
+- [You Have Three Copies of SOUL.md and They Already Disagree](https://dev.to/xin_jiang_0586987bb7e572c/you-have-three-copies-of-soulmd-and-they-already-disagree-4mp7) (2026-10-10)
+- [Governance Attack Surface Review: Sentora Curator](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-sentora-curator-4i1f) (2026-10-10)
+- [Three Agents Share One Soul Over MCP With Zero Tool Calls Per Turn](https://dev.to/xin_jiang_0586987bb7e572c/three-agents-share-one-soul-over-mcp-with-zero-tool-calls-per-turn-43m5) (2026-10-10)
+- [The Model Updated Overnight and the Persona You Tuned Is Gone](https://dev.to/xin_jiang_0586987bb7e572c/the-model-updated-overnight-and-the-persona-you-tuned-is-gone-f01) (2026-10-10)
+- [Is Your Text-to-SQL Agent Just a Fancy Way to Drop Your Production Tables?](https://dev.to/aniketsoni/is-your-text-to-sql-agent-just-a-fancy-way-to-drop-your-production-tables-1c7h) (2026-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Break-Even Math for Repairing an iPhone Before Trade-In](https://medium.com/kairi-ai/the-break-even-math-for-repairing-an-iphone-before-trade-in-41c4be77add2?source=rss------programming-5) (2026-10-09)
-- [Ulica = Street (Absurd Russian 25)](https://medium.com/@learnlanguagesfast/ulica-street-absurd-russian-25-b9bebe385942?source=rss------programming-5) (2026-10-09)
-- [Your Senior Engineer Resume Says “Improved Performance by 80%.” Nobody Believes You.](https://medium.com/engineering-playbook/your-senior-engineer-resume-says-improved-performance-by-80-nobody-believes-you-bafa5115e66b?source=rss------programming-5) (2026-10-09)
-- [You Passed the Senior Engineer Technical Interview. The Hiring Manager Still Rejected You.](https://levelup.gitconnected.com/you-passed-the-senior-engineer-technical-interview-the-hiring-manager-still-rejected-you-433bde2a2520?source=rss------programming-5) (2026-10-09)
-- [You’re a Senior Engineer. So Why Does Nobody Trust You With Architecture Decisions?](https://medium.com/engineering-playbook/youre-a-senior-engineer-so-why-does-nobody-trust-you-with-architecture-decisions-1610a7a77303?source=rss------programming-5) (2026-10-09)
+- [Miro.com Spends 24 Internal Links on 6 Self-Redirects and Has 3 Orphan Pages.](https://medium.com/@outreach_59700/miro-com-spends-24-internal-links-on-6-self-redirects-and-has-3-orphan-pages-4460e8c56e3e?source=rss------programming-5) (2026-10-10)
+- [Google Play’s Apps Experience Program: Better Android Apps Can Now Mean Lower Fees](https://medium.com/@adsalihac/google-plays-apps-experience-program-better-android-apps-can-now-mean-lower-fees-7ff39261dfba?source=rss------programming-5) (2026-10-10)
+- [Deel.com’s Own Redirects Hit 10 Separate URLs, Spending 41 Internal Links.](https://medium.com/@outreach_59700/deel-coms-own-redirects-hit-10-separate-urls-spending-41-internal-links-89883f77255f?source=rss------programming-5) (2026-10-10)
+- [Most LLM Classifiers Don’t Classify. They Write Essays](https://medium.com/@ahirlog/most-llm-classifiers-dont-classify-they-write-essays-2b2ac70dcd23?source=rss------programming-5) (2026-10-10)
+- [Wave.com Spends 28 Internal Links on Its Own /index.html Redirects](https://medium.com/@outreach_59700/what-i-ran-a2b4db328a9d?source=rss------programming-5) (2026-10-10)
 
 </details>
 
@@ -354,7 +365,7 @@
 - [New Pro teams now default to 30-day deployment retention](https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention) (2026-10-09)
 - [Deployment Storage billing begins for existing Pro teams](https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams) (2026-10-09)
 - [How Rillet ships 3× faster with AI agents on Vercel](https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel) (2026-10-09)
-- [Liquid AI's d1 is available on AI Gateway](https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway) (2026-10-09)
+- [Microsoft Decision-1 now available on AI Gateway](https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway) (2026-10-09)
 
 </details>
 
@@ -524,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
-- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
@@ -628,17 +639,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
