@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) (2026-10-10)
+- [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/) (2026-10-10)
 - [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/) (2026-10-10)
 - [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) (2026-10-10)
 - [Here are the top AI agents that can live in your text messages ](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-10)
-- [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/) (2026-10-10)
-- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) (2026-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) (2026-10-10)
-- [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd) (2026-10-10)
-- [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical) (2026-10-10)
-- [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis) (2026-10-10)
-- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) (2026-10-10)
+- [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/) (2026-10-10)
+- [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle) (2026-10-10)
+- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a) (2026-10-10)
+- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/) (2026-10-10)
+- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) (2026-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) (2026-10-10)
 - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts) (2026-10-10)
 - [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) (2026-10-10)
 - [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) (2026-10-10)
 - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure) (2026-10-10)
-- [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review) (2026-10-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Gave a Local AI One Job: Get Me Off the Screen 🌿](https://dev.to/dinukaek/i-gave-a-local-ai-one-job-get-me-off-the-screen-4i5h) (2026-10-10)
-- [How I Build AI Receptionists for Small Businesses](https://dev.to/techmitten2/how-i-build-ai-receptionists-for-small-businesses-3nak) (2026-10-10)
-- [5 Whys: How to Find the Root Cause Instead of the First Explanation](https://dev.to/said_olano/5-whys-how-to-find-the-root-cause-instead-of-the-first-explanation-2oo8) (2026-10-10)
-- [TypeScript Fundamentals, Part 1: Describing Your Data](https://dev.to/grantdotdev/typescript-fundamentals-part-1-describing-your-data-2ncc) (2026-10-10)
-- [An inventory plugin that never lies: transactional add, equip and use in a vanilla JS 2D engine](https://dev.to/antonioprosperi2svg/an-inventory-plugin-that-never-lies-transactional-add-equip-and-use-in-a-vanilla-js-2d-engine-3cpm) (2026-10-10)
+- [Sit Spot: Listen First, Then Check 🌿](https://dev.to/tushaar05/sit-spot-listen-first-then-check-3h57) (2026-10-10)
+- [The Great Firewall of AI: China Locks Down Its Models](https://dev.to/ayraix/the-great-firewall-of-ai-china-locks-down-its-models-519c) (2026-10-10)
+- [Edtech Compliance Delivery Debugging for Bounced Recipient Password Reset Email Retries](https://dev.to/hieronymusfox1257/edtech-compliance-delivery-debugging-for-bounced-recipient-password-reset-email-retries-koc) (2026-10-10)
+- [Rejecting unsupported MCP versions left an AI client unable to connect](https://dev.to/matsumotory/rejecting-unsupported-mcp-versions-left-an-ai-client-unable-to-connect-3jhh) (2026-10-10)
+- [A failure that looked like a capability gap between coding agents was caused by how the API key was passed](https://dev.to/matsumotory/a-failure-that-looked-like-a-capability-gap-between-coding-agents-was-caused-by-how-the-api-key-was-4m34) (2026-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cloudflare Acquires Deno to Improve Its Workers Programming Model](https://medium.com/@christy.cs07/cloudflare-acquires-deno-to-improve-its-workers-programming-model-d788f1511acf?source=rss------programming-5) (2026-10-10)
-- [You’re preparing for a world that is dying.](https://medium.com/@bernardoolisan/youre-preparing-for-a-world-that-is-dying-53b6e0aca973?source=rss------programming-5) (2026-10-10)
-- [Rails Data Backfills: Small Batches, Visible Progress](https://medium.com/ruby-rails-in-practice/rails-data-backfills-small-batches-visible-progress-ee6e486863f2?source=rss------programming-5) (2026-10-10)
-- [I’m a Software Engineer With a Home Loan. What If I Lose My Job in 2026?](https://medium.com/@mobileappdeveloper.koti/im-a-software-engineer-with-a-home-loan-what-if-i-lose-my-job-in-2026-59c86b07896b?source=rss------programming-5) (2026-10-10)
-- [9 Python Libraries That Make a Solo Project Look Like It Has a Full Engineering Team](https://python.plainenglish.io/9-python-libraries-that-make-a-solo-project-look-like-it-has-a-full-engineering-team-8093b2102331?source=rss------programming-5) (2026-10-10)
+- [Two AI Agents Shared My Codebase. One Quietly Took Credit for the Other’s Work.](https://medium.com/@iprincemax72/two-ai-agents-shared-my-codebase-one-quietly-took-credit-for-the-others-work-adcfc4293621?source=rss------programming-5) (2026-10-10)
+- [Stop Feeding Messy PDFs to LLMs: The Developer’s Blueprint for Turning Any File into Clean Markdown](https://medium.com/@mdconvertorg/stop-feeding-messy-pdfs-to-llms-the-developers-blueprint-for-turning-any-file-into-clean-markdown-68903a49c601?source=rss------programming-5) (2026-10-10)
+- [Claude Code vs Codex (8 Months Later): Which One I'd Keep](https://shrix1.medium.com/claude-code-vs-codex-8-months-later-which-one-id-keep-72e80e7462dc?source=rss------programming-5) (2026-10-10)
+- [Terminal Is All You Need](https://medium.com/@Dynasty241/terminal-is-all-you-need-55974f7a0a72?source=rss------programming-5) (2026-10-10)
+- [Your scraper isn’t blocked by “the site”, it’s blocked by a layer. Here’s how to find which one.](https://medium.com/@rahmounidev/your-scraper-isnt-blocked-by-the-site-it-s-blocked-by-a-layer-here-s-how-to-find-which-one-fe8f478096a2?source=rss------programming-5) (2026-10-10)
 
 </details>
 
