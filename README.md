@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/) (2026-10-10)
+- [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) (2026-10-10)
+- [Here are the top AI agents that can live in your text messages ](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-10)
 - [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/) (2026-10-10)
 - [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) (2026-10-10)
-- [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/) (2026-10-09)
-- [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) (2026-10-09)
-- [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) (2026-10-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) (2026-10-10)
-- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) (2026-10-10)
-- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions) (2026-10-10)
-- [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html) (2026-10-10)
-- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) (2026-10-10)
+- [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) (2026-10-10)
+- [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd) (2026-10-10)
+- [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical) (2026-10-10)
+- [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis) (2026-10-10)
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) (2026-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck) (2026-10-10)
-- [The director of Fjord takes the &#8216;risky position&#8217; of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview) (2026-10-10)
-- [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too) (2026-10-10)
-- [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback) (2026-10-09)
-- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) (2026-10-09)
+- [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts) (2026-10-10)
+- [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) (2026-10-10)
+- [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) (2026-10-10)
+- [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure) (2026-10-10)
+- [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review) (2026-10-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) (2026-10-10)
 - [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
 - [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) (2026-10-09)
 - [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/) (2026-10-09)
 - [NASA issues long-awaited call to industry for private space stations](https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/) (2026-10-09)
-- [What's been driving Hawaii's lava fountains?](https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/) (2026-10-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Balancing Security and Productivity: Strategies to Safeguard Company Data from Unauthorized AI Access](https://dev.to/kserude/balancing-security-and-productivity-strategies-to-safeguard-company-data-from-unauthorized-ai-55dm) (2026-10-10)
-- [Defensive cybersecurity skills (Blue team)](https://dev.to/fatehmohamed14/defensive-cybersecurity-skills-blue-team-1741) (2026-10-10)
-- [I built an open-source Trello where a custom Pi agent harness does the cards](https://dev.to/ancs21/i-built-an-open-source-trello-where-a-custom-pi-agent-harness-does-the-cards-a16) (2026-10-10)
-- [Send Custom Notifications in Salesforce Using Flow: A No-Code Guide](https://dev.to/rohanmehta/send-custom-notifications-in-salesforce-using-flow-a-no-code-guide-1547) (2026-10-10)
-- [Touch Grassss](https://dev.to/aditya_narayan_7a94f8bd1c/touch-grassss-50o3) (2026-10-10)
+- [I Gave a Local AI One Job: Get Me Off the Screen 🌿](https://dev.to/dinukaek/i-gave-a-local-ai-one-job-get-me-off-the-screen-4i5h) (2026-10-10)
+- [How I Build AI Receptionists for Small Businesses](https://dev.to/techmitten2/how-i-build-ai-receptionists-for-small-businesses-3nak) (2026-10-10)
+- [5 Whys: How to Find the Root Cause Instead of the First Explanation](https://dev.to/said_olano/5-whys-how-to-find-the-root-cause-instead-of-the-first-explanation-2oo8) (2026-10-10)
+- [TypeScript Fundamentals, Part 1: Describing Your Data](https://dev.to/grantdotdev/typescript-fundamentals-part-1-describing-your-data-2ncc) (2026-10-10)
+- [An inventory plugin that never lies: transactional add, equip and use in a vanilla JS 2D engine](https://dev.to/antonioprosperi2svg/an-inventory-plugin-that-never-lies-transactional-add-equip-and-use-in-a-vanilla-js-2d-engine-3cpm) (2026-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Qwen3.8 Flash-Next Asks Coding-Tool Makers for a License](https://ai.plainenglish.io/qwen3-8-flash-next-asks-coding-tool-makers-for-a-license-01dabd983478?source=rss------programming-5) (2026-10-10)
-- [Developing Ethereum Contracts with Hardhat](https://hashtagweb3.medium.com/developing-ethereum-contracts-with-hardhat-e938d5a91e66?source=rss------programming-5) (2026-10-10)
-- [Transactional Outbox Pattern for Reliable Event Delivery](https://medium.com/@yashvi.hiteshpatel2712/transactional-outbox-pattern-for-reliable-event-delivery-29478171b2c1?source=rss------programming-5) (2026-10-10)
-- [Your AI Coding Agent Is Guessing. Here’s the Setup That Stops It](https://ai.plainenglish.io/your-ai-coding-agent-is-guessing-heres-the-setup-that-stops-it-22b2b047d341?source=rss------programming-5) (2026-10-10)
-- [7 Cybersecurity Skills Developers Need in the Age of AI](https://ai.plainenglish.io/7-cybersecurity-skills-developers-need-in-the-age-of-ai-a916f024a4b9?source=rss------programming-5) (2026-10-10)
+- [Cloudflare Acquires Deno to Improve Its Workers Programming Model](https://medium.com/@christy.cs07/cloudflare-acquires-deno-to-improve-its-workers-programming-model-d788f1511acf?source=rss------programming-5) (2026-10-10)
+- [You’re preparing for a world that is dying.](https://medium.com/@bernardoolisan/youre-preparing-for-a-world-that-is-dying-53b6e0aca973?source=rss------programming-5) (2026-10-10)
+- [Rails Data Backfills: Small Batches, Visible Progress](https://medium.com/ruby-rails-in-practice/rails-data-backfills-small-batches-visible-progress-ee6e486863f2?source=rss------programming-5) (2026-10-10)
+- [I’m a Software Engineer With a Home Loan. What If I Lose My Job in 2026?](https://medium.com/@mobileappdeveloper.koti/im-a-software-engineer-with-a-home-loan-what-if-i-lose-my-job-in-2026-59c86b07896b?source=rss------programming-5) (2026-10-10)
+- [9 Python Libraries That Make a Solo Project Look Like It Has a Full Engineering Team](https://python.plainenglish.io/9-python-libraries-that-make-a-solo-project-look-like-it-has-a-full-engineering-team-8093b2102331?source=rss------programming-5) (2026-10-10)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
-- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Can AI Agents Read Untrusted Sources Safely?](https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/) (2026-10-10)
+- [Why Temperature 0 Isn't Deterministic](https://towardsdatascience.com/why-temperature-0-isnt-deterministic/) (2026-10-10)
 - [Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?](https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/) (2026-10-09)
 - [Where Does the Money Go Across Long-Running Coding Agents?](https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/) (2026-10-09)
 - [Build Your First AI Agent with One Tool Call](https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/) (2026-10-09)
-- [Stop Using AI. Start Hiring It.](https://towardsdatascience.com/stop-using-ai-start-hiring-it/) (2026-10-09)
-- [Everyone Is Selling AI at You — Here’s How to Keep Your Judgement](https://towardsdatascience.com/everyone-is-selling-ai-at-you-heres-how-to-keep-your-judgement/) (2026-10-08)
 
 </details>
 
