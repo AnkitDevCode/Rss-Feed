@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) (2026-10-10)
-- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) (2026-10-10)
-- [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/) (2026-10-10)
-- [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/) (2026-10-10)
-- [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) (2026-10-10)
+- [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) (2026-10-11)
+- [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/) (2026-10-11)
+- [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) (2026-10-11)
+- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-11)
+- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) (2026-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo) (2026-10-11)
-- [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net) (2026-10-11)
-- ["Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/) (2026-10-11)
-- [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d) (2026-10-11)
-- [IRCv3](https://ircv3.net/) (2026-10-11)
+- [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046) (2026-10-11)
+- [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline) (2026-10-11)
+- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/) (2026-10-11)
+- [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78) (2026-10-11)
+- [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt) (2026-10-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) (2026-10-11)
-- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) (2026-10-10)
-- [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) (2026-10-10)
-- [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts) (2026-10-10)
-- [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) (2026-10-10)
+- [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras) (2026-10-11)
+- [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) (2026-10-11)
+- [The new Apple TV could have a built-in mic and a remote with a speaker](https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker) (2026-10-11)
+- [NASA dumped over 800GB of Artemis II data online](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data) (2026-10-11)
+- [George A. Romero’s Season of the Witch is a slow-burn feminist occult drama](https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review) (2026-10-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Prime Video unveils Blade Runner 2099 full trailer at NYCC](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/) (2026-10-11)
 - [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) (2026-10-10)
 - [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
 - [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) (2026-10-09)
 - [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/) (2026-10-09)
-- [NASA issues long-awaited call to industry for private space stations](https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/) (2026-10-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [FieldQuest: The Local-First Outdoor Adventure Companion](https://dev.to/mohammedabidali_1453/fieldquest-the-local-first-outdoor-adventure-companion-1ab7) (2026-10-11)
-- [Inside Batuta AI: Autonomous Server Debugging with ReAct Loop](https://dev.to/orquesta_live/inside-batuta-ai-autonomous-server-debugging-with-react-loop-4j78) (2026-10-11)
-- [Introducing react-email-craft: A Drop-in Visual Email Template Builder for React](https://dev.to/mailkaro/introducing-react-email-craft-a-drop-in-visual-email-template-builder-for-react-15li) (2026-10-11)
-- [Cilium 2026: eBPF-based Networking as the New Kubernetes Standard](https://dev.to/saaro_net/cilium-2026-ebpf-based-networking-as-the-new-kubernetes-standard-13o7) (2026-10-11)
-- [Will an AI Agent Cheat to Survive? I Built a Benchmark to Find Out](https://dev.to/ramacharya06/will-an-ai-agent-cheat-to-survive-i-built-a-benchmark-to-find-out-10c1) (2026-10-11)
+- [Chalo Nana: a local AI that sends my grandfather to people, not just steps](https://dev.to/rahullkumr/chalo-nana-a-local-ai-that-sends-my-grandfather-to-people-not-just-steps-35pc) (2026-10-11)
+- [I spent years quietly making flat games playable in VR. AI just handed that power to everyone.](https://dev.to/archangelsupafly/i-spent-years-quietly-making-flat-games-playable-in-vr-ai-just-handed-that-power-to-everyone-54ig) (2026-10-11)
+- [Attention Archaeologist: An AI That Gets You Off Your Phone](https://dev.to/advit_saini/attention-archaeologist-an-ai-that-gets-you-off-your-phone-2c42) (2026-10-11)
+- [Ten Mercado Libre Results, Four Kinds of Link — and Only Two Carry the Product ID](https://dev.to/nikita_iakovlev_415524c19/ten-mercado-libre-results-four-kinds-of-link-and-only-two-carry-the-product-id-2g7f) (2026-10-11)
+- [Retry Wrote Twice. Store commit_state Before the Next Attempt.](https://dev.to/apprs_6334/retry-wrote-twice-store-commitstate-before-the-next-attempt-3o5h) (2026-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Is a Server, Really?](https://medium.com/@ayoseed/what-is-a-server-really-e09b24f6935e?source=rss------programming-5) (2026-10-11)
-- [Python input() Function: Let's Make Python Listen! ](https://medium.com/@palaganisai99/python-input-function-lets-make-python-listen-1c5f68be20ba?source=rss------programming-5) (2026-10-11)
-- [PHP 8.5: Pipes, Clean URLs and Fewer Footguns](https://patrickwanchinyeep.medium.com/php-8-5-pipes-clean-urls-and-fewer-footguns-91e3b8bd9851?source=rss------programming-5) (2026-10-11)
-- [The Illusion of Economic Stability](https://medium.com/@BondStats/the-illusion-of-economic-stability-9141b3170619?source=rss------programming-5) (2026-10-11)
-- [How Sharding Improves Blockchain Scalability](https://hashtagweb3.medium.com/how-sharding-improves-blockchain-scalability-84736915bdf9?source=rss------programming-5) (2026-10-11)
+- [Here’s why you should be using LinkedIn](https://medium.com/@yaps.gg/heres-why-you-should-be-using-linkedin-1562a049d327?source=rss------programming-5) (2026-10-11)
+- [The "Prompt-Typer" vs. The Systems Thinker: How to Stay Indispensable When AI Writes the Code](https://medium.com/codetodeploy/the-prompt-typer-vs-the-systems-thinker-how-to-stay-indispensable-when-ai-writes-the-code-fbc7eecabccb?source=rss------programming-5) (2026-10-11)
+- [AWS Cloud Computing (Part-02): Compute Services](https://medium.com/codetodeploy/aws-cloud-computing-part-02-compute-services-39ff18f2f682?source=rss------programming-5) (2026-10-11)
+- [Running Four Claude Code Sessions at Once Is the Advice. My Logs Did It for 14 Minutes.](https://medium.com/codetodeploy/running-four-claude-code-sessions-at-once-is-the-advice-my-logs-did-it-for-14-minutes-dae672e0f6e8?source=rss------programming-5) (2026-10-11)
+- [The 2026 Agent Engineer Roadmap: 6 Modules, 5 Real Repos](https://medium.com/@coolercoder/the-2026-agent-engineer-roadmap-6-modules-5-real-repos-5b44e060d380?source=rss------programming-5) (2026-10-11)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
+- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Practical Guide to OpenAI's New Decisions API](https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/) (2026-10-11)
 - [Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-10-11)
 - [How Can AI Agents Read Untrusted Sources Safely?](https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/) (2026-10-10)
 - [Why Temperature 0 Isn't Deterministic](https://towardsdatascience.com/why-temperature-0-isnt-deterministic/) (2026-10-10)
 - [Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?](https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/) (2026-10-09)
-- [Where Does the Money Go Across Long-Running Coding Agents?](https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/) (2026-10-09)
 
 </details>
 
@@ -639,17 +639,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
-- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
-- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
