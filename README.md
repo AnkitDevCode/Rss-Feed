@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) (2026-10-10)
 - [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) (2026-10-10)
 - [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/) (2026-10-10)
 - [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/) (2026-10-10)
 - [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/) (2026-10-10)
-- [Here are the top AI agents that can live in your text messages ](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/) (2026-10-10)
-- [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle) (2026-10-10)
-- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a) (2026-10-10)
-- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/) (2026-10-10)
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) (2026-10-10)
+- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) (2026-10-11)
+- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) (2026-10-11)
+- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) (2026-10-11)
+- [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda) (2026-10-11)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) (2026-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) (2026-10-10)
 - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) (2026-10-10)
 - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts) (2026-10-10)
 - [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) (2026-10-10)
 - [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) (2026-10-10)
-- [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure) (2026-10-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Sit Spot: Listen First, Then Check 🌿](https://dev.to/tushaar05/sit-spot-listen-first-then-check-3h57) (2026-10-10)
-- [The Great Firewall of AI: China Locks Down Its Models](https://dev.to/ayraix/the-great-firewall-of-ai-china-locks-down-its-models-519c) (2026-10-10)
-- [Edtech Compliance Delivery Debugging for Bounced Recipient Password Reset Email Retries](https://dev.to/hieronymusfox1257/edtech-compliance-delivery-debugging-for-bounced-recipient-password-reset-email-retries-koc) (2026-10-10)
-- [Rejecting unsupported MCP versions left an AI client unable to connect](https://dev.to/matsumotory/rejecting-unsupported-mcp-versions-left-an-ai-client-unable-to-connect-3jhh) (2026-10-10)
-- [A failure that looked like a capability gap between coding agents was caused by how the API key was passed](https://dev.to/matsumotory/a-failure-that-looked-like-a-capability-gap-between-coding-agents-was-caused-by-how-the-api-key-was-4m34) (2026-10-10)
+- [อยากเข้าใจว่า LLM ทำงานยังไงจริง ๆ? คอร์ส Stanford ที่เปิดฟรี อาจเป็นจุดเริ่มที่ดีที่สุด](https://dev.to/sarantoon/yaakekhaaaicchwaa-llm-thamngaanyangaingcchring-khrs-stanford-thiiepidfrii-aacchepncchuderimthiidiithiisud-1f36) (2026-10-11)
+- [The car wash that comes to the car](https://dev.to/rakno/the-car-wash-that-comes-to-the-car-1dl9) (2026-10-11)
+- [pklm-sandbox: Deterministic Token Masking for Offline Edge AI](https://dev.to/theimmortalpython/pklm-sandbox-deterministic-token-masking-for-offline-edge-ai-1bom) (2026-10-11)
+- [Marketplace 2FA: Polling SMS OTP Delivery Status Without Webhooks](https://dev.to/mitchellcross2134/marketplace-2fa-polling-sms-otp-delivery-status-without-webhooks-c92) (2026-10-11)
+- [Why I Look at Crypto Dashboards Like a Developer](https://dev.to/archigrant90/why-i-look-at-crypto-dashboards-like-a-developer-2180) (2026-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Two AI Agents Shared My Codebase. One Quietly Took Credit for the Other’s Work.](https://medium.com/@iprincemax72/two-ai-agents-shared-my-codebase-one-quietly-took-credit-for-the-others-work-adcfc4293621?source=rss------programming-5) (2026-10-10)
-- [Stop Feeding Messy PDFs to LLMs: The Developer’s Blueprint for Turning Any File into Clean Markdown](https://medium.com/@mdconvertorg/stop-feeding-messy-pdfs-to-llms-the-developers-blueprint-for-turning-any-file-into-clean-markdown-68903a49c601?source=rss------programming-5) (2026-10-10)
-- [Claude Code vs Codex (8 Months Later): Which One I'd Keep](https://shrix1.medium.com/claude-code-vs-codex-8-months-later-which-one-id-keep-72e80e7462dc?source=rss------programming-5) (2026-10-10)
-- [Terminal Is All You Need](https://medium.com/@Dynasty241/terminal-is-all-you-need-55974f7a0a72?source=rss------programming-5) (2026-10-10)
-- [Your scraper isn’t blocked by “the site”, it’s blocked by a layer. Here’s how to find which one.](https://medium.com/@rahmounidev/your-scraper-isnt-blocked-by-the-site-it-s-blocked-by-a-layer-here-s-how-to-find-which-one-fe8f478096a2?source=rss------programming-5) (2026-10-10)
+- [ Partial Class 是什麼](https://medium.com/@mindsteps.alex/partial-class-%E6%98%AF%E4%BB%80%E9%BA%BC-f5bea71c5b41?source=rss------programming-5) (2026-10-11)
+- [Rust’s Best Use Case Isn’t What You Think. It’s Building Agents ](https://medium.com/solo-devs/rusts-best-use-case-isn-t-what-you-think-it-s-building-agents-8b2d775fe174?source=rss------programming-5) (2026-10-11)
+- [SOLID Isn’t Theory: The Single Responsibility Principle](https://nadeeshaangunasinghe.medium.com/solid-isnt-theory-the-single-responsibility-principle-02c54b58c3b3?source=rss------programming-5) (2026-10-11)
+- [AI Agent Scalability: Handling More Users Without Losing Reliability](https://medium.com/@scosmexs/ai-agent-scalability-handling-more-users-without-losing-reliability-81c2cfb387a9?source=rss------programming-5) (2026-10-11)
+- [Understanding pip and Python Package Management](https://medium.com/@aaryan25comp/understanding-pip-and-python-package-management-c6a0f62a000d?source=rss------programming-5) (2026-10-11)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
+- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
