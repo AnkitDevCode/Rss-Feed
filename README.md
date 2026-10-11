@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) (2026-10-11)
-- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) (2026-10-11)
-- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) (2026-10-11)
-- [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda) (2026-10-11)
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) (2026-10-10)
+- [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo) (2026-10-11)
+- [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net) (2026-10-11)
+- ["Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/) (2026-10-11)
+- [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d) (2026-10-11)
+- [IRCv3](https://ircv3.net/) (2026-10-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) (2026-10-11)
 - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) (2026-10-10)
 - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) (2026-10-10)
 - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts) (2026-10-10)
 - [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) (2026-10-10)
-- [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) (2026-10-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [อยากเข้าใจว่า LLM ทำงานยังไงจริง ๆ? คอร์ส Stanford ที่เปิดฟรี อาจเป็นจุดเริ่มที่ดีที่สุด](https://dev.to/sarantoon/yaakekhaaaicchwaa-llm-thamngaanyangaingcchring-khrs-stanford-thiiepidfrii-aacchepncchuderimthiidiithiisud-1f36) (2026-10-11)
-- [The car wash that comes to the car](https://dev.to/rakno/the-car-wash-that-comes-to-the-car-1dl9) (2026-10-11)
-- [pklm-sandbox: Deterministic Token Masking for Offline Edge AI](https://dev.to/theimmortalpython/pklm-sandbox-deterministic-token-masking-for-offline-edge-ai-1bom) (2026-10-11)
-- [Marketplace 2FA: Polling SMS OTP Delivery Status Without Webhooks](https://dev.to/mitchellcross2134/marketplace-2fa-polling-sms-otp-delivery-status-without-webhooks-c92) (2026-10-11)
-- [Why I Look at Crypto Dashboards Like a Developer](https://dev.to/archigrant90/why-i-look-at-crypto-dashboards-like-a-developer-2180) (2026-10-11)
+- [FieldQuest: The Local-First Outdoor Adventure Companion](https://dev.to/mohammedabidali_1453/fieldquest-the-local-first-outdoor-adventure-companion-1ab7) (2026-10-11)
+- [Inside Batuta AI: Autonomous Server Debugging with ReAct Loop](https://dev.to/orquesta_live/inside-batuta-ai-autonomous-server-debugging-with-react-loop-4j78) (2026-10-11)
+- [Introducing react-email-craft: A Drop-in Visual Email Template Builder for React](https://dev.to/mailkaro/introducing-react-email-craft-a-drop-in-visual-email-template-builder-for-react-15li) (2026-10-11)
+- [Cilium 2026: eBPF-based Networking as the New Kubernetes Standard](https://dev.to/saaro_net/cilium-2026-ebpf-based-networking-as-the-new-kubernetes-standard-13o7) (2026-10-11)
+- [Will an AI Agent Cheat to Survive? I Built a Benchmark to Find Out](https://dev.to/ramacharya06/will-an-ai-agent-cheat-to-survive-i-built-a-benchmark-to-find-out-10c1) (2026-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Partial Class 是什麼](https://medium.com/@mindsteps.alex/partial-class-%E6%98%AF%E4%BB%80%E9%BA%BC-f5bea71c5b41?source=rss------programming-5) (2026-10-11)
-- [Rust’s Best Use Case Isn’t What You Think. It’s Building Agents ](https://medium.com/solo-devs/rusts-best-use-case-isn-t-what-you-think-it-s-building-agents-8b2d775fe174?source=rss------programming-5) (2026-10-11)
-- [SOLID Isn’t Theory: The Single Responsibility Principle](https://nadeeshaangunasinghe.medium.com/solid-isnt-theory-the-single-responsibility-principle-02c54b58c3b3?source=rss------programming-5) (2026-10-11)
-- [AI Agent Scalability: Handling More Users Without Losing Reliability](https://medium.com/@scosmexs/ai-agent-scalability-handling-more-users-without-losing-reliability-81c2cfb387a9?source=rss------programming-5) (2026-10-11)
-- [Understanding pip and Python Package Management](https://medium.com/@aaryan25comp/understanding-pip-and-python-package-management-c6a0f62a000d?source=rss------programming-5) (2026-10-11)
+- [What Is a Server, Really?](https://medium.com/@ayoseed/what-is-a-server-really-e09b24f6935e?source=rss------programming-5) (2026-10-11)
+- [Python input() Function: Let's Make Python Listen! ](https://medium.com/@palaganisai99/python-input-function-lets-make-python-listen-1c5f68be20ba?source=rss------programming-5) (2026-10-11)
+- [PHP 8.5: Pipes, Clean URLs and Fewer Footguns](https://patrickwanchinyeep.medium.com/php-8-5-pipes-clean-urls-and-fewer-footguns-91e3b8bd9851?source=rss------programming-5) (2026-10-11)
+- [The Illusion of Economic Stability](https://medium.com/@BondStats/the-illusion-of-economic-stability-9141b3170619?source=rss------programming-5) (2026-10-11)
+- [How Sharding Improves Blockchain Scalability](https://hashtagweb3.medium.com/how-sharding-improves-blockchain-scalability-84736915bdf9?source=rss------programming-5) (2026-10-11)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
-- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-10-11)
 - [How Can AI Agents Read Untrusted Sources Safely?](https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/) (2026-10-10)
 - [Why Temperature 0 Isn't Deterministic](https://towardsdatascience.com/why-temperature-0-isnt-deterministic/) (2026-10-10)
 - [Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?](https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/) (2026-10-09)
 - [Where Does the Money Go Across Long-Running Coding Agents?](https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/) (2026-10-09)
-- [Build Your First AI Agent with One Tool Call](https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/) (2026-10-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents ](https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/) (2026-10-11)
 - [EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space ](https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/) (2026-10-09)
 - [Nano Banana 2.1 Review](https://www.analyticsvidhya.com/blog/2026/10/nano-banana-2-1-review/) (2026-10-08)
 - [10 Jev Projects on GitHub You Should Check Out](https://www.analyticsvidhya.com/blog/2026/10/jev-projects-on-github/) (2026-10-07)
 - [JEV vs LLM as a Judge: The AI Evaluation Comparison](https://www.analyticsvidhya.com/blog/2026/10/jev-vs-llm-as-a-judge-evals/) (2026-10-06)
-- [Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code](https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/) (2026-10-05)
 
 </details>
 
@@ -639,6 +639,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
