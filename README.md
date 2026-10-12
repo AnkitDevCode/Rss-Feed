@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Smart ring maker Ultrahuman to roll out biological-age model across UAE](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/) (2026-10-12)
+- [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/) (2026-10-12)
+- [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) (2026-10-12)
 - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-12)
 - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) (2026-10-11)
-- [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/) (2026-10-11)
-- [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) (2026-10-11)
-- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory) (2026-10-12)
-- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/) (2026-10-12)
-- [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary) (2026-10-12)
-- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) (2026-10-11)
-- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/) (2026-10-11)
+- [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx) (2026-10-12)
+- [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo) (2026-10-12)
+- [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) (2026-10-12)
+- [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) (2026-10-12)
+- [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467) (2026-10-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras) (2026-10-11)
-- [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) (2026-10-11)
-- [The new Apple TV could have a built-in mic and a remote with a speaker](https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker) (2026-10-11)
-- [NASA dumped over 800GB of Artemis II data online](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data) (2026-10-11)
-- [George A. Romero’s Season of the Witch is a slow-burn feminist occult drama](https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review) (2026-10-11)
+- [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing) (2026-10-12)
+- [No Man’s Sky is coming to the iPhone and iPad](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date) (2026-10-12)
+- [The OnePlus 16 is the company’s most interesting phone in years](https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china) (2026-10-12)
+- [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize) (2026-10-12)
+- [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker) (2026-10-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/) (2026-10-12)
 - [Review: 4-hour Musk documentary feels like two different films](https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/) (2026-10-11)
 - [Prime Video unveils Blade Runner 2099 full trailer at NYCC](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/) (2026-10-11)
 - [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) (2026-10-10)
 - [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
-- [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) (2026-10-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: moon city problems and drone traffic controllers](https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/) (2026-10-12)
+- [Mars may be a hellhole, but the moon is not far behind](https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/) (2026-10-12)
+- [The ecologist revealing the invisible networks that revive rainforests](https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/) (2026-10-12)
 - [The Download: AI’s refusal problem and weight-loss drug side effects](https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/) (2026-10-09)
 - [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/) (2026-10-09)
-- [Job titles of the future: Delivery drone air traffic controller](https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/) (2026-10-09)
-- [We’re still figuring out the side effects of GLP-1 weight-loss drugs](https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/) (2026-10-09)
-- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) (2026-10-09)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/) (2026-10-12)
 - [A Treatise on Model Oriented Programming Languages](https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/) (2026-10-09)
 - [Taking a look under your agent’s hood](https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/) (2026-10-09)
 - [Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/) (2026-10-08)
 - [Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath](https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/) (2026-10-08)
-- [A green exit code is not evidence that the work happened](https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/) (2026-10-08)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CuriousLenz: Explore the World Around You with AI 🌿](https://dev.to/raghavi_t/curiouslenz-explore-the-world-around-you-with-ai-56ma) (2026-10-12)
-- [iOS Keeps Observing a Dead Kotlin Flow — the CommonFlow Leak Hiding in Your KMP Bridge](https://dev.to/yadnyesh_rana/ios-keeps-observing-a-dead-kotlin-flow-the-commonflow-leak-hiding-in-your-kmp-bridge-206o) (2026-10-12)
-- [Touch Grass Quest: a scavenger hunt game powered by on-device AI](https://dev.to/albertbenedict/touch-grass-quest-a-scavenger-hunt-game-powered-by-on-device-ai-4mj7) (2026-10-12)
-- [What If the Sounds of Our Childhood Could Bring Us Back Outside?](https://dev.to/saras_growth_space/what-if-the-sounds-of-our-childhood-could-bring-us-back-outside-1756) (2026-10-12)
-- [How PDF Merging Actually Works Under the Hood (And Why Most Implementations Mess It Up)](https://dev.to/elias_miller/how-pdf-merging-actually-works-under-the-hood-and-why-most-implementations-mess-it-up-207n) (2026-10-12)
+- [Getting Started with MLOps: ML models and Amazon Sagemaker](https://dev.to/rasi321/getting-started-with-mlops-ml-models-and-amazon-sagemaker-5ejo) (2026-10-12)
+- [Why Passkeys Break in Production: WebAuthn AuthData, CBOR, and the signCount Trap](https://dev.to/dev_in_the_fog/why-passkeys-break-in-production-webauthn-authdata-cbor-and-the-signcount-trap-1f31) (2026-10-12)
+- [Our agent's self-description failed its own verification. That's the point.](https://dev.to/openamer/our-agents-self-description-failed-its-own-verification-thats-the-point-2m7f) (2026-10-12)
+- [Linkerd vs Istio: Choosing the Right Service Mesh](https://dev.to/hugovalters/linkerd-vs-istio-choosing-the-right-service-mesh-4db1) (2026-10-12)
+- [Anyone can ship a ModHeader replacement with AI now. That's the scary part.](https://dev.to/wirelet_8f16afaebc94ded06/anyone-can-ship-a-modheader-replacement-with-ai-now-thats-the-scary-part-202d) (2026-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Meetings Are Killing Developer Productivity — The Hidden Cost of Context Switching](https://medium.com/@shemeenasrawther/meetings-are-killing-developer-productivity-the-hidden-cost-of-context-switching-1c881ff7bd1f?source=rss------programming-5) (2026-10-12)
-- [Why Your Side Project Gets No Clicks: The URL Trust Problem](https://codeminer.medium.com/why-your-side-project-gets-no-clicks-the-url-trust-problem-3e1b8b48d1db?source=rss------programming-5) (2026-10-12)
-- [Hard Truth: Watching 100 Hours of Tutorials Won’t Make You a Data Engineer!](https://medium.com/@shenoy.shashwath/hard-truth-watching-100-hours-of-tutorials-wont-make-you-a-data-engineer-44c2f8fa2303?source=rss------programming-5) (2026-10-12)
-- [BEFORE YOU CHANGE THE CODE, UNDERSTAND IT](https://medium.com/@myasiransari16/before-you-change-the-code-understand-it-1916661c8354?source=rss------programming-5) (2026-10-12)
-- [Jev Isn’t Another Chatbot: A Plain-English Guide to the “Decisions Model”](https://medium.com/@naro7217/jev-isnt-another-chatbot-a-plain-english-guide-to-the-decisions-model-b3a22a9911e8?source=rss------programming-5) (2026-10-12)
+- [Cost-Based Optimizer (CBO) in Oracle | Best of mrcaption49](https://medium.com/@pranavsb699/cost-based-optimizer-cbo-in-oracle-best-of-mrcaption49-88d7d66b268b?source=rss------programming-5) (2026-10-12)
+- [Belajar Instalasi Python dan Membuat Program Sederhana](https://medium.com/@akmal.22615003/belajar-instalasi-python-dan-membuat-program-sederhana-323b195ea11c?source=rss------programming-5) (2026-10-12)
+- [Mellum2.1: A Coding Model Needs Practice Inside a Repository](https://milind-divre.medium.com/mellum2-1-a-coding-model-needs-practice-inside-a-repository-d05570b94dbb?source=rss------programming-5) (2026-10-12)
+- [How to Set Hard Spending Limits So an AI Agent Can’t Run Up Your Bill](https://medium.com/@aleksandardobrohotov/how-to-set-hard-spending-limits-so-an-ai-agent-cant-run-up-your-bill-0c177604cc71?source=rss------programming-5) (2026-10-12)
+- [Google Shrank Its Embeddings to Fit a Phone. A Day Later, Perplexity Gave Every Token Its Own.](https://pub.towardsai.net/google-shrank-its-embeddings-to-fit-a-phone-a-day-later-perplexity-gave-every-token-its-own-f7c2b55bf85f?source=rss------programming-5) (2026-10-12)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Build Your Game Challenge: Join in and Compete for Prizes](https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/) (2026-10-12)
 - [UI freeze reports are now available in JetBrains Marketplace](https://blog.jetbrains.com/platform/2026/10/ui-freeze-reports-in-marketplace/) (2026-10-09)
 - [Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents](https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/) (2026-10-08)
 - [Code Quality Never Changes – Or Is AI Challenging This Notion?](https://blog.jetbrains.com/qodana/2026/10/code-quality-never-changes-or-is-ai-challenging-this-notion/) (2026-10-08)
 - [New Report: The State of CI/CD in 2026](https://blog.jetbrains.com/teamcity/2026/10/state-of-cicd-2026-report/) (2026-10-08)
-- [Introducing Warm Agents, a TeamCity Plugin](https://blog.jetbrains.com/teamcity/2026/10/teamcity-warm-agents-plugin/) (2026-10-07)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Critical Patch Release: 19.4.2, 19.3.4, 19.2.8](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/) (2026-10-12)
 - [Track organization-wide security risk in one dashboard](https://about.gitlab.com/blog/security-risk-in-one-dashboard/) (2026-10-08)
 - [GitLab Transcend: Speed you can trust, all the way to production](https://about.gitlab.com/blog/transcend-india-announcements/) (2026-10-06)
 - [Dependency Firewall: Block risky packages before the build](https://about.gitlab.com/blog/transcend-dependency-firewall/) (2026-10-06)
 - [Every artifact your teams ship, assembled right the first time](https://about.gitlab.com/blog/transcend-artifact-central/) (2026-10-06)
-- [Two front doors: Module-level access in a Django GRC app](https://about.gitlab.com/blog/module-level-access-in-a-django-grc-app/) (2026-10-05)
 
 </details>
 
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>⚡ Supabase Blog</summary>
 
+- [Getting started with the Supabase .NET SDK](https://supabase.com/blog/getting-started-with-the-supabase-dotnet-sdk) (2026-10-26)
+- [Introducing the unified Supabase .NET SDK](https://supabase.com/blog/introducing-the-unified-supabase-net-sdk) (2026-10-19)
 - [Supabase Select 2026 Recap](https://supabase.com/blog/supabase-select-2026-recap) (2026-10-02)
 - [Scale without limits: Multigres, OrioleDB, and dbarena](https://supabase.com/blog/select-2026-scale-without-limits) (2026-10-02)
 - [Operate with confidence](https://supabase.com/blog/select-2026-operate-with-confidence) (2026-10-02)
-- [Build anything: Supabase from code, and an MCP server for your app](https://supabase.com/blog/select-2026-build-anything) (2026-10-02)
-- [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso) (2026-10-02)
 
 </details>
 
@@ -459,8 +459,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <summary>🔷 Prisma Blog</summary>
 
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
-- [App hosting platforms with managed Postgres compared (2026)](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
-- [Hosting and managed Postgres for 100 paying users (2026)](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
+- [App hosting platforms with managed Postgres compared (2026): Node.js on Prisma Compute, Railway, Render, Fly.io, Vercel](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
+- [Hosting and managed Postgres options for a startup's first 100 paying users (2026)](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
 - [Neon alternatives with app hosting and Postgres in one place (2026): Prisma, Railway, Render, Supabase](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
 - [How to use Prisma ORM 8 in NestJS: setup, queries, deploy](https://www.prisma.io/blog/prisma-orm-8-nestjs) (2026-09-24)
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 - [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
-- [What Is Lean Methodology?](https://slack.com/blog/productivity/lean-methodology) (2026-09-28)
 
 </details>
 
@@ -590,44 +590,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [We Specified an AI Agent in 2016. We Called It Analytics.](https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/) (2026-10-12)
+- [I Built a Trap for AI Image Judges. They Walked Into a Different One.](https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/) (2026-10-12)
 - [A Practical Guide to OpenAI's New Decisions API](https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/) (2026-10-11)
 - [Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-10-11)
 - [How Can AI Agents Read Untrusted Sources Safely?](https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/) (2026-10-10)
-- [Why Temperature 0 Isn't Deterministic](https://towardsdatascience.com/why-temperature-0-isnt-deterministic/) (2026-10-10)
-- [Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?](https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/) (2026-10-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
 - [How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents ](https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/) (2026-10-11)
-- [EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space ](https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/) (2026-10-09)
+- [EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space](https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/) (2026-10-09)
 - [Nano Banana 2.1 Review](https://www.analyticsvidhya.com/blog/2026/10/nano-banana-2-1-review/) (2026-10-08)
 - [10 Jev Projects on GitHub You Should Check Out](https://www.analyticsvidhya.com/blog/2026/10/jev-projects-on-github/) (2026-10-07)
-- [JEV vs LLM as a Judge: The AI Evaluation Comparison](https://www.analyticsvidhya.com/blog/2026/10/jev-vs-llm-as-a-judge-evals/) (2026-10-06)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found](https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found) (2026-10-12)
+- [10 Hugging Face Models Worth Knowing in 2026](https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026) (2026-10-12)
 - [Build Your First MCP Server in Python (Stateless Spec Edition)](https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition) (2026-10-09)
 - [10 Free AI Tools That Replace Expensive Software for Data Scientists](https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists) (2026-10-09)
 - [Bridging Algorithmic Design and Regulatory Standards in Enterprise AI](https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai) (2026-10-08)
-- [Building AI Agents with Docker Agent](https://www.kdnuggets.com/building-ai-agents-with-docker-agent) (2026-10-08)
-- [7 Best Resources to Learn About Self-Evolving AI Agents](https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents) (2026-10-08)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More](https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/) (2026-10-12)
 - [How to Fine-Tune Llama 3 for Custom Tool Calling with Unsloth in Python](https://machinelearningmastery.com/how-to-fine-tune-llama-3-for-custom-tool-calling-with-unsloth-in-python/) (2026-10-09)
 - [Evaluating Graph-RAG vs. Standard RAG: A Hallucination Benchmark on Fact-Dense Queries](https://machinelearningmastery.com/evaluating-graph-rag-vs-standard-rag-a-hallucination-benchmark-on-fact-dense-queries/) (2026-10-08)
 - [Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/) (2026-10-07)
 - [Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production](https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/) (2026-10-06)
-- [How (and Why) to Build an AI Agent from Scratch in Python](https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/) (2026-10-05)
 
 </details>
 
