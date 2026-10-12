@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-12)
 - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) (2026-10-11)
 - [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/) (2026-10-11)
 - [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) (2026-10-11)
 - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-11)
-- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) (2026-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046) (2026-10-11)
-- [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline) (2026-10-11)
-- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/) (2026-10-11)
-- [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78) (2026-10-11)
-- [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt) (2026-10-11)
+- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory) (2026-10-12)
+- [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/) (2026-10-12)
+- [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary) (2026-10-12)
+- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) (2026-10-11)
+- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/) (2026-10-11)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Review: 4-hour Musk documentary feels like two different films](https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/) (2026-10-11)
 - [Prime Video unveils Blade Runner 2099 full trailer at NYCC](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/) (2026-10-11)
 - [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) (2026-10-10)
 - [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
 - [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) (2026-10-09)
-- [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/) (2026-10-09)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Chalo Nana: a local AI that sends my grandfather to people, not just steps](https://dev.to/rahullkumr/chalo-nana-a-local-ai-that-sends-my-grandfather-to-people-not-just-steps-35pc) (2026-10-11)
-- [I spent years quietly making flat games playable in VR. AI just handed that power to everyone.](https://dev.to/archangelsupafly/i-spent-years-quietly-making-flat-games-playable-in-vr-ai-just-handed-that-power-to-everyone-54ig) (2026-10-11)
-- [Attention Archaeologist: An AI That Gets You Off Your Phone](https://dev.to/advit_saini/attention-archaeologist-an-ai-that-gets-you-off-your-phone-2c42) (2026-10-11)
-- [Ten Mercado Libre Results, Four Kinds of Link — and Only Two Carry the Product ID](https://dev.to/nikita_iakovlev_415524c19/ten-mercado-libre-results-four-kinds-of-link-and-only-two-carry-the-product-id-2g7f) (2026-10-11)
-- [Retry Wrote Twice. Store commit_state Before the Next Attempt.](https://dev.to/apprs_6334/retry-wrote-twice-store-commitstate-before-the-next-attempt-3o5h) (2026-10-11)
+- [CuriousLenz: Explore the World Around You with AI 🌿](https://dev.to/raghavi_t/curiouslenz-explore-the-world-around-you-with-ai-56ma) (2026-10-12)
+- [iOS Keeps Observing a Dead Kotlin Flow — the CommonFlow Leak Hiding in Your KMP Bridge](https://dev.to/yadnyesh_rana/ios-keeps-observing-a-dead-kotlin-flow-the-commonflow-leak-hiding-in-your-kmp-bridge-206o) (2026-10-12)
+- [Touch Grass Quest: a scavenger hunt game powered by on-device AI](https://dev.to/albertbenedict/touch-grass-quest-a-scavenger-hunt-game-powered-by-on-device-ai-4mj7) (2026-10-12)
+- [What If the Sounds of Our Childhood Could Bring Us Back Outside?](https://dev.to/saras_growth_space/what-if-the-sounds-of-our-childhood-could-bring-us-back-outside-1756) (2026-10-12)
+- [How PDF Merging Actually Works Under the Hood (And Why Most Implementations Mess It Up)](https://dev.to/elias_miller/how-pdf-merging-actually-works-under-the-hood-and-why-most-implementations-mess-it-up-207n) (2026-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Here’s why you should be using LinkedIn](https://medium.com/@yaps.gg/heres-why-you-should-be-using-linkedin-1562a049d327?source=rss------programming-5) (2026-10-11)
-- [The "Prompt-Typer" vs. The Systems Thinker: How to Stay Indispensable When AI Writes the Code](https://medium.com/codetodeploy/the-prompt-typer-vs-the-systems-thinker-how-to-stay-indispensable-when-ai-writes-the-code-fbc7eecabccb?source=rss------programming-5) (2026-10-11)
-- [AWS Cloud Computing (Part-02): Compute Services](https://medium.com/codetodeploy/aws-cloud-computing-part-02-compute-services-39ff18f2f682?source=rss------programming-5) (2026-10-11)
-- [Running Four Claude Code Sessions at Once Is the Advice. My Logs Did It for 14 Minutes.](https://medium.com/codetodeploy/running-four-claude-code-sessions-at-once-is-the-advice-my-logs-did-it-for-14-minutes-dae672e0f6e8?source=rss------programming-5) (2026-10-11)
-- [The 2026 Agent Engineer Roadmap: 6 Modules, 5 Real Repos](https://medium.com/@coolercoder/the-2026-agent-engineer-roadmap-6-modules-5-real-repos-5b44e060d380?source=rss------programming-5) (2026-10-11)
+- [Meetings Are Killing Developer Productivity — The Hidden Cost of Context Switching](https://medium.com/@shemeenasrawther/meetings-are-killing-developer-productivity-the-hidden-cost-of-context-switching-1c881ff7bd1f?source=rss------programming-5) (2026-10-12)
+- [Why Your Side Project Gets No Clicks: The URL Trust Problem](https://codeminer.medium.com/why-your-side-project-gets-no-clicks-the-url-trust-problem-3e1b8b48d1db?source=rss------programming-5) (2026-10-12)
+- [Hard Truth: Watching 100 Hours of Tutorials Won’t Make You a Data Engineer!](https://medium.com/@shenoy.shashwath/hard-truth-watching-100-hours-of-tutorials-wont-make-you-a-data-engineer-44c2f8fa2303?source=rss------programming-5) (2026-10-12)
+- [BEFORE YOU CHANGE THE CODE, UNDERSTAND IT](https://medium.com/@myasiransari16/before-you-change-the-code-understand-it-1916661c8354?source=rss------programming-5) (2026-10-12)
+- [Jev Isn’t Another Chatbot: A Plain-English Guide to the “Decisions Model”](https://medium.com/@naro7217/jev-isnt-another-chatbot-a-plain-english-guide-to-the-decisions-model-b3a22a9911e8?source=rss------programming-5) (2026-10-12)
 
 </details>
 
@@ -639,6 +639,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) (2026-09-30)
+- [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) (2026-09-24)
+- [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) (2026-09-23)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
