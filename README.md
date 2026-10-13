@@ -9,44 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Smart ring maker Ultrahuman to roll out biological-age model across UAE](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/) (2026-10-12)
-- [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/) (2026-10-12)
-- [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) (2026-10-12)
-- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) (2026-10-12)
-- [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) (2026-10-11)
-
-</details>
-
-<details>
-<summary>💻 Hacker News</summary>
-
-- [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx) (2026-10-12)
-- [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo) (2026-10-12)
-- [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) (2026-10-12)
-- [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) (2026-10-12)
-- [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467) (2026-10-12)
+- [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/) (2026-10-12)
+- [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/) (2026-10-12)
+- [Honeyjar offers AI tools to improve PR and comms at every company](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/) (2026-10-12)
+- [Microsoft president says UK is best placed to drive AI regulation](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/) (2026-10-12)
+- [This AI startup says it can generate permit-ready blueprints in minutes](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/) (2026-10-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing) (2026-10-12)
-- [No Man’s Sky is coming to the iPhone and iPad](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date) (2026-10-12)
-- [The OnePlus 16 is the company’s most interesting phone in years](https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china) (2026-10-12)
-- [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize) (2026-10-12)
-- [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker) (2026-10-12)
+- [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy) (2026-10-12)
+- [Meta has some Wonder Full new AI models ](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model) (2026-10-12)
+- [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations) (2026-10-12)
+- [The Yandex outage probably didn’t blitz Russian bots](https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk) (2026-10-12)
+- [Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be](https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on) (2026-10-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/) (2026-10-12)
-- [Review: 4-hour Musk documentary feels like two different films](https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/) (2026-10-11)
-- [Prime Video unveils Blade Runner 2099 full trailer at NYCC](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/) (2026-10-11)
-- [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) (2026-10-10)
-- [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) (2026-10-09)
+- [Epic Games reportedly pivoting to "AI first" game development model](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/) (2026-10-12)
+- [After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad](https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/) (2026-10-12)
+- [WHO report on Russian lab worker death highlights "key uncertainty"](https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/) (2026-10-12)
+- [Anthropic's Claude AI submitted false murder tip to Philadelphia police](https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/) (2026-10-12)
+- [Russia was not ready for the data center war it started with Ukraine](https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/) (2026-10-12)
 
 </details>
 
@@ -64,11 +53,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/) (2026-10-12)
 - [Hack the World: Why hackathons are still the best place to learn to build](https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/) (2026-10-09)
 - [How one bug bounty researcher chooses the features they investigate](https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/) (2026-10-08)
 - [Secret protection must scale with software](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/) (2026-10-07)
 - [Building Git infrastructure for agent-scale development](https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/) (2026-10-06)
-- [ReviewBench: An open benchmark for AI code review](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/) (2026-10-05)
 
 </details>
 
@@ -86,33 +75,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Getting Started with MLOps: ML models and Amazon Sagemaker](https://dev.to/rasi321/getting-started-with-mlops-ml-models-and-amazon-sagemaker-5ejo) (2026-10-12)
-- [Why Passkeys Break in Production: WebAuthn AuthData, CBOR, and the signCount Trap](https://dev.to/dev_in_the_fog/why-passkeys-break-in-production-webauthn-authdata-cbor-and-the-signcount-trap-1f31) (2026-10-12)
-- [Our agent's self-description failed its own verification. That's the point.](https://dev.to/openamer/our-agents-self-description-failed-its-own-verification-thats-the-point-2m7f) (2026-10-12)
-- [Linkerd vs Istio: Choosing the Right Service Mesh](https://dev.to/hugovalters/linkerd-vs-istio-choosing-the-right-service-mesh-4db1) (2026-10-12)
-- [Anyone can ship a ModHeader replacement with AI now. That's the scary part.](https://dev.to/wirelet_8f16afaebc94ded06/anyone-can-ship-a-modheader-replacement-with-ai-now-thats-the-scary-part-202d) (2026-10-12)
+- [Event Driven Workflow Automation for Autonomous AI Systems](https://dev.to/rausal_bahtiarfadhli_d94/event-driven-workflow-automation-for-autonomous-ai-systems-2g1n) (2026-10-13)
+- [How to hide a secret message inside a single emoji (invisible Unicode, explained)](https://dev.to/emojihide/how-to-hide-a-secret-message-inside-a-single-emoji-invisible-unicode-explained-29al) (2026-10-13)
+- [Circuit Breakers for Scrapers: When to Stop a Run That Is Going Bad](https://dev.to/yuhehe/circuit-breakers-for-scrapers-when-to-stop-a-run-that-is-going-bad-1n06) (2026-10-13)
+- [22 Hand-Placed Comments, 0 Sales: The Full Ledger of a Cold-Comment Campaign](https://dev.to/yuhehe/22-hand-placed-comments-0-sales-the-full-ledger-of-a-cold-comment-campaign-ai5) (2026-10-13)
+- [Your Scraper's Politeness Layer Deserves a Unit Test, Not a Prayer](https://dev.to/yuhehe/your-scrapers-politeness-layer-deserves-a-unit-test-not-a-prayer-1g24) (2026-10-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cost-Based Optimizer (CBO) in Oracle | Best of mrcaption49](https://medium.com/@pranavsb699/cost-based-optimizer-cbo-in-oracle-best-of-mrcaption49-88d7d66b268b?source=rss------programming-5) (2026-10-12)
-- [Belajar Instalasi Python dan Membuat Program Sederhana](https://medium.com/@akmal.22615003/belajar-instalasi-python-dan-membuat-program-sederhana-323b195ea11c?source=rss------programming-5) (2026-10-12)
-- [Mellum2.1: A Coding Model Needs Practice Inside a Repository](https://milind-divre.medium.com/mellum2-1-a-coding-model-needs-practice-inside-a-repository-d05570b94dbb?source=rss------programming-5) (2026-10-12)
-- [How to Set Hard Spending Limits So an AI Agent Can’t Run Up Your Bill](https://medium.com/@aleksandardobrohotov/how-to-set-hard-spending-limits-so-an-ai-agent-cant-run-up-your-bill-0c177604cc71?source=rss------programming-5) (2026-10-12)
-- [Google Shrank Its Embeddings to Fit a Phone. A Day Later, Perplexity Gave Every Token Its Own.](https://pub.towardsai.net/google-shrank-its-embeddings-to-fit-a-phone-a-day-later-perplexity-gave-every-token-its-own-f7c2b55bf85f?source=rss------programming-5) (2026-10-12)
+- [Why Rust Still Takes So Long to Compile — and What’s Changing](https://medium.com/@ashishjsharda/why-rust-still-takes-so-long-to-compile-and-whats-changing-0d9d7c3054ea?source=rss------programming-5) (2026-10-12)
+- [Ownership, Initiative, and the Shape of the Team](https://medium.com/@aludanyi/ownership-initiative-and-the-shape-of-the-team-67cdb838a9b6?source=rss------programming-5) (2026-10-12)
+- [Software Is Dead ?](https://medium.com/@syedkadaransari/software-is-dead-a941f08cc150?source=rss------programming-5) (2026-10-12)
+- [I stopped pasting production logs into random websites. So I built Log Lens](https://medium.com/@sabeesoft/i-stopped-pasting-production-logs-into-random-websites-so-i-built-log-lens-5e2f0c77067b?source=rss------programming-5) (2026-10-12)
+- [Why I named CamusDB after Albert Camus](https://medium.com/@gutierrezandresfelipe/why-i-named-camusdb-after-albert-camus-698b8fcd33dc?source=rss------programming-5) (2026-10-12)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/) (2026-10-12)
 - [All the numbers: Amazon Prime Day 2026 powered by AWS](https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/) (2026-10-06)
 - [AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/) (2026-10-05)
 - [Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)](https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/) (2026-10-01)
 - [Amazon S3 Tables now support all Apache Iceberg V3 data types](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/) (2026-09-30)
-- [Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/) (2026-09-30)
 
 </details>
 
@@ -130,11 +119,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/) (2026-10-12)
 - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-10-08)
 - [Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/) (2026-10-08)
 - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/) (2026-10-07)
 - [Why Telecom Operators Are Building Their AI Strategy on Open Models](https://blogs.nvidia.com/blog/telecom-operators-open-models/) (2026-10-06)
-- [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](https://blogs.nvidia.com/blog/ai-breast-cancer-startups/) (2026-10-05)
 
 </details>
 
@@ -152,11 +141,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html) (2026-10-12)
 - [Device Streaming and Android skills - available in Android CLI](https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html) (2026-10-02)
 - [How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%](https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html) (2026-09-30)
 - [Driving growth on Google Play: The next era of subscriptions](https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html) (2026-09-29)
 - [ Build intelligent Android apps: In-app agentic workflows](https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html) (2026-09-28)
-- [Build your way: Use any AI agent of your choice in Android Studio](https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html) (2026-09-24)
 
 </details>
 
@@ -196,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/) (2026-10-12)
 - [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/) (2026-10-01)
 - [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/) (2026-09-24)
 - [From Dockerfile to Kit: the Docker Sandboxes Kit Specification](https://www.docker.com/blog/docker-sandbox-kit-spec/) (2026-09-24)
 - [Docker and CNCF partner on an open spec for agent permissions](https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/) (2026-09-24)
-- [Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud](https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/) (2026-09-24)
 
 </details>
 
@@ -251,11 +240,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks](https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/) (2026-10-12)
+- [Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest](https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/) (2026-10-12)
+- [Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations](https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/) (2026-10-12)
 - [NTS: Authenticated Time at Meta](https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/) (2026-10-06)
 - [Bringing Private Processing to Meta AI Glasses](https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/) (2026-09-24)
-- [Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems](https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/) (2026-09-21)
-- [Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable](https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/) (2026-09-21)
-- [ZGateway: Learnings from Putting a Proxy in Front of ZippyDB](https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/) (2026-09-03)
 
 </details>
 
@@ -361,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Muse Wonder now available on AI Gateway](https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway) (2026-10-12)
 - [Agents can now buy domains with the Vercel CLI](https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli) (2026-10-09)
 - [New Pro teams now default to 30-day deployment retention](https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention) (2026-10-09)
 - [Deployment Storage billing begins for existing Pro teams](https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams) (2026-10-09)
 - [How Rillet ships 3× faster with AI agents on Vercel](https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel) (2026-10-09)
-- [Microsoft Decision-1 now available on AI Gateway](https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway) (2026-10-09)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Filter, reshape, and redact logs before export with Transformers](https://blog.cloudflare.com/transformers-on-logpush/) (2026-10-12)
 - [Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash](https://blog.cloudflare.com/clef-faster-cheaper-multimodal/) (2026-10-09)
 - [Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects](https://blog.cloudflare.com/workers-on-demand-profiling/) (2026-10-09)
 - [Deno is joining Cloudflare](https://blog.cloudflare.com/deno-joins-cloudflare/) (2026-10-09)
 - [Bridging technical depth and usability: The story behind Radar’s redesign](https://blog.cloudflare.com/radar-redesign/) (2026-10-08)
-- [Building an evidence-grounded agentic security operations harness on Cloudflare](https://blog.cloudflare.com/agentic-security-operations/) (2026-10-07)
 
 </details>
 
@@ -447,22 +436,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [What gets TOASTed in Postgres](https://planetscale.com/blog/what-gets-toasted-in-postgres) (2026-10-12)
 - [TIN v1.0.6: 2-3x faster, with support for stemming](https://planetscale.com/blog/tin-v106) (2026-10-08)
 - [What today's software owes to Bronze Age clocks](https://planetscale.com/blog/leaky-buckets-in-software-explained) (2026-10-07)
 - [Introducing Dedicated Read Replicas for Postgres](https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas) (2026-10-06)
 - [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) (2026-10-01)
-- [Handling hot shards](https://planetscale.com/blog/hot-shards-hotter-tenants) (2026-09-28)
 
 </details>
 
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [We closed 330 of your most-requested issues with Prisma ORM 8](https://www.prisma.io/blog/prisma-orm-8-closes-330-most-requested-issues) (2026-10-12)
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
 - [App hosting platforms with managed Postgres compared (2026): Node.js on Prisma Compute, Railway, Render, Fly.io, Vercel](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
 - [Hosting and managed Postgres options for a startup's first 100 paying users (2026)](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
 - [Neon alternatives with app hosting and Postgres in one place (2026): Prisma, Railway, Render, Supabase](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
-- [How to use Prisma ORM 8 in NestJS: setup, queries, deploy](https://www.prisma.io/blog/prisma-orm-8-nestjs) (2026-09-24)
 
 </details>
 
@@ -612,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-land
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral](https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral) (2026-10-12)
 - [ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found](https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found) (2026-10-12)
 - [10 Hugging Face Models Worth Knowing in 2026](https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026) (2026-10-12)
 - [Build Your First MCP Server in Python (Stateless Spec Edition)](https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition) (2026-10-09)
 - [10 Free AI Tools That Replace Expensive Software for Data Scientists](https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists) (2026-10-09)
-- [Bridging Algorithmic Design and Regulatory Standards in Enterprise AI](https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai) (2026-10-08)
 
 </details>
 
