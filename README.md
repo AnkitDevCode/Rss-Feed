@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/) (2026-10-13)
-- [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/) (2026-10-13)
-- [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) (2026-10-13)
-- [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/) (2026-10-13)
-- [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/) (2026-10-13)
+- [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/) (2026-10-14)
+- [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/) (2026-10-13)
+- [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/) (2026-10-13)
+- [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/) (2026-10-13)
+- [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) (2026-10-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) (2026-10-13)
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) (2026-10-13)
-- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) (2026-10-13)
-- [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians) (2026-10-13)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) (2026-10-13)
+- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) (2026-10-14)
+- [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/) (2026-10-14)
+- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) (2026-10-13)
+- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) (2026-10-13)
+- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming) (2026-10-13)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says](https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/) (2026-10-13)
 - [ESA targets Anbernic emulation handhelds as "superfake" piracy enablers](https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/) (2026-10-13)
 - [Topgolf saved over $11.3 million after leaving VMware](https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/) (2026-10-13)
 - [Trump commercial railing against his enemies kept airing after court blocked it](https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/) (2026-10-13)
 - [Disney offers $20M for Character.AI’s scandal-plagued chatbot tech](https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/) (2026-10-13)
-- [Skydance’s Discovery+ prices increase by up to 20 percent](https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/) (2026-10-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Integrating SEO Components into Discord](https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g) (2026-10-13)
-- [TabuPulse AI: Autonomous Tabular Prediction Agent & MCP Server for Micro-SaaS & Freelancers](https://dev.to/excitement4u_9a965eaa85d3/tabupulse-ai-autonomous-tabular-prediction-agent-mcp-server-for-micro-saas-freelancers-e2a) (2026-10-13)
-- [Your library isn't in the training data: making AI agents use it well](https://dev.to/kevinccbsg/your-library-isnt-in-the-training-data-making-ai-agents-use-it-well-5a34) (2026-10-13)
-- [Your Demo Day Video Shouldn't Be a Slide Read-Along](https://dev.to/axiomlab/your-demo-day-video-shouldnt-be-a-slide-read-along-5hf1) (2026-10-13)
-- [Top 20 Nikto Commands Every Security Professional Should Know](https://dev.to/abhinavsingwal/top-20-nikto-commands-every-security-professional-should-know-2ojf) (2026-10-13)
+- [ChatGPT Excel Formulas: Four Details to Put in Your Prompt](https://dev.to/hodadak_official/chatgpt-excel-formulas-four-details-to-put-in-your-prompt-771) (2026-10-14)
+- [Skip Holidays in .NET Scheduled Jobs with NaturalCron Custom Keywords](https://dev.to/hugo_jose_9/skip-holidays-in-net-scheduled-jobs-with-naturalcron-custom-keywords-5h6n) (2026-10-14)
+- [Your Docker Container Is Running… So Why Is Your Application Down?](https://dev.to/yash_sonawane25/your-docker-container-is-running-so-why-is-your-application-down-11jj) (2026-10-14)
+- [Gemini 4 Argon's $2/$10 API Pricing Doubles December 1 — Full Price Table](https://dev.to/paullovelace/gemini-4-argons-210-api-pricing-doubles-december-1-full-price-table-2k02) (2026-10-14)
+- [Automating Construction-Site Minutes: Every Meeting Ends with Clear Owners, Tasks and Deadlines](https://dev.to/hieuluong/automating-construction-site-minutes-every-meeting-ends-with-clear-owners-tasks-and-deadlines-4m0n) (2026-10-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Multi-Tenant Architecture: Shared Tables vs Separate Schemas vs Separate Databases](https://medium.com/@theturtlecode/multi-tenant-architecture-shared-tables-vs-separate-schemas-vs-separate-databases-128bed7ebec0?source=rss------programming-5) (2026-10-13)
-- [Your Code Sucks Too](https://medium.com/@ribrewguy/your-code-sucks-too-14fe8e062100?source=rss------programming-5) (2026-10-13)
-- [Bridging Local Models and Executable Architecture: A Blueprint for Distributed Control](https://medium.com/@rantnrave31/bridging-local-models-and-executable-architecture-a-blueprint-for-distributed-control-7f0d03330541?source=rss------programming-5) (2026-10-13)
-- [Don’t Underestimate Swift: What We Learned Building Backends with Hummingbird and Vapor](https://medium.com/@ruslan.shevtsov.dev/dont-underestimate-swift-what-we-learned-building-backends-with-hummingbird-and-vapor-bed15f73355c?source=rss------programming-5) (2026-10-13)
-- [A Year of Writing Code With AI: What Disappeared From My Workday, and What Grew](https://medium.com/@AIbatros/a-year-of-writing-code-with-ai-what-disappeared-from-my-workday-and-what-grew-d176a36ba23c?source=rss------programming-5) (2026-10-13)
+- [My JP Morgan Interview Experience: Software Engineer — Java | 2026](https://medium.com/@pardeepgill82/my-jp-morgan-interview-experience-software-engineer-java-2026-59d72d64f75c?source=rss------programming-5) (2026-10-14)
+- [Teaching Claude Code to Knock: Beethoven, Shostakovich, and a 30-Line Hook](https://marktinderholt.medium.com/teaching-claude-code-to-knock-beethoven-shostakovich-and-a-30-line-hook-734883907e29?source=rss------programming-5) (2026-10-14)
+- [11 Year Old Unsoundness Bug Found in Rust Borrow Checker](https://medium.com/rustaceans/11-year-old-unsoundness-bug-found-in-rust-borrow-checker-c5edd4a394b1?source=rss------programming-5) (2026-10-14)
+- [Compare Popular Translation APIs: Choosing the Right Solution for Your Project](https://medium.com/@after70age/compare-popular-translation-apis-choosing-the-right-solution-for-your-project-c294bf9e886b?source=rss------programming-5) (2026-10-14)
+- [AI Agent Auditability & Compliance: Can You Explain What Your Agent Did?](https://medium.com/@scosmexs/ai-agent-auditability-compliance-can-you-explain-what-your-agent-did-0a92ce9a75de?source=rss------programming-5) (2026-10-14)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=17mwd36z) (2026-10-13)
 - [Hello Developer: October 2026](https://developer.apple.com/news/?id=gv788oj6) (2026-10-06)
 - [Prepare and submit your apps for iPhone Duo](https://developer.apple.com/news/?id=kkphp5qo) (2026-10-06)
 - [Showcase your apps with new assets on the App Store](https://developer.apple.com/news/?id=ljpl7kyn) (2026-10-05)
 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw) (2026-10-02)
-- [Upcoming expiration of Developer ID Certification Authority (Sub-CA)](https://developer.apple.com/news/?id=w4atic4c) (2026-10-01)
 
 </details>
 
@@ -339,7 +339,7 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
-- [Scaling Git for agentic software engineering](https://about.gitlab.com/blog/scaling-git-for-agentic-software-engineering/) (2026-10-13)
+- [Scaling Git for the agentic software factory](https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/) (2026-10-13)
 - [Make every AI credit count: See, cap, and reduce agent spend](https://about.gitlab.com/blog/make-every-ai-credit-count/) (2026-10-13)
 - [GitLab's agent orchestration eliminates the wait between development stages](https://about.gitlab.com/blog/gitlab-agent-orchestration/) (2026-10-13)
 - [GitLab Critical Patch Release: 19.4.2, 19.3.4, 19.2.8](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/) (2026-10-12)
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Drama 3 now available on AI Gateway](https://vercel.com/changelog/drama-3-now-available-on-ai-gateway) (2026-10-13)
 - [MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway](https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway) (2026-10-13)
 - [Repository checkout and Git LFS downloads are now faster](https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster) (2026-10-13)
 - [Gemini 4 Argon now available on AI Gateway](https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway) (2026-10-13)
 - [Muse Wonder now available on AI Gateway](https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway) (2026-10-12)
-- [Agents can now buy domains with the Vercel CLI](https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli) (2026-10-09)
 
 </details>
 
@@ -639,17 +639,6 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
-- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) (2026-09-30)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
