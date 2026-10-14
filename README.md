@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/) (2026-10-14)
 - [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/) (2026-10-14)
 - [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/) (2026-10-13)
 - [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/) (2026-10-13)
 - [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/) (2026-10-13)
-- [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) (2026-10-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) (2026-10-14)
-- [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/) (2026-10-14)
-- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) (2026-10-13)
-- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) (2026-10-13)
-- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming) (2026-10-13)
+- [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/) (2026-10-14)
+- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/) (2026-10-14)
+- [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) (2026-10-14)
+- [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221) (2026-10-14)
+- [Agent erased full season of "The Challenge Swe": "Hundreds of days of work gone"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren) (2026-10-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Tesla Roadster could have stayed vaporware](https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk) (2026-10-14)
+- [Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting](https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability) (2026-10-14)
 - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction) (2026-10-13)
 - [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) (2026-10-13)
 - [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta) (2026-10-13)
-- [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) (2026-10-13)
-- [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration) (2026-10-13)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The US military’s race to make fake blood](https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/) (2026-10-14)
 - [The Download: open model trade-offs and geothermal power’s promise](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/) (2026-10-13)
 - [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) (2026-10-13)
 - [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/) (2026-10-13)
 - [The Download: moon city problems and drone traffic controllers](https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/) (2026-10-12)
-- [What it would take to build a city on the moon](https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/) (2026-10-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ChatGPT Excel Formulas: Four Details to Put in Your Prompt](https://dev.to/hodadak_official/chatgpt-excel-formulas-four-details-to-put-in-your-prompt-771) (2026-10-14)
-- [Skip Holidays in .NET Scheduled Jobs with NaturalCron Custom Keywords](https://dev.to/hugo_jose_9/skip-holidays-in-net-scheduled-jobs-with-naturalcron-custom-keywords-5h6n) (2026-10-14)
-- [Your Docker Container Is Running… So Why Is Your Application Down?](https://dev.to/yash_sonawane25/your-docker-container-is-running-so-why-is-your-application-down-11jj) (2026-10-14)
-- [Gemini 4 Argon's $2/$10 API Pricing Doubles December 1 — Full Price Table](https://dev.to/paullovelace/gemini-4-argons-210-api-pricing-doubles-december-1-full-price-table-2k02) (2026-10-14)
-- [Automating Construction-Site Minutes: Every Meeting Ends with Clear Owners, Tasks and Deadlines](https://dev.to/hieuluong/automating-construction-site-minutes-every-meeting-ends-with-clear-owners-tasks-and-deadlines-4m0n) (2026-10-14)
+- [KiCad vs EasyEDA vs Altium in 2026: Pick by the Job, Not the Hype](https://dev.to/dibyaprakash_pradhan/kicad-vs-easyeda-vs-altium-in-2026-pick-by-the-job-not-the-hype-2n1k) (2026-10-14)
+- [Testing the business meaning of a Flutter staffing dashboard](https://dev.to/salil_harit_0b795563c34ec/testing-the-business-meaning-of-a-flutter-staffing-dashboard-5fd6) (2026-10-14)
+- [open-kritt: a Chinese translation of the self-hosted AI vulnerability research tool](https://dev.to/sun_young_517829fc09d0c05/open-kritt-zhong-wen-wen-dang-yi-jiu-xu-2g08) (2026-10-14)
+- [Keeping Flutter dashboards correct when async requests finish out of order](https://dev.to/salil_harit_0b795563c34ec/keeping-flutter-dashboards-correct-when-async-requests-finish-out-of-order-2op8) (2026-10-14)
+- [OWASP Amass: 20 Commands for Attack Surface Mapping and Subdomain Enumeration](https://dev.to/abhinavsingwal/owasp-amass-20-commands-for-attack-surface-mapping-and-subdomain-enumeration-2dh0) (2026-10-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My JP Morgan Interview Experience: Software Engineer — Java | 2026](https://medium.com/@pardeepgill82/my-jp-morgan-interview-experience-software-engineer-java-2026-59d72d64f75c?source=rss------programming-5) (2026-10-14)
-- [Teaching Claude Code to Knock: Beethoven, Shostakovich, and a 30-Line Hook](https://marktinderholt.medium.com/teaching-claude-code-to-knock-beethoven-shostakovich-and-a-30-line-hook-734883907e29?source=rss------programming-5) (2026-10-14)
-- [11 Year Old Unsoundness Bug Found in Rust Borrow Checker](https://medium.com/rustaceans/11-year-old-unsoundness-bug-found-in-rust-borrow-checker-c5edd4a394b1?source=rss------programming-5) (2026-10-14)
-- [Compare Popular Translation APIs: Choosing the Right Solution for Your Project](https://medium.com/@after70age/compare-popular-translation-apis-choosing-the-right-solution-for-your-project-c294bf9e886b?source=rss------programming-5) (2026-10-14)
-- [AI Agent Auditability & Compliance: Can You Explain What Your Agent Did?](https://medium.com/@scosmexs/ai-agent-auditability-compliance-can-you-explain-what-your-agent-did-0a92ce9a75de?source=rss------programming-5) (2026-10-14)
+- [What’s New in .NET 11 and C# 15: Complete Guide With Code](https://medium.com/@tech-genius/whats-new-in-net-11-and-c-15-complete-guide-with-code-f344c0d5c8a2?source=rss------programming-5) (2026-10-14)
+- [Top 10 Terminal Emulators](https://liu-111.medium.com/top-10-terminal-emulators-813a2a9a6bc8?source=rss------programming-5) (2026-10-14)
+- [Top 10 API Development and Testing Tools](https://liu-111.medium.com/top-10-api-development-and-testing-tools-500dc0886f9c?source=rss------programming-5) (2026-10-14)
+- [7 Patterns That Often Show Up in Senior-Level Code](https://medium.com/skillstuff/7-patterns-that-often-show-up-in-senior-level-code-45e49d280d4e?source=rss------programming-5) (2026-10-14)
+- [JavaScript Type Conversion and Coercion — Why "10" + 5 Becomes "105"](https://medium.com/@dhruvil.unofficial/javascript-type-conversion-and-coercion-why-10-5-becomes-105-0768b0f10dc5?source=rss------programming-5) (2026-10-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/) (2026-10-14)
+- [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/) (2026-10-14)
 - [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/) (2026-10-13)
 - [NVIDIA Announces New Investments in France’s Startups](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/) (2026-10-13)
 - [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/) (2026-10-12)
-- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-10-08)
-- [Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/) (2026-10-08)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Lauterbach and JetBrains Announce TRACE32 Integration in CLion IDE](https://blog.jetbrains.com/clion/2026/10/lauterbach-trace32-integration-in-clion/) (2026-10-14)
 - [What We Heard at AGNTCon Europe](https://blog.jetbrains.com/blog/2026/10/13/what-we-heard-at-agntcon-europe/) (2026-10-13)
 - [CI/CD Pipeline Observability Tools: How to Choose the Right Setup](https://blog.jetbrains.com/teamcity/2026/10/cicd-pipeline-observability-tools/) (2026-10-13)
 - [Python vs Go: A Practical Comparison for Developers](https://blog.jetbrains.com/go/2026/10/13/python-vs-go/) (2026-10-13)
 - [Coding, Math, and AI: What’s Ahead for School Students in 2026–2027](https://blog.jetbrains.com/education/2026/10/13/coding-math-and-ai-what-s-ahead-for-school-students-in-2026-2027/) (2026-10-13)
-- [Build Your Game Challenge: Join in and Compete for Prizes](https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/) (2026-10-12)
 
 </details>
 
@@ -384,6 +384,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Retrieve a Phone Number's SMS Pumping Score in Rust
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust
+) (2026-10-14)
+- [
+Cyber Week Readiness: A Developer's Guide to Scalable Comms
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week
+) (2026-10-13)
+- [
 Now in GA: Power Live Conversations with Segment Conversation Memory Integration
 ](
 https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga
@@ -397,16 +407,6 @@ https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-sales
 Building a Multi-Channel AI Agent with Twilio Conversations and eve
 ](
 https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve
-) (2026-10-08)
-- [
-[Webinar] Master automated journeys
-](
-https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys
-) (2026-10-08)
-- [
-September 2026 Fraud Update: Phishing Trends, Third-party Safety and Latest Releases
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-sept-2026
 ) (2026-10-08)
 
 </details>
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Scaffold at the Gate: Building AI Applications That Can Evolve](https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/) (2026-10-14)
 - [Your Agent Doesn't Need More Freedom](https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/) (2026-10-13)
 - [Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling](https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/) (2026-10-13)
 - [Coding Agents Can Solve the Task — But How Much Work Did They Waste?](https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/) (2026-10-13)
 - [How to Leverage NLP for Product Data Science](https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/) (2026-10-13)
-- [We Specified an AI Agent in 2016. We Called It Analytics.](https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/) (2026-10-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
 - [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
 - [How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents ](https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/) (2026-10-11)
 - [EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space](https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/) (2026-10-09)
-- [Nano Banana 2.1 Review](https://www.analyticsvidhya.com/blog/2026/10/nano-banana-2-1-review/) (2026-10-08)
 
 </details>
 
@@ -639,6 +639,17 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
+- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
