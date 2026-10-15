@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/) (2026-10-14)
-- [Flock CEO: We haven’t ‘fired’ any police departments as customers](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/) (2026-10-14)
-- [Electric vehicle sales in the US are showing signs of life](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/) (2026-10-14)
-- [TimeTeller puts our internal clocks at the center of personalized medicine](https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/) (2026-10-14)
-- [Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/) (2026-10-14)
+- [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) (2026-10-15)
+- [Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/) (2026-10-15)
+- [Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/) (2026-10-15)
+- [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) (2026-10-15)
+- [Intero Biosystems wants drugmakers to test on mini human intestines, not animals](https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/) (2026-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) (2026-10-15)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) (2026-10-14)
+- [Tiny Little Office](https://tinylittleoffice.com/) (2026-10-14)
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) (2026-10-14)
 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) (2026-10-14)
-- [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/) (2026-10-14)
-- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/) (2026-10-14)
-- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18) (2026-10-14)
-- [Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) (2026-10-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) (2026-10-14)
+- [The best feature of Apple’s HomeView might be its simplicity](https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature) (2026-10-14)
 - [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) (2026-10-14)
 - [Microsoft and Japan took down a cybercrime network behind over a billion scam messages](https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown) (2026-10-14)
 - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) (2026-10-14)
-- [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy) (2026-10-14)
-- [As a TV enthusiast, I was hoping for more from the Apple TV 4K](https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features) (2026-10-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/) (2026-10-14)
+- [Epic says its new vibe-coded Epic Games Launcher is faster than Steam](https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/) (2026-10-14)
+- [NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping](https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/) (2026-10-14)
 - [Things are finally looking up for NASA's first missions to Venus in a generation](https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/) (2026-10-14)
 - [Schools across US protest FCC plan that could disconnect kids from Internet](https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/) (2026-10-14)
-- [Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation](https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/) (2026-10-14)
-- [Software development and rules stability: Prototype racing in 2030](https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/) (2026-10-14)
-- [Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer](https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/) (2026-10-14)
 
 </details>
 
@@ -86,22 +86,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Opening the app from a link, and what happens when it is not installed](https://dev.to/yhryshchanka/opening-the-app-from-a-link-and-what-happens-when-it-is-not-installed-1505) (2026-10-14)
-- [Selling your download in a second language: a practical localization guide for digital sellers](https://dev.to/filefreight/selling-your-download-in-a-second-language-a-practical-localization-guide-for-digital-sellers-429i) (2026-10-14)
-- [Building a Multi-Tenant RAG in 8GB RAM: Why I Ditched Qdrant and Kafka (Phase 0)](https://dev.to/alejandrotg-code/building-a-multi-tenant-rag-in-8gb-ram-why-i-ditched-qdrant-and-kafka-phase-0-8b) (2026-10-14)
-- [The Second Browser Tab Is Where Good Tests Go to Die](https://dev.to/orbitpickle307/the-second-browser-tab-is-where-good-tests-go-to-die-13h2) (2026-10-14)
-- [FlapJax buyback audit: the 10-12 and 10-13 receipts checked against BSC](https://dev.to/volna_research/flapjax-buyback-audit-the-10-12-and-10-13-receipts-checked-against-bsc-c6f) (2026-10-14)
+- [5 Common Reasons Why GBase Database(GBase 8s) Cannot Connect After Installation](https://dev.to/mmllllzcn/5-common-reasons-why-gbase-databasegbase-8s-cannot-connect-after-installation-54i0) (2026-10-15)
+- [Testing a Retro Text Generator as Two Different Products](https://dev.to/d11/testing-a-retro-text-generator-as-two-different-products-2m65) (2026-10-15)
+- [DEV's AI-disclosure labels after seven weeks: 1 post in 25, and a quarter of "AI-Assisted" was one burst](https://dev.to/munimv2/devs-ai-disclosure-labels-after-seven-weeks-1-post-in-25-and-a-quarter-of-ai-assisted-was-one-25fk) (2026-10-15)
+- [FollowUp Local: a Gemma model on your laptop that tells you why the customer went quiet](https://dev.to/dongweipolyred/followup-local-a-gemma-model-on-your-laptop-that-tells-you-why-the-customer-went-quiet-154k) (2026-10-15)
+- [How to Prevent AI From Repeating Its Own Mistakes](https://dev.to/sumit0rn/how-to-prevent-ai-from-repeating-its-own-mistakes-464h) (2026-10-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GPT-6 Astra vs Claude Fable 5.1: Which One Actually Codes Better?](https://pub.towardsai.net/gpt-6-astra-vs-claude-fable-5-1-which-one-actually-codes-better-814b52f7e262?source=rss------programming-5) (2026-10-14)
-- [DeepSeek Harness vs OpenCode: The Honest Verdict for Developers](https://medium.com/codex/deepseek-harness-vs-opencode-the-honest-verdict-for-developers-8754dff3eeb0?source=rss------programming-5) (2026-10-14)
-- [Best web scraping API for AI agents in 2026](https://medium.com/zenrows/best-web-scraping-api-for-ai-agents-in-2026-c4406a2452b2?source=rss------programming-5) (2026-10-14)
-- [Private by Default, Available Everywhere: Balancing Privacy, Integrity, and Availability in a…](https://code.likeagirl.io/private-by-default-available-everywhere-balancing-privacy-integrity-and-availability-in-a-b1d6dfa2fba1?source=rss------programming-5) (2026-10-14)
-- [Why pip says your Python is fine and still fails](https://medium.com/@mabd051104/why-pip-says-your-python-is-fine-and-still-fails-062d1a77cff2?source=rss------programming-5) (2026-10-14)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a3966d26d0ad?source=rss------programming-5) (2026-10-15)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-527c208e714f?source=rss------programming-5) (2026-10-15)
+- [Human-in-the-Loop Design: When Should an AI Agent Ask for Approval?](https://medium.com/@scosmexs/human-in-the-loop-design-when-should-an-ai-agent-ask-for-approval-899502558679?source=rss------programming-5) (2026-10-15)
+- [Spring Boot API Returns 404? Your Controller Might Be Perfectly Fine.](https://medium.com/engineering-playbook/spring-boot-api-returns-404-your-controller-might-be-perfectly-fine-1e0d16788c33?source=rss------programming-5) (2026-10-15)
+- [Linux Should Be Taught in Schools](https://pawannatekar220.medium.com/linux-should-be-taught-in-schools-e1a49553b377?source=rss------programming-5) (2026-10-15)
 
 </details>
 
@@ -196,22 +198,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/) (2026-10-14)
+- [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/) (2026-10-14)
 - [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/) (2026-10-12)
 - [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/) (2026-10-01)
 - [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/) (2026-09-24)
-- [From Dockerfile to Kit: the Docker Sandboxes Kit Specification](https://www.docker.com/blog/docker-sandbox-kit-spec/) (2026-09-24)
-- [Docker and CNCF partner on an open spec for agent permissions](https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/) (2026-09-24)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) (2026-10-14)
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) (2026-10-06)
 - [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/) (2026-10-05)
 - [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) (2026-09-22)
 - [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/) (2026-09-21)
-- [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/) (2026-09-16)
 
 </details>
 
@@ -339,11 +341,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Gemini 4 Argon on GitLab: Built for long-running agentic work](https://about.gitlab.com/blog/gitlab-google-gemini-argon/) (2026-10-14)
 - [Scaling Git for the agentic software factory](https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/) (2026-10-13)
 - [Make every AI credit count: See, cap, and reduce agent spend](https://about.gitlab.com/blog/make-every-ai-credit-count/) (2026-10-13)
 - [GitLab's agent orchestration eliminates the wait between development stages](https://about.gitlab.com/blog/gitlab-agent-orchestration/) (2026-10-13)
 - [GitLab Critical Patch Release: 19.4.2, 19.3.4, 19.2.8](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/) (2026-10-12)
-- [Track organization-wide security risk in one dashboard](https://about.gitlab.com/blog/security-risk-in-one-dashboard/) (2026-10-08)
 
 </details>
 
@@ -361,11 +363,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Findings from the $1M Vercel Sandbox challenge](https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge) (2026-10-14)
 - [Amazon S3 joins the Vercel Marketplace](https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace) (2026-10-14)
 - [Nemotron 3.5 Lightning now available on AI Gateway for free](https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free) (2026-10-14)
 - [Drama 3 now available on AI Gateway](https://vercel.com/changelog/drama-3-now-available-on-ai-gateway) (2026-10-13)
 - [MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway](https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway) (2026-10-13)
-- [Repository checkout and Git LFS downloads are now faster](https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster) (2026-10-13)
 
 </details>
 
@@ -436,11 +438,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>⚡ Supabase Blog</summary>
 
+- [How we made the Supabase Select 2026 badge](https://supabase.com/blog/how-we-made-the-supabase-select-2026-badge) (2026-10-14)
 - [Declarative Schemas 2.0 with pg-delta](https://supabase.com/blog/declarative-schemas-2-0-pg-delta) (2026-10-13)
 - [Ship changes to your Supabase backend with Grok Bot](https://supabase.com/blog/ship-changes-to-your-supabase-backend-with-grok-bot) (2026-10-13)
 - [Supabase Select 2026 Recap](https://supabase.com/blog/supabase-select-2026-recap) (2026-10-02)
 - [Scale without limits: Multigres, OrioleDB, and dbarena](https://supabase.com/blog/select-2026-scale-without-limits) (2026-10-02)
-- [Operate with confidence](https://supabase.com/blog/select-2026-operate-with-confidence) (2026-10-02)
 
 </details>
 
@@ -515,9 +517,9 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 
 - [From a garage and a pickup truck to $3.8 million](https://zapier.com/blog/3r-plumbing-next-gen-zaps) (2026-10-14)
 - [Human-in-the-loop in AI workflows: HITL meaning, benefits, and practical patterns](https://zapier.com/blog/human-in-the-loop) (2026-10-14)
-- [Claude vs. ChatGPT: Which is best? [2026]](https://zapier.com/blog/claude-vs-chatgpt) (2026-10-14)
 - [The best AI chatbots in 2026](https://zapier.com/blog/best-ai-chatbot) (2026-10-14)
 - [Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-10-14)
+- [Claude vs. ChatGPT: Which is best? [2026]](https://zapier.com/blog/claude-vs-chatgpt) (2026-10-14)
 
 </details>
 
@@ -639,17 +641,6 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
-- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
