@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/) (2026-10-15)
 - [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) (2026-10-15)
 - [Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/) (2026-10-15)
 - [Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/) (2026-10-15)
 - [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) (2026-10-15)
-- [Intero Biosystems wants drugmakers to test on mini human intestines, not animals](https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/) (2026-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows) (2026-10-15)
+- [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop) (2026-10-15)
 - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) (2026-10-15)
 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) (2026-10-14)
-- [Tiny Little Office](https://tinylittleoffice.com/) (2026-10-14)
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) (2026-10-14)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) (2026-10-14)
+- [Show HN: Ito – Build Terminal UIs in Lua](https://uji.sh/ito/) (2026-10-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel](https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott) (2026-10-15)
 - [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) (2026-10-14)
 - [The best feature of Apple’s HomeView might be its simplicity](https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature) (2026-10-14)
 - [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) (2026-10-14)
 - [Microsoft and Japan took down a cybercrime network behind over a billion scam messages](https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown) (2026-10-14)
-- [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) (2026-10-14)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How much more can nuclear power plants give?](https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/) (2026-10-15)
+- [Six wild ideas for perpetuating your mind](https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/) (2026-10-15)
+- [Pig kidneys that were “frozen” for a year have been brought back to life](https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/) (2026-10-15)
 - [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) (2026-10-14)
 - [The US military’s race to make fake blood](https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/) (2026-10-14)
-- [The Download: open model trade-offs and geothermal power’s promise](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/) (2026-10-13)
-- [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) (2026-10-13)
-- [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/) (2026-10-13)
 
 </details>
 
@@ -86,24 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 Common Reasons Why GBase Database(GBase 8s) Cannot Connect After Installation](https://dev.to/mmllllzcn/5-common-reasons-why-gbase-databasegbase-8s-cannot-connect-after-installation-54i0) (2026-10-15)
-- [Testing a Retro Text Generator as Two Different Products](https://dev.to/d11/testing-a-retro-text-generator-as-two-different-products-2m65) (2026-10-15)
-- [DEV's AI-disclosure labels after seven weeks: 1 post in 25, and a quarter of "AI-Assisted" was one burst](https://dev.to/munimv2/devs-ai-disclosure-labels-after-seven-weeks-1-post-in-25-and-a-quarter-of-ai-assisted-was-one-25fk) (2026-10-15)
-- [FollowUp Local: a Gemma model on your laptop that tells you why the customer went quiet](https://dev.to/dongweipolyred/followup-local-a-gemma-model-on-your-laptop-that-tells-you-why-the-customer-went-quiet-154k) (2026-10-15)
-- [How to Prevent AI From Repeating Its Own Mistakes](https://dev.to/sumit0rn/how-to-prevent-ai-from-repeating-its-own-mistakes-464h) (2026-10-15)
+- [SideHustle Studio: Build Better Product Listings with Open-Source AI](https://dev.to/palak_verma_3e0b2748eaeff/sidehustle-studio-build-better-product-listings-with-open-source-ai-4m79) (2026-10-15)
+- [I built AI skills that tailor my CV to every job link](https://dev.to/mohamedaminehamdi/i-built-ai-skills-that-tailor-my-cv-to-every-job-link-42mk) (2026-10-15)
+- [Why Retail Software Projects Get Complicated When Systems Don't Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di) (2026-10-15)
+- [Building an AI Document Extraction Pipeline with DocuSense](https://dev.to/skilldev31/building-an-ai-document-extraction-pipeline-with-docusense-4ecl) (2026-10-15)
+- [One API for Greenhouse, Lever, Ashby & Workday Jobs: Hiring Signals in Python](https://dev.to/torix/one-api-for-greenhouse-lever-ashby-workday-jobs-hiring-signals-in-python-3gb3) (2026-10-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a3966d26d0ad?source=rss------programming-5) (2026-10-15)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-527c208e714f?source=rss------programming-5) (2026-10-15)
-- [Human-in-the-Loop Design: When Should an AI Agent Ask for Approval?](https://medium.com/@scosmexs/human-in-the-loop-design-when-should-an-ai-agent-ask-for-approval-899502558679?source=rss------programming-5) (2026-10-15)
-- [Spring Boot API Returns 404? Your Controller Might Be Perfectly Fine.](https://medium.com/engineering-playbook/spring-boot-api-returns-404-your-controller-might-be-perfectly-fine-1e0d16788c33?source=rss------programming-5) (2026-10-15)
-- [Linux Should Be Taught in Schools](https://pawannatekar220.medium.com/linux-should-be-taught-in-schools-e1a49553b377?source=rss------programming-5) (2026-10-15)
+- [The Most Important Full-Stack Developer Skill in 2026 Isn’t Another Framework](https://medium.com/@TechnobitsDigital/the-most-important-full-stack-developer-skill-in-2026-isnt-another-framework-d9ad0a6195da?source=rss------programming-5) (2026-10-15)
+- [Belphegor’s Prime : The Mystery of 666](https://medium.com/think-art/belphegors-prime-the-mystery-of-666-55c906dd1d65?source=rss------programming-5) (2026-10-15)
+- [Java Isn’t Broken: Why double Quietly Wrecks Your Money Math (and the Right Way to Use BigDecimal)](https://medium.com/@mhnaim.cse/java-isnt-broken-why-double-quietly-wrecks-your-money-math-and-the-right-way-to-use-bigdecimal-8240448ed737?source=rss------programming-5) (2026-10-15)
+- [OpenAI Released 722 AI Math Papers in One Day, and Only About 1 in 5 Comes With a Machine-Checked…](https://meetcyber.net/openai-released-722-ai-math-papers-in-one-day-and-only-about-1-in-5-comes-with-a-machine-checked-021fea2b2d3a?source=rss------programming-5) (2026-10-15)
+- [Convert PDF to PowerPoint Programmatically in Python](https://medium.com/@sirio1234/convert-pdf-to-powerpoint-programmatically-in-python-97970111c0f8?source=rss------programming-5) (2026-10-15)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/) (2026-10-15)
+- [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](https://blogs.nvidia.com/blog/nordics-technology-ecosystem/) (2026-10-15)
 - [NVIDIA Announces New Investments in the UK Startup Ecosystem](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/) (2026-10-14)
 - [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/) (2026-10-14)
 - [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/) (2026-10-13)
-- [NVIDIA Announces New Investments in France’s Startups](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/) (2026-10-13)
-- [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/) (2026-10-12)
 
 </details>
 
@@ -319,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How Netflix Made AI Coding Agents More Efficient with JetBrains IDE Intelligence](https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/) (2026-10-15)
+- [MPS 2026.2 Release Candidate Available](https://blog.jetbrains.com/mps/2026/10/the-mps-2026-2-rc1/) (2026-10-15)
+- [What Makes a Great KotlinConf Proposal?](https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/) (2026-10-15)
 - [Boost Your Pipeline: Top 6 CI/CD Integrations for Qodana](https://blog.jetbrains.com/qodana/2026/10/boost-your-pipeline-top-6-ci-cd-integrations-for-qodana/) (2026-10-14)
 - [How Cloud-Based Agent Sandboxing Works in Air](https://blog.jetbrains.com/air/2026/10/cloud-agent-sandboxing/) (2026-10-14)
-- [KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments](https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/) (2026-10-14)
-- [Lauterbach and JetBrains Announce TRACE32 Integration in CLion IDE](https://blog.jetbrains.com/clion/2026/10/lauterbach-trace32-integration-in-clion/) (2026-10-14)
-- [What We Heard at AGNTCon Europe](https://blog.jetbrains.com/blog/2026/10/13/what-we-heard-at-agntcon-europe/) (2026-10-13)
 
 </details>
 
@@ -603,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model](https://www.analyticsvidhya.com/blog/2026/10/typesafe-ai-jev-tutorial/) (2026-10-15)
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
 - [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
 - [How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents ](https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/) (2026-10-11)
-- [EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space](https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/) (2026-10-09)
 
 </details>
 
@@ -641,6 +639,17 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
+- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) (2026-10-06)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
