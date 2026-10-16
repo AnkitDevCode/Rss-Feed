@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/) (2026-10-16)
 - [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/) (2026-10-16)
 - [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) (2026-10-15)
 - [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/) (2026-10-15)
 - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/) (2026-10-15)
-- [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/) (2026-10-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Woman arrested after blocking delivery robot in Center City Philadelphia](https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/) (2026-10-16)
+- [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/) (2026-10-16)
+- [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/) (2026-10-16)
+- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders) (2026-10-16)
 - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/) (2026-10-16)
 - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) (2026-10-16)
-- [Tesla Roadster](https://www.tesla.com/roadster) (2026-10-16)
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving) (2026-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change) (2026-10-16)
 - [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk) (2026-10-16)
 - [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets) (2026-10-15)
 - [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) (2026-10-15)
 - [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) (2026-10-15)
-- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) (2026-10-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Blue Origin is going all in on the New Glenn rocket](https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/) (2026-10-16)
+- [Googlebook review: Android on a laptop is still Android](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/) (2026-10-16)
 - [KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell](https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/) (2026-10-15)
 - [Plex now helps sell movie theater tickets](https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/) (2026-10-15)
 - [Hegseth’s dubious low-T screening may flag up to 25 percent of the Army](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/) (2026-10-15)
-- [Targeted ads delivered 0-click exploits to install mercenary malware](https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/) (2026-10-15)
-- [Above the 911? Porsche previews a new mid-engined supercar.](https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/) (2026-10-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This implant can restore sight for patients with macular degeneration](https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/) (2026-10-16)
+- [Love is infrastructure](https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/) (2026-10-16)
+- [Can’t bear to say goodbye to your pet? Biotech’s got you covered.](https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/) (2026-10-16)
+- [Kids are outsmarting social media bans. That’s not a problem we need to solve.](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/) (2026-10-16)
 - [The Download: reviving frozen pig kidneys and boosting nuclear power](https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/) (2026-10-15)
-- [How much more can nuclear power plants give?](https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/) (2026-10-15)
-- [Six wild ideas for perpetuating your mind](https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/) (2026-10-15)
-- [Pig kidneys that were “frozen” for a year have been brought back to life](https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/) (2026-10-15)
-- [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) (2026-10-14)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI says you’re right, formal methods say you’re wrong](https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/) (2026-10-16)
+- [MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/) (2026-10-15)
 - [Why your platform team shouldn't build an AI context layer (even though they probably could)](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/) (2026-10-15)
 - [Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela](https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/) (2026-10-14)
 - [Why Your Sandbox Never Quite Matches Production (And Why That's Fine)](https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/) (2026-10-13)
-- [ Keep calm and call clone with Rust](https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/) (2026-10-13)
-- [Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/) (2026-10-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hacktoberfest Melbourne 2026](https://dev.to/decodebyshreyas/hacktoberfest-melbourne-2026-3amo) (2026-10-16)
-- [Zero-Cloud AI Code Review: Connecting Self-Hosted GitLab to Local CUDA LLM Runtimes](https://dev.to/hrlpavan/zero-cloud-ai-code-review-connecting-self-hosted-gitlab-to-local-cuda-llm-runtimes-ih2) (2026-10-16)
-- [The Only VS Code Shortcuts Worth Learning First](https://dev.to/systemcraftdev/the-only-vs-code-shortcuts-worth-learning-first-154m) (2026-10-16)
-- [System design for physical AI: one flight of 4 band imagery and LiDAR, bound into a site ontology](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-one-flight-of-4-band-imagery-and-lidar-bound-into-a-site-ontology-36oo) (2026-10-16)
-- [Building an Automated Engineering Telemetry Pipeline with GitLab CI/CD](https://dev.to/hrlpavan/building-an-automated-engineering-telemetry-pipeline-with-gitlab-cicd-4f6j) (2026-10-16)
+- [Firefox Screenshots: Built-in Tool, DevTools, Headless CLI, and Playwright](https://dev.to/weatherclockdash/firefox-screenshots-built-in-tool-devtools-headless-cli-and-playwright-2290) (2026-10-16)
+- [One optional phone number, eleven files, five kinds of empty, and no migration](https://dev.to/daniel_pertu/one-optional-phone-number-eleven-files-five-kinds-of-empty-and-no-migration-hi6) (2026-10-16)
+- [A memory benchmark draft with 17 axes and no headline number: is it worth running?](https://dev.to/woochan/a-memory-benchmark-draft-with-17-axes-and-no-headline-number-is-it-worth-running-h6k) (2026-10-16)
+- [Two things must happen before our server module loads, and a require is all that enforces the order](https://dev.to/daniel_pertu/two-things-must-happen-before-our-server-module-loads-and-a-require-is-all-that-enforces-the-order-1ma7) (2026-10-16)
+- [MarketPulse: Building an AI Marketing Analyst for Small Businesses](https://dev.to/mercyijegbai60/marketpulse-building-an-ai-marketing-analyst-for-small-businesses-4fbg) (2026-10-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Escape Tutorial Hell Without Giving Up Tutorials](https://medium.com/@webdevhamid/how-to-escape-tutorial-hell-without-giving-up-tutorials-ab15bb037d83?source=rss------programming-5) (2026-10-16)
-- [How to Check Website Loading Speed in Chrome Without Opening DevTools](https://medium.com/@saraltechies/how-to-check-website-loading-speed-in-chrome-without-opening-devtools-95f3f52da4a1?source=rss------programming-5) (2026-10-16)
-- [AI Didn’t Take My Backend Job. It Changed What I Get Paid For.](https://medium.com/@karanhotwani15/ai-didnt-take-my-backend-job-it-changed-what-i-get-paid-for-a010b76ea235?source=rss------programming-5) (2026-10-16)
-- [C# Control Statements Explained: if, if-else, else-if, and switch](https://medium.com/@shitalkhairnar680/c-control-statements-explained-if-if-else-else-if-and-switch-769ce5fce2dd?source=rss------programming-5) (2026-10-16)
-- [AI Agent Deployment Strategies: How to Release Changes Without Breaking Production](https://medium.com/@scosmexs/ai-agent-deployment-strategies-how-to-release-changes-without-breaking-production-3373cf15598b?source=rss------programming-5) (2026-10-16)
+- [Your SaaS Company Closed a $250,000 Deal. Now Your Backend Is Delaying the Revenue.](https://medium.com/engineering-playbook/your-saas-company-closed-a-250-000-deal-now-your-backend-is-delaying-the-revenue-613e76241983?source=rss------programming-5) (2026-10-16)
+- [Prometheus Scalability: High Cardinality and How to Fix It](https://alexandrev.medium.com/prometheus-scalability-high-cardinality-and-how-to-fix-it-1dce4c0fe1c0?source=rss------programming-5) (2026-10-16)
+- [Automate Excel Find and Replace with Python and Highlight Changes](https://medium.com/@sirio1234/automate-excel-find-and-replace-with-python-and-highlight-changes-32dbbe5db4fd?source=rss------programming-5) (2026-10-16)
+- [We Told Our Developers AI Would Give Them More Free Time. Six Months Later, Nobody Was Taking Lunch](https://levelup.gitconnected.com/we-told-our-developers-ai-would-give-them-more-free-time-six-months-later-nobody-was-taking-lunch-609963e5c4b1?source=rss------programming-5) (2026-10-16)
+- [Python 3.15 Made My CLI Start 10x Faster With One Keyword](https://medium.com/@yrastogi90/python-3-15-made-my-cli-start-10x-faster-with-one-keyword-8a5428d5f6a6?source=rss------programming-5) (2026-10-16)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
 - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
 - [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/) (2026-10-06)
 
 </details>
 
@@ -458,11 +458,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [How to host a test version of your app without replacing production (2026)](https://www.prisma.io/blog/host-a-test-version-without-replacing-production) (2026-10-15)
 - [We closed 330 of your most-requested issues with Prisma ORM 8](https://www.prisma.io/blog/prisma-orm-8-closes-330-most-requested-issues) (2026-10-12)
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
 - [App hosting platforms with managed Postgres compared (2026): Node.js on Prisma Compute, Railway, Render, Fly.io, Vercel](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
 - [Hosting and managed Postgres options for a startup's first 100 paying users (2026)](https://www.prisma.io/blog/choosing-hosting-and-postgres-after-your-first-100-users) (2026-09-24)
-- [Neon alternatives with app hosting and Postgres in one place (2026): Prisma, Railway, Render, Supabase](https://www.prisma.io/blog/neon-vs-prisma-postgres-app-hosting-in-one-place) (2026-09-24)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>💬 Slack API</summary>
 
+- [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
 - [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 - [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
 - [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
 - [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
-- [Slack Feature Drop: It’s Officially Fall, But Innovations Are Still in Bloom](https://slack.com/blog/news/slack-feature-drop-september2026) (2026-09-30)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check ](https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/) (2026-10-16)
 - [How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model](https://www.analyticsvidhya.com/blog/2026/10/typesafe-ai-jev-tutorial/) (2026-10-15)
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
 - [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
-- [How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents ](https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/) (2026-10-11)
 
 </details>
 
@@ -639,17 +639,6 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
-- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
