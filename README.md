@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/) (2026-10-16)
+- [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) (2026-10-15)
+- [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/) (2026-10-15)
 - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/) (2026-10-15)
 - [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/) (2026-10-15)
-- [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/) (2026-10-15)
-- [Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/) (2026-10-15)
-- [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/) (2026-10-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/) (2026-10-15)
-- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts) (2026-10-15)
-- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) (2026-10-15)
-- [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4) (2026-10-15)
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) (2026-10-15)
+- [Woman arrested after blocking delivery robot in Center City Philadelphia](https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/) (2026-10-16)
+- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/) (2026-10-16)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) (2026-10-16)
+- [Tesla Roadster](https://www.tesla.com/roadster) (2026-10-16)
+- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving) (2026-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Bluesky&#8217;s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps) (2026-10-15)
-- [Withings now charges $100 per year to sync your data to other apps](https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026) (2026-10-15)
-- [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx) (2026-10-15)
-- [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player) (2026-10-15)
-- [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban) (2026-10-15)
+- [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk) (2026-10-16)
+- [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets) (2026-10-15)
+- [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) (2026-10-15)
+- [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) (2026-10-15)
+- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) (2026-10-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [What did the Liberty Bell sound like? Science is on the case.](https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/) (2026-10-15)
-- [Black Sea drone attacks enter NATO country's territorial waters for first time](https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/) (2026-10-15)
-- [Microplastics in water aren’t inert and make damaging chemicals on their own](https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/) (2026-10-15)
-- [Trump cancels Pentagon plans to livestream firing squad execution](https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/) (2026-10-15)
-- [Neutron's first launch slips again amid trouble with carbon composites](https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/) (2026-10-15)
+- [KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell](https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/) (2026-10-15)
+- [Plex now helps sell movie theater tickets](https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/) (2026-10-15)
+- [Hegseth’s dubious low-T screening may flag up to 25 percent of the Army](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/) (2026-10-15)
+- [Targeted ads delivered 0-click exploits to install mercenary malware](https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/) (2026-10-15)
+- [Above the 911? Porsche previews a new mid-engined supercar.](https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/) (2026-10-15)
 
 </details>
 
@@ -65,10 +65,10 @@
 <summary>🐙 GitHub Blog</summary>
 
 - [The next developer interface is ambient intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/) (2026-10-15)
+- [Staying Evergreen: How we automated secure access and repo hygiene in a shared org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/) (2026-10-15)
 - [GitHub availability report: September 2026](https://github.blog/news-insights/company-news/github-availability-report-september-2026/) (2026-10-14)
 - [From 2,500 requests to 24: Rebuilding star history without the stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/) (2026-10-14)
 - [GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/) (2026-10-13)
-- [GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/) (2026-10-12)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Write a commit message for what you staged, not everything you edited](https://dev.to/herebuggedout/write-a-commit-message-for-what-you-staged-not-everything-you-edited-58if) (2026-10-15)
-- [Flutter + TensorRT/ONNX Edge Inference: Keep Tensor Work Outside Widgets](https://dev.to/vmodal_ai/flutter-tensorrtonnx-edge-inference-keep-tensor-work-outside-widgets-2hna) (2026-10-15)
-- [Smart Glasses Companion Apps: Sensor Fusion Without Excessive Flutter Work](https://dev.to/vmodal_ai/smart-glasses-companion-apps-sensor-fusion-without-excessive-flutter-work-obo) (2026-10-15)
-- [Flutter + NVIDIA Models: Runtime Capability Negotiation](https://dev.to/vmodal_ai/flutter-nvidia-models-runtime-capability-negotiation-344m) (2026-10-15)
-- [Flutter + Jetson Video: Decode Backpressure and Adaptive Stream Quality](https://dev.to/vmodal_ai/flutter-jetson-video-decode-backpressure-and-adaptive-stream-quality-2a49) (2026-10-15)
+- [Hacktoberfest Melbourne 2026](https://dev.to/decodebyshreyas/hacktoberfest-melbourne-2026-3amo) (2026-10-16)
+- [Zero-Cloud AI Code Review: Connecting Self-Hosted GitLab to Local CUDA LLM Runtimes](https://dev.to/hrlpavan/zero-cloud-ai-code-review-connecting-self-hosted-gitlab-to-local-cuda-llm-runtimes-ih2) (2026-10-16)
+- [The Only VS Code Shortcuts Worth Learning First](https://dev.to/systemcraftdev/the-only-vs-code-shortcuts-worth-learning-first-154m) (2026-10-16)
+- [System design for physical AI: one flight of 4 band imagery and LiDAR, bound into a site ontology](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-one-flight-of-4-band-imagery-and-lidar-bound-into-a-site-ontology-36oo) (2026-10-16)
+- [Building an Automated Engineering Telemetry Pipeline with GitLab CI/CD](https://dev.to/hrlpavan/building-an-automated-engineering-telemetry-pipeline-with-gitlab-cicd-4f6j) (2026-10-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 5 – Gemini 4 Argon débarque : Google relance la bataille des LLM, l’Europe muscle ses GPU](https://medium.com/@sara.hammouda/day-5-gemini-4-argon-d%C3%A9barque-google-relance-la-bataille-des-llm-leurope-muscle-ses-gpu-e1c9381c6195?source=rss------programming-5) (2026-10-15)
-- [Node.js 26 Finally Fixes One of JavaScript’s Most Annoying Problems](https://medium.com/codex/node-js-26-finally-fixes-one-of-javascripts-most-annoying-problems-aaf0feb63bd4?source=rss------programming-5) (2026-10-15)
-- [Introducing the BondStats Developer API: Programmatic Access to Financial Reference Data](https://medium.com/@BondStats/introducing-the-bondstats-developer-api-programmatic-access-to-financial-reference-data-796f6d135fef?source=rss------programming-5) (2026-10-15)
-- [C Compilation — From Source to Executable](https://medium.com/@fahad.rasheed004/c-compilation-from-source-to-executable-18d619c2c530?source=rss------programming-5) (2026-10-15)
-- [Polymorphism (Part 1): Stop Teaching “Dog extends Animal”](https://medium.com/@xenoterracide/polymorphism-part-1-stop-teaching-dog-extends-animal-d866e681c516?source=rss------programming-5) (2026-10-15)
+- [How to Escape Tutorial Hell Without Giving Up Tutorials](https://medium.com/@webdevhamid/how-to-escape-tutorial-hell-without-giving-up-tutorials-ab15bb037d83?source=rss------programming-5) (2026-10-16)
+- [How to Check Website Loading Speed in Chrome Without Opening DevTools](https://medium.com/@saraltechies/how-to-check-website-loading-speed-in-chrome-without-opening-devtools-95f3f52da4a1?source=rss------programming-5) (2026-10-16)
+- [AI Didn’t Take My Backend Job. It Changed What I Get Paid For.](https://medium.com/@karanhotwani15/ai-didnt-take-my-backend-job-it-changed-what-i-get-paid-for-a010b76ea235?source=rss------programming-5) (2026-10-16)
+- [C# Control Statements Explained: if, if-else, else-if, and switch](https://medium.com/@shitalkhairnar680/c-control-statements-explained-if-if-else-else-if-and-switch-769ce5fce2dd?source=rss------programming-5) (2026-10-16)
+- [AI Agent Deployment Strategies: How to Release Changes Without Breaking Production](https://medium.com/@scosmexs/ai-agent-deployment-strategies-how-to-release-changes-without-breaking-production-3373cf15598b?source=rss------programming-5) (2026-10-16)
 
 </details>
 
@@ -342,8 +342,8 @@
 - [GitLab Secrets Manager: Govern secrets like your code](https://about.gitlab.com/blog/secrets-manager-ga/) (2026-10-15)
 - [Get every merge request in front of the right reviewer, faster](https://about.gitlab.com/blog/recommend-reviewers-flow/) (2026-10-15)
 - [Connect your agents to your software lifecycle with the GitLab MCP server](https://about.gitlab.com/blog/mcp-server-ga/) (2026-10-15)
+- [Unblock agentic software delivery with governed code review](https://about.gitlab.com/blog/gitlab-code-review/) (2026-10-15)
 - [GitLab 19.5 released](https://docs.gitlab.com/releases/19/gitlab-19-5-released/) (2026-10-15)
-- [Gemini 4 Argon on GitLab: Built for long-running agentic work](https://about.gitlab.com/blog/gitlab-google-gemini-argon/) (2026-10-14)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-10-15)
 - [Open weight takes 71.5% of tokens and 23% of spend](https://vercel.com/blog/ai-gateway-production-index-october-2026) (2026-10-15)
 - [Vercel for Enterprise](https://vercel.com/blog/vercel-for-enterprise) (2026-10-15)
 - [Introducing Vercel Drives: persistent storage for agents](https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents) (2026-10-15)
 - [Backends on Vercel: Python, containers, and Daemons](https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons) (2026-10-15)
-- [Python on Vercel is now generally available](https://vercel.com/blog/python-on-vercel-is-now-generally-available) (2026-10-15)
 
 </details>
 
@@ -436,11 +436,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>⚡ Supabase Blog</summary>
 
+- [How a new branch gets its config, migrations, and functions](https://supabase.com/blog/how-a-new-branch-gets-its-config-migrations-and-functions) (2026-10-15)
 - [Sync real-time Stripe data to Supabase with Stripe Data Pipeline](https://supabase.com/blog/stripe-data-pipeline-now-syncs-real-time-data-to-supabase) (2026-10-15)
 - [How we made the Supabase Select 2026 badge](https://supabase.com/blog/how-we-made-the-supabase-select-2026-badge) (2026-10-14)
+- [A local Supabase project per agent, with or without Docker](https://supabase.com/blog/local-supabase-project-per-agent-with-or-without-docker) (2026-10-14)
 - [Declarative Schemas 2.0 with pg-delta](https://supabase.com/blog/declarative-schemas-2-0-pg-delta) (2026-10-13)
-- [Ship changes to your Supabase backend with Grok Bot](https://supabase.com/blog/ship-changes-to-your-supabase-backend-with-grok-bot) (2026-10-13)
-- [Supabase Select 2026 Recap](https://supabase.com/blog/supabase-select-2026-recap) (2026-10-02)
 
 </details>
 
@@ -579,8 +579,8 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) (2026-10-16)
 - [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1) (2026-10-15)
-- [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) (2026-10-15)
 - [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open) (2026-10-15)
 - [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3) (2026-10-15)
 - [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2) (2026-10-14)
