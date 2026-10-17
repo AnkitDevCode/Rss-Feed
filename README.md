@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-17)
+- [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/) (2026-10-17)
 - [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/) (2026-10-17)
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-16)
 - [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/) (2026-10-16)
 - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) (2026-10-16)
-- [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) (2026-10-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) (2026-10-17)
-- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) (2026-10-17)
-- [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/) (2026-10-17)
-- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) (2026-10-17)
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) (2026-10-17)
+- [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (2026-10-17)
+- [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da) (2026-10-17)
+- [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative) (2026-10-17)
+- [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it) (2026-10-17)
+- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) (2026-10-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile) (2026-10-17)
-- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) (2026-10-17)
-- [Bose’s new wired earbuds are simple in the best way](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review) (2026-10-17)
-- [Apple’s HomeView is just the latest threat to online recipe writers](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting) (2026-10-17)
-- [It’s a dream week for tech docs](https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer) (2026-10-17)
+- [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary) (2026-10-17)
+- [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance) (2026-10-17)
+- [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway) (2026-10-17)
+- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) (2026-10-17)
+- [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale) (2026-10-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Starting My JavaScript Journey as a Computer Science Freshman](https://dev.to/nknexul_45e05d43d440/starting-my-javascript-journey-as-a-computer-science-freshman-39mh) (2026-10-17)
-- [Monolith versus distributed system](https://dev.to/fosteman/monolith-versus-distributed-system-40mi) (2026-10-17)
-- [Building Medirescue-AI: Revolutionizing Emergency Healthcare with FalkorDB Knowledge Graphs](https://dev.to/abinaya_fcbfecbddbaa8c696/building-medirescue-ai-revolutionizing-emergency-healthcare-with-falkordb-knowledge-graphs-5bf1) (2026-10-17)
-- [Your AI Demo Works. Production Won't. A Free 11-Part Course on AI System Design](https://dev.to/himanshu_joshi_e1a672cb00/your-ai-demo-works-production-wont-a-free-11-part-course-on-ai-system-design-2fn4) (2026-10-17)
-- [What We Learned Benchmarking AI App Builders on 103 Real Creative Tasks](https://dev.to/jack_eazo/what-we-learned-benchmarking-ai-app-builders-on-103-real-creative-tasks-32pj) (2026-10-17)
+- [Dissecting Open WebUI's FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71) (2026-10-17)
+- [Meta removes scraping language from commercial terms after backlash](https://dev.to/chandan_kumar_1afaffcf991/meta-removes-scraping-language-from-commercial-terms-after-backlash-3j4c) (2026-10-17)
+- [Turning a 3D configurator into a real quote - price and lead time, not just a pretty model](https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0) (2026-10-17)
+- [We Did It: Our First Client Project Is Live](https://dev.to/eng_abdullah_2331143c2d5a/we-did-it-our-first-client-project-is-live-2ke3) (2026-10-17)
+- [My site publishes a blog post a day while I sleep — no cron, no CMS (week 6 build-log)](https://dev.to/pipatlas26/my-site-publishes-a-blog-post-a-day-while-i-sleep-no-cron-no-cms-week-6-build-log-alk) (2026-10-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Skills That Matter More as AI Gets Better at Coding](https://medium.com/@sovannaro17/5-skills-that-matter-more-as-ai-gets-better-at-coding-68facd53c11d?source=rss------programming-5) (2026-10-17)
-- [Python’daki img2pdf Nedir ve Nasıl Kullanılır — 2026](https://medium.com/@sevki6463/pythondaki-img2pdf-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-2026-5cb4251d2a70?source=rss------programming-5) (2026-10-17)
-- [7 Free CLI Tools That Cut the Boring Parts of Coding](https://halilozel1903.medium.com/7-free-cli-tools-that-cut-the-boring-parts-of-coding-5e33ca3969d2?source=rss------programming-5) (2026-10-17)
-- [HLD vs LLD: The City Map and the Building Blueprint Every Developer Must Understand](https://medium.com/@yashkoladiya004/hld-vs-lld-the-city-map-and-the-building-blueprint-every-developer-must-understand-05d656f1a6c5?source=rss------programming-5) (2026-10-17)
-- [Axum vs Actix Web in 2027: Which One Should You Build Your Next API With?](https://medium.com/@thyzmile24/axum-vs-actix-web-in-2027-which-one-should-you-build-your-next-api-with-c2b2f03f49de?source=rss------programming-5) (2026-10-17)
+- [Jev by TypeSafe AI: From “Smart If-Statement” to Production — A Complete, Hands-On Guide](https://aeontanvir.medium.com/jev-by-typesafe-ai-from-smart-if-statement-to-production-a-complete-hands-on-guide-209b039a78b5?source=rss------programming-5) (2026-10-17)
+- [Device Firmware Interviews: Endianness, Bit Predicates and Memory Errors](https://krishnachetan.medium.com/device-firmware-interviews-endianness-bit-predicates-and-memory-errors-ea62c822c34c?source=rss------programming-5) (2026-10-17)
+- [Firmware Interviews at Software Companies: Buffering, Ownership and Deadlines](https://krishnachetan.medium.com/firmware-interviews-at-software-companies-buffering-ownership-and-deadlines-9a1b45112afb?source=rss------programming-5) (2026-10-17)
+- [Performance Firmware Interviews: Bits, Byte Order and Real-Time Tradeoffs](https://krishnachetan.medium.com/performance-firmware-interviews-bits-byte-order-and-real-time-tradeoffs-28ab010f0ebe?source=rss------programming-5) (2026-10-17)
+- [SoC Interviews: C Semantics, Binary Search and DMA Boundaries](https://krishnachetan.medium.com/soc-interviews-c-semantics-binary-search-and-dma-boundaries-1a0ed78bf925?source=rss------programming-5) (2026-10-17)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [AI Gateway logs now show session affinity](https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity) (2026-10-17)
 - [DeepSeek V4.1 Flash 1017 now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway) (2026-10-17)
 - [Vercel and Shopify make agents first-class shoppers](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) (2026-10-16)
 - [Elorian AI's Glimpse now available on AI Gateway](https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway) (2026-10-16)
 - [Perplexity's Decider V1.2 models now available on AI Gateway](https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway) (2026-10-16)
-- [Reflection AI's Beam now available on AI Gateway for free](https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free) (2026-10-16)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
-- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
-- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
 - [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -606,17 +606,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
 - [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself](https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself) (2026-10-16)
-- [5 Best Resources to Learn About World Models in 2026](https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026) (2026-10-16)
-- [Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know](https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know) (2026-10-15)
-- [Building AI Applications with OGX, the Open-Source Agentic API Server](https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx) (2026-10-15)
-- [7 Open-Source AI Tools That Can Replace Paid Subscriptions](https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions) (2026-10-15)
 
 </details>
 
