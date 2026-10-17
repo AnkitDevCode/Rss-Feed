@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/) (2026-10-17)
+- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-16)
 - [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/) (2026-10-16)
 - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) (2026-10-16)
 - [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) (2026-10-16)
-- [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/) (2026-10-16)
-- [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) (2026-10-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein) (2026-10-16)
-- [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health) (2026-10-16)
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) (2026-10-16)
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) (2026-10-16)
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) (2026-10-16)
+- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) (2026-10-17)
+- [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/) (2026-10-17)
+- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/) (2026-10-16)
+- [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency) (2026-10-16)
+- [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314) (2026-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements) (2026-10-16)
+- [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) (2026-10-16)
+- [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli) (2026-10-16)
+- [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash) (2026-10-16)
 - [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home) (2026-10-16)
-- [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale) (2026-10-16)
-- [Apple&#8217;s HomeView has an app problem](https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast) (2026-10-16)
-- [Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades](https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus) (2026-10-16)
-- [A fake WhatsApp clone is showing up before the real version on the Play Store](https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android) (2026-10-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) (2026-10-16)
+- [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) (2026-10-16)
+- [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/) (2026-10-16)
+- [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/) (2026-10-16)
 - [RFK Jr. proposes FDA look the other way on unproven peptides, report says](https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/) (2026-10-16)
-- [Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees](https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/) (2026-10-16)
-- [Polymarket saw $600 million in election trades after the elections were over](https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/) (2026-10-16)
-- [Tesla turns to 50-year-old stunt technology as it tries to Roadster again](https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/) (2026-10-16)
-- [Super Scam Me documentary shows what it takes to catch a romance scammer](https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/) (2026-10-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built free PDF tools that never upload your files](https://dev.to/pdfutils/i-built-free-pdf-tools-that-never-upload-your-files-4eb1) (2026-10-16)
-- [Gas Optimization Audit: Falcon Finance](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-falcon-finance-3nc9) (2026-10-16)
-- [As Software Factories Evolve, Release Decisions Must Keep Pace](https://dev.to/alexiskroberson/as-software-factories-evolve-release-decisions-must-keep-pace-143d) (2026-10-16)
-- [Munim: a bill diary that tells kirana owners when a supplier quietly raised the price](https://dev.to/ghanshyam_jha/munim-a-bill-diary-that-tells-kirana-owners-when-a-supplier-quietly-raised-the-price-49a0) (2026-10-16)
-- [InstaPilot AI](https://dev.to/someshcoding/instapilot-ai-2f6b) (2026-10-16)
+- [Get an Email When Your EC2 CPU Spikes: CloudWatch + SNS](https://dev.to/vishal_patil_aws/get-an-email-when-your-ec2-cpu-spikes-cloudwatch-sns-59a8) (2026-10-17)
+- [Building a "Jarvis" agent mesh with Neuron workflows](https://dev.to/jouliose/building-a-jarvis-agent-mesh-with-neuron-workflows-42cd) (2026-10-17)
+- [How to Check a Pitch Shift Without Confusing It with Faster Playback](https://dev.to/creatunealex/how-to-check-a-pitch-shift-without-confusing-it-with-faster-playback-m9m) (2026-10-17)
+- [Stop Unwanted Emails from Leaving Salesforce: Blocking Addresses in Email-to-Case](https://dev.to/rohanmehta/stop-unwanted-emails-from-leaving-salesforce-blocking-addresses-in-email-to-case-2m6b) (2026-10-17)
+- [Why six forts fight at once: the design of Ringfort](https://dev.to/fervogame/why-six-forts-fight-at-once-the-design-of-ringfort-2db1) (2026-10-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Day Our Junior Developer Stopped Being Afraid of Breaking Production, I Started Worrying](https://medium.com/engineering-playbook/the-day-our-junior-developer-stopped-being-afraid-of-breaking-production-i-started-worrying-5ee06700bac9?source=rss------programming-5) (2026-10-16)
-- [The Engineer Everyone Called Difficult Was the Only One Who Saw the Disaster Coming](https://medium.com/engineering-playbook/the-engineer-everyone-called-difficult-was-the-only-one-who-saw-the-disaster-coming-e411f61b3f0c?source=rss------programming-5) (2026-10-16)
-- [A Small Model, One Narrow Question, and a Bug in Our Own Data](https://medium.com/@vladichumachenko/a-small-model-one-narrow-question-and-a-bug-in-our-own-data-1888df0f5130?source=rss------programming-5) (2026-10-16)
-- [Dark by 5 p.m.: A Reading List for Long Autumn Evenings](https://medium.com/@owl_team/dark-by-5-p-m-a-reading-list-for-long-autumn-evenings-781ce385aeca?source=rss------programming-5) (2026-10-16)
-- [What If a Node.js Web Framework Compiled Your App Before the First Request?](https://medium.com/@erenthedeveloper0/what-if-a-node-js-web-framework-compiled-your-app-before-the-first-request-5d3f1bf74264?source=rss------programming-5) (2026-10-16)
+- [AI Agent FinOps: Measuring Cost, Ownership, and Business Value](https://medium.com/@scosmexs/ai-agent-finops-measuring-cost-ownership-and-business-value-0f032b9f4c5b?source=rss------programming-5) (2026-10-17)
+- [Why Every .NET Developer Will Be Using AI by 2027](https://medium.com/@ashokreddy343/why-every-net-developer-will-be-using-ai-by-2027-e2ef0d5d706c?source=rss------programming-5) (2026-10-17)
+- [What Advice Would You Give Someone Thinking of Switching to Linux?](https://pawannatekar220.medium.com/what-advice-would-you-give-someone-thinking-of-switching-to-linux-b2a92443ed96?source=rss------programming-5) (2026-10-17)
+- [MCP Explained: What Happens When AI Connects to the Outside World?](https://medium.com/@sameerathore4624/mcp-explained-what-happens-when-ai-connects-to-the-outside-world-f9adfbf22393?source=rss------programming-5) (2026-10-17)
+- [Security Best Practices in Go That actually matter](https://medium.com/codex/security-best-practices-in-go-that-actually-matter-6b320df98c40?source=rss------programming-5) (2026-10-17)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
 - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
+- [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updated App Review Guidelines are now available](https://developer.apple.com/news/?id=92th7e5i) (2026-10-16)
+- [Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps](https://developer.apple.com/news/?id=vvzx6cul) (2026-10-16)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=17mwd36z) (2026-10-13)
 - [Hello Developer: October 2026](https://developer.apple.com/news/?id=gv788oj6) (2026-10-06)
 - [Prepare and submit your apps for iPhone Duo](https://developer.apple.com/news/?id=kkphp5qo) (2026-10-06)
-- [Showcase your apps with new assets on the App Store](https://developer.apple.com/news/?id=ljpl7kyn) (2026-10-05)
-- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw) (2026-10-02)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Vercel and Shopify make agents first-class shoppers](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) (2026-10-16)
+- [Perplexity's Decider V1.2 models now available on AI Gateway](https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway) (2026-10-16)
 - [Reflection AI's Beam now available on AI Gateway for free](https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free) (2026-10-16)
 - [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-10-15)
 - [Open weight takes 71.5% of tokens and 23% of spend](https://vercel.com/blog/ai-gateway-production-index-october-2026) (2026-10-15)
-- [Vercel for Enterprise](https://vercel.com/blog/vercel-for-enterprise) (2026-10-15)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Twilio Video Media SDK Powers Smarter Customer Engagement
+](
+https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch
+) (2026-10-15)
+- [
+How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and TypeScript
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript
+) (2026-10-15)
+- [
+What is agentic identity? Securing AI agents in 2026
+](
+https://www.twilio.com/en-us/blog/insights/agentic-identity
+) (2026-10-15)
+- [
 How to Retrieve a Phone Number's SMS Pumping Score in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust
@@ -393,21 +408,6 @@ Cyber Week Readiness: A Developer's Guide to Scalable Comms
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week
 ) (2026-10-13)
-- [
-Now in GA: Power Live Conversations with Segment Conversation Memory Integration
-](
-https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga
-) (2026-10-12)
-- [
-Unified Customer Communications: Twilio Voice, SMS, and WhatsApp meet Salesforce
-](
-https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce
-) (2026-10-08)
-- [
-Building a Multi-Channel AI Agent with Twilio Conversations and eve
-](
-https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve
-) (2026-10-08)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>⚡ Zapier Blog</summary>
 
-- [What is Google Vids? And how to use it ](https://zapier.com/blog/google-vids) (2026-10-16)
 - [The 3 best free RSS reader apps in 2026](https://zapier.com/blog/best-rss-feed-reader-apps) (2026-10-16)
+- [What is Google Vids? And how to use it ](https://zapier.com/blog/google-vids) (2026-10-16)
 - [The 7 best employee management software and apps in 2026](https://zapier.com/blog/best-employee-management-software) (2026-10-15)
 - [From a garage and a pickup truck to $3.8 million](https://zapier.com/blog/3r-plumbing-next-gen-zaps) (2026-10-14)
-- [Human-in-the-loop in AI workflows: HITL meaning, benefits, and practical patterns](https://zapier.com/blog/human-in-the-loop) (2026-10-14)
+- [The best AI chatbots in 2026](https://zapier.com/blog/best-ai-chatbot) (2026-10-14)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
+- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
+- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
 - [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
-- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
-- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
-- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -639,6 +639,17 @@ https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
+- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
