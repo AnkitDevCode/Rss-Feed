@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- ["Tame" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf) (2026-10-17)
-- [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search) (2026-10-17)
+- [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) (2026-10-17)
+- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) (2026-10-17)
+- [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/) (2026-10-17)
 - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) (2026-10-17)
 - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) (2026-10-17)
-- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) (2026-10-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements) (2026-10-16)
-- [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) (2026-10-16)
-- [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli) (2026-10-16)
-- [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash) (2026-10-16)
-- [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home) (2026-10-16)
+- [SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile) (2026-10-17)
+- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) (2026-10-17)
+- [Bose’s new wired earbuds are simple in the best way](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review) (2026-10-17)
+- [Apple’s HomeView is just the latest threat to online recipe writers](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting) (2026-10-17)
+- [It’s a dream week for tech docs](https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer) (2026-10-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/) (2026-10-17)
+- [Why BioWare's Neverwinter Nights still has thousands of active players](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/) (2026-10-17)
 - [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) (2026-10-16)
 - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) (2026-10-16)
 - [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/) (2026-10-16)
-- [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/) (2026-10-16)
-- [RFK Jr. proposes FDA look the other way on unproven peptides, report says](https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/) (2026-10-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Python Decorators: A Beginner's Guide](https://dev.to/sameerqaiser17/python-decorators-a-beginners-guide-34dl) (2026-10-17)
-- [A scanner asked our site for 400 secret files in one minute. Here is the whole list, and what answered.](https://dev.to/bananafestdestiny/a-scanner-asked-our-site-for-400-secret-files-in-one-minute-here-is-the-whole-list-and-what-80i) (2026-10-17)
-- [My Developer Portfolio Is Live — Here's What I'm Building](https://dev.to/ojaspal/my-developer-portfolio-is-live-heres-what-im-building-256h) (2026-10-17)
-- [A(4) = 4: one more vector settles Z_4^9 x Z_2^2](https://dev.to/munimv2/a4-4-one-more-vector-settles-z49-x-z22-54ie) (2026-10-17)
-- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn) (2026-10-17)
+- [Starting My JavaScript Journey as a Computer Science Freshman](https://dev.to/nknexul_45e05d43d440/starting-my-javascript-journey-as-a-computer-science-freshman-39mh) (2026-10-17)
+- [Monolith versus distributed system](https://dev.to/fosteman/monolith-versus-distributed-system-40mi) (2026-10-17)
+- [Building Medirescue-AI: Revolutionizing Emergency Healthcare with FalkorDB Knowledge Graphs](https://dev.to/abinaya_fcbfecbddbaa8c696/building-medirescue-ai-revolutionizing-emergency-healthcare-with-falkordb-knowledge-graphs-5bf1) (2026-10-17)
+- [Your AI Demo Works. Production Won't. A Free 11-Part Course on AI System Design](https://dev.to/himanshu_joshi_e1a672cb00/your-ai-demo-works-production-wont-a-free-11-part-course-on-ai-system-design-2fn4) (2026-10-17)
+- [What We Learned Benchmarking AI App Builders on 103 Real Creative Tasks](https://dev.to/jack_eazo/what-we-learned-benchmarking-ai-app-builders-on-103-real-creative-tasks-32pj) (2026-10-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 30 Core Java Interview Questions for Freshers in 2026: Answers, Examples, and Interview Tips](https://medium.com/@vdesale181/top-30-core-java-interview-questions-for-freshers-in-2026-answers-examples-and-interview-tips-445b671bf237?source=rss------programming-5) (2026-10-17)
-- [What is the Future of Power BI and Business Intelligence?](https://medium.com/microsoft-power-bi/what-is-the-future-of-power-bi-and-business-intelligence-5197207f510f?source=rss------programming-5) (2026-10-17)
-- [httpx vs requests vs aiohttp vs urllib3: aiohttp Hit 30,241 Requests a Second.](https://python.plainenglish.io/httpx-vs-requests-vs-aiohttp-vs-urllib3-aiohttp-hit-30-241-requests-a-second-132a4709f7b4?source=rss------programming-5) (2026-10-17)
-- [Anthropic Replaced Git With Scion. Is Git Becoming Obsolete in the Age of AI?](https://maheshwarimrinal.medium.com/anthropic-scion-vs-git-ai-version-control-8ba7ea38aa20?source=rss------programming-5) (2026-10-17)
-- [Move a Project Without Losing Your Claude Code History](https://daviddalbusco.medium.com/move-a-project-without-losing-your-claude-code-history-c6989590c7c0?source=rss------programming-5) (2026-10-17)
+- [5 Skills That Matter More as AI Gets Better at Coding](https://medium.com/@sovannaro17/5-skills-that-matter-more-as-ai-gets-better-at-coding-68facd53c11d?source=rss------programming-5) (2026-10-17)
+- [Python’daki img2pdf Nedir ve Nasıl Kullanılır — 2026](https://medium.com/@sevki6463/pythondaki-img2pdf-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-2026-5cb4251d2a70?source=rss------programming-5) (2026-10-17)
+- [7 Free CLI Tools That Cut the Boring Parts of Coding](https://halilozel1903.medium.com/7-free-cli-tools-that-cut-the-boring-parts-of-coding-5e33ca3969d2?source=rss------programming-5) (2026-10-17)
+- [HLD vs LLD: The City Map and the Building Blueprint Every Developer Must Understand](https://medium.com/@yashkoladiya004/hld-vs-lld-the-city-map-and-the-building-blueprint-every-developer-must-understand-05d656f1a6c5?source=rss------programming-5) (2026-10-17)
+- [Axum vs Actix Web in 2027: Which One Should You Build Your Next API With?](https://medium.com/@thyzmile24/axum-vs-actix-web-in-2027-which-one-should-you-build-your-next-api-with-c2b2f03f49de?source=rss------programming-5) (2026-10-17)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
 - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
+- [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
 
 </details>
 
@@ -384,14 +384,19 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Twilio Video Media SDK Powers Smarter Customer Engagement
+How to modernize CX without ripping and replacing your stack
 ](
-https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch
-) (2026-10-15)
+https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace
+) (2026-10-16)
 - [
 How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and TypeScript
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript
+) (2026-10-15)
+- [
+Twilio Video Media SDK Powers Smarter Customer Engagement
+](
+https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch
 ) (2026-10-15)
 - [
 What is agentic identity? Securing AI agents in 2026
@@ -403,11 +408,6 @@ How to Retrieve a Phone Number's SMS Pumping Score in Rust
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust
 ) (2026-10-14)
-- [
-Cyber Week Readiness: A Developer's Guide to Scalable Comms
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week
-) (2026-10-13)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Number Your Quantization Gate Doesn't Have](https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/) (2026-10-17)
+- [When EEG Models See the Same People in Training and Testing](https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/) (2026-10-17)
 - [Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It](https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/) (2026-10-16)
 - [I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.](https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/) (2026-10-16)
 - [Deploying Data Science Tools: Part 1](https://towardsdatascience.com/deploying-data-science-tools-part-1/) (2026-10-16)
-- [I Reran My Python 3.14 JIT Benchmarks on Python 3.15](https://towardsdatascience.com/i-reran-my-python-314-jit-benchmarks-on-python-315/) (2026-10-16)
-- [Jev Your Engines: Seven Open Decision Models vs. a Generative LLM](https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/) (2026-10-15)
 
 </details>
 
