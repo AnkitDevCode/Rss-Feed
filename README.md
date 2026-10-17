@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) (2026-10-17)
-- [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/) (2026-10-17)
-- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/) (2026-10-16)
-- [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency) (2026-10-16)
-- [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314) (2026-10-16)
+- ["Tame" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf) (2026-10-17)
+- [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search) (2026-10-17)
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) (2026-10-17)
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) (2026-10-17)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) (2026-10-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Get an Email When Your EC2 CPU Spikes: CloudWatch + SNS](https://dev.to/vishal_patil_aws/get-an-email-when-your-ec2-cpu-spikes-cloudwatch-sns-59a8) (2026-10-17)
-- [Building a "Jarvis" agent mesh with Neuron workflows](https://dev.to/jouliose/building-a-jarvis-agent-mesh-with-neuron-workflows-42cd) (2026-10-17)
-- [How to Check a Pitch Shift Without Confusing It with Faster Playback](https://dev.to/creatunealex/how-to-check-a-pitch-shift-without-confusing-it-with-faster-playback-m9m) (2026-10-17)
-- [Stop Unwanted Emails from Leaving Salesforce: Blocking Addresses in Email-to-Case](https://dev.to/rohanmehta/stop-unwanted-emails-from-leaving-salesforce-blocking-addresses-in-email-to-case-2m6b) (2026-10-17)
-- [Why six forts fight at once: the design of Ringfort](https://dev.to/fervogame/why-six-forts-fight-at-once-the-design-of-ringfort-2db1) (2026-10-17)
+- [Python Decorators: A Beginner's Guide](https://dev.to/sameerqaiser17/python-decorators-a-beginners-guide-34dl) (2026-10-17)
+- [A scanner asked our site for 400 secret files in one minute. Here is the whole list, and what answered.](https://dev.to/bananafestdestiny/a-scanner-asked-our-site-for-400-secret-files-in-one-minute-here-is-the-whole-list-and-what-80i) (2026-10-17)
+- [My Developer Portfolio Is Live — Here's What I'm Building](https://dev.to/ojaspal/my-developer-portfolio-is-live-heres-what-im-building-256h) (2026-10-17)
+- [A(4) = 4: one more vector settles Z_4^9 x Z_2^2](https://dev.to/munimv2/a4-4-one-more-vector-settles-z49-x-z22-54ie) (2026-10-17)
+- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn) (2026-10-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Agent FinOps: Measuring Cost, Ownership, and Business Value](https://medium.com/@scosmexs/ai-agent-finops-measuring-cost-ownership-and-business-value-0f032b9f4c5b?source=rss------programming-5) (2026-10-17)
-- [Why Every .NET Developer Will Be Using AI by 2027](https://medium.com/@ashokreddy343/why-every-net-developer-will-be-using-ai-by-2027-e2ef0d5d706c?source=rss------programming-5) (2026-10-17)
-- [What Advice Would You Give Someone Thinking of Switching to Linux?](https://pawannatekar220.medium.com/what-advice-would-you-give-someone-thinking-of-switching-to-linux-b2a92443ed96?source=rss------programming-5) (2026-10-17)
-- [MCP Explained: What Happens When AI Connects to the Outside World?](https://medium.com/@sameerathore4624/mcp-explained-what-happens-when-ai-connects-to-the-outside-world-f9adfbf22393?source=rss------programming-5) (2026-10-17)
-- [Security Best Practices in Go That actually matter](https://medium.com/codex/security-best-practices-in-go-that-actually-matter-6b320df98c40?source=rss------programming-5) (2026-10-17)
+- [Top 30 Core Java Interview Questions for Freshers in 2026: Answers, Examples, and Interview Tips](https://medium.com/@vdesale181/top-30-core-java-interview-questions-for-freshers-in-2026-answers-examples-and-interview-tips-445b671bf237?source=rss------programming-5) (2026-10-17)
+- [What is the Future of Power BI and Business Intelligence?](https://medium.com/microsoft-power-bi/what-is-the-future-of-power-bi-and-business-intelligence-5197207f510f?source=rss------programming-5) (2026-10-17)
+- [httpx vs requests vs aiohttp vs urllib3: aiohttp Hit 30,241 Requests a Second.](https://python.plainenglish.io/httpx-vs-requests-vs-aiohttp-vs-urllib3-aiohttp-hit-30-241-requests-a-second-132a4709f7b4?source=rss------programming-5) (2026-10-17)
+- [Anthropic Replaced Git With Scion. Is Git Becoming Obsolete in the Age of AI?](https://maheshwarimrinal.medium.com/anthropic-scion-vs-git-ai-version-control-8ba7ea38aa20?source=rss------programming-5) (2026-10-17)
+- [Move a Project Without Losing Your Claude Code History](https://daviddalbusco.medium.com/move-a-project-without-losing-your-claude-code-history-c6989590c7c0?source=rss------programming-5) (2026-10-17)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
 - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
-- [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [DeepSeek V4.1 Flash 1017 now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway) (2026-10-17)
 - [Vercel and Shopify make agents first-class shoppers](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) (2026-10-16)
+- [Elorian AI's Glimpse now available on AI Gateway](https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway) (2026-10-16)
 - [Perplexity's Decider V1.2 models now available on AI Gateway](https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway) (2026-10-16)
 - [Reflection AI's Beam now available on AI Gateway for free](https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free) (2026-10-16)
-- [Vercel Ship 2026 recap](https://vercel.com/blog/vercel-ship-2026-recap) (2026-10-15)
-- [Open weight takes 71.5% of tokens and 23% of spend](https://vercel.com/blog/ai-gateway-production-index-october-2026) (2026-10-15)
 
 </details>
 
