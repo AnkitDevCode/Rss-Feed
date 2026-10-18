@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) (2026-10-18)
-- [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends) (2026-10-18)
-- [JDK 28](https://openjdk.org/projects/jdk/28/) (2026-10-17)
-- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/) (2026-10-17)
-- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921) (2026-10-17)
+- [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/) (2026-10-18)
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) (2026-10-18)
+- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685) (2026-10-18)
+- [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) (2026-10-18)
+- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) (2026-10-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Furifont: cómo OpenType incrusta la furigana en la fuente](https://dev.to/lu1tr0n/furifont-como-opentype-incrusta-la-furigana-en-la-fuente-25fa) (2026-10-18)
-- [Scripting Flipper Zero Firmware Updates: A Developer's qFlipper Field Notes](https://dev.to/alioutreach5555/scripting-flipper-zero-firmware-updates-a-developers-qflipper-field-notes-2478) (2026-10-18)
-- [Build an Independent Attempt into Your AI Training App](https://dev.to/harshithvaddiparthy/build-an-independent-attempt-into-your-ai-training-app-4j73) (2026-10-18)
-- [Your First Agent as a Service: Deploying a Support Agent on AgentCore](https://dev.to/aws-builders/your-first-agent-as-a-service-deploying-a-support-agent-on-agentcore-48hh) (2026-10-18)
-- [Docker container keeps restarting? Find out why the loop won't stop](https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab) (2026-10-18)
+- [Prompt Caching: The 90% Discount You're Missing](https://dev.to/hammad_malik_d39574d24320/prompt-caching-the-90-discount-youre-missing-28a0) (2026-10-18)
+- [Tu workflow con IA necesita algo más que generar código](https://dev.to/arquitecturasoftware/tu-workflow-con-ia-necesita-algo-mas-que-generar-codigo-4o41) (2026-10-18)
+- [5 disk space features I'm considering for a Mac dev cleaner. Which would you use?](https://dev.to/dawedev/5-disk-space-features-im-considering-for-a-mac-dev-cleaner-which-would-you-use-27i7) (2026-10-18)
+- [LLM - Memory for Agent](https://dev.to/technonotes/llm-memory-for-agent-4l8l) (2026-10-18)
+- [Nuxt 4.6 useSession: Server Sessions Without a Database](https://dev.to/parsajiravand/nuxt-46-usesession-server-sessions-without-a-database-19f0) (2026-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to turn Claude Code into a full stack developer](https://medium.com/@sebastianbarria/how-to-turn-claude-code-into-a-full-stack-developer-e07efecf73ce?source=rss------programming-5) (2026-10-18)
-- [AI Agent Capacity Planning: Predicting Demand Before Systems Break](https://medium.com/@scosmexs/ai-agent-capacity-planning-predicting-demand-before-systems-break-ada4140cb493?source=rss------programming-5) (2026-10-18)
-- [Most Coding Agents Grep First and Think Later. Here’s the Fix.](https://medium.com/@ahirlog/most-coding-agents-grep-first-and-think-later-heres-the-fix-6b75d496b489?source=rss------programming-5) (2026-10-18)
-- [[Seri Membuat VPN Sendiri Bagian 7] Menjangkau client VPN lewat nama](https://medium.com/@archetipe/seri-membuat-vpn-sendiri-bagian-7-menjangkau-client-vpn-lewat-nama-29043bc1ae24?source=rss------programming-5) (2026-10-18)
-- [I Used AI to Write Code for 30 Days. Here’s What Actually Saved Me Time (and What Didn’t)](https://medium.com/@muruganantham52524/i-used-ai-to-write-code-for-30-days-heres-what-actually-saved-me-time-and-what-didn-t-eee7a0809698?source=rss------programming-5) (2026-10-18)
+- [10 Underrated MCP Servers Developers Should Know](https://python.plainenglish.io/10-underrated-mcp-servers-developers-should-know-c7fb316c5a86?source=rss------programming-5) (2026-10-18)
+- [What Happens When You Try to Bypass Coding Agent Guardrails?](https://medium.com/@csseong97/what-happens-when-you-try-to-bypass-coding-agent-guardrails-c2e120762b25?source=rss------programming-5) (2026-10-18)
+- [ ChatGPT Parallel Agents in 2026: The Hidden Cost Trap (and the 60-Second Test That Saves Your…](https://medium.com/@Travel4Fun4U/chatgpt-parallel-agents-in-2026-the-hidden-cost-trap-and-the-60-second-test-that-saves-your-304574c82bd3?source=rss------programming-5) (2026-10-18)
+- [Copilot, Claude Code and Codex Now Run on Rust. AI Ported Two of Them in Weeks.](https://medium.com/@reactbd/copilot-claude-code-and-codex-now-run-on-rust-ai-ported-two-of-them-in-weeks-f3f6fc5451f5?source=rss------programming-5) (2026-10-18)
+- [What Do 8 CPU Cores Actually Buy You? Real Scaling Data from Python, Java, Go, and Rust](https://medium.com/@cse20160007/what-do-8-cpu-cores-actually-buy-you-real-scaling-data-from-python-java-go-and-rust-03bf5cc3e63e?source=rss------programming-5) (2026-10-18)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
+- [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
-- [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
-- [AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/) (2026-10-07)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Reverse Engineer Anything (REA): Can AI Really Crack Closed Code?](https://www.analyticsvidhya.com/blog/2026/10/rea-ai-agent-reverse-engineer-anything/) (2026-10-18)
 - [JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check ](https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/) (2026-10-16)
 - [How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model](https://www.analyticsvidhya.com/blog/2026/10/typesafe-ai-jev-tutorial/) (2026-10-15)
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
-- [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
 
 </details>
 
