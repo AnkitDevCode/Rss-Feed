@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/) (2026-10-18)
-- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) (2026-10-18)
-- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685) (2026-10-18)
-- [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) (2026-10-18)
-- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) (2026-10-18)
+- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) (2026-10-18)
+- [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model) (2026-10-18)
+- [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car) (2026-10-18)
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) (2026-10-18)
+- [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) (2026-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary) (2026-10-17)
-- [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance) (2026-10-17)
-- [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway) (2026-10-17)
-- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) (2026-10-17)
-- [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale) (2026-10-17)
+- [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview) (2026-10-18)
+- [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass) (2026-10-18)
+- [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget) (2026-10-18)
+- [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history) (2026-10-18)
+- [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws) (2026-10-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Prompt Caching: The 90% Discount You're Missing](https://dev.to/hammad_malik_d39574d24320/prompt-caching-the-90-discount-youre-missing-28a0) (2026-10-18)
-- [Tu workflow con IA necesita algo más que generar código](https://dev.to/arquitecturasoftware/tu-workflow-con-ia-necesita-algo-mas-que-generar-codigo-4o41) (2026-10-18)
-- [5 disk space features I'm considering for a Mac dev cleaner. Which would you use?](https://dev.to/dawedev/5-disk-space-features-im-considering-for-a-mac-dev-cleaner-which-would-you-use-27i7) (2026-10-18)
-- [LLM - Memory for Agent](https://dev.to/technonotes/llm-memory-for-agent-4l8l) (2026-10-18)
-- [Nuxt 4.6 useSession: Server Sessions Without a Database](https://dev.to/parsajiravand/nuxt-46-usesession-server-sessions-without-a-database-19f0) (2026-10-18)
+- [PROVENANCE — I Built an Offline AI Antique Appraiser That Runs in a Basement with No Signal](https://dev.to/sohaibtausif141/provenance-i-built-an-offline-ai-antique-appraiser-that-runs-in-a-basement-with-no-signal-5lj) (2026-10-18)
+- [ClauseClear: Gemma 3 1B flags the risky clauses in your client contract, privately](https://dev.to/eusebiosimango/clauseclear-gemma-3-1b-flags-the-risky-clauses-in-your-client-contract-privately-1507) (2026-10-18)
+- [How to Join a Pure AI Agent Community in 30 Seconds (No Human Needed)](https://dev.to/machenh001/how-to-join-a-pure-ai-agent-community-in-30-seconds-no-human-needed-1ppl) (2026-10-18)
+- [I Put My Own Product Through a Colonoscopy and Found 260 Things](https://dev.to/choksi_3003/i-put-my-own-product-through-a-colonoscopy-and-found-260-things-3895) (2026-10-18)
+- [Athena: A Local-First Git & AST Change-Intelligence Engine and MCP Server](https://dev.to/aaryanrwt/athena-a-local-first-git-ast-change-intelligence-engine-and-mcp-server-eok) (2026-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Underrated MCP Servers Developers Should Know](https://python.plainenglish.io/10-underrated-mcp-servers-developers-should-know-c7fb316c5a86?source=rss------programming-5) (2026-10-18)
-- [What Happens When You Try to Bypass Coding Agent Guardrails?](https://medium.com/@csseong97/what-happens-when-you-try-to-bypass-coding-agent-guardrails-c2e120762b25?source=rss------programming-5) (2026-10-18)
-- [ ChatGPT Parallel Agents in 2026: The Hidden Cost Trap (and the 60-Second Test That Saves Your…](https://medium.com/@Travel4Fun4U/chatgpt-parallel-agents-in-2026-the-hidden-cost-trap-and-the-60-second-test-that-saves-your-304574c82bd3?source=rss------programming-5) (2026-10-18)
-- [Copilot, Claude Code and Codex Now Run on Rust. AI Ported Two of Them in Weeks.](https://medium.com/@reactbd/copilot-claude-code-and-codex-now-run-on-rust-ai-ported-two-of-them-in-weeks-f3f6fc5451f5?source=rss------programming-5) (2026-10-18)
-- [What Do 8 CPU Cores Actually Buy You? Real Scaling Data from Python, Java, Go, and Rust](https://medium.com/@cse20160007/what-do-8-cpu-cores-actually-buy-you-real-scaling-data-from-python-java-go-and-rust-03bf5cc3e63e?source=rss------programming-5) (2026-10-18)
+- [My Best Senior Engineer Refused to Use AI for One Week. By Friday, He Was Questioning His Entire..](https://blog.stackademic.com/my-best-senior-engineer-refused-to-use-ai-for-one-week-by-friday-he-was-questioning-his-entire-d8ed63d86607?source=rss------programming-5) (2026-10-18)
+- [A Junior Engineer Solved in 20 Minutes What Took My Senior Engineer Three Days. Nobody Celebrated.](https://medium.com/engineering-playbook/a-junior-engineer-solved-in-20-minutes-what-took-my-senior-engineer-three-days-nobody-celebrated-96905d5e7beb?source=rss------programming-5) (2026-10-18)
+- [How to Make Git Write Your Commit Messages With a Local LLM](https://medium.com/@ahirlog/how-to-make-git-write-your-commit-messages-with-a-local-llm-6ee109fa75e6?source=rss------programming-5) (2026-10-18)
+- [You’re Not Supposed to Prompt Opus. You’re Supposed to Build a System That Prompts Itself.](https://iamdgarcia.medium.com/youre-not-supposed-to-prompt-opus-you-re-supposed-to-build-a-system-that-prompts-itself-8d6ebbf3a551?source=rss------programming-5) (2026-10-18)
+- [Developer Salaries Rose 5% Between Surveys, but the Same Developer Got 1%](https://medium.com/data-and-beyond/developer-salaries-rose-5-between-surveys-but-the-same-developer-got-1-4bfe02a81a4f?source=rss------programming-5) (2026-10-18)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 - [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 - [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
+- [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Inferring the Host: A Bayesian Look at the Monty Hall Problem](https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/) (2026-10-18)
+- [Both Charts Are Right. So Why Do They Disagree?](https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/) (2026-10-18)
 - [The Number Your Quantization Gate Doesn't Have](https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/) (2026-10-17)
 - [When EEG Models See the Same People in Training and Testing](https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/) (2026-10-17)
 - [Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It](https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/) (2026-10-16)
-- [I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.](https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/) (2026-10-16)
-- [Deploying Data Science Tools: Part 1](https://towardsdatascience.com/deploying-data-science-tools-part-1/) (2026-10-16)
 
 </details>
 
