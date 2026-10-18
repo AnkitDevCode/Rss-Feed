@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-17)
+- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) (2026-10-17)
+- [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/) (2026-10-17)
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) (2026-10-17)
+- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-17)
 - [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/) (2026-10-17)
-- [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/) (2026-10-17)
-- [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/) (2026-10-16)
-- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) (2026-10-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (2026-10-17)
-- [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da) (2026-10-17)
-- [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative) (2026-10-17)
-- [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it) (2026-10-17)
-- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) (2026-10-17)
+- [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) (2026-10-18)
+- [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends) (2026-10-18)
+- [JDK 28](https://openjdk.org/projects/jdk/28/) (2026-10-17)
+- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/) (2026-10-17)
+- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921) (2026-10-17)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dissecting Open WebUI's FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71) (2026-10-17)
-- [Meta removes scraping language from commercial terms after backlash](https://dev.to/chandan_kumar_1afaffcf991/meta-removes-scraping-language-from-commercial-terms-after-backlash-3j4c) (2026-10-17)
-- [Turning a 3D configurator into a real quote - price and lead time, not just a pretty model](https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0) (2026-10-17)
-- [We Did It: Our First Client Project Is Live](https://dev.to/eng_abdullah_2331143c2d5a/we-did-it-our-first-client-project-is-live-2ke3) (2026-10-17)
-- [My site publishes a blog post a day while I sleep — no cron, no CMS (week 6 build-log)](https://dev.to/pipatlas26/my-site-publishes-a-blog-post-a-day-while-i-sleep-no-cron-no-cms-week-6-build-log-alk) (2026-10-17)
+- [Furifont: cómo OpenType incrusta la furigana en la fuente](https://dev.to/lu1tr0n/furifont-como-opentype-incrusta-la-furigana-en-la-fuente-25fa) (2026-10-18)
+- [Scripting Flipper Zero Firmware Updates: A Developer's qFlipper Field Notes](https://dev.to/alioutreach5555/scripting-flipper-zero-firmware-updates-a-developers-qflipper-field-notes-2478) (2026-10-18)
+- [Build an Independent Attempt into Your AI Training App](https://dev.to/harshithvaddiparthy/build-an-independent-attempt-into-your-ai-training-app-4j73) (2026-10-18)
+- [Your First Agent as a Service: Deploying a Support Agent on AgentCore](https://dev.to/aws-builders/your-first-agent-as-a-service-deploying-a-support-agent-on-agentcore-48hh) (2026-10-18)
+- [Docker container keeps restarting? Find out why the loop won't stop](https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab) (2026-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Jev by TypeSafe AI: From “Smart If-Statement” to Production — A Complete, Hands-On Guide](https://aeontanvir.medium.com/jev-by-typesafe-ai-from-smart-if-statement-to-production-a-complete-hands-on-guide-209b039a78b5?source=rss------programming-5) (2026-10-17)
-- [Device Firmware Interviews: Endianness, Bit Predicates and Memory Errors](https://krishnachetan.medium.com/device-firmware-interviews-endianness-bit-predicates-and-memory-errors-ea62c822c34c?source=rss------programming-5) (2026-10-17)
-- [Firmware Interviews at Software Companies: Buffering, Ownership and Deadlines](https://krishnachetan.medium.com/firmware-interviews-at-software-companies-buffering-ownership-and-deadlines-9a1b45112afb?source=rss------programming-5) (2026-10-17)
-- [Performance Firmware Interviews: Bits, Byte Order and Real-Time Tradeoffs](https://krishnachetan.medium.com/performance-firmware-interviews-bits-byte-order-and-real-time-tradeoffs-28ab010f0ebe?source=rss------programming-5) (2026-10-17)
-- [SoC Interviews: C Semantics, Binary Search and DMA Boundaries](https://krishnachetan.medium.com/soc-interviews-c-semantics-binary-search-and-dma-boundaries-1a0ed78bf925?source=rss------programming-5) (2026-10-17)
+- [How to turn Claude Code into a full stack developer](https://medium.com/@sebastianbarria/how-to-turn-claude-code-into-a-full-stack-developer-e07efecf73ce?source=rss------programming-5) (2026-10-18)
+- [AI Agent Capacity Planning: Predicting Demand Before Systems Break](https://medium.com/@scosmexs/ai-agent-capacity-planning-predicting-demand-before-systems-break-ada4140cb493?source=rss------programming-5) (2026-10-18)
+- [Most Coding Agents Grep First and Think Later. Here’s the Fix.](https://medium.com/@ahirlog/most-coding-agents-grep-first-and-think-later-heres-the-fix-6b75d496b489?source=rss------programming-5) (2026-10-18)
+- [[Seri Membuat VPN Sendiri Bagian 7] Menjangkau client VPN lewat nama](https://medium.com/@archetipe/seri-membuat-vpn-sendiri-bagian-7-menjangkau-client-vpn-lewat-nama-29043bc1ae24?source=rss------programming-5) (2026-10-18)
+- [I Used AI to Write Code for 30 Days. Here’s What Actually Saved Me Time (and What Didn’t)](https://medium.com/@muruganantham52524/i-used-ai-to-write-code-for-30-days-heres-what-actually-saved-me-time-and-what-didn-t-eee7a0809698?source=rss------programming-5) (2026-10-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/) (2026-10-17)
 - [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/) (2026-10-15)
 - [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/) (2026-10-15)
 - [Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/) (2026-10-15)
 - [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/) (2026-10-15)
-- [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](https://blogs.nvidia.com/blog/nordics-technology-ecosystem/) (2026-10-15)
 
 </details>
 
@@ -606,6 +606,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
 - [OpenAI Decisions API Tutorial for Building Decision Agents](https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/) (2026-10-13)
 - [LLM Batching Explained: Static vs Dynamic vs Continuous Batching](https://www.analyticsvidhya.com/blog/2026/10/llm-batching/) (2026-10-12)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself](https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself) (2026-10-16)
+- [5 Best Resources to Learn About World Models in 2026](https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026) (2026-10-16)
+- [Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know](https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know) (2026-10-15)
+- [Building AI Applications with OGX, the Open-Source Agentic API Server](https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx) (2026-10-15)
+- [7 Open-Source AI Tools That Can Replace Paid Subscriptions](https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions) (2026-10-15)
 
 </details>
 
