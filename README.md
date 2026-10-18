@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/) (2026-10-18)
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) (2026-10-18)
+- [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/) (2026-10-18)
 - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) (2026-10-17)
 - [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/) (2026-10-17)
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) (2026-10-17)
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) (2026-10-17)
-- [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/) (2026-10-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) (2026-10-18)
-- [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model) (2026-10-18)
-- [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car) (2026-10-18)
-- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) (2026-10-18)
-- [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) (2026-10-18)
+- [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa) (2026-10-18)
+- [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/) (2026-10-18)
+- [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/) (2026-10-18)
+- [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html) (2026-10-18)
+- [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/) (2026-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review) (2026-10-18)
+- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) (2026-10-18)
+- [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act) (2026-10-18)
+- [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale) (2026-10-18)
 - [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview) (2026-10-18)
-- [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass) (2026-10-18)
-- [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget) (2026-10-18)
-- [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history) (2026-10-18)
-- [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws) (2026-10-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Anthropic gives outside AI watchdog “employee-like” access](https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/) (2026-10-18)
 - [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/) (2026-10-17)
 - [Why BioWare's Neverwinter Nights still has thousands of active players](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/) (2026-10-17)
 - [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) (2026-10-16)
 - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) (2026-10-16)
-- [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/) (2026-10-16)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PROVENANCE — I Built an Offline AI Antique Appraiser That Runs in a Basement with No Signal](https://dev.to/sohaibtausif141/provenance-i-built-an-offline-ai-antique-appraiser-that-runs-in-a-basement-with-no-signal-5lj) (2026-10-18)
-- [ClauseClear: Gemma 3 1B flags the risky clauses in your client contract, privately](https://dev.to/eusebiosimango/clauseclear-gemma-3-1b-flags-the-risky-clauses-in-your-client-contract-privately-1507) (2026-10-18)
-- [How to Join a Pure AI Agent Community in 30 Seconds (No Human Needed)](https://dev.to/machenh001/how-to-join-a-pure-ai-agent-community-in-30-seconds-no-human-needed-1ppl) (2026-10-18)
-- [I Put My Own Product Through a Colonoscopy and Found 260 Things](https://dev.to/choksi_3003/i-put-my-own-product-through-a-colonoscopy-and-found-260-things-3895) (2026-10-18)
-- [Athena: A Local-First Git & AST Change-Intelligence Engine and MCP Server](https://dev.to/aaryanrwt/athena-a-local-first-git-ast-change-intelligence-engine-and-mcp-server-eok) (2026-10-18)
+- [GPUStack With vLLM in Production: Pinning KV Cache Before the OOM Finds You](https://dev.to/dave_mille/gpustack-with-vllm-in-production-pinning-kv-cache-before-the-oom-finds-you-84m) (2026-10-18)
+- [Must Read for Vibe Coders: The Five Habits That Separate a Demo From a Product](https://dev.to/tdk-cli/must-read-for-vibe-coders-the-five-habits-that-separate-a-demo-from-a-product-32ee) (2026-10-18)
+- [Udhaar Book: photograph the khata, get the udhaar back](https://dev.to/ramantiw45/udhaar-book-photograph-the-khata-get-the-udhaar-back-5bej) (2026-10-18)
+- [Node.js Daily Shipment Reports: Scheduling Subscriber Email Fan-Out with Durable Jobs](https://dev.to/vespasianblack3884/nodejs-daily-shipment-reports-scheduling-subscriber-email-fan-out-with-durable-jobs-1p92) (2026-10-18)
+- [Building a Leakage-Aware Readmission Model on 100,000 Diabetic Encounters](https://dev.to/code_with_mwai/building-a-leakage-aware-readmission-model-on-100000-diabetic-encounters-2dmf) (2026-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Best Senior Engineer Refused to Use AI for One Week. By Friday, He Was Questioning His Entire..](https://blog.stackademic.com/my-best-senior-engineer-refused-to-use-ai-for-one-week-by-friday-he-was-questioning-his-entire-d8ed63d86607?source=rss------programming-5) (2026-10-18)
-- [A Junior Engineer Solved in 20 Minutes What Took My Senior Engineer Three Days. Nobody Celebrated.](https://medium.com/engineering-playbook/a-junior-engineer-solved-in-20-minutes-what-took-my-senior-engineer-three-days-nobody-celebrated-96905d5e7beb?source=rss------programming-5) (2026-10-18)
-- [How to Make Git Write Your Commit Messages With a Local LLM](https://medium.com/@ahirlog/how-to-make-git-write-your-commit-messages-with-a-local-llm-6ee109fa75e6?source=rss------programming-5) (2026-10-18)
-- [You’re Not Supposed to Prompt Opus. You’re Supposed to Build a System That Prompts Itself.](https://iamdgarcia.medium.com/youre-not-supposed-to-prompt-opus-you-re-supposed-to-build-a-system-that-prompts-itself-8d6ebbf3a551?source=rss------programming-5) (2026-10-18)
-- [Developer Salaries Rose 5% Between Surveys, but the Same Developer Got 1%](https://medium.com/data-and-beyond/developer-salaries-rose-5-between-surveys-but-the-same-developer-got-1-4bfe02a81a4f?source=rss------programming-5) (2026-10-18)
+- [How to Create Game Item Tooltips in Python Tkinter](https://medium.com/@codequest4/how-to-create-game-item-tooltips-in-python-tkinter-a3830bcfc8da?source=rss------programming-5) (2026-10-18)
+- [Your Waveform’s Lowest Sample May Miss Its Deepest Trough](https://medium.com/@valentyn.m/your-waveforms-lowest-sample-may-miss-its-deepest-trough-896c52ca1759?source=rss------programming-5) (2026-10-18)
+- [Starknet Explained](https://hashtagweb3.medium.com/starknet-explained-2e5158858fc7?source=rss------programming-5) (2026-10-18)
+- [The Fraud Wasn’t in the Transaction. It Was in the Graph.](https://medium.com/@mail.mohitbisht/the-fraud-wasnt-in-the-transaction-it-was-in-the-graph-df1e6c5bfc84?source=rss------programming-5) (2026-10-18)
+- [8 Python Scripts for Files You Keep Fixing by Hand](https://blog.stackademic.com/8-python-scripts-for-files-you-keep-fixing-by-hand-e7471d2a0755?source=rss------programming-5) (2026-10-18)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Can you bake Maven into a neural network?](https://blog.jetbrains.com/ai/2026/10/can-you-bake-maven-into-a-neural-network/) (2026-10-18)
 - [Junie Local Comes to the NVIDIA RTX Spark](https://blog.jetbrains.com/junie/2026/10/junie-local-rtx-spark/) (2026-10-16)
 - [Google Summer of Code 2026 With the Kotlin Foundation: Recap](https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/) (2026-10-15)
 - [IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0](https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/) (2026-10-15)
 - [How Netflix Made AI Coding Agents More Efficient with JetBrains IDE Intelligence](https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/) (2026-10-15)
-- [MPS 2026.2 Release Candidate Available](https://blog.jetbrains.com/mps/2026/10/the-mps-2026-2-rc1/) (2026-10-15)
 
 </details>
 
@@ -361,7 +361,7 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [AI Gateway logs now show session affinity](https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity) (2026-10-17)
+- [AI Gateway logs now show session affinity](https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity) (2026-10-18)
 - [DeepSeek V4.1 Flash 1017 now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway) (2026-10-17)
 - [Vercel and Shopify make agents first-class shoppers](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) (2026-10-16)
 - [Elorian AI's Glimpse now available on AI Gateway](https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway) (2026-10-16)
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
+- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
+- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
+- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
-- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
-- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
-- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
