@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/) (2026-10-18)
+- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) (2026-10-18)
 - [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/) (2026-10-18)
 - [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) (2026-10-18)
 - [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/) (2026-10-18)
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) (2026-10-17)
-- [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/) (2026-10-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa) (2026-10-18)
-- [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/) (2026-10-18)
-- [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/) (2026-10-18)
-- [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html) (2026-10-18)
-- [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/) (2026-10-18)
+- [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/) (2026-10-19)
+- [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/) (2026-10-19)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) (2026-10-18)
+- [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base) (2026-10-18)
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) (2026-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband) (2026-10-18)
 - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review) (2026-10-18)
 - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) (2026-10-18)
 - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act) (2026-10-18)
 - [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale) (2026-10-18)
-- [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview) (2026-10-18)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [GPUStack With vLLM in Production: Pinning KV Cache Before the OOM Finds You](https://dev.to/dave_mille/gpustack-with-vllm-in-production-pinning-kv-cache-before-the-oom-finds-you-84m) (2026-10-18)
-- [Must Read for Vibe Coders: The Five Habits That Separate a Demo From a Product](https://dev.to/tdk-cli/must-read-for-vibe-coders-the-five-habits-that-separate-a-demo-from-a-product-32ee) (2026-10-18)
-- [Udhaar Book: photograph the khata, get the udhaar back](https://dev.to/ramantiw45/udhaar-book-photograph-the-khata-get-the-udhaar-back-5bej) (2026-10-18)
-- [Node.js Daily Shipment Reports: Scheduling Subscriber Email Fan-Out with Durable Jobs](https://dev.to/vespasianblack3884/nodejs-daily-shipment-reports-scheduling-subscriber-email-fan-out-with-durable-jobs-1p92) (2026-10-18)
-- [Building a Leakage-Aware Readmission Model on 100,000 Diabetic Encounters](https://dev.to/code_with_mwai/building-a-leakage-aware-readmission-model-on-100000-diabetic-encounters-2dmf) (2026-10-18)
+- [Why Hosted Checkout Breaks Your Analytics (and How I Fixed Attribution with Webhooks)](https://dev.to/_d56ee71434515ebe5ebd7f/why-hosted-checkout-breaks-your-analytics-and-how-i-fixed-attribution-with-webhooks-14hb) (2026-10-19)
+- [LLM API prices, AI funding and a no-key MCP server: TANDIU weekly data notes (Oct 13–19, 2026)](https://dev.to/tandiudata/llm-api-prices-ai-funding-and-a-no-key-mcp-server-tandiu-weekly-data-notes-oct-13-19-2026-1n7i) (2026-10-19)
+- [Why your 2-node Proxmox cluster freezes (and the QDevice fix that is not a third server)](https://dev.to/charleshartmann/why-your-2-node-proxmox-cluster-freezes-and-the-qdevice-fix-that-is-not-a-third-server-2hca) (2026-10-19)
+- [How to deploy a website at a low cost? How to choose between Vercel and Cloudflare?](https://dev.to/jy_huang/how-to-deploy-a-website-at-a-low-cost-how-to-choose-between-vercel-and-cloudflare-ib7) (2026-10-19)
+- [The Stateless Store: Building a Backendless E-commerce Checkout on Public Blockchain Data](https://dev.to/renev3408/the-stateless-store-building-a-backendless-e-commerce-checkout-on-public-blockchain-data-5g1i) (2026-10-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Create Game Item Tooltips in Python Tkinter](https://medium.com/@codequest4/how-to-create-game-item-tooltips-in-python-tkinter-a3830bcfc8da?source=rss------programming-5) (2026-10-18)
-- [Your Waveform’s Lowest Sample May Miss Its Deepest Trough](https://medium.com/@valentyn.m/your-waveforms-lowest-sample-may-miss-its-deepest-trough-896c52ca1759?source=rss------programming-5) (2026-10-18)
-- [Starknet Explained](https://hashtagweb3.medium.com/starknet-explained-2e5158858fc7?source=rss------programming-5) (2026-10-18)
-- [The Fraud Wasn’t in the Transaction. It Was in the Graph.](https://medium.com/@mail.mohitbisht/the-fraud-wasnt-in-the-transaction-it-was-in-the-graph-df1e6c5bfc84?source=rss------programming-5) (2026-10-18)
-- [8 Python Scripts for Files You Keep Fixing by Hand](https://blog.stackademic.com/8-python-scripts-for-files-you-keep-fixing-by-hand-e7471d2a0755?source=rss------programming-5) (2026-10-18)
+- [Top 10 Rust Crates and Tools](https://liu-111.medium.com/top-10-rust-crates-and-tools-e81e54642b2a?source=rss------programming-5) (2026-10-19)
+- [Popeye: Linting the Cluster You Have, Not the YAML You Wrote](https://liu-111.medium.com/popeye-linting-the-cluster-you-have-not-the-yaml-you-wrote-4de3eaad08f9?source=rss------programming-5) (2026-10-19)
+- [AI Agent Scheduling and Prioritization: Deciding Which Tasks Run First](https://medium.com/@scosmexs/ai-agent-scheduling-and-prioritization-deciding-which-tasks-run-first-878dc881e079?source=rss------programming-5) (2026-10-19)
+- [Beyond Localhost Biweekly — Ten engineering reads from the last two weeks](https://medium.com/beyond-localhost/beyond-localhost-biweekly-ten-engineering-reads-from-the-last-two-weeks-4798d302a72c?source=rss------programming-5) (2026-10-19)
+- [Walmart Jobs in the USA – Explore Career Opportunities Today](https://medium.com/@mdjahid01332713731/walmart-jobs-in-the-usa-explore-career-opportunities-today-bec087471a16?source=rss------programming-5) (2026-10-19)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
-- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
-- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
-- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -639,17 +639,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
-- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
