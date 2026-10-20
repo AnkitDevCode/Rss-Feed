@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/) (2026-10-20)
-- [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/) (2026-10-20)
-- [TikTok staff raised child safety concerns, but executives reportedly failed to act](https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/) (2026-10-20)
-- [Figma co-founder Dylan Field thinks MCP is not a perfect protocol](https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/) (2026-10-20)
-- [SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation](https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/) (2026-10-20)
+- [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/) (2026-10-20)
+- [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/) (2026-10-20)
+- [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/) (2026-10-20)
+- [GM to close Detroit battery assembly plant, but not for reasons you might think](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/) (2026-10-20)
+- [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/) (2026-10-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenDE: Play Deus Ex 1999 demo in the browser](https://opende.netlify.app) (2026-10-20)
-- [Why do we have so many meetings?](https://www.nber.org/papers/w35706) (2026-10-20)
-- [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) (2026-10-20)
-- [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor) (2026-10-20)
-- [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583) (2026-10-20)
+- [On AI writing](https://www.bolkunov.com/p/on-ai-writing) (2026-10-20)
+- [SimCity, but with Permits](https://permit.petercai.com/) (2026-10-20)
+- [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design) (2026-10-20)
+- [What shall I teach my son?](https://stevekrouse.com/ends) (2026-10-20)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) (2026-10-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Over $963,000 worth of graded Pokémon and sports cards were stolen from Fedex](https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex) (2026-10-20)
-- [Spotify pulled 50 million AI slop and spam tracks from its recommendations](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed) (2026-10-20)
-- [TikTok employees said they knew about child safety issues, but execs failed to act](https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings) (2026-10-20)
-- [Adobe Lightroom mobile can now open closed eyes in photos with a simple tap](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair) (2026-10-20)
-- [Wii Sports is back on the Switch 2, and it rules](https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2) (2026-10-20)
+- [Netflix is telling investors not to worry, even though you&#8217;re watching less and less](https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time) (2026-10-20)
+- [Snap is paying Robert Downey Jr. to do the Iron Man thing](https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr) (2026-10-20)
+- [SpaceX says big AI growth fueled revenue jump](https://www.theverge.com/science/1014150/spacex-q3-2026-earnings) (2026-10-20)
+- [Oura adds two new cardiovascular health tracking features to its smart rings](https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular) (2026-10-20)
+- [TikTok has started censoring searches for popular peptides](https://www.theverge.com/science/1014825/peptide-tiktok-search-ban) (2026-10-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Meta Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) (2026-10-20)
-- [Visiting Slate’s first showroom as its $25,000 electric truck nears production](https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/) (2026-10-20)
-- [Japan launches mission to bring home a piece of the Martian moon Phobos](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/) (2026-10-20)
-- [Pennsylvania issues alert on congenital measles—something US hasn't seen for decades](https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/) (2026-10-19)
-- [Russian spacecraft maneuvers in "extreme proximity" to satellite used by Ukraine](https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/) (2026-10-19)
+- [JustWatch, which tackles streaming fragmentation, launches own streaming service](https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/) (2026-10-20)
+- [Meta drops the word "train" from its commercial TOS after AI backlash](https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/) (2026-10-20)
+- [Gemini's Personal Intelligence is coming to cars](https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/) (2026-10-20)
+- [OpenBSD 8.0 arrives with security record still intact](https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/) (2026-10-20)
+- [The Internet goes on high alert after discovery of 8 compromised TLS certs](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/) (2026-10-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/) (2026-10-20)
 - [The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/) (2026-10-20)
 - [The Download: the claim shaking up AI and the internet’s agent problem](https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/) (2026-10-20)
 - [AI adoption by industry shows what other sectors can learn](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/) (2026-10-20)
 - [How to study a swiftly melting climate disaster](https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/) (2026-10-20)
-- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) (2026-10-20)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Node.js In-App Notifications — Realtime Channels Versus Polling for Small SaaS](https://dev.to/nilsberg2187/nodejs-in-app-notifications-realtime-channels-versus-polling-for-small-saas-3932) (2026-10-20)
-- [Your AI Coding Credentials Are Now Infostealer Targets](https://dev.to/relayshield/your-ai-coding-credentials-are-now-infostealer-targets-1j79) (2026-10-20)
-- [Fintech Log Costs 2026: 4 Controls for Hosted API Requests and Background Jobs](https://dev.to/zebedeeholloway9023/fintech-log-costs-2026-4-controls-for-hosted-api-requests-and-background-jobs-4cai) (2026-10-20)
-- [CheckMate: An AI-Powered Chess Game Built with Java](https://dev.to/abhishekdpandey18/checkmate-an-ai-powered-chess-game-built-with-java-4g0o) (2026-10-20)
-- [How to get a list of UK companies by SIC code and postcode (no API key)](https://dev.to/zaidistudio/how-to-get-a-list-of-uk-companies-by-sic-code-and-postcode-no-api-key-459n) (2026-10-20)
+- [Slow and Steady: local, open-source AI that helps you work without urgency or cloud lock-in](https://dev.to/mhmmdamier/slow-and-steady-local-open-source-ai-that-helps-you-work-without-urgency-or-cloud-lock-in-51g) (2026-10-20)
+- [Make your v0 or Cursor app stop looking AI-built in 10 minutes](https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg) (2026-10-20)
+- [The Inverse of `.gitignore`: How Losing a `.env` Turned Into safekeep](https://dev.to/foxhound87/the-inverse-of-gitignore-how-losing-a-env-turned-into-safekeep-1lf4) (2026-10-20)
+- [Green Screen vs AI Background Removal: They're Not Playing the Same Game (Scenario Table Inside)](https://dev.to/removebgfromvideo/green-screen-vs-ai-background-removal-theyre-not-playing-the-same-game-scenario-table-inside-22l9) (2026-10-20)
+- [Building a Zero-Ad, Sub-100ms Build Planner for Shape of Dreams on Astro 4](https://dev.to/powerechozhang/building-a-zero-ad-sub-100ms-build-planner-for-shape-of-dreams-on-astro-4-2630) (2026-10-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built an Open-Source CodeRabbit Alternative. Here’s Exactly How It Works.](https://medium.com/@jagdeepsnh57/i-built-an-open-source-coderabbit-alternative-heres-exactly-how-it-works-4d28853e859c?source=rss------programming-5) (2026-10-20)
-- [What If History Had Taken a Different Turn?](https://code.likeagirl.io/what-if-history-had-taken-a-different-turn-855076cd3919?source=rss------programming-5) (2026-10-20)
-- [Stop Logging Plain Strings Like a Junior Dev: Senior Devs Use These 4 Structured Logging Patterns](https://blog.stackademic.com/stop-logging-plain-strings-like-a-junior-dev-senior-devs-use-these-4-structured-logging-patterns-cc27c950cc70?source=rss------programming-5) (2026-10-20)
-- [Zig Dropped LLVM for Debug Builds and Compile Times Fell About 5x](https://medium.com/@coders.stop/zig-dropped-llvm-for-debug-builds-and-compile-times-fell-about-5x-a2e96db2397d?source=rss------programming-5) (2026-10-20)
-- [Why OpenAI Walked Away From SWE-bench Verified](https://medium.com/@sohail_saifi/why-openai-walked-away-from-swe-bench-verified-4bfecb9be331?source=rss------programming-5) (2026-10-20)
+- [Stop sorting deliveries by postcode: optimize a route in Python in 40 lines](https://medium.com/@maaxx.derame/stop-sorting-deliveries-by-postcode-optimize-a-route-in-python-in-40-lines-5b1fc066989f?source=rss------programming-5) (2026-10-20)
+- [How Garbage Collection Actually Works in JavaScript](https://javascript.plainenglish.io/how-garbage-collection-actually-works-in-javascript-66211d598208?source=rss------programming-5) (2026-10-20)
+- [10 MCP Servers That Feel Like Cheats for Developers](https://python.plainenglish.io/10-mcp-servers-that-feel-like-cheats-for-developers-cea9c19bda29?source=rss------programming-5) (2026-10-20)
+- [Help me test an interactive way to learn system design](https://medium.com/@nitindharny/help-me-test-an-interactive-way-to-learn-system-design-0a8e95d7417d?source=rss------programming-5) (2026-10-20)
+- [GPT vs DeepSeek vs Gemini Argon: one ball, three animations](https://panditshivam.medium.com/gpt-vs-deepseek-vs-gemini-argon-one-ball-three-animations-14f4f67cdbd2?source=rss------programming-5) (2026-10-20)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/) (2026-10-20)
 - [AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/) (2026-10-19)
 - [Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel](https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/) (2026-10-14)
 - [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) (2026-10-13)
 - [Announcing AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/) (2026-10-12)
-- [All the numbers: Amazon Prime Day 2026 powered by AWS](https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/) (2026-10-06)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Remote Compose Gaming Widgets](https://developer.android.com/blog/posts/remote-compose-gaming-widgets) (2026-10-20)
 - [Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization](https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time) (2026-10-19)
 - [Bringing our latest frontier model to Android Developers ](https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli) (2026-10-13)
 - [New ways to drive smarter discovery, deeper engagement, and business growth on Google Play](https://developer.android.com/blog/posts/google-play-discovery-engagement-growth) (2026-10-13)
 - [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm) (2026-10-12)
-- [Device Streaming and Android skills - available in Android CLI](https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills) (2026-10-02)
 
 </details>
 
@@ -340,10 +340,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [Redesign how your team ships software with AI agents](https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/) (2026-10-20)
+- [Uncover the business logic vulnerabilities SAST scanners miss](https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/) (2026-10-20)
 - [AI Governance: One view of agent activity](https://about.gitlab.com/blog/ai-governance-dashboard/) (2026-10-20)
 - [Three developer tasks worth handing to an agent](https://about.gitlab.com/blog/three-developer-tasks-worth-handing-to-an-agent/) (2026-10-19)
 - [Building AI security in the open](https://about.gitlab.com/blog/gitlab-joins-open-secure-ai-alliance/) (2026-10-19)
-- [GitLab Secrets Manager: Govern secrets like your code](https://about.gitlab.com/blog/secrets-manager-ga/) (2026-10-15)
 
 </details>
 
@@ -361,18 +361,18 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [WebSocket support is now generally available](https://vercel.com/changelog/websocket-support-is-now-generally-available) (2026-10-20)
 - [Updates to Hobby and Pro Terms of Service](https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service) (2026-10-19)
 - [Mercury 3 now available on AI Gateway](https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway) (2026-10-19)
 - [MiniMax M3.1 Flash now available on AI Gateway for free](https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free) (2026-10-19)
 - [AI Gateway logs now show session affinity](https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity) (2026-10-18)
-- [DeepSeek V4.1 Flash 1017 now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway) (2026-10-17)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/) (2026-10-20)
+- [Introducing tsrs: A port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/) (2026-10-20)
 - [Cutting our inference bill by 68% by being obsessive about optimization](https://blog.cloudflare.com/obsessive-inference-optimization/) (2026-10-19)
 - [Introducing Clairic, a new System One class of extraction models](https://blog.cloudflare.com/clairic-extraction-model/) (2026-10-19)
 - [Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities](https://blog.cloudflare.com/protect-your-netscaler-gateway/) (2026-10-19)
@@ -389,6 +389,16 @@ How to Detect SIM Swaps in Rust With Twilio's Lookup API
 https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api
 ) (2026-10-19)
 - [
+What is an email blast? (how to do it right)
+](
+https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
+) (2026-10-19)
+- [
+19 best email fonts that won't let you down in 2026
+](
+https://www.twilio.com/en-us/blog/insights/best-email-fonts
+) (2026-10-18)
+- [
 How to modernize CX without ripping and replacing your stack
 ](
 https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace
@@ -398,16 +408,6 @@ How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript
 ) (2026-10-15)
-- [
-Twilio Video Media SDK Powers Smarter Customer Engagement
-](
-https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch
-) (2026-10-15)
-- [
-What is agentic identity? Securing AI agents in 2026
-](
-https://www.twilio.com/en-us/blog/insights/agentic-identity
-) (2026-10-15)
 
 </details>
 
@@ -416,10 +416,10 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 
 - [Securing AI Agents with Auth0 CIMD and Token Exchange
 ](https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/) (2026-10-20)
+- [ID-JAG, Explained: The New OAuth Grant for Cross-App Access](https://auth0.com/blog/what-is-id-jag/) (2026-10-20)
 - [Securing the Front Door of Agentic Commerce: Four Channels, One Identity Layer](https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/) (2026-10-19)
 - [On-Behalf-Of Is a Pattern. Token Exchange Is the Standard.](https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/) (2026-10-16)
 - [Agentic Development: Time to Shift the Focus](https://auth0.com/blog/agentic-development-time-to-shift-focus/) (2026-10-16)
-- [One SDK, Multiple Platforms: Introducing the Auth0 SDK for Kotlin Multiplatform](https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/) (2026-10-14)
 
 </details>
 
@@ -516,8 +516,8 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 
 - [How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking](https://zapier.com/blog/blue-castle-agency-zapier-mcp) (2026-10-22)
 - [API documentation: What it is and how to write it (with examples)](https://zapier.com/blog/api-documentation) (2026-10-19)
-- [OpenCode vs. Claude Code: Which AI coding tool is best? [2026]](https://zapier.com/blog/opencode-vs-claude-code) (2026-10-19)
 - [The best all-in-one messaging app in 2026](https://zapier.com/blog/best-all-in-one-messaging-app) (2026-10-19)
+- [OpenCode vs. Claude Code: Which AI coding tool is best? [2026]](https://zapier.com/blog/opencode-vs-claude-code) (2026-10-19)
 - [Webflow vs. WordPress: Which is better for your website? [2026]](https://zapier.com/blog/webflow-vs-wordpress) (2026-10-19)
 
 </details>
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
-- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
-- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
-- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -569,9 +569,9 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Introducing TorchTPU](https://pytorch.org/blog/introducing-torchtpu/) (2026-10-20)
 - [PyTorch Foundation Welcomes Nine New Members As Momentum Builds Around Open Source AI Center of Gravity](https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity/) (2026-10-20)
 - [Nebius Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-10-20)
-- [Introducing TorchTPU](https://pytorch.org/blog/introducing-torchtpu/) (2026-10-20)
 - [From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre](https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre/) (2026-10-20)
 - [Nscale Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-10-20)
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams) (2026-10-20)
 - [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) (2026-10-20)
 - [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc) (2026-10-20)
 - [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu) (2026-10-20)
 - [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0) (2026-10-20)
-- [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15) (2026-10-20)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
+- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
