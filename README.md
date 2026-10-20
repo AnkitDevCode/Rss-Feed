@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/) (2026-10-20)
 - [Walmart’s Flipkart is quietly building a food delivery challenger in India](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/) (2026-10-20)
 - [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/) (2026-10-20)
 - [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/) (2026-10-19)
 - [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/) (2026-10-19)
-- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) (2026-10-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenBSD 8.0: released Oct 20, 2026](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2) (2026-10-20)
-- [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd) (2026-10-20)
-- [Developing Taste](https://emilkowal.ski/ui/developing-taste) (2026-10-20)
-- [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) (2026-10-20)
-- [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack) (2026-10-20)
+- [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo) (2026-10-20)
+- [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) (2026-10-20)
+- [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules) (2026-10-20)
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) (2026-10-20)
+- [There is no official XScreenSaver GitHub repository](https://github.com/xscreensaver-official/xscreensaver) (2026-10-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Some Google Home Speakers caught downloading hundreds of gigs of data](https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download) (2026-10-20)
+- [Baseus’ new security camera has a spotlight that tracks and follows moving targets](https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight) (2026-10-20)
 - [Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;](https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account) (2026-10-19)
 - [The fossil fuel comeback is here](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report) (2026-10-19)
 - [CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai) (2026-10-19)
-- [I tried a $99 plug that promises to track your car and send help when needed — without selling your data](https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date) (2026-10-19)
-- [Sony’s best noise-canceling earbuds are nearly $100 off today only](https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only) (2026-10-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Japan launches mission to bring home a piece of the Martian moon Phobos](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/) (2026-10-20)
 - [Pennsylvania issues alert on congenital measles—something US hasn't seen for decades](https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/) (2026-10-19)
 - [Russian spacecraft maneuvers in "extreme proximity" to satellite used by Ukraine](https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/) (2026-10-19)
 - [Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says](https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/) (2026-10-19)
 - [Batteries help reduce emissions, but how do we reduce their emissions?](https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/) (2026-10-19)
-- [PSA: Patch your Plex media server before someone hacks it](https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/) (2026-10-19)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How to study a swiftly melting climate disaster](https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/) (2026-10-20)
+- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) (2026-10-20)
+- [These startups hope “blended” food will cut our appetite for red meat ](https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/) (2026-10-20)
 - [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/) (2026-10-19)
 - [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/) (2026-10-19)
-- [The Download: preserving the Arctic permafrost, and playful AI agents](https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/) (2026-10-19)
-- [Inside the quest to combat Arctic fires and save the planet’s frozen carbon](https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/) (2026-10-19)
-- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) (2026-10-19)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/) (2026-10-20)
 - [Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/) (2026-10-19)
 - [AI says you’re right, formal methods say you’re wrong](https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/) (2026-10-16)
 - [MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/) (2026-10-15)
 - [Why your platform team shouldn't build an AI context layer (even though they probably could)](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/) (2026-10-15)
-- [Your next job doesn’t have a title yet: Emerging role skills Q&A with Cory Hymel of Andela](https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/) (2026-10-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mean Pooling vs CLS: Watch Transformers.js Turn a Sentence Into an Embedding in Node](https://dev.to/gabrielanhaia/mean-pooling-vs-cls-watch-transformersjs-turn-a-sentence-into-an-embedding-in-node-3bbl) (2026-10-20)
-- [A Go-Live Checklist You Can Hand Any Agency: Alerts, Fallbacks and a Kill Switch for Small-Business WhatsApp Flows](https://dev.to/ujjwal_dubey_9/a-go-live-checklist-you-can-hand-any-agency-alerts-fallbacks-and-a-kill-switch-for-small-business-2d19) (2026-10-20)
-- [How to Choose Self-Hosted Portfolio Management Software](https://dev.to/subramanyamc/how-to-choose-self-hosted-portfolio-management-software-1f0j) (2026-10-20)
-- [Build a Qibla Finder in Flutter](https://dev.to/uzairxdev/build-a-qibla-finder-in-flutter-13fd) (2026-10-20)
-- [Why One Wrong Column In Your Stock Upload CSV Gets The Whole Batch Rejected](https://dev.to/revanzart/why-one-wrong-column-in-your-stock-upload-csv-gets-the-whole-batch-rejected-1op) (2026-10-20)
+- [How to model a warranty card as a soulbound Token-2022 token (devnet walkthrough)](https://dev.to/wen-cat/how-to-model-a-warranty-card-as-a-soulbound-token-2022-token-devnet-walkthrough-298) (2026-10-20)
+- [Games like skribbl: what they share, and what to look for in a table](https://dev.to/board_it_b11ff7d58bf863f8/games-like-skribbl-what-they-share-and-what-to-look-for-in-a-table-19h3) (2026-10-20)
+- [I paused Claude Code for 0 to 65 minutes to see when the prompt cache expires](https://dev.to/jaehyun_cho_0dff271e0d2e5/i-paused-claude-code-for-0-to-65-minutes-to-see-when-the-prompt-cache-expires-4ggl) (2026-10-20)
+- [Dari daftar fitur ke alur kerja: catatan dokumentasi tentang Orkvex](https://dev.to/tobinwetherell/dari-daftar-fitur-ke-alur-kerja-catatan-dokumentasi-tentang-orkvex-424e) (2026-10-20)
+- [I Spent 20 Hours Turning Ideas into Real Products with AI. Here's What Actually Worked.](https://dev.to/sushant_babbar/i-spent-20-hours-turning-ideas-into-real-products-with-ai-heres-what-actually-worked-1fa0) (2026-10-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Title:](https://medium.com/@iq.asif.530/title-0ae9b46bda05?source=rss------programming-5) (2026-10-20)
-- [Why websites display Invalid CSRF token ?](https://medium.com/@sahirumunasinghe101/why-websites-display-invalid-csrf-token-8b8e53c277f3?source=rss------programming-5) (2026-10-20)
-- [Mengenal CrootJS: Library JavaScript Ringan untuk Interaktivitas Cepat](https://medium.com/@mbagus0111/mengenal-crootjs-library-javascript-ringan-untuk-interaktivitas-cepat-53a190a080cc?source=rss------programming-5) (2026-10-20)
-- [Why Perfect Code Is Boring: The Lost Beauty of Software as Craft](https://engineer-logs.medium.com/why-perfect-code-is-boring-the-lost-beauty-of-software-as-craft-9cf3fbdb1571?source=rss------programming-5) (2026-10-20)
-- [How to kill the process on a port on a Mac (and what to do when it comes back)](https://medium.com/@anmolsethi.01/how-to-kill-the-process-on-a-port-on-a-mac-and-what-to-do-when-it-comes-back-025ddd36ad3e?source=rss------programming-5) (2026-10-20)
+- [Does AI Reduce the Cost of Software Development—or the Value of a Developer?](https://medium.com/@tigransargsyan062/does-ai-reduce-the-cost-of-software-development-or-the-value-of-a-developer-65b0075ece9c?source=rss------programming-5) (2026-10-20)
+- [Ten years in software taught me it was never about the code](https://sunilsandhu.medium.com/ten-years-in-software-taught-me-it-was-never-about-the-code-67407b2c5c87?source=rss------programming-5) (2026-10-20)
+- [Distance Calculation Algorithms Made Easy: From Basic Math to Real-World Applications](https://medium.com/@jalismahamud31/distance-calculation-algorithms-made-easy-from-basic-math-to-real-world-applications-490352a809fb?source=rss------programming-5) (2026-10-20)
+- [Why You Can’t Use new List<>() in Java | Interface vs Class](https://medium.com/@ritanshbagal/why-you-cant-use-new-list-in-java-interface-vs-class-215d8e9d6744?source=rss------programming-5) (2026-10-20)
+- [Shopify Quit React Native After 6 Years. The AI Math Most Small Teams Get Wrong](https://medium.com/@garoono/shopify-quit-react-native-after-6-years-the-ai-math-most-small-teams-get-wrong-250f78238018?source=rss------programming-5) (2026-10-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/) (2026-10-20)
 - [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/) (2026-10-19)
 - [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/) (2026-10-19)
 - [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/) (2026-10-17)
 - [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/) (2026-10-15)
-- [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/) (2026-10-15)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Why We Still Need an IDE](https://blog.jetbrains.com/blog/2026/10/20/why-we-still-need-an-ide/) (2026-10-20)
 - [Dynamics of Sentiment and Attitudes Toward AI Among Developers](https://blog.jetbrains.com/research/2026/10/dynamics-of-sentiment-and-attitudes-toward-ai-among-developers/) (2026-10-19)
 - [JetBrains .NET Day Online 2026: Watch the Recordings](https://blog.jetbrains.com/dotnet/2026/10/19/jetbrains-dotnet-day-online-2026-watch-the-recordings/) (2026-10-19)
 - [Can you bake Maven into a neural network?](https://blog.jetbrains.com/ai/2026/10/can-you-bake-maven-into-a-neural-network/) (2026-10-18)
 - [Junie Local Comes to the NVIDIA RTX Spark](https://blog.jetbrains.com/junie/2026/10/junie-local-rtx-spark/) (2026-10-16)
-- [Google Summer of Code 2026 With the Kotlin Foundation: Recap](https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/) (2026-10-15)
 
 </details>
 
@@ -389,6 +389,16 @@ How to Detect SIM Swaps in Rust With Twilio's Lookup API
 https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api
 ) (2026-10-19)
 - [
+What is an email blast? (how to do it right)
+](
+https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
+) (2026-10-19)
+- [
+19 best email fonts that won't let you down in 2026
+](
+https://www.twilio.com/en-us/blog/insights/best-email-fonts
+) (2026-10-18)
+- [
 How to modernize CX without ripping and replacing your stack
 ](
 https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace
@@ -397,16 +407,6 @@ https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace
 How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and TypeScript
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript
-) (2026-10-15)
-- [
-Twilio Video Media SDK Powers Smarter Customer Engagement
-](
-https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch
-) (2026-10-15)
-- [
-What is agentic identity? Securing AI agents in 2026
-](
-https://www.twilio.com/en-us/blog/insights/agentic-identity
 ) (2026-10-15)
 
 </details>
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
 - [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
 - [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 
 </details>
 
@@ -639,6 +639,17 @@ https://www.twilio.com/en-us/blog/insights/agentic-identity
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
+- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
