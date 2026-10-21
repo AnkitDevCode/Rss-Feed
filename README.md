@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/) (2026-10-21)
-- [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/) (2026-10-21)
-- [Heat pump tech is 170 years old — Pascal thinks it’s time for an update](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/) (2026-10-21)
-- [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/) (2026-10-21)
-- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) (2026-10-20)
+- [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/) (2026-10-21)
+- [Tesla stars Optimus robot production in California as profit falls 43%](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/) (2026-10-21)
+- [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/) (2026-10-21)
+- [Automattic begins layoffs following board upheaval and executive departures](https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/) (2026-10-21)
+- [GM is betting compute and AI will help it compete with Chinese automakers](https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/) (2026-10-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) (2026-10-21)
-- [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488) (2026-10-21)
-- [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9) (2026-10-21)
-- [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) (2026-10-21)
-- [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) (2026-10-21)
+- [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser) (2026-10-21)
+- [Claude Duet](https://claude.com/resources/articles/claude-duet) (2026-10-21)
+- [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/) (2026-10-21)
+- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0) (2026-10-21)
+- [Claude Duet](https://claude.com/product/claude-duet) (2026-10-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Supernatural’s comeback starts today, with more music and VR workouts coming soon](https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch) (2026-10-21)
-- [Apple Music has a new logo](https://www.theverge.com/tech/1015533/apple-music-new-logo) (2026-10-21)
-- [Conversational Gemini navigation comes to Apple CarPlay](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps) (2026-10-21)
-- [Samsung’s 5K monitor has good gaming chops and a great price](https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale) (2026-10-21)
-- [Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales](https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales) (2026-10-21)
+- [New York’s first microdrama film festival searches for its audience](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals) (2026-10-21)
+- [Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement](https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement) (2026-10-21)
+- [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026) (2026-10-21)
+- [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger) (2026-10-21)
+- [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers) (2026-10-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/) (2026-10-21)
-- [Merging SpaceX and Tesla would be a "good idea," Musk says](https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/) (2026-10-20)
-- [Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies](https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/) (2026-10-20)
-- [Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix](https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/) (2026-10-20)
-- [JustWatch, which tackles streaming fragmentation, launches own streaming service](https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/) (2026-10-20)
+- [The new human-crafted Apple Music brand matters in an AI world](https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/) (2026-10-21)
+- [RIP BioWare: EA shuts down storied RPG studio after over three decades](https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/) (2026-10-21)
+- [OpenAI's latest AI models are coming to Google Cloud and Antigravity](https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/) (2026-10-21)
+- [Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump](https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/) (2026-10-21)
+- [Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits](https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/) (2026-10-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Give your agent permissions, not promises](https://dev.to/galagent/give-your-agent-permissions-not-promises-1101) (2026-10-21)
-- [Transactional email checklist: 8 things to get right before your app sends a password reset](https://dev.to/lalitkumarjangid/transactional-email-checklist-8-things-to-get-right-before-your-app-sends-a-password-reset-2g66) (2026-10-21)
-- [Polymarket Trading Bot: Build a Market Maker Bot in Python- Project Setup and API Integration](https://dev.to/benjamin_cup/polymarket-trading-bot-build-a-market-maker-bot-in-python-project-setup-and-api-integration-5c2f) (2026-10-21)
-- [The Human Record Behind Every Robot Body](https://dev.to/nexscient/the-human-record-behind-every-robot-body-3h18) (2026-10-21)
-- [I Stopped Deciding Dinner — a Sloth Does It Now (आज क्या बनाऊँ?)](https://dev.to/academic_efab3f3ad2434623/i-stopped-deciding-dinner-a-sloth-does-it-now-aaj-kyaa-bnaauun-3p34) (2026-10-21)
+- [What a payment receipt must show. A self-transfer that passed "status 1"](https://dev.to/sibi_s_130d5df2798dfc3179/what-a-payment-receipt-must-show-a-self-transfer-that-passed-status-1-3ad7) (2026-10-21)
+- [How SentX's API Works: A Plain-English Walkthrough](https://dev.to/nabconn/how-sentxs-api-works-a-plain-english-walkthrough-2b3g) (2026-10-21)
+- [breadcrumblist JSON-LD Synchronization and Maintenance](https://dev.to/raylabs/breadcrumblist-json-ld-synchronization-and-maintenance-1gej) (2026-10-21)
+- [Why face index 2 is not a stable ID across detectors](https://dev.to/cynthiahayes_videocreate/why-face-index-2-is-not-a-stable-id-across-detectors-5hk0) (2026-10-21)
+- [A First-Hour Playbook for a Refrigeration Controller Alert](https://dev.to/sorrelthorncroft/a-first-hour-playbook-for-a-refrigeration-controller-alert-107b) (2026-10-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Best Senior Engineer Turned Down a $180,000 Offer. Three Months Later, He Told Me He Had Made a](https://medium.com/engineering-playbook/my-best-senior-engineer-turned-down-a-180-000-offer-three-months-later-he-told-me-he-had-made-a-ab48a2620630?source=rss------programming-5) (2026-10-21)
-- [Agency Agents: Turn Claude Code into a Full AI Team (Beginner Guide)](https://ranahaani.medium.com/agency-agents-turn-claude-code-into-a-full-ai-team-beginner-guide-01523922869a?source=rss------programming-5) (2026-10-21)
-- [Software teams in the agent era](https://medium.com/@william-chong/software-teams-in-the-agent-era-1f32c0491b06?source=rss------programming-5) (2026-10-21)
-- [ Rust’s Oldest Soundness Bug](https://medium.com/rustaceans/rusts-oldest-soundness-bug-90607bb80608?source=rss------programming-5) (2026-10-21)
-- [AI Coding Agents Are Bypassing Safety Checks. Here’s Why Developers Should Worry](https://medium.com/@ayush_mathur/ai-coding-agents-are-bypassing-safety-checks-heres-why-developers-should-worry-98c7a6231059?source=rss------programming-5) (2026-10-21)
+- [I Built a Python Automation System That Can Turn Repetitive Work Into a Paid Skill](https://python.plainenglish.io/i-built-a-python-automation-system-that-can-turn-repetitive-work-into-a-paid-skill-56813d01c28e?source=rss------programming-5) (2026-10-21)
+- [I Trusted ChatGPT to Write My Unit Tests. Then I Checked What They Actually Caught.](https://medium.com/codetodeploy/i-trusted-chatgpt-to-write-my-unit-tests-then-i-checked-what-they-actually-caught-351a33008b33?source=rss------programming-5) (2026-10-21)
+- [My Best Senior Engineer Started Working From Home Without Telling Anyone. Three Weeks Later, His Tea](https://medium.com/engineering-playbook/my-best-senior-engineer-started-working-from-home-without-telling-anyone-three-weeks-later-his-tea-473b6b5553bc?source=rss------programming-5) (2026-10-21)
+- [Talking to The Computer](https://medium.com/@kannanvijayan/talking-to-the-computer-5c2132606f4b?source=rss------programming-5) (2026-10-21)
+- [Claude’s NEW Features Will Blow Your Mind](https://medium.com/illumination/claudes-new-features-will-blow-your-mind-b3c0baac6591?source=rss------programming-5) (2026-10-21)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [A more reliable way to add and edit contacts on Android ](https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android) (2026-10-21)
 - [Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization](https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time) (2026-10-19)
 - [Bringing our latest frontier model to Android Developers ](https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli) (2026-10-13)
 - [New ways to drive smarter discovery, deeper engagement, and business growth on Google Play](https://developer.android.com/blog/posts/google-play-discovery-engagement-growth) (2026-10-13)
 - [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm) (2026-10-12)
-- [Device Streaming and Android skills - available in Android CLI](https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills) (2026-10-02)
 
 </details>
 
@@ -196,7 +196,7 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
-- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/your-agent-runs-in-a-docker-sandbox-now-it-can-join-a-team/) (2026-10-21)
+- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/) (2026-10-21)
 - [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/) (2026-10-21)
 - [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/) (2026-10-16)
 - [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/) (2026-10-14)
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to automate call summaries, sentiment, and CRM updates
+](
+https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm
+) (2026-10-21)
+- [
 9 top conversational AI platforms in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
@@ -403,11 +408,6 @@ What is an email blast? (how to do it right)
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 ) (2026-10-19)
-- [
-19 best email fonts that won't let you down in 2026
-](
-https://www.twilio.com/en-us/blog/insights/best-email-fonts
-) (2026-10-18)
 
 </details>
 
@@ -515,10 +515,10 @@ https://www.twilio.com/en-us/blog/insights/best-email-fonts
 <summary>⚡ Zapier Blog</summary>
 
 - [How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking](https://zapier.com/blog/blue-castle-agency-zapier-mcp) (2026-10-22)
+- [How to implement AI training for employees](https://zapier.com/blog/ai-training-for-employees) (2026-10-21)
+- [How to make a Google Meet meeting](https://zapier.com/blog/how-to-make-a-google-meet) (2026-10-21)
 - [Use one Zapier MCP server across all your AI tools](https://zapier.com/blog/connect-multiple-ai-clients-zapier-mcp) (2026-10-20)
 - [API documentation: What it is and how to write it (with examples)](https://zapier.com/blog/api-documentation) (2026-10-19)
-- [The best all-in-one messaging app in 2026](https://zapier.com/blog/best-all-in-one-messaging-app) (2026-10-19)
-- [Webflow vs. WordPress: Which is better for your website? [2026]](https://zapier.com/blog/webflow-vs-wordpress) (2026-10-19)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/best-email-fonts
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
+- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
+- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
+- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
-- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
-- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
-- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
-- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/insights/best-email-fonts
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [TorchTitan Update: New SOTA Models, Performance at Scale, TitanRL](https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl/) (2026-10-21)
+- [Accelerating PyTorch on AMD GPUs with FlyDSL](https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl/) (2026-10-21)
 - [Introducing TorchTPU](https://pytorch.org/blog/introducing-torchtpu/) (2026-10-20)
 - [PyTorch Foundation Welcomes Nine New Members As Momentum Builds Around Open Source AI Center of Gravity](https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity/) (2026-10-20)
 - [Nebius Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-10-20)
-- [From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre](https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre/) (2026-10-20)
-- [Nscale Joins the PyTorch Foundation as a Platinum Member](https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member/) (2026-10-20)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin) (2026-10-21)
+- [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational) (2026-10-21)
+- [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) (2026-10-21)
+- [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1) (2026-10-21)
 - [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5) (2026-10-21)
-- [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast) (2026-10-21)
 - [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) (2026-10-20)
-- [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc) (2026-10-20)
 
 </details>
 
