@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) (2026-10-21)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) (2026-10-21)
-- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) (2026-10-21)
-- [LabRobotBench v0.1: Benchmarking wet lab robotics](https://gamowlabs.com/lab-robot-bench-v0-1) (2026-10-20)
-- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) (2026-10-20)
+- [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) (2026-10-21)
+- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) (2026-10-21)
+- [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) (2026-10-21)
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo) (2026-10-21)
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/) (2026-10-21)
 
 </details>
 
@@ -42,22 +42,22 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [PHP warns it plans to release 2 emergency patches imminently](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/) (2026-10-21)
 - [Merging SpaceX and Tesla would be a "good idea," Musk says](https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/) (2026-10-20)
 - [Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies](https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/) (2026-10-20)
 - [Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix](https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/) (2026-10-20)
 - [JustWatch, which tackles streaming fragmentation, launches own streaming service](https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/) (2026-10-20)
-- [Meta drops the word "train" from its commercial TOS after AI backlash](https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/) (2026-10-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [It’s a bird, it’s a plane … it’s a robo-puffin?](https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/) (2026-10-20)
-- [Here’s the tea](https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/) (2026-10-20)
-- [Melt it, spin it, use it again](https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/) (2026-10-20)
-- [A reason to eat carbs](https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/) (2026-10-20)
-- [Robotic therapy for stroke patients](https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/) (2026-10-20)
+- [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) (2026-10-21)
+- [Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/) (2026-10-21)
+- [Exercise in a pill](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/) (2026-10-21)
+- [Interspecies communication](https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/) (2026-10-21)
+- [Cleaning up PFAS](https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/) (2026-10-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Compress Any Image to Exactly 100KB: A Binary-Search Trick](https://dev.to/bowentse/compress-any-image-to-exactly-100kb-a-binary-search-trick-4kh4) (2026-10-21)
-- [Fix Android WebView onShowFileChooser Overlapping Callback](https://dev.to/raylabs/fix-android-webview-onshowfilechooser-overlapping-callback-2d5a) (2026-10-21)
-- [Map WebDAV to a Real Drive Letter on Windows: Network Location vs. Volume](https://dev.to/scsoi/map-webdav-to-a-real-drive-letter-on-windows-network-location-vs-volume-lh) (2026-10-21)
-- [Production Deployment of DeepSeek-V4 and Kimi K3: 32-GPU Topologies, Memory Math, and Cluster Engineering](https://dev.to/ifnodoraemon/production-deployment-of-deepseek-v4-and-kimi-k3-32-gpu-topologies-memory-math-and-cluster-271j) (2026-10-21)
-- [My HTML-to-Markdown API learned that every framework invents its own idea of a heading](https://dev.to/imapphelp/my-html-to-markdown-api-learned-that-every-framework-invents-its-own-idea-of-a-heading-410j) (2026-10-21)
+- [I built a tmux sidebar that tells me which Claude Code session needs me](https://dev.to/esteban-eg-kim/i-built-a-tmux-sidebar-that-tells-me-which-claude-code-session-needs-me-50j6) (2026-10-21)
+- [I used a weather MCP server to plan a Menorca trip with Claude](https://dev.to/petrichor_thunder/i-used-a-weather-mcp-server-to-plan-a-menorca-trip-with-claude-4k9d) (2026-10-21)
+- [The US Army is buying agents that self-destruct before detection](https://dev.to/analista_83/the-us-army-is-buying-agents-that-self-destruct-before-detection-2oj1) (2026-10-21)
+- [Where Your Coding Agent's Token Bill Goes, and 7 Levers to Cut It](https://dev.to/promptmaster/where-your-coding-agents-token-bill-goes-and-7-levers-to-cut-it-1e5j) (2026-10-21)
+- [Building Brief: A Zero-Backend, Sub-Second AI Note Distiller Powered by Groq](https://dev.to/alternate_percent/building-brief-a-zero-backend-sub-second-ai-note-distiller-powered-by-groq-8fc) (2026-10-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Thought Learning Cybersecurity Was About Tools. I Was Wrong.](https://medium.com/@rushivenkatadri/i-thought-learning-cybersecurity-was-about-tools-i-was-wrong-4f827d189dbb?source=rss------programming-5) (2026-10-21)
-- [MobiKwik Java Backend Engineer Interview Questions](https://medium.com/@preetjit82/mobikwik-java-backend-engineer-interview-questions-43a150d77dbe?source=rss------programming-5) (2026-10-21)
-- [AI Agent Workload Isolation: Preventing One Workflow From Affecting Another](https://medium.com/@scosmexs/ai-agent-workload-isolation-preventing-one-workflow-from-affecting-another-fc2c5e35264e?source=rss------programming-5) (2026-10-21)
-- [Menteri Bagi-Bagi Rp 85 Juta di TikTok, dan Mengapa Kita Percaya?](https://medium.com/@adityadharma427/menteri-bagi-bagi-rp-85-juta-di-tiktok-dan-mengapa-kita-percaya-f26ca5ae360c?source=rss------programming-5) (2026-10-21)
-- [7 Go Libraries everyone overlooks — And why I keep using them](https://medium.com/codex/7-go-libraries-everyone-overlooks-and-why-i-keep-using-them-3ce403319d88?source=rss------programming-5) (2026-10-21)
+- [How to Decode a JWT Without Pasting It Into a Random Website](https://evangelist67.medium.com/how-to-decode-a-jwt-without-pasting-it-into-a-random-website-7b1dfad7f8c2?source=rss------programming-5) (2026-10-21)
+- [Git A to Z: The Complete Developer’s Guide to Branching, Team Collaboration, CI/CD, Production…](https://medium.com/@alamdev/git-a-to-z-the-complete-developers-guide-to-branching-team-collaboration-ci-cd-production-711a413490a7?source=rss------programming-5) (2026-10-21)
+- [I Automated a Boring Python Task. Then I Realized I Was Automating the Wrong Thing.](https://python.plainenglish.io/i-automated-a-boring-python-task-then-i-realized-i-was-automating-the-wrong-thing-f3c9ff009821?source=rss------programming-5) (2026-10-21)
+- [My Python Script Ran Without Errors. The Report Was Still Wrong.](https://python.plainenglish.io/my-python-script-ran-without-errors-the-report-was-still-wrong-729bcd0d7f9f?source=rss------programming-5) (2026-10-21)
+- [One Binary Sequence, Two Different Meanings: Numbers vs. Text](https://medium.com/@amatosdecaris/one-binary-sequence-two-different-meanings-numbers-vs-text-47ad220652d5?source=rss------programming-5) (2026-10-21)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
-- [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/) (2026-10-20)
-- [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/) (2026-10-19)
-- [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/) (2026-10-19)
-- [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/) (2026-10-17)
-- [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/) (2026-10-15)
+- [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/) (2026-10-21)
+- [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/) (2026-10-21)
+- [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/) (2026-10-21)
+- [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/) (2026-10-21)
+- [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/) (2026-10-21)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.143 (Insiders)](https://code.visualstudio.com/updates/v1_143) (2026-10-21)
+- [Visual Studio Code 1.144 (Insiders)](https://code.visualstudio.com/updates/v1_144) (2026-10-28)
+- [Visual Studio Code 1.143](https://code.visualstudio.com/updates/v1_143) (2026-10-21)
 - [Modernizing the VS Code UI](https://code.visualstudio.com/blogs/2026/10/15/modern-ui) (2026-10-15)
 - [Visual Studio Code 1.142](https://code.visualstudio.com/updates/v1_142) (2026-10-14)
 - [Visual Studio Code 1.141](https://code.visualstudio.com/updates/v1_141) (2026-10-07)
-- [Visual Studio Code 1.140](https://code.visualstudio.com/updates/v1_140) (2026-09-30)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
+- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
+- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
 - [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
-- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
-- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
-- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -580,7 +580,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams) (2026-10-20)
+- [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories) (2026-10-21)
 - [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) (2026-10-20)
 - [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc) (2026-10-20)
 - [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu) (2026-10-20)
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built a Pipeline to Track the Job Market I'm Trying to Break Into.](https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/) (2026-10-21)
 - [Synthetic-to-Real Transfer with Frozen DINOv3 Features](https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/) (2026-10-20)
 - [Skill or MCP Server? Ask What Stops the LLM From Disobeying](https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/) (2026-10-20)
 - [The Hidden Cost of LLM Routing: Why Switching Models Costs More](https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/) (2026-10-20)
 - [What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones](https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/) (2026-10-20)
-- [Welcome to Google Gemini 4 Argon](https://towardsdatascience.com/welcome-to-google-gemini-4-argon/) (2026-10-19)
 
 </details>
 
@@ -607,6 +607,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live
 - [JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check ](https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/) (2026-10-16)
 - [How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model](https://www.analyticsvidhya.com/blog/2026/10/typesafe-ai-jev-tutorial/) (2026-10-15)
 - [Gemini 4 Argon Hands-On Review: Capabilities and Performance](https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/) (2026-10-14)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [The Roadmap to Becoming an AI Product Manager in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026) (2026-10-20)
+- [5 Docker Containers for Devs](https://www.kdnuggets.com/5-docker-containers-for-devs) (2026-10-20)
+- [Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows](https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows) (2026-10-19)
+- [LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest](https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest) (2026-10-19)
+- [7 Checks to Run Before Trusting AI-Generated Code](https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code) (2026-10-19)
 
 </details>
 
