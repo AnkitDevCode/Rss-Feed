@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) (2026-10-22)
-- [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/) (2026-10-22)
-- [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) (2026-10-22)
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) (2026-10-21)
-- [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441) (2026-10-21)
+- [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) (2026-10-22)
+- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) (2026-10-22)
+- [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/) (2026-10-22)
+- [OpenAI CLI](https://github.com/openai/openai-cli) (2026-10-22)
+- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) (2026-10-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) (2026-10-22)
+- [Three things you should know about permafrost](https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/) (2026-10-22)
+- [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) (2026-10-22)
 - [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/) (2026-10-21)
 - [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) (2026-10-21)
-- [Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/) (2026-10-21)
-- [Exercise in a pill](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/) (2026-10-21)
-- [Interspecies communication](https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/) (2026-10-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Self-Host Supabase with Docker: Studio, API Keys and Errors](https://dev.to/deploylark/self-host-supabase-with-docker-studio-api-keys-and-errors-6o0) (2026-10-22)
-- [CVE-2026-104286: What FortiMail Adds to the Mail Gateway Exploitation Trend](https://dev.to/sorrelthorncroft/cve-2026-104286-what-fortimail-adds-to-the-mail-gateway-exploitation-trend-3fo9) (2026-10-22)
-- [Portainer CE on Docker: Install, Stacks and Git Updates](https://dev.to/deploylark/portainer-ce-on-docker-install-stacks-and-git-updates-2gck) (2026-10-22)
-- [Choosing an On-Premises Document Collaboration Tool: A Practical Guide for 2026](https://dev.to/jessieburnside/choosing-an-on-premises-document-collaboration-tool-a-practical-guide-for-2026-286n) (2026-10-22)
-- [Conheça o Ghidra: Framework de Engenharia Reversa da NSA](https://dev.to/victor_hugo_a07c85ac09eea/conheca-o-ghidra-framework-de-engenharia-reversa-da-nsa-14j3) (2026-10-22)
+- [ما الذي تدين به رسالة الفشل لقارئها؟](https://dev.to/najem/m-ldhy-tdyn-bh-rsl-lfshl-lqryh-5a5i) (2026-10-22)
+- [CVE-2026-0313 and the Blast Radius of a Content Pack: Rethinking XSOAR Trust Boundaries](https://dev.to/stark_zhuang_df5076f35c68/cve-2026-0313-and-the-blast-radius-of-a-content-pack-rethinking-xsoar-trust-boundaries-567f) (2026-10-22)
+- [Muse Spark Open Benchmark: Open-Weight Models as Coding Agents](https://dev.to/mihai_leanzero/muse-spark-open-benchmark-open-weight-models-as-coding-agents-32b7) (2026-10-22)
+- [🚀 Fastify Made Simple: The Ultimate Guide for Everyone](https://dev.to/awwal3421/fastify-made-simple-the-ultimate-guide-for-everyone-5d21) (2026-10-22)
+- [What a customer support chatbot really costs per month (real API bill breakdown)](https://dev.to/paul-s/what-a-customer-support-chatbot-really-costs-per-month-real-api-bill-breakdown-26ff) (2026-10-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What is Cybersecurity (A beginner’s perspective)](https://medium.com/@contact.anuragpandey01/what-is-cybersecurity-a-beginners-perspective-1ef11292cf9d?source=rss------programming-5) (2026-10-22)
-- [How I Broke the World Record for Most AI-Assisted Books Published by a Single Author](https://azharulhaquesario.medium.com/how-i-broke-the-world-record-for-most-ai-assisted-books-published-by-a-single-author-9241bdb57306?source=rss------programming-5) (2026-10-22)
-- [How Learning to Code Secretly Rewired My Daily Life](https://medium.com/@ayeshamubeen.2008/how-learning-to-code-secretly-rewired-my-daily-life-04b350e343b3?source=rss------programming-5) (2026-10-22)
-- [Go Dependency injection Frameworks aren’t the problem — Your design is](https://blog.stackademic.com/go-dependency-injection-frameworks-arent-the-problem-your-design-is-2a0fdf1f8e41?source=rss------programming-5) (2026-10-22)
-- [Wrap a REST API as an MCP Server with Python MCPServer and httpx](https://nandanpriyadarshi.medium.com/wrap-a-rest-api-as-an-mcp-server-with-python-mcpserver-and-httpx-89182a715763?source=rss------programming-5) (2026-10-22)
+- [Before You Buy a GPU for Local AI, Read This](https://medium.com/@naro7217/before-you-buy-a-gpu-for-local-ai-read-this-d4fc0ca06b86?source=rss------programming-5) (2026-10-22)
+- [I Matched Local Coding Models to Six Machines. Here’s What Fits Where](https://medium.com/@cse20160007/i-matched-local-coding-models-to-six-machines-heres-what-fits-where-099423220293?source=rss------programming-5) (2026-10-22)
+- [DeepSeek Open-Sourced the Engine Behind Its Production Service: What It Does and Doesn’t Include](https://medium.com/@khmerlux8878/deepseek-open-sourced-the-engine-behind-its-production-service-what-it-does-and-doesnt-include-3bf9094872ea?source=rss------programming-5) (2026-10-22)
+- [The One Bash Command That Replaces Your Shell Instead of Starting Another](https://medium.com/my-lifes-mirrow/the-one-bash-command-that-replaces-your-shell-instead-of-starting-another-49eb598d56d1?source=rss------programming-5) (2026-10-22)
+- [I’d Read My Logs Before Buying a Faster Mac for Local AI](https://medium.com/@loengnavy/id-read-my-logs-before-buying-a-faster-mac-for-local-ai-691ab45ef281?source=rss------programming-5) (2026-10-22)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
-- [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
-- [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
+- [Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/) (2026-10-13)
+- [Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/) (2026-10-13)
+- [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/) (2026-10-12)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/) (2026-10-21)
-- [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/) (2026-10-21)
-- [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/) (2026-10-21)
-- [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/) (2026-10-21)
-- [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/) (2026-10-21)
+- [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/) (2026-10-22)
+- [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/) (2026-10-22)
+- [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](https://blogs.nvidia.com/blog/dsx-power/) (2026-10-22)
+- [NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations](https://blogs.nvidia.com/blog/european-retail-open-models-robotics/) (2026-10-22)
+- [Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction](https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/) (2026-10-22)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+5 ways to evaluate a customer engagement platform
+](
+https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
+) (2026-10-21)
+- [
 How to automate call summaries, sentiment, and CRM updates
 ](
 https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 How to Detect SIM Swaps in Rust With Twilio's Lookup API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api
-) (2026-10-19)
-- [
-What is an email blast? (how to do it right)
-](
-https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 ) (2026-10-19)
 
 </details>
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
-- [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
-- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
 - [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
+- [What Is a SWOT Analysis?](https://slack.com/blog/productivity/swot-analysis) (2026-10-02)
+- [What Is a Scrum Master?](https://slack.com/blog/productivity/what-is-a-scrum-master) (2026-10-02)
+- [Build a Scalable Agentic Work Operating System in Slack](https://slack.com/blog/news/scalable-agentic-work-os) (2026-10-01)
 
 </details>
 
@@ -580,22 +580,22 @@ https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) (2026-10-22)
 - [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational) (2026-10-21)
 - [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) (2026-10-21)
 - [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1) (2026-10-21)
 - [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5) (2026-10-21)
-- [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress) (2026-10-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Could On-Policy Self-Distillation Revolutionize Post-Training?](https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/) (2026-10-22)
 - [Decision Models in Action: Build a Hybrid LLM Workflow](https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/) (2026-10-21)
 - [How to Turn Long-Running Python Simulations Into a Self-Service Platform](https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/) (2026-10-21)
 - [Spatial Reasoning in AI Models, Taken Apart](https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/) (2026-10-21)
 - [I Built a Pipeline to Track the Job Market I'm Trying to Break Into.](https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/) (2026-10-21)
-- [Synthetic-to-Real Transfer with Frozen DINOv3 Features](https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/) (2026-10-20)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
-- [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
