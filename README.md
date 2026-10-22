@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/) (2026-10-21)
-- [Tesla stars Optimus robot production in California as profit falls 43%](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/) (2026-10-21)
-- [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/) (2026-10-21)
-- [Automattic begins layoffs following board upheaval and executive departures](https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/) (2026-10-21)
-- [GM is betting compute and AI will help it compete with Chinese automakers](https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/) (2026-10-21)
+- [Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/) (2026-10-22)
+- [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/) (2026-10-21)
+- [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/) (2026-10-21)
+- [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/) (2026-10-21)
+- [TechCrunch Founder Summit 2026: Everything you need to know ](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/) (2026-10-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser) (2026-10-21)
-- [Claude Duet](https://claude.com/resources/articles/claude-duet) (2026-10-21)
-- [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/) (2026-10-21)
-- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0) (2026-10-21)
-- [Claude Duet](https://claude.com/product/claude-duet) (2026-10-21)
+- [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) (2026-10-22)
+- [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/) (2026-10-22)
+- [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) (2026-10-22)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) (2026-10-21)
+- [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441) (2026-10-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [YouTube says it isn’t testing hiding the dislike button](https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos) (2026-10-21)
+- [Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings) (2026-10-21)
+- [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report) (2026-10-21)
+- [Meta to create a new class of shares to fund AI push](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings) (2026-10-21)
 - [New York’s first microdrama film festival searches for its audience](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals) (2026-10-21)
-- [Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement](https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement) (2026-10-21)
-- [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026) (2026-10-21)
-- [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger) (2026-10-21)
-- [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers) (2026-10-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [FCC chair warns media not to run the "fake polls" Trump keeps complaining about](https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/) (2026-10-21)
+- [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/) (2026-10-21)
+- [Enterprises keep buying software upgrades that IT thinks will make things worse](https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/) (2026-10-21)
+- [Tesla profits drop 43% in Q3](https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/) (2026-10-21)
 - [The new human-crafted Apple Music brand matters in an AI world](https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/) (2026-10-21)
-- [RIP BioWare: EA shuts down storied RPG studio after over three decades](https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/) (2026-10-21)
-- [OpenAI's latest AI models are coming to Google Cloud and Antigravity](https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/) (2026-10-21)
-- [Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump](https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/) (2026-10-21)
-- [Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits](https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/) (2026-10-21)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What a payment receipt must show. A self-transfer that passed "status 1"](https://dev.to/sibi_s_130d5df2798dfc3179/what-a-payment-receipt-must-show-a-self-transfer-that-passed-status-1-3ad7) (2026-10-21)
-- [How SentX's API Works: A Plain-English Walkthrough](https://dev.to/nabconn/how-sentxs-api-works-a-plain-english-walkthrough-2b3g) (2026-10-21)
-- [breadcrumblist JSON-LD Synchronization and Maintenance](https://dev.to/raylabs/breadcrumblist-json-ld-synchronization-and-maintenance-1gej) (2026-10-21)
-- [Why face index 2 is not a stable ID across detectors](https://dev.to/cynthiahayes_videocreate/why-face-index-2-is-not-a-stable-id-across-detectors-5hk0) (2026-10-21)
-- [A First-Hour Playbook for a Refrigeration Controller Alert](https://dev.to/sorrelthorncroft/a-first-hour-playbook-for-a-refrigeration-controller-alert-107b) (2026-10-21)
+- [Self-Host Supabase with Docker: Studio, API Keys and Errors](https://dev.to/deploylark/self-host-supabase-with-docker-studio-api-keys-and-errors-6o0) (2026-10-22)
+- [CVE-2026-104286: What FortiMail Adds to the Mail Gateway Exploitation Trend](https://dev.to/sorrelthorncroft/cve-2026-104286-what-fortimail-adds-to-the-mail-gateway-exploitation-trend-3fo9) (2026-10-22)
+- [Portainer CE on Docker: Install, Stacks and Git Updates](https://dev.to/deploylark/portainer-ce-on-docker-install-stacks-and-git-updates-2gck) (2026-10-22)
+- [Choosing an On-Premises Document Collaboration Tool: A Practical Guide for 2026](https://dev.to/jessieburnside/choosing-an-on-premises-document-collaboration-tool-a-practical-guide-for-2026-286n) (2026-10-22)
+- [Conheça o Ghidra: Framework de Engenharia Reversa da NSA](https://dev.to/victor_hugo_a07c85ac09eea/conheca-o-ghidra-framework-de-engenharia-reversa-da-nsa-14j3) (2026-10-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Python Automation System That Can Turn Repetitive Work Into a Paid Skill](https://python.plainenglish.io/i-built-a-python-automation-system-that-can-turn-repetitive-work-into-a-paid-skill-56813d01c28e?source=rss------programming-5) (2026-10-21)
-- [I Trusted ChatGPT to Write My Unit Tests. Then I Checked What They Actually Caught.](https://medium.com/codetodeploy/i-trusted-chatgpt-to-write-my-unit-tests-then-i-checked-what-they-actually-caught-351a33008b33?source=rss------programming-5) (2026-10-21)
-- [My Best Senior Engineer Started Working From Home Without Telling Anyone. Three Weeks Later, His Tea](https://medium.com/engineering-playbook/my-best-senior-engineer-started-working-from-home-without-telling-anyone-three-weeks-later-his-tea-473b6b5553bc?source=rss------programming-5) (2026-10-21)
-- [Talking to The Computer](https://medium.com/@kannanvijayan/talking-to-the-computer-5c2132606f4b?source=rss------programming-5) (2026-10-21)
-- [Claude’s NEW Features Will Blow Your Mind](https://medium.com/illumination/claudes-new-features-will-blow-your-mind-b3c0baac6591?source=rss------programming-5) (2026-10-21)
+- [What is Cybersecurity (A beginner’s perspective)](https://medium.com/@contact.anuragpandey01/what-is-cybersecurity-a-beginners-perspective-1ef11292cf9d?source=rss------programming-5) (2026-10-22)
+- [How I Broke the World Record for Most AI-Assisted Books Published by a Single Author](https://azharulhaquesario.medium.com/how-i-broke-the-world-record-for-most-ai-assisted-books-published-by-a-single-author-9241bdb57306?source=rss------programming-5) (2026-10-22)
+- [How Learning to Code Secretly Rewired My Daily Life](https://medium.com/@ayeshamubeen.2008/how-learning-to-code-secretly-rewired-my-daily-life-04b350e343b3?source=rss------programming-5) (2026-10-22)
+- [Go Dependency injection Frameworks aren’t the problem — Your design is](https://blog.stackademic.com/go-dependency-injection-frameworks-arent-the-problem-your-design-is-2a0fdf1f8e41?source=rss------programming-5) (2026-10-22)
+- [Wrap a REST API as an MCP Server with Python MCPServer and httpx](https://nandanpriyadarshi.medium.com/wrap-a-rest-api-as-an-mcp-server-with-python-mcpserver-and-httpx-89182a715763?source=rss------programming-5) (2026-10-22)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (2026-10-21)
 - [Redesign how your team ships software with AI agents](https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/) (2026-10-20)
 - [Uncover the business logic vulnerabilities SAST scanners miss](https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/) (2026-10-20)
 - [AI Governance: One view of agent activity](https://about.gitlab.com/blog/ai-governance-dashboard/) (2026-10-20)
 - [Three developer tasks worth handing to an agent](https://about.gitlab.com/blog/three-developer-tasks-worth-handing-to-an-agent/) (2026-10-19)
-- [Building AI security in the open](https://about.gitlab.com/blog/gitlab-joins-open-secure-ai-alliance/) (2026-10-19)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [Routing Middleware now supports Python](https://vercel.com/changelog/routing-middleware-now-supports-python) (2026-10-21)
+- [Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free](https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free) (2026-10-21)
 - [Skipped monorepo deployments no longer count against limits](https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits) (2026-10-21)
 - [WebSocket support is now generally available](https://vercel.com/changelog/websocket-support-is-now-generally-available) (2026-10-20)
 - [DeepSeek V4.1 Flash is now available in Token Pass](https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass) (2026-10-20)
-- [Updates to Hobby and Pro Terms of Service](https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service) (2026-10-19)
 
 </details>
 
@@ -516,9 +516,9 @@ https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 
 - [How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking](https://zapier.com/blog/blue-castle-agency-zapier-mcp) (2026-10-22)
 - [How to implement AI training for employees](https://zapier.com/blog/ai-training-for-employees) (2026-10-21)
+- [The best mobile scanning and OCR software in 2026](https://zapier.com/blog/best-mobile-scanning-ocr-apps) (2026-10-21)
 - [How to make a Google Meet meeting](https://zapier.com/blog/how-to-make-a-google-meet) (2026-10-21)
-- [Use one Zapier MCP server across all your AI tools](https://zapier.com/blog/connect-multiple-ai-clients-zapier-mcp) (2026-10-20)
-- [API documentation: What it is and how to write it (with examples)](https://zapier.com/blog/api-documentation) (2026-10-19)
+- [Framer vs. Webflow: Which website builder should you use? [2026]](https://zapier.com/blog/framer-vs-webflow) (2026-10-21)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-10-16)
 - [What Is Contextual AI, and Why Does Context Matter for Today’s Tools?](https://slack.com/blog/ai/what-is-contextual-ai-and-why-does-context-matter-for-todays-tools) (2026-10-16)
 - [AI Workflow Builders, Explained (Plus the Best Tools for 2026)](https://slack.com/blog/ai/ai-workflow-builders-explained-plus-the-best-tools-for-2026) (2026-10-16)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration-101-how-it-works-benefits-and-how-to-do-it-right) (2026-10-16)
 - [Work With Live App Content Without Leaving Slack](https://slack.com/blog/news/work-object-embeds) (2026-10-15)
+- [Slackbot Skills Are Now Shareable: Send Them Anywhere](https://slack.com/blog/news/slackbot-shareable-skills) (2026-10-08)
 
 </details>
 
