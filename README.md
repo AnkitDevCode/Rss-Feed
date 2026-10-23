@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/) (2026-10-23)
+- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/) (2026-10-23)
 - [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/) (2026-10-23)
 - [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/) (2026-10-22)
 - [Warhound raises $200M to engineer war dogs and arm them with Anduril gear](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/) (2026-10-22)
-- [As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/) (2026-10-22)
-- [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) (2026-10-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [France needs to read my paper](https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/) (2026-10-23)
+- [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm) (2026-10-23)
+- [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165) (2026-10-23)
+- [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468) (2026-10-23)
 - [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) (2026-10-23)
-- [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/) (2026-10-22)
-- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/) (2026-10-22)
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) (2026-10-22)
-- [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market) (2026-10-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [No, the iPhone Duo isn’t a small phone](https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini) (2026-10-23)
 - [Etsy is cracking down on AI slop listings](https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing) (2026-10-23)
 - [Spotify says yes, it is busting people for using Family Plan sharing too widely](https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes) (2026-10-22)
 - [The next-gen Xbox won’t cost you $1,800. It can’t. Can it?](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial) (2026-10-22)
 - [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model) (2026-10-22)
-- [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram) (2026-10-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [In the biotech world, you can’t see everything](https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/) (2026-10-23)
 - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/) (2026-10-22)
 - [The Foundations of Scalable AI](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/) (2026-10-22)
 - [The Download: computing’s next leap and permafrost’s climate threat](https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/) (2026-10-22)
 - [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) (2026-10-22)
-- [Three things you should know about permafrost](https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/) (2026-10-22)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A PDF merge can preserve mixed page sizes: verify the download, not the thumbnails](https://dev.to/yanwang/a-pdf-merge-can-preserve-mixed-page-sizes-verify-the-download-not-the-thumbnails-mlp) (2026-10-23)
-- [Tale of Kingdoms: The Shattered Crown, an RPG campaign mod for Minecraft 26.2](https://dev.to/blackspectre512/tale-of-kingdoms-the-shattered-crown-an-rpg-campaign-mod-for-minecraft-262-8po) (2026-10-23)
-- [The admin side of scheduling: booking states, a day-grouped calendar and honest no-show rates](https://dev.to/nazma_akter/the-admin-side-of-scheduling-booking-states-a-day-grouped-calendar-and-honest-no-show-rates-13jh) (2026-10-23)
-- [Fallen Star: rare starfall nights and a boss fight in Minecraft 26.2](https://dev.to/blackspectre512/fallen-star-rare-starfall-nights-and-a-boss-fight-in-minecraft-262-41oa) (2026-10-23)
-- [UK VAT Rates Explained: 20%, 5%, 0% and When Each One Applies](https://dev.to/uk_vat_guide/uk-vat-rates-explained-20-5-0-and-when-each-one-applies-jn5) (2026-10-23)
+- [🪪 What I Mean by “iAdentité”: A Working Identity for AI Agents](https://dev.to/iamjulienjulien/what-i-mean-by-iadentite-a-working-identity-for-ai-agents-pfe) (2026-10-23)
+- [I measured an AI sandbox's audit export. It contained zero records — so I built the layer that keeps its own.](https://dev.to/techdevfun/i-measured-an-ai-sandboxs-audit-export-it-contained-zero-records-so-i-built-the-layer-that-46n4) (2026-10-23)
+- [Claude Code permissions for teams: a shared settings.json that is safe by default](https://dev.to/aiworkspacebuilder/claude-code-permissions-for-teams-a-shared-settingsjson-that-is-safe-by-default-39ne) (2026-10-23)
+- [MCP-Powered QA Agents: What to Evaluate and Five Companies to Explore](https://dev.to/yash_07/mcp-powered-qa-agents-what-to-evaluate-and-five-companies-to-explore-5fog) (2026-10-23)
+- [Getting a DeepSeek, GLM or Kimi API key when your phone number and your card are the problem](https://dev.to/chenyu-ai/getting-a-deepseek-glm-or-kimi-api-key-when-your-phone-number-and-your-card-are-the-problem-4p50) (2026-10-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Power BI Mistakes I See in Almost Every Report (And How I Fix Them)](https://abhiks1999.medium.com/7-power-bi-mistakes-i-see-in-almost-every-report-and-how-i-fix-them-5a2e440ef198?source=rss------programming-5) (2026-10-23)
-- [How to Build a Personal Brand as a Developer Without Feeling Cringe About It](https://medium.com/@RidaSyed-Dev/how-to-build-a-personal-brand-as-a-developer-without-feeling-cringe-about-it-6fbb623b9f60?source=rss------programming-5) (2026-10-23)
-- [A Booking Rule Is Easy Until I Have to Defend It](https://ntrongtin11702.medium.com/a-booking-rule-is-easy-until-i-have-to-defend-it-6855252f8eca?source=rss------programming-5) (2026-10-23)
-- [Stop structuring Go Services this way — Its hurting deployments](https://blog.devgenius.io/stop-structuring-go-services-this-way-its-hurting-deployments-16fed39d9431?source=rss------programming-5) (2026-10-23)
-- [JPMorgan Java Developer Interview Experience | Advanced Java, Spring Boot & Microservices](https://medium.com/@pardeepgill82/jpmorgan-java-developer-interview-experience-advanced-java-spring-boot-microservices-5565bc35de3f?source=rss------programming-5) (2026-10-23)
+- [I Let AI Be My Senior Developer For 30 Days And It Almost Ruined Me](https://medium.com/@meerhadi0238/i-let-ai-be-my-senior-developer-for-30-days-and-it-almost-ruined-me-a57f763baba3?source=rss------programming-5) (2026-10-23)
+- [The Saga Pattern for Distributed Transactions in Python](https://medium.com/@akshatgadodia/the-saga-pattern-for-distributed-transactions-in-python-fe9ebc404742?source=rss------programming-5) (2026-10-23)
+- [Are You Actually Ready for Your System Design Interview? A 3-Minute Self-Assessment](https://medium.com/@teamscaledojo/are-you-actually-ready-for-your-system-design-interview-a-3-minute-self-assessment-639414115d50?source=rss------programming-5) (2026-10-23)
+- [React Synthetic Events vs. Native Events: The Deep Technical Truth](https://medium.com/@ArunprakashS/react-synthetic-events-vs-native-events-the-deep-technical-truth-9ee1b4d12e67?source=rss------programming-5) (2026-10-23)
+- [A Guide on Python Variable Scope](https://medium.com/@edtechbymeera/a-guide-on-python-variable-scope-eb2ae38689e9?source=rss------programming-5) (2026-10-23)
 
 </details>
 
@@ -414,13 +414,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twi
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Scaling AI Agent Identity with CIMD and Application Profiles in Auth0](https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/) (2026-10-22)
 - [Introducing Terraform Auth0 Modules
 ](https://auth0.com/blog/terraform-auth0-modules/) (2026-10-22)
+- [Scaling AI Agent Identity with CIMD and Application Profiles in Auth0](https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/) (2026-10-22)
 - [Your Agent Can Better Drive the Auth0 CLI with Agent Mode](https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/) (2026-10-20)
+- [ID-JAG, Explained: The New OAuth Grant for Cross-App Access](https://auth0.com/blog/what-is-id-jag/) (2026-10-20)
 - [Securing AI Agents with Auth0 CIMD and Token Exchange
 ](https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/) (2026-10-20)
-- [ID-JAG, Explained: The New OAuth Grant for Cross-App Access](https://auth0.com/blog/what-is-id-jag/) (2026-10-20)
 
 </details>
 
@@ -612,17 +612,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twi
 </details>
 
 <details>
-<summary>💎 KDnuggets</summary>
-
-- [How to Process Large JSON Files in Python With ijson](https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson) (2026-10-22)
-- [Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining](https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining) (2026-10-22)
-- [Named Entity Recognition Using Scikit-LLM](https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm) (2026-10-21)
-- [5 Best GitHub Repositories for AI Agent Skills](https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills) (2026-10-21)
-- [The Roadmap to Becoming an AI Product Manager in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026) (2026-10-20)
-
-</details>
-
-<details>
 <summary>🎯 Machine Learning Mastery</summary>
 
 - [How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python](https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/) (2026-10-21)
@@ -641,17 +630,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twi
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
