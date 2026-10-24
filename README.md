@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/) (2026-10-23)
+- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) (2026-10-23)
+- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) (2026-10-23)
+- [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/) (2026-10-23)
 - [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now ](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/) (2026-10-23)
-- [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/) (2026-10-23)
-- [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) (2026-10-23)
-- [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/) (2026-10-23)
-- [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/) (2026-10-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) (2026-10-23)
-- [Florida officer found dead man, impersonated him for years, renovated his home](https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844) (2026-10-23)
-- [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro) (2026-10-23)
-- [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923) (2026-10-23)
-- [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/) (2026-10-23)
+- [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm) (2026-10-24)
+- [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) (2026-10-24)
+- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) (2026-10-23)
+- [CVE Tracker](https://cve.0xosprey.com/) (2026-10-23)
+- [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155) (2026-10-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure) (2026-10-23)
+- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) (2026-10-23)
+- [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided) (2026-10-23)
+- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) (2026-10-23)
 - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale) (2026-10-23)
-- [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale) (2026-10-23)
-- [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly) (2026-10-23)
-- [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast) (2026-10-23)
-- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (2026-10-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Crows can evaluate visual info twice as fast as mammals](https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/) (2026-10-23)
-- [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/) (2026-10-23)
-- [RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns](https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/) (2026-10-23)
-- [Knicks sent employees fake offer of championship rings in phishing test: Report](https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/) (2026-10-23)
-- [Everybody panic: A Valve developer said "HLX" in public](https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/) (2026-10-23)
+- [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/) (2026-10-23)
+- [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/) (2026-10-23)
+- [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) (2026-10-23)
+- [Inside the Pentagon, the pressure is on to find a home for a new spaceport](https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/) (2026-10-23)
+- [Spotify ramps up policy enforcement on family plans](https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/) (2026-10-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [84% of abandoned v0 apps run a known-exploited Next.js](https://dev.to/macrocyber/84-of-abandoned-v0-apps-run-a-known-exploited-nextjs-5hm6) (2026-10-23)
-- [I built 1,500+ browser tools that never upload your files](https://dev.to/joseph_orduna_b458c7df808/i-built-1500-browser-tools-that-never-upload-your-files-46h5) (2026-10-23)
-- [Building an AI That Knows When Not to Guess](https://dev.to/jimmyknowslaw/building-an-ai-that-knows-when-not-to-guess-341j) (2026-10-23)
-- [Parsing RBC and TD chequing statements in Python: year-less dates, header-mapped columns and a balance proof](https://dev.to/zerabooks/parsing-rbc-and-td-chequing-statements-in-python-year-less-dates-header-mapped-columns-and-a-56c9) (2026-10-23)
-- [Where can I get free credits to test LLM inference](https://dev.to/digitalocean/where-can-i-get-free-credits-to-test-llm-inference-2l0h) (2026-10-23)
+- [Neurotechnology and neurorights: ethics and regulations of BCI](https://dev.to/fundacjadobrepanstwo/neurotechnology-and-neurorights-ethics-and-regulations-of-bci-2fc0) (2026-10-24)
+- [Building a Data Fabric on AWS: Connect Data, Improve Governance, and Power AI](https://dev.to/omayrashraf/building-a-data-fabric-on-aws-connect-data-improve-governance-and-power-ai-3l00) (2026-10-24)
+- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04) (2026-10-24)
+- [Building a 10-language B2B site: the localization bugs our code checks missed](https://dev.to/mileschen/building-a-10-language-b2b-site-the-localization-bugs-our-code-checks-missed-db6) (2026-10-24)
+- [PDF/UA: the veraPDF failures you can fix with 30 lines of pikepdf (measured on 24 files)](https://dev.to/nyoagentti/pdfua-the-verapdf-failures-you-can-fix-with-30-lines-of-pikepdf-measured-on-24-files-43m0) (2026-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Chrome vs. Safari vs. Firefox vs. Edge: What Actually Matters in 2026](https://halilozel1903.medium.com/chrome-vs-safari-vs-firefox-vs-edge-what-actually-matters-in-2026-8a7ae7c6c0ae?source=rss------programming-5) (2026-10-23)
-- [Google Authenticator Is a Tiny Distributed System](https://medium.com/codex/google-authenticator-is-a-tiny-distributed-system-46f2c4351706?source=rss------programming-5) (2026-10-23)
-- [The 9-to-5 Is Dead. Long Live the 1-to-2.](https://medium.com/@abhishekroy909/the-9-to-5-is-dead-long-live-the-1-to-2-cf0ab5064a7d?source=rss------programming-5) (2026-10-23)
-- [10 MCP Servers and Agent Skills That Can Transform Your AI Development Workflow in 2026](https://aakash4dev.medium.com/10-mcp-servers-and-agent-skills-that-can-transform-your-ai-development-workflow-in-2026-001677353582?source=rss------programming-5) (2026-10-23)
-- [Your Next Coding Interview Might Start With Code You Didn’t Write](https://medium.com/@emilyhustlenyc/your-next-coding-interview-might-start-with-code-you-didnt-write-1312d07aa874?source=rss------programming-5) (2026-10-23)
+- [Top Web Development Trends Not To Miss in 2026…](https://medium.com/@asheeshm81/top-web-development-trends-not-to-miss-in-2026-eeeddadd0ed8?source=rss------programming-5) (2026-10-24)
+- [Why Your AI Coding Agent Burns Your $20/Month Subscription in 3 Days (And How to Fix It)](https://medium.com/@heykelm/why-your-ai-coding-agent-burns-your-20-month-subscription-in-3-days-and-how-to-fix-it-13046ded100b?source=rss------programming-5) (2026-10-24)
+- [Schwab’s CEO Gets a Weekly Report of AI Agents Trying to Reach Client Money, and Meta’s Muse Is on…](https://meetcyber.net/schwabs-ceo-gets-a-weekly-report-of-ai-agents-trying-to-reach-client-money-and-meta-s-muse-is-on-f6009de5baae?source=rss------programming-5) (2026-10-24)
+- [Shared Config Files Across Versions: Tolerant Readers and Unknown Values](https://medium.com/@wsx5031060310guy/shared-config-files-across-versions-tolerant-readers-and-unknown-values-6a5d94fa9671?source=rss------programming-5) (2026-10-24)
+- [跨版本共用設定檔：Tolerant Reader 與未知值](https://medium.com/@wsx5031060310guy/%E8%B7%A8%E7%89%88%E6%9C%AC%E5%85%B1%E7%94%A8%E8%A8%AD%E5%AE%9A%E6%AA%94-tolerant-reader-%E8%88%87%E6%9C%AA%E7%9F%A5%E5%80%BC-070b480086c8?source=rss------programming-5) (2026-10-24)
 
 </details>
 
@@ -641,6 +641,17 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
