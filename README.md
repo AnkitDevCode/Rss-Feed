@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/) (2026-10-24)
+- [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) (2026-10-24)
+- [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/) (2026-10-24)
+- [Here are the top AI agents that can live in your text messages ](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-24)
 - [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/) (2026-10-23)
-- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) (2026-10-23)
-- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) (2026-10-23)
-- [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/) (2026-10-23)
-- [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now ](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/) (2026-10-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) (2026-10-24)
-- [ThinkRail from JetBrains](https://thinkrail.ai/) (2026-10-24)
-- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) (2026-10-24)
-- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) (2026-10-24)
-- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) (2026-10-24)
+- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) (2026-10-24)
+- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) (2026-10-24)
+- [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/) (2026-10-24)
+- [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root) (2026-10-24)
+- [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock) (2026-10-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure) (2026-10-23)
-- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) (2026-10-23)
-- [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided) (2026-10-23)
-- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) (2026-10-23)
-- [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale) (2026-10-23)
+- [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview) (2026-10-24)
+- [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale) (2026-10-24)
+- [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro) (2026-10-24)
+- [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis) (2026-10-24)
+- [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview) (2026-10-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A 1,000-mile cloud on Mars may reveal physics never seen in nature](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/) (2026-10-24)
+- [Ice sheet expansion may have started 2,000 years ago, but we canceled that](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/) (2026-10-24)
 - [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/) (2026-10-23)
 - [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/) (2026-10-23)
 - [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) (2026-10-23)
-- [Inside the Pentagon, the pressure is on to find a home for a new spaceport](https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/) (2026-10-23)
-- [Spotify ramps up policy enforcement on family plans](https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/) (2026-10-23)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a free shipping progress bar for Shopify with Liquid and JavaScript](https://dev.to/brix_tech/build-a-free-shipping-progress-bar-for-shopify-with-liquid-and-javascript-1a0j) (2026-10-24)
-- [A Model Registry With an Outbound Dial: What CVE-2026-64849 Hands an Unauthenticated Caller](https://dev.to/jeffreyciend/a-model-registry-with-an-outbound-dial-what-cve-2026-64849-hands-an-unauthenticated-caller-488o) (2026-10-24)
-- [Building a Secrets Detection Pre-Commit Hook in 50 Lines](https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8) (2026-10-24)
-- [APA vs. MLA vs. Chicago: A Developer's Guide to Citation Formats (and a Tiny Formatter in TypeScript)](https://dev.to/alan-matthew/apa-vs-mla-vs-chicago-a-developers-guide-to-citation-formats-and-a-tiny-formatter-in-1occ) (2026-10-24)
-- [Sloth AI Folder Tidier: Let Open-Source AI Clean Your Downloads Folder So You Don't Have To](https://dev.to/shadow16ua/sloth-ai-folder-tidier-let-open-source-ai-clean-your-downloads-folder-so-you-dont-have-to-g6m) (2026-10-24)
+- [How We Structured a Medicine Comparison Table for Patients (and What We Learned About Generic Naming)](https://dev.to/rx_pilltab_3c2ada10623bb/how-we-structured-a-medicine-comparison-table-for-patients-and-what-we-learned-about-generic-2gb0) (2026-10-24)
+- [How much do stocks move after earnings? I measured 12,353 S&P 500 reports](https://dev.to/daniel_oliveira_4bd55d35d/how-much-do-stocks-move-after-earnings-i-measured-12353-sp-500-reports-5e7p) (2026-10-24)
+- [I Am the Opposite of Claudefishing](https://dev.to/heygalatea/i-am-the-opposite-of-claudefishing-2e51) (2026-10-24)
+- [Canonicalization for AI Search: How to Prevent Stale Content Citations](https://dev.to/alifar/canonicalization-for-ai-search-how-to-prevent-stale-content-citations-55kk) (2026-10-24)
+- [LazyDesk AI: Let Open AI Handle the Boring Document Work](https://dev.to/krishna_kumar_612c63ef69e/lazydesk-ai-let-open-ai-handle-the-boring-document-work-25l) (2026-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Bypassing the AVX2 Tax (Part 3): AMD on the Shop Floor and the Windows Release](https://medium.com/@olesha-ai/bypassing-the-avx2-tax-part-3-amd-on-the-shop-floor-and-the-windows-release-ae8f10bbda53?source=rss------programming-5) (2026-10-24)
-- [Two More C Problems and My First Steps Into Dynamic Memory Allocation](https://medium.com/@adarshvardhanpatel/two-more-c-problems-and-my-first-steps-into-dynamic-memory-allocation-68c812586961?source=rss------programming-5) (2026-10-24)
-- [10 Linux Permission Skills That Separate Pros From Average Users](https://medium.com/@ishaaq.raja/10-linux-permission-skills-that-separate-pros-from-average-users-34fb33b91920?source=rss------programming-5) (2026-10-24)
-- [Retry Storms in Microservices: How One Timeout Can Take Down Your Entire Backend](https://medium.com/engineering-playbook/retry-storms-in-microservices-how-one-timeout-can-take-down-your-entire-backend-1cb1f30c0022?source=rss------programming-5) (2026-10-24)
-- [The Best Browser Agent Knows When to Stop Clicking](https://kotrotsos.medium.com/the-best-browser-agent-knows-when-to-stop-clicking-5da5d9139a9c?source=rss------programming-5) (2026-10-24)
+- [Recursive’s AI Helped Build a Coding Model in Under 4 Months, and It Runs 125 Tokens a Second on a…](https://pub.towardsai.net/recursives-ai-helped-build-a-coding-model-in-under-4-months-and-it-runs-125-tokens-a-second-on-a-16097573a320?source=rss------programming-5) (2026-10-24)
+- [HTTP y Problem Details (1): el 200 que mentía](https://medium.com/@dorian.chavez/http-y-problem-details-1-el-200-que-ment%C3%ADa-f6b39f9b3f6f?source=rss------programming-5) (2026-10-24)
+- [Case Study: Neutralization of 5 Fraudulent Investment & Phishing Networks](https://medium.com/@coldreckoning/case-study-neutralization-of-5-fraudulent-investment-phishing-networks-cfaadcf8276b?source=rss------programming-5) (2026-10-24)
+- [A Guardian Angel for a Family Mac](https://medium.com/rustaceans/a-guardian-angel-for-a-family-mac-6e8dca2bf80a?source=rss------programming-5) (2026-10-24)
+- [Staff Engineer vs Senior Engineer: Why Strong Senior Developers Fail Staff-Level Interviews](https://medium.com/engineering-playbook/staff-engineer-vs-senior-engineer-why-strong-senior-developers-fail-staff-level-interviews-5423957d01b1?source=rss------programming-5) (2026-10-24)
 
 </details>
 
@@ -592,11 +592,11 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Add Guardrails to a Local LLM Agent](https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/) (2026-10-24)
+- [Python 3.15 Has a New Profiler](https://towardsdatascience.com/python-315-has-a-new-profiler/) (2026-10-24)
 - [Don’t Let Messy Data Bend Your Curves](https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/) (2026-10-23)
 - [Skewness and Kurtosis: From Moments to Machine Learning](https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/) (2026-10-23)
 - [Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension](https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/) (2026-10-23)
-- [Your Six AI Models Are Really Two: The Math of Correlated Mistakes](https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/) (2026-10-23)
-- [Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions](https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/) (2026-10-22)
 
 </details>
 
