@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-10-24)
+- [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/) (2026-10-24)
+- [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) (2026-10-24)
+- [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/) (2026-10-24)
 - [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/) (2026-10-24)
-- [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) (2026-10-24)
-- [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/) (2026-10-24)
-- [Here are the top AI agents that can live in your text messages ](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) (2026-10-24)
-- [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/) (2026-10-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) (2026-10-24)
-- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) (2026-10-24)
-- [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/) (2026-10-24)
-- [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root) (2026-10-24)
-- [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock) (2026-10-24)
+- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) (2026-10-24)
+- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) (2026-10-24)
+- [The Goose Programming Language](https://aardappel.github.io/goose/) (2026-10-24)
+- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568) (2026-10-24)
+- [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) (2026-10-24)
 - [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview) (2026-10-24)
 - [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale) (2026-10-24)
 - [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro) (2026-10-24)
 - [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis) (2026-10-24)
-- [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Structured a Medicine Comparison Table for Patients (and What We Learned About Generic Naming)](https://dev.to/rx_pilltab_3c2ada10623bb/how-we-structured-a-medicine-comparison-table-for-patients-and-what-we-learned-about-generic-2gb0) (2026-10-24)
-- [How much do stocks move after earnings? I measured 12,353 S&P 500 reports](https://dev.to/daniel_oliveira_4bd55d35d/how-much-do-stocks-move-after-earnings-i-measured-12353-sp-500-reports-5e7p) (2026-10-24)
-- [I Am the Opposite of Claudefishing](https://dev.to/heygalatea/i-am-the-opposite-of-claudefishing-2e51) (2026-10-24)
-- [Canonicalization for AI Search: How to Prevent Stale Content Citations](https://dev.to/alifar/canonicalization-for-ai-search-how-to-prevent-stale-content-citations-55kk) (2026-10-24)
-- [LazyDesk AI: Let Open AI Handle the Boring Document Work](https://dev.to/krishna_kumar_612c63ef69e/lazydesk-ai-let-open-ai-handle-the-boring-document-work-25l) (2026-10-24)
+- [🚂 MINDTRACE AI: Echoes of the Last Train 🔎](https://dev.to/shantanu_shete_1e614e6e52/mindtrace-ai-echoes-of-the-last-train-3fkp) (2026-10-24)
+- [CampusCopilot — Your Personal AI Developer Campus 🚀](https://dev.to/iam_ayushraj/campuscopilot-your-personal-ai-developer-campus-4gfb) (2026-10-24)
+- [Lining up recorded voice callouts with a beat in a boxing training app](https://dev.to/fightnome/lining-up-recorded-voice-callouts-with-a-beat-in-a-boxing-training-app-2ih1) (2026-10-24)
+- [46 views, 0 sales, and probably 0 readers: what UTM links told me that my dashboard couldn't](https://dev.to/fejc/46-views-0-sales-and-probably-0-readers-what-utm-links-told-me-that-my-dashboard-couldnt-200l) (2026-10-24)
+- [Metal PCB and PCBA Manufacturing: A Practical Guide to Materials, Assembly, and Global Sourcing](https://dev.to/richardjackson/metal-pcb-and-pcba-manufacturing-a-practical-guide-to-materials-assembly-and-global-sourcing-45f1) (2026-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Recursive’s AI Helped Build a Coding Model in Under 4 Months, and It Runs 125 Tokens a Second on a…](https://pub.towardsai.net/recursives-ai-helped-build-a-coding-model-in-under-4-months-and-it-runs-125-tokens-a-second-on-a-16097573a320?source=rss------programming-5) (2026-10-24)
-- [HTTP y Problem Details (1): el 200 que mentía](https://medium.com/@dorian.chavez/http-y-problem-details-1-el-200-que-ment%C3%ADa-f6b39f9b3f6f?source=rss------programming-5) (2026-10-24)
-- [Case Study: Neutralization of 5 Fraudulent Investment & Phishing Networks](https://medium.com/@coldreckoning/case-study-neutralization-of-5-fraudulent-investment-phishing-networks-cfaadcf8276b?source=rss------programming-5) (2026-10-24)
-- [A Guardian Angel for a Family Mac](https://medium.com/rustaceans/a-guardian-angel-for-a-family-mac-6e8dca2bf80a?source=rss------programming-5) (2026-10-24)
-- [Staff Engineer vs Senior Engineer: Why Strong Senior Developers Fail Staff-Level Interviews](https://medium.com/engineering-playbook/staff-engineer-vs-senior-engineer-why-strong-senior-developers-fail-staff-level-interviews-5423957d01b1?source=rss------programming-5) (2026-10-24)
+- [What Four More DGX Sparks Change About an AI Request](https://meetcyber.net/what-four-more-dgx-sparks-change-about-an-ai-request-619efdf58cbf?source=rss------programming-5) (2026-10-24)
+- [Stop Asking AI Vague Questions: A Practical Guide to Better Prompts](https://medium.com/@azamjm1993/stop-asking-ai-vague-questions-a-practical-guide-to-better-prompts-3aebec5fd9d8?source=rss------programming-5) (2026-10-24)
+- [8 High-Concurrency Pitfalls I Learned While Scaling to 1 Million Concurrent Devices](https://blog.stackademic.com/8-high-concurrency-pitfalls-i-learned-while-scaling-to-1-million-concurrent-devices-ab815cc840ac?source=rss------programming-5) (2026-10-24)
+- [The Comprehension Gap: AI Can Build Software Faster Than We Can Understand It](https://pub.towardsai.net/the-comprehension-gap-ai-can-build-software-faster-than-we-can-understand-it-2603c2c4d090?source=rss------programming-5) (2026-10-24)
+- [5 “Simple” Backend Requirements That Can Turn Into Java Engineering Nightmares](https://medium.com/javarevisited/5-simple-backend-requirements-that-can-turn-into-java-engineering-nightmares-edf17efa9f26?source=rss------programming-5) (2026-10-24)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Passkeys vs. passwords: What’s the difference?
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/passkeys
+) (2026-10-23)
+- [
+Business authentication methods: How to choose the best solution
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods
+) (2026-10-22)
+- [
+ What is CIAM in 2026 and why does it matter?
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
+) (2026-10-22)
+- [
 How to build an AI agent that checks order status and processes refunds
 ](
 https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds
@@ -393,21 +408,6 @@ https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds
 ](
 https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 ) (2026-10-21)
-- [
-How to automate call summaries, sentiment, and CRM updates
-](
-https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm
-) (2026-10-21)
-- [
-9 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-10-20)
-- [
-How to handle token limits in long AI support conversations
-](
-https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
-) (2026-10-20)
 
 </details>
 
@@ -612,17 +612,6 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 </details>
 
 <details>
-<summary>💎 KDnuggets</summary>
-
-- [What Companies Actually Mean When They Say They Want “AI Experience”](https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience) (2026-10-23)
-- [5 Free AI Coding Agents You Should Try in 2026](https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026) (2026-10-23)
-- [How to Process Large JSON Files in Python With ijson](https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson) (2026-10-22)
-- [Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining](https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining) (2026-10-22)
-- [Named Entity Recognition Using Scikit-LLM](https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm) (2026-10-21)
-
-</details>
-
-<details>
 <summary>🎯 Machine Learning Mastery</summary>
 
 - [Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM](https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/) (2026-10-23)
@@ -641,6 +630,17 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
