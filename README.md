@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm) (2026-10-24)
-- [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) (2026-10-24)
-- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) (2026-10-23)
-- [CVE Tracker](https://cve.0xosprey.com/) (2026-10-23)
-- [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155) (2026-10-23)
+- [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) (2026-10-24)
+- [ThinkRail from JetBrains](https://thinkrail.ai/) (2026-10-24)
+- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) (2026-10-24)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) (2026-10-24)
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Neurotechnology and neurorights: ethics and regulations of BCI](https://dev.to/fundacjadobrepanstwo/neurotechnology-and-neurorights-ethics-and-regulations-of-bci-2fc0) (2026-10-24)
-- [Building a Data Fabric on AWS: Connect Data, Improve Governance, and Power AI](https://dev.to/omayrashraf/building-a-data-fabric-on-aws-connect-data-improve-governance-and-power-ai-3l00) (2026-10-24)
-- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04) (2026-10-24)
-- [Building a 10-language B2B site: the localization bugs our code checks missed](https://dev.to/mileschen/building-a-10-language-b2b-site-the-localization-bugs-our-code-checks-missed-db6) (2026-10-24)
-- [PDF/UA: the veraPDF failures you can fix with 30 lines of pikepdf (measured on 24 files)](https://dev.to/nyoagentti/pdfua-the-verapdf-failures-you-can-fix-with-30-lines-of-pikepdf-measured-on-24-files-43m0) (2026-10-24)
+- [Build a free shipping progress bar for Shopify with Liquid and JavaScript](https://dev.to/brix_tech/build-a-free-shipping-progress-bar-for-shopify-with-liquid-and-javascript-1a0j) (2026-10-24)
+- [A Model Registry With an Outbound Dial: What CVE-2026-64849 Hands an Unauthenticated Caller](https://dev.to/jeffreyciend/a-model-registry-with-an-outbound-dial-what-cve-2026-64849-hands-an-unauthenticated-caller-488o) (2026-10-24)
+- [Building a Secrets Detection Pre-Commit Hook in 50 Lines](https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8) (2026-10-24)
+- [APA vs. MLA vs. Chicago: A Developer's Guide to Citation Formats (and a Tiny Formatter in TypeScript)](https://dev.to/alan-matthew/apa-vs-mla-vs-chicago-a-developers-guide-to-citation-formats-and-a-tiny-formatter-in-1occ) (2026-10-24)
+- [Sloth AI Folder Tidier: Let Open-Source AI Clean Your Downloads Folder So You Don't Have To](https://dev.to/shadow16ua/sloth-ai-folder-tidier-let-open-source-ai-clean-your-downloads-folder-so-you-dont-have-to-g6m) (2026-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top Web Development Trends Not To Miss in 2026…](https://medium.com/@asheeshm81/top-web-development-trends-not-to-miss-in-2026-eeeddadd0ed8?source=rss------programming-5) (2026-10-24)
-- [Why Your AI Coding Agent Burns Your $20/Month Subscription in 3 Days (And How to Fix It)](https://medium.com/@heykelm/why-your-ai-coding-agent-burns-your-20-month-subscription-in-3-days-and-how-to-fix-it-13046ded100b?source=rss------programming-5) (2026-10-24)
-- [Schwab’s CEO Gets a Weekly Report of AI Agents Trying to Reach Client Money, and Meta’s Muse Is on…](https://meetcyber.net/schwabs-ceo-gets-a-weekly-report-of-ai-agents-trying-to-reach-client-money-and-meta-s-muse-is-on-f6009de5baae?source=rss------programming-5) (2026-10-24)
-- [Shared Config Files Across Versions: Tolerant Readers and Unknown Values](https://medium.com/@wsx5031060310guy/shared-config-files-across-versions-tolerant-readers-and-unknown-values-6a5d94fa9671?source=rss------programming-5) (2026-10-24)
-- [跨版本共用設定檔：Tolerant Reader 與未知值](https://medium.com/@wsx5031060310guy/%E8%B7%A8%E7%89%88%E6%9C%AC%E5%85%B1%E7%94%A8%E8%A8%AD%E5%AE%9A%E6%AA%94-tolerant-reader-%E8%88%87%E6%9C%AA%E7%9F%A5%E5%80%BC-070b480086c8?source=rss------programming-5) (2026-10-24)
+- [Bypassing the AVX2 Tax (Part 3): AMD on the Shop Floor and the Windows Release](https://medium.com/@olesha-ai/bypassing-the-avx2-tax-part-3-amd-on-the-shop-floor-and-the-windows-release-ae8f10bbda53?source=rss------programming-5) (2026-10-24)
+- [Two More C Problems and My First Steps Into Dynamic Memory Allocation](https://medium.com/@adarshvardhanpatel/two-more-c-problems-and-my-first-steps-into-dynamic-memory-allocation-68c812586961?source=rss------programming-5) (2026-10-24)
+- [10 Linux Permission Skills That Separate Pros From Average Users](https://medium.com/@ishaaq.raja/10-linux-permission-skills-that-separate-pros-from-average-users-34fb33b91920?source=rss------programming-5) (2026-10-24)
+- [Retry Storms in Microservices: How One Timeout Can Take Down Your Entire Backend](https://medium.com/engineering-playbook/retry-storms-in-microservices-how-one-timeout-can-take-down-your-entire-backend-1cb1f30c0022?source=rss------programming-5) (2026-10-24)
+- [The Best Browser Agent Knows When to Stop Clicking](https://kotrotsos.medium.com/the-best-browser-agent-knows-when-to-stop-clicking-5da5d9139a9c?source=rss------programming-5) (2026-10-24)
 
 </details>
 
@@ -641,17 +641,6 @@ https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
