@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463) (2026-10-25)
+- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) (2026-10-25)
+- [Not Palantir](https://notpalantir.eu/) (2026-10-25)
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) (2026-10-25)
-- [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb) (2026-10-24)
 - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) (2026-10-24)
-- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) (2026-10-24)
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [One Face, Many Agents: Meet AgentWebUI](https://dev.to/tahrimwalid/one-face-many-agents-meet-agentwebui-1a8l) (2026-10-25)
-- [iDeck: bringing real Steam Big Picture to an iPhone, one compatibility bug at a time](https://dev.to/kusch_qin_5cfed66f851a9ea/ideck-bringing-real-steam-big-picture-to-an-iphone-one-compatibility-bug-at-a-time-1job) (2026-10-25)
-- [7 Ways to Compare Chatbot API Quality and Latency: Portable Healthtech Triage](https://dev.to/jaxmonroe3187/7-ways-to-compare-chatbot-api-quality-and-latency-portable-healthtech-triage-o8a) (2026-10-25)
-- [Zeitlimit für YouTube auf dem iPhone: Was die Erinnerungen von YouTube tun und was dich wirklich stoppt (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/zeitlimit-fur-youtube-auf-dem-iphone-was-die-erinnerungen-von-youtube-tun-und-was-dich-wirklich-586e) (2026-10-25)
-- [SEC Form D search: 3 ways to look up and export Form D filings (free and automated)](https://dev.to/suresignal/sec-form-d-search-3-ways-to-look-up-and-export-form-d-filings-free-and-automated-1fdk) (2026-10-25)
+- [From Bytes to Glyphs: How a Terminal Emulator Actually Works](https://dev.to/c-wind/from-bytes-to-glyphs-how-a-terminal-emulator-actually-works-3008) (2026-10-25)
+- [SlothDesk 🦥: Too Lazy to Organize? Let AI Handle It!](https://dev.to/dhanyas14/slothdesk-too-lazy-to-organize-let-ai-handle-it-3g1o) (2026-10-25)
+- [Quack: the AI coding assistant that can't touch your code](https://dev.to/malvinx/quack-the-ai-coding-assistant-that-cant-touch-your-code-51ij) (2026-10-25)
+- [DKIM "no key for signature" after switching to a 2048-bit key: the TXT record is probably cut off](https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn) (2026-10-25)
+- [Latency is the wrong metric for fallback routes](https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj) (2026-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Won’t Walk Into a System Design Interview Without Practicing This Follow-Up](https://medium.com/@emilyhustlenyc/i-wont-walk-into-a-system-design-interview-without-practicing-this-follow-up-43f44502828c?source=rss------programming-5) (2026-10-25)
-- [Why Linux Still Needs Unsafe Rust](https://medium.com/@thyzmile24/why-linux-still-needs-unsafe-rust-14d654140f91?source=rss------programming-5) (2026-10-25)
-- [Stop Watching Tutorials: How Building Git, Redis and Docker From Scratch Made Me a Better…](https://aarambhdevhub.medium.com/stop-watching-tutorials-how-building-git-redis-and-docker-from-scratch-made-me-a-better-11d902dfbf49?source=rss------programming-5) (2026-10-25)
-- [Why AI Prose Reads Like a Zip Bomb ️](https://towardsdev.com/why-ai-prose-reads-like-a-zip-bomb-%EF%B8%8F-cf2639c47667?source=rss------programming-5) (2026-10-25)
-- [What Does an Expert Developer Do in the Age of AI?](https://medium.com/@vikramdhodhi/what-does-an-expert-developer-do-in-the-age-of-ai-6cf0208b4472?source=rss------programming-5) (2026-10-25)
+- [PHP-Sicherheitslücke: So gelingt die KI-Verteidigung](https://everlastai.medium.com/php-sicherheitsl%C3%BCcke-so-gelingt-die-ki-verteidigung-6ade379024fc?source=rss------programming-5) (2026-10-25)
+- [Deloitte USI Java Full Stack Developer Interview Experience | Technical Round Questions](https://medium.com/@preetjit82/deloitte-usi-java-full-stack-developer-interview-experience-technical-round-questions-35357bd69b3f?source=rss------programming-5) (2026-10-25)
+- [The Best New Features in Python 3.15](https://medium.com/@agusabdulrahman/the-best-new-features-in-python-3-15-9047b3bf7663?source=rss------programming-5) (2026-10-25)
+- [The Smart Bettor’s Blueprint: 5 Crucial Habits for Consistent Sports Predictions.](https://medium.com/@ndzimartinafanyui/the-smart-bettors-blueprint-5-crucial-habits-for-consistent-sports-predictions-3fbe00cff0c5?source=rss------programming-5) (2026-10-25)
+- [Building Anybox](https://levelup.gitconnected.com/building-anybox-9be69b13e9e5?source=rss------programming-5) (2026-10-25)
 
 </details>
 
@@ -537,11 +537,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 - [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
 - [How To Be Productive: 8 Productivity Tips To Get More Done](https://slack.com/blog/productivity/tips-how-to-be-more-productive) (2026-10-19)
 - [Every Shift, Every Site, Every Team: Introducing Slack Frontline](https://slack.com/blog/news/slack-frontline) (2026-10-19)
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistant) (2026-10-16)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/) (2026-10-25)
 - [LLM Inference Explained: How Models Generate Responses Faster](https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/) (2026-10-23)
 - [Build AI Employees in Python That Work While You Sleep](https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/) (2026-10-22)
 - [10 Free Open Source Alternatives to Paid Software](https://www.analyticsvidhya.com/blog/2026/10/open-source-alternatives-paid-software/) (2026-10-21)
 - [A Practical Guide to Harness Engineering: Building the System Around the Model ](https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/) (2026-10-19)
-- [Reverse Engineer Anything (REA): Can AI Really Crack Closed Code?](https://www.analyticsvidhya.com/blog/2026/10/rea-ai-agent-reverse-engineer-anything/) (2026-10-18)
 
 </details>
 
@@ -641,17 +641,6 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
-- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
-- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
