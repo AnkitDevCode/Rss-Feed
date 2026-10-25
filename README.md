@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/) (2026-10-24)
+- [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/) (2026-10-24)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-10-24)
 - [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/) (2026-10-24)
 - [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) (2026-10-24)
-- [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/) (2026-10-24)
-- [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) (2026-10-24)
-- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) (2026-10-24)
-- [The Goose Programming Language](https://aardappel.github.io/goose/) (2026-10-24)
-- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568) (2026-10-24)
-- [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/) (2026-10-24)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) (2026-10-25)
+- [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb) (2026-10-24)
+- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) (2026-10-24)
+- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) (2026-10-24)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) (2026-10-24)
 - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) (2026-10-24)
 - [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview) (2026-10-24)
 - [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale) (2026-10-24)
 - [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro) (2026-10-24)
-- [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚂 MINDTRACE AI: Echoes of the Last Train 🔎](https://dev.to/shantanu_shete_1e614e6e52/mindtrace-ai-echoes-of-the-last-train-3fkp) (2026-10-24)
-- [CampusCopilot — Your Personal AI Developer Campus 🚀](https://dev.to/iam_ayushraj/campuscopilot-your-personal-ai-developer-campus-4gfb) (2026-10-24)
-- [Lining up recorded voice callouts with a beat in a boxing training app](https://dev.to/fightnome/lining-up-recorded-voice-callouts-with-a-beat-in-a-boxing-training-app-2ih1) (2026-10-24)
-- [46 views, 0 sales, and probably 0 readers: what UTM links told me that my dashboard couldn't](https://dev.to/fejc/46-views-0-sales-and-probably-0-readers-what-utm-links-told-me-that-my-dashboard-couldnt-200l) (2026-10-24)
-- [Metal PCB and PCBA Manufacturing: A Practical Guide to Materials, Assembly, and Global Sourcing](https://dev.to/richardjackson/metal-pcb-and-pcba-manufacturing-a-practical-guide-to-materials-assembly-and-global-sourcing-45f1) (2026-10-24)
+- [One Face, Many Agents: Meet AgentWebUI](https://dev.to/tahrimwalid/one-face-many-agents-meet-agentwebui-1a8l) (2026-10-25)
+- [iDeck: bringing real Steam Big Picture to an iPhone, one compatibility bug at a time](https://dev.to/kusch_qin_5cfed66f851a9ea/ideck-bringing-real-steam-big-picture-to-an-iphone-one-compatibility-bug-at-a-time-1job) (2026-10-25)
+- [7 Ways to Compare Chatbot API Quality and Latency: Portable Healthtech Triage](https://dev.to/jaxmonroe3187/7-ways-to-compare-chatbot-api-quality-and-latency-portable-healthtech-triage-o8a) (2026-10-25)
+- [Zeitlimit für YouTube auf dem iPhone: Was die Erinnerungen von YouTube tun und was dich wirklich stoppt (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/zeitlimit-fur-youtube-auf-dem-iphone-was-die-erinnerungen-von-youtube-tun-und-was-dich-wirklich-586e) (2026-10-25)
+- [SEC Form D search: 3 ways to look up and export Form D filings (free and automated)](https://dev.to/suresignal/sec-form-d-search-3-ways-to-look-up-and-export-form-d-filings-free-and-automated-1fdk) (2026-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Four More DGX Sparks Change About an AI Request](https://meetcyber.net/what-four-more-dgx-sparks-change-about-an-ai-request-619efdf58cbf?source=rss------programming-5) (2026-10-24)
-- [Stop Asking AI Vague Questions: A Practical Guide to Better Prompts](https://medium.com/@azamjm1993/stop-asking-ai-vague-questions-a-practical-guide-to-better-prompts-3aebec5fd9d8?source=rss------programming-5) (2026-10-24)
-- [8 High-Concurrency Pitfalls I Learned While Scaling to 1 Million Concurrent Devices](https://blog.stackademic.com/8-high-concurrency-pitfalls-i-learned-while-scaling-to-1-million-concurrent-devices-ab815cc840ac?source=rss------programming-5) (2026-10-24)
-- [The Comprehension Gap: AI Can Build Software Faster Than We Can Understand It](https://pub.towardsai.net/the-comprehension-gap-ai-can-build-software-faster-than-we-can-understand-it-2603c2c4d090?source=rss------programming-5) (2026-10-24)
-- [5 “Simple” Backend Requirements That Can Turn Into Java Engineering Nightmares](https://medium.com/javarevisited/5-simple-backend-requirements-that-can-turn-into-java-engineering-nightmares-edf17efa9f26?source=rss------programming-5) (2026-10-24)
+- [I Won’t Walk Into a System Design Interview Without Practicing This Follow-Up](https://medium.com/@emilyhustlenyc/i-wont-walk-into-a-system-design-interview-without-practicing-this-follow-up-43f44502828c?source=rss------programming-5) (2026-10-25)
+- [Why Linux Still Needs Unsafe Rust](https://medium.com/@thyzmile24/why-linux-still-needs-unsafe-rust-14d654140f91?source=rss------programming-5) (2026-10-25)
+- [Stop Watching Tutorials: How Building Git, Redis and Docker From Scratch Made Me a Better…](https://aarambhdevhub.medium.com/stop-watching-tutorials-how-building-git-redis-and-docker-from-scratch-made-me-a-better-11d902dfbf49?source=rss------programming-5) (2026-10-25)
+- [Why AI Prose Reads Like a Zip Bomb ️](https://towardsdev.com/why-ai-prose-reads-like-a-zip-bomb-%EF%B8%8F-cf2639c47667?source=rss------programming-5) (2026-10-25)
+- [What Does an Expert Developer Do in the Age of AI?](https://medium.com/@vikramdhodhi/what-does-an-expert-developer-do-in-the-age-of-ai-6cf0208b4472?source=rss------programming-5) (2026-10-25)
 
 </details>
 
@@ -608,6 +608,17 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [10 Free Open Source Alternatives to Paid Software](https://www.analyticsvidhya.com/blog/2026/10/open-source-alternatives-paid-software/) (2026-10-21)
 - [A Practical Guide to Harness Engineering: Building the System Around the Model ](https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/) (2026-10-19)
 - [Reverse Engineer Anything (REA): Can AI Really Crack Closed Code?](https://www.analyticsvidhya.com/blog/2026/10/rea-ai-agent-reverse-engineer-anything/) (2026-10-18)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [What Companies Actually Mean When They Say They Want “AI Experience”](https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience) (2026-10-23)
+- [5 Free AI Coding Agents You Should Try in 2026](https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026) (2026-10-23)
+- [How to Process Large JSON Files in Python With ijson](https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson) (2026-10-22)
+- [Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining](https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining) (2026-10-22)
+- [Named Entity Recognition Using Scikit-LLM](https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm) (2026-10-21)
 
 </details>
 
