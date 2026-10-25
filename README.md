@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) (2026-10-25)
 - [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/) (2026-10-24)
 - [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/) (2026-10-24)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-10-24)
 - [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/) (2026-10-24)
-- [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463) (2026-10-25)
-- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) (2026-10-25)
-- [Not Palantir](https://notpalantir.eu/) (2026-10-25)
-- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) (2026-10-25)
-- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) (2026-10-24)
+- [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) (2026-10-25)
+- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol) (2026-10-25)
+- [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk) (2026-10-25)
+- [Imagine an AI future where being banned means you are now economically useless](https://twitter.com/boneGPT/status/2114035719853265264) (2026-10-25)
+- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) (2026-10-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) (2026-10-25)
+- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) (2026-10-25)
 - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) (2026-10-24)
 - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) (2026-10-24)
 - [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview) (2026-10-24)
-- [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale) (2026-10-24)
-- [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Bytes to Glyphs: How a Terminal Emulator Actually Works](https://dev.to/c-wind/from-bytes-to-glyphs-how-a-terminal-emulator-actually-works-3008) (2026-10-25)
-- [SlothDesk 🦥: Too Lazy to Organize? Let AI Handle It!](https://dev.to/dhanyas14/slothdesk-too-lazy-to-organize-let-ai-handle-it-3g1o) (2026-10-25)
-- [Quack: the AI coding assistant that can't touch your code](https://dev.to/malvinx/quack-the-ai-coding-assistant-that-cant-touch-your-code-51ij) (2026-10-25)
-- [DKIM "no key for signature" after switching to a 2048-bit key: the TXT record is probably cut off](https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn) (2026-10-25)
-- [Latency is the wrong metric for fallback routes](https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj) (2026-10-25)
+- [TISAX Denetim Hazırlığında Teknik Kanıtlar: Otomotiv Tedarikçileri İçin Uygulamalı Rehber](https://dev.to/burak_eki_68434e5478e2d8/tisax-denetim-hazirliginda-teknik-kanitlar-otomotiv-tedarikcileri-icin-uygulamali-rehber-2i2e) (2026-10-25)
+- [RAG-Anything: Cómo Hacer RAG con PDFs que Tienen Imágenes, Tablas y Ecuaciones](https://dev.to/yodev_grego/rag-anything-como-hacer-rag-con-pdfs-que-tienen-imagenes-tablas-y-ecuaciones-2f8) (2026-10-25)
+- [I Built a Voice Recorder Extension for Firefox That Keeps All Your Notes Offline](https://dev.to/weatherclockdash/i-built-a-voice-recorder-extension-for-firefox-that-keeps-all-your-notes-offline-2437) (2026-10-25)
+- [Mage-OS and BlockStrap: the same framework, a different release train](https://dev.to/andreagomez/mage-os-and-blockstrap-the-same-framework-a-different-release-train-4248) (2026-10-25)
+- [A copied button looks almost right? Check all four corners.](https://dev.to/_a2d6b6a6361aff5ae214a5/a-copied-button-looks-almost-right-check-all-four-corners-4l75) (2026-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [PHP-Sicherheitslücke: So gelingt die KI-Verteidigung](https://everlastai.medium.com/php-sicherheitsl%C3%BCcke-so-gelingt-die-ki-verteidigung-6ade379024fc?source=rss------programming-5) (2026-10-25)
-- [Deloitte USI Java Full Stack Developer Interview Experience | Technical Round Questions](https://medium.com/@preetjit82/deloitte-usi-java-full-stack-developer-interview-experience-technical-round-questions-35357bd69b3f?source=rss------programming-5) (2026-10-25)
-- [The Best New Features in Python 3.15](https://medium.com/@agusabdulrahman/the-best-new-features-in-python-3-15-9047b3bf7663?source=rss------programming-5) (2026-10-25)
-- [The Smart Bettor’s Blueprint: 5 Crucial Habits for Consistent Sports Predictions.](https://medium.com/@ndzimartinafanyui/the-smart-bettors-blueprint-5-crucial-habits-for-consistent-sports-predictions-3fbe00cff0c5?source=rss------programming-5) (2026-10-25)
-- [Building Anybox](https://levelup.gitconnected.com/building-anybox-9be69b13e9e5?source=rss------programming-5) (2026-10-25)
+- [Rust’s Compiler Is Getting Smarter. Async Is the Next Boss Fight. ](https://medium.com/@ashishjsharda/rusts-compiler-is-getting-smarter-async-is-the-next-boss-fight-bdc7e80098f4?source=rss------programming-5) (2026-10-25)
+- [Kimi K3.1 Pro’s Benchmarks Are Insane —  Moonshot AI Did It Again](https://medium.com/the-ai-brief/kimi-k3-1-pros-benchmarks-are-insane-moonshot-ai-did-it-again-d9335f95f343?source=rss------programming-5) (2026-10-25)
+- [Claude Called Me the Bottleneck So I Built an Autopilot For Him.](https://medium.com/@favorable_seashell_fly_869/claude-called-me-the-bottleneck-so-i-built-an-autopilot-for-him-e56fcdc218b5?source=rss------programming-5) (2026-10-25)
+- [A Fake reCAPTCHA Appeared on Our Admin Portal. Here’s What We Learned](https://medium.com/@alamdev/a-fake-recaptcha-appeared-on-our-admin-portal-heres-what-we-learned-b29ecfc63c50?source=rss------programming-5) (2026-10-25)
+- [Building IAM with CloudFormation: From ROLLBACK to CREATE_COMPLETE:](https://medium.com/@rwstokes3/building-iam-with-cloudformation-from-rollback-to-create-complete-5227eb9aca7f?source=rss------programming-5) (2026-10-25)
 
 </details>
 
@@ -592,11 +592,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail](https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/) (2026-10-25)
+- [Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-10-25)
 - [How to Add Guardrails to a Local LLM Agent](https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/) (2026-10-24)
 - [Python 3.15 Has a New Profiler](https://towardsdatascience.com/python-315-has-a-new-profiler/) (2026-10-24)
 - [Don’t Let Messy Data Bend Your Curves](https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/) (2026-10-23)
-- [Skewness and Kurtosis: From Moments to Machine Learning](https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/) (2026-10-23)
-- [Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension](https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/) (2026-10-23)
 
 </details>
 
