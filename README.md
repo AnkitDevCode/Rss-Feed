@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) (2026-10-25)
+- [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/) (2026-10-25)
 - [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) (2026-10-25)
 - [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/) (2026-10-24)
 - [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/) (2026-10-24)
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-10-24)
-- [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) (2026-10-25)
-- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol) (2026-10-25)
-- [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk) (2026-10-25)
-- [Imagine an AI future where being banned means you are now economically useless](https://twitter.com/boneGPT/status/2114035719853265264) (2026-10-25)
-- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) (2026-10-25)
+- [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here) (2026-10-25)
+- [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/) (2026-10-25)
+- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) (2026-10-25)
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) (2026-10-25)
+- [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics) (2026-10-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen) (2026-10-25)
+- [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement) (2026-10-25)
+- [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on) (2026-10-25)
+- [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv) (2026-10-25)
 - [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) (2026-10-25)
-- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) (2026-10-25)
-- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) (2026-10-24)
-- [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) (2026-10-24)
-- [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview) (2026-10-24)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TISAX Denetim Hazırlığında Teknik Kanıtlar: Otomotiv Tedarikçileri İçin Uygulamalı Rehber](https://dev.to/burak_eki_68434e5478e2d8/tisax-denetim-hazirliginda-teknik-kanitlar-otomotiv-tedarikcileri-icin-uygulamali-rehber-2i2e) (2026-10-25)
-- [RAG-Anything: Cómo Hacer RAG con PDFs que Tienen Imágenes, Tablas y Ecuaciones](https://dev.to/yodev_grego/rag-anything-como-hacer-rag-con-pdfs-que-tienen-imagenes-tablas-y-ecuaciones-2f8) (2026-10-25)
-- [I Built a Voice Recorder Extension for Firefox That Keeps All Your Notes Offline](https://dev.to/weatherclockdash/i-built-a-voice-recorder-extension-for-firefox-that-keeps-all-your-notes-offline-2437) (2026-10-25)
-- [Mage-OS and BlockStrap: the same framework, a different release train](https://dev.to/andreagomez/mage-os-and-blockstrap-the-same-framework-a-different-release-train-4248) (2026-10-25)
-- [A copied button looks almost right? Check all four corners.](https://dev.to/_a2d6b6a6361aff5ae214a5/a-copied-button-looks-almost-right-check-all-four-corners-4l75) (2026-10-25)
+- [A Retry-Safe Handoff Contract for Long AI Chats](https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe) (2026-10-25)
+- [How to sell printables and digital downloads outside Etsy (what you keep on an $8 and $27 sale)](https://dev.to/revenue_operator/how-to-sell-printables-and-digital-downloads-outside-etsy-what-you-keep-on-an-8-and-27-sale-33kl) (2026-10-25)
+- [[Boost]](https://dev.to/restyvod/-fan) (2026-10-25)
+- [I built a free Merge PDF tool with no sign-up and no watermark](https://dev.to/muhammad_ali_c2845c28baad/i-built-a-free-merge-pdf-tool-with-no-sign-up-and-no-watermark-5fjf) (2026-10-25)
+- [You can't quiz someone into writing tests](https://dev.to/neolix/you-cant-quiz-someone-into-writing-tests-2nne) (2026-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust’s Compiler Is Getting Smarter. Async Is the Next Boss Fight. ](https://medium.com/@ashishjsharda/rusts-compiler-is-getting-smarter-async-is-the-next-boss-fight-bdc7e80098f4?source=rss------programming-5) (2026-10-25)
-- [Kimi K3.1 Pro’s Benchmarks Are Insane —  Moonshot AI Did It Again](https://medium.com/the-ai-brief/kimi-k3-1-pros-benchmarks-are-insane-moonshot-ai-did-it-again-d9335f95f343?source=rss------programming-5) (2026-10-25)
-- [Claude Called Me the Bottleneck So I Built an Autopilot For Him.](https://medium.com/@favorable_seashell_fly_869/claude-called-me-the-bottleneck-so-i-built-an-autopilot-for-him-e56fcdc218b5?source=rss------programming-5) (2026-10-25)
-- [A Fake reCAPTCHA Appeared on Our Admin Portal. Here’s What We Learned](https://medium.com/@alamdev/a-fake-recaptcha-appeared-on-our-admin-portal-heres-what-we-learned-b29ecfc63c50?source=rss------programming-5) (2026-10-25)
-- [Building IAM with CloudFormation: From ROLLBACK to CREATE_COMPLETE:](https://medium.com/@rwstokes3/building-iam-with-cloudformation-from-rollback-to-create-complete-5227eb9aca7f?source=rss------programming-5) (2026-10-25)
+- [My Best Senior Engineer Let AI Run His Team for 30 Days. On Day 29, Someone Finally Told the Truth](https://medium.com/engineering-playbook/my-best-senior-engineer-let-ai-run-his-team-for-30-days-on-day-29-someone-finally-told-the-truth-044fbf128ac4?source=rss------programming-5) (2026-10-25)
+- [My Best Senior Engineer Refused to Review AI-Generated Code. Three Weeks Later, We Learned Why](https://medium.com/engineering-playbook/my-best-senior-engineer-refused-to-review-ai-generated-code-three-weeks-later-we-learned-why-eeb8c5ad094d?source=rss------programming-5) (2026-10-25)
+- [My Senior Engineer Secretly Applied for a Junior Role. The Interview Exposed What Our Company Had](https://medium.com/engineering-playbook/my-senior-engineer-secretly-applied-for-a-junior-role-the-interview-exposed-what-our-company-had-66b43e943c2f?source=rss------programming-5) (2026-10-25)
+- [My Best Engineer Was Fired for Refusing a Promotion, Then Our CEO Discovered Why He Said No](https://medium.com/engineering-playbook/my-best-engineer-was-fired-for-refusing-a-promotion-then-our-ceo-discovered-why-he-said-no-0ba3d02c5172?source=rss------programming-5) (2026-10-25)
+- [Our CEO Replaced Three Senior Engineers With AI. The First Month Looked Like a Success. Then the Inv](https://medium.com/engineering-playbook/our-ceo-replaced-three-senior-engineers-with-ai-the-first-month-looked-like-a-success-then-the-inv-61003608f0d4?source=rss------programming-5) (2026-10-25)
 
 </details>
 
@@ -641,6 +641,17 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
+- [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) (2026-10-13)
+- [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/) (2026-10-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
