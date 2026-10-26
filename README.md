@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) (2026-10-26)
-- [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown) (2026-10-26)
-- [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category) (2026-10-26)
-- [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) (2026-10-26)
-- [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) (2026-10-25)
+- [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/) (2026-10-26)
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/) (2026-10-26)
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) (2026-10-26)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) (2026-10-26)
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) (2026-10-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The city that fought Flock](https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure) (2026-10-26)
 - [iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge) (2026-10-25)
 - [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review) (2026-10-25)
 - [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen) (2026-10-25)
 - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement) (2026-10-25)
-- [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on) (2026-10-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What's new in Firebase at I/O 2025: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/whats-new-in-firebase-at-io-2025-web-architecture-implementation-guide-41hi) (2026-10-26)
-- [Announcing Gemini 2.5 in Firebase Studio: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/announcing-gemini-25-in-firebase-studio-web-architecture-implementation-guide-27gi) (2026-10-26)
-- [Tired of the Apply-and-Repeat Cycle? Meet Lelouvre.](https://dev.to/zpdaowvfgrlc/tired-of-the-apply-and-repeat-cycle-meet-lelouvre-3ljh) (2026-10-26)
-- [App Hosting updates: rollbacks, SDK auto-configuration, and more in Firebase: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/app-hosting-updates-rollbacks-sdk-auto-configuration-and-more-in-firebase-web-architecture--4ij0) (2026-10-26)
-- [PHP 8.6 Release Date, New Features and Deprecations](https://dev.to/devtalk94/php-86-release-date-new-features-and-deprecations-38jn) (2026-10-26)
+- [When the Test Fails: Deconstructing AI-Generated Code via Failure Analysis](https://dev.to/tamizuddin/when-the-test-fails-deconstructing-ai-generated-code-via-failure-analysis-7fm) (2026-10-26)
+- [I was afraid to run queue jobs on a copy of production, so I built a Laravel package](https://dev.to/cbz1991/i-was-afraid-to-run-queue-jobs-on-a-copy-of-production-so-i-built-a-laravel-package-53ck) (2026-10-26)
+- [The 40-Line Budget Gate: What a Senior Asked Before We Spent a Single Free Token](https://dev.to/codehub_1304/the-40-line-budget-gate-what-a-senior-asked-before-we-spent-a-single-free-token-74d) (2026-10-26)
+- [How to Deliver Digital Downloads Automatically with No Backend](https://dev.to/mr_ho_5662e7842ba776/how-to-deliver-digital-downloads-automatically-with-no-backend-1j02) (2026-10-26)
+- [Python Poll Message Size: Publish Per Waiter Versus Whole Queue](https://dev.to/killianberg5391/python-poll-message-size-publish-per-waiter-versus-whole-queue-47hk) (2026-10-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Hybrid AI Architecture: Deterministic CPU Guardrails for LLMs](https://medium.com/@akthernaimudheen0/hybrid-ai-architecture-deterministic-cpu-guardrails-for-llms-e7ed1bd84eac?source=rss------programming-5) (2026-10-26)
-- [I Saved 10 ChatGPT Prompts That Made Me a Better Developer. I Wish I’d Found Them Sooner](https://ai.plainenglish.io/i-saved-10-chatgpt-prompts-that-made-me-a-better-developer-i-wish-id-found-them-sooner-04b0892bfb1c?source=rss------programming-5) (2026-10-26)
-- [Your Go service isn’t idempotent — just because you added an idempotency key](https://blog.stackademic.com/your-go-service-isnt-idempotent-just-because-you-added-an-idempotency-key-16aa1f73002a?source=rss------programming-5) (2026-10-26)
-- [JavaScript Composition vs. Inheritance: Build Flexible Systems Without Deep Class Hierarchies](https://javascript.plainenglish.io/javascript-composition-vs-inheritance-build-flexible-systems-without-deep-class-hierarchies-c4db874a5f3b?source=rss------programming-5) (2026-10-26)
-- [OpenAI Just Admitted Their Own Employees Use AI for 85% of Their Work.](https://sumanthpoola.medium.com/openai-just-admitted-their-own-employees-use-ai-for-85-of-their-work-c7a915998b05?source=rss------programming-5) (2026-10-26)
+- [My Best Senior Engineer Banned AI for One Day. By 4 PM, Two Developers Wanted to Quit.](https://medium.com/engineering-playbook/my-best-senior-engineer-banned-ai-for-one-day-by-4-pm-two-developers-wanted-to-quit-67f303b72146?source=rss------programming-5) (2026-10-26)
+- [Your Company Has 40 Microservices. Nobody Can Explain Who Owns a Failed Transaction](https://medium.com/engineering-playbook/your-company-has-40-microservices-nobody-can-explain-who-owns-a-failed-transaction-2120c29972b0?source=rss------programming-5) (2026-10-26)
+- [Rethinking Flutter State Management: Concurrency](https://medium.com/@guillermo.arispe/rethinking-flutter-state-management-concurrency-bef5609acaf3?source=rss------programming-5) (2026-10-26)
+- [The Staff Engineer Promotion Trap: Your Architecture Decisions Are Too Easy to Reverse](https://medium.com/engineering-playbook/the-staff-engineer-promotion-trap-your-architecture-decisions-are-too-easy-to-reverse-d944e2fa7ec4?source=rss------programming-5) (2026-10-26)
+- [HTML Attributes Every Frontend Developer Should Know Before Writing More JavaScript](https://pixicstudio.medium.com/html-attributes-every-frontend-developer-should-know-before-writing-more-javascript-101dba531ac0?source=rss------programming-5) (2026-10-26)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [AI on Your Terms: How We See AI in YouTrack](https://blog.jetbrains.com/youtrack/2026/10/ai-on-your-terms-how-we-see-ai-in-youtrack/) (2026-10-26)
 - [Busy Plugin Developers Newsletter – Q3 2026](https://blog.jetbrains.com/platform/2026/10/busy-plugin-developers-newsletter-q3-2026/) (2026-10-25)
 - [JetBrains GameDev Day 2026: Watch the Recordings](https://blog.jetbrains.com/dotnet/2026/10/23/jetbrains-gamedev-day-2026-watch-the-recordings/) (2026-10-23)
 - [Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization](https://blog.jetbrains.com/blog/2026/10/22/air-governance-manage-ai-agents-access-and-spend-throughout-your-organization/) (2026-10-22)
 - [JetBrains Plugin Developer Conf 2026: AI, New APIs, and More](https://blog.jetbrains.com/platform/2026/10/jetbrains-plugin-developer-conf-2026-ai-new-apis-and-more/) (2026-10-20)
-- [Small Talk with Ulises Olave, CTO and Co-Founder of Fitia](https://blog.jetbrains.com/startups/2026/10/small-talk-fitia/) (2026-10-20)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Faster pnpm installs](https://vercel.com/changelog/faster-pnpm-installs) (2026-10-26)
 - [Vercel CLI adds Spend Management](https://vercel.com/changelog/vercel-cli-adds-spend-management) (2026-10-23)
 - [Send feedback from the Vercel MCP](https://vercel.com/changelog/send-feedback-from-vercel-mcp) (2026-10-23)
 - [How Vercel Agent accesses production safely](https://vercel.com/blog/how-vercel-agent-accesses-production-safely) (2026-10-23)
 - [Deployments now show build cache size](https://vercel.com/changelog/deployments-now-show-build-cache-size) (2026-10-23)
-- [Vercel Connect adds managed Stripe API keys](https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys) (2026-10-23)
 
 </details>
 
@@ -465,6 +465,17 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [We closed 330 of your most-requested issues with Prisma ORM 8](https://www.prisma.io/blog/prisma-orm-8-closes-330-most-requested-issues) (2026-10-12)
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
 - [App hosting platforms with managed Postgres compared (2026): Node.js on Prisma Compute, Railway, Render, Fly.io, Vercel](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
+
+</details>
+
+<details>
+<summary>⚡ Hasura Blog</summary>
+
+- [Data access layer: Unlocking the full potential of financial data](https://hasura.io/blog/data-access-layer-unlocking-the-full-potential-of-financial-data/) (2025-03-24)
+- [Time-traveling through your data architecture: Using data agents to understand change](https://hasura.io/blog/time-traveling-through-your-data-architecture-using-data-agents-to-understand-change/) (2025-03-19)
+- [Data products, data contracts: A new model for data management in financial services](https://hasura.io/blog/data-products-data-contracts-a-new-model-for-data-management-in-financial-services/) (2025-03-18)
+- [How PromptQL achieves 100% accuracy for AI on enterprise data](https://hasura.io/blog/how-promptql-achieves-100-accuracy-for-ai-on-enterprise-data/) (2025-03-11)
+- [Hasura: Powerful access control on MongoDB data](https://hasura.io/blog/hasura-powerful-access-control-on-mongodb-data/) (2025-03-05)
 
 </details>
 
@@ -581,44 +592,22 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss](https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/) (2026-10-26)
 - [Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail](https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/) (2026-10-25)
 - [Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-10-25)
 - [How to Add Guardrails to a Local LLM Agent](https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/) (2026-10-24)
 - [Python 3.15 Has a New Profiler](https://towardsdatascience.com/python-315-has-a-new-profiler/) (2026-10-24)
-- [Don’t Let Messy Data Bend Your Curves](https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/) (2026-10-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GPT-6 Astra vs Gemini 4 Argon vs Claude Opus 5.5: Full Comparsion](https://www.analyticsvidhya.com/blog/2026/10/astra-vs-argon-vs-opus/) (2026-10-26)
 - [Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/) (2026-10-25)
 - [LLM Inference Explained: How Models Generate Responses Faster](https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/) (2026-10-23)
 - [Build AI Employees in Python That Work While You Sleep](https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/) (2026-10-22)
 - [10 Free Open Source Alternatives to Paid Software](https://www.analyticsvidhya.com/blog/2026/10/open-source-alternatives-paid-software/) (2026-10-21)
-- [A Practical Guide to Harness Engineering: Building the System Around the Model ](https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/) (2026-10-19)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [What Companies Actually Mean When They Say They Want “AI Experience”](https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience) (2026-10-23)
-- [5 Free AI Coding Agents You Should Try in 2026](https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026) (2026-10-23)
-- [How to Process Large JSON Files in Python With ijson](https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson) (2026-10-22)
-- [Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining](https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining) (2026-10-22)
-- [Named Entity Recognition Using Scikit-LLM](https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm) (2026-10-21)
-
-</details>
-
-<details>
-<summary>🎯 Machine Learning Mastery</summary>
-
-- [Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM](https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/) (2026-10-23)
-- [How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python](https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/) (2026-10-21)
-- [pgvector vs. Dedicated Vector Databases: A Production Benchmark](https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/) (2026-10-20)
-- [Descriptors and Controlled Attributes in Python](https://machinelearningmastery.com/descriptors-and-controlled-attributes/) (2026-10-19)
-- [Iterators and Generators for Memory-Efficient Processing](https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/) (2026-10-16)
 
 </details>
 
