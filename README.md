@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/) (2026-10-26)
+- [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/) (2026-10-25)
+- [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/) (2026-10-25)
 - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) (2026-10-25)
 - [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/) (2026-10-25)
-- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) (2026-10-25)
-- [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/) (2026-10-24)
-- [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/) (2026-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here) (2026-10-25)
-- [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/) (2026-10-25)
-- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) (2026-10-25)
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) (2026-10-25)
-- [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics) (2026-10-25)
+- [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) (2026-10-26)
+- [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown) (2026-10-26)
+- [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category) (2026-10-26)
+- [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) (2026-10-26)
+- [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) (2026-10-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge) (2026-10-25)
+- [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review) (2026-10-25)
 - [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen) (2026-10-25)
 - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement) (2026-10-25)
 - [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on) (2026-10-25)
-- [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv) (2026-10-25)
-- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) (2026-10-25)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Retry-Safe Handoff Contract for Long AI Chats](https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe) (2026-10-25)
-- [How to sell printables and digital downloads outside Etsy (what you keep on an $8 and $27 sale)](https://dev.to/revenue_operator/how-to-sell-printables-and-digital-downloads-outside-etsy-what-you-keep-on-an-8-and-27-sale-33kl) (2026-10-25)
-- [[Boost]](https://dev.to/restyvod/-fan) (2026-10-25)
-- [I built a free Merge PDF tool with no sign-up and no watermark](https://dev.to/muhammad_ali_c2845c28baad/i-built-a-free-merge-pdf-tool-with-no-sign-up-and-no-watermark-5fjf) (2026-10-25)
-- [You can't quiz someone into writing tests](https://dev.to/neolix/you-cant-quiz-someone-into-writing-tests-2nne) (2026-10-25)
+- [What's new in Firebase at I/O 2025: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/whats-new-in-firebase-at-io-2025-web-architecture-implementation-guide-41hi) (2026-10-26)
+- [Announcing Gemini 2.5 in Firebase Studio: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/announcing-gemini-25-in-firebase-studio-web-architecture-implementation-guide-27gi) (2026-10-26)
+- [Tired of the Apply-and-Repeat Cycle? Meet Lelouvre.](https://dev.to/zpdaowvfgrlc/tired-of-the-apply-and-repeat-cycle-meet-lelouvre-3ljh) (2026-10-26)
+- [App Hosting updates: rollbacks, SDK auto-configuration, and more in Firebase: Web Architecture & Implementation Guide](https://dev.to/codingcatdev/app-hosting-updates-rollbacks-sdk-auto-configuration-and-more-in-firebase-web-architecture--4ij0) (2026-10-26)
+- [PHP 8.6 Release Date, New Features and Deprecations](https://dev.to/devtalk94/php-86-release-date-new-features-and-deprecations-38jn) (2026-10-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Best Senior Engineer Let AI Run His Team for 30 Days. On Day 29, Someone Finally Told the Truth](https://medium.com/engineering-playbook/my-best-senior-engineer-let-ai-run-his-team-for-30-days-on-day-29-someone-finally-told-the-truth-044fbf128ac4?source=rss------programming-5) (2026-10-25)
-- [My Best Senior Engineer Refused to Review AI-Generated Code. Three Weeks Later, We Learned Why](https://medium.com/engineering-playbook/my-best-senior-engineer-refused-to-review-ai-generated-code-three-weeks-later-we-learned-why-eeb8c5ad094d?source=rss------programming-5) (2026-10-25)
-- [My Senior Engineer Secretly Applied for a Junior Role. The Interview Exposed What Our Company Had](https://medium.com/engineering-playbook/my-senior-engineer-secretly-applied-for-a-junior-role-the-interview-exposed-what-our-company-had-66b43e943c2f?source=rss------programming-5) (2026-10-25)
-- [My Best Engineer Was Fired for Refusing a Promotion, Then Our CEO Discovered Why He Said No](https://medium.com/engineering-playbook/my-best-engineer-was-fired-for-refusing-a-promotion-then-our-ceo-discovered-why-he-said-no-0ba3d02c5172?source=rss------programming-5) (2026-10-25)
-- [Our CEO Replaced Three Senior Engineers With AI. The First Month Looked Like a Success. Then the Inv](https://medium.com/engineering-playbook/our-ceo-replaced-three-senior-engineers-with-ai-the-first-month-looked-like-a-success-then-the-inv-61003608f0d4?source=rss------programming-5) (2026-10-25)
+- [Hybrid AI Architecture: Deterministic CPU Guardrails for LLMs](https://medium.com/@akthernaimudheen0/hybrid-ai-architecture-deterministic-cpu-guardrails-for-llms-e7ed1bd84eac?source=rss------programming-5) (2026-10-26)
+- [I Saved 10 ChatGPT Prompts That Made Me a Better Developer. I Wish I’d Found Them Sooner](https://ai.plainenglish.io/i-saved-10-chatgpt-prompts-that-made-me-a-better-developer-i-wish-id-found-them-sooner-04b0892bfb1c?source=rss------programming-5) (2026-10-26)
+- [Your Go service isn’t idempotent — just because you added an idempotency key](https://blog.stackademic.com/your-go-service-isnt-idempotent-just-because-you-added-an-idempotency-key-16aa1f73002a?source=rss------programming-5) (2026-10-26)
+- [JavaScript Composition vs. Inheritance: Build Flexible Systems Without Deep Class Hierarchies](https://javascript.plainenglish.io/javascript-composition-vs-inheritance-build-flexible-systems-without-deep-class-hierarchies-c4db874a5f3b?source=rss------programming-5) (2026-10-26)
+- [OpenAI Just Admitted Their Own Employees Use AI for 85% of Their Work.](https://sumanthpoola.medium.com/openai-just-admitted-their-own-employees-use-ai-for-85-of-their-work-c7a915998b05?source=rss------programming-5) (2026-10-26)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Busy Plugin Developers Newsletter – Q3 2026](https://blog.jetbrains.com/platform/2026/10/busy-plugin-developers-newsletter-q3-2026/) (2026-10-25)
 - [JetBrains GameDev Day 2026: Watch the Recordings](https://blog.jetbrains.com/dotnet/2026/10/23/jetbrains-gamedev-day-2026-watch-the-recordings/) (2026-10-23)
 - [Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization](https://blog.jetbrains.com/blog/2026/10/22/air-governance-manage-ai-agents-access-and-spend-throughout-your-organization/) (2026-10-22)
 - [JetBrains Plugin Developer Conf 2026: AI, New APIs, and More](https://blog.jetbrains.com/platform/2026/10/jetbrains-plugin-developer-conf-2026-ai-new-apis-and-more/) (2026-10-20)
 - [Small Talk with Ulises Olave, CTO and Co-Founder of Fitia](https://blog.jetbrains.com/startups/2026/10/small-talk-fitia/) (2026-10-20)
-- [Coding-Agent Benchmarks Should Match Their Users’ Task Flows](https://blog.jetbrains.com/research/2026/10/user-task-flow-paper/) (2026-10-20)
 
 </details>
 
@@ -465,17 +465,6 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [We closed 330 of your most-requested issues with Prisma ORM 8](https://www.prisma.io/blog/prisma-orm-8-closes-330-most-requested-issues) (2026-10-12)
 - [Prisma ORM Manifesto 2026: Open, Extensible, Collaborative](https://www.prisma.io/blog/prisma-orm-manifesto-2026) (2026-10-02)
 - [App hosting platforms with managed Postgres compared (2026): Node.js on Prisma Compute, Railway, Render, Fly.io, Vercel](https://www.prisma.io/blog/app-hosting-platforms-with-managed-postgres-2026) (2026-09-30)
-
-</details>
-
-<details>
-<summary>⚡ Hasura Blog</summary>
-
-- [Data access layer: Unlocking the full potential of financial data](https://hasura.io/blog/data-access-layer-unlocking-the-full-potential-of-financial-data/) (2025-03-24)
-- [Time-traveling through your data architecture: Using data agents to understand change](https://hasura.io/blog/time-traveling-through-your-data-architecture-using-data-agents-to-understand-change/) (2025-03-19)
-- [Data products, data contracts: A new model for data management in financial services](https://hasura.io/blog/data-products-data-contracts-a-new-model-for-data-management-in-financial-services/) (2025-03-18)
-- [How PromptQL achieves 100% accuracy for AI on enterprise data](https://hasura.io/blog/how-promptql-achieves-100-accuracy-for-ai-on-enterprise-data/) (2025-03-11)
-- [Hasura: Powerful access control on MongoDB data](https://hasura.io/blog/hasura-powerful-access-control-on-mongodb-data/) (2025-03-05)
 
 </details>
 
