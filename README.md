@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/) (2026-10-26)
+- [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) (2026-10-27)
+- [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) (2026-10-27)
+- [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/) (2026-10-26)
 - [Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/) (2026-10-26)
 - [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/) (2026-10-26)
-- [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/) (2026-10-26)
-- [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/) (2026-10-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (2026-10-26)
-- [CorridorKey 2.0](https://corridorkey.com/) (2026-10-26)
-- [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce) (2026-10-26)
-- [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/) (2026-10-26)
-- [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908) (2026-10-26)
+- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) (2026-10-27)
+- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) (2026-10-26)
+- [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it) (2026-10-26)
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) (2026-10-26)
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (2026-10-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) (2026-10-26)
 - [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale) (2026-10-26)
 - [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk) (2026-10-26)
 - [iPhone Duo now supports Apple Pencil with iOS 27.2](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil) (2026-10-26)
 - [The NBA’s response to gambling scandals is to add more gambling partnerships](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket) (2026-10-26)
-- [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal) (2026-10-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Microsoft offers to buy out a quarter of its workforce](https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/) (2026-10-26)
 - [Worms mate in man's eyes, get plucked out right before larvae burst out](https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/) (2026-10-26)
 - [Meet the real-life Scottish surgeon who inspired Sherlock Holmes](https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/) (2026-10-26)
 - [Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo](https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/) (2026-10-26)
 - [Apple reveals updated iPad mini with a bigger OLED screen for $700](https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/) (2026-10-26)
-- [ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/) (2026-10-26)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [👻 GhostShell: A Haunted AI Terminal Powered by Local AI](https://dev.to/meetpatil2026/ghostshell-a-haunted-ai-terminal-powered-by-local-ai-2oco) (2026-10-26)
-- [How We Let Silicon Valley Steal the Future (And How Developers Can Take It Back)](https://dev.to/anne_jacobs_ac166227aa92b/how-we-let-silicon-valley-steal-the-future-and-how-developers-can-take-it-back-2ie0) (2026-10-26)
-- [Automate Gmail Attachments: Organize Files in Google Drive and Notify Telegram](https://dev.to/andrew_lencmanis_12ca3b2b/automate-gmail-attachments-organize-files-in-google-drive-and-notify-telegram-m5o) (2026-10-26)
-- [I got tired of reading CSS bugs in a tiny overlay, so I made my debugger print a report](https://dev.to/antonioprosperi2svg/i-got-tired-of-reading-css-bugs-in-a-tiny-overlay-so-i-made-my-debugger-print-a-report-48n9) (2026-10-26)
-- [Serve a styled PDF invoice from FastAPI](https://dev.to/fullbleed/serve-a-styled-pdf-invoice-from-fastapi-4klh) (2026-10-26)
+- [Six Runways, One Footprint: Modeling Denver Airport from a Map Selection](https://dev.to/generatebuild/six-runways-one-footprint-modeling-denver-airport-from-a-map-selection-1ccl) (2026-10-27)
+- [RAG Chunking Strategies That Actually Move Quality](https://dev.to/veduis/rag-chunking-strategies-that-actually-move-quality-22j8) (2026-10-27)
+- [Three authorisation holes in one helpdesk stack: what CVE-2026-111937, CVE-2026-111938 and CVE-2026-111939 have in common](https://dev.to/sorrelthorncroft/three-authorisation-holes-in-one-helpdesk-stack-what-cve-2026-111937-cve-2026-111938-and-1djg) (2026-10-27)
+- [Ghost in a Machine](https://dev.to/iron_man_a45eb48b7f7b754e/ghost-in-a-machine-51hd) (2026-10-27)
+- [Building a Reliable Notification Service in .NET](https://dev.to/ravi-vishwakarma-hash/building-a-reliable-notification-service-in-net-205k) (2026-10-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GitLab CI Rules — Run the Right Tests](https://krishnachetan.medium.com/gitlab-ci-rules-run-the-right-tests-130f2ba1551f?source=rss------programming-5) (2026-10-26)
-- [Python Serial Communication — No Hanging Reads](https://krishnachetan.medium.com/python-serial-communication-no-hanging-reads-95205590330e?source=rss------programming-5) (2026-10-26)
-- [Azure Pipelines Tutorial — Run Tests and Publish Results](https://krishnachetan.medium.com/azure-pipelines-tutorial-run-tests-and-publish-results-5c9d68959e11?source=rss------programming-5) (2026-10-26)
-- [GitHub Actions Tutorial — Test and Save Reports](https://krishnachetan.medium.com/github-actions-tutorial-test-and-save-reports-2443b034d92d?source=rss------programming-5) (2026-10-26)
-- [CI/CD Secrets — Store, Use, and Rotate Them Safely](https://krishnachetan.medium.com/ci-cd-secrets-store-use-and-rotate-them-safely-acd0ce11fefb?source=rss------programming-5) (2026-10-26)
+- [Iterating on a Domain Checker: Adding Timestamps, Sources, and IANA Bootstrap](https://medium.com/@kagpuhui99/iterating-on-a-domain-checker-adding-timestamps-sources-and-iana-bootstrap-6518fa852e65?source=rss------programming-5) (2026-10-27)
+- [Shopify Checkout UI Extensions: What You Can and Cannot Change](https://martin128.medium.com/shopify-checkout-ui-extensions-what-you-can-and-cannot-change-9cae1ddd839d?source=rss------programming-5) (2026-10-27)
+- [I Built a Tiny Programming Language Because I Wanted to Know What a Compiler Actually Does.](https://medium.com/@rajkanjariya2020/i-built-a-tiny-programming-language-because-i-wanted-to-know-what-a-compiler-actually-does-fab86a14935a?source=rss------programming-5) (2026-10-27)
+- [AI Agent Workflow Versioning and Migration: Evolving Workflows Safely](https://medium.com/@scosmexs/ai-agent-workflow-versioning-and-migration-evolving-workflows-safely-fdd187ca70d1?source=rss------programming-5) (2026-10-27)
+- [The Best Chart for Comparing Presidents](https://medium.com/data-science-collective/the-best-chart-for-comparing-presidents-a469621155a5?source=rss------programming-5) (2026-10-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Pillow CVE-2026-112900: How to find and fix it with GitLab](https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/) (2026-10-26)
 - [PHP2Shell: GitLab helps find and remediate critical PHP flaws](https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/) (2026-10-22)
 - [GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (2026-10-21)
 - [Redesign how your team ships software with AI agents](https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/) (2026-10-20)
 - [Uncover the business logic vulnerabilities SAST scanners miss](https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/) (2026-10-20)
-- [AI Governance: One view of agent activity](https://about.gitlab.com/blog/ai-governance-dashboard/) (2026-10-20)
 
 </details>
 
@@ -518,7 +518,7 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 - [17 landing page examples to help you increase conversions](https://zapier.com/blog/landing-page-examples) (2026-10-26)
 - [Gemini Omni: What it is and how to use it](https://zapier.com/blog/gemini-omni) (2026-10-26)
 - [The 5 best Pomodoro timer apps in 2026](https://zapier.com/blog/best-pomodoro-apps) (2026-10-23)
-- [Google Forms vs. Jotform: Which should you use? [2026]](https://zapier.com/blog/google-forms-vs-jotform) (2026-10-23)
+- [The 7 best AI agents in 2026](https://zapier.com/blog/best-ai-agents) (2026-10-23)
 
 </details>
 
