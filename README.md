@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/) (2026-10-27)
-- [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/) (2026-10-27)
-- [Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/) (2026-10-27)
-- [Ford Fathom will be the cheapest American EV capable of powering a house](https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/) (2026-10-27)
-- [US government says hackers are now exploiting critical PHP web bugs](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/) (2026-10-27)
+- [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) (2026-10-27)
+- [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) (2026-10-27)
+- [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/) (2026-10-27)
+- [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/) (2026-10-27)
+- [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) (2026-10-27)
-- [A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There](https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/) (2026-10-27)
-- [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/) (2026-10-27)
-- [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/) (2026-10-27)
-- [We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/) (2026-10-27)
+- [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful) (2026-10-27)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (2026-10-27)
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) (2026-10-27)
+- [Hex Raises $100M](https://hex.tech/blog/hex-new-era/) (2026-10-27)
+- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics) (2026-10-27)
+- [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service) (2026-10-27)
+- [Trump is making it easier for fossil fuel companies to leak methane](https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump) (2026-10-27)
+- [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai) (2026-10-27)
 - [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter) (2026-10-27)
-- [Anthropic’s elaborate plan to keep Wall Street at bay](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety) (2026-10-27)
-- [Meta’s $25 billion legal loss just put blood in the water](https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement) (2026-10-27)
-- [Firefox’s Smart Window adds AI form filling and webpage monitoring](https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms) (2026-10-27)
-- [Major League Baseball is looking for a new kind of fan](https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers) (2026-10-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple iPhone Duo review: Two screens, two experiences, two thousand dollars](https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/) (2026-10-27)
-- [Some iPhone Duo screens are already failing, Apple says only a "small number" are affected](https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/) (2026-10-27)
-- [Sculpture recreates odd optical effects of famed Lycurgus Cup](https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/) (2026-10-27)
-- [US officials want Section 702 renewed before damaging court ruling goes public](https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/) (2026-10-27)
-- [Microsoft offers to buy out a quarter of its workforce](https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/) (2026-10-26)
+- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/) (2026-10-27)
+- [Google begins certifying Registered App Stores for Android, but not in the US](https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/) (2026-10-27)
+- [Vibe genes? Natural(ish) language comes to protein, genome design software](https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/) (2026-10-27)
+- [Warner Bros. drops final trailer for Dune: Part Three](https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/) (2026-10-27)
+- [Ford simplifies using your EV as a home battery with the $30K Fathom](https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/) (2026-10-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Matching millions of pixels to a few hundred real threads: the color science behind cross-stitch pattern makers](https://dev.to/mcinstinct/matching-millions-of-pixels-to-a-few-hundred-real-threads-the-color-science-behind-cross-stitch-h5a) (2026-10-27)
-- [How to make a pixel art fire animation for Godot 4 (free, in your browser)](https://dev.to/rivskiy_skulitom_af400ad1/how-to-make-a-pixel-art-fire-animation-for-godot-4-free-in-your-browser-4m86) (2026-10-27)
-- [Downloading an Alibaba supplier's whole catalog as JSON (and vetting suppliers with it)](https://dev.to/rel8ble/downloading-an-alibaba-suppliers-whole-catalog-as-json-and-vetting-suppliers-with-it-29gn) (2026-10-27)
-- [A generated MP4 is not a delivered result: checks from a pet memorial tool](https://dev.to/_ed179994b6c24a61b5e3db/a-generated-mp4-is-not-a-delivered-result-checks-from-a-pet-memorial-tool-4oc2) (2026-10-27)
-- [The Root Password Changed at 10:17 and Nobody Logged In — The VM Console Path Your Firewall Never Sees](https://dev.to/daanial/the-root-password-changed-at-1017-and-nobody-logged-in-the-vm-console-path-your-firewall-never-1mc8) (2026-10-27)
+- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5) (2026-10-27)
+- [A Stranger Writes Half of My AI Matcher's Prompt](https://dev.to/nabeelbaghoor/a-stranger-writes-half-of-my-ai-matchers-prompt-4k4e) (2026-10-27)
+- [Does OpenBookQA leak its answer? It's the longest option and the first — and neither shortcut generalizes](https://dev.to/munimv2/does-openbookqa-leak-its-answer-its-the-longest-option-and-the-first-and-neither-shortcut-9h4) (2026-10-27)
+- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9) (2026-10-27)
+- [Your database says "saved" before it touches the table. Here's why that's safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4) (2026-10-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your AI Wrote Valid SQL. The Answer Is Still Wrong.](https://medium.com/@everythingtechandAI/your-ai-wrote-valid-sql-the-answer-is-still-wrong-ec7973f27d45?source=rss------programming-5) (2026-10-27)
-- [PRANAV BAKARE | EXP](https://medium.com/@pranavsb699/pranav-bakare-exp-0587568968cb?source=rss------programming-5) (2026-10-27)
-- [Claude Code just got two game-changing new features](https://medium.com/coding-beauty/claude-code-mcp-tasks-elicitations-426934fd8ede?source=rss------programming-5) (2026-10-27)
-- [RAG That Says “I Don’t Know”: Build Grounded, Cited Answers in .NET](https://medium.com/@mariammaurice/rag-that-says-i-dont-know-build-grounded-cited-answers-in-net-03a7992134c8?source=rss------programming-5) (2026-10-27)
-- [Your LLM Tools Are an API: Contract-First Tool Calling in .NET 10 with AIFunctionFactory](https://medium.com/@michaelmaurice410/your-llm-tools-are-an-api-contract-first-tool-calling-in-net-10-with-aifunctionfactory-7692d3538ff2?source=rss------programming-5) (2026-10-27)
+- [DRY, KISS ve YAGNI: Temiz Kodun Üç Temel Kuralı](https://medium.com/@meryemmcftc/dry-kiss-ve-yagni-temiz-kodun-%C3%BC%C3%A7-temel-kural%C4%B1-14f2b9b27415?source=rss------programming-5) (2026-10-27)
+- [Our Staff Engineer Trusted PostgreSQL Failover. Then We Charged 214 Customers Twice](https://medium.com/engineering-playbook/our-staff-engineer-trusted-postgresql-failover-then-we-charged-214-customers-twice-96b33e861b02?source=rss------programming-5) (2026-10-27)
+- [Our Staff Engineer Rejected an AI-Generated Architecture. Production Proved Him Right](https://medium.com/engineering-playbook/our-staff-engineer-rejected-an-ai-generated-architecture-production-proved-him-right-603f1dc01d80?source=rss------programming-5) (2026-10-27)
+- [Everything You Need to Short Your First Stock [Code Included]](https://quant-galore.medium.com/everything-you-need-to-short-your-first-stock-code-included-57efabb35b32?source=rss------programming-5) (2026-10-27)
+- [My Blog Now Posts to LinkedIn Automatically — But Not Without Me — Rubén Rangel](https://medium.com/@rubenrang/my-blog-now-posts-to-linkedin-automatically-but-not-without-me-rub%C3%A9n-rangel-5550108226d9?source=rss------programming-5) (2026-10-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [ElevenLabs on AI Gateway](https://vercel.com/blog/elevenlabs-on-ai-gateway) (2026-10-27)
+- [AI traffic insights now available in Vercel Observability](https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability) (2026-10-27)
+- [Vercel Agent sessions now cost 67% less](https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less) (2026-10-27)
+- [HarnessAgent now supports image inputs for all harness adapters](https://vercel.com/changelog/harness-agent-image-inputs) (2026-10-27)
 - [Discover 1000+ services on Vercel Connect from the CLI](https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli) (2026-10-26)
-- [Run Scale AI’s AgentEnv evals on Vercel Sandbox](https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox) (2026-10-26)
-- [Create custom monitors in Vercel Observability](https://vercel.com/changelog/create-custom-monitors-in-vercel-observability) (2026-10-26)
-- [Vercel Agent can now validate alerts before paging](https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you) (2026-10-26)
-- [Vercel Sandbox commands now support stdin](https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin) (2026-10-26)
 
 </details>
 
@@ -514,10 +514,10 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>⚡ Zapier Blog</summary>
 
+- [Turn every order line item into a Zapier Tables record](https://zapier.com/blog/tables-build-actions) (2026-10-27)
+- [The 6 best AI image generators in 2026](https://zapier.com/blog/best-ai-image-generator) (2026-10-27)
 - [Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)](https://zapier.com/blog/ai-models-on-zapier) (2026-10-27)
-- [Gmail vs. Apple Mail: Which should you use? [2026]](https://zapier.com/blog/gmail-vs-apple-mail) (2026-10-27)
 - [SurveyMonkey vs. Google Forms: Which should you use? [2026]](https://zapier.com/blog/google-forms-vs-surveymonkey) (2026-10-27)
-- [What is Figma?](https://zapier.com/blog/what-is-figma) (2026-10-27)
 - [OpenAI models: Every model (including GPT-6.1) and what it's best for](https://zapier.com/blog/openai-models) (2026-10-27)
 
 </details>
