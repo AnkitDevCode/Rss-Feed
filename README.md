@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/) (2026-10-27)
+- [X is nudging users to promote their posts with a pointing hand, and people are confused](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/) (2026-10-27)
 - [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) (2026-10-27)
 - [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) (2026-10-27)
 - [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/) (2026-10-26)
-- [Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/) (2026-10-26)
-- [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/) (2026-10-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) (2026-10-27)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) (2026-10-26)
-- [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it) (2026-10-26)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) (2026-10-26)
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (2026-10-26)
+- [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/) (2026-10-27)
+- [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html) (2026-10-27)
+- [I will no longer upload to NEW](https://lists.debian.org/debian-devel/2026/10/msg00263.html) (2026-10-27)
+- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai) (2026-10-27)
+- [Writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html) (2026-10-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy) (2026-10-27)
+- [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections) (2026-10-27)
+- [Acer is bringing a Predator gaming handheld to the US for the first time](https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price) (2026-10-27)
 - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) (2026-10-26)
 - [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale) (2026-10-26)
-- [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk) (2026-10-26)
-- [iPhone Duo now supports Apple Pencil with iOS 27.2](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil) (2026-10-26)
-- [The NBA’s response to gambling scandals is to add more gambling partnerships](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket) (2026-10-26)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How solid-state transformers could help power the AI boom](https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/) (2026-10-27)
 - [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/) (2026-10-26)
 - [The Download: everyday AI harms and the race to nuclear spaceflight](https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/) (2026-10-26)
 - [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/) (2026-10-26)
 - [The Download: testing six tech promises and biotech’s blind spots](https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/) (2026-10-23)
-- [In the biotech world, you can’t see everything](https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/) (2026-10-23)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Elevators, toasters, and the birth of Java](https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/) (2026-10-27)
 - [Rumors of the SaaS demise are greatly exaggerated](https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/) (2026-10-23)
 - [The Regression Tests Nobody Writes: Capturing How Software Actually Behaves](https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/) (2026-10-22)
 - [Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)](https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/) (2026-10-21)
 - [Survey Says: You'll swap the model, but everything you build around it is staying put](https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/) (2026-10-21)
-- [Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/) (2026-10-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Six Runways, One Footprint: Modeling Denver Airport from a Map Selection](https://dev.to/generatebuild/six-runways-one-footprint-modeling-denver-airport-from-a-map-selection-1ccl) (2026-10-27)
-- [RAG Chunking Strategies That Actually Move Quality](https://dev.to/veduis/rag-chunking-strategies-that-actually-move-quality-22j8) (2026-10-27)
-- [Three authorisation holes in one helpdesk stack: what CVE-2026-111937, CVE-2026-111938 and CVE-2026-111939 have in common](https://dev.to/sorrelthorncroft/three-authorisation-holes-in-one-helpdesk-stack-what-cve-2026-111937-cve-2026-111938-and-1djg) (2026-10-27)
-- [Ghost in a Machine](https://dev.to/iron_man_a45eb48b7f7b754e/ghost-in-a-machine-51hd) (2026-10-27)
-- [Building a Reliable Notification Service in .NET](https://dev.to/ravi-vishwakarma-hash/building-a-reliable-notification-service-in-net-205k) (2026-10-27)
+- [The Dangerous Part of Agent Access Is What Happens After the Task](https://dev.to/axec/the-dangerous-part-of-agent-access-is-what-happens-after-the-task-1el1) (2026-10-27)
+- [An AI Agent Should Not Inherit Your Entire Permission Set](https://dev.to/axec/an-ai-agent-should-not-inherit-your-entire-permission-set-2idg) (2026-10-27)
+- [Keeping a home security camera helper out of your request logs](https://dev.to/janetmalone64/keeping-a-home-security-camera-helper-out-of-your-request-logs-1nj1) (2026-10-27)
+- [Email Automation Needs a Receipt, Not a Retry](https://dev.to/mrdapperx/email-automation-needs-a-receipt-not-a-retry-1abp) (2026-10-27)
+- [How to Get Google Keyword Search Volume & CPC Without Setting Up the Google Ads API](https://dev.to/dokelab/how-to-get-google-keyword-search-volume-cpc-without-setting-up-the-google-ads-api-3pp7) (2026-10-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Iterating on a Domain Checker: Adding Timestamps, Sources, and IANA Bootstrap](https://medium.com/@kagpuhui99/iterating-on-a-domain-checker-adding-timestamps-sources-and-iana-bootstrap-6518fa852e65?source=rss------programming-5) (2026-10-27)
-- [Shopify Checkout UI Extensions: What You Can and Cannot Change](https://martin128.medium.com/shopify-checkout-ui-extensions-what-you-can-and-cannot-change-9cae1ddd839d?source=rss------programming-5) (2026-10-27)
-- [I Built a Tiny Programming Language Because I Wanted to Know What a Compiler Actually Does.](https://medium.com/@rajkanjariya2020/i-built-a-tiny-programming-language-because-i-wanted-to-know-what-a-compiler-actually-does-fab86a14935a?source=rss------programming-5) (2026-10-27)
-- [AI Agent Workflow Versioning and Migration: Evolving Workflows Safely](https://medium.com/@scosmexs/ai-agent-workflow-versioning-and-migration-evolving-workflows-safely-fdd187ca70d1?source=rss------programming-5) (2026-10-27)
-- [The Best Chart for Comparing Presidents](https://medium.com/data-science-collective/the-best-chart-for-comparing-presidents-a469621155a5?source=rss------programming-5) (2026-10-27)
+- [The AI Was Supposed to Be in a Simulation. Then It Tried to Hack a Real Developer.](https://medium.com/@saisagarsylada/the-ai-was-supposed-to-be-in-a-simulation-then-it-tried-to-hack-a-real-developer-13b2a8612c73?source=rss------programming-5) (2026-10-27)
+- [Claude Code vs Codex: The Comparisons Disagree, So Count Your Re-Checks](https://medium.com/@rishilchallenge04/claude-code-vs-codex-the-comparisons-disagree-so-count-your-re-checks-4b4f7c83d925?source=rss------programming-5) (2026-10-27)
+- [Your Redis Lock Expired. Two Workers Just Updated the Same Data.](https://medium.com/@lotfi-habbiche/your-redis-lock-expired-two-workers-just-updated-the-same-data-ce36832d0835?source=rss------programming-5) (2026-10-27)
+- [The Future of Frontend: Less JavaScript, More Performance](https://medium.com/@csvaibhavpasrija/the-future-of-frontend-less-javascript-more-performance-77e6295ee61e?source=rss------programming-5) (2026-10-27)
+- [Engineering team specializing in authentication pipelines, compliance resilience, and secure…](https://medium.com/@melvinujhettingctd232/engineering-team-specializing-in-authentication-pipelines-compliance-resilience-and-secure-1e776fb689f2?source=rss------programming-5) (2026-10-27)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
-- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 
 </details>
 
@@ -146,17 +146,6 @@
 - [Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps](https://developer.apple.com/news/?id=vvzx6cul) (2026-10-16)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=17mwd36z) (2026-10-13)
 - [Hello Developer: October 2026](https://developer.apple.com/news/?id=gv788oj6) (2026-10-06)
-
-</details>
-
-<details>
-<summary>🤖 Android Developers Blog</summary>
-
-- [A more reliable way to add and edit contacts on Android ](https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android) (2026-10-21)
-- [Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization](https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time) (2026-10-19)
-- [Bringing our latest frontier model to Android Developers ](https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli) (2026-10-13)
-- [New ways to drive smarter discovery, deeper engagement, and business growth on Google Play](https://developer.android.com/blog/posts/google-play-discovery-engagement-growth) (2026-10-13)
-- [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm) (2026-10-12)
 
 </details>
 
@@ -317,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Terminal in JetBrains IDEs Now Runs on libghostty](https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/) (2026-10-27)
 - [AI on Your Terms: How We See AI in YouTrack](https://blog.jetbrains.com/youtrack/2026/10/ai-on-your-terms-how-we-see-ai-in-youtrack/) (2026-10-26)
 - [Busy Plugin Developers Newsletter – Q3 2026](https://blog.jetbrains.com/platform/2026/10/busy-plugin-developers-newsletter-q3-2026/) (2026-10-25)
 - [JetBrains GameDev Day 2026: Watch the Recordings](https://blog.jetbrains.com/dotnet/2026/10/23/jetbrains-gamedev-day-2026-watch-the-recordings/) (2026-10-23)
 - [Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization](https://blog.jetbrains.com/blog/2026/10/22/air-governance-manage-ai-agents-access-and-spend-throughout-your-organization/) (2026-10-22)
-- [JetBrains Plugin Developer Conf 2026: AI, New APIs, and More](https://blog.jetbrains.com/platform/2026/10/jetbrains-plugin-developer-conf-2026-ai-new-apis-and-more/) (2026-10-20)
 
 </details>
 
@@ -591,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Developers Felt 20% Faster With AI. They Were 19% Slower.](https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower/) (2026-10-27)
 - [What Makes AI-Written Stories Feel Off?](https://towardsdatascience.com/what-makes-ai-written-stories-feel-off/) (2026-10-26)
 - [Opening the Box: Can Machine Learning Resolve Schrödinger’s Cat?](https://towardsdatascience.com/opening-the-box-can-machine-learning-resolve-schrdingers-cat/) (2026-10-26)
 - [My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed](https://towardsdatascience.com/my-machine-learning-pipeline-cheated-and-cross-validation-never-noticed/) (2026-10-26)
 - [Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss](https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/) (2026-10-26)
-- [Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail](https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/) (2026-10-25)
 
 </details>
 
