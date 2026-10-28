@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) (2026-10-27)
-- [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) (2026-10-27)
-- [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/) (2026-10-27)
-- [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/) (2026-10-27)
-- [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/) (2026-10-27)
+- [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) (2026-10-28)
+- [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) (2026-10-27)
+- [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) (2026-10-27)
+- [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/) (2026-10-27)
+- [From 8VC to Benchmark, here’s what’s hiding in October SEC filings](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful) (2026-10-27)
+- [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) (2026-10-28)
+- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox) (2026-10-27)
+- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners) (2026-10-27)
+- [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa) (2026-10-27)
 - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (2026-10-27)
-- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) (2026-10-27)
-- [Hex Raises $100M](https://hex.tech/blog/hex-new-era/) (2026-10-27)
-- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Here’s why the iPhone Duo’s hinge could be cracking the screen](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge) (2026-10-27)
 - [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics) (2026-10-27)
 - [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service) (2026-10-27)
 - [Trump is making it easier for fossil fuel companies to leak methane](https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump) (2026-10-27)
 - [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai) (2026-10-27)
-- [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter) (2026-10-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/) (2026-10-27)
-- [Google begins certifying Registered App Stores for Android, but not in the US](https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/) (2026-10-27)
-- [Vibe genes? Natural(ish) language comes to protein, genome design software](https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/) (2026-10-27)
-- [Warner Bros. drops final trailer for Dune: Part Three](https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/) (2026-10-27)
-- [Ford simplifies using your EV as a home battery with the $30K Fathom](https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/) (2026-10-27)
+- [Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip](https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/) (2026-10-27)
+- [South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks](https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/) (2026-10-27)
+- [China's top-secret spaceplane can't hide in low-Earth orbit](https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/) (2026-10-27)
+- ["No human at the helm": Delaware plan would let AI agents run entire businesses](https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/) (2026-10-27)
+- [Anthropic IPO warns its AI could blackmail people, become sentient, end humanity](https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/) (2026-10-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5) (2026-10-27)
-- [A Stranger Writes Half of My AI Matcher's Prompt](https://dev.to/nabeelbaghoor/a-stranger-writes-half-of-my-ai-matchers-prompt-4k4e) (2026-10-27)
-- [Does OpenBookQA leak its answer? It's the longest option and the first — and neither shortcut generalizes](https://dev.to/munimv2/does-openbookqa-leak-its-answer-its-the-longest-option-and-the-first-and-neither-shortcut-9h4) (2026-10-27)
-- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9) (2026-10-27)
-- [Your database says "saved" before it touches the table. Here's why that's safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4) (2026-10-27)
+- [Fifty-One Thousand Media Request Queues, and Not One Application Signature](https://dev.to/ioneyrezende/fifty-one-thousand-media-request-queues-and-not-one-application-signature-33i3) (2026-10-28)
+- [Oracle Manipulation Risk Report: Crypto-com](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-crypto-com-1l83) (2026-10-28)
+- [Bring your own proxies: why ProxyLister doesn't sell you any](https://dev.to/spicanet/bring-your-own-proxies-why-proxylister-doesnt-sell-you-any-4a9e) (2026-10-28)
+- [Choosing a Transactional Email API for Welcome Messages (and One Integration Rule)](https://dev.to/yvessterling6854/choosing-a-transactional-email-api-for-welcome-messages-and-one-integration-rule-343p) (2026-10-28)
+- [🧭 Neovim Thinks in One Directory](https://dev.to/snskarora/neovim-thinks-in-one-directory-dfi) (2026-10-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DRY, KISS ve YAGNI: Temiz Kodun Üç Temel Kuralı](https://medium.com/@meryemmcftc/dry-kiss-ve-yagni-temiz-kodun-%C3%BC%C3%A7-temel-kural%C4%B1-14f2b9b27415?source=rss------programming-5) (2026-10-27)
-- [Our Staff Engineer Trusted PostgreSQL Failover. Then We Charged 214 Customers Twice](https://medium.com/engineering-playbook/our-staff-engineer-trusted-postgresql-failover-then-we-charged-214-customers-twice-96b33e861b02?source=rss------programming-5) (2026-10-27)
-- [Our Staff Engineer Rejected an AI-Generated Architecture. Production Proved Him Right](https://medium.com/engineering-playbook/our-staff-engineer-rejected-an-ai-generated-architecture-production-proved-him-right-603f1dc01d80?source=rss------programming-5) (2026-10-27)
-- [Everything You Need to Short Your First Stock [Code Included]](https://quant-galore.medium.com/everything-you-need-to-short-your-first-stock-code-included-57efabb35b32?source=rss------programming-5) (2026-10-27)
-- [My Blog Now Posts to LinkedIn Automatically — But Not Without Me — Rubén Rangel](https://medium.com/@rubenrang/my-blog-now-posts-to-linkedin-automatically-but-not-without-me-rub%C3%A9n-rangel-5550108226d9?source=rss------programming-5) (2026-10-27)
+- [I Read Clean Code: A Handbook of Agile Software Craftsmanship, 2nd Edition and It’s Awesome](https://medium.com/free-programming-books-and-courses/i-read-clean-code-a-handbook-of-agile-software-craftsmanship-2nd-edition-and-its-awesome-1fb2bbdb344e?source=rss------programming-5) (2026-10-28)
+- [Clean Code Is Not Enough: What Makes Code Production-Ready?](https://medium.com/@akij.mia/clean-code-is-not-enough-what-makes-code-production-ready-9043258ddda7?source=rss------programming-5) (2026-10-28)
+- [Bash Strict Mode: What set -euo pipefail Does and Does Not Catch](https://medium.com/@wsx5031060310guy/bash-strict-mode-what-set-euo-pipefail-does-and-does-not-catch-bc59646ac498?source=rss------programming-5) (2026-10-28)
+- [Bash の strict mode：set -euo pipefail が検出できること、できないこと](https://medium.com/@wsx5031060310guy/bash-%E3%81%AE-strict-mode-set-euo-pipefail-%E3%81%8C%E6%A4%9C%E5%87%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8-123b4cb032dd?source=rss------programming-5) (2026-10-28)
+- [Bash 嚴格模式：set -euo pipefail 能抓到什麼，又漏掉什麼](https://medium.com/@wsx5031060310guy/bash-%E5%9A%B4%E6%A0%BC%E6%A8%A1%E5%BC%8F-set-euo-pipefail-%E8%83%BD%E6%8A%93%E5%88%B0%E4%BB%80%E9%BA%BC-%E5%8F%88%E6%BC%8F%E6%8E%89%E4%BB%80%E9%BA%BC-699007ef7b93?source=rss------programming-5) (2026-10-28)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [ElevenLabs on AI Gateway](https://vercel.com/blog/elevenlabs-on-ai-gateway) (2026-10-27)
+- [Vercel Plugin now available in OpenCode](https://vercel.com/changelog/vercel-plugin-now-available-in-opencode) (2026-10-27)
+- [Deploy a container from a plain Dockerfile](https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile) (2026-10-27)
 - [AI traffic insights now available in Vercel Observability](https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability) (2026-10-27)
 - [Vercel Agent sessions now cost 67% less](https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less) (2026-10-27)
-- [HarnessAgent now supports image inputs for all harness adapters](https://vercel.com/changelog/harness-agent-image-inputs) (2026-10-27)
-- [Discover 1000+ services on Vercel Connect from the CLI](https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli) (2026-10-26)
 
 </details>
 
