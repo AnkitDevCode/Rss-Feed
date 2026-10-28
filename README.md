@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Jio shares surge 21% in market debut after blockbuster India IPO](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/) (2026-10-28)
 - [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) (2026-10-28)
 - [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) (2026-10-27)
 - [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) (2026-10-27)
 - [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/) (2026-10-27)
-- [From 8VC to Benchmark, here’s what’s hiding in October SEC filings](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) (2026-10-28)
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) (2026-10-28)
+- [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263) (2026-10-28)
+- [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/) (2026-10-28)
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code) (2026-10-28)
 - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox) (2026-10-27)
-- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners) (2026-10-27)
-- [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa) (2026-10-27)
-- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (2026-10-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Voters in Texas agree: They hate data centers](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas) (2026-10-28)
+- [Our first look at Amazon’s big new Echo Show 16](https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles) (2026-10-28)
+- [Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt](https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health) (2026-10-28)
+- [Meta quietly launched an &#8216;AI pet journal&#8217; app](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world) (2026-10-28)
 - [Here’s why the iPhone Duo’s hinge could be cracking the screen](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge) (2026-10-27)
-- [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics) (2026-10-27)
-- [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service) (2026-10-27)
-- [Trump is making it easier for fossil fuel companies to leak methane](https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump) (2026-10-27)
-- [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai) (2026-10-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [China’s snooping around Pacific undersea cables raises risks for Big Tech](https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/) (2026-10-28)
 - [Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip](https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/) (2026-10-27)
 - [South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks](https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/) (2026-10-27)
 - [China's top-secret spaceplane can't hide in low-Earth orbit](https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/) (2026-10-27)
 - ["No human at the helm": Delaware plan would let AI agents run entire businesses](https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/) (2026-10-27)
-- [Anthropic IPO warns its AI could blackmail people, become sentient, end humanity](https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/) (2026-10-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Fifty-One Thousand Media Request Queues, and Not One Application Signature](https://dev.to/ioneyrezende/fifty-one-thousand-media-request-queues-and-not-one-application-signature-33i3) (2026-10-28)
-- [Oracle Manipulation Risk Report: Crypto-com](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-crypto-com-1l83) (2026-10-28)
-- [Bring your own proxies: why ProxyLister doesn't sell you any](https://dev.to/spicanet/bring-your-own-proxies-why-proxylister-doesnt-sell-you-any-4a9e) (2026-10-28)
-- [Choosing a Transactional Email API for Welcome Messages (and One Integration Rule)](https://dev.to/yvessterling6854/choosing-a-transactional-email-api-for-welcome-messages-and-one-integration-rule-343p) (2026-10-28)
-- [🧭 Neovim Thinks in One Directory](https://dev.to/snskarora/neovim-thinks-in-one-directory-dfi) (2026-10-28)
+- [Apple Creator Studio Adding MCP Support and AI Assistants](https://dev.to/saeediphone/apple-creator-studio-adding-mcp-support-and-ai-assistants-obe) (2026-10-28)
+- [GhostShell: A Haunted Terminal Wrapper Powered by Gemma](https://dev.to/subhranshu_dash_b9fd16496/ghostshell-a-haunted-terminal-wrapper-powered-by-gemma-5h0e) (2026-10-28)
+- [How to Find the Agent Actions a Prompt Injection Can Control](https://dev.to/theaicommit/how-to-find-the-agent-actions-a-prompt-injection-can-control-2mbl) (2026-10-28)
+- [Your side project doesn't need a database server](https://dev.to/psrockstar098/your-side-project-doesnt-need-a-database-server-44c7) (2026-10-28)
+- [Your agent can't use a tool it never finds](https://dev.to/shaan_gs/your-agent-cant-use-a-tool-it-never-finds-n43) (2026-10-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Read Clean Code: A Handbook of Agile Software Craftsmanship, 2nd Edition and It’s Awesome](https://medium.com/free-programming-books-and-courses/i-read-clean-code-a-handbook-of-agile-software-craftsmanship-2nd-edition-and-its-awesome-1fb2bbdb344e?source=rss------programming-5) (2026-10-28)
-- [Clean Code Is Not Enough: What Makes Code Production-Ready?](https://medium.com/@akij.mia/clean-code-is-not-enough-what-makes-code-production-ready-9043258ddda7?source=rss------programming-5) (2026-10-28)
-- [Bash Strict Mode: What set -euo pipefail Does and Does Not Catch](https://medium.com/@wsx5031060310guy/bash-strict-mode-what-set-euo-pipefail-does-and-does-not-catch-bc59646ac498?source=rss------programming-5) (2026-10-28)
-- [Bash の strict mode：set -euo pipefail が検出できること、できないこと](https://medium.com/@wsx5031060310guy/bash-%E3%81%AE-strict-mode-set-euo-pipefail-%E3%81%8C%E6%A4%9C%E5%87%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8-123b4cb032dd?source=rss------programming-5) (2026-10-28)
-- [Bash 嚴格模式：set -euo pipefail 能抓到什麼，又漏掉什麼](https://medium.com/@wsx5031060310guy/bash-%E5%9A%B4%E6%A0%BC%E6%A8%A1%E5%BC%8F-set-euo-pipefail-%E8%83%BD%E6%8A%93%E5%88%B0%E4%BB%80%E9%BA%BC-%E5%8F%88%E6%BC%8F%E6%8E%89%E4%BB%80%E9%BA%BC-699007ef7b93?source=rss------programming-5) (2026-10-28)
+- [We Cut Our Reviewers Because Agents Passed Every Check. Then We Found Out Who Wrote the Checks](https://javascript.plainenglish.io/we-cut-our-reviewers-because-agents-passed-every-check-then-we-found-out-who-wrote-the-checks-a89b3d1befc5?source=rss------programming-5) (2026-10-28)
+- [One Is 13× Cheaper. It Also Guesses When It Doesn’t Know.](https://briefs.aiadvances.org/one-is-13-cheaper-it-also-guesses-when-it-doesnt-know-692119201483?source=rss------programming-5) (2026-10-28)
+- [Building Flutter Layouts That Adapt to the Window — and Respect the Hinge](https://medium.com/@pv.jassim/building-flutter-layouts-that-adapt-to-the-window-and-respect-the-hinge-6e6ca7452ef0?source=rss------programming-5) (2026-10-28)
+- [Wissen Technology React.js & JavaScript Interview Experience | Questions to Practise](https://medium.com/@preetjit82/wissen-technology-react-js-javascript-interview-experience-questions-to-practise-35a27d25e8dd?source=rss------programming-5) (2026-10-28)
+- [Agents Built It. Agents Tested It. Then Agents Wrote ‘return true.’ Who Is on Call?](https://medium.com/engineering-playbook/agents-built-it-agents-tested-it-then-agents-wrote-return-true-who-is-on-call-93c49a1522d0?source=rss------programming-5) (2026-10-28)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 - [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
+- [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/) (2026-10-14)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Getting Started with Air in JetBrains IDEs – Part 1](https://blog.jetbrains.com/ai/2026/10/getting-started-with-air-part1/) (2026-10-28)
 - [The Terminal in JetBrains IDEs Now Runs on libghostty](https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/) (2026-10-27)
 - [AI on Your Terms: How We See AI in YouTrack](https://blog.jetbrains.com/youtrack/2026/10/ai-on-your-terms-how-we-see-ai-in-youtrack/) (2026-10-26)
 - [Busy Plugin Developers Newsletter – Q3 2026](https://blog.jetbrains.com/platform/2026/10/busy-plugin-developers-newsletter-q3-2026/) (2026-10-25)
 - [JetBrains GameDev Day 2026: Watch the Recordings](https://blog.jetbrains.com/dotnet/2026/10/23/jetbrains-gamedev-day-2026-watch-the-recordings/) (2026-10-23)
-- [Air Governance: Manage AI Agents, Access, and Spend Throughout Your Organization](https://blog.jetbrains.com/blog/2026/10/22/air-governance-manage-ai-agents-access-and-spend-throughout-your-organization/) (2026-10-22)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [ElevenLabs on AI Gateway](https://vercel.com/blog/elevenlabs-on-ai-gateway) (2026-10-27)
+- [The fx adapter now runs the harness on the host](https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox) (2026-10-27)
 - [Vercel Plugin now available in OpenCode](https://vercel.com/changelog/vercel-plugin-now-available-in-opencode) (2026-10-27)
 - [Deploy a container from a plain Dockerfile](https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile) (2026-10-27)
 - [AI traffic insights now available in Vercel Observability](https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability) (2026-10-27)
-- [Vercel Agent sessions now cost 67% less](https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less) (2026-10-27)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your RAG Pipeline Is Missing a 1994 Algorithm](https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/) (2026-10-28)
 - [I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It](https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/) (2026-10-27)
 - [Who Watches the AI?](https://towardsdatascience.com/who-watches-the-ai/) (2026-10-27)
 - [In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter](https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/) (2026-10-27)
 - [Developers Felt 20% Faster With AI. They Were 19% Slower.](https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower/) (2026-10-27)
-- [What Makes AI-Written Stories Feel Off?](https://towardsdatascience.com/what-makes-ai-written-stories-feel-off/) (2026-10-26)
 
 </details>
 
@@ -613,22 +613,22 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally) (2026-10-28)
+- [Which Local LMs are Best For Which Tasks](https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks) (2026-10-28)
 - [Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares](https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares) (2026-10-27)
 - [The Roadmap to Becoming a Computer Vision Engineer in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026) (2026-10-26)
 - [Building Your First AI Agent in Python with the OpenAI Agents SDK](https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk) (2026-10-26)
-- [7 Advanced Python Design Patterns for Data Scientists](https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists) (2026-10-26)
-- [What Companies Actually Mean When They Say They Want “AI Experience”](https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience) (2026-10-23)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head](https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/) (2026-10-28)
 - [Context Managers Beyond Opening Files in Python](https://machinelearningmastery.com/context-managers-beyond-opening-files/) (2026-10-27)
 - [Robust Serialization with JSON and Custom Types](https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/) (2026-10-26)
 - [Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM](https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/) (2026-10-23)
 - [How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python](https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/) (2026-10-21)
-- [pgvector vs. Dedicated Vector Databases: A Production Benchmark](https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/) (2026-10-20)
 
 </details>
 
