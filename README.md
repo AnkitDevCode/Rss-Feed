@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) (2026-10-29)
-- [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing) (2026-10-29)
-- [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/) (2026-10-29)
-- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) (2026-10-29)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) (2026-10-28)
+- [An Urgent Message on Artificial Intelligence from the Kogui People](https://sonidoselva.com/perspectiva-kogui) (2026-10-29)
+- [Show HN: UK Farming Simulator](https://butterbean.farm/) (2026-10-29)
+- [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/) (2026-10-29)
+- [Zero click, silent, remote Android DoS](https://smsofdeath.com/) (2026-10-29)
+- [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DoorDash is acquiring Instacart for around $17 billion](https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement) (2026-10-29)
+- [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc) (2026-10-29)
 - [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american) (2026-10-29)
 - [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity) (2026-10-28)
 - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak) (2026-10-28)
-- [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key) (2026-10-28)
-- [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store) (2026-10-28)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) (2026-10-29)
+- [Our climate models have a big, dangerous blind spot](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/) (2026-10-29)
 - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/) (2026-10-28)
 - [The Download: dead startups fueling AI and interspecies communication](https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/) (2026-10-28)
 - [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/) (2026-10-28)
-- [The Download: Anthropic’s IPO, smarter power grids, and exercise pills](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/) (2026-10-27)
-- [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/) (2026-10-27)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Practical Order of Operations for Speeding Up WooCommerce in 2026](https://dev.to/wpforge_shopaiwp/a-practical-order-of-operations-for-speeding-up-woocommerce-in-2026-ckk) (2026-10-29)
-- [Java Erases Your Generics. TypeScript Erases Every Type. What Survives to Runtime](https://dev.to/gabrielanhaia/java-erases-your-generics-typescript-erases-every-type-what-survives-to-runtime-16mk) (2026-10-29)
-- [I built a Perler bead pattern generator that exports your work as a single HTML file](https://dev.to/pht1991/i-built-a-perler-bead-pattern-generator-that-exports-your-work-as-a-single-html-file-1nd4) (2026-10-29)
-- [Why You Should Use S3 Presigned URLs to Upload Big Static Files](https://dev.to/harundotdev/why-you-should-use-s3-presigned-urls-to-upload-big-static-files-3247) (2026-10-29)
-- [I Built a Multi-Agent AI Data Analyst Team to Beat a Single Prompt. It Failed (And Cost 3.5x More).](https://dev.to/dhruvi_rohilla_c07c9c0e43/i-built-a-multi-agent-ai-data-analyst-team-to-beat-a-single-prompt-it-failed-and-cost-35x-more-2nko) (2026-10-29)
+- [Why Bystander Awareness Deserves More Attention in POSH Training](https://dev.to/sneha_shukla_28/why-bystander-awareness-deserves-more-attention-in-posh-training-3l2l) (2026-10-29)
+- [How much does it cost to fix a Lovable app?](https://dev.to/badii_studio/how-much-does-it-cost-to-fix-a-lovable-app-37p7) (2026-10-29)
+- [Securing AI Coding Agents: Building Sandboxed, Policy-Driven Harnesses Against Prompt Injection, Log Poisoning, and Agent Drift](https://dev.to/tamizuddin/securing-ai-coding-agents-building-sandboxed-policy-driven-harnesses-against-prompt-injection-4e46) (2026-10-29)
+- [Your benchmark number is a negotiation, not a measurement](https://dev.to/felipe0liveira/your-benchmark-number-is-a-negotiation-not-a-measurement-317f) (2026-10-29)
+- [Can an AI phone agent book appointments into GoHighLevel?](https://dev.to/adelatya/can-an-ai-phone-agent-book-appointments-into-gohighlevel-5hk1) (2026-10-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Can Write the Code. But Can You Explain It Without AI?](https://medium.com/mr-plan-publication/ai-can-write-the-code-but-can-you-explain-it-without-ai-18d50a084b9f?source=rss------programming-5) (2026-10-29)
-- [C# 15 Finally Lets You Break Out of Two Loops: Every New Feature, Compiled on .NET 11](https://medium.com/@patelrajni31/c-15-finally-lets-you-break-out-of-two-loops-every-new-feature-compiled-on-net-11-e8620721b704?source=rss------programming-5) (2026-10-29)
-- [structuredClone Copies Your Data. It Doesn’t Untangle It.](https://javascript.plainenglish.io/structuredclone-copies-your-data-it-doesnt-untangle-it-d3735eb28028?source=rss------programming-5) (2026-10-29)
-- [Railway’s Attacker Had Decrypted Env Vars. Customers Got the Email Hours Later.](https://bitsofanant.medium.com/railways-attacker-had-decrypted-env-vars-customers-got-the-email-hours-later-16ce84f17882?source=rss------programming-5) (2026-10-29)
-- [Explained Simply #11 APIs](https://medium.com/@thinktaught/explained-simply-11-apis-ecffc074c63f?source=rss------programming-5) (2026-10-29)
+- [Your Staff Engineer Interview Was Almost Over. Then PostgreSQL Stopped Accepting Connections](https://medium.com/@webdeveloper45/your-staff-engineer-interview-was-almost-over-then-postgresql-stopped-accepting-connections-f78989c7a734?source=rss------programming-5) (2026-10-29)
+- [Authentication and Compliance Hydration: An Architectural Review of High-Throughput Casino Nodes](https://medium.com/@neilrvwindlerlyx972/authentication-and-compliance-hydration-an-architectural-review-of-high-throughput-casino-nodes-cd5b76f6167b?source=rss------programming-5) (2026-10-29)
+- [Comprehensive Guide to React JS Career Advancement](https://medium.com/@credo.vignesh/comprehensive-guide-to-react-js-career-advancement-e3d128bb4771?source=rss------programming-5) (2026-10-29)
+- [MCP Servers Worth Connecting in Claude Code and Codex: I Kept 3 and Cut 4](https://medium.com/@akshaybuilds/mcp-servers-worth-connecting-in-claude-code-and-codex-i-kept-3-and-cut-4-c2c8042b3c6c?source=rss------programming-5) (2026-10-29)
+- [AI Game Mashups: Can AI Really Turn Two Games Into One?](https://medium.com/@techwithmatheus/ai-game-mashups-can-ai-really-turn-two-games-into-one-3c3262f4b072?source=rss------programming-5) (2026-10-29)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/) (2026-10-29)
 - [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/) (2026-10-27)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) (2026-10-14)
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) (2026-10-06)
 - [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/) (2026-10-05)
-- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) (2026-09-22)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Academy – October Digest](https://blog.jetbrains.com/education/2026/10/29/jetbrains-academy-october-2026/) (2026-10-29)
+- [Prompts That Can Write Themselves: A Kotlin Experiment](https://blog.jetbrains.com/research/2026/10/koog-agents-optimization-library-prompts/) (2026-10-29)
 - [Junie Local became 70% faster on Mac M5](https://blog.jetbrains.com/junie/2026/10/junie-local-splash-dflash2/) (2026-10-28)
 - [Junie Eco Mode](https://blog.jetbrains.com/junie/2026/10/junie-eco-mode/) (2026-10-28)
 - [Getting Started with Air in JetBrains IDEs – Part 1](https://blog.jetbrains.com/ai/2026/10/getting-started-with-air-part1/) (2026-10-28)
-- [The Terminal in JetBrains IDEs Now Runs on libghostty](https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/) (2026-10-27)
-- [AI on Your Terms: How We See AI in YouTrack](https://blog.jetbrains.com/youtrack/2026/10/ai-on-your-terms-how-we-see-ai-in-youtrack/) (2026-10-26)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Passkeys vs. passwords: What’s the difference?
+Brilliant Builds: Building for Loyalty
 ](
-https://www.twilio.com/en-us/blog/insights/best-practices/passkeys
-) (2026-10-23)
+https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1
+) (2026-10-29)
 - [
-Business authentication methods: How to choose the best solution
+Brilliant Builds: Building for Clarity
 ](
-https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods
-) (2026-10-22)
+https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2
+) (2026-10-29)
 - [
- What is CIAM in 2026 and why does it matter?
+Brilliant Builds: Building for Seamlessness
 ](
-https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
-) (2026-10-22)
+https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3
+) (2026-10-29)
 - [
-How to build an AI agent that checks order status and processes refunds
+Brilliant Builds: Building for Choice
 ](
-https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds
-) (2026-10-22)
+https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
+) (2026-10-29)
 - [
-5 ways to evaluate a customer engagement platform
+Give Legacy Linux Devices a Voice
 ](
-https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
-) (2026-10-21)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices
+) (2026-10-28)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot gets more proactive, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
-- [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 - [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
+- [How To Be Productive: 8 Productivity Tips To Get More Done](https://slack.com/blog/productivity/tips-how-to-be-more-productive) (2026-10-19)
+- [Every Shift, Every Site, Every Team: Introducing Slack Frontline](https://slack.com/blog/news/slack-frontline) (2026-10-19)
 
 </details>
 
@@ -580,44 +580,44 @@ https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel) (2026-10-29)
 - [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) (2026-10-28)
 - [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3) (2026-10-27)
 - [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench) (2026-10-27)
 - [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support) (2026-10-23)
-- [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) (2026-10-22)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Is Harness Engineering? A Hands-On Introduction](https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/) (2026-10-29)
 - [How to Make AI Work for End-to-End Business Processes](https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/) (2026-10-28)
 - [Where a Cell Sits Matters More Than How Many There Are](https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/) (2026-10-28)
 - [Building and Visualising Kolmogorov–Arnold Networks](https://towardsdatascience.com/building-and-visualising-kolmogorovarnold-networks/) (2026-10-28)
 - [Your RAG Pipeline Is Missing a 1994 Algorithm](https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/) (2026-10-28)
-- [An AI Agent Can Spot a Mistake and Still Not Fix It](https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/) (2026-10-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [FDE vs AI Engineer: Roles, Skills, and Career Paths Explained](https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/) (2026-10-29)
 - [GPT-6.1 Terra: An Economical Model with Flagship Performance](https://www.analyticsvidhya.com/blog/2026/10/gpt-6-1-terra-review/) (2026-10-27)
 - [GPT-6 Astra vs Gemini 4 Argon vs Claude Opus 5.5: Full Comparsion](https://www.analyticsvidhya.com/blog/2026/10/astra-vs-argon-vs-opus/) (2026-10-26)
 - [Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/) (2026-10-25)
 - [LLM Inference Explained: How Models Generate Responses Faster](https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/) (2026-10-23)
-- [Build AI Employees in Python That Work While You Sleep](https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/) (2026-10-22)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Docker Containers You Need for a Home AI Lab](https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab) (2026-10-29)
 - [Access Multiple AI Models in Your Python Apps Using OpenRouter](https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter) (2026-10-28)
 - [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally) (2026-10-28)
 - [Which Local LMs are Best For Which Tasks](https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks) (2026-10-28)
 - [Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares](https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares) (2026-10-27)
-- [The Roadmap to Becoming a Computer Vision Engineer in 2026](https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026) (2026-10-26)
 
 </details>
 
