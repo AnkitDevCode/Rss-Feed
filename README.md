@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/) (2026-10-28)
+- [Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/) (2026-10-28)
 - [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) (2026-10-28)
 - [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) (2026-10-28)
 - [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/) (2026-10-28)
-- [Microsoft hits 10 quarters of record- breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/) (2026-10-28)
-- [Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/) (2026-10-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) (2026-10-28)
-- [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) (2026-10-28)
-- [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers) (2026-10-28)
-- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) (2026-10-28)
-- [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/) (2026-10-28)
+- [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) (2026-10-29)
+- [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing) (2026-10-29)
+- [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/) (2026-10-29)
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) (2026-10-29)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) (2026-10-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american) (2026-10-29)
+- [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity) (2026-10-28)
 - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak) (2026-10-28)
 - [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key) (2026-10-28)
 - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store) (2026-10-28)
-- [Google says its investments in AI are driving more searches](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026) (2026-10-28)
-- [Microsoft reveals strong cloud growth amid financial reporting overhaul](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027) (2026-10-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ULA's Vulcan rocket is set to return to flight on Friday the 13th](https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/) (2026-10-28)
+- [As US ties fray, Europe plans first undersea cable link to Greenland](https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/) (2026-10-28)
+- [Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA](https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/) (2026-10-28)
 - [Trump admin sues Utah to save Kalshi from the state's total ban on gambling](https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/) (2026-10-28)
 - [The last, best hope for space tourism just rolled onto a runway in Arizona](https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/) (2026-10-28)
-- [Touchscreen MacBook Pro hands-on: OLED looks great on a Mac](https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/) (2026-10-28)
-- [Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/) (2026-10-28)
-- [Amazon turns its most capable smart speaker into a smart camera, too](https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/) (2026-10-28)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Running SEO Checks in a CI Pipeline: What to Automate](https://dev.to/jaybarker/running-seo-checks-in-a-ci-pipeline-what-to-automate-4o45) (2026-10-28)
-- [VPS Hostinger na Black Friday: preço promo vs renovação em reais (28/10/2026)](https://dev.to/sinalaberto/vps-hostinger-na-black-friday-preco-promo-vs-renovacao-em-reais-28102026-460e) (2026-10-28)
-- [Airbyte title matches are candidates until the control plane is confirmed](https://dev.to/onaeiuspkz/airbyte-title-matches-are-candidates-until-the-control-plane-is-confirmed-513j) (2026-10-28)
-- [Best AI Code Review Tools by False Positive Rate (2026): What the Benchmarks Actually Show](https://dev.to/dev_barron/best-ai-code-review-tools-by-false-positive-rate-what-the-benchmarks-actually-show-2e8l) (2026-10-28)
-- [Enterprise Zero-Trust Network Architecture & WireGuard Mesh VPN Engineering](https://dev.to/hostingpodium/enterprise-zero-trust-network-architecture-wireguard-mesh-vpn-engineering-2a39) (2026-10-28)
+- [A Practical Order of Operations for Speeding Up WooCommerce in 2026](https://dev.to/wpforge_shopaiwp/a-practical-order-of-operations-for-speeding-up-woocommerce-in-2026-ckk) (2026-10-29)
+- [Java Erases Your Generics. TypeScript Erases Every Type. What Survives to Runtime](https://dev.to/gabrielanhaia/java-erases-your-generics-typescript-erases-every-type-what-survives-to-runtime-16mk) (2026-10-29)
+- [I built a Perler bead pattern generator that exports your work as a single HTML file](https://dev.to/pht1991/i-built-a-perler-bead-pattern-generator-that-exports-your-work-as-a-single-html-file-1nd4) (2026-10-29)
+- [Why You Should Use S3 Presigned URLs to Upload Big Static Files](https://dev.to/harundotdev/why-you-should-use-s3-presigned-urls-to-upload-big-static-files-3247) (2026-10-29)
+- [I Built a Multi-Agent AI Data Analyst Team to Beat a Single Prompt. It Failed (And Cost 3.5x More).](https://dev.to/dhruvi_rohilla_c07c9c0e43/i-built-a-multi-agent-ai-data-analyst-team-to-beat-a-single-prompt-it-failed-and-cost-35x-more-2nko) (2026-10-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Write Copilot Instructions From the Code You Already Have](https://medium.com/kairi-ai/write-copilot-instructions-from-the-code-you-already-have-78a1b5d21289?source=rss------programming-5) (2026-10-28)
-- [The Hidden Cost of Application Parameters](https://medium.com/@ojacs26/the-hidden-cost-of-application-parameters-6005424c47ae?source=rss------programming-5) (2026-10-28)
-- [How Keyset Pagination Fixes Slow Deep Pages in EF Core.](https://medium.com/codetodeploy/how-keyset-pagination-fixes-slow-deep-pages-in-ef-core-712c2af28541?source=rss------programming-5) (2026-10-28)
-- [Qdrant’s free tier can be your whole database, not just your vector index](https://medium.com/@amranwar/qdrants-free-tier-can-be-your-whole-database-not-just-your-vector-index-494b0bf80e24?source=rss------programming-5) (2026-10-28)
-- [The Most Dangerous Thing AI Took From Senior Engineers Was Their Sense of Superiority](https://javascript.plainenglish.io/the-most-dangerous-thing-ai-took-from-senior-engineers-was-their-sense-of-superiority-a674863f60bf?source=rss------programming-5) (2026-10-28)
+- [AI Can Write the Code. But Can You Explain It Without AI?](https://medium.com/mr-plan-publication/ai-can-write-the-code-but-can-you-explain-it-without-ai-18d50a084b9f?source=rss------programming-5) (2026-10-29)
+- [C# 15 Finally Lets You Break Out of Two Loops: Every New Feature, Compiled on .NET 11](https://medium.com/@patelrajni31/c-15-finally-lets-you-break-out-of-two-loops-every-new-feature-compiled-on-net-11-e8620721b704?source=rss------programming-5) (2026-10-29)
+- [structuredClone Copies Your Data. It Doesn’t Untangle It.](https://javascript.plainenglish.io/structuredclone-copies-your-data-it-doesnt-untangle-it-d3735eb28028?source=rss------programming-5) (2026-10-29)
+- [Railway’s Attacker Had Decrypted Env Vars. Customers Got the Email Hours Later.](https://bitsofanant.medium.com/railways-attacker-had-decrypted-env-vars-customers-got-the-email-hours-later-16ce84f17882?source=rss------programming-5) (2026-10-29)
+- [Explained Simply #11 APIs](https://medium.com/@thinktaught/explained-simply-11-apis-ecffc074c63f?source=rss------programming-5) (2026-10-29)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [What happens when vulnerabilities are discovered faster than you can fix them?](https://about.gitlab.com/blog/security-at-machine-speed/) (2026-10-28)
 - [Extend GitLab Duo Agent Platform into your business systems](https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/) (2026-10-27)
 - [Pillow CVE-2026-112900: How to find and fix it with GitLab](https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/) (2026-10-26)
 - [PHP2Shell: GitLab helps find and remediate critical PHP flaws](https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/) (2026-10-22)
 - [GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (2026-10-21)
-- [Redesign how your team ships software with AI agents](https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/) (2026-10-20)
 
 </details>
 
@@ -364,8 +364,8 @@
 - [Vercel CI is now in beta](https://vercel.com/changelog/vercel-ci-is-now-in-beta) (2026-10-28)
 - [Box Mount now runs in Vercel Sandbox](https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox) (2026-10-28)
 - [Vercel Container Registry now supports 2 GB compressed image layers](https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new) (2026-10-28)
+- [Introducing Virtual Models on AI Gateway](https://vercel.com/blog/ai-gateway-virtual-models) (2026-10-28)
 - [Introducing Vercel CI](https://vercel.com/blog/introducing-vercel-ci) (2026-10-28)
-- [Run Paseo agents on Vercel Sandbox](https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox) (2026-10-28)
 
 </details>
 
@@ -384,16 +384,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-What good looks like: CX benchmarks from 5 enterprise deployments
-](
-https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments
-) (2026-10-27)
-- [
-9 top conversational AI platforms in 2026
-](
-https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms
-) (2026-10-26)
-- [
 Passkeys vs. passwords: What’s the difference?
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/passkeys
@@ -408,6 +398,16 @@ https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 ) (2026-10-22)
+- [
+How to build an AI agent that checks order status and processes refunds
+](
+https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds
+) (2026-10-22)
+- [
+5 ways to evaluate a customer engagement platform
+](
+https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform
+) (2026-10-21)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot gets more proactive, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
+- [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 - [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
-- [How To Be Productive: 8 Productivity Tips To Get More Done](https://slack.com/blog/productivity/tips-how-to-be-more-productive) (2026-10-19)
-- [Every Shift, Every Site, Every Team: Introducing Slack Frontline](https://slack.com/blog/news/slack-frontline) (2026-10-19)
 
 </details>
 
