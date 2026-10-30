@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/) (2026-10-30)
+- [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/) (2026-10-29)
+- [AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) (2026-10-29)
+- [Binance pauses withdrawals as hackers suspected of stealing billions in crypto](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/) (2026-10-29)
 - [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/) (2026-10-29)
-- [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/) (2026-10-29)
-- [GM reaches $220M settlement over selling drivers’ private data](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/) (2026-10-29)
-- [Fan-fiction site Archive of Our Own could be offline for up to 4 weeks](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/) (2026-10-29)
-- [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) (2026-10-29)
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) (2026-10-29)
-- [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/) (2026-10-29)
-- [ElementaryUI – Swift, in the Browser](https://elementary.codes) (2026-10-29)
-- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) (2026-10-29)
+- [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) (2026-10-30)
+- [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm) (2026-10-30)
+- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) (2026-10-30)
+- [Herdr has released native app](https://github.com/herdrdev/herdr-app) (2026-10-30)
+- [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/) (2026-10-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear) (2026-10-29)
+- [Intel says it&#8217;s selling every affordable laptop chip it can make](https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage) (2026-10-29)
 - [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic) (2026-10-29)
 - [Patrick Stewart has died at age 86](https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death) (2026-10-29)
 - [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings) (2026-10-29)
-- [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software) (2026-10-29)
-- [GM to pay $220 million to resolve claims it sold driving habits data](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit) (2026-10-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Windows 11 gets right-click menu improvements as PC revenue slides](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/) (2026-10-29)
+- [Reddit is moving to “a logged-in-only experience,” CEO says](https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/) (2026-10-29)
+- [Microsoft fixes a Windows 11 annoyance as PC revenue declines](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/) (2026-10-29)
 - [Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine](https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/) (2026-10-29)
 - [Trump declares robot imports a national security threat](https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/) (2026-10-29)
 - [Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says](https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/) (2026-10-29)
-- [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/) (2026-10-29)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Nagios Core CGI Exposure: Authentication Is Not Enough Without Command Authorization](https://dev.to/ioneyrezende/nagios-core-cgi-exposure-authentication-is-not-enough-without-command-authorization-1bgj) (2026-10-29)
-- [Canary Releases for an ML Model on KServe: Replayed Traffic, Sidecar Metrics and Automatic Rollback](https://dev.to/ezejioforog/canary-releases-for-an-ml-model-on-kserve-replayed-traffic-sidecar-metrics-and-automatic-rollback-2iia) (2026-10-29)
-- [How I Launched an Autonomous AI Agent on a Near-Zero Budget](https://dev.to/codexofweights/how-i-launched-an-autonomous-ai-agent-on-a-near-zero-budget-54kh) (2026-10-29)
-- [OpenAI Expands Frontier Model Monitoring After Live Internet Access Attempt](https://dev.to/alifar/openai-expands-frontier-model-monitoring-after-live-internet-access-attempt-12aj) (2026-10-29)
-- [Next.js App Router SEO checklist: metadata, sitemap.ts, robots.ts, JSON-LD](https://dev.to/enzora_official/nextjs-app-router-seo-checklist-metadata-sitemapts-robotsts-json-ld-2n72) (2026-10-29)
+- [Building a Zero-Server In-Browser Spreadsheet (XLSX/CSV) Editor with WebAssembly & Web Workers](https://dev.to/uchitchakma/building-a-zero-server-in-browser-spreadsheet-xlsxcsv-editor-with-webassembly-web-workers-1i56) (2026-10-30)
+- [Automating tax calculation from Amazon VAT reports: a system design for VAT service providers](https://dev.to/jobs_yang_9d4ae5132ae1507/automating-tax-calculation-from-amazon-vat-reports-a-system-design-for-vat-service-providers-2f65) (2026-10-30)
+- [Node.js Audio Transcriptions 503 — Portable Fallback Boundaries for Marketplace Moderation](https://dev.to/milohastings5316/nodejs-audio-transcriptions-503-portable-fallback-boundaries-for-marketplace-moderation-12ff) (2026-10-30)
+- [Designing Cursor Pagination: Why Offset Hits a Wall](https://dev.to/jeff_pdc/designing-cursor-pagination-why-offset-hits-a-wall-1e94) (2026-10-30)
+- [Node.js API Feature Flag Checks: 4 Signals for Enabled Tenant Cost Allocation](https://dev.to/hadleyfox8439/nodejs-api-feature-flag-checks-4-signals-for-enabled-tenant-cost-allocation-5cif) (2026-10-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://medium.com/@realmerlyn/https-dev-to-gde-giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740-c372730fc1e3?source=rss------programming-5) (2026-10-29)
-- [Git Happens: 15 Version-Control Jokes That Deserve Their Own Branch](https://medium.com/@zaydislam25/git-happens-15-version-control-jokes-that-deserve-their-own-branch-3e4de616921d?source=rss------programming-5) (2026-10-29)
-- [JWT Authentication in ASP.NET Core — The Right Way, Not the Tutorial Way](https://medium.com/@kaklotarrahul79/jwt-authentication-in-asp-net-core-the-right-way-not-the-tutorial-way-e0c0e7709d97?source=rss------programming-5) (2026-10-29)
-- [Arduino Smart Garage System – Automatic Garage Door](https://hsynaze.medium.com/arduino-smart-garage-system-automatic-garage-door-013996ddb03d?source=rss------programming-5) (2026-10-29)
-- [Your App Said “Accepted.” The Job Never Started.](https://medium.com/@everythingtechandAI/your-app-said-accepted-the-job-never-started-6f331f8fc26e?source=rss------programming-5) (2026-10-29)
+- [The Publish Button Was Enabled. Clicking It Did Nothing.](https://bobde-yagyesh.medium.com/the-publish-button-was-enabled-clicking-it-did-nothing-95c1a295df2a?source=rss------programming-5) (2026-10-30)
+- [I stopped writing for almost three years because I thought AI had killed it](https://medium.com/@ttebify/back-to-writing-as-an-engineer-35ca25641b9d?source=rss------programming-5) (2026-10-30)
+- [Stop Babysitting Your Terminal: How I Keep My Mac’s Shell in My Pocket With ShellX](https://medium.com/@phulealali/stop-babysitting-your-terminal-how-i-keep-my-macs-shell-in-my-pocket-with-shellx-4eafcd8ba129?source=rss------programming-5) (2026-10-30)
+- [The Sixth Sense: Is It Intuition, Coincidence, or Something Else?](https://medium.com/@ash74u/the-sixth-sense-is-it-intuition-coincidence-or-something-else-d6c933186f44?source=rss------programming-5) (2026-10-30)
+- [W3.CSS Flexbox: 5 Flexbox Tricks That Will Save You Hours](https://javascript.plainenglish.io/w3-css-flexbox-5-flexbox-tricks-that-will-save-you-hours-f92a27a098d4?source=rss------programming-5) (2026-10-30)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
 - [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 - [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
-- [Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/) (2026-10-15)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 27.0.0-alpha.0.0.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0) (2026-10-29)
 - [Node.js 24.22.2 (LTS)](https://nodejs.org/en/blog/release/v24.22.2) (2026-10-28)
 - [Node.js 26.13.0 (LTS)](https://nodejs.org/en/blog/release/v26.13.0) (2026-10-28)
 - [Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) (2026-10-21)
 - [Node.js 26.12.1 (Current)](https://nodejs.org/en/blog/release/v26.12.1) (2026-10-21)
-- [Node.js 24.22.1 (LTS)](https://nodejs.org/en/blog/release/v24.22.1) (2026-10-21)
 
 </details>
 
@@ -365,7 +365,7 @@
 - [IP geolocation now covers more visitors at higher resolution](https://vercel.com/changelog/improved-ip-geolocation-data) (2026-10-29)
 - [Vercel Flags starts 7x faster and no longer extends function duration](https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration) (2026-10-29)
 - [The fx adapter now runs the harness on the host](https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox) (2026-10-29)
-- [Vercel Connect adds webhook triggers for more providers](https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers) (2026-10-29)
+- [Node.js 26 LTS is now Generally Available on Vercel](https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel) (2026-10-29)
 
 </details>
 
@@ -404,9 +404,9 @@ Brilliant Builds: Building for Choice
 https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 ) (2026-10-29)
 - [
-How to build a proactive agent for AI outbound calling
+Give Legacy Linux Devices a Voice
 ](
-https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices
 ) (2026-10-28)
 
 </details>
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot gets more proactive, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
-- [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 - [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
+- [How To Be Productive: 8 Productivity Tips To Get More Done](https://slack.com/blog/productivity/tips-how-to-be-more-productive) (2026-10-19)
+- [Every Shift, Every Site, Every Team: Introducing Slack Frontline](https://slack.com/blog/news/slack-frontline) (2026-10-19)
 
 </details>
 
@@ -615,7 +615,7 @@ https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling
 
 - [The AI Skills That Actually Show Up in Job Postings Right Now](https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now) (2026-10-29)
 - [5 Docker Containers You Need for a Home AI Lab](https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab) (2026-10-29)
-- [Access Multiple AI Models in Your Python Apps Using OpenRouter](https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter) (2026-10-28)
+- [How to Access Multiple AI Models in Your Python Apps Using OpenRouter](https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter) (2026-10-28)
 - [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally) (2026-10-28)
 - [Which Local LMs are Best For Which Tasks](https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks) (2026-10-28)
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
