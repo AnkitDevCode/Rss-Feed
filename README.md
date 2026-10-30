@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo taps Toyota to supply robotaxis for Japan and the U.K.](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/) (2026-10-30)
 - [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/) (2026-10-30)
 - [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/) (2026-10-29)
-- [AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) (2026-10-29)
+- [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) (2026-10-29)
 - [Binance pauses withdrawals as hackers suspected of stealing billions in crypto](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/) (2026-10-29)
-- [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) (2026-10-30)
-- [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm) (2026-10-30)
-- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) (2026-10-30)
-- [Herdr has released native app](https://github.com/herdrdev/herdr-app) (2026-10-30)
-- [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/) (2026-10-30)
+- [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28) (2026-10-30)
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) (2026-10-30)
+- [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2) (2026-10-30)
+- [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/) (2026-10-30)
+- [elect.horse](https://elect.horse/) (2026-10-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Maine’s data center revolt will decide who controls the Senate](https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers) (2026-10-30)
+- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright) (2026-10-30)
 - [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear) (2026-10-29)
 - [Intel says it&#8217;s selling every affordable laptop chip it can make](https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage) (2026-10-29)
 - [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic) (2026-10-29)
-- [Patrick Stewart has died at age 86](https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death) (2026-10-29)
-- [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings) (2026-10-29)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Eating disorders are on the rise. GLP-1s could make things worse.](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/) (2026-10-30)
 - [The Download: AI agent tracking and climate feedback loops](https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/) (2026-10-29)
 - [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) (2026-10-29)
 - [Our climate models have a big, dangerous blind spot](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/) (2026-10-29)
 - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/) (2026-10-28)
-- [The Download: dead startups fueling AI and interspecies communication](https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/) (2026-10-28)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [It’s ok that computers are (sometimes) better than us](https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/) (2026-10-30)
 - [The reports of Stack Overflow's death are greatly exaggerated](https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/) (2026-10-29)
 - [A JSON schema Is not an AI governance layer](https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/) (2026-10-28)
 - [Delivering controlled and concentrated context](https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/) (2026-10-28)
 - [Elevators, toasters, and the birth of Java](https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/) (2026-10-27)
-- [Rumors of the SaaS demise are greatly exaggerated](https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/) (2026-10-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Zero-Server In-Browser Spreadsheet (XLSX/CSV) Editor with WebAssembly & Web Workers](https://dev.to/uchitchakma/building-a-zero-server-in-browser-spreadsheet-xlsxcsv-editor-with-webassembly-web-workers-1i56) (2026-10-30)
-- [Automating tax calculation from Amazon VAT reports: a system design for VAT service providers](https://dev.to/jobs_yang_9d4ae5132ae1507/automating-tax-calculation-from-amazon-vat-reports-a-system-design-for-vat-service-providers-2f65) (2026-10-30)
-- [Node.js Audio Transcriptions 503 — Portable Fallback Boundaries for Marketplace Moderation](https://dev.to/milohastings5316/nodejs-audio-transcriptions-503-portable-fallback-boundaries-for-marketplace-moderation-12ff) (2026-10-30)
-- [Designing Cursor Pagination: Why Offset Hits a Wall](https://dev.to/jeff_pdc/designing-cursor-pagination-why-offset-hits-a-wall-1e94) (2026-10-30)
-- [Node.js API Feature Flag Checks: 4 Signals for Enabled Tenant Cost Allocation](https://dev.to/hadleyfox8439/nodejs-api-feature-flag-checks-4-signals-for-enabled-tenant-cost-allocation-5cif) (2026-10-30)
+- [Invisible Coupling: When Your Microservices Become a Distributed Monolith](https://dev.to/aws-builders/invisible-coupling-when-your-microservices-become-a-distributed-monolith-803) (2026-10-30)
+- [I Described a Space Game in One Sentence. 54 Seconds Later I Was Playing It.](https://dev.to/gudmundur_kristjansson/i-described-a-space-game-in-one-sentence-54-seconds-later-i-was-playing-it-9ki) (2026-10-30)
+- [AccessFix AI: Exorcising the Invisible Ghosts Haunting the Web 👻](https://dev.to/kanwar_singh_21a0b0708edd/accessfix-ai-exorcising-the-invisible-ghosts-haunting-the-web-33bp) (2026-10-30)
+- [Zero telemetry by architecture: how I built 25+ dev tools that can't track you](https://dev.to/tulyro/zero-telemetry-by-architecture-how-i-built-25-dev-tools-that-cant-track-you-1k3o) (2026-10-30)
+- [Reading Outlook .msg files in the browser: the compound file, MAPI properties, and a body that only exists as RTF](https://dev.to/silkline/reading-outlook-msg-files-in-the-browser-the-compound-file-mapi-properties-and-a-body-that-only-33do) (2026-10-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Publish Button Was Enabled. Clicking It Did Nothing.](https://bobde-yagyesh.medium.com/the-publish-button-was-enabled-clicking-it-did-nothing-95c1a295df2a?source=rss------programming-5) (2026-10-30)
-- [I stopped writing for almost three years because I thought AI had killed it](https://medium.com/@ttebify/back-to-writing-as-an-engineer-35ca25641b9d?source=rss------programming-5) (2026-10-30)
-- [Stop Babysitting Your Terminal: How I Keep My Mac’s Shell in My Pocket With ShellX](https://medium.com/@phulealali/stop-babysitting-your-terminal-how-i-keep-my-macs-shell-in-my-pocket-with-shellx-4eafcd8ba129?source=rss------programming-5) (2026-10-30)
-- [The Sixth Sense: Is It Intuition, Coincidence, or Something Else?](https://medium.com/@ash74u/the-sixth-sense-is-it-intuition-coincidence-or-something-else-d6c933186f44?source=rss------programming-5) (2026-10-30)
-- [W3.CSS Flexbox: 5 Flexbox Tricks That Will Save You Hours](https://javascript.plainenglish.io/w3-css-flexbox-5-flexbox-tricks-that-will-save-you-hours-f92a27a098d4?source=rss------programming-5) (2026-10-30)
+- [Meme of the Week: Let Us Out of the Loop](https://medium.com/@owl_team/meme-of-the-week-let-us-out-of-the-loop-44cd9e405681?source=rss------programming-5) (2026-10-30)
+- [I Stopped Using AI to Write Code. Here’s How I Use It to Architect and Refactor React Apps.](https://medium.com/@ArunprakashS/i-stopped-using-ai-to-write-code-heres-how-i-use-it-to-architect-and-refactor-react-apps-877ca293ece1?source=rss------programming-5) (2026-10-30)
+- [You Bought Everyone a Claude Seat. So Who Is the Architect?](https://medium.com/@antorobin/you-bought-everyone-a-claude-seat-so-who-is-the-architect-50e19b7f2b87?source=rss------programming-5) (2026-10-30)
+- [I Let AI Write My Code. Here’s What I Still Review by Hand](https://medium.com/@gabemdev/i-let-ai-write-my-code-heres-what-i-still-review-by-hand-e8b092f5b81b?source=rss------programming-5) (2026-10-30)
+- [Will AI replace developers? Wrong question.](https://medium.com/@rivelbab/will-ai-replace-developers-wrong-question-dc0ca7a51bc4?source=rss------programming-5) (2026-10-30)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 - [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
 - [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 - [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
-- [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/) (2026-10-16)
 
 </details>
 
@@ -389,11 +389,6 @@ Brilliant Builds: Building for Loyalty
 https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1
 ) (2026-10-29)
 - [
-Brilliant Builds: Building for Clarity
-](
-https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2
-) (2026-10-29)
-- [
 Brilliant Builds: Building for Seamlessness
 ](
 https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3
@@ -404,10 +399,15 @@ Brilliant Builds: Building for Choice
 https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 ) (2026-10-29)
 - [
-Give Legacy Linux Devices a Voice
+Brilliant Builds: Building for Clarity
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices
-) (2026-10-28)
+https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
+) (2026-10-29)
+- [
+How to build multilingual AI agents for customer support
+](
+https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
+) (2026-10-29)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot gets more proactive, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
+- [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 - [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
-- [How To Be Productive: 8 Productivity Tips To Get More Done](https://slack.com/blog/productivity/tips-how-to-be-more-productive) (2026-10-19)
-- [Every Shift, Every Site, Every Team: Introducing Slack Frontline](https://slack.com/blog/news/slack-frontline) (2026-10-19)
 
 </details>
 
@@ -591,44 +591,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations](https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/) (2026-10-30)
 - [When Labels Say No, But Embeddings Say Yes](https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/) (2026-10-29)
 - [Difference-in-Differences vs Lagged-Outcome Regression](https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression/) (2026-10-29)
 - [Is the #1 AI Model Really #1?](https://towardsdatascience.com/is-the-1-ai-model-really-1/) (2026-10-29)
 - [What Is Harness Engineering? A Hands-On Introduction](https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/) (2026-10-29)
-- [How to Make AI Work for End-to-End Business Processes](https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/) (2026-10-28)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Harness²: Improving AI Agent Performance Without Model Upgrades](https://www.analyticsvidhya.com/blog/2026/10/harness2-improving-ai-agent-performance/) (2026-10-30)
 - [FDE vs AI Engineer: Roles, Skills, and Career Paths Explained](https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/) (2026-10-29)
 - [GPT-6.1 Terra: An Economical Model with Flagship Performance](https://www.analyticsvidhya.com/blog/2026/10/gpt-6-1-terra-review/) (2026-10-27)
 - [GPT-6 Astra vs Gemini 4 Argon vs Claude Opus 5.5: Full Comparsion](https://www.analyticsvidhya.com/blog/2026/10/astra-vs-argon-vs-opus/) (2026-10-26)
 - [Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/) (2026-10-25)
-- [LLM Inference Explained: How Models Generate Responses Faster](https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/) (2026-10-23)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [The AI Skills That Actually Show Up in Job Postings Right Now](https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now) (2026-10-29)
-- [5 Docker Containers You Need for a Home AI Lab](https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab) (2026-10-29)
-- [How to Access Multiple AI Models in Your Python Apps Using OpenRouter](https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter) (2026-10-28)
-- [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally) (2026-10-28)
-- [Which Local LMs are Best For Which Tasks](https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks) (2026-10-28)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)](https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/) (2026-10-30)
 - [Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head](https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/) (2026-10-28)
 - [Context Managers Beyond Opening Files in Python](https://machinelearningmastery.com/context-managers-beyond-opening-files/) (2026-10-27)
 - [Robust Serialization with JSON and Custom Types](https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/) (2026-10-26)
 - [Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM](https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/) (2026-10-23)
-- [How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python](https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/) (2026-10-21)
 
 </details>
 
