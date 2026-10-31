@@ -20,22 +20,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28) (2026-10-31)
-- [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/) (2026-10-31)
-- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/) (2026-10-31)
-- [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/) (2026-10-31)
-- [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) (2026-10-31)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (2026-10-31)
+- [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/) (2026-10-31)
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) (2026-10-31)
+- [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html) (2026-10-31)
+- [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/) (2026-10-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks) (2026-10-31)
+- [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto) (2026-10-31)
+- [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve) (2026-10-31)
+- [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) (2026-10-31)
 - [Windows 11 tries new shortcuts for Xbox gaming mode and search](https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings) (2026-10-31)
-- [Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders](https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale) (2026-10-31)
-- [Vic Mensa can’t live without the Voice Memos app](https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview) (2026-10-31)
-- [Touchscreens everywhere!](https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer) (2026-10-31)
-- [Here’s why you can&#8217;t shake those unhinged political texts](https://www.theverge.com/policy/1023899/political-texts-midterm-elections) (2026-10-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Deploy Laravel 13 to Production on Your Own Ubuntu Server](https://dev.to/shahid_karimi/how-to-deploy-laravel-13-to-production-on-your-own-ubuntu-server-l1o) (2026-10-31)
-- [How to Run Bolt.diy with Ollama on Windows: Step-by-Step Setup Guide (Tested on 8GB RAM)](https://dev.to/muthamizh_chelvan/how-to-run-boltdiy-with-ollama-on-windows-step-by-step-setup-guide-tested-on-8gb-ram-3e2c) (2026-10-31)
-- [Email API Response Timeouts: Troubleshooting Tips for Transactional Property Signup Messages](https://dev.to/leiferiksson8493/email-api-response-timeouts-troubleshooting-tips-for-transactional-property-signup-messages-3men) (2026-10-31)
-- [How to Implement WhatsApp Click-to-Chat QR Codes with SVG in Web Apps](https://dev.to/aisoule/how-to-implement-whatsapp-click-to-chat-qr-codes-with-svg-in-web-apps-537h) (2026-10-31)
-- [Personal Knowledge Retrieval in Node.js — Private Listings, Citations, Latency Budgets](https://dev.to/peregrineshaw9645/personal-knowledge-retrieval-in-nodejs-private-listings-citations-latency-budgets-1i4g) (2026-10-31)
+- [A face is an overcoding — Deleuze and Guattari on faciality, and a dashboard whose headline says GREEN](https://dev.to/ilya_mozerov_867dbdd91feb/a-face-is-an-overcoding-deleuze-and-guattari-on-faciality-and-a-dashboard-whose-headline-says-36p7) (2026-10-31)
+- [I built a website maker for birthday surprises, and the music part almost broke me](https://dev.to/rafahim/i-built-a-website-maker-for-birthday-surprises-and-the-music-part-almost-broke-me-17g0) (2026-10-31)
+- [How do raw scores become probabilities?](https://dev.to/logitsolutionsai/how-do-raw-scores-become-probabilities-2lm5) (2026-10-31)
+- [810 blocking calls at once: what the .NET thread pool did to the first burst](https://dev.to/leppsd/810-blocking-calls-at-once-what-the-net-thread-pool-did-to-the-first-burst-551o) (2026-10-31)
+- [Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1) (2026-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The App Hacker’s Playbook: How Reverse Engineering Actually Works](https://medium.com/@jankammerath/the-app-hackers-playbook-how-reverse-engineering-actually-works-18a33a9931be?source=rss------programming-5) (2026-10-31)
-- [Claude Code /rewind Not Working? 9 Causes and Fixes](https://medium.com/@solostackkits/claude-code-rewind-not-working-9-causes-and-fixes-b8363a164451?source=rss------programming-5) (2026-10-31)
-- [Seven Coding Habits That Make You a Better Engineer (No New Language Required)](https://medium.com/@tripathiashwin2004/seven-coding-habits-that-make-you-a-better-engineer-no-new-language-required-bfcc1a291c31?source=rss------programming-5) (2026-10-31)
-- [DeepSeek: Turn a UI Wish Into a Checkable Task](https://javascript.plainenglish.io/deepseek-turn-a-ui-wish-into-a-checkable-task-10ba1320303f?source=rss------programming-5) (2026-10-31)
-- [10 New MCP Projects You Probably Haven’t Heard About](https://python.plainenglish.io/10-new-mcp-projects-you-probably-havent-heard-about-7d44f24e2771?source=rss------programming-5) (2026-10-31)
+- [7 Python Automation Projects That Save Hours Every Week](https://medium.com/skillstuff/7-python-automation-projects-that-save-hours-every-week-57cfedc34555?source=rss------programming-5) (2026-10-31)
+- [JavaScript Getters and Setters: A Different Way to Work with Object Properties](https://abdullahoyediran.medium.com/javascript-getters-and-setters-a-different-way-to-work-with-object-properties-6554a5b340da?source=rss------programming-5) (2026-10-31)
+- [️ The Memory Leak That Wasn’t: Doctrine, Cycles and PHP’s Garbage Collector](https://medium.com/@laurentmn/%EF%B8%8F-the-memory-leak-that-wasnt-doctrine-cycles-and-php-s-garbage-collector-a158a573c084?source=rss------programming-5) (2026-10-31)
+- [How to Build an Agent Eval You Can Trust](https://medium.com/data-science-collective/how-to-build-an-agent-eval-you-can-trust-b306940b02f2?source=rss------programming-5) (2026-10-31)
+- [Outubro Negro: o mês que deu dor de cabeça para quem trabalha com tecnologia](https://medium.com/@cistrahennjoel/outubro-negro-o-m%C3%AAs-que-deu-dor-de-cabe%C3%A7a-para-quem-trabalha-com-tecnologia-032462800280?source=rss------programming-5) (2026-10-31)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build an AI Voice Assistant with Twilio Voice and Media Streams, Rime's Prism, and Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node
+) (2026-10-30)
+- [
 Brilliant Builds: Building for Loyalty
 ](
 https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 Brilliant Builds: Building for Clarity
 ](
 https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
-) (2026-10-29)
-- [
-How to build multilingual AI agents for customer support
-](
-https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 ) (2026-10-29)
 
 </details>
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
 - [Slackbot: Delegate more work, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
 - [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
-- [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
 
 </details>
 
