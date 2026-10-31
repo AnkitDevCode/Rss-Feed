@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/) (2026-10-31)
 - [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) (2026-10-31)
 - [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/) (2026-10-30)
 - [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/) (2026-10-30)
 - [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/) (2026-10-30)
-- [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) (2026-10-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) (2026-10-31)
-- [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e) (2026-10-31)
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) (2026-10-30)
-- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm) (2026-10-30)
-- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (2026-10-30)
+- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394) (2026-10-31)
+- [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) (2026-10-31)
+- [How long do you need to hold down the power button to turn off a PC?](https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/) (2026-10-31)
+- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/) (2026-10-31)
+- [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) (2026-10-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SQL EXISTS vs JOIN: Find Customers Who Have Placed an Order](https://dev.to/kailas_warade_d2a15d1ef8a/sql-exists-vs-join-find-customers-who-have-placed-an-order-149d) (2026-10-31)
-- [A Practical Control Model for AI Agents in a CMS](https://dev.to/morlixcms/a-practical-control-model-for-ai-agents-in-a-cms-46mg) (2026-10-31)
-- [Apache Superset public roles need a data-scope inventory](https://dev.to/jeffreyciend/apache-superset-public-roles-need-a-data-scope-inventory-6ha) (2026-10-31)
-- [Security Audit Report: Reentrancy & Access Control Review: Binance CEX](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-binance-cex-347p) (2026-10-31)
-- [How to Clean Up Ollama and LM Studio Models Taking Up Space on Linux in 2026](https://dev.to/alichherawalla/how-to-clean-up-ollama-and-lm-studio-models-taking-up-space-on-linux-in-2026-4fl6) (2026-10-31)
+- [Stripe failed payment emails: a dunning flow that recovers revenue (Node.js)](https://dev.to/nikpolale/stripe-failed-payment-emails-a-dunning-flow-that-recovers-revenue-nodejs-10m8) (2026-10-31)
+- [Building a BaZi Calculator That Shows Its Time Assumptions](https://dev.to/nihaolearn/building-a-bazi-calculator-that-shows-its-time-assumptions-b2b) (2026-10-31)
+- [Five things to know before you build on the USAJOBS Search API](https://dev.to/yourevenings/five-things-to-know-before-you-build-on-the-usajobs-search-api-30i4) (2026-10-31)
+- [Why a Website Is Not Indexed: A Practical Diagnostic Workflow](https://dev.to/morlixcms/why-a-website-is-not-indexed-a-practical-diagnostic-workflow-h55) (2026-10-31)
+- [I'm now taking on paid audits and custom tooling, starting with Claude Code / MCP security](https://dev.to/stackscribe/im-now-taking-on-paid-audits-and-custom-tooling-starting-with-claude-code-mcp-security-2geh) (2026-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Hardcoding One LLM API Key in Production Is a Ticking Time Bomb](https://alexapinotes.medium.com/why-hardcoding-one-llm-api-key-in-production-is-a-ticking-time-bomb-6f282c8d47b8?source=rss------programming-5) (2026-10-31)
-- [Why Python for AI?](https://medium.com/@meeturadi402/why-python-for-ai-3021103f08ac?source=rss------programming-5) (2026-10-31)
-- [Moving an AI Workstation From Windows to a Mac: What the Move Exposed](https://medium.com/@anuj.sadani/moving-an-ai-workstation-from-windows-to-a-mac-what-the-move-exposed-dcfbec05be4f?source=rss------programming-5) (2026-10-31)
-- [Just Now，VS Code’s Website Got a Silent Update](https://medium.com/@2084267015/just-now-vs-codes-website-got-a-silent-update-d085d7f92be7?source=rss------programming-5) (2026-10-31)
-- [Old Bank Accounts, Forgotten Checks & Refunds: Find Money That May Be Yours](https://medium.com/@ahmedkabir6611/old-bank-accounts-forgotten-checks-refunds-find-money-that-may-be-yours-e4af150ff9f1?source=rss------programming-5) (2026-10-31)
+- [Data Structures in Python: A Basic Introduction](https://medium.com/@mrunalm793/data-structures-in-python-a-basic-introduction-3e226db26da9?source=rss------programming-5) (2026-10-31)
+- [Python Found Five Priyas. I Only Wanted One.](https://medium.com/@salva.soumya2023/python-found-five-priyas-i-only-wanted-one-2da0225f3d72?source=rss------programming-5) (2026-10-31)
+- [Build a Small AI API in Python and Rust](https://medium.com/@thyzmile24/build-a-small-ai-api-in-python-and-rust-7baf2fb3a909?source=rss------programming-5) (2026-10-31)
+- [Is the $22,299 Mac Studio Worth It for Local AI, or Can You Save Money with a Mac Mini?](https://medium.com/@rothyyorn999/is-the-22-299-mac-studio-worth-it-for-local-ai-or-can-you-save-money-with-a-mac-mini-f819e6149b9b?source=rss------programming-5) (2026-10-31)
+- [Specs vs. Real Throughput: Why Your 24GB GPU Crashes at 32K Tokens](https://medium.com/@chhinsoportrakhou/specs-vs-real-throughput-why-your-24gb-gpu-crashes-at-32k-tokens-7d85ebee3123?source=rss------programming-5) (2026-10-31)
 
 </details>
 
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
 - [Slackbot: Delegate more work, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
 - [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 - [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
-- [How To Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2026-10-19)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
