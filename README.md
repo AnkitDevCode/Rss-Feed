@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) (2026-10-30)
-- [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/) (2026-10-30)
-- [Last-minute Halloween costumes for tech nerds](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/) (2026-10-30)
-- [Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/) (2026-10-30)
-- [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/) (2026-10-30)
+- [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) (2026-10-31)
+- [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/) (2026-10-30)
+- [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/) (2026-10-30)
+- [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/) (2026-10-30)
+- [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) (2026-10-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Shady Israeli Executive Running YouTube Music and the Hip Hop Industry](https://www.mintpressnews.com/lyor-cohen-the-shady-israeli-executive-running-youtube-music-the-global-hip-hop-industry/291276/) (2026-10-30)
-- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) (2026-10-30)
-- [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/) (2026-10-30)
-- [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py) (2026-10-30)
-- [An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing) (2026-10-30)
+- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) (2026-10-31)
+- [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e) (2026-10-31)
+- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) (2026-10-30)
+- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm) (2026-10-30)
+- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (2026-10-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3) (2026-10-30)
 - [Exclusive details about Akai’s MPC Sample Key](https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive) (2026-10-30)
 - [Sam Altman says it’s better for RAM to be in a data center than on your desk](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers) (2026-10-30)
 - [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) (2026-10-30)
 - [Google&#8217;s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission) (2026-10-30)
-- [Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru](https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru) (2026-10-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job](https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/) (2026-10-30)
-- [Over 25% of people lie to get antibiotics—and their lies aren't even good](https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/) (2026-10-30)
-- [Basically no one is using AI agents for their DoorDash orders](https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/) (2026-10-30)
-- [Rare meteorite from Mars gives us a view into its ancient crust](https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/) (2026-10-30)
-- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) (2026-10-30)
+- [Once again, NASA is asking for ideas to rescue Hubble from certain death](https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/) (2026-10-31)
+- [Flesh-eating screwworms spread to third state and are attacking pets](https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/) (2026-10-30)
+- [Oh captain, our captain: Ars staff remembers Patrick Stewart](https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/) (2026-10-30)
+- [Supersonic airliner in doubt as company shifts to powering AI data centers](https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/) (2026-10-30)
+- [Anthropic VS code extension on Cursor backdoored for nearly 12 hours](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/) (2026-10-30)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I made a Claude Code skill inspired by Jordan Peterson’s essay-writing guide](https://dev.to/guiguisada/i-made-a-claude-code-skill-inspired-by-jordan-petersons-essay-writing-guide-j1a) (2026-10-30)
-- [Who Do Your Deployment Engineers Work For?](https://dev.to/tridaai/who-do-your-deployment-engineers-work-for-2bhh) (2026-10-30)
-- [HauntScope: the alarm, the silence, and the ghost](https://dev.to/bgrubbs1/hauntscope-the-alarm-the-silence-and-the-ghost-22f5) (2026-10-30)
-- [Inserting Dates with the Shortcuts App on macOS (Bite-size Article)](https://dev.to/koshirok096/inserting-dates-with-the-shortcuts-app-on-macos-bite-size-article-13ge) (2026-10-30)
-- [AI Chat in JSLab: ask about your tab, review the fix as a diff](https://dev.to/jslab/ai-chat-in-jslab-ask-about-your-tab-review-the-fix-as-a-diff-lbf) (2026-10-30)
+- [SQL EXISTS vs JOIN: Find Customers Who Have Placed an Order](https://dev.to/kailas_warade_d2a15d1ef8a/sql-exists-vs-join-find-customers-who-have-placed-an-order-149d) (2026-10-31)
+- [A Practical Control Model for AI Agents in a CMS](https://dev.to/morlixcms/a-practical-control-model-for-ai-agents-in-a-cms-46mg) (2026-10-31)
+- [Apache Superset public roles need a data-scope inventory](https://dev.to/jeffreyciend/apache-superset-public-roles-need-a-data-scope-inventory-6ha) (2026-10-31)
+- [Security Audit Report: Reentrancy & Access Control Review: Binance CEX](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-binance-cex-347p) (2026-10-31)
+- [How to Clean Up Ollama and LM Studio Models Taking Up Space on Linux in 2026](https://dev.to/alichherawalla/how-to-clean-up-ollama-and-lm-studio-models-taking-up-space-on-linux-in-2026-4fl6) (2026-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Debugging Malformed JSON: RFC 8259 Traps and Silent Precision Loss](https://medium.com/@javid_tech/debugging-malformed-json-rfc-8259-traps-and-silent-precision-loss-5710bff6f734?source=rss------programming-5) (2026-10-30)
-- [A School Form Took Me 30 Minutes. “Just Use AI” Missed 4 in 10 Blanks.](https://pub.towardsai.net/a-school-form-took-me-30-minutes-just-use-ai-missed-4-in-10-blanks-ea51291cd614?source=rss------programming-5) (2026-10-30)
-- [I Don’t Trust an AI Fix Until I Can Make the Bug Come Back](https://medium.com/@emilyhustlenyc/i-dont-trust-an-ai-fix-until-i-can-make-the-bug-come-back-c589d7e5c608?source=rss------programming-5) (2026-10-30)
-- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://medium.com/@thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-56607368cbee?source=rss------programming-5) (2026-10-30)
-- [Your AI Can Read the Code. Can It Explain the Decision?](https://medium.com/@djfz/your-ai-can-read-the-code-can-it-explain-the-decision-95ef84fc75bd?source=rss------programming-5) (2026-10-30)
+- [Why Hardcoding One LLM API Key in Production Is a Ticking Time Bomb](https://alexapinotes.medium.com/why-hardcoding-one-llm-api-key-in-production-is-a-ticking-time-bomb-6f282c8d47b8?source=rss------programming-5) (2026-10-31)
+- [Why Python for AI?](https://medium.com/@meeturadi402/why-python-for-ai-3021103f08ac?source=rss------programming-5) (2026-10-31)
+- [Moving an AI Workstation From Windows to a Mac: What the Move Exposed](https://medium.com/@anuj.sadani/moving-an-ai-workstation-from-windows-to-a-mac-what-the-move-exposed-dcfbec05be4f?source=rss------programming-5) (2026-10-31)
+- [Just Now，VS Code’s Website Got a Silent Update](https://medium.com/@2084267015/just-now-vs-codes-website-got-a-silent-update-d085d7f92be7?source=rss------programming-5) (2026-10-31)
+- [Old Bank Accounts, Forgotten Checks & Refunds: Find Money That May Be Yours](https://medium.com/@ahmedkabir6611/old-bank-accounts-forgotten-checks-refunds-find-money-that-may-be-yours-e4af150ff9f1?source=rss------programming-5) (2026-10-31)
 
 </details>
 
@@ -438,10 +438,10 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 <summary>⚡ Supabase Blog</summary>
 
 - [Explorer and Notebooks: investigations your team can rerun](https://supabase.com/blog/explorer-and-notebooks-investigations-your-team-can-rerun) (2026-10-30)
+- [Introducing DBArena: open, reproducible benchmarks for hosted Postgres](https://supabase.com/blog/introducing-dbarena) (2026-10-30)
 - [Multigres private alpha: automatic failover for Supabase Postgres](https://supabase.com/blog/multigres-private-alpha) (2026-10-29)
 - [Automate your Supabase backend with Make](https://supabase.com/blog/automate-your-supabase-backend-with-make) (2026-10-28)
 - [OrioleDB public beta: a Postgres storage engine for update-heavy tables](https://supabase.com/blog/orioledb-public-beta) (2026-10-28)
-- [Supabase Compute: run your agents inside your project](https://supabase.com/blog/supabase-compute-private-alpha) (2026-10-27)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GELU Activation Function Explained: How It Works and Why Transformers Use It](https://www.analyticsvidhya.com/blog/2026/10/gelu-activation-function-explained/) (2026-10-31)
 - [Harness²: Improving AI Agent Performance Without Model Upgrades](https://www.analyticsvidhya.com/blog/2026/10/harness2-improving-ai-agent-performance/) (2026-10-30)
 - [FDE vs AI Engineer: Roles, Skills, and Career Paths Explained](https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/) (2026-10-29)
 - [GPT-6.1 Terra: An Economical Model with Flagship Performance](https://www.analyticsvidhya.com/blog/2026/10/gpt-6-1-terra-review/) (2026-10-27)
 - [GPT-6 Astra vs Gemini 4 Argon vs Claude Opus 5.5: Full Comparsion](https://www.analyticsvidhya.com/blog/2026/10/astra-vs-argon-vs-opus/) (2026-10-26)
-- [Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/) (2026-10-25)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
