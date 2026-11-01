@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) (2026-11-01)
-- [Hermantown approves controversial Google Data Center during late night meeting](https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting) (2026-11-01)
-- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292) (2026-11-01)
-- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) (2026-11-01)
-- [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/) (2026-10-31)
+- [noyb win: French electronics retailer Fnac Darty fined €7M](https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million) (2026-11-01)
+- [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) (2026-11-01)
+- [Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/) (2026-11-01)
+- [A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income) (2026-11-01)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) (2026-11-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [👻 FINDR AI: Unmasking the Ghost in GPS — Intelligent Anomaly Detection & Investigation](https://dev.to/sathvikachittuluri/findr-ai-unmasking-the-ghost-in-gps-intelligent-anomaly-detection-investigation-508c) (2026-11-01)
-- [Debugging Malformed Email JSON After Payment — Payload Contracts and Retention Trade-offs](https://dev.to/lorenzholm3752/debugging-malformed-email-json-after-payment-payload-contracts-and-retention-trade-offs-4ndh) (2026-11-01)
-- [How I Measure a Server: The Knee, Percentiles That Lie, and Little's Law](https://dev.to/faisal_misbah_595accf44c2/how-i-measure-a-server-the-knee-percentiles-that-lie-and-littles-law-14cn) (2026-11-01)
-- [1/11](https://dev.to/learner666/111-5786) (2026-11-01)
-- [How to Use All 13 Etsy Tag Slots: A Data-Driven Breakdown](https://dev.to/etsyrankhq/how-to-use-all-13-etsy-tag-slots-a-data-driven-breakdown-369o) (2026-11-01)
+- [I made my coding agent explain its own pull requests](https://dev.to/igorkasyanchuk/i-made-my-coding-agent-explain-its-own-pull-requests-j67) (2026-11-01)
+- [JavaScript (ES6+) for React Developers: The Definitive Guide](https://dev.to/hamedfarazi/javascript-es6-for-react-developers-the-definitive-guide-1598) (2026-11-01)
+- [Build Multi-Tenant RAG in Next.js Without Leaking Customer Data](https://dev.to/vladzoff/build-multi-tenant-rag-in-nextjs-without-leaking-customer-data-52j9) (2026-11-01)
+- [Halving the KV Cache Doubles Capacity and Buys 1% of Speed](https://dev.to/jaxsinclair/halving-the-kv-cache-doubles-capacity-and-buys-1-of-speed-4j31) (2026-11-01)
+- [Perguntas do Mercado Livre via API: notificações, fila e resposta com /answers (Node.js)](https://dev.to/appverix/perguntas-do-mercado-livre-via-api-notificacoes-fila-e-resposta-com-answers-nodejs-iel) (2026-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Agents Are Changing Web Development — What Should Beginner Developers Learn Now?](https://medium.com/@mdtharick25/ai-coding-agents-are-changing-web-development-what-should-beginner-developers-learn-now-9b9ccb32a99d?source=rss------programming-5) (2026-11-01)
-- [Your API Is Fast. So Why Does Your React App Feel Slow?](https://medium.com/@gulsaba.fiha/your-api-is-fast-so-why-does-your-react-app-feel-slow-6fa38089be29?source=rss------programming-5) (2026-11-01)
-- [We Increased Server Capacity by 4x. Our Response Times Got Worse.](https://medium.com/@shubhamnalawade037/we-increased-server-capacity-by-4x-our-response-times-got-worse-ce3409bf5951?source=rss------programming-5) (2026-11-01)
-- [10 Open-Source Projects Bringing AI Agents to Your Desktop](https://python.plainenglish.io/10-open-source-projects-bringing-ai-agents-to-your-desktop-1a8c1f74a4ac?source=rss------programming-5) (2026-11-01)
-- [2026 Mein Fast Website Kaise Banayein: 5 Simple Tips](https://medium.com/@shubtechsolutions/2026-mein-fast-website-kaise-banayein-5-simple-tips-4c223fdfcafc?source=rss------programming-5) (2026-11-01)
+- [LINQ Performance: 7 Mistakes .NET Developers Make in Production](https://malshikay.medium.com/linq-performance-7-mistakes-net-developers-make-in-production-8f62cc289a73?source=rss------programming-5) (2026-11-01)
+- [SDET Interview Preparation: 30+ Advanced Automation Testing Questions for 5–6 Years of Experience](https://medium.com/@preetjit82/sdet-interview-preparation-30-advanced-automation-testing-questions-for-5-6-years-of-experience-c8516dcf96bc?source=rss------programming-5) (2026-11-01)
+- [Deqode Java Developer Interview Experience: Core Java, Collections, Java 8, and Multithreading…](https://medium.com/@pardeepgill82/deqode-java-developer-interview-experience-core-java-collections-java-8-and-multithreading-bfbc139c02c5?source=rss------programming-5) (2026-11-01)
+- [Belajar pemrograman paling efektif kalau langsung praktik.](https://medium.com/@muhamadzahranaprianto/belajar-pemrograman-paling-efektif-kalau-langsung-praktik-4f78fbbac27b?source=rss------programming-5) (2026-11-01)
+- [The Modern AI Tooling Stack: 11 Categories, and the 10 Tools You Actually Need](https://medium.com/@shafe786/the-modern-ai-tooling-stack-11-categories-and-the-10-tools-you-actually-need-fa8d54474365?source=rss------programming-5) (2026-11-01)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Neural Network Learned to Read Digits From Pure Noise](https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/) (2026-11-01)
 - [How to Build Bug-Free Applications with Claude Code](https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/) (2026-10-31)
 - [We Taught AI to Answer Questions. Who Taught It to Change Its Mind?](https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/) (2026-10-31)
 - [I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.](https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/) (2026-10-31)
 - [Pick a Number Between 1 and 10](https://towardsdatascience.com/pick-a-number-between-1-and-10/) (2026-10-30)
-- [Binning or Feature Selection: Which One Won Us an Insurance Hackathon?](https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/) (2026-10-30)
 
 </details>
 
@@ -640,6 +640,17 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
+- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
+- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
+- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
