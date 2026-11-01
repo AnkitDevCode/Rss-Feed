@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/) (2026-11-01)
-- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) (2026-10-31)
-- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) (2026-10-31)
-- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) (2026-10-31)
-- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) (2026-10-31)
+- [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) (2026-11-01)
+- [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/) (2026-11-01)
+- [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/) (2026-11-01)
+- [Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/) (2026-11-01)
+- [Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/) (2026-11-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [noyb win: French electronics retailer Fnac Darty fined €7M](https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million) (2026-11-01)
-- [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) (2026-11-01)
-- [Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/) (2026-11-01)
-- [A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income) (2026-11-01)
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) (2026-11-01)
+- [John Leeson (the voice of K9) has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html) (2026-11-01)
+- [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/) (2026-11-01)
+- [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again) (2026-11-01)
+- [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) (2026-11-01)
+- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) (2026-11-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror) (2026-10-31)
-- [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks) (2026-10-31)
-- [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto) (2026-10-31)
-- [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve) (2026-10-31)
-- [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) (2026-10-31)
+- [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble) (2026-11-01)
+- [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts) (2026-11-01)
+- [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features) (2026-11-01)
+- [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak) (2026-11-01)
+- [North Korea linked to massive Binance crypto heist](https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist) (2026-11-01)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/) (2026-11-01)
 - [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/) (2026-10-28)
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) (2026-10-28)
 - [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/) (2026-10-22)
 - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/) (2026-10-21)
-- [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/) (2026-10-20)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I made my coding agent explain its own pull requests](https://dev.to/igorkasyanchuk/i-made-my-coding-agent-explain-its-own-pull-requests-j67) (2026-11-01)
-- [JavaScript (ES6+) for React Developers: The Definitive Guide](https://dev.to/hamedfarazi/javascript-es6-for-react-developers-the-definitive-guide-1598) (2026-11-01)
-- [Build Multi-Tenant RAG in Next.js Without Leaking Customer Data](https://dev.to/vladzoff/build-multi-tenant-rag-in-nextjs-without-leaking-customer-data-52j9) (2026-11-01)
-- [Halving the KV Cache Doubles Capacity and Buys 1% of Speed](https://dev.to/jaxsinclair/halving-the-kv-cache-doubles-capacity-and-buys-1-of-speed-4j31) (2026-11-01)
-- [Perguntas do Mercado Livre via API: notificações, fila e resposta com /answers (Node.js)](https://dev.to/appverix/perguntas-do-mercado-livre-via-api-notificacoes-fila-e-resposta-com-answers-nodejs-iel) (2026-11-01)
+- [Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj) (2026-11-01)
+- [Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI](https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03) (2026-11-01)
+- [angry-putty](https://dev.to/open-madscience/angry-putty-3lof) (2026-11-01)
+- [Architecting Background Geofencing Without Draining the Battery](https://dev.to/haseebthedev0/architecting-background-geofencing-without-draining-the-battery-3n1o) (2026-11-01)
+- [Local and Smart Bookkeeping that stays on your Mac](https://dev.to/jnk_mnz/local-and-smart-bookkeeping-that-stays-on-your-mac-5glp) (2026-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [LINQ Performance: 7 Mistakes .NET Developers Make in Production](https://malshikay.medium.com/linq-performance-7-mistakes-net-developers-make-in-production-8f62cc289a73?source=rss------programming-5) (2026-11-01)
-- [SDET Interview Preparation: 30+ Advanced Automation Testing Questions for 5–6 Years of Experience](https://medium.com/@preetjit82/sdet-interview-preparation-30-advanced-automation-testing-questions-for-5-6-years-of-experience-c8516dcf96bc?source=rss------programming-5) (2026-11-01)
-- [Deqode Java Developer Interview Experience: Core Java, Collections, Java 8, and Multithreading…](https://medium.com/@pardeepgill82/deqode-java-developer-interview-experience-core-java-collections-java-8-and-multithreading-bfbc139c02c5?source=rss------programming-5) (2026-11-01)
-- [Belajar pemrograman paling efektif kalau langsung praktik.](https://medium.com/@muhamadzahranaprianto/belajar-pemrograman-paling-efektif-kalau-langsung-praktik-4f78fbbac27b?source=rss------programming-5) (2026-11-01)
-- [The Modern AI Tooling Stack: 11 Categories, and the 10 Tools You Actually Need](https://medium.com/@shafe786/the-modern-ai-tooling-stack-11-categories-and-the-10-tools-you-actually-need-fa8d54474365?source=rss------programming-5) (2026-11-01)
+- [AI Engineer Roadmap 2026–27: The 6 Skills That Actually Matter (With Free Resources)](https://medium.com/@mukeshbhootra/ai-engineer-roadmap-2026-27-the-6-skills-that-actually-matter-with-free-resources-16aa93cb8d66?source=rss------programming-5) (2026-11-01)
+- [Our Principal Engineer Called the Code “Junior-Level Garbage.” Then We Revealed Who Wrote It](https://medium.com/@devcommando/our-principal-engineer-called-the-code-junior-level-garbage-then-we-revealed-who-wrote-it-6dfc8b01087b?source=rss------programming-5) (2026-11-01)
+- [I Told My Child Process to Change a Variable. It Said “Which One?”](https://medium.com/@yasashsanjeet.kumar2023/i-told-my-child-process-to-change-a-variable-it-said-which-one-e137a2c9332b?source=rss------programming-5) (2026-11-01)
+- [Why Vibe Coding Is Dying (And Spec-Driven Development Is Replacing It)](https://imrankhani.medium.com/why-vibe-coding-is-dying-and-spec-driven-development-is-replacing-it-6d134e291d48?source=rss------programming-5) (2026-11-01)
+- [In my second interview with Intuit, during a project refactoring, I discovered a SQL query that…](https://medium.com/@umeshcapg/in-my-second-interview-with-intuit-during-a-project-refactoring-i-discovered-a-sql-query-that-73d95a0c5c51?source=rss------programming-5) (2026-11-01)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns](https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/) (2026-11-01)
+- [Fix the Image, Not the Prompt](https://towardsdatascience.com/fix-the-image-not-the-prompt/) (2026-11-01)
 - [A Neural Network Learned to Read Digits From Pure Noise](https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/) (2026-11-01)
 - [How to Build Bug-Free Applications with Claude Code](https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/) (2026-10-31)
 - [We Taught AI to Answer Questions. Who Taught It to Change Its Mind?](https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/) (2026-10-31)
-- [I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.](https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/) (2026-10-31)
-- [Pick a Number Between 1 and 10](https://towardsdatascience.com/pick-a-number-between-1-and-10/) (2026-10-30)
 
 </details>
 
