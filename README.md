@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/) (2026-11-01)
+- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) (2026-10-31)
+- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) (2026-10-31)
+- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) (2026-10-31)
 - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) (2026-10-31)
-- [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/) (2026-10-31)
-- [I took two iPhones on vacation. The Duo won me over.](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/) (2026-10-31)
-- [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/) (2026-10-31)
-- [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) (2026-10-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (2026-10-31)
-- [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/) (2026-10-31)
-- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) (2026-10-31)
-- [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html) (2026-10-31)
-- [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/) (2026-10-31)
+- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) (2026-11-01)
+- [Hermantown approves controversial Google Data Center during late night meeting](https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting) (2026-11-01)
+- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292) (2026-11-01)
+- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) (2026-11-01)
+- [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/) (2026-10-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror) (2026-10-31)
 - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks) (2026-10-31)
 - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto) (2026-10-31)
 - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve) (2026-10-31)
 - [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) (2026-10-31)
-- [Windows 11 tries new shortcuts for Xbox gaming mode and search](https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings) (2026-10-31)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A face is an overcoding — Deleuze and Guattari on faciality, and a dashboard whose headline says GREEN](https://dev.to/ilya_mozerov_867dbdd91feb/a-face-is-an-overcoding-deleuze-and-guattari-on-faciality-and-a-dashboard-whose-headline-says-36p7) (2026-10-31)
-- [I built a website maker for birthday surprises, and the music part almost broke me](https://dev.to/rafahim/i-built-a-website-maker-for-birthday-surprises-and-the-music-part-almost-broke-me-17g0) (2026-10-31)
-- [How do raw scores become probabilities?](https://dev.to/logitsolutionsai/how-do-raw-scores-become-probabilities-2lm5) (2026-10-31)
-- [810 blocking calls at once: what the .NET thread pool did to the first burst](https://dev.to/leppsd/810-blocking-calls-at-once-what-the-net-thread-pool-did-to-the-first-burst-551o) (2026-10-31)
-- [Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1) (2026-10-31)
+- [👻 FINDR AI: Unmasking the Ghost in GPS — Intelligent Anomaly Detection & Investigation](https://dev.to/sathvikachittuluri/findr-ai-unmasking-the-ghost-in-gps-intelligent-anomaly-detection-investigation-508c) (2026-11-01)
+- [Debugging Malformed Email JSON After Payment — Payload Contracts and Retention Trade-offs](https://dev.to/lorenzholm3752/debugging-malformed-email-json-after-payment-payload-contracts-and-retention-trade-offs-4ndh) (2026-11-01)
+- [How I Measure a Server: The Knee, Percentiles That Lie, and Little's Law](https://dev.to/faisal_misbah_595accf44c2/how-i-measure-a-server-the-knee-percentiles-that-lie-and-littles-law-14cn) (2026-11-01)
+- [1/11](https://dev.to/learner666/111-5786) (2026-11-01)
+- [How to Use All 13 Etsy Tag Slots: A Data-Driven Breakdown](https://dev.to/etsyrankhq/how-to-use-all-13-etsy-tag-slots-a-data-driven-breakdown-369o) (2026-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python Automation Projects That Save Hours Every Week](https://medium.com/skillstuff/7-python-automation-projects-that-save-hours-every-week-57cfedc34555?source=rss------programming-5) (2026-10-31)
-- [JavaScript Getters and Setters: A Different Way to Work with Object Properties](https://abdullahoyediran.medium.com/javascript-getters-and-setters-a-different-way-to-work-with-object-properties-6554a5b340da?source=rss------programming-5) (2026-10-31)
-- [️ The Memory Leak That Wasn’t: Doctrine, Cycles and PHP’s Garbage Collector](https://medium.com/@laurentmn/%EF%B8%8F-the-memory-leak-that-wasnt-doctrine-cycles-and-php-s-garbage-collector-a158a573c084?source=rss------programming-5) (2026-10-31)
-- [How to Build an Agent Eval You Can Trust](https://medium.com/data-science-collective/how-to-build-an-agent-eval-you-can-trust-b306940b02f2?source=rss------programming-5) (2026-10-31)
-- [Outubro Negro: o mês que deu dor de cabeça para quem trabalha com tecnologia](https://medium.com/@cistrahennjoel/outubro-negro-o-m%C3%AAs-que-deu-dor-de-cabe%C3%A7a-para-quem-trabalha-com-tecnologia-032462800280?source=rss------programming-5) (2026-10-31)
+- [AI Coding Agents Are Changing Web Development — What Should Beginner Developers Learn Now?](https://medium.com/@mdtharick25/ai-coding-agents-are-changing-web-development-what-should-beginner-developers-learn-now-9b9ccb32a99d?source=rss------programming-5) (2026-11-01)
+- [Your API Is Fast. So Why Does Your React App Feel Slow?](https://medium.com/@gulsaba.fiha/your-api-is-fast-so-why-does-your-react-app-feel-slow-6fa38089be29?source=rss------programming-5) (2026-11-01)
+- [We Increased Server Capacity by 4x. Our Response Times Got Worse.](https://medium.com/@shubhamnalawade037/we-increased-server-capacity-by-4x-our-response-times-got-worse-ce3409bf5951?source=rss------programming-5) (2026-11-01)
+- [10 Open-Source Projects Bringing AI Agents to Your Desktop](https://python.plainenglish.io/10-open-source-projects-bringing-ai-agents-to-your-desktop-1a8c1f74a4ac?source=rss------programming-5) (2026-11-01)
+- [2026 Mein Fast Website Kaise Banayein: 5 Simple Tips](https://medium.com/@shubtechsolutions/2026-mein-fast-website-kaise-banayein-5-simple-tips-4c223fdfcafc?source=rss------programming-5) (2026-11-01)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
