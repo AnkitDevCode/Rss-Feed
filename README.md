@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/) (2026-11-01)
 - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) (2026-11-01)
 - [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/) (2026-11-01)
 - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/) (2026-11-01)
 - [Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/) (2026-11-01)
-- [Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/) (2026-11-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [John Leeson (the voice of K9) has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html) (2026-11-01)
-- [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/) (2026-11-01)
-- [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again) (2026-11-01)
-- [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) (2026-11-01)
-- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) (2026-11-01)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/) (2026-11-02)
+- [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture) (2026-11-02)
+- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026) (2026-11-02)
+- [OccupySaaS](https://occupysaas.com/) (2026-11-02)
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) (2026-11-01)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj) (2026-11-01)
-- [Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI](https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03) (2026-11-01)
-- [angry-putty](https://dev.to/open-madscience/angry-putty-3lof) (2026-11-01)
-- [Architecting Background Geofencing Without Draining the Battery](https://dev.to/haseebthedev0/architecting-background-geofencing-without-draining-the-battery-3n1o) (2026-11-01)
-- [Local and Smart Bookkeeping that stays on your Mac](https://dev.to/jnk_mnz/local-and-smart-bookkeeping-that-stays-on-your-mac-5glp) (2026-11-01)
+- [Future Thinking Means Designing for What Comes Next](https://dev.to/shivraj_jadeja/future-thinking-means-designing-for-what-comes-next-2d9m) (2026-11-02)
+- [# Day 1: Documenting My Journey to Becoming a Software Engineer](https://dev.to/brandon_allah/-day-1-documenting-my-journey-to-becoming-a-software-engineer-26lp) (2026-11-02)
+- [FoodBridge: From “Where Can I Find Food?” to First Place at Hack for Humanity 🏆](https://dev.to/benedict_isaac/foodbridge-from-where-can-i-find-food-to-first-place-at-hack-for-humanity-3cal) (2026-11-02)
+- [Resetting Mock State Between Tests for Real Isolation](https://dev.to/jeff_pdc/resetting-mock-state-between-tests-for-real-isolation-234n) (2026-11-02)
+- [Mocking Third-Party APIs: Keeping External SaaS Out of Local Tests](https://dev.to/jeff_pdc/mocking-third-party-apis-keeping-external-saas-out-of-local-tests-5ei3) (2026-11-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Engineer Roadmap 2026–27: The 6 Skills That Actually Matter (With Free Resources)](https://medium.com/@mukeshbhootra/ai-engineer-roadmap-2026-27-the-6-skills-that-actually-matter-with-free-resources-16aa93cb8d66?source=rss------programming-5) (2026-11-01)
-- [Our Principal Engineer Called the Code “Junior-Level Garbage.” Then We Revealed Who Wrote It](https://medium.com/@devcommando/our-principal-engineer-called-the-code-junior-level-garbage-then-we-revealed-who-wrote-it-6dfc8b01087b?source=rss------programming-5) (2026-11-01)
-- [I Told My Child Process to Change a Variable. It Said “Which One?”](https://medium.com/@yasashsanjeet.kumar2023/i-told-my-child-process-to-change-a-variable-it-said-which-one-e137a2c9332b?source=rss------programming-5) (2026-11-01)
-- [Why Vibe Coding Is Dying (And Spec-Driven Development Is Replacing It)](https://imrankhani.medium.com/why-vibe-coding-is-dying-and-spec-driven-development-is-replacing-it-6d134e291d48?source=rss------programming-5) (2026-11-01)
-- [In my second interview with Intuit, during a project refactoring, I discovered a SQL query that…](https://medium.com/@umeshcapg/in-my-second-interview-with-intuit-during-a-project-refactoring-i-discovered-a-sql-query-that-73d95a0c5c51?source=rss------programming-5) (2026-11-01)
+- [Nine Out of Ten AI Agents Gave Themselves More Money When Nobody Was Looking](https://medium.com/@aftab001x/nine-out-of-ten-ai-agents-gave-themselves-more-money-when-nobody-was-looking-eed5cf5266df?source=rss------programming-5) (2026-11-02)
+- [Our Slowest Postgres Query Went From 14 Seconds to 4 ms — With One Line of SQL](https://medium.com/@maahisoft20/our-slowest-postgres-query-went-from-14-seconds-to-4-ms-with-one-line-of-sql-9b56a9ca209d?source=rss------programming-5) (2026-11-02)
+- [My App Spoke English With Spanish Weekdays. useMemo Was Hiding the Language.](https://bobde-yagyesh.medium.com/my-app-spoke-english-with-spanish-weekdays-usememo-was-hiding-the-language-797dcbd8880a?source=rss------programming-5) (2026-11-02)
+- [TypeScript Utility Types](https://medium.com/@dahamakalanka2000/typescript-utility-types-b099c88254ce?source=rss------programming-5) (2026-11-02)
+- [Forget the BFF — HTMX Deleted 40 Endpoints From Our Stack](https://medium.com/@ArkProtocol1/forget-the-bff-htmx-deleted-40-endpoints-from-our-stack-4bee614e5ec2?source=rss------programming-5) (2026-11-02)
 
 </details>
 
@@ -640,17 +640,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/) (2026-10-15)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) (2026-10-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
