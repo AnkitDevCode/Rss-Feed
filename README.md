@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/) (2026-11-04)
+- [Canva lays off over 1,200 people amid slowing growth](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/) (2026-11-04)
+- [India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market](https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/) (2026-11-04)
 - [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) (2026-11-03)
 - [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/) (2026-11-03)
-- [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/) (2026-11-03)
-- [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/) (2026-11-03)
-- [Orbital Matter 3D-printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/) (2026-11-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) (2026-11-04)
-- [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/) (2026-11-04)
-- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) (2026-11-04)
-- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) (2026-11-04)
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) (2026-11-03)
+- [Debian apt security update: man-in-the-middle arbitrary code execution](https://lists.debian.org/debian-security-announce/2026/msg00526.html) (2026-11-04)
+- [A map of 5000+ midterm ads](https://admap.org/) (2026-11-04)
+- [Hackers hit French national blood bank](https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/) (2026-11-04)
+- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) (2026-11-04)
+- [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver) (2026-11-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google hasn&#8217;t figured out how to make AI pay like its search engine](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3) (2026-11-04)
+- [The Legend of Zelda: Ocarina of Time never gets old](https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2) (2026-11-04)
 - [AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc) (2026-11-04)
 - [All the news about The Legend of Zelda: Ocarina of Time remake](https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news) (2026-11-04)
 - [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) (2026-11-04)
-- [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) (2026-11-03)
-- [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs) (2026-11-03)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: blended meat, restored sight, and the agentic web](https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/) (2026-11-04)
+- [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/) (2026-11-04)
 - [The Download: controlling AI agents and “Super Intelligence” loyalty tests](https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/) (2026-11-03)
 - [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/) (2026-11-03)
 - [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/) (2026-11-03)
-- [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/) (2026-11-02)
-- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/) (2026-11-02)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Who owns the LLM? 20 AIOps products compared](https://dev.to/p311/who-owns-the-llm-20-aiops-products-compared-2jnl) (2026-11-04)
-- [Vector and Web Retrieval for Changelog Trackers: A Recoverable Design](https://dev.to/paswkeria/vector-and-web-retrieval-for-changelog-trackers-a-recoverable-design-2cd2) (2026-11-04)
-- [When AI Calls Underperform Humans: A 12-Scenario Gate for Collections Voice Agents](https://dev.to/isabelle_dubuis_d858453d7/when-ai-calls-underperform-humans-a-12-scenario-gate-for-collections-voice-agents-a5e) (2026-11-04)
-- [How I check whether a "no upload" PDF tool really keeps my file local](https://dev.to/glinck/how-i-check-whether-a-no-upload-pdf-tool-really-keeps-my-file-local-445g) (2026-11-04)
-- [When Postman Installed AI Plugins Without Asking: Why Trust Got Broken](https://dev.to/masood_akhtarvaheed_726d/when-postman-installed-ai-plugins-without-asking-why-trust-got-broken-50m3) (2026-11-04)
+- [Alembic migrations with async SQLAlchemy in FastAPI](https://dev.to/patrykkomow12/alembic-migrations-with-async-sqlalchemy-in-fastapi-4m6a) (2026-11-04)
+- [Patroni, Ubuntu 24.04, and two unplanned PostgreSQL failovers](https://dev.to/franckpachot/patroni-ubuntu-2404-and-two-unplanned-postgresql-failovers-52gl) (2026-11-04)
+- [Building a Local-First AI Assistant with Ollama](https://dev.to/rashvandhappukutty/building-a-local-first-ai-assistant-with-ollama-20ki) (2026-11-04)
+- [A trojanized Claude Code extension reached thousands of users in 11 hours. I built a verify-before-install gate for agent extensions.](https://dev.to/techdevfun/a-trojanized-claude-code-extension-reached-thousands-of-users-in-11-hours-i-built-a-4ja7) (2026-11-04)
+- [Practical Python Debugging Techniques for Beginners](https://dev.to/rashvandhappukutty/practical-python-debugging-techniques-for-beginners-1e2d) (2026-11-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Data Is Moving Faster. But Is It Ready for AI?](https://medium.com/@Segmetriqanalytics/your-data-is-moving-faster-but-is-it-ready-for-ai-9989fc4a3746?source=rss------programming-5) (2026-11-04)
-- [12 Best AI Claude Skills to Supercharge Your Workflow](https://medium.com/lets-code-future/12-best-ai-claude-skills-to-supercharge-your-workflow-7d423c9414a2?source=rss------programming-5) (2026-11-04)
-- [How to Use AI Tools to Grow an Online Business: A Practical Guide for Beginners](https://medium.com/@kartikkumar9981838/how-to-use-ai-tools-to-grow-an-online-business-a-practical-guide-for-beginners-8c8d3b3d6ed4?source=rss------programming-5) (2026-11-04)
-- [5 Cloudflare Skills for AI Agents: Stop Spam, Leaked Secrets, and Exposed Admin Pages](https://towardsdev.com/5-cloudflare-skills-for-ai-agents-stop-spam-leaked-secrets-and-exposed-admin-pages-cb4a80d00080?source=rss------programming-5) (2026-11-04)
-- [Python Has No Tail Call Elimination — Here Is What to Do Instead](https://python.plainenglish.io/python-has-no-tail-call-elimination-here-is-what-to-do-instead-3fff5273bea4?source=rss------programming-5) (2026-11-04)
+- [I Passed Every Technical Round. Three Staff Engineer Interviews Still Rejected Me](https://medium.com/engineering-playbook/i-passed-every-technical-round-three-staff-engineer-interviews-still-rejected-me-c7e7e9dde297?source=rss------programming-5) (2026-11-04)
+- [I Negotiated 4 Software Engineer Job Offers. The Biggest Mistake Cost More Than Salary](https://medium.com/engineering-playbook/i-negotiated-4-software-engineer-job-offers-the-biggest-mistake-cost-more-than-salary-effa23fe80c5?source=rss------programming-5) (2026-11-04)
+- [My CLAUDE.md Is Only 20 Lines. The Rest of My Claude Code Setup Isn’t.](https://suhailroushan.medium.com/my-claude-md-is-only-20-lines-the-rest-of-my-claude-code-setup-isnt-5ab09981d42a?source=rss------programming-5) (2026-11-04)
+- [I Watched 3 Senior Engineers Get Rejected for Staff. The Best Coder Was One of Them](https://medium.com/engineering-playbook/i-watched-3-senior-engineers-get-rejected-for-staff-the-best-coder-was-one-of-them-b6b264c0c218?source=rss------programming-5) (2026-11-04)
+- [I Explained the Same Production Incident in 4 Interviews. Only One Interviewer Was Impressed](https://medium.com/engineering-playbook/i-explained-the-same-production-incident-in-4-interviews-only-one-interviewer-was-impressed-adb530d5d2d9?source=rss------programming-5) (2026-11-04)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
 - [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 - [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
 - [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 - [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
-- [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/) (2026-10-19)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Wednesday, November 11, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/november-2026-security-releases) (2026-11-03)
 - [Node.js 27.0.0-alpha.0.0.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0) (2026-10-29)
 - [Node.js 24.22.2 (LTS)](https://nodejs.org/en/blog/release/v24.22.2) (2026-10-28)
 - [Node.js 26.13.0 (LTS)](https://nodejs.org/en/blog/release/v26.13.0) (2026-10-28)
 - [Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) (2026-10-21)
-- [Node.js 26.12.1 (Current)](https://nodejs.org/en/blog/release/v26.12.1) (2026-10-21)
 
 </details>
 
@@ -317,22 +317,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Foundation to discontinue new scholarships at Constructor University starting in 2027](https://blog.jetbrains.com/education/2026/11/04/jetbrains-foundation-to-discontinue-new-scholarships-at-constructor-university-starting-in-2027/) (2026-11-04)
+- [The User Group Support Program Is Becoming the Developer Communities Program](https://blog.jetbrains.com/community-programs/2026/11/the-user-group-support-program-is-becoming-the-developer-communities-program/) (2026-11-04)
 - [Use Your GitHub Copilot Plan in JetBrains Air – in Your IDE and in the Cloud](https://blog.jetbrains.com/air/2026/11/github-copilot-in-air/) (2026-11-03)
 - [Hear What Your IDE Is Doing: New Sound Cues in JetBrains IDEs](https://blog.jetbrains.com/platform/2026/11/accessibility-sound-cues-in-jetbrains-ides/) (2026-11-03)
 - [The eMudhra Certificate Authority Compromise: What It Means for TeamCity](https://blog.jetbrains.com/teamcity/2026/11/emudhra-certificate-authority-compromise-what-it-means-for-teamcity/) (2026-11-03)
-- [TeamCity 2026.2.2 and 2026.1.6 Updates](https://blog.jetbrains.com/teamcity/2026/11/teamcity-2026-2-2-2026-1-6-bugfix/) (2026-11-03)
-- [Where Did the Saved Bytes Go? Compact Object Headers in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/11/where-did-the-saved-bytes-go-compact-object-headers-in-intellij-idea/) (2026-11-03)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.145 (Insiders)](https://code.visualstudio.com/updates/v1_145) (2026-11-04)
+- [Visual Studio Code 1.146 (Insiders)](https://code.visualstudio.com/updates/v1_146) (2026-11-11)
+- [Visual Studio Code 1.145](https://code.visualstudio.com/updates/v1_145) (2026-11-04)
 - [Visual Studio Code 1.144](https://code.visualstudio.com/updates/v1_144) (2026-10-28)
 - [VS Code Wrapped: GitHub Universe 2026](https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped) (2026-10-28)
 - [Tune GitHub Copilot Inline Suggestions with Configurable Eagerness](https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness) (2026-10-26)
-- [Visual Studio Code 1.143](https://code.visualstudio.com/updates/v1_143) (2026-10-21)
 
 </details>
 
@@ -384,6 +384,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What is agent assist? How real-time AI helps human agents
+](
+https://www.twilio.com/en-us/blog/insights/agent-assist
+) (2026-11-03)
+- [
 Build an AI Voice Assistant with Twilio Voice and Media Streams, Rime's Prism, and Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node
@@ -402,11 +407,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3
 Brilliant Builds: Building for Choice
 ](
 https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
-) (2026-10-29)
-- [
-Brilliant Builds: Building for Clarity
-](
-https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 ) (2026-10-29)
 
 </details>
@@ -594,44 +594,44 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Let Decision Models Guide Your Voice Assistant](https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/) (2026-11-04)
+- [Beyond Classical: A Quantum Approach to Time-Series Prediction](https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/) (2026-11-04)
 - [AI Will Do Your Job. That Should Be Good News.](https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/) (2026-11-03)
 - [A Good Shooter or Just a Good Shot Selector? Using Python to Find Out](https://towardsdatascience.com/a-good-shooter-or-just-a-good-shot-selector-using-python-to-find-out/) (2026-11-03)
 - [Your Agent Works in the Demo. Now Make It Survive Monday.](https://towardsdatascience.com/your-agent-works-in-the-demo-now-make-it-survive-monday/) (2026-11-03)
-- [Three Techniques to Understand Your Codebase When Coding Agents Write the Code](https://towardsdatascience.com/three-techniques-to-understand-your-codebase-when-coding-agents-write-the-code/) (2026-11-03)
-- [Credit Risk: What Are We Actually Measuring?](https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/) (2026-11-02)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [7 Best AI Agent Collaboration Platforms in 2026](https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/) (2026-11-04)
 - [Top 5 Local AI Models and How to Get Them](https://www.analyticsvidhya.com/blog/2026/11/local-ai-models/) (2026-11-03)
 - [GELU Activation Function Explained: How It Works and Why Transformers Use It](https://www.analyticsvidhya.com/blog/2026/10/gelu-activation-function-explained/) (2026-10-31)
 - [Harness²: Improving AI Agent Performance Without Model Upgrades](https://www.analyticsvidhya.com/blog/2026/10/harness2-improving-ai-agent-performance/) (2026-10-30)
 - [FDE vs AI Engineer: Roles, Skills, and Career Paths Explained](https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/) (2026-10-29)
-- [Kimi K3 Architecture Explained: How a 2.8T Model Runs Efficiently](https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-architecture/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Small Specialist Models That Beat Giant LLMs at One Job](https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job) (2026-11-04)
 - [Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM](https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm) (2026-11-03)
 - [8 LLM Inference Frameworks You Should Try in 2026](https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026) (2026-11-03)
 - [Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals](https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals) (2026-11-02)
 - [5 AI Certifications Worth Paying For in 2026 (And Which to Skip)](https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip) (2026-11-02)
-- [Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant](https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant) (2026-10-30)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Train Your own Decision Model like Jev using Unsloth](https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/) (2026-11-04)
 - [Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/) (2026-11-03)
 - [The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks](https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/) (2026-11-02)
 - [7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)](https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/) (2026-10-30)
 - [Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head](https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/) (2026-10-28)
-- [Context Managers Beyond Opening Files in Python](https://machinelearningmastery.com/context-managers-beyond-opening-files/) (2026-10-27)
 
 </details>
 
@@ -643,17 +643,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
-- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
