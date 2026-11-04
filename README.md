@@ -13,40 +13,40 @@
 - [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/) (2026-11-03)
 - [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/) (2026-11-03)
 - [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/) (2026-11-03)
-- [Orbital Matter 3D printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/) (2026-11-03)
+- [Orbital Matter 3D-printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/) (2026-11-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) (2026-11-04)
+- [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/) (2026-11-04)
+- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) (2026-11-04)
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) (2026-11-04)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) (2026-11-03)
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) (2026-11-03)
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) (2026-11-03)
-- [US tech giants' hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months) (2026-11-03)
-- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) (2026-11-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sonos adds new Presets and prepares for the 27voice AI beta](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access) (2026-11-03)
-- [Valve is making changes to deal with a ‘significant increase’ in Steam game submissions](https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions) (2026-11-03)
-- [Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained) (2026-11-03)
-- [Here’s what it’s like to use Audio Intelligence on the Apple Watch](https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch) (2026-11-03)
-- [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk) (2026-11-03)
+- [AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc) (2026-11-04)
+- [All the news about The Legend of Zelda: Ocarina of Time remake](https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news) (2026-11-04)
+- [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) (2026-11-04)
+- [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) (2026-11-03)
+- [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs) (2026-11-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [California fights "preposterous" Trump admin demand to scrap state broadband laws](https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/) (2026-11-03)
 - [Ukraine’s drone strikes spur hasty Russian plans for underground data centers](https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/) (2026-11-03)
 - [NYT demands Brave shut down its paywall blocker and end deals with AI firms](https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/) (2026-11-03)
 - [Buttons are back and storage is king when it comes to car interiors](https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/) (2026-11-03)
 - [Google will let schools skip AI tools, but they have to give up search, too](https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/) (2026-11-03)
-- [Another child dies of measles as CDC reportedly holds up health alert](https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/) (2026-11-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TinyLocalization: database-backed translations for .NET, without redeploying](https://dev.to/angelodotnet/tinylocalization-database-backed-translations-for-net-without-redeploying-2nd1) (2026-11-03)
-- [Teable share views expose more than a table](https://dev.to/ioneyrezende/teable-share-views-expose-more-than-a-table-4jdh) (2026-11-03)
-- [Switch from zero: ship a human-in-the-loop data quality agent to your team chat](https://dev.to/jenniferevangelistade/switch-from-zero-ship-a-human-in-the-loop-data-quality-agent-to-your-team-chat-4cm9) (2026-11-03)
-- [Financial Research Dashboard Retrieval — Query Limits, Chunking, and Freshness](https://dev.to/rhettfletcher9678/financial-research-dashboard-retrieval-query-limits-chunking-and-freshness-4j1m) (2026-11-03)
-- [SynapseHealer: Building an Autonomous, Self-Healing Interoperability DLQ with InterSystems IRIS AI Hub](https://dev.to/josephjbassey/synapsehealer-building-an-autonomous-self-healing-interoperability-dlq-with-intersystems-iris-ai-2hjj) (2026-11-03)
+- [Who owns the LLM? 20 AIOps products compared](https://dev.to/p311/who-owns-the-llm-20-aiops-products-compared-2jnl) (2026-11-04)
+- [Vector and Web Retrieval for Changelog Trackers: A Recoverable Design](https://dev.to/paswkeria/vector-and-web-retrieval-for-changelog-trackers-a-recoverable-design-2cd2) (2026-11-04)
+- [When AI Calls Underperform Humans: A 12-Scenario Gate for Collections Voice Agents](https://dev.to/isabelle_dubuis_d858453d7/when-ai-calls-underperform-humans-a-12-scenario-gate-for-collections-voice-agents-a5e) (2026-11-04)
+- [How I check whether a "no upload" PDF tool really keeps my file local](https://dev.to/glinck/how-i-check-whether-a-no-upload-pdf-tool-really-keeps-my-file-local-445g) (2026-11-04)
+- [When Postman Installed AI Plugins Without Asking: Why Trust Got Broken](https://dev.to/masood_akhtarvaheed_726d/when-postman-installed-ai-plugins-without-asking-why-trust-got-broken-50m3) (2026-11-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries for Images That Need a Small Fix](https://blog.stackademic.com/9-python-libraries-for-images-that-need-a-small-fix-6548f5970101?source=rss------programming-5) (2026-11-03)
-- [Interactive C# Puzzle #2: Which Line Makes This Code Slow?](https://medium.com/@cagataygr/interactive-c-puzzle-2-which-line-makes-this-code-slow-428393ecf610?source=rss------programming-5) (2026-11-03)
-- [It’s Just a Feeling](https://medium.com/@prajaktabelekar21/its-just-a-feeling-ef28bfe133d6?source=rss------programming-5) (2026-11-03)
-- [Our Best Senior Engineer Was Rejected for Staff. The Engineer He Mentored Got Promoted](https://medium.com/engineering-playbook/our-best-senior-engineer-was-rejected-for-staff-the-engineer-he-mentored-got-promoted-9d049ad1b28f?source=rss------programming-5) (2026-11-03)
-- [He Had 12 Years of Backend Experience. The Staff Engineer Interview Lasted 20 Minutes](https://medium.com/lets-code-future/he-had-12-years-of-backend-experience-the-staff-engineer-interview-lasted-20-minutes-2f0abf22771d?source=rss------programming-5) (2026-11-03)
+- [Your Data Is Moving Faster. But Is It Ready for AI?](https://medium.com/@Segmetriqanalytics/your-data-is-moving-faster-but-is-it-ready-for-ai-9989fc4a3746?source=rss------programming-5) (2026-11-04)
+- [12 Best AI Claude Skills to Supercharge Your Workflow](https://medium.com/lets-code-future/12-best-ai-claude-skills-to-supercharge-your-workflow-7d423c9414a2?source=rss------programming-5) (2026-11-04)
+- [How to Use AI Tools to Grow an Online Business: A Practical Guide for Beginners](https://medium.com/@kartikkumar9981838/how-to-use-ai-tools-to-grow-an-online-business-a-practical-guide-for-beginners-8c8d3b3d6ed4?source=rss------programming-5) (2026-11-04)
+- [5 Cloudflare Skills for AI Agents: Stop Spam, Leaked Secrets, and Exposed Admin Pages](https://towardsdev.com/5-cloudflare-skills-for-ai-agents-stop-spam-leaked-secrets-and-exposed-admin-pages-cb4a80d00080?source=rss------programming-5) (2026-11-04)
+- [Python Has No Tail Call Elimination — Here Is What to Do Instead](https://python.plainenglish.io/python-has-no-tail-call-elimination-here-is-what-to-do-instead-3fff5273bea4?source=rss------programming-5) (2026-11-04)
 
 </details>
 
@@ -414,12 +414,15 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Build an AI Wellbeing App with Fireworks and Fitbit via Auth0 Token Vault.](https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/) (2026-11-02)
-- [Beyond Infrastructure: The New Era of CIAM Innovation](https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/) (2026-11-02)
-- [Auth0-Powered SaaS Providers Unlock Growth with the Okta Integration Network](https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/) (2026-10-23)
-- [Scaling AI Agent Identity with CIMD and Application Profiles in Auth0](https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/) (2026-10-22)
-- [Introducing Terraform Auth0 Modules
-](https://auth0.com/blog/terraform-auth0-modules/) (2026-10-22)
+- [Compliant Infrastructure, Frustrating CX
+](https://auth0.com/blog/compliant-infrastructure-frustrating-cx/) (2026-11-03)
+- [Secure and Convenient is the Real Killer App](https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/) (2026-11-03)
+- [Consumers are Ready for AI. Are Companies?
+](https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/) (2026-11-03)
+- [Trust Puts Customer Identity in the Spotlight
+](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
+- [Moving Quickly Without Breaking Things
+](https://auth0.com/blog/moving-quickly-without-breaking-things/) (2026-11-03)
 
 </details>
 
