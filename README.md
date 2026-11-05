@@ -9,44 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) (2026-11-05)
+- [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) (2026-11-05)
 - [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/) (2026-11-04)
 - [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/) (2026-11-04)
 - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/) (2026-11-04)
-- [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/) (2026-11-04)
-- [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/) (2026-11-04)
-
-</details>
-
-<details>
-<summary>💻 Hacker News</summary>
-
-- [Ask HN: What your experience with the monthly "who wants to be hired" thread?](https://news.ycombinator.com/item?id=50372294) (2026-11-04)
-- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) (2026-11-04)
-- [Everything is an AI scam now](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/) (2026-11-04)
-- [If you're on Replit Pro, you have until November 8 to opt out of arbitration](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8) (2026-11-04)
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) (2026-11-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster) (2026-11-05)
 - [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers) (2026-11-04)
 - [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich) (2026-11-04)
 - [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case) (2026-11-04)
 - [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale) (2026-11-04)
-- [Gemini for Home now plugs into AT&#038;T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system) (2026-11-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Nintendo's biggest ROM chip supplier is bowing out of the business](https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/) (2026-11-04)
+- [Hackers exploited iOS and Android flaws to infect phones](https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/) (2026-11-04)
+- [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) (2026-11-04)
 - [VMware releases vSphere Express for virtualization on up to 128 cores](https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/) (2026-11-04)
 - [AMD's record quarter: Data center business doubles, while gaming craters](https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/) (2026-11-04)
-- [Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”](https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/) (2026-11-04)
-- [After Texas' blue wave, what happens to Elon Musk and SpaceX?](https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/) (2026-11-04)
-- [Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control](https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/) (2026-11-04)
 
 </details>
 
@@ -86,44 +75,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your SPF and DKIM passed last month. Here is why they can fail today without you touching DNS](https://dev.to/mogley1011/your-spf-and-dkim-passed-last-month-here-is-why-they-can-fail-today-without-you-touching-dns-2elf) (2026-11-04)
-- [Your customer's agent is untrusted by definition](https://dev.to/bimmer2003/your-customers-agent-is-untrusted-by-definition-28m1) (2026-11-04)
-- [DreamHost breach: attackers had two months inside File Manager](https://dev.to/yardphantom/dreamhost-breach-attackers-had-two-months-inside-file-manager-46ea) (2026-11-04)
-- [Dify API keys authorize applications, not every workspace action](https://dev.to/facilishz/dify-api-keys-authorize-applications-not-every-workspace-action-31d2) (2026-11-04)
-- [I built a Snap Specs Lens so new mail carriers can learn their case from memory](https://dev.to/stephensook/i-built-a-snap-specs-lens-so-new-mail-carriers-can-learn-their-case-from-memory-4oc7) (2026-11-04)
+- [Why Your Small Business Website Feels Slow (and What to Fix First)](https://dev.to/creworktech/why-your-small-business-website-feels-slow-and-what-to-fix-first-4gp4) (2026-11-05)
+- [Agentic AI vs Generative AI Examples: Cost Verdict](https://dev.to/shaam_ai/agentic-ai-vs-generative-ai-examples-cost-verdict-1dj5) (2026-11-05)
+- [CUA-Master-27B vs Qwen-CUA-397B: Open Agent Verdict](https://dev.to/shaam_ai/cua-master-27b-vs-qwen-cua-397b-open-agent-verdict-4l5d) (2026-11-05)
+- [Ivanti Connect Secure: 3 Zero-Days Patched, Deadline Hit](https://dev.to/shaam_ai/ivanti-connect-secure-3-zero-days-patched-deadline-hit-1m3m) (2026-11-05)
+- [OpenAI Bug Bounty: New $30,000 Critical Tier vs Old Rates](https://dev.to/shaam_ai/openai-bug-bounty-new-30000-critical-tier-vs-old-rates-2mik) (2026-11-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [COULD you help me with something : I have my Metamask wallet with 5,000$ , and I have the 12 seed…](https://medium.com/@lokasp40/could-you-help-me-with-something-i-have-my-metamask-wallet-with-5-000-and-i-have-the-12-seed-ee5d1b8761bf?source=rss------programming-5) (2026-11-04)
-- [TimeProvider in .NET: How to Test Time-Dependent Code Without Waiting](https://medium.com/@ravikumar.makwana/timeprovider-in-net-how-to-test-time-dependent-code-without-waiting-80fd6d427c3d?source=rss------programming-5) (2026-11-04)
-- [We Rejected a Senior Engineer After Seven Interviews. Two Months Later, He Was Our Customer](https://medium.com/engineering-playbook/we-rejected-a-senior-engineer-after-seven-interviews-two-months-later-he-was-our-customer-d0952edd52a5?source=rss------programming-5) (2026-11-04)
-- [Python vs Go for Backend APIs: We Rebuilt the Same Service. Then Production Humbled Us](https://medium.com/engineering-playbook/python-vs-go-for-backend-apis-we-rebuilt-the-same-service-then-production-humbled-us-93671d438761?source=rss------programming-5) (2026-11-04)
-- [I Asked for a Staff Engineer Promotion. My Director Opened My GitHub and Started Laughing](https://medium.com/engineering-playbook/i-asked-for-a-staff-engineer-promotion-my-director-opened-my-github-and-started-laughing-699d4ce28bc0?source=rss------programming-5) (2026-11-04)
+- [Distinctly Remembered](https://medium.com/becoming-gnarly/distinctly-remembered-86fb6aee94e2?source=rss------programming-5) (2026-11-05)
+- [Flutter State Management in 2026: BLoC vs Riverpod for Beginners](https://medium.com/@savaliya.ravi.rs/flutter-state-management-in-2026-bloc-vs-riverpod-for-beginners-2b4d154150ca?source=rss------programming-5) (2026-11-05)
+- [How to Structure a Django Project When It Grows Beyond 50 Models](https://medium.com/@gulsaba.fiha/how-to-structure-a-django-project-when-it-grows-beyond-50-models-9e702d13e0df?source=rss------programming-5) (2026-11-05)
+- [About Myself — A Computer Science Engineering student](https://medium.com/@samdavid9333/about-myself-a-computer-science-engineering-student-4a0a300c83df?source=rss------programming-5) (2026-11-05)
+- [Python for Beginners: A Comprehensive Introduction to Programming](https://medium.com/@ranimhetre2005/python-for-beginners-a-comprehensive-introduction-to-programming-fe1d203810d3?source=rss------programming-5) (2026-11-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/) (2026-11-04)
 - [AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/) (2026-11-02)
 - [AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/) (2026-10-26)
 - [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/) (2026-10-22)
 - [Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/) (2026-10-20)
-- [AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/) (2026-10-19)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
 - [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 - [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
 - [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
-- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 
 </details>
 
@@ -571,7 +560,7 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
-- [Final Call for Proposals: PyTorch Day China 2026](https://pytorch.org/blog/final-call-for-proposals-pytorch-day-china-2026/) (2026-11-04)
+- [Call for Proposals: PyTorch Day China 2026](https://pytorch.org/blog/call-for-proposals-pytorch-day-china-2026/) (2026-11-04)
 - [KVCache Meetup Korea 2026: Event Recap](https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/) (2026-11-03)
 - [Announcing the Special Interest Group (SIG) for Ray on Accelerators](https://pytorch.org/blog/announcing-the-special-interest-group-sig-for-ray-on-accelerators/) (2026-11-02)
 - [PyTorch 2.15 Release Blog](https://pytorch.org/blog/pytorch-2-15-release-blog/) (2026-10-28)
