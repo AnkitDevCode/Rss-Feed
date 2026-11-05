@@ -9,44 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/) (2026-11-05)
+- [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/) (2026-11-05)
+- [Amazon ditches GrubHub, taps Uber Eats for Prime](https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/) (2026-11-05)
 - [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) (2026-11-05)
 - [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) (2026-11-05)
-- [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/) (2026-11-04)
-- [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/) (2026-11-04)
-- [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/) (2026-11-04)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [Sshole](https://sshhole.com) (2026-11-05)
+- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2) (2026-11-05)
+- [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/) (2026-11-05)
+- [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135) (2026-11-05)
+- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/) (2026-11-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster) (2026-11-05)
-- [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers) (2026-11-04)
-- [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich) (2026-11-04)
-- [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case) (2026-11-04)
-- [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale) (2026-11-04)
+- [Spotify is coming to United Airlines seatbacks — with help from Starlink](https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi) (2026-11-05)
+- [Motorola is going ultra premium with its $1,600 ‘Signature’ phone](https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability) (2026-11-05)
+- [Discord is ditching Electron and its new app uses less RAM](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app) (2026-11-05)
+- [Playstation and Spider-Man performance see Sony profits surge](https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation) (2026-11-05)
+- [Amazon is getting back into restaurant delivery with Uber Eats team-up](https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership) (2026-11-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide](https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/) (2026-11-05)
 - [Nintendo's biggest ROM chip supplier is bowing out of the business](https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/) (2026-11-04)
 - [Hackers exploited iOS and Android flaws to infect phones](https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/) (2026-11-04)
 - [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) (2026-11-04)
 - [VMware releases vSphere Express for virtualization on up to 128 cores](https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/) (2026-11-04)
-- [AMD's record quarter: Data center business doubles, while gaming craters](https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/) (2026-11-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Texas’s fragile AI boom and energy policy shifts](https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/) (2026-11-05)
+- [A new bill could change how the US builds energy infrastructure ](https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/) (2026-11-05)
 - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/) (2026-11-04)
 - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/) (2026-11-04)
 - [What’s next for US energy policy after the midterm elections?](https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/) (2026-11-04)
-- [The Download: blended meat, restored sight, and the agentic web](https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/) (2026-11-04)
-- [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/) (2026-11-04)
 
 </details>
 
@@ -75,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Your Small Business Website Feels Slow (and What to Fix First)](https://dev.to/creworktech/why-your-small-business-website-feels-slow-and-what-to-fix-first-4gp4) (2026-11-05)
-- [Agentic AI vs Generative AI Examples: Cost Verdict](https://dev.to/shaam_ai/agentic-ai-vs-generative-ai-examples-cost-verdict-1dj5) (2026-11-05)
-- [CUA-Master-27B vs Qwen-CUA-397B: Open Agent Verdict](https://dev.to/shaam_ai/cua-master-27b-vs-qwen-cua-397b-open-agent-verdict-4l5d) (2026-11-05)
-- [Ivanti Connect Secure: 3 Zero-Days Patched, Deadline Hit](https://dev.to/shaam_ai/ivanti-connect-secure-3-zero-days-patched-deadline-hit-1m3m) (2026-11-05)
-- [OpenAI Bug Bounty: New $30,000 Critical Tier vs Old Rates](https://dev.to/shaam_ai/openai-bug-bounty-new-30000-critical-tier-vs-old-rates-2mik) (2026-11-05)
+- [How YTubic became Radif](https://dev.to/yuvrajangadsingh/how-ytubic-became-radif-2io1) (2026-11-05)
+- [How to settle group expenses with the fewest payments](https://dev.to/shreyash_giri_b61cf273627/how-to-settle-group-expenses-with-the-fewest-payments-l3c) (2026-11-05)
+- [How I Write Small Tests for Python Scripts](https://dev.to/tonycantave/how-i-write-small-tests-for-python-scripts-3k4o) (2026-11-05)
+- [Can AI Improve Itself Without Training? Well, Maybe…](https://dev.to/dragos_roua/can-ai-improve-itself-without-training-well-maybe-30pi) (2026-11-05)
+- [48-Hour Field Notes: My Chunker Cut JSON in Half, and Every Retry Made It Worse](https://dev.to/codepy_1473/48-hour-field-notes-my-chunker-cut-json-in-half-and-every-retry-made-it-worse-1ai0) (2026-11-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Distinctly Remembered](https://medium.com/becoming-gnarly/distinctly-remembered-86fb6aee94e2?source=rss------programming-5) (2026-11-05)
-- [Flutter State Management in 2026: BLoC vs Riverpod for Beginners](https://medium.com/@savaliya.ravi.rs/flutter-state-management-in-2026-bloc-vs-riverpod-for-beginners-2b4d154150ca?source=rss------programming-5) (2026-11-05)
-- [How to Structure a Django Project When It Grows Beyond 50 Models](https://medium.com/@gulsaba.fiha/how-to-structure-a-django-project-when-it-grows-beyond-50-models-9e702d13e0df?source=rss------programming-5) (2026-11-05)
-- [About Myself — A Computer Science Engineering student](https://medium.com/@samdavid9333/about-myself-a-computer-science-engineering-student-4a0a300c83df?source=rss------programming-5) (2026-11-05)
-- [Python for Beginners: A Comprehensive Introduction to Programming](https://medium.com/@ranimhetre2005/python-for-beginners-a-comprehensive-introduction-to-programming-fe1d203810d3?source=rss------programming-5) (2026-11-05)
+- [Happy Coding with AI](https://medium.com/@yurinovicow/happy-coding-with-ai-39b574b5a32a?source=rss------programming-5) (2026-11-05)
+- [Our Staff Engineer Made the Team 40% Faster With AI. The CFO Asked Who We Could Fire](https://medium.com/engineering-playbook/our-staff-engineer-made-the-team-40-faster-with-ai-the-cfo-asked-who-we-could-fire-27bafdf0abcd?source=rss------programming-5) (2026-11-05)
+- [Our Dashboard Said 99.99% Uptime. A Customer Asked Why Nothing Worked](https://medium.com/engineering-playbook/our-dashboard-said-99-99-uptime-a-customer-asked-why-nothing-worked-a4b74c188e92?source=rss------programming-5) (2026-11-05)
+- [Microfrontends Explained with JavaScript Examples](https://javascript.plainenglish.io/microfrontends-explained-with-javascript-examples-0381a08ba6ce?source=rss------programming-5) (2026-11-05)
+- [We Spent $3.8 Million Replacing Our Java Monolith. The Old System Won](https://medium.com/@coding_with_tech/we-spent-3-8-million-replacing-our-java-monolith-the-old-system-won-07d6ad868b46?source=rss------programming-5) (2026-11-05)
 
 </details>
 
@@ -108,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
 - [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 - [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
 - [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
+- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 
 </details>
 
@@ -175,10 +186,10 @@
 <summary>🟩 Node.js Blog</summary>
 
 - [Wednesday, November 11, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/november-2026-security-releases) (2026-11-03)
+- [Notable V8 changes from Node.js 26 to 27 (Alpha)](https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha) (2026-11-02)
 - [Node.js 27.0.0-alpha.0.0.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0) (2026-10-29)
 - [Node.js 24.22.2 (LTS)](https://nodejs.org/en/blog/release/v24.22.2) (2026-10-28)
 - [Node.js 26.13.0 (LTS)](https://nodejs.org/en/blog/release/v26.13.0) (2026-10-28)
-- [Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) (2026-10-21)
 
 </details>
 
@@ -251,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [How two engineer side projects became the agent taking action inside Dropbox](https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox) (2026-11-05)
 - [Evolving our calendar assistant Reclaim to be AI-native without starting over](https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native) (2026-09-29)
 - [Dropbox CTO Ali Dasdan on moving from AI adoption to transformation](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale) (2026-09-23)
 - [Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation) (2026-09-21)
 - [Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces) (2026-08-31)
-- [Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai) (2026-08-18)
 
 </details>
 
@@ -306,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [CLion 2026.3 Is Here](https://blog.jetbrains.com/clion/2026/11/2026-3-release/) (2026-11-05)
+- [dotInsights | November 2026](https://blog.jetbrains.com/dotnet/2026/11/05/dotinsights-november-2026/) (2026-11-05)
+- [What’s New in IntelliJ IDEA 2026.3](https://blog.jetbrains.com/idea/2026/11/whats-new-in-intellij-idea-2026-3/) (2026-11-05)
+- [What’s fixed in IntelliJ IDEA 2026.3](https://blog.jetbrains.com/idea/2026/11/whats-fixed-in-intellij-idea-2026-3/) (2026-11-05)
 - [How to Use AI for Rust Development: Lessons From an OpenAI Engineer](https://blog.jetbrains.com/rust/2026/11/04/ai-for-rust-development/) (2026-11-04)
-- [JetBrains Foundation to discontinue new scholarships at Constructor University starting in 2027](https://blog.jetbrains.com/education/2026/11/04/jetbrains-foundation-to-discontinue-new-scholarships-at-constructor-university-starting-in-2027/) (2026-11-04)
-- [The User Group Support Program Is Becoming the Developer Communities Program](https://blog.jetbrains.com/community-programs/2026/11/the-user-group-support-program-is-becoming-the-developer-communities-program/) (2026-11-04)
-- [Use Your GitHub Copilot Plan in JetBrains Air – in Your IDE and in the Cloud](https://blog.jetbrains.com/air/2026/11/github-copilot-in-air/) (2026-11-03)
-- [Hear What Your IDE Is Doing: New Sound Cues in JetBrains IDEs](https://blog.jetbrains.com/platform/2026/11/accessibility-sound-cues-in-jetbrains-ides/) (2026-11-03)
 
 </details>
 
@@ -373,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Best Practices for Conversation Relay Provider Failover
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover
+) (2026-11-04)
+- [
+Build vs. buy: How to decide for your orchestration layer
+](
+https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer
+) (2026-11-04)
+- [
+Contact center analytics: 6 metrics for AI and human agents
+](
+https://www.twilio.com/en-us/blog/insights/contact-center-analytics
+) (2026-11-04)
+- [
 What is agent assist? How real-time AI helps human agents
 ](
 https://www.twilio.com/en-us/blog/insights/agent-assist
@@ -382,21 +408,6 @@ Build an AI Voice Assistant with Twilio Voice and Media Streams, Rime's Prism, a
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node
 ) (2026-10-30)
-- [
-Brilliant Builds: Building for Loyalty
-](
-https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1
-) (2026-10-29)
-- [
-Brilliant Builds: Building for Seamlessness
-](
-https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3
-) (2026-10-29)
-- [
-Brilliant Builds: Building for Choice
-](
-https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
-) (2026-10-29)
 
 </details>
 
@@ -571,44 +582,44 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts) (2026-11-05)
 - [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor) (2026-11-04)
 - [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench) (2026-11-03)
 - [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building) (2026-11-03)
 - [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench) (2026-11-03)
-- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic) (2026-11-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How GEO, WebMCP, and Bot Paywalls Are Building the AI-Native Internet](https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/) (2026-11-05)
+- [Why a Tiny GPT Can Know Two Facts and Still Not Connect Them](https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/) (2026-11-05)
 - [A Computational Analysis of Women’s Suffrage in Historical Newspapers](https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/) (2026-11-04)
 - [How to Combine Contradictory Filters in DAX](https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/) (2026-11-04)
 - [Let Decision Models Guide Your Voice Assistant](https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/) (2026-11-04)
-- [Beyond Classical: A Quantum Approach to Time-Series Prediction](https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/) (2026-11-04)
-- [AI Will Do Your Job. That Should Be Good News.](https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/) (2026-11-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GPT Image 2.6: The Best Image Generation Model Just Got an Upgrade!](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/) (2026-11-05)
 - [7 Best AI Agent Collaboration Platforms in 2026](https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/) (2026-11-04)
 - [Top 5 Local AI Models and How to Get Them](https://www.analyticsvidhya.com/blog/2026/11/local-ai-models/) (2026-11-03)
 - [GELU Activation Function Explained: How It Works and Why Transformers Use It](https://www.analyticsvidhya.com/blog/2026/10/gelu-activation-function-explained/) (2026-10-31)
 - [Harness²: Improving AI Agent Performance Without Model Upgrades](https://www.analyticsvidhya.com/blog/2026/10/harness2-improving-ai-agent-performance/) (2026-10-30)
-- [FDE vs AI Engineer: Roles, Skills, and Career Paths Explained](https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [What I Did with Hermes Agent, Ollama & Local Models](https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models) (2026-11-05)
 - [The Data Science Interview in 2026: What’s Changed and How to Prepare](https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare) (2026-11-04)
 - [7 Small Specialist Models That Beat Giant LLMs at One Job](https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job) (2026-11-04)
 - [Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM](https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm) (2026-11-03)
 - [8 LLM Inference Frameworks You Should Try in 2026](https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026) (2026-11-03)
-- [Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals](https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals) (2026-11-02)
 
 </details>
 
@@ -631,17 +642,6 @@ https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
-- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
-- [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) (2026-10-22)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
