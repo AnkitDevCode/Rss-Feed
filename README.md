@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/) (2026-11-06)
+- [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/) (2026-11-06)
 - [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) (2026-11-05)
 - [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/) (2026-11-05)
 - [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/) (2026-11-05)
-- [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) (2026-11-05)
-- [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) (2026-11-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) (2026-11-05)
-- [$2.5T has been wiped from US stocks](https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks) (2026-11-05)
-- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) (2026-11-05)
-- [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/) (2026-11-05)
-- [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/) (2026-11-05)
+- [Silicon Valley's Bad Night](https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/) (2026-11-06)
+- [Pwn.college](https://pwn.college/) (2026-11-06)
+- [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke) (2026-11-06)
+- [Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/) (2026-11-06)
+- [Tesla and SpaceX lose over $420B in combined market cap in the two days](https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda) (2026-11-06)
+- [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings) (2026-11-06)
+- [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report) (2026-11-05)
+- [T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;](https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile) (2026-11-05)
 - [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work) (2026-11-05)
-- [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down) (2026-11-05)
-- [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes) (2026-11-05)
-- [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027) (2026-11-05)
-- [Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday](https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale) (2026-11-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost](https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/) (2026-11-06)
+- [Meet *sshole, the vulnerability that lets hackers SSH into Linux devices](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/) (2026-11-05)
+- [NASA unveils mysterious X-70 experimental aircraft using AI-generated image](https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/) (2026-11-05)
 - [Sony revives the original Walkman headphones, adds USB-C](https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/) (2026-11-05)
 - [Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable](https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/) (2026-11-05)
-- [Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.](https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/) (2026-11-05)
-- [BMW bumps battery for the better: The 2027 i7 60 xDrive, driven](https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/) (2026-11-05)
-- [Software squeezes more data out of Webb Telescope for imaging exoplanets](https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/) (2026-11-05)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Weekly — 2026-10-30 to 2026-11-06 | Open Weights Meet Production Constraints](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-2026-10-30-to-2026-11-06-open-weights-meet-production-constraints-2i4k) (2026-11-05)
-- [A locksmith site that loads in 7 KB: local SEO without a CMS](https://dev.to/uspremierlocksmith/a-locksmith-site-that-loads-in-7-kb-local-seo-without-a-cms-1oi9) (2026-11-05)
-- [The Black Box Might Have a Window](https://dev.to/mona_d_4222dda374567263b/the-black-box-might-have-a-window-38mn) (2026-11-05)
-- [TENDRIL Exploit: Sell-Hook Burn-Sync Drained ~$555K](https://dev.to/pandasecurity/tendril-exploit-sell-hook-burn-sync-drained-555k-c7o) (2026-11-05)
-- [IA Jurídica: o que aprendi analisando 10 falhas de um assistente para contratos na minha pós-graduação](https://dev.to/fabiothomazrocha/ia-juridica-o-que-aprendi-analisando-10-falhas-de-um-assistente-para-contratos-na-minha-1obi) (2026-11-05)
+- [FAQPage JSON-LD on Tool Pages: What It Is and Why I Add It to Every New Page](https://dev.to/mobeenahmedgondal/faqpage-json-ld-on-tool-pages-what-it-is-and-why-i-add-it-to-every-new-page-ig7) (2026-11-06)
+- [RepoDNA v1.5.0 Is Here: Local History Controls, Reviewed Exports, and Clearer CI Impact](https://dev.to/sanskarin/repodna-v150-is-here-local-history-controls-reviewed-exports-and-clearer-ci-impact-1ohf) (2026-11-06)
+- [Python Open Spurce for beginners](https://dev.to/gtref/python-open-spurce-for-beginners-3334) (2026-11-06)
+- [X12 EDI in Plain English: The Transactions Behind Claims](https://dev.to/nirmitee/x12-edi-in-plain-english-the-transactions-behind-claims-52a3) (2026-11-06)
+- [Claude Code Message Threads vs Prompt Caching: Verdict](https://dev.to/shaam_ai/claude-code-message-threads-vs-prompt-caching-verdict-20hi) (2026-11-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DeepSeek’s Super Agent Isn’t a Claude Code Killer. It’s Smarter Than That](https://medium.com/@loengnavy/deepseeks-super-agent-isn-t-a-claude-code-killer-it-s-smarter-than-that-89880b3f95b7?source=rss------programming-5) (2026-11-05)
-- [Rate Limiting Your .NET API — A Real Production Guide](https://medium.com/@kaklotarrahul79/rate-limiting-your-net-api-a-real-production-guide-c4d5fb03eeee?source=rss------programming-5) (2026-11-05)
-- [The Clean Room in the Age of AI: From IBM BIOS to Software Rebuilt in Just a Few Days](https://levysoft.medium.com/the-clean-room-in-the-age-of-ai-from-ibm-bios-to-software-rebuilt-in-just-a-few-days-e500710a0b85?source=rss------programming-5) (2026-11-05)
-- [Stop Prompting AI to Code. There’s a Much Faster Way to Build Software](https://pub.towardsai.net/stop-prompting-ai-to-code-theres-a-much-faster-way-to-build-software-ec5fe416ce5a?source=rss------programming-5) (2026-11-05)
-- [Composio: The Missing Link Between AI Agents and the Apps You Use](https://medium.com/@mikiyas25kelifa/composio-the-missing-link-between-ai-agents-and-the-apps-you-use-e79c954b76d2?source=rss------programming-5) (2026-11-05)
+- [Got Zero Ideas? Here Are 50 Low-Cost, High-Margin Products to Launch on Shopify Today](https://medium.com/@ahmedkabir6611/got-zero-ideas-here-are-50-low-cost-high-margin-products-to-launch-on-shopify-today-c2a033678c66?source=rss------programming-5) (2026-11-06)
+- [My 300s Timeout Killed 8 of 9 Runs](https://medium.com/@coolercoder/my-300s-timeout-killed-8-of-9-runs-9769115d39bc?source=rss------programming-5) (2026-11-06)
+- [json คือ อะไร หน้าตา ชนิดข้อมูล 6 แบบ ใช้กับ JS และ Python](https://medium.com/@phumkaewkla/what-is-json-390f5abdeef3?source=rss------programming-5) (2026-11-06)
+- [Minimalist Dev Setup 2026: Terminal, CLI Agent, and Git Hooks on Windows and Linux](https://towardsdev.com/minimalist-dev-setup-2026-terminal-cli-agent-and-git-hooks-on-windows-and-linux-c541bd6761ba?source=rss------programming-5) (2026-11-06)
+- [ 為什麼網上抄的 Code 行到、用到，仍然不夠？Developer 最終還是要理解、要學習](https://medium.com/@mindsteps.alex/%E7%82%BA%E4%BB%80%E9%BA%BC%E7%B6%B2%E4%B8%8A%E6%8A%84%E7%9A%84-code-%E8%A1%8C%E5%88%B0-%E7%94%A8%E5%88%B0-%E4%BB%8D%E7%84%B6%E4%B8%8D%E5%A4%A0-developer-%E6%9C%80%E7%B5%82%E9%82%84%E6%98%AF%E8%A6%81%E7%90%86%E8%A7%A3-%E8%A6%81%E5%AD%B8%E7%BF%92-75e23b2e5c89?source=rss------programming-5) (2026-11-06)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
+- [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
+- [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
 - [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
-- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
-- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
-- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/) (2026-10-20)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents](https://www.docker.com/blog/docker-sandboxes-vs-containers/) (2026-11-06)
 - [Docker and ActiveState Extending Secure Defaults to the Packages Developers Install](https://www.docker.com/blog/docker-activestate-trusted-content/) (2026-11-05)
 - [CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program](https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/) (2026-11-05)
 - [The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era](https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/) (2026-11-02)
 - [Where should your code live in a Docker Sandbox?](https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/) (2026-11-02)
-- [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/) (2026-10-29)
 
 </details>
 
@@ -363,9 +363,9 @@
 
 - [Token Pass credit now applies automatically across AI Gateway](https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway) (2026-11-06)
 - [Vercel Schedules is now in public beta](https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta) (2026-11-05)
+- [Gemini Omni 1.2 Flash now available on AI Gateway](https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway) (2026-11-05)
 - [Workflow SDK adds idempotent starts](https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk) (2026-11-04)
 - [Kimi K3.1 Pro now has more ZDR providers on AI Gateway](https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway) (2026-11-04)
-- [Introducing Vercel Schedules](https://vercel.com/blog/introducing-vercel-schedules) (2026-11-04)
 
 </details>
 
@@ -384,6 +384,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to audit what your AI agent knows about a customer
+](
+https://www.twilio.com/en-us/blog/insights/ai-agent-audit-trail
+) (2026-11-05)
+- [
+How brands start trusted conversations on Apple Messages for Business 
+](
+https://www.twilio.com/en-us/blog/products/launches/how-brands-start-trusted-conversations-on-apple-messages-for-bus
+) (2026-11-05)
+- [
+Why We Expanded our Internship Program this Year
+](
+https://www.twilio.com/en-us/blog/company/inside-twilio/intern-program-expansion-2026
+) (2026-11-05)
+- [
 Best Practices for Conversation Relay Provider Failover
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover
@@ -393,21 +408,6 @@ Build vs. buy: How to decide for your orchestration layer
 ](
 https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer
 ) (2026-11-04)
-- [
-Contact center analytics: 6 metrics for AI and human agents
-](
-https://www.twilio.com/en-us/blog/insights/contact-center-analytics
-) (2026-11-04)
-- [
-What is agent assist? How real-time AI helps human agents
-](
-https://www.twilio.com/en-us/blog/insights/agent-assist
-) (2026-11-03)
-- [
-Build an AI Voice Assistant with Twilio Voice and Media Streams, Rime's Prism, and Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node
-) (2026-10-30)
 
 </details>
 
@@ -626,11 +626,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-age
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/) (2026-11-06)
 - [Decorators for Timing, Retries, Caching, and Validation in Python](https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/) (2026-11-05)
 - [How to Train Your own Decision Model like Jev using Unsloth](https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/) (2026-11-04)
 - [Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/) (2026-11-03)
 - [The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks](https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/) (2026-11-02)
-- [7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)](https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/) (2026-10-30)
 
 </details>
 
@@ -642,6 +642,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-age
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
+- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
+- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
