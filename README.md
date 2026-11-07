@@ -9,40 +9,40 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) (2026-11-07)
+- [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/) (2026-11-07)
+- [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/) (2026-11-07)
+- [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/) (2026-11-07)
 - [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/) (2026-11-07)
-- [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/) (2026-11-07)
-- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) (2026-11-07)
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) (2026-11-06)
-- [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) (2026-11-07)
-- [Upload Your RAM](https://uploadyourram.org) (2026-11-07)
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) (2026-11-07)
-- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/) (2026-11-07)
-- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/) (2026-11-07)
+- [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/) (2026-11-07)
+- [Show HN: Where Were We](https://wherewerewe.app/) (2026-11-07)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (2026-11-07)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (2026-11-07)
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) (2026-11-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) (2026-11-06)
-- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) (2026-11-06)
-- [Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news) (2026-11-06)
-- [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale) (2026-11-06)
-- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-11-06)
+- [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions) (2026-11-07)
+- [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale) (2026-11-07)
+- [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview) (2026-11-07)
+- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) (2026-11-07)
+- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) (2026-11-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [The migration that transformed Africa's languages, genes, and cultures](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) (2026-11-07)
+- [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) (2026-11-07)
 - [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/) (2026-11-07)
 - [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) (2026-11-06)
 - [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) (2026-11-06)
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The World Model Trilemma: Pixels, Splats, and Symbolic Physics](https://dev.to/ganesh_rajendran_art/the-world-model-trilemma-pixels-splats-and-symbolic-physics-59ci) (2026-11-07)
-- [How to Blur Faces in Photos Online (Free, No Signup)](https://dev.to/itztehseen/how-to-blur-faces-in-photos-online-free-no-signup-3iim) (2026-11-07)
-- [One task, one cell: I built a disposable sandbox that runs agent tasks with the network off](https://dev.to/techdevfun/one-task-one-cell-i-built-a-disposable-sandbox-that-runs-agent-tasks-with-the-network-off-4fe5) (2026-11-07)
-- [Phone photos are weak evidence: EXIF is editable in 30 seconds](https://dev.to/tony_hui_c4e5c0665a0d5b74/phone-photos-are-weak-evidence-exif-is-editable-in-30-seconds-4pg1) (2026-11-07)
-- [My friends kept pitching games nobody built. So I gave our group chat three AI teammates.](https://dev.to/jatinvats123/my-friends-kept-pitching-games-nobody-built-so-i-gave-our-group-chat-three-ai-teammates-11c1) (2026-11-07)
+- [There is no fastest AI API: 100 days of probing 44 providers from 4 regions](https://dev.to/max_bob/there-is-no-fastest-ai-api-100-days-of-probing-44-providers-from-4-regions-4oc9) (2026-11-07)
+- [GDPR-Compliant Password Reset Email Service: Functionality Tests for Support Teams](https://dev.to/gideonsterling9643/gdpr-compliant-password-reset-email-service-functionality-tests-for-support-teams-24nj) (2026-11-07)
+- [Cara menyerahkan pekerjaan dari osFoundry ke chat Claude yang tertaut](https://dev.to/bbt-id/cara-menyerahkan-pekerjaan-dari-osfoundry-ke-chat-claude-yang-tertaut-2cl7) (2026-11-07)
+- [AuditDex: Building an AI-Powered Audit Intelligence System with Persistent Memory Using Hindsight](https://dev.to/nischithhg5maker/auditdex-building-an-ai-powered-audit-intelligence-system-with-persistent-memory-using-hindsight-3f8n) (2026-11-07)
+- [I built a private video-to-GIF converter that runs entirely in the browser](https://dev.to/saidmounaim/i-built-a-private-video-to-gif-converter-that-runs-entirely-in-the-browser-3gcb) (2026-11-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Welcome to My Affiliate Marketing World! ](https://medium.com/@estheragyapong883/welcome-to-my-affiliate-marketing-world-f2e5bb63402d?source=rss------programming-5) (2026-11-07)
-- [I Built the Same Desktop App Six Times. Here’s What Each Framework Really Costs.](https://medium.com/@adarsonmz/i-built-the-same-desktop-app-six-times-heres-what-each-framework-really-costs-970aa493441b?source=rss------programming-5) (2026-11-07)
-- [My Best Engineer Left a $240,000 Job. The Reason Was Sitting in Our Slack History](https://python.plainenglish.io/my-best-engineer-left-a-240-000-job-the-reason-was-sitting-in-our-slack-history-29a97162ea44?source=rss------programming-5) (2026-11-07)
-- [Mesh Gradients in Jetpack Compose — Finally!](https://medium.com/@androidlab/mesh-gradients-in-jetpack-compose-finally-4e102ba8f114?source=rss------programming-5) (2026-11-07)
-- [What Happens When You Type import x: Inside Python's Import System](https://medium.com/@kirantechblog/what-happens-when-you-type-import-x-inside-pythons-import-system-05db503bea59?source=rss------programming-5) (2026-11-07)
+- [Your AI Coding Assistant Is a Brilliant New Hire Who Forgets Everything Overnight](https://medium.com/@basitchingisi/your-ai-coding-assistant-is-a-brilliant-new-hire-who-forgets-everything-overnight-0183c1e8412f?source=rss------programming-5) (2026-11-07)
+- [We Replaced Our Senior Engineer With an AI Agent. The Savings Lasted 43 Days](https://medium.com/javarevisited/we-replaced-our-senior-engineer-with-an-ai-agent-the-savings-lasted-43-days-31265c8d1f60?source=rss------programming-5) (2026-11-07)
+- [Kafka Consumer Lag Hit 2 Million. Our Senior Engineer Added More Consumers. It Got Worse](https://medium.com/engineering-playbook/kafka-consumer-lag-hit-2-million-our-senior-engineer-added-more-consumers-it-got-worse-252c88caaf46?source=rss------programming-5) (2026-11-07)
+- [We Fired the Engineer Who Kept Saying No. Three Months Later, His Warnings Became Incidents](https://medium.com/engineering-playbook/we-fired-the-engineer-who-kept-saying-no-three-months-later-his-warnings-became-incidents-701b6a6268b5?source=rss------programming-5) (2026-11-07)
+- [The Senior Engineer Who Refused a $40,000 Raise Made Management Very Uncomfortable](https://medium.com/engineering-playbook/the-senior-engineer-who-refused-a-40-000-raise-made-management-very-uncomfortable-f80c06adfc27?source=rss------programming-5) (2026-11-07)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway](https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway) (2026-11-07)
 - [Chat SDK agents can now stream generative UI with json-render](https://vercel.com/changelog/json-render-and-chat-sdk-agents) (2026-11-06)
 - [AI Gateway adds DeepSeek Search and Fetch tools](https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools) (2026-11-06)
 - [Vercel CLI can now set new projects to expire](https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire) (2026-11-06)
 - [Vercel Tracing is now generally available](https://vercel.com/changelog/vercel-tracing-is-now-generally-available) (2026-11-06)
-- [Token Pass credit now applies automatically across AI Gateway](https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway) (2026-11-06)
 
 </details>
 
@@ -593,11 +593,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval](https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/) (2026-11-07)
+- [How to Prioritize Product Feedback by Revenue at Risk](https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/) (2026-11-07)
 - [How to Measure AI Adoption, Performance, and ROI With 12 KPIs](https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/) (2026-11-06)
 - [How to Manage Python Environments with uv Instead of venv and pip](https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/) (2026-11-06)
 - [Build Your First Multi-Tool AI Agent with Ollama and Python](https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/) (2026-11-06)
-- [Give Your Python AI Agent Persistent Memory with One JSON File](https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/) (2026-11-06)
-- [How to Report for 100+ Clients With One Semantic Model](https://towardsdatascience.com/how-to-report-for-100-clients-with-one-semantic-model/) (2026-11-05)
 
 </details>
 
@@ -626,11 +626,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Floating-Point Precision and Its Effects to Model Inference](https://machinelearningmastery.com/floating-point-precision/) (2026-11-07)
 - [DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once](https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/) (2026-11-06)
 - [Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/) (2026-11-06)
 - [Decorators for Timing, Retries, Caching, and Validation in Python](https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/) (2026-11-05)
 - [How to Train Your own Decision Model like Jev using Unsloth](https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/) (2026-11-04)
-- [Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/) (2026-11-03)
 
 </details>
 
@@ -642,17 +642,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
-- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
-- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
