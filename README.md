@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/) (2026-11-07)
 - [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/) (2026-11-07)
 - [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) (2026-11-07)
 - [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) (2026-11-06)
 - [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/) (2026-11-06)
-- [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html) (2026-11-07)
-- [The AI sell-off compared to well-known stock market crashes](https://www.kadoa.com/companies/insights/ai-selloff-perspective) (2026-11-07)
-- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) (2026-11-07)
-- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) (2026-11-06)
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (2026-11-06)
+- [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) (2026-11-07)
+- [Upload Your RAM](https://uploadyourram.org) (2026-11-07)
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) (2026-11-07)
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/) (2026-11-07)
+- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/) (2026-11-07)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The migration that transformed Africa's languages, genes, and cultures](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) (2026-11-07)
+- [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/) (2026-11-07)
 - [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) (2026-11-06)
 - [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) (2026-11-06)
 - [Re-releases of Wing Commander, Ultima titles hit Steam and GOG](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/) (2026-11-06)
-- [Chainalysis says hackers stole credentials and tokens for all of its customers](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/) (2026-11-06)
-- [Earth's churning mantle may have created the Great Unconformity](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/) (2026-11-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [gRPC Explained: APIs That Speak in Binary](https://dev.to/practicaldevblog/grpc-explained-apis-that-speak-in-binary-ieg) (2026-11-07)
-- [My AI Math Tutor Started Making Up Pictures Instead of Drawing Them](https://dev.to/jonscott79/my-ai-math-tutor-started-making-up-pictures-instead-of-drawing-them-18e0) (2026-11-07)
-- [WebSockets Explained: Real-Time Data Without Polling](https://dev.to/practicaldevblog/websockets-explained-real-time-data-without-polling-2f23) (2026-11-07)
-- [Copilot vs Cursor isn't really a pricing question](https://dev.to/spicykim/copilot-vs-cursor-isnt-really-a-pricing-question-3b90) (2026-11-07)
-- [I've added printing to YuHex, my hex editor. Having built it, I do wonder: does anyone still want binary dumps on paper these days? Magazines used to publish dump listings.](https://dev.to/yutakahirata/ive-added-printing-to-yuhex-my-hex-editor-having-built-it-i-do-wonder-does-anyone-still-want-10ic) (2026-11-07)
+- [The World Model Trilemma: Pixels, Splats, and Symbolic Physics](https://dev.to/ganesh_rajendran_art/the-world-model-trilemma-pixels-splats-and-symbolic-physics-59ci) (2026-11-07)
+- [How to Blur Faces in Photos Online (Free, No Signup)](https://dev.to/itztehseen/how-to-blur-faces-in-photos-online-free-no-signup-3iim) (2026-11-07)
+- [One task, one cell: I built a disposable sandbox that runs agent tasks with the network off](https://dev.to/techdevfun/one-task-one-cell-i-built-a-disposable-sandbox-that-runs-agent-tasks-with-the-network-off-4fe5) (2026-11-07)
+- [Phone photos are weak evidence: EXIF is editable in 30 seconds](https://dev.to/tony_hui_c4e5c0665a0d5b74/phone-photos-are-weak-evidence-exif-is-editable-in-30-seconds-4pg1) (2026-11-07)
+- [My friends kept pitching games nobody built. So I gave our group chat three AI teammates.](https://dev.to/jatinvats123/my-friends-kept-pitching-games-nobody-built-so-i-gave-our-group-chat-three-ai-teammates-11c1) (2026-11-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [One Failed Request Threw Away 999 Good Ones: Promise.all vs allSettled](https://martin128.medium.com/one-failed-request-threw-away-999-good-ones-promise-all-vs-allsettled-a55556edebeb?source=rss------programming-5) (2026-11-07)
-- [Your Compiler Is Smarter Than You Think. It May Be Removing Your Code.](https://medium.com/@rajkanjariya2020/your-compiler-is-smarter-than-you-think-it-may-be-removing-your-code-12eb5a50e218?source=rss------programming-5) (2026-11-07)
-- [Debugging a Log Filter With a Regex Tester](https://medium.com/@toolaska/debugging-a-log-filter-with-a-regex-tester-eb54723282a7?source=rss------programming-5) (2026-11-07)
-- [Stop Fighting Layouts: A Practical Guide to W3.CSS 6 Grid Helpers](https://javascript.plainenglish.io/stop-fighting-layouts-a-practical-guide-to-w3-css-6-grid-helpers-6253c2c32591?source=rss------programming-5) (2026-11-07)
-- [Python Modules: Use Code Other People Already Wrote](https://medium.com/@ajaynarayan60/python-modules-use-code-other-people-already-wrote-1480b84828a4?source=rss------programming-5) (2026-11-07)
+- [Welcome to My Affiliate Marketing World! ](https://medium.com/@estheragyapong883/welcome-to-my-affiliate-marketing-world-f2e5bb63402d?source=rss------programming-5) (2026-11-07)
+- [I Built the Same Desktop App Six Times. Here’s What Each Framework Really Costs.](https://medium.com/@adarsonmz/i-built-the-same-desktop-app-six-times-heres-what-each-framework-really-costs-970aa493441b?source=rss------programming-5) (2026-11-07)
+- [My Best Engineer Left a $240,000 Job. The Reason Was Sitting in Our Slack History](https://python.plainenglish.io/my-best-engineer-left-a-240-000-job-the-reason-was-sitting-in-our-slack-history-29a97162ea44?source=rss------programming-5) (2026-11-07)
+- [Mesh Gradients in Jetpack Compose — Finally!](https://medium.com/@androidlab/mesh-gradients-in-jetpack-compose-finally-4e102ba8f114?source=rss------programming-5) (2026-11-07)
+- [What Happens When You Type import x: Inside Python's Import System](https://medium.com/@kirantechblog/what-happens-when-you-type-import-x-inside-pythons-import-system-05db503bea59?source=rss------programming-5) (2026-11-07)
 
 </details>
 
@@ -483,11 +483,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [Introducing GraphiQL 6](https://graphql.org/blog/2026-11-07-introducing-graphiql-6) (2026-11-07)
 - [GraphQL Foundation Budget Report: 2026 Update](https://graphql.org/blog/2026-11-06-graphql-foundation-budget-report-2026-update) (2026-11-06)
 - [Announcing the H1 2026 Grants](https://graphql.org/blog/2026-06-16-announcing-h1-2026-graphql-community-grants) (2026-06-16)
 - [Introducing GraphQL.js v17](https://graphql.org/blog/2026-06-15-introducing-graphql-js-v17) (2026-06-15)
 - [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps) (2026-06-01)
-- [Meet the latest 2026 Ambassador Cohort](https://graphql.org/blog/2026-04-16-meet-the-spring-ambassador-cohort) (2026-04-16)
 
 </details>
 
