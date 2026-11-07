@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/) (2026-11-07)
+- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) (2026-11-07)
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) (2026-11-06)
 - [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/) (2026-11-06)
 - [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/) (2026-11-06)
-- [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/) (2026-11-06)
-- [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/) (2026-11-06)
-- [Pentagon offers battery startup 6K $250M loan to build US factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) (2026-11-06)
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) (2026-11-06)
-- [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) (2026-11-06)
-- [As the Japanese countryside empties out, wildlife is disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity) (2026-11-06)
-- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) (2026-11-06)
+- [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html) (2026-11-07)
+- [The AI sell-off compared to well-known stock market crashes](https://www.kadoa.com/companies/insights/ai-selloff-perspective) (2026-11-07)
+- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) (2026-11-07)
+- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) (2026-11-06)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (2026-11-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) (2026-11-06)
+- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) (2026-11-06)
+- [Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news) (2026-11-06)
 - [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale) (2026-11-06)
 - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-11-06)
-- [Shure’s popular podcasting and streaming mic is almost $50 off](https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale) (2026-11-06)
-- [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote) (2026-11-06)
-- [Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) (2026-11-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) (2026-11-06)
+- [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) (2026-11-06)
+- [Re-releases of Wing Commander, Ultima titles hit Steam and GOG](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/) (2026-11-06)
 - [Chainalysis says hackers stole credentials and tokens for all of its customers](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/) (2026-11-06)
 - [Earth's churning mantle may have created the Great Unconformity](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/) (2026-11-06)
-- [Nvidia hardware worth $11.4M vanished between Oakland and Texas](https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/) (2026-11-06)
-- [Developer ends lucrative screensaver deal with Roku because Fox bought it](https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/) (2026-11-06)
-- [FAA to finally ditch floppy disks in what it calls "historic" tech upgrade](https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/) (2026-11-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LLM Returns Invalid JSON Once in a While: Structured Outputs vs Validate-and-Retry](https://dev.to/libme/llm-returns-invalid-json-once-in-a-while-structured-outputs-vs-validate-and-retry-5faj) (2026-11-06)
-- [Come Code, IDE e Wiki di osFoundry rendono revisionabile il lavoro di più agenti AI in parallelo](https://dev.to/tauchi-it/come-code-ide-e-wiki-di-osfoundry-rendono-revisionabile-il-lavoro-di-piu-agenti-ai-in-parallelo-15oh) (2026-11-06)
-- [Persistent Vectorized Agent Memory: SQLite FTS5 to Cloud LibSQL](https://dev.to/nindhita/persistent-vectorized-agent-memory-sqlite-fts5-to-cloud-libsql-ho8) (2026-11-06)
-- [An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners](https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp) (2026-11-06)
-- [Why I Built a Native Telegram Booking Mini App (Go + React) to Stop the "What Time Works for You?" DM Ping-Pong](https://dev.to/serj_serj_830e7254a86d7ea/why-i-built-a-native-telegram-booking-mini-app-go-react-to-stop-the-what-time-works-for-you-1khb) (2026-11-06)
+- [gRPC Explained: APIs That Speak in Binary](https://dev.to/practicaldevblog/grpc-explained-apis-that-speak-in-binary-ieg) (2026-11-07)
+- [My AI Math Tutor Started Making Up Pictures Instead of Drawing Them](https://dev.to/jonscott79/my-ai-math-tutor-started-making-up-pictures-instead-of-drawing-them-18e0) (2026-11-07)
+- [WebSockets Explained: Real-Time Data Without Polling](https://dev.to/practicaldevblog/websockets-explained-real-time-data-without-polling-2f23) (2026-11-07)
+- [Copilot vs Cursor isn't really a pricing question](https://dev.to/spicykim/copilot-vs-cursor-isnt-really-a-pricing-question-3b90) (2026-11-07)
+- [I've added printing to YuHex, my hex editor. Having built it, I do wonder: does anyone still want binary dumps on paper these days? Magazines used to publish dump listings.](https://dev.to/yutakahirata/ive-added-printing-to-yuhex-my-hex-editor-having-built-it-i-do-wonder-does-anyone-still-want-10ic) (2026-11-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Happens When AI Can Build Entire Apps Without Humans?](https://medium.com/artificial-intel-ligence-playground/what-happens-when-ai-can-build-entire-apps-without-humans-42fe43ec2662?source=rss------programming-5) (2026-11-06)
-- [Our CEO Asked Why Our Best Engineer Hadn’t Written Code in 90 Days. His Answer Cost Us $4 Million](https://medium.com/engineering-playbook/our-ceo-asked-why-our-best-engineer-hadnt-written-code-in-90-days-his-answer-cost-us-4-million-2d2f62eba283?source=rss------programming-5) (2026-11-06)
-- [Our Best Engineer Failed His Promotion Interview. The Guy Who Passed Asked Him for Help](https://medium.com/engineering-playbook/our-best-engineer-failed-his-promotion-interview-the-guy-who-passed-asked-him-for-help-90a1add3a83b?source=rss------programming-5) (2026-11-06)
-- [Our CTO Fired the Engineer Who Said Our AI Product Was Fake. Three Months Later, He Was Right](https://medium.com/engineering-playbook/our-cto-fired-the-engineer-who-said-our-ai-product-was-fake-three-months-later-he-was-right-576fde60167c?source=rss------programming-5) (2026-11-06)
-- [Our CEO Gave a Junior Engineer a $120,000 Raise. The Staff Engineer Who Trained Him Quit](https://medium.com/engineering-playbook/our-ceo-gave-a-junior-engineer-a-120-000-raise-the-staff-engineer-who-trained-him-quit-d32c5d1ce750?source=rss------programming-5) (2026-11-06)
+- [One Failed Request Threw Away 999 Good Ones: Promise.all vs allSettled](https://martin128.medium.com/one-failed-request-threw-away-999-good-ones-promise-all-vs-allsettled-a55556edebeb?source=rss------programming-5) (2026-11-07)
+- [Your Compiler Is Smarter Than You Think. It May Be Removing Your Code.](https://medium.com/@rajkanjariya2020/your-compiler-is-smarter-than-you-think-it-may-be-removing-your-code-12eb5a50e218?source=rss------programming-5) (2026-11-07)
+- [Debugging a Log Filter With a Regex Tester](https://medium.com/@toolaska/debugging-a-log-filter-with-a-regex-tester-eb54723282a7?source=rss------programming-5) (2026-11-07)
+- [Stop Fighting Layouts: A Practical Guide to W3.CSS 6 Grid Helpers](https://javascript.plainenglish.io/stop-fighting-layouts-a-practical-guide-to-w3-css-6-grid-helpers-6253c2c32591?source=rss------programming-5) (2026-11-07)
+- [Python Modules: Use Code Other People Already Wrote](https://medium.com/@ajaynarayan60/python-modules-use-code-other-people-already-wrote-1480b84828a4?source=rss------programming-5) (2026-11-07)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Chat SDK agents can now stream generative UI with json-render](https://vercel.com/changelog/json-render-and-chat-sdk-agents) (2026-11-06)
+- [AI Gateway adds DeepSeek Search and Fetch tools](https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools) (2026-11-06)
 - [Vercel CLI can now set new projects to expire](https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire) (2026-11-06)
 - [Vercel Tracing is now generally available](https://vercel.com/changelog/vercel-tracing-is-now-generally-available) (2026-11-06)
 - [Token Pass credit now applies automatically across AI Gateway](https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway) (2026-11-06)
-- [Ampersand from Humans& now available on AI Gateway](https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway) (2026-11-06)
-- [Vercel Schedules is now in public beta](https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta) (2026-11-05)
 
 </details>
 
@@ -642,6 +642,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
+- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
+- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
