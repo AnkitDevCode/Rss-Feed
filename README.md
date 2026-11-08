@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) (2026-11-07)
 - [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) (2026-11-07)
 - [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/) (2026-11-07)
 - [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/) (2026-11-07)
 - [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/) (2026-11-07)
-- [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/) (2026-11-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/) (2026-11-07)
-- [Show HN: Where Were We](https://wherewerewe.app/) (2026-11-07)
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (2026-11-07)
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (2026-11-07)
-- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) (2026-11-07)
+- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast) (2026-11-08)
+- [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/) (2026-11-07)
+- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) (2026-11-07)
+- [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/) (2026-11-07)
+- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) (2026-11-07)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [There is no fastest AI API: 100 days of probing 44 providers from 4 regions](https://dev.to/max_bob/there-is-no-fastest-ai-api-100-days-of-probing-44-providers-from-4-regions-4oc9) (2026-11-07)
-- [GDPR-Compliant Password Reset Email Service: Functionality Tests for Support Teams](https://dev.to/gideonsterling9643/gdpr-compliant-password-reset-email-service-functionality-tests-for-support-teams-24nj) (2026-11-07)
-- [Cara menyerahkan pekerjaan dari osFoundry ke chat Claude yang tertaut](https://dev.to/bbt-id/cara-menyerahkan-pekerjaan-dari-osfoundry-ke-chat-claude-yang-tertaut-2cl7) (2026-11-07)
-- [AuditDex: Building an AI-Powered Audit Intelligence System with Persistent Memory Using Hindsight](https://dev.to/nischithhg5maker/auditdex-building-an-ai-powered-audit-intelligence-system-with-persistent-memory-using-hindsight-3f8n) (2026-11-07)
-- [I built a private video-to-GIF converter that runs entirely in the browser](https://dev.to/saidmounaim/i-built-a-private-video-to-gif-converter-that-runs-entirely-in-the-browser-3gcb) (2026-11-07)
+- [Digital Approval Workflow: How to Audit Your Current Setup](https://dev.to/ts888/digital-approval-workflow-how-to-audit-your-current-setup-4ch3) (2026-11-08)
+- [Auto-detecting file types taught me guesses need an escape hatch](https://dev.to/imapphelp/auto-detecting-file-types-taught-me-guesses-need-an-escape-hatch-38ic) (2026-11-08)
+- [Apache APISIX Admin Exposure: The Gap Between a 9180 Listener and a Key-Protected Control Plane](https://dev.to/facilishz/apache-apisix-admin-exposure-the-gap-between-a-9180-listener-and-a-key-protected-control-plane-30hn) (2026-11-08)
+- [AI Ships Fast, but Focus Drifts](https://dev.to/joyet/ai-ships-fast-but-focus-drifts-1ocm) (2026-11-08)
+- [Why coding agent memory files go stale - and what teams should do instead](https://dev.to/naman_here/why-coding-agent-memory-files-go-stale-and-what-teams-should-do-instead-1659) (2026-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your AI Coding Assistant Is a Brilliant New Hire Who Forgets Everything Overnight](https://medium.com/@basitchingisi/your-ai-coding-assistant-is-a-brilliant-new-hire-who-forgets-everything-overnight-0183c1e8412f?source=rss------programming-5) (2026-11-07)
-- [We Replaced Our Senior Engineer With an AI Agent. The Savings Lasted 43 Days](https://medium.com/javarevisited/we-replaced-our-senior-engineer-with-an-ai-agent-the-savings-lasted-43-days-31265c8d1f60?source=rss------programming-5) (2026-11-07)
-- [Kafka Consumer Lag Hit 2 Million. Our Senior Engineer Added More Consumers. It Got Worse](https://medium.com/engineering-playbook/kafka-consumer-lag-hit-2-million-our-senior-engineer-added-more-consumers-it-got-worse-252c88caaf46?source=rss------programming-5) (2026-11-07)
-- [We Fired the Engineer Who Kept Saying No. Three Months Later, His Warnings Became Incidents](https://medium.com/engineering-playbook/we-fired-the-engineer-who-kept-saying-no-three-months-later-his-warnings-became-incidents-701b6a6268b5?source=rss------programming-5) (2026-11-07)
-- [The Senior Engineer Who Refused a $40,000 Raise Made Management Very Uncomfortable](https://medium.com/engineering-playbook/the-senior-engineer-who-refused-a-40-000-raise-made-management-very-uncomfortable-f80c06adfc27?source=rss------programming-5) (2026-11-07)
+- [I Gave an Agent a Flaky Refund Tool — It Overpaid $2,230, and My UUID Idempotency Key Changed…](https://medium.com/@anibha88/i-gave-an-agent-a-flaky-refund-tool-it-overpaid-2-230-and-my-uuid-idempotency-key-changed-ccfd9a11d1b2?source=rss------programming-5) (2026-11-08)
+- [On-Device AI in the Browser: What Opera’s WebAI Means for Web Developers](https://medium.com/@thedeepammishra/on-device-ai-in-the-browser-what-operas-webai-means-for-web-developers-e17a98a2f9ff?source=rss------programming-5) (2026-11-08)
+- [The Man at the Intersection of Code and Core Politics: Why I Write](https://medium.com/@anandzade09/the-man-at-the-intersection-of-code-and-core-politics-why-i-write-59a0a47c20bb?source=rss------programming-5) (2026-11-08)
+- [Stop Forcing Clean Architecture in Go — You’re adding complexity not clarity](https://blog.stackademic.com/stop-forcing-clean-architecture-in-go-youre-adding-complexity-not-clarity-1a654461b735?source=rss------programming-5) (2026-11-08)
+- [A tiny habit for pay-per-call APIs](https://medium.com/@glauccoeng/a-tiny-habit-for-pay-per-call-apis-098d4a7cd068?source=rss------programming-5) (2026-11-08)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
 - [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
 - [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
 - [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
-- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 
 </details>
 
@@ -642,6 +642,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
+- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
+- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
