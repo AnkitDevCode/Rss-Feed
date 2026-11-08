@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) (2026-11-07)
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) (2026-11-07)
-- [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/) (2026-11-07)
-- [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/) (2026-11-07)
-- [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/) (2026-11-07)
+- [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/) (2026-11-08)
+- [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/) (2026-11-08)
+- [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/) (2026-11-08)
+- [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/) (2026-11-08)
+- [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/) (2026-11-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Person of Interest](https://krthr.co/person-of-interest/) (2026-11-08)
-- [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered) (2026-11-08)
-- [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/) (2026-11-08)
-- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) (2026-11-08)
-- [GitHub Down Again?](https://github.com/torvalds/linux) (2026-11-08)
+- [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) (2026-11-08)
+- [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15) (2026-11-08)
+- [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough) (2026-11-08)
+- [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry) (2026-11-08)
+- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (2026-11-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions) (2026-11-07)
-- [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale) (2026-11-07)
-- [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview) (2026-11-07)
-- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) (2026-11-07)
-- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) (2026-11-07)
+- [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos) (2026-11-08)
+- [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) (2026-11-08)
+- [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) (2026-11-08)
+- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) (2026-11-08)
+- [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale) (2026-11-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Physicists listened to electrical noise to crack a superconductor mystery](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/) (2026-11-08)
 - [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) (2026-11-07)
 - [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/) (2026-11-07)
 - [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) (2026-11-06)
 - [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) (2026-11-06)
-- [Re-releases of Wing Commander, Ultima titles hit Steam and GOG](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/) (2026-11-06)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My logo heals itself. Then I erased it into a stick.](https://dev.to/grumbash/my-logo-heals-itself-then-i-erased-it-into-a-stick-34p0) (2026-11-08)
-- [Building a Fair Restaurant Bill Splitter: Rules, Rounding, and JavaScript](https://dev.to/webtoolsedge/building-a-fair-restaurant-bill-splitter-rules-rounding-and-javascript-5cdl) (2026-11-08)
-- [De 80 000 échantillons UK Biobank à la VR moléculaire : mon voyage du terminal au casque Quest Il y a trois semaines, en…](https://dev.to/ashish_624379625242c5d263/de-80-000-echantillons-uk-biobank-a-la-vr-moleculaire-mon-voyage-du-terminal-au-casque-quest-il-2jmd) (2026-11-08)
-- [DBCC CHECKDB: How to Detect and Handle SQL Server Database Corruption](https://dev.to/lingamsuyambu/dbcc-checkdb-how-to-detect-and-handle-sql-server-database-corruption-4aob) (2026-11-08)
-- [I measured 528 sites' robots.txt: two thirds blocking GPTBot also block the crawler that cites them](https://dev.to/orenhachamlab/i-measured-528-sites-robotstxt-two-thirds-blocking-gptbot-also-block-the-crawler-that-cites-them-13dn) (2026-11-08)
+- [Temperature 0, same model, two different GPUs: find the word that splits them, then pin it](https://dev.to/dekita/temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it-2foh) (2026-11-08)
+- [Orbura: a camera check-in that becomes a baseline — Presage SmartSpectra SDK Challenge](https://dev.to/papajams/orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge-3ljm) (2026-11-08)
+- [Runique 4.0: a typed admin, column-level permissions, and forms that write correctly](https://dev.to/seballiot/runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly-3bog) (2026-11-08)
+- [Tripadvisor Expects SEO Headwinds to Persist Into 2027](https://dev.to/alifar/tripadvisor-expects-seo-headwinds-to-persist-into-2027-53lm) (2026-11-08)
+- [Telegram bot token in your contact form? Anyone can copy it](https://dev.to/formgongteam/telegram-bot-token-in-your-contact-form-anyone-can-copy-it-3ifj) (2026-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Our AI Coding Agent Passed Every Test. Then It Shipped a Security Hole to Production](https://medium.com/engineering-playbook/our-ai-coding-agent-passed-every-test-then-it-shipped-a-security-hole-to-production-8ee0ec4dfeb0?source=rss------programming-5) (2026-11-08)
-- [Our Senior Engineer Said PostgreSQL Would Prevent Double Booking. Two Customers Got the Same Room](https://medium.com/engineering-playbook/our-senior-engineer-said-postgresql-would-prevent-double-booking-two-customers-got-the-same-room-621d5f4585e6?source=rss------programming-5) (2026-11-08)
-- [Our Staff Engineer Scaled Kubernetes From 12 Pods to 200. Production Got 14 Times Slower](https://medium.com/engineering-playbook/our-staff-engineer-scaled-kubernetes-from-12-pods-to-200-production-got-14-times-slower-b4c46d919958?source=rss------programming-5) (2026-11-08)
-- [Fuzis de assalto Kalashnikov: a família AK-200](https://kawannedayaraoliveira.medium.com/fuzis-de-assalto-kalashnikov-a-fam%C3%ADlia-ak-200-d0de338f721b?source=rss------programming-5) (2026-11-08)
-- [What I Wish I’d Known Before My First Code Review](https://medium.com/@bharat.chandera/what-i-wish-id-known-before-my-first-code-review-c86408052e41?source=rss------programming-5) (2026-11-08)
+- [How to Architect Your Data So Encoding Never Becomes a Problem](https://medium.com/@edgycorner/how-to-architect-your-data-so-encoding-never-becomes-a-problem-d8a6fe74947c?source=rss------programming-5) (2026-11-08)
+- [How I Estimate Capacity in System Design Interviews Without Guessing](https://medium.com/javarevisited/how-i-estimate-capacity-in-system-design-interviews-without-guessing-fb96dc7cc77f?source=rss------programming-5) (2026-11-08)
+- [Advent of Code 2025 Day 10](https://medium.com/kabbage-patch-notes/advent-of-code-2025-day-10-3017d443915f?source=rss------programming-5) (2026-11-08)
+- [The $40 Trillion Tech Stack Nobody in Silicon Valley Talks About](https://medium.com/@snake09031999/the-40-trillion-tech-stack-nobody-in-silicon-valley-talks-about-a608a9f1833c?source=rss------programming-5) (2026-11-08)
+- [I Can Design Distributed Systems. Why Do I Freeze in System Design Interviews?](https://medium.com/engineering-playbook/i-can-design-distributed-systems-why-do-i-freeze-in-system-design-interviews-5704927b0608?source=rss------programming-5) (2026-11-08)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
+- [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
+- [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
 - [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
-- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
-- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
-- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 
 </details>
 
@@ -593,11 +593,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build Multi-Agent Systems with the OpenAI Agents SDK](https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/) (2026-11-08)
+- [Change One Monty Hall Rule and Five LLMs Still Say Switch](https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/) (2026-11-08)
 - [Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval](https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/) (2026-11-07)
 - [How to Prioritize Product Feedback by Revenue at Risk](https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/) (2026-11-07)
 - [How to Measure AI Adoption, Performance, and ROI With 12 KPIs](https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/) (2026-11-06)
-- [How to Manage Python Environments with uv Instead of venv and pip](https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/) (2026-11-06)
-- [Build Your First Multi-Tool AI Agent with Ollama and Python](https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/) (2026-11-06)
 
 </details>
 
