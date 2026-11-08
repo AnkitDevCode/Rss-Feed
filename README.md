@@ -20,11 +20,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast) (2026-11-08)
-- [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/) (2026-11-07)
-- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) (2026-11-07)
-- [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/) (2026-11-07)
-- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) (2026-11-07)
+- [Person of Interest](https://krthr.co/person-of-interest/) (2026-11-08)
+- [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered) (2026-11-08)
+- [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/) (2026-11-08)
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) (2026-11-08)
+- [GitHub Down Again?](https://github.com/torvalds/linux) (2026-11-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Digital Approval Workflow: How to Audit Your Current Setup](https://dev.to/ts888/digital-approval-workflow-how-to-audit-your-current-setup-4ch3) (2026-11-08)
-- [Auto-detecting file types taught me guesses need an escape hatch](https://dev.to/imapphelp/auto-detecting-file-types-taught-me-guesses-need-an-escape-hatch-38ic) (2026-11-08)
-- [Apache APISIX Admin Exposure: The Gap Between a 9180 Listener and a Key-Protected Control Plane](https://dev.to/facilishz/apache-apisix-admin-exposure-the-gap-between-a-9180-listener-and-a-key-protected-control-plane-30hn) (2026-11-08)
-- [AI Ships Fast, but Focus Drifts](https://dev.to/joyet/ai-ships-fast-but-focus-drifts-1ocm) (2026-11-08)
-- [Why coding agent memory files go stale - and what teams should do instead](https://dev.to/naman_here/why-coding-agent-memory-files-go-stale-and-what-teams-should-do-instead-1659) (2026-11-08)
+- [My logo heals itself. Then I erased it into a stick.](https://dev.to/grumbash/my-logo-heals-itself-then-i-erased-it-into-a-stick-34p0) (2026-11-08)
+- [Building a Fair Restaurant Bill Splitter: Rules, Rounding, and JavaScript](https://dev.to/webtoolsedge/building-a-fair-restaurant-bill-splitter-rules-rounding-and-javascript-5cdl) (2026-11-08)
+- [De 80 000 échantillons UK Biobank à la VR moléculaire : mon voyage du terminal au casque Quest Il y a trois semaines, en…](https://dev.to/ashish_624379625242c5d263/de-80-000-echantillons-uk-biobank-a-la-vr-moleculaire-mon-voyage-du-terminal-au-casque-quest-il-2jmd) (2026-11-08)
+- [DBCC CHECKDB: How to Detect and Handle SQL Server Database Corruption](https://dev.to/lingamsuyambu/dbcc-checkdb-how-to-detect-and-handle-sql-server-database-corruption-4aob) (2026-11-08)
+- [I measured 528 sites' robots.txt: two thirds blocking GPTBot also block the crawler that cites them](https://dev.to/orenhachamlab/i-measured-528-sites-robotstxt-two-thirds-blocking-gptbot-also-block-the-crawler-that-cites-them-13dn) (2026-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Gave an Agent a Flaky Refund Tool — It Overpaid $2,230, and My UUID Idempotency Key Changed…](https://medium.com/@anibha88/i-gave-an-agent-a-flaky-refund-tool-it-overpaid-2-230-and-my-uuid-idempotency-key-changed-ccfd9a11d1b2?source=rss------programming-5) (2026-11-08)
-- [On-Device AI in the Browser: What Opera’s WebAI Means for Web Developers](https://medium.com/@thedeepammishra/on-device-ai-in-the-browser-what-operas-webai-means-for-web-developers-e17a98a2f9ff?source=rss------programming-5) (2026-11-08)
-- [The Man at the Intersection of Code and Core Politics: Why I Write](https://medium.com/@anandzade09/the-man-at-the-intersection-of-code-and-core-politics-why-i-write-59a0a47c20bb?source=rss------programming-5) (2026-11-08)
-- [Stop Forcing Clean Architecture in Go — You’re adding complexity not clarity](https://blog.stackademic.com/stop-forcing-clean-architecture-in-go-youre-adding-complexity-not-clarity-1a654461b735?source=rss------programming-5) (2026-11-08)
-- [A tiny habit for pay-per-call APIs](https://medium.com/@glauccoeng/a-tiny-habit-for-pay-per-call-apis-098d4a7cd068?source=rss------programming-5) (2026-11-08)
+- [Our AI Coding Agent Passed Every Test. Then It Shipped a Security Hole to Production](https://medium.com/engineering-playbook/our-ai-coding-agent-passed-every-test-then-it-shipped-a-security-hole-to-production-8ee0ec4dfeb0?source=rss------programming-5) (2026-11-08)
+- [Our Senior Engineer Said PostgreSQL Would Prevent Double Booking. Two Customers Got the Same Room](https://medium.com/engineering-playbook/our-senior-engineer-said-postgresql-would-prevent-double-booking-two-customers-got-the-same-room-621d5f4585e6?source=rss------programming-5) (2026-11-08)
+- [Our Staff Engineer Scaled Kubernetes From 12 Pods to 200. Production Got 14 Times Slower](https://medium.com/engineering-playbook/our-staff-engineer-scaled-kubernetes-from-12-pods-to-200-production-got-14-times-slower-b4c46d919958?source=rss------programming-5) (2026-11-08)
+- [Fuzis de assalto Kalashnikov: a família AK-200](https://kawannedayaraoliveira.medium.com/fuzis-de-assalto-kalashnikov-a-fam%C3%ADlia-ak-200-d0de338f721b?source=rss------programming-5) (2026-11-08)
+- [What I Wish I’d Known Before My First Code Review](https://medium.com/@bharat.chandera/what-i-wish-id-known-before-my-first-code-review-c86408052e41?source=rss------programming-5) (2026-11-08)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
-- [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
-- [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
 - [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
+- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
+- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) (2026-10-28)
+- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/) (2026-10-26)
 
 </details>
 
@@ -642,17 +642,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
-- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
-- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
-- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
-- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
