@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/) (2026-11-08)
-- [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/) (2026-11-08)
-- [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/) (2026-11-08)
-- [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/) (2026-11-08)
-- [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/) (2026-11-08)
+- [Meet Drops, the new music app bringing back the fun of sharing songs with friends](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/) (2026-11-09)
+- [Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/) (2026-11-09)
+- [Musk says Tesla will refund some Cybertruck deposits, defends decision to end production](https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/) (2026-11-09)
+- [Tesla expands robotaxi service to San Antonio](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/) (2026-11-09)
+- [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/) (2026-11-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html) (2026-11-09)
-- [A Bit about Email](https://maurycyz.com/misc/email/) (2026-11-09)
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) (2026-11-09)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) (2026-11-09)
-- [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) (2026-11-08)
+- [Zebkit – Chromium's engine as a library you link, not a runtime you live in](https://github.com/ikey4u/zebkit) (2026-11-09)
+- [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/) (2026-11-09)
+- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) (2026-11-09)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com) (2026-11-09)
+- [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway) (2026-11-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Jonathan Kanter is using AI to take on Big Tech](https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech) (2026-11-09)
+- [Pomera&#8217;s sleek distraction-free writing machine is just too small](https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review) (2026-11-09)
+- [Instagram’s AI age detection is expanding globally](https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion) (2026-11-09)
+- [Torrent underground](https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy) (2026-11-09)
 - [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia) (2026-11-08)
-- [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review) (2026-11-08)
-- [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos) (2026-11-08)
-- [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) (2026-11-08)
-- [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) (2026-11-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [New Democratic Congress will likely strip the gilding from Trump's Golden Dome](https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/) (2026-11-09)
 - [Physicists listened to electrical noise to crack a superconductor mystery](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/) (2026-11-08)
 - [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) (2026-11-07)
 - [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/) (2026-11-07)
 - [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) (2026-11-06)
-- [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/) (2026-11-09)
+- [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/) (2026-11-09)
+- [The climate case for AI has not been made](https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/) (2026-11-09)
 - [The Download: a humanoid cleans house and Samsung builds for the AI boom](https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/) (2026-11-06)
 - [I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/) (2026-11-06)
-- [The Download: Texas’s fragile AI boom and energy policy shifts](https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/) (2026-11-05)
-- [A new bill could change how the US builds energy infrastructure ](https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/) (2026-11-05)
-- [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/) (2026-11-04)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Meta fait parler ses avatars IA en temps réel. L'entraînement visuel, lui, parle encore le langage des années 80.](https://dev.to/ashish_624379625242c5d263/meta-fait-parler-ses-avatars-ia-en-temps-reel-lentrainement-visuel-lui-parle-encore-le-langage-1mkf) (2026-11-09)
-- [Cognitive Science for AI — Ch.12: Chapter 12. Practical AI Design Guidelines [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch12-chapter-12-practical-ai-design-guidelines-kr-m6h) (2026-11-09)
-- [Manyfold exposure starts with the multiuser switch](https://dev.to/andreagomez/manyfold-exposure-starts-with-the-multiuser-switch-3ah) (2026-11-09)
-- [Cognitive Science for AI — Ch.11: Chapter 11. Case Studies [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch11-chapter-11-case-studies-kr-1b38) (2026-11-09)
-- [Cognitive Science for AI — Ch.10: Chapter 10. Cognitive Science for AGI [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch10-chapter-10-cognitive-science-for-agi-kr-301) (2026-11-09)
+- [Scanning Terraform for Lock-In Before a Cloud Migration](https://dev.to/moveinfra-eu/scanning-terraform-for-lock-in-before-a-cloud-migration-3ahf) (2026-11-09)
+- [🌐 The right proxy can make all the difference in web scraping and automation! 🚀 Explore 7 leading proxy providers, compare their features, and find the best fit for your development needs. 💻🔥](https://dev.to/michaeljohnsondz/the-right-proxy-can-make-all-the-difference-in-web-scraping-and-automation-explore-7-leading-5gh6) (2026-11-09)
+- [9 AI Workflow Automaton Tools Compared for 2027](https://dev.to/dumebii/9-ai-workflow-automaton-tools-compared-for-2027-1km6) (2026-11-09)
+- [Seven Ways a Latency Arbitrage Measurement Lies to You (and the Checks That Catch Them)](https://dev.to/alexander_vinsky/seven-ways-a-latency-arbitrage-measurement-lies-to-you-and-the-checks-that-catch-them-54pn) (2026-11-09)
+- [Logging pipeline runs without noise #dmof8](https://dev.to/devnote2319/logging-pipeline-runs-without-noise-dmof8-55dc) (2026-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Payment System Design: Architecture, Idempotency, Kafka, PostgreSQL & Webhooks](https://medium.com/engineering-playbook/payment-system-design-architecture-idempotency-kafka-postgresql-webhooks-6d6a76dcbc03?source=rss------programming-5) (2026-11-09)
-- [Chat Application System Design: WhatsApp, WebSockets, Kafka, Redis & Database](https://medium.com/engineering-playbook/chat-application-system-design-whatsapp-websockets-kafka-redis-database-6d2788a3ccff?source=rss------programming-5) (2026-11-09)
-- [7 HTML and CSS Tricks That Can Replace Your JavaScript Workarounds](https://medium.com/@ishaqsaqib/7-html-and-css-tricks-that-can-replace-your-javascript-workarounds-da00c62166ce?source=rss------programming-5) (2026-11-09)
-- [Rate Limiter System Design: Redis, Token Bucket, Sliding Window, and Java](https://medium.com/engineering-playbook/rate-limiter-system-design-redis-token-bucket-sliding-window-and-java-da7a081e8a1b?source=rss------programming-5) (2026-11-09)
-- [What Actually Happens When Python Imports a Module](https://medium.com/skillstuff/what-actually-happens-when-python-imports-a-module-c48c787dab63?source=rss------programming-5) (2026-11-09)
+- [We Denied Our Best Engineer a Staff Promotion. Her Replacement Cost Us $140K More](https://medium.com/engineering-playbook/we-denied-our-best-engineer-a-staff-promotion-her-replacement-cost-us-140k-more-068f990763f0?source=rss------programming-5) (2026-11-09)
+- [Kafka for Beginners](https://javascript.plainenglish.io/kafka-for-beginners-aa07292994b9?source=rss------programming-5) (2026-11-09)
+- [Our AI Coding Agent Shipped 14 Pull Requests. The 15th Exposed Every Customer](https://medium.com/engineering-playbook/our-ai-coding-agent-shipped-14-pull-requests-the-15th-exposed-every-customer-3aee3e04919a?source=rss------programming-5) (2026-11-09)
+- [Virtual Threads Won’t Speed Up Your Kafka Poll Loop. They Fix the Slow Part Inside It](https://medium.com/@niteshthakur498/virtual-threads-wont-speed-up-your-kafka-poll-loop-they-fix-the-slow-part-inside-it-38f9d5254e18?source=rss------programming-5) (2026-11-09)
+- [Python Automation 2026 — Part 2: Automating Files, Folders, and Everyday Tasks with Python](https://python.plainenglish.io/python-automation-2026-part-2-automating-files-folders-and-everyday-tasks-with-python-a5e673bba2c3?source=rss------programming-5) (2026-11-09)
 
 </details>
 
@@ -119,22 +119,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
 - [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
 - [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
 - [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
-- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/) (2026-11-06)
-- [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/) (2026-11-05)
-- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-11-05)
-- [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/) (2026-11-05)
-- [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](https://blogs.nvidia.com/blog/memory-full-stack-codesign/) (2026-11-05)
+- [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/) (2026-11-09)
+- [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/) (2026-11-09)
+- [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/) (2026-11-09)
+- [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/) (2026-11-09)
+- [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/) (2026-11-09)
 
 </details>
 
@@ -372,11 +372,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Launching the Vite Ecosystem Fund](https://blog.cloudflare.com/launching-vite-ecosystem-fund/) (2026-11-09)
 - [The post-quantum future of web privacy](https://blog.cloudflare.com/vole-mole/) (2026-11-06)
 - [Agents aren’t humans (but they kinda are)](https://blog.cloudflare.com/trusted-agent-delegation/) (2026-11-05)
 - [See the agents, set the terms: new visibility and control for personal agents](https://blog.cloudflare.com/personal-agents-visibility-control/) (2026-11-04)
 - [Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities ](https://blog.cloudflare.com/zero-wire/) (2026-11-03)
-- [How we halved DNS build delay and cut memory use by 85%](https://blog.cloudflare.com/dns-targeted-zone-builds/) (2026-11-02)
 
 </details>
 
@@ -414,14 +414,14 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Who Will Consumers Trust to Act, Shop, and Pay on Their Behalf?](https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/) (2026-11-03)
-- [Trust Puts Customer Identity in the Spotlight
-](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
-- [Consumers are Ready for AI. Are Companies?
-](https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/) (2026-11-03)
+- [Authentication and Authorization: What's New in .NET 11](https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/) (2026-11-09)
+- [Secure and Convenient is the Real Killer App](https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/) (2026-11-03)
 - [AI ambitions are blocked by identity debt
 ](https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/) (2026-11-03)
-- [Secure and Convenient is the Real Killer App](https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/) (2026-11-03)
+- [Trust Puts Customer Identity in the Spotlight
+](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
+- [Compliant Infrastructure, Frustrating CX
+](https://auth0.com/blog/compliant-infrastructure-frustrating-cx/) (2026-11-03)
 
 </details>
 
@@ -582,22 +582,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts) (2026-11-09)
 - [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks) (2026-11-06)
 - [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) (2026-11-06)
 - [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation) (2026-11-05)
 - [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts) (2026-11-05)
-- [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor) (2026-11-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Ask AI to Refine Your Ideas, Not Invent Them](https://towardsdatascience.com/ask-ai-to-refine-your-ideas-not-invent-them/) (2026-11-09)
+- [How to Estimate the Recall of AI Agents with Capture-Recapture](https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/) (2026-11-09)
+- [Quantile Regression Caught the House Price OLS Missed by $55K](https://towardsdatascience.com/quantile-regression-caught-the-house-price-ols-missed-by-55k/) (2026-11-09)
 - [How to Build Multi-Agent Systems with the OpenAI Agents SDK](https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/) (2026-11-08)
 - [Change One Monty Hall Rule and Five LLMs Still Say Switch](https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/) (2026-11-08)
-- [Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval](https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/) (2026-11-07)
-- [How to Prioritize Product Feedback by Revenue at Risk](https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/) (2026-11-07)
-- [How to Measure AI Adoption, Performance, and ROI With 12 KPIs](https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/) (2026-11-06)
 
 </details>
 
@@ -615,22 +615,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?](https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy) (2026-11-09)
+- [5 Useful Python Automation Scripts for Beginners](https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners) (2026-11-09)
 - [Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20](https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20) (2026-11-06)
 - [How to Give Your AI Agent Memory](https://www.kdnuggets.com/how-to-give-your-ai-agent-memory) (2026-11-06)
 - [Top 7 Python Libraries for Time Series Analysis and Modeling](https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling) (2026-11-06)
-- [Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep](https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep) (2026-11-05)
-- [What I Did with Hermes Agent, Ollama & Local Models](https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models) (2026-11-05)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Benchmarking Scikit-Ollama vs. Groq-Backed Scikit-LLM: Speed, Cost, and Accuracy](https://machinelearningmastery.com/benchmarking-scikit-ollama-vs-groq-backed-scikit-llm-speed-cost-and-accuracy/) (2026-11-09)
 - [Floating-Point Precision and Its Effects to Model Inference](https://machinelearningmastery.com/floating-point-precision/) (2026-11-07)
 - [DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once](https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/) (2026-11-06)
 - [Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/) (2026-11-06)
 - [Decorators for Timing, Retries, Caching, and Validation in Python](https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/) (2026-11-05)
-- [How to Train Your own Decision Model like Jev using Unsloth](https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/) (2026-11-04)
 
 </details>
 
