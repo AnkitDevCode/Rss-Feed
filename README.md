@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/) (2026-11-08)
 - [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/) (2026-11-08)
 - [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/) (2026-11-08)
 - [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/) (2026-11-08)
 - [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/) (2026-11-08)
-- [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/) (2026-11-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) (2026-11-08)
-- [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15) (2026-11-08)
-- [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough) (2026-11-08)
-- [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry) (2026-11-08)
-- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (2026-11-08)
+- [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html) (2026-11-09)
+- [A Bit about Email](https://maurycyz.com/misc/email/) (2026-11-09)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) (2026-11-09)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) (2026-11-09)
+- [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) (2026-11-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia) (2026-11-08)
+- [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review) (2026-11-08)
 - [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos) (2026-11-08)
 - [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) (2026-11-08)
 - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) (2026-11-08)
-- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) (2026-11-08)
-- [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale) (2026-11-08)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Temperature 0, same model, two different GPUs: find the word that splits them, then pin it](https://dev.to/dekita/temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it-2foh) (2026-11-08)
-- [Orbura: a camera check-in that becomes a baseline — Presage SmartSpectra SDK Challenge](https://dev.to/papajams/orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge-3ljm) (2026-11-08)
-- [Runique 4.0: a typed admin, column-level permissions, and forms that write correctly](https://dev.to/seballiot/runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly-3bog) (2026-11-08)
-- [Tripadvisor Expects SEO Headwinds to Persist Into 2027](https://dev.to/alifar/tripadvisor-expects-seo-headwinds-to-persist-into-2027-53lm) (2026-11-08)
-- [Telegram bot token in your contact form? Anyone can copy it](https://dev.to/formgongteam/telegram-bot-token-in-your-contact-form-anyone-can-copy-it-3ifj) (2026-11-08)
+- [Meta fait parler ses avatars IA en temps réel. L'entraînement visuel, lui, parle encore le langage des années 80.](https://dev.to/ashish_624379625242c5d263/meta-fait-parler-ses-avatars-ia-en-temps-reel-lentrainement-visuel-lui-parle-encore-le-langage-1mkf) (2026-11-09)
+- [Cognitive Science for AI — Ch.12: Chapter 12. Practical AI Design Guidelines [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch12-chapter-12-practical-ai-design-guidelines-kr-m6h) (2026-11-09)
+- [Manyfold exposure starts with the multiuser switch](https://dev.to/andreagomez/manyfold-exposure-starts-with-the-multiuser-switch-3ah) (2026-11-09)
+- [Cognitive Science for AI — Ch.11: Chapter 11. Case Studies [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch11-chapter-11-case-studies-kr-1b38) (2026-11-09)
+- [Cognitive Science for AI — Ch.10: Chapter 10. Cognitive Science for AGI [KR]](https://dev.to/richard_minsoogo/cognitive-science-for-ai-ch10-chapter-10-cognitive-science-for-agi-kr-301) (2026-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Architect Your Data So Encoding Never Becomes a Problem](https://medium.com/@edgycorner/how-to-architect-your-data-so-encoding-never-becomes-a-problem-d8a6fe74947c?source=rss------programming-5) (2026-11-08)
-- [How I Estimate Capacity in System Design Interviews Without Guessing](https://medium.com/javarevisited/how-i-estimate-capacity-in-system-design-interviews-without-guessing-fb96dc7cc77f?source=rss------programming-5) (2026-11-08)
-- [Advent of Code 2025 Day 10](https://medium.com/kabbage-patch-notes/advent-of-code-2025-day-10-3017d443915f?source=rss------programming-5) (2026-11-08)
-- [The $40 Trillion Tech Stack Nobody in Silicon Valley Talks About](https://medium.com/@snake09031999/the-40-trillion-tech-stack-nobody-in-silicon-valley-talks-about-a608a9f1833c?source=rss------programming-5) (2026-11-08)
-- [I Can Design Distributed Systems. Why Do I Freeze in System Design Interviews?](https://medium.com/engineering-playbook/i-can-design-distributed-systems-why-do-i-freeze-in-system-design-interviews-5704927b0608?source=rss------programming-5) (2026-11-08)
+- [Payment System Design: Architecture, Idempotency, Kafka, PostgreSQL & Webhooks](https://medium.com/engineering-playbook/payment-system-design-architecture-idempotency-kafka-postgresql-webhooks-6d6a76dcbc03?source=rss------programming-5) (2026-11-09)
+- [Chat Application System Design: WhatsApp, WebSockets, Kafka, Redis & Database](https://medium.com/engineering-playbook/chat-application-system-design-whatsapp-websockets-kafka-redis-database-6d2788a3ccff?source=rss------programming-5) (2026-11-09)
+- [7 HTML and CSS Tricks That Can Replace Your JavaScript Workarounds](https://medium.com/@ishaqsaqib/7-html-and-css-tricks-that-can-replace-your-javascript-workarounds-da00c62166ce?source=rss------programming-5) (2026-11-09)
+- [Rate Limiter System Design: Redis, Token Bucket, Sliding Window, and Java](https://medium.com/engineering-playbook/rate-limiter-system-design-redis-token-bucket-sliding-window-and-java-da7a081e8a1b?source=rss------programming-5) (2026-11-09)
+- [What Actually Happens When Python Imports a Module](https://medium.com/skillstuff/what-actually-happens-when-python-imports-a-module-c48c787dab63?source=rss------programming-5) (2026-11-09)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
 - [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
 - [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
 - [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
 - [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
+- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/) (2026-10-29)
 
 </details>
 
@@ -538,11 +538,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistants-best-tools-for-2026) (2026-11-06)
 - [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
 - [Slackbot: Delegate more work, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
 - [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
 - [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
-- [What Is a Gantt Chart? How To Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) (2026-10-19)
 
 </details>
 
@@ -642,6 +642,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-f
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) (2026-11-05)
+- [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/) (2026-11-03)
+- [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/) (2026-10-30)
+- [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) (2026-10-28)
+- [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (2026-10-27)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
