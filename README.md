@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/) (2026-11-11)
 - [X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/) (2026-11-11)
 - [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/) (2026-11-10)
 - [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) (2026-11-10)
 - [Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/) (2026-11-10)
-- [X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/) (2026-11-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna) (2026-11-11)
-- [Hooked on Tuna](https://blue-continuum.com/hooked-on-tuna) (2026-11-11)
-- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) (2026-11-11)
-- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) (2026-11-11)
-- [AI is becoming an information gateway. Audiences still don’t want it making news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/) (2026-11-11)
+- [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/) (2026-11-11)
+- [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html) (2026-11-11)
+- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) (2026-11-11)
+- [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404) (2026-11-11)
+- [Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/) (2026-11-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions) (2026-11-11)
+- [Not everyone is loving their new iPhone Duo](https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps) (2026-11-11)
+- [Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery) (2026-11-11)
+- [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down) (2026-11-11)
 - [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling) (2026-11-11)
-- [The VR Disney Plus app on Meta Quest now has 3D movies](https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies) (2026-11-10)
-- [Oura is acquiring medical AI chatbot startup Counsel Health](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition) (2026-11-10)
-- [Sony cancels live-service shooter Fairgames](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled) (2026-11-10)
-- [The PlayStation Plus PC app is shutting down next month](https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down) (2026-11-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Differential Drive, Steer Drive and Omni Drive — Ch.22: Steer Drive Advantages and Limitations [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch22-steer-drive-advantages-and-limitations-en-2lmg) (2026-11-11)
-- [Differential Drive, Steer Drive and Omni Drive — Ch.20: Steer Drive Motor Sizing [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch20-steer-drive-motor-sizing-en-4eip) (2026-11-11)
-- [Differential Drive, Steer Drive and Omni Drive — Ch.19: Steer Drive Mechanical Architecture [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch19-steer-drive-mechanical-architecture-en-4g2d) (2026-11-11)
-- [Checklist tối ưu tốc độ WordPress: 9 việc mình luôn làm cho mọi website mới](https://dev.to/anh_nguyenduc_8c61c88b9b/checklist-toi-uu-toc-do-wordpress-9-viec-minh-luon-lam-cho-moi-website-moi-1i41) (2026-11-11)
-- [Differential Drive, Steer Drive and Omni Drive — Ch.18: Steer Drive Kinematics [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch18-steer-drive-kinematics-en-1ajg) (2026-11-11)
+- [How to prove an AI-converted COBOL program still behaves the same](https://dev.to/samamderson/how-to-prove-an-ai-converted-cobol-program-still-behaves-the-same-552a) (2026-11-11)
+- [How One Owner Built a Google Ads Campaign With Claude Code for $0.46](https://dev.to/fun_fun_19313eced54af3c68/how-one-owner-built-a-google-ads-campaign-with-claude-code-for-046-kg7) (2026-11-11)
+- [The Founder Pass: The One-Time Membership Our Pricing API Carries and the Plans Page Does Not Show](https://dev.to/onepassapps/the-founder-pass-the-one-time-membership-our-pricing-api-carries-and-the-plans-page-does-not-show-3anj) (2026-11-11)
+- [o3 vs Claude 4.5 vs Gemini 2.5 Flash: Reasoning, Priced per Task](https://dev.to/guang_diyuzhi_74b0fec2c09/o3-vs-claude-45-vs-gemini-25-flash-reasoning-priced-per-task-362h) (2026-11-11)
+- [SSH Gives Too Much, Slurm Asks Too Much — and Both Leave Your Files to You](https://dev.to/diphyx/ssh-gives-too-much-slurm-asks-too-much-and-both-leave-your-files-to-you-10c9) (2026-11-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Dictionary<TKey, TValue> Works Internally in .NET](https://medium.com/@karthikns999/how-dictionary-works-internally-dotnet-338b03b2aeb8?source=rss------programming-5) (2026-11-11)
-- [The DuckDB 2.0 Shift: When an In-Process Database Outgrows the Local Machine](https://medium.com/@JustSnehal/the-duckdb-2-0-shift-when-an-in-process-database-outgrows-the-local-machine-941a35f2f5ee?source=rss------programming-5) (2026-11-11)
-- [6 Python Shortcuts Senior Engineers Refuse to Take](https://medium.com/skillstuff/6-python-shortcuts-senior-engineers-refuse-to-take-b77bafee8529?source=rss------programming-5) (2026-11-11)
-- [When Software Generation Gets Faster, Verification Has to Scale](https://medium.com/@ajisandeep/when-software-generation-gets-faster-verification-has-to-scale-8022fc1caa16?source=rss------programming-5) (2026-11-11)
-- [RPG Maker MV/MZ: how to stop people from copying your plugins and game code](https://medium.com/@8806660/rpg-maker-mv-mz-how-to-stop-people-from-copying-your-plugins-and-game-code-dba827d2d7b6?source=rss------programming-5) (2026-11-11)
+- [Claude Fable 5.2](https://medium.com/@iamsupcat/claude-fable-5-2-938b4944e970?source=rss------programming-5) (2026-11-11)
+- [Authentication and Compliance Hydration: An Architectural Review of High-Throughput Casino Nodes](https://medium.com/@micahowfeeneyfmf63/authentication-and-compliance-hydration-an-architectural-review-of-high-throughput-casino-nodes-51e18e2196ae?source=rss------programming-5) (2026-11-11)
+- [Building Is Easy. Distribution Is Hard.](https://devdeejay.medium.com/building-is-easy-distribution-is-hard-a351afd57c70?source=rss------programming-5) (2026-11-11)
+- [Authentication and Compliance Hydration: An Architectural Review of High-Throughput Casino Nodes](https://medium.com/@judsonkcbogisicoxn67/authentication-and-compliance-hydration-an-architectural-review-of-high-throughput-casino-nodes-5e8895fd9cb7?source=rss------programming-5) (2026-11-11)
+- [Cloud Storage Risks That Fly Under The Radar](https://medium.com/@Talha_mushtaq/cloud-storage-risks-that-fly-under-the-radar-971052622613?source=rss------programming-5) (2026-11-11)
 
 </details>
 
@@ -317,22 +317,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Rider 2026.3 for Game Development: Lua and Verse Plugins, Better C++ Debugging, and Closer Godot Integration](https://blog.jetbrains.com/dotnet/2026/11/11/rider-2026-3-for-gamedev/) (2026-11-11)
+- [JetBrains IDEs Transformed for the Agentic Era of Development – With Air](https://blog.jetbrains.com/ai/2026/11/air-in-jetbrains-ides-ga/) (2026-11-11)
 - [ReSharper 2026.3: Claude Agent and Codex in Visual Studio, .NET 11 and C# 15 Support, and More](https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/) (2026-11-10)
 - [Rider 2026.3: .NET 11 Support and JetBrains Air](https://blog.jetbrains.com/dotnet/2026/11/10/rider-2026-3-release/) (2026-11-10)
 - [ReSharper C++ 2026.3: Class Layout, Format String Analysis, And More](https://blog.jetbrains.com/rscpp/2026/11/10/resharper-cpp-2026-3-class-layout-format-string-analysis-and-more/) (2026-11-10)
-- [The State of Developer Ecosystem 2026: A Decade of Understanding Developers](https://blog.jetbrains.com/research/2026/11/state-of-developer-ecosystem-2026/) (2026-11-10)
-- [Debugging Rust in 2026](https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/) (2026-11-10)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.146 (Insiders)](https://code.visualstudio.com/updates/v1_146) (2026-11-11)
+- [Visual Studio Code 1.147 (Insiders)](https://code.visualstudio.com/updates/v1_147) (2026-11-18)
+- [Visual Studio Code 1.146](https://code.visualstudio.com/updates/v1_146) (2026-11-11)
 - [Visual Studio Code 1.145](https://code.visualstudio.com/updates/v1_145) (2026-11-04)
 - [Visual Studio Code 1.144](https://code.visualstudio.com/updates/v1_144) (2026-10-28)
 - [VS Code Wrapped: GitHub Universe 2026](https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped) (2026-10-28)
-- [Tune GitHub Copilot Inline Suggestions with Configurable Eagerness](https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness) (2026-10-26)
 
 </details>
 
@@ -583,55 +583,55 @@ https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pric
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) (2026-11-11)
 - [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace) (2026-11-10)
 - [Decision Models in Hugging Face](https://huggingface.co/blog/decision) (2026-11-10)
 - [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan) (2026-11-09)
 - [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts) (2026-11-09)
-- [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks) (2026-11-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch](https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/) (2026-11-11)
 - [Scikit-Learn Matched or Beat Jev's Calibration on BANKING77](https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/) (2026-11-10)
 - [A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%](https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/) (2026-11-10)
 - [How to Validate LLM Output in a DuckDB and dbt Pipeline](https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/) (2026-11-10)
 - [Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff](https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/) (2026-11-10)
-- [Continuous Batching Beats Static and Dynamic by Up to 2.91× in vLLM](https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/) (2026-11-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory](https://www.analyticsvidhya.com/blog/2026/11/ai-agent-team-memory-tencentdb/) (2026-11-11)
 - [Why Enterprise LLMs Fail Before They Calculate, and What Context Engineering Changes](https://www.analyticsvidhya.com/blog/2026/11/why-enterprise-llms-fail-before-they-calculate/) (2026-11-10)
 - [GPT Image 2.6: The Best Image Generation Model Just Got an Upgrade!](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/) (2026-11-05)
 - [7 Best AI Agent Collaboration Platforms in 2026](https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/) (2026-11-04)
 - [Top 5 Local AI Models and How to Get Them](https://www.analyticsvidhya.com/blog/2026/11/local-ai-models/) (2026-11-03)
-- [GELU Activation Function Explained: How It Works and Why Transformers Use It](https://www.analyticsvidhya.com/blog/2026/10/gelu-activation-function-explained/) (2026-10-31)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [9 Key LLM Inference Metrics Explained in 5 Minutes](https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes) (2026-11-11)
 - [How to Use AI for Enterprise BI](https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi) (2026-11-10)
 - [Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM](https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm) (2026-11-10)
 - [5 Techniques for Fine-Tuning LLMs Without Breaking the Bank](https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank) (2026-11-10)
 - [Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?](https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy) (2026-11-09)
-- [5 Useful Python Automation Scripts for Beginners](https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners) (2026-11-09)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Sandboxing AI Agent Code Execution in Python: Containers, MicroVMs and Beyond](https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/) (2026-11-11)
 - [What Are Diffusion Language Models, and Why Are They Different From GPT?](https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/) (2026-11-10)
 - [Attention Variants and Memory Efficiency](https://machinelearningmastery.com/attention-variants-for-efficient-inference/) (2026-11-09)
 - [Benchmarking Scikit-Ollama vs. Groq-Backed Scikit-LLM: Speed, Cost, and Accuracy](https://machinelearningmastery.com/benchmarking-scikit-ollama-vs-groq-backed-scikit-llm-speed-cost-and-accuracy/) (2026-11-09)
 - [Floating-Point Precision and Its Effects to Model Inference](https://machinelearningmastery.com/floating-point-precision/) (2026-11-07)
-- [DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once](https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/) (2026-11-06)
 
 </details>
 
