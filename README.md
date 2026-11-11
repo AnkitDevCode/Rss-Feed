@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/) (2026-11-11)
 - [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/) (2026-11-10)
 - [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) (2026-11-10)
 - [Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/) (2026-11-10)
 - [X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/) (2026-11-10)
-- [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/) (2026-11-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/) (2026-11-10)
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) (2026-11-10)
-- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) (2026-11-10)
-- [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act) (2026-11-10)
-- [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) (2026-11-10)
+- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna) (2026-11-11)
+- [Hooked on Tuna](https://blue-continuum.com/hooked-on-tuna) (2026-11-11)
+- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) (2026-11-11)
+- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) (2026-11-11)
+- [AI is becoming an information gateway. Audiences still don’t want it making news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/) (2026-11-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling) (2026-11-11)
 - [The VR Disney Plus app on Meta Quest now has 3D movies](https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies) (2026-11-10)
 - [Oura is acquiring medical AI chatbot startup Counsel Health](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition) (2026-11-10)
 - [Sony cancels live-service shooter Fairgames](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled) (2026-11-10)
 - [The PlayStation Plus PC app is shutting down next month](https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down) (2026-11-10)
-- [Starlink Mini 2 adds a swappable battery](https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery) (2026-11-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Seagate's new hybrid drive raises some old questions](https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/) (2026-11-10)
+- [The US military seems to be getting nervous about the launch supply crunch](https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/) (2026-11-10)
+- [Ring cameras go mobile as Amazon debuts AI-powered security drone and robot](https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/) (2026-11-10)
 - [Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr](https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/) (2026-11-10)
 - [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/) (2026-11-10)
-- [What happens to mathematics when AI becomes an oracle?](https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/) (2026-11-10)
-- [Google Fi adds support for a second 5G network, won't say which one](https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/) (2026-11-10)
-- [Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop](https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/) (2026-11-10)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Node.js Large App Backup Files: Multipart Upload and Object Storage Retention](https://dev.to/maximiliannilsson7568/nodejs-large-app-backup-files-multipart-upload-and-object-storage-retention-2p79) (2026-11-10)
-- [Creating a Container Using Linux Namespaces](https://dev.to/muratcabuk/creating-a-container-using-linux-namespaces-i4i) (2026-11-10)
-- [The Most-Traveled Musicians in History Are Both DJs. I Built a Live Leaderboard to Prove Why.](https://dev.to/bryanhamiltondev/the-most-traveled-musicians-in-history-are-both-djs-i-built-a-live-leaderboard-to-prove-why-i29) (2026-11-10)
-- [How my Delphi physics lab grew into Makarov Suites](https://dev.to/makarov_mm/how-my-delphi-physics-lab-grew-into-makarov-suites-498o) (2026-11-10)
-- [Eight objections, two proven bugs: an AI review council on someone else's pull request](https://dev.to/goshtasb/eight-objections-two-proven-bugs-an-ai-review-council-on-someone-elses-pull-request-eo1) (2026-11-10)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.22: Steer Drive Advantages and Limitations [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch22-steer-drive-advantages-and-limitations-en-2lmg) (2026-11-11)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.20: Steer Drive Motor Sizing [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch20-steer-drive-motor-sizing-en-4eip) (2026-11-11)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.19: Steer Drive Mechanical Architecture [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch19-steer-drive-mechanical-architecture-en-4g2d) (2026-11-11)
+- [Checklist tối ưu tốc độ WordPress: 9 việc mình luôn làm cho mọi website mới](https://dev.to/anh_nguyenduc_8c61c88b9b/checklist-toi-uu-toc-do-wordpress-9-viec-minh-luon-lam-cho-moi-website-moi-1i41) (2026-11-11)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.18: Steer Drive Kinematics [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch18-steer-drive-kinematics-en-1ajg) (2026-11-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Redis Cache Stampede: The System Design Interview Question That Exposes Senior Engineers](https://medium.com/engineering-playbook/redis-cache-stampede-the-system-design-interview-question-that-exposes-senior-engineers-e565064b8cec?source=rss------programming-5) (2026-11-10)
-- [Kubernetes OOMKilled: The Senior Engineer Interview Question That Exposes JVM Knowledge Gaps](https://medium.com/engineering-playbook/kubernetes-oomkilled-the-senior-engineer-interview-question-that-exposes-jvm-knowledge-gaps-4a967ae9f386?source=rss------programming-5) (2026-11-10)
-- [Fixing the classic FileNotFoundError when compiling Python scripts into .exe with PyInstaller](https://medium.com/@ynadweh/fixing-the-classic-filenotfounderror-when-compiling-python-scripts-into-exe-with-pyinstaller-263d915d30fa?source=rss------programming-5) (2026-11-10)
-- [PostgreSQL Connection Pool Exhaustion: Why Your Spring Boot API Suddenly Stops Responding](https://medium.com/engineering-playbook/postgresql-connection-pool-exhaustion-why-your-spring-boot-api-suddenly-stops-responding-78cb931caeca?source=rss------programming-5) (2026-11-10)
-- [15 Senior Java Interview Questions That Expose Weak Spring Boot Engineers](https://medium.com/engineering-playbook/15-senior-java-interview-questions-that-expose-weak-spring-boot-engineers-103d20d3bb55?source=rss------programming-5) (2026-11-10)
+- [How Dictionary<TKey, TValue> Works Internally in .NET](https://medium.com/@karthikns999/how-dictionary-works-internally-dotnet-338b03b2aeb8?source=rss------programming-5) (2026-11-11)
+- [The DuckDB 2.0 Shift: When an In-Process Database Outgrows the Local Machine](https://medium.com/@JustSnehal/the-duckdb-2-0-shift-when-an-in-process-database-outgrows-the-local-machine-941a35f2f5ee?source=rss------programming-5) (2026-11-11)
+- [6 Python Shortcuts Senior Engineers Refuse to Take](https://medium.com/skillstuff/6-python-shortcuts-senior-engineers-refuse-to-take-b77bafee8529?source=rss------programming-5) (2026-11-11)
+- [When Software Generation Gets Faster, Verification Has to Scale](https://medium.com/@ajisandeep/when-software-generation-gets-faster-verification-has-to-scale-8022fc1caa16?source=rss------programming-5) (2026-11-11)
+- [RPG Maker MV/MZ: how to stop people from copying your plugins and game code](https://medium.com/@8806660/rpg-maker-mv-mz-how-to-stop-people-from-copying-your-plugins-and-game-code-dba827d2d7b6?source=rss------programming-5) (2026-11-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/) (2026-11-11)
 - [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/) (2026-11-10)
 - [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/) (2026-11-09)
 - [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/) (2026-11-09)
 - [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/) (2026-11-09)
-- [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/) (2026-11-09)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [ReSharper 2026.3: Claude Agent and Codex in Visual Studio, .NET 11 and C# 15 Support, and More](https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/) (2026-11-10)
 - [Rider 2026.3: .NET 11 Support and JetBrains Air](https://blog.jetbrains.com/dotnet/2026/11/10/rider-2026-3-release/) (2026-11-10)
 - [ReSharper C++ 2026.3: Class Layout, Format String Analysis, And More](https://blog.jetbrains.com/rscpp/2026/11/10/resharper-cpp-2026-3-class-layout-format-string-analysis-and-more/) (2026-11-10)
 - [The State of Developer Ecosystem 2026: A Decade of Understanding Developers](https://blog.jetbrains.com/research/2026/11/state-of-developer-ecosystem-2026/) (2026-11-10)
 - [Debugging Rust in 2026](https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/) (2026-11-10)
-- [Debug Unity Builds From Rider With the TeamCity CLI and MCP](https://blog.jetbrains.com/teamcity/2026/11/debug-unity-builds-from-rider-with-teamcity-cli-mcp/) (2026-11-10)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [MiniMax H3 Image and Highspeed now available on AI Gateway](https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway) (2026-11-10)
 - [Gemini 4 Carbon now available on AI Gateway](https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway) (2026-11-10)
 - [Speed Insights and Web Analytics now support custom environments](https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments) (2026-11-10)
 - [Vercel Sandbox snapshot creation is now up to 10x faster](https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster) (2026-11-09)
 - [Decision models take 26% of requests; Anthropic now wins new teams 2:1](https://vercel.com/blog/ai-gateway-production-index-november-2026) (2026-11-09)
-- [GLM 5.3 Flash is now available in Token Pass](https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass) (2026-11-09)
 
 </details>
 
