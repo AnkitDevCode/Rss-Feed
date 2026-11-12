@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/) (2026-11-12)
 - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (2026-11-11)
 - [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/) (2026-11-11)
 - [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/) (2026-11-11)
 - [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/) (2026-11-11)
-- [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/) (2026-11-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](https://developer.chrome.com/blog/modern-web-guidance-v1) (2026-11-11)
+- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/) (2026-11-12)
+- [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore) (2026-11-12)
+- [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/) (2026-11-12)
+- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) (2026-11-12)
 - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela) (2026-11-11)
-- [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008) (2026-11-11)
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/) (2026-11-11)
-- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/) (2026-11-11)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Started Writing on DEV.to, and You Can Too](https://dev.to/tyleruploads/how-i-started-writing-on-devto-and-you-can-too-481b) (2026-11-11)
-- [Building Siderform: A browser strategy game with vanilla JS, Canvas2D, and PeerJS](https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69) (2026-11-11)
-- [How to Get Substack Newsletter Data: Posts, Comments and Subscriber Counts](https://dev.to/signalwharf/how-to-get-substack-newsletter-data-posts-comments-and-subscriber-counts-70f) (2026-11-11)
-- [Luau patterns I keep re-explaining to my AI assistant (and how I stopped)](https://dev.to/kelvaro/luau-patterns-i-keep-re-explaining-to-my-ai-assistant-and-how-i-stopped-3a8k) (2026-11-11)
-- [How to Scrape a Telegram Channel to CSV (No Login)](https://dev.to/signalwharf/how-to-scrape-a-telegram-channel-to-csv-no-login-126p) (2026-11-11)
+- [I Built a Token Scrubber That Runs Entirely in Your Browser. Nothing Leaves the Page.](https://dev.to/aheadkit/i-built-a-token-scrubber-that-runs-entirely-in-your-browser-nothing-leaves-the-page-1c9k) (2026-11-12)
+- [Will AWS Emulator Replace the AWS Blocks Mocks? What Running Both Revealed About a Third Testing Layer](https://dev.to/aws-builders/will-aws-emulator-replace-the-aws-blocks-mocks-what-running-both-revealed-about-a-third-testing-2h9c) (2026-11-12)
+- [Morse Code in Rust: Build a CLI Encoder and Decoder](https://dev.to/morsezone/morse-code-in-rust-build-a-cli-encoder-and-decoder-56g8) (2026-11-12)
+- [Keyword Research for AI Search: From Search Volume to Question Chains](https://dev.to/_cfdee58f5421554a1747c/keyword-research-for-ai-search-from-search-volume-to-question-chains-3oom) (2026-11-12)
+- [Securing MCP in Production](https://dev.to/aloknecessary/securing-mcp-in-production-4kmf) (2026-11-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What I’d Actually Let an AI Agent Do in My Roblox Game](https://medium.com/@Sathariels/what-id-actually-let-an-ai-agent-do-in-my-roblox-game-5aae3a130d32?source=rss------programming-5) (2026-11-11)
-- [Matchs d’aujourd’hui en direct : où voir les scores gratuitement](https://medium.com/@elmouhanouar6/matchs-daujourd-hui-en-direct-o%C3%B9-voir-les-scores-gratuitement-e596c71625b9?source=rss------programming-5) (2026-11-11)
-- [Botola Pro : résultats, classement et buteurs en direct](https://medium.com/@elmouhanouar6/botola-pro-r%C3%A9sultats-classement-et-buteurs-en-direct-a4a757f1e1fe?source=rss------programming-5) (2026-11-11)
-- [The Faster We Generate Code, the More Expensive Bad Decisions Become](https://medium.com/@yashbatra11111/the-faster-we-generate-code-the-more-expensive-bad-decisions-become-4b7c130edc63?source=rss------programming-5) (2026-11-11)
-- [AI Code Review Tools Compared — Which One Caught the Most Bugs?](https://medium.com/@kaklotarrahul79/ai-code-review-tools-compared-which-one-caught-the-most-bugs-cdbfcb3ddef4?source=rss------programming-5) (2026-11-11)
+- [I Applied for 83 Software Engineer Jobs. One Recruiter Told Me Why Nobody Was Calling](https://medium.com/engineering-playbook/i-applied-for-83-software-engineer-jobs-one-recruiter-told-me-why-nobody-was-calling-6c1163e5f89c?source=rss------programming-5) (2026-11-12)
+- [Explained Simply #27](https://medium.com/@thinktaught/explained-simply-27-2b8ab7468a17?source=rss------programming-5) (2026-11-12)
+- [I Got Rejected From 9 Software Engineer Interviews. The Tenth Asked Me About a Production Bug](https://medium.com/engineering-playbook/i-got-rejected-from-9-software-engineer-interviews-the-tenth-asked-me-about-a-production-bug-c61fa162c603?source=rss------programming-5) (2026-11-12)
+- [I Failed 7 Senior Java Interviews. The Eighth Interviewer Asked Me to Stop Coding](https://medium.com/engineering-playbook/i-failed-7-senior-java-interviews-the-eighth-interviewer-asked-me-to-stop-coding-125bf9c4c6f6?source=rss------programming-5) (2026-11-12)
+- [Jensen Huang Admitted an Affair, and Nvidia Opened a Spy Inquiry, Exposing How Much of AI Runs…](https://generativeai.pub/jensen-huang-admitted-an-affair-and-nvidia-opened-a-spy-inquiry-exposing-how-much-of-ai-runs-e91df158643a?source=rss------programming-5) (2026-11-12)
 
 </details>
 
@@ -389,6 +389,11 @@ PHP2Shell. What is it and What Do You Need to Do?
 https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do
 ) (2026-11-11)
 - [
+Transitioning Your Communications: How to Keep Customer Messages Flowing Seamlessly
+](
+https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio
+) (2026-11-11)
+- [
 21 types of emails explained (with tips & examples)
 ](
 https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples
@@ -403,11 +408,6 @@ The AI race is actually a context race
 ](
 https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race
 ) (2026-11-09)
-- [
-Broadcast text messaging: What is it & how to use it
-](
-https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
-) (2026-11-07)
 
 </details>
 
