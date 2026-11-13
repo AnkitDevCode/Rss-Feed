@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft’s latest email outage turned into a full blown global cloud crisis](https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/) (2026-11-13)
-- [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/) (2026-11-13)
-- [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/) (2026-11-13)
-- [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) (2026-11-12)
-- [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/) (2026-11-12)
+- [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/) (2026-11-13)
+- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) (2026-11-13)
+- [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/) (2026-11-13)
+- [This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/) (2026-11-13)
+- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) (2026-11-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/) (2026-11-13)
-- [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) (2026-11-13)
-- [Claude Is Down](https://status.claude.com/history) (2026-11-13)
-- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn) (2026-11-13)
-- [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/) (2026-11-13)
+- [Claude Meetings](https://claude.com/resources/articles/claude-meetings) (2026-11-13)
+- [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34) (2026-11-13)
+- [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage) (2026-11-13)
+- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) (2026-11-13)
+- [FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop) (2026-11-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple should have made the MacBook logo RGB](https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors) (2026-11-13)
-- [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) (2026-11-13)
-- [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow) (2026-11-13)
-- [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang) (2026-11-13)
-- [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3) (2026-11-13)
+- [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop) (2026-11-13)
+- [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (2026-11-13)
+- [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale) (2026-11-13)
+- [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale) (2026-11-13)
+- [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable) (2026-11-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rocket Report: Starship set for historic test flight; a century of Electron](https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/) (2026-11-13)
-- [Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride](https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/) (2026-11-13)
-- [In reversal, American Cancer Society urges routine prostate cancer screening](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) (2026-11-12)
-- [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) (2026-11-12)
-- [Ars Live: What drone attacks on data centers mean for modern life in the cloud](https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/) (2026-11-12)
+- [Millions of Americans are not taking their GLP-1 drugs as prescribed](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) (2026-11-13)
+- [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) (2026-11-13)
+- [In elephants, the resilience of communities has its limits](https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/) (2026-11-13)
+- [Kalshi ditches Trump Jr. as advisor; CEO admitted "optics" weren't good](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/) (2026-11-13)
+- [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) (2026-11-13)
 
 </details>
 
@@ -75,33 +75,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your coding agent shouldn't grade its own homework](https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/) (2026-11-13)
 - [ Agentic search doesn't find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/) (2026-11-13)
 - [How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/) (2026-11-12)
 - [Customer support is the gnarliest AI problem](https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/) (2026-11-10)
 - [Never Share Your Password Again — The OAuth 2.0 Solution](https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/) (2026-11-09)
-- [Welcome to life in the chip age](https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/) (2026-11-06)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Git Recover Lost Commits: 12 Fixes for Common Mistakes](https://dev.to/amareswer/git-recover-lost-commits-12-fixes-for-common-mistakes-i4d) (2026-11-13)
-- [Building an IoT-Based Gas Level Monitoring System Using ESP8266 and KiwisIoT Platform](https://dev.to/bala02102008/building-an-iot-based-gas-level-monitoring-system-using-esp8266-and-kiwisiot-platform-31om) (2026-11-13)
-- [Use one VPN key on PC and Mac without losing the setup](https://dev.to/akimbo07099c9c28/use-one-vpn-key-on-pc-and-mac-without-losing-the-setup-41a) (2026-11-13)
-- [A simple way to test a VPN key on your own network](https://dev.to/akimbo9a2416ff0b47/a-simple-way-to-test-a-vpn-key-on-your-own-network-3ag3) (2026-11-13)
-- [Anthropic sets IPO roadshow in motion with $70 to $78 share range](https://dev.to/spaisee/anthropic-sets-ipo-roadshow-in-motion-with-70-to-78-share-range-353a) (2026-11-13)
+- [How to Scrape Funda Property Listings in Python with Funda Scraper](https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d) (2026-11-13)
+- [Crear apps con IA: hasta dónde llegan las herramientas](https://dev.to/newsoftmx/crear-apps-con-ia-hasta-donde-llegan-las-herramientas-27i4) (2026-11-13)
+- [How to Scrape Immobiliare.it Listings with Python and Apify](https://dev.to/reventadata/how-to-scrape-immobiliareit-listings-with-python-and-apify-889) (2026-11-13)
+- [How to Scrape German Real Estate Listings with ImmoScout24 Scraper](https://dev.to/reventadata/how-to-scrape-german-real-estate-listings-with-immoscout24-scraper-1d2h) (2026-11-13)
+- [RPA vs Agentes de IA: ¿cuándo usar cada uno?](https://dev.to/newsoftmx/rpa-vs-agentes-de-ia-cuando-usar-cada-uno-37c3) (2026-11-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Free Developer Tools That Feel Almost Too Good to Be Free](https://medium.com/codetodeploy/10-free-developer-tools-that-feel-almost-too-good-to-be-free-02ac8365526f?source=rss------programming-5) (2026-11-13)
-- [Java 25 LTS for Mission-Critical Systems: What Actually Matters](https://medium.com/@prakash.dayaramani/java-25-lts-for-mission-critical-systems-what-actually-matters-2a0a831e69c5?source=rss------programming-5) (2026-11-13)
-- [The Timestamp in My System Prompt Was Costing Me Nearly 4x](https://medium.com/@michaelmaurice410/the-timestamp-in-my-system-prompt-was-costing-me-nearly-4x-c8e3abd27c07?source=rss------programming-5) (2026-11-13)
-- [A Public Forum Is 8% of Where Developers Look First. Asking an Agent Is 70%.](https://medium.com/@reactbd/a-public-forum-is-8-of-where-developers-look-first-asking-an-agent-is-70-7a1b844ccd2c?source=rss------programming-5) (2026-11-13)
-- [Atlarix 15.17: Calmer Sign-In, and Auto Picks the Right Model for Each Request](https://medium.com/@amariah.abish/atlarix-15-17-calmer-sign-in-and-auto-picks-the-right-model-for-each-request-b31ce17e7965?source=rss------programming-5) (2026-11-13)
+- [66 Backend Engineering Skills That Become Expensive When You Learn Them Too Late](https://medium.com/javarevisited/66-backend-engineering-skills-that-become-expensive-when-you-learn-them-too-late-4ca0bf6fedad?source=rss------programming-5) (2026-11-13)
+- [66 Engineering Decisions That Look Correct Until Production Proves Otherwise](https://medium.com/javarevisited/66-engineering-decisions-that-look-correct-until-production-proves-otherwise-6d1005c1408d?source=rss------programming-5) (2026-11-13)
+- [The Senior Engineer’s Field Guide to 66 Real-World Software Engineering Failures](https://medium.com/javarevisited/the-senior-engineers-field-guide-to-66-real-world-software-engineering-failures-ec349bef1b43?source=rss------programming-5) (2026-11-13)
+- [66 Advanced Software Engineering Problems You Should Know Before Your Next Interview](https://medium.com/codex/66-advanced-software-engineering-problems-you-should-know-before-your-next-interview-ade98ec15610?source=rss------programming-5) (2026-11-13)
+- [60 Advanced Software Engineering Problems That Separate Senior Engineers From Staff](https://medium.com/javarevisited/60-advanced-software-engineering-problems-that-separate-senior-engineers-from-staff-220fb98c04f5?source=rss------programming-5) (2026-11-13)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/) (2026-11-13)
 - [Intelligent Delivery: Making Every Unit of Compute Serve Better Ads](https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/) (2026-11-11)
 - [Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations](https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/) (2026-11-10)
 - [How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale](https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/) (2026-11-10)
 - [Extending LLDB to Debug Applications That Span CPUs and GPUs](https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/) (2026-11-09)
-- [F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale](https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/) (2026-11-03)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [What’s Fixed and Improved in PyCharm 2026.3](https://blog.jetbrains.com/pycharm/2026/11/what-s-fixed-and-improved-in-pycharm-2026-3/) (2026-11-13)
 - [Scaling AI Agents: What We Learned From 9 Real-World Cases](https://blog.jetbrains.com/blog/2026/11/13/scaling-ai-agents-what-we-learned-from-9-real-world-cases/) (2026-11-13)
 - [Forrester Consulting Finds IntelliJ IDEA Delivered 155% ROI and Highlights Open Approach to AI](https://blog.jetbrains.com/idea/2026/11/forrester-consulting-finds-intellij-idea-delivered-155-roi-and-highlights-open-approach-to-ai/) (2026-11-12)
 - [Webinar Recap: Agentic Debugging of Embedded Systems With CLion and TRACE32®](https://blog.jetbrains.com/clion/2026/11/webinar-recap-trace32/) (2026-11-12)
 - [Rider 2026.3 for Game Development: Lua and Verse Plugins, Better C++ Debugging, and Closer Godot Integration](https://blog.jetbrains.com/dotnet/2026/11/11/rider-2026-3-for-gamedev/) (2026-11-11)
-- [JetBrains IDEs Transformed for the Agentic Era of Development – With Air](https://blog.jetbrains.com/ai/2026/11/air-in-jetbrains-ides-ga/) (2026-11-11)
 
 </details>
 
@@ -361,22 +361,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Inkling 2 Small now available on AI Gateway](https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway) (2026-11-12)
-- [Gemini 4 Hydrogen now available on AI Gateway](https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway) (2026-11-12)
-- [Gemini Decision 1 now available on AI Gateway](https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway) (2026-11-11)
-- [MiniMax H3 Image and Highspeed now available on AI Gateway](https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway) (2026-11-10)
-- [Gemini 4 Carbon now available on AI Gateway](https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway) (2026-11-10)
+- [Daemons can now send traces to Vercel Tracing](https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing) (2026-11-13)
+- [Token Pass now includes $150 in tokens for $30/month](https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens) (2026-11-13)
+- [Vercel Security Review no longer requires a linked Vercel project](https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project) (2026-11-13)
+- [Vercel Sandbox starts up to 4x faster](https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster) (2026-11-13)
+- [Build cache size limit on Vercel increased to 5 GB](https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb) (2026-11-13)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) (2026-11-13)
+- [Adapting to AI penetration testing orchestrators: The Modern Security Model](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/) (2026-11-13)
+- [Introducing Spend Management: Spending limits and alerts for Cloudflare](https://blog.cloudflare.com/spend-management/) (2026-11-13)
 - [Choosing QuePaxa, an unusual consensus algorithm](https://blog.cloudflare.com/choosing-quepaxa/) (2026-11-11)
 - [Launching the Vite Ecosystem Fund](https://blog.cloudflare.com/launching-vite-ecosystem-fund/) (2026-11-09)
-- [The post-quantum future of web privacy](https://blog.cloudflare.com/vole-mole/) (2026-11-06)
-- [Agents aren’t humans (but they kinda are)](https://blog.cloudflare.com/trusted-agent-delegation/) (2026-11-05)
-- [See the agents, set the terms: New visibility and control for personal agents](https://blog.cloudflare.com/personal-agents-visibility-control/) (2026-11-04)
 
 </details>
 
@@ -518,10 +518,10 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <summary>⚡ Zapier Blog</summary>
 
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
+- [How to automate your AI personal assistant](https://zapier.com/blog/automate-ai-personal-assistant) (2026-11-13)
 - [Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)](https://zapier.com/blog/automate-grok) (2026-11-12)
 - [What is Google Gemini?](https://zapier.com/blog/google-gemini) (2026-11-12)
-- [Lindy pricing and plans for 2026](https://zapier.com/blog/lindy-pricing) (2026-11-11)
-- [Pipedream pricing: Is it worth it?](https://zapier.com/blog/pipedream-pricing) (2026-11-11)
+- [Tray pricing: Is it worth it?](https://zapier.com/blog/tray-pricing) (2026-11-11)
 
 </details>
 
@@ -539,11 +539,11 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to create a sales dashboard](https://slack.com/blog/productivity/how-to-create-a-sales-dashboard) (2026-11-09)
+- [Best remote work tools for team collaboration](https://slack.com/blog/collaboration/best-remote-work-tools-for-team-collaboration) (2026-11-09)
 - [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistant) (2026-11-06)
 - [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
 - [Slackbot: Delegate more work, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
-- [Introducing the Slack Code API: Your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api) (2026-10-28)
-- [AI Integration 101: How It Works, Benefits, and How to Do It Right](https://slack.com/blog/ai/ai-integration) (2026-10-23)
 
 </details>
 
@@ -583,22 +583,22 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place) (2026-11-13)
+- [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench) (2026-11-13)
+- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1) (2026-11-13)
 - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite) (2026-11-12)
 - [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning) (2026-11-12)
-- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) (2026-11-11)
-- [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling) (2026-11-11)
-- [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace) (2026-11-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Keyword Search Tied an 8B Embedding Model at Picking Agent Tools](https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/) (2026-11-13)
+- [How Jev Makes Decisions About Images, With 4 Python Examples](https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/) (2026-11-13)
 - [What AI Agents Speed Up in PhD Research, and What They Can't](https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/) (2026-11-13)
 - [How to Check Local LLM Output with Ollama, Gemma 4, and Nimble](https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/) (2026-11-13)
 - [RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M](https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/) (2026-11-12)
-- [I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.](https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/) (2026-11-12)
-- [A Soft-Label MNIST Testbed for Human vs. Model Confidence](https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence/) (2026-11-12)
 
 </details>
 
@@ -616,11 +616,11 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour](https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour) (2026-11-13)
 - [5 FREE Open-Source Alternatives to Jev](https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev) (2026-11-13)
 - [Building Graph-Enhanced GenAI Applications with graphrag-toolkit](https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit) (2026-11-12)
 - [7 FREE Books to Learn About Building AI Systems](https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems) (2026-11-12)
 - [Where Does Abacus.AI’s Smaug Model Improve Performance the Most?](https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most) (2026-11-11)
-- [What Senior Data Science Job Postings Actually Ask for in 2026](https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026) (2026-11-11)
 
 </details>
 
@@ -643,17 +643,6 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
-- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
