@@ -9,66 +9,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/) (2026-11-12)
-- [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/) (2026-11-12)
-- [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/) (2026-11-12)
-- [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) (2026-11-12)
-- [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/) (2026-11-12)
+- [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) (2026-11-12)
+- [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/) (2026-11-12)
+- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (2026-11-12)
+- [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/) (2026-11-12)
+- [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/) (2026-11-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) (2026-11-12)
-- [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749) (2026-11-12)
-- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) (2026-11-12)
-- [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0) (2026-11-12)
-- [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/) (2026-11-12)
+- [Show HN: I built a Rick and Morty explainer video generator](https://usediorama.com/rick-and-morty) (2026-11-13)
+- [Switcher (2004)](https://folklore.org/Switcher.html) (2026-11-13)
+- [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/) (2026-11-13)
+- [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) (2026-11-13)
+- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) (2026-11-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (2026-11-12)
-- [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video) (2026-11-12)
-- [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling) (2026-11-12)
-- [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash) (2026-11-12)
-- [25 years later, Xbox is trying to reinvent itself again](https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad) (2026-11-12)
+- [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang) (2026-11-13)
+- [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3) (2026-11-13)
+- [Whoop launched a social network where every user has a ‘verified heartbeat’](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network) (2026-11-12)
+- [Humble Bundle redesign removes two-factor verification from settings](https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings) (2026-11-12)
+- [Microsoft Outlook is still down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (2026-11-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [In reversal, American Cancer Society urges routine prostate cancer screening](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) (2026-11-12)
+- [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) (2026-11-12)
+- [Ars Live: What drone attacks on data centers mean for modern life in the cloud](https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/) (2026-11-12)
+- [The Elder Scrolls' most obscure adventure gets a 4K PC makeover](https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/) (2026-11-12)
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/) (2026-11-12)
-- [Ukraine says it can’t stop Russian strikes because Starshield is limited again](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/) (2026-11-12)
-- [Google faces calls for AI moratoriums in schools after Gemini pilot backlash](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/) (2026-11-12)
-- [Netflix releases new trailer for Ray Gunn](https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/) (2026-11-12)
-- [Building a rocket is hard. AST SpaceMobile thinks it's "simple."](https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/) (2026-11-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) (2026-11-12)
 - [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/) (2026-11-12)
 - [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/) (2026-11-11)
 - [The Download: preserving minds and weighing open AI risks](https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/) (2026-11-11)
 - [The Download: Pelosi’s successor targets AI and data centers face power woes](https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/) (2026-11-10)
-- [Evolving metal extraction processes](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/) (2026-11-10)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/) (2026-11-13)
+- [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/) (2026-11-12)
 - [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/) (2026-11-10)
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) (2026-11-06)
 - [Inside GitHub’s new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) (2026-11-05)
-- [Accessibility statements now have a home on GitHub](https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/) (2026-11-05)
-- [Arnis turns any place on Earth into a Minecraft world](https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/) (2026-11-03)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Checkout custom_data arrived empty and the card was still charged](https://dev.to/florian13/checkout-customdata-arrived-empty-and-the-card-was-still-charged-im4) (2026-11-12)
-- [The Importance of Software Engineering in Web Application Development: Understanding the Dangers of Vibe Coding](https://dev.to/ambe_christian_2c5a13f32f/the-importance-of-software-engineering-in-web-application-development-understanding-the-dangers-of-4kpo) (2026-11-12)
-- [Beyond the Code: Why Software Engineering Still Matters in Web Application Development in the Age of Vibe Coding](https://dev.to/vernyuy_mary_cff3a76e9a8e/beyond-the-code-why-software-engineering-still-matters-in-web-application-development-in-the-age-44bh) (2026-11-12)
-- [Why Software Engineering Matters in Web Apps: The Risks of Vibe Coding](https://dev.to/fabiola_16/why-software-engineering-matters-in-web-apps-the-risks-of-vibe-coding-40h) (2026-11-12)
-- [How to compare a nearshore engineer to a US hire using only public BLS data](https://dev.to/bromena/how-to-compare-a-nearshore-engineer-to-a-us-hire-using-only-public-bls-data-349k) (2026-11-12)
+- [A 2FA Backup Code Path Undercut webMethods Integration Server Authentication](https://dev.to/sorrelthorncroft/a-2fa-backup-code-path-undercut-webmethods-integration-server-authentication-42cf) (2026-11-13)
+- [Decompiling module initializers: the <Module> static constructor and ModuleInitializerAttribute](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-module-initializers-the-static-constructor-and-moduleinitializerattribute-285h) (2026-11-13)
+- [How to Scrape Goodreads with Node.js: Book Search, Rating Distributions, Reviews, Author Lists, and a Ratings Tracker (2026)](https://dev.to/viktorhendelmann/how-to-scrape-goodreads-with-nodejs-book-search-rating-distributions-reviews-author-lists-and-35i2) (2026-11-13)
+- [Microsoft 365 went down (and took the Defender portal with it): the admin checklist for the next outage](https://dev.to/cdsecuritylab/microsoft-365-went-down-and-took-the-defender-portal-with-it-the-admin-checklist-for-the-next-a1h) (2026-11-13)
+- [Composio vs Nango vs Scalekit: What Changes When Your Agent Goes to Production](https://dev.to/therealmrmumba/composio-vs-nango-vs-scalekit-what-changes-when-your-agent-goes-to-production-4fl2) (2026-11-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Implementasi Aplikasi Absensi Mobile Berbasis Geolocation dan Verifikasi Foto Menggunakan Absentra](https://medium.com/@bamms2825/implementasi-aplikasi-absensi-mobile-berbasis-geolocation-dan-verifikasi-foto-menggunakan-absentra-f885a982e59b?source=rss------programming-5) (2026-11-12)
-- [PHP Streams: 10 Things the fopen Abstraction Can Do That You're Not Using](https://medium.com/@annxsa/php-streams-10-things-the-fopen-abstraction-can-do-that-youre-not-using-279bf259ce9c?source=rss------programming-5) (2026-11-12)
-- [Software Refactoring in Java: Improving Code Quality Without Changing Behaviour](https://medium.com/@dumindi21/software-refactoring-in-java-improving-code-quality-without-changing-behaviour-76df9f008a85?source=rss------programming-5) (2026-11-12)
-- [The Tailwind CSS Curriculum That Goes From Utility Classes to Engine Internals](https://medium.com/@iskandar.elakbar99/the-tailwind-css-curriculum-that-goes-from-utility-classes-to-engine-internals-eb70f7d673d6?source=rss------programming-5) (2026-11-12)
-- [.NET 10 vs .NET 11: Which Version Should Developers Choose?](https://medium.com/codex/net-10-vs-net-11-which-version-should-developers-choose-5eade61c6c21?source=rss------programming-5) (2026-11-12)
+- [The Java Service Worked for 3 Days… I spent 72 hours battling a 10MB Java OOM.](https://medium.com/@umeshcapg/the-java-service-worked-for-3-days-i-spent-72-hours-battling-a-10mb-java-oom-7d5872cb9ae2?source=rss------programming-5) (2026-11-13)
+- [AI Is Blind to Absence](https://medium.com/@ncrpjtys/ai-is-blind-to-absence-f5123869f785?source=rss------programming-5) (2026-11-13)
+- [Python Program to Find the Sum of the First and Last Digits](https://python.plainenglish.io/python-program-to-find-the-sum-of-the-first-and-last-digits-70ed2584e285?source=rss------programming-5) (2026-11-13)
+- [How to Log Out a User From All Devices? Designing Session Invalidation in Java and Spring Boot](https://medium.com/@umeshcapg/how-to-log-out-a-user-from-all-devices-designing-session-invalidation-in-java-and-spring-boot-b9c01830d75a?source=rss------programming-5) (2026-11-13)
+- [One Div, Plain JavaScript: Small Physics Apps Built from a Written Spec](https://medium.com/@azzahraputriya/one-div-plain-javascript-small-physics-apps-built-from-a-written-spec-9e43075387d3?source=rss------programming-5) (2026-11-13)
 
 </details>
 
@@ -361,7 +361,7 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [WTF are evals? How to test agents and the software they use](https://vercel.com/blog/wtf-are-evals) (2026-11-12)
+- [Inkling 2 Small now available on AI Gateway](https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway) (2026-11-12)
 - [Gemini 4 Hydrogen now available on AI Gateway](https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway) (2026-11-12)
 - [Gemini Decision 1 now available on AI Gateway](https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway) (2026-11-11)
 - [MiniMax H3 Image and Highspeed now available on AI Gateway](https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway) (2026-11-10)
@@ -415,14 +415,14 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <summary>🔐 Auth0 Blog</summary>
 
 - [Authentication and Authorization: What's New in .NET 11](https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/) (2026-11-09)
+- [Consumers are Ready for AI. Are Companies?
+](https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/) (2026-11-03)
 - [Moving Quickly Without Breaking Things
 ](https://auth0.com/blog/moving-quickly-without-breaking-things/) (2026-11-03)
-- [Trust Puts Customer Identity in the Spotlight
-](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
 - [Compliant Infrastructure, Frustrating CX
 ](https://auth0.com/blog/compliant-infrastructure-frustrating-cx/) (2026-11-03)
-- [AI ambitions are blocked by identity debt
-](https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/) (2026-11-03)
+- [Trust Puts Customer Identity in the Spotlight
+](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
 
 </details>
 
@@ -520,8 +520,8 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
 - [Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)](https://zapier.com/blog/automate-grok) (2026-11-12)
 - [What is Google Gemini?](https://zapier.com/blog/google-gemini) (2026-11-12)
-- [MuleSoft pricing: Is it worth it? [2026]](https://zapier.com/blog/mulesoft-pricing) (2026-11-11)
-- [Tray pricing: Is it worth it?](https://zapier.com/blog/tray-pricing) (2026-11-11)
+- [Lindy pricing and plans for 2026](https://zapier.com/blog/lindy-pricing) (2026-11-11)
+- [Pipedream pricing: Is it worth it?](https://zapier.com/blog/pipedream-pricing) (2026-11-11)
 
 </details>
 
@@ -643,17 +643,6 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
-- [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/) (2026-11-09)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
