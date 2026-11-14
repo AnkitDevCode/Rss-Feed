@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/) (2026-11-13)
-- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) (2026-11-13)
-- [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/) (2026-11-13)
-- [This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/) (2026-11-13)
-- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) (2026-11-13)
+- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) (2026-11-14)
+- [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/) (2026-11-14)
+- [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/) (2026-11-14)
+- [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/) (2026-11-14)
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-11-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) (2026-11-14)
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) (2026-11-14)
-- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) (2026-11-14)
-- [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks) (2026-11-14)
-- [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026) (2026-11-14)
+- [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka) (2026-11-14)
+- [Yeah, LLM's haven't solved much of anything else, but hey, here you go](https://apps.apple.com/us/app/intellikey/id1667188645) (2026-11-14)
+- [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year) (2026-11-14)
+- [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) (2026-11-14)
+- [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file) (2026-11-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) (2026-11-14)
-- [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop) (2026-11-14)
-- [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) (2026-11-13)
-- [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (2026-11-13)
-- [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale) (2026-11-13)
+- [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (2026-11-14)
+- [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series) (2026-11-14)
+- [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire) (2026-11-14)
+- [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026) (2026-11-14)
+- [The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) (2026-11-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Ideation Is Hard (And Why It Breaks Most Projects)](https://dev.to/sumit0rn/why-ideation-is-hard-and-why-it-breaks-most-projects-icl) (2026-11-14)
-- [Why Cabloy/Vona Has No NestJS Dynamic Module](https://dev.to/uncle-pushui/why-cabloyvona-has-no-nestjs-dynamic-module-2b2b) (2026-11-14)
-- [nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding it](https://dev.to/alexgeorgiev17/nginx-131s-jsonset-directive-rejects-a-bad-webhook-payload-about-13-times-faster-than-forwarding-3b00) (2026-11-14)
-- [How passive reconnaissance works on an abandoned machine.](https://dev.to/nullcipher2shell/how-passive-reconnaissance-works-on-an-abandoned-machine-4p86) (2026-11-14)
-- [I Checked How Many of My MCP Server's 53 Logged Bugs Were Actually the Protocol's Fault](https://dev.to/enjoy_kumawat/i-checked-how-many-of-my-mcp-servers-53-logged-bugs-were-actually-the-protocols-fault-175e) (2026-11-14)
+- [LTX 2.3 MSR: Multi-Image Reference Video With Three-Stage Rendering](https://dev.to/ai-ksk/ltx-23-msr-multi-image-reference-video-with-three-stage-rendering-498) (2026-11-14)
+- [How I scrape hackathon platforms every day with GitHub Actions and Supabase (and the bug that froze my site for six weeks)](https://dev.to/ahmad_adil_d9e7ddfbdb26ad/how-i-scrape-hackathon-platforms-every-day-with-github-actions-and-supabase-and-the-bug-that-froze-420p) (2026-11-14)
+- [Auditing the invisible](https://dev.to/ketushah/auditing-the-invisible-110b) (2026-11-14)
+- [The most humane invention in computing](https://dev.to/ketushah/the-most-humane-invention-in-computing-7bp) (2026-11-14)
+- [Cómo construir un agente de IA con Google ADK](https://dev.to/johnbulla/como-construir-un-agente-de-ia-con-google-adk-2fgn) (2026-11-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [30 More Programming Jokes That Will Make Every Developer Laugh (And Cry a Little)](https://medium.com/@zaydislam25/30-more-programming-jokes-that-will-make-every-developer-laugh-and-cry-a-little-a48bcba584ae?source=rss------programming-5) (2026-11-14)
-- [Challenges of Any database](https://medium.com/@kunalagarwal0202/challenges-of-any-database-2f36c5a51752?source=rss------programming-5) (2026-11-14)
-- [Life Is Nothing but an Optimization Problem: What DSA Taught Me Beyond Coding](https://medium.com/@siddharthsolankidecember/life-is-nothing-but-an-optimization-problem-what-dsa-taught-me-beyond-coding-77d9634b17b4?source=rss------programming-5) (2026-11-14)
-- [Safari Blocked the eMudhra Certificates. My Git and 7 of My Apps Didn’t](https://medium.com/@anmolsethi.01/safari-blocked-the-emudhra-certificates-my-git-and-7-of-my-apps-didnt-ec2d6909b165?source=rss------programming-5) (2026-11-14)
-- [Reading Code Is 80% of Our Job](https://medium.com/@bharat.chandera/reading-code-is-80-of-our-job-557ed94ad293?source=rss------programming-5) (2026-11-14)
+- [All the Tests Passed. Then I Broke the Code on Purpose.](https://beyondthestacknotes.medium.com/all-the-tests-passed-then-i-broke-the-code-on-purpose-9b10867ff9c5?source=rss------programming-5) (2026-11-14)
+- [How to Stay Relevant as a Software Engineer in 2027 (When AI Can Write Your Code)](https://medium.com/@sudoofe123/how-to-stay-relevant-as-a-software-engineer-in-2027-when-ai-can-write-your-code-f967ce65e674?source=rss------programming-5) (2026-11-14)
+- [Stop Passing Raw Prompts: Start Giving AI Agents Local Memory MCP Servers](https://medium.com/tech-and-ai-guild/stop-passing-raw-prompts-start-giving-ai-agents-local-memory-mcp-servers-aa7a06c5284a?source=rss------programming-5) (2026-11-14)
+- [Untangling Big Walk’s AI Usage When You’re Anti-AI — A Developer’s Perspective](https://medium.com/@thomas.mackinnon/untangling-big-walks-ai-usage-when-you-re-anti-ai-a-developer-s-perspective-058a68acbc2b?source=rss------programming-5) (2026-11-14)
+- [GitHub’s December Workflow Change: A Freelancer’s Brownout Handoff Plan](https://marcusykim.medium.com/githubs-december-workflow-change-a-freelancer-s-brownout-handoff-plan-84eb8c9fc15e?source=rss------programming-5) (2026-11-14)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Best practices for implementing Silent Network Authentication in production
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna
+) (2026-11-13)
+- [
+Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
+](
+https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life
+) (2026-11-13)
+- [
+Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
+](
+https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey
+) (2026-11-13)
+- [
+How to share customer context across chat, SMS, and voice
+](
+https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context
+) (2026-11-13)
+- [
 PHP2Shell. What is it and What Do You Need to Do?
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do
 ) (2026-11-11)
-- [
-Transitioning Your Communications: How to Keep Customer Messages Flowing Seamlessly
-](
-https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio
-) (2026-11-11)
-- [
-7 questions to ask a customer engagement platform before you commit
-](
-https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions
-) (2026-11-11)
-- [
-21 types of emails explained (with tips & examples)
-](
-https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples
-) (2026-11-09)
-- [
-Speed to a person isn't an AI failure: It may be it’s best feature 
-](
-https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
-) (2026-11-09)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build a Markov Chain in Python With NumPy](https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/) (2026-11-14)
+- [Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors](https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/) (2026-11-14)
 - [Keyword Search Tied an 8B Embedding Model at Picking Agent Tools](https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/) (2026-11-13)
 - [How Jev Makes Decisions About Images, With 4 Python Examples](https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/) (2026-11-13)
 - [What AI Agents Speed Up in PhD Research, and What They Can't](https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/) (2026-11-13)
-- [How to Check Local LLM Output with Ollama, Gemma 4, and Nimble](https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/) (2026-11-13)
-- [RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M](https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/) (2026-11-12)
 
 </details>
 
@@ -627,11 +627,11 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Weight-Only Quantization](https://machinelearningmastery.com/weight-only-quantization/) (2026-11-14)
 - [The Complete Guide to LLM Evaluation](https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/) (2026-11-13)
 - [Fast Attention Kernels and Operator Fusion](https://machinelearningmastery.com/fast-attention-kernels-and-operator-fusion/) (2026-11-12)
 - [Getting Reliable Structured Outputs from LLMs: Validation, Retries and Constrained Decoding](https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/) (2026-11-12)
 - [Sandboxing AI Agent Code Execution in Python: Containers, MicroVMs and Beyond](https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/) (2026-11-11)
-- [What Are Diffusion Language Models, and Why Are They Different From GPT?](https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/) (2026-11-10)
 
 </details>
 
