@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claude Meetings](https://claude.com/resources/articles/claude-meetings) (2026-11-13)
-- [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34) (2026-11-13)
-- [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage) (2026-11-13)
-- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) (2026-11-13)
-- [FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop) (2026-11-13)
+- [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) (2026-11-14)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) (2026-11-14)
+- [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html) (2026-11-14)
+- [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks) (2026-11-14)
+- [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026) (2026-11-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop) (2026-11-13)
+- [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop) (2026-11-14)
+- [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) (2026-11-13)
 - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (2026-11-13)
 - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale) (2026-11-13)
 - [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale) (2026-11-13)
-- [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable) (2026-11-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) (2026-11-14)
+- [FAA has lifted its third-ever nationwide ground stop](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) (2026-11-13)
 - [Millions of Americans are not taking their GLP-1 drugs as prescribed](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) (2026-11-13)
 - [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) (2026-11-13)
 - [In elephants, the resilience of communities has its limits](https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/) (2026-11-13)
-- [Kalshi ditches Trump Jr. as advisor; CEO admitted "optics" weren't good](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/) (2026-11-13)
-- [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) (2026-11-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Scrape Funda Property Listings in Python with Funda Scraper](https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d) (2026-11-13)
-- [Crear apps con IA: hasta dónde llegan las herramientas](https://dev.to/newsoftmx/crear-apps-con-ia-hasta-donde-llegan-las-herramientas-27i4) (2026-11-13)
-- [How to Scrape Immobiliare.it Listings with Python and Apify](https://dev.to/reventadata/how-to-scrape-immobiliareit-listings-with-python-and-apify-889) (2026-11-13)
-- [How to Scrape German Real Estate Listings with ImmoScout24 Scraper](https://dev.to/reventadata/how-to-scrape-german-real-estate-listings-with-immoscout24-scraper-1d2h) (2026-11-13)
-- [RPA vs Agentes de IA: ¿cuándo usar cada uno?](https://dev.to/newsoftmx/rpa-vs-agentes-de-ia-cuando-usar-cada-uno-37c3) (2026-11-13)
+- [x402 returned 202 after payment? Data from 14,991 paid calls, and how refunds work](https://dev.to/kzmttkc/x402-returned-202-after-payment-data-from-14991-paid-calls-and-how-refunds-work-2jhk) (2026-11-14)
+- [Read your AWS Cost Explorer CSV in 19 lines of Node](https://dev.to/grain64/read-your-aws-cost-explorer-csv-in-19-lines-of-node-4gln) (2026-11-14)
+- [Detecting a kayak is only one part of deploying outdoor computer vision](https://dev.to/verixtechnology/detecting-a-kayak-is-only-one-part-of-deploying-outdoor-computer-vision-4374) (2026-11-14)
+- [Your AI Agent Should Not Inherit Your Environment](https://dev.to/axec/your-ai-agent-should-not-inherit-your-environment-ejb) (2026-11-14)
+- [Your shipments table needs two carriers per row, not one](https://dev.to/support24htrack/your-shipments-table-needs-two-carriers-per-row-not-one-1kf2) (2026-11-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [66 Backend Engineering Skills That Become Expensive When You Learn Them Too Late](https://medium.com/javarevisited/66-backend-engineering-skills-that-become-expensive-when-you-learn-them-too-late-4ca0bf6fedad?source=rss------programming-5) (2026-11-13)
-- [66 Engineering Decisions That Look Correct Until Production Proves Otherwise](https://medium.com/javarevisited/66-engineering-decisions-that-look-correct-until-production-proves-otherwise-6d1005c1408d?source=rss------programming-5) (2026-11-13)
-- [The Senior Engineer’s Field Guide to 66 Real-World Software Engineering Failures](https://medium.com/javarevisited/the-senior-engineers-field-guide-to-66-real-world-software-engineering-failures-ec349bef1b43?source=rss------programming-5) (2026-11-13)
-- [66 Advanced Software Engineering Problems You Should Know Before Your Next Interview](https://medium.com/codex/66-advanced-software-engineering-problems-you-should-know-before-your-next-interview-ade98ec15610?source=rss------programming-5) (2026-11-13)
-- [60 Advanced Software Engineering Problems That Separate Senior Engineers From Staff](https://medium.com/javarevisited/60-advanced-software-engineering-problems-that-separate-senior-engineers-from-staff-220fb98c04f5?source=rss------programming-5) (2026-11-13)
+- [How a walk past a lottery shop turned into Moeum Quiz](https://medium.com/@soosooland2025/how-a-walk-past-a-lottery-shop-turned-into-moeum-quiz-e683df90667a?source=rss------programming-5) (2026-11-14)
+- [Technical Debt Hides in AI Systems Too: The Engineering Problems Behind Machine Learning](https://medium.com/@sales_95773/technical-debt-hides-in-ai-systems-too-the-engineering-problems-behind-machine-learning-9ccd9939215d?source=rss------programming-5) (2026-11-14)
+- [I Built a Low-Cost RF Direction-Finding Experiment Using Multiple SDR Receivers.](https://radiohackers.com/i-built-a-low-cost-rf-direction-finding-experiment-using-multiple-sdr-receivers-3e995c9bfec9?source=rss------programming-5) (2026-11-14)
+- [Data Analysis Made Easy: 5 Simple Steps for Beginners](https://syedwritesdata.medium.com/data-analysis-made-easy-5-simple-steps-for-beginners-a152fd06fc57?source=rss------programming-5) (2026-11-14)
+- [Go From Zero, Part 12: Building a REST API with the Standard Library](https://sahilkhaire.medium.com/go-from-zero-part-12-building-a-rest-api-with-the-standard-library-417d37fa8c55?source=rss------programming-5) (2026-11-14)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Best practices for implementing Silent Network Authentication in production
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna
+) (2026-11-13)
+- [
+Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
+](
+https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life
+) (2026-11-13)
+- [
+Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
+](
+https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey
+) (2026-11-13)
+- [
+How to share customer context across chat, SMS, and voice
+](
+https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context
+) (2026-11-13)
+- [
 PHP2Shell. What is it and What Do You Need to Do?
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do
 ) (2026-11-11)
-- [
-Transitioning Your Communications: How to Keep Customer Messages Flowing Seamlessly
-](
-https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio
-) (2026-11-11)
-- [
-7 questions to ask a customer engagement platform before you commit
-](
-https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions
-) (2026-11-11)
-- [
-21 types of emails explained (with tips & examples)
-](
-https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples
-) (2026-11-09)
-- [
-Speed to a person isn't an AI failure: It may be it’s best feature 
-](
-https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
-) (2026-11-09)
 
 </details>
 
@@ -643,6 +643,17 @@ https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
+- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
+- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
+- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
+- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
