@@ -20,9 +20,9 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) (2026-11-14)
+- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) (2026-11-14)
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) (2026-11-14)
 - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) (2026-11-14)
-- [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html) (2026-11-14)
 - [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks) (2026-11-14)
 - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026) (2026-11-14)
 
@@ -31,22 +31,22 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) (2026-11-14)
 - [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop) (2026-11-14)
 - [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) (2026-11-13)
 - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) (2026-11-13)
 - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale) (2026-11-13)
-- [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale) (2026-11-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) (2026-11-14)
+- [Winemakers are learning that conservation can be good for business](https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/) (2026-11-14)
 - [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) (2026-11-14)
 - [FAA has lifted its third-ever nationwide ground stop](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) (2026-11-13)
 - [Millions of Americans are not taking their GLP-1 drugs as prescribed](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) (2026-11-13)
-- [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) (2026-11-13)
-- [In elephants, the resilience of communities has its limits](https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/) (2026-11-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [x402 returned 202 after payment? Data from 14,991 paid calls, and how refunds work](https://dev.to/kzmttkc/x402-returned-202-after-payment-data-from-14991-paid-calls-and-how-refunds-work-2jhk) (2026-11-14)
-- [Read your AWS Cost Explorer CSV in 19 lines of Node](https://dev.to/grain64/read-your-aws-cost-explorer-csv-in-19-lines-of-node-4gln) (2026-11-14)
-- [Detecting a kayak is only one part of deploying outdoor computer vision](https://dev.to/verixtechnology/detecting-a-kayak-is-only-one-part-of-deploying-outdoor-computer-vision-4374) (2026-11-14)
-- [Your AI Agent Should Not Inherit Your Environment](https://dev.to/axec/your-ai-agent-should-not-inherit-your-environment-ejb) (2026-11-14)
-- [Your shipments table needs two carriers per row, not one](https://dev.to/support24htrack/your-shipments-table-needs-two-carriers-per-row-not-one-1kf2) (2026-11-14)
+- [Why Ideation Is Hard (And Why It Breaks Most Projects)](https://dev.to/sumit0rn/why-ideation-is-hard-and-why-it-breaks-most-projects-icl) (2026-11-14)
+- [Why Cabloy/Vona Has No NestJS Dynamic Module](https://dev.to/uncle-pushui/why-cabloyvona-has-no-nestjs-dynamic-module-2b2b) (2026-11-14)
+- [nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding it](https://dev.to/alexgeorgiev17/nginx-131s-jsonset-directive-rejects-a-bad-webhook-payload-about-13-times-faster-than-forwarding-3b00) (2026-11-14)
+- [How passive reconnaissance works on an abandoned machine.](https://dev.to/nullcipher2shell/how-passive-reconnaissance-works-on-an-abandoned-machine-4p86) (2026-11-14)
+- [I Checked How Many of My MCP Server's 53 Logged Bugs Were Actually the Protocol's Fault](https://dev.to/enjoy_kumawat/i-checked-how-many-of-my-mcp-servers-53-logged-bugs-were-actually-the-protocols-fault-175e) (2026-11-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How a walk past a lottery shop turned into Moeum Quiz](https://medium.com/@soosooland2025/how-a-walk-past-a-lottery-shop-turned-into-moeum-quiz-e683df90667a?source=rss------programming-5) (2026-11-14)
-- [Technical Debt Hides in AI Systems Too: The Engineering Problems Behind Machine Learning](https://medium.com/@sales_95773/technical-debt-hides-in-ai-systems-too-the-engineering-problems-behind-machine-learning-9ccd9939215d?source=rss------programming-5) (2026-11-14)
-- [I Built a Low-Cost RF Direction-Finding Experiment Using Multiple SDR Receivers.](https://radiohackers.com/i-built-a-low-cost-rf-direction-finding-experiment-using-multiple-sdr-receivers-3e995c9bfec9?source=rss------programming-5) (2026-11-14)
-- [Data Analysis Made Easy: 5 Simple Steps for Beginners](https://syedwritesdata.medium.com/data-analysis-made-easy-5-simple-steps-for-beginners-a152fd06fc57?source=rss------programming-5) (2026-11-14)
-- [Go From Zero, Part 12: Building a REST API with the Standard Library](https://sahilkhaire.medium.com/go-from-zero-part-12-building-a-rest-api-with-the-standard-library-417d37fa8c55?source=rss------programming-5) (2026-11-14)
+- [30 More Programming Jokes That Will Make Every Developer Laugh (And Cry a Little)](https://medium.com/@zaydislam25/30-more-programming-jokes-that-will-make-every-developer-laugh-and-cry-a-little-a48bcba584ae?source=rss------programming-5) (2026-11-14)
+- [Challenges of Any database](https://medium.com/@kunalagarwal0202/challenges-of-any-database-2f36c5a51752?source=rss------programming-5) (2026-11-14)
+- [Life Is Nothing but an Optimization Problem: What DSA Taught Me Beyond Coding](https://medium.com/@siddharthsolankidecember/life-is-nothing-but-an-optimization-problem-what-dsa-taught-me-beyond-coding-77d9634b17b4?source=rss------programming-5) (2026-11-14)
+- [Safari Blocked the eMudhra Certificates. My Git and 7 of My Apps Didn’t](https://medium.com/@anmolsethi.01/safari-blocked-the-emudhra-certificates-my-git-and-7-of-my-apps-didnt-ec2d6909b165?source=rss------programming-5) (2026-11-14)
+- [Reading Code Is 80% of Our Job](https://medium.com/@bharat.chandera/reading-code-is-80-of-our-job-557ed94ad293?source=rss------programming-5) (2026-11-14)
 
 </details>
 
@@ -384,30 +384,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Best practices for implementing Silent Network Authentication in production
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna
-) (2026-11-13)
-- [
-Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
-](
-https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life
-) (2026-11-13)
-- [
-Brilliant Builds Season 2: Rethinking Enterprise AI Across the Customer Journey
-](
-https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey
-) (2026-11-13)
-- [
-How to share customer context across chat, SMS, and voice
-](
-https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context
-) (2026-11-13)
-- [
 PHP2Shell. What is it and What Do You Need to Do?
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do
 ) (2026-11-11)
+- [
+Transitioning Your Communications: How to Keep Customer Messages Flowing Seamlessly
+](
+https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio
+) (2026-11-11)
+- [
+7 questions to ask a customer engagement platform before you commit
+](
+https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions
+) (2026-11-11)
+- [
+21 types of emails explained (with tips & examples)
+](
+https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples
+) (2026-11-09)
+- [
+Speed to a person isn't an AI failure: It may be it’s best feature 
+](
+https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure
+) (2026-11-09)
 
 </details>
 
