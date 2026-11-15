@@ -9,33 +9,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) (2026-11-15)
-- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) (2026-11-14)
-- [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/) (2026-11-14)
-- [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/) (2026-11-14)
-- [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/) (2026-11-14)
+- [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/) (2026-11-15)
+- [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/) (2026-11-15)
+- [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/) (2026-11-15)
+- [TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/) (2026-11-15)
+- [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/) (2026-11-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) (2026-11-15)
-- [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists) (2026-11-15)
-- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) (2026-11-15)
-- [Kiri – The Modern Container Runtime](https://runkiri.com/) (2026-11-15)
-- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp) (2026-11-15)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (2026-11-15)
+- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/) (2026-11-15)
+- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/) (2026-11-15)
+- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch) (2026-11-15)
+- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) (2026-11-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) (2026-11-15)
-- [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (2026-11-14)
-- [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series) (2026-11-14)
-- [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire) (2026-11-14)
-- [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026) (2026-11-14)
+- [Listen to this: Armand Hammer’s Snakes &#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review) (2026-11-15)
+- [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites) (2026-11-15)
+- [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed) (2026-11-15)
+- [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) (2026-11-15)
+- [Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale) (2026-11-15)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out](https://dev.to/alvin_james/lessons-from-leading-a-small-dev-team-code-reviews-git-workflow-and-shipping-without-burning-out-3j6p) (2026-11-15)
-- [GitHub Actions workflow not triggering: three different states](https://dev.to/kalemi/github-actions-workflow-not-triggering-three-different-states-4b98) (2026-11-15)
-- [Check the Exit the Internet Sees: Looking Up Your Own IP on IP99](https://dev.to/ip99/check-the-exit-the-internet-sees-looking-up-your-own-ip-on-ip99-1l7n) (2026-11-15)
-- [808 Articles In, Antigravity Wants the Plan Written in Python First](https://dev.to/tomoyacreater/808-articles-in-antigravity-wants-the-plan-written-in-python-first-4a03) (2026-11-15)
-- [RAG vs fine-tuning: which does your AI application need?](https://dev.to/stackandcraft/rag-vs-fine-tuning-which-does-your-ai-application-need-422f) (2026-11-15)
+- [Building a Web3 product in Dubai: how VARA licensing maps onto your architecture](https://dev.to/tatianakoval/building-a-web3-product-in-dubai-how-vara-licensing-maps-onto-your-architecture-34mh) (2026-11-15)
+- [Deploying a Flask API to Kubernetes with KIND and Argo CD](https://dev.to/edith_ogechiodo_48a0e8ed/deploying-a-flask-api-to-kubernetes-with-kind-and-argo-cd-52fi) (2026-11-15)
+- [One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys](https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7) (2026-11-15)
+- [Realtime Trading Watchlists: Audit Trails for Notification Preference Verification](https://dev.to/sterlingvance2196/realtime-trading-watchlists-audit-trails-for-notification-preference-verification-4fkp) (2026-11-15)
+- [SENAITE API access needs role-scoped credentials and HTTPS](https://dev.to/stark_zhuang_df5076f35c68/senaite-api-access-needs-role-scoped-credentials-and-https-566a) (2026-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Can Write Your Code. But Can It Make You a Good Engineer?](https://medium.com/skillstuff/ai-can-write-your-code-but-can-it-make-you-a-good-engineer-abaaf93122f0?source=rss------programming-5) (2026-11-15)
-- [Fable 5.2: Turn a Chat Idea into Something That Moves](https://medium.com/kd-agentic/fable-5-2-turn-a-chat-idea-into-something-that-moves-7f0de7dcd9d9?source=rss------programming-5) (2026-11-15)
-- [Berpikir Sebelum Mengetik: Mengubah Rutinitas Harian Menjadi Algoritma](https://medium.com/@arkhanfariz139/berpikir-sebelum-mengetik-mengubah-rutinitas-harian-menjadi-algoritma-3323b4e7e4b7?source=rss------programming-5) (2026-11-15)
-- [Is there a Duolingo for coding? Now there is one](https://blog.stackademic.com/duolingo-for-coding-c814fe3bf444?source=rss------programming-5) (2026-11-15)
-- [Stop Waiting to Master JavaScript — Build Your First Real Project Today](https://medium.com/@apnagodda/stop-waiting-to-master-javascript-build-your-first-real-project-today-5450eab4720f?source=rss------programming-5) (2026-11-15)
+- [Your Claude Code turn finished. Which one?](https://medium.com/@mulberry.systems.dev/your-claude-code-turn-finished-which-one-f49cc01071d0?source=rss------programming-5) (2026-11-15)
+- [7 Python Tools for Email Reports That Send Themselves](https://blog.stackademic.com/7-python-tools-for-email-reports-that-send-themselves-58902e104c2b?source=rss------programming-5) (2026-11-15)
+- [The Microsoft ORM That Never Shipped](https://levelup.gitconnected.com/the-microsoft-orm-that-never-shipped-47defe5d9614?source=rss------programming-5) (2026-11-15)
+- [How I review Claude Code changes without reading every line](https://medium.com/@theomarsoliman/how-i-review-claude-code-changes-without-reading-every-line-db01a94e658a?source=rss------programming-5) (2026-11-15)
+- [How to Use an Online Ruler at Actual Size (cm and Inches)](https://medium.com/@nitpique/how-to-use-an-online-ruler-at-actual-size-cm-and-inches-5f73f099ab9c?source=rss------programming-5) (2026-11-15)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [AI models hate Python and love PHP: we asked 12 of them 1,200 times](https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/) (2026-11-15)
 - [What’s Fixed and Improved in PyCharm 2026.3](https://blog.jetbrains.com/pycharm/2026/11/what-s-fixed-and-improved-in-pycharm-2026-3/) (2026-11-13)
 - [Scaling AI Agents: What We Learned From 9 Real-World Cases](https://blog.jetbrains.com/blog/2026/11/13/scaling-ai-agents-what-we-learned-from-9-real-world-cases/) (2026-11-13)
 - [Forrester Consulting Finds IntelliJ IDEA Delivered 155% ROI and Highlights Open Approach to AI](https://blog.jetbrains.com/idea/2026/11/forrester-consulting-finds-intellij-idea-delivered-155-roi-and-highlights-open-approach-to-ai/) (2026-11-12)
 - [Webinar Recap: Agentic Debugging of Embedded Systems With CLion and TRACE32®](https://blog.jetbrains.com/clion/2026/11/webinar-recap-trace32/) (2026-11-12)
-- [Rider 2026.3 for Game Development: Lua and Verse Plugins, Better C++ Debugging, and Closer Godot Integration](https://blog.jetbrains.com/dotnet/2026/11/11/rider-2026-3-for-gamedev/) (2026-11-11)
 
 </details>
 
@@ -594,22 +594,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Practitioner's Guide to 6 Agentic GraphRAG Patterns](https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/) (2026-11-15)
 - [Computing Effective Dimension for Quantum ML Models in PyTorch](https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/) (2026-11-15)
 - [How to Build a Markov Chain in Python With NumPy](https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/) (2026-11-14)
 - [Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors](https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/) (2026-11-14)
 - [Keyword Search Tied an 8B Embedding Model at Picking Agent Tools](https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/) (2026-11-13)
-- [How Jev Makes Decisions About Images, With 4 Python Examples](https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/) (2026-11-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 GitHub Repositories Trending in October 2026](https://www.analyticsvidhya.com/blog/2026/11/top-github-repositories-october-2026/) (2026-11-15)
 - [How to Evaluate AI Agents For Enterprise](https://www.analyticsvidhya.com/blog/2026/11/how-to-evaluate-ai-agents-for-enterprise/) (2026-11-13)
 - [Gemini 4 Hydrogen: Hands-On Review](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-hydrogen-review/) (2026-11-13)
 - [Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory](https://www.analyticsvidhya.com/blog/2026/11/ai-agent-team-memory-tencentdb/) (2026-11-11)
 - [Why Enterprise LLMs Fail Before They Calculate, and What Context Engineering Changes](https://www.analyticsvidhya.com/blog/2026/11/why-enterprise-llms-fail-before-they-calculate/) (2026-11-10)
-- [GPT Image 2.6: The Best Image Generation Model Just Got an Upgrade!](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/) (2026-11-05)
 
 </details>
 
@@ -643,6 +643,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
+- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
+- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
+- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
+- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
