@@ -9,22 +9,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) (2026-11-15)
 - [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) (2026-11-14)
 - [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/) (2026-11-14)
 - [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/) (2026-11-14)
 - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/) (2026-11-14)
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (2026-11-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka) (2026-11-14)
-- [Yeah, LLM's haven't solved much of anything else, but hey, here you go](https://apps.apple.com/us/app/intellikey/id1667188645) (2026-11-14)
-- [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year) (2026-11-14)
-- [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) (2026-11-14)
-- [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file) (2026-11-14)
+- [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c) (2026-11-15)
+- [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) (2026-11-15)
+- [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html) (2026-11-15)
+- [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status) (2026-11-15)
+- [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) (2026-11-14)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/) (2026-11-15)
 - [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) (2026-11-14)
 - [Winemakers are learning that conservation can be good for business](https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/) (2026-11-14)
 - [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) (2026-11-14)
 - [FAA has lifted its third-ever nationwide ground stop](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) (2026-11-13)
-- [Millions of Americans are not taking their GLP-1 drugs as prescribed](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) (2026-11-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LTX 2.3 MSR: Multi-Image Reference Video With Three-Stage Rendering](https://dev.to/ai-ksk/ltx-23-msr-multi-image-reference-video-with-three-stage-rendering-498) (2026-11-14)
-- [How I scrape hackathon platforms every day with GitHub Actions and Supabase (and the bug that froze my site for six weeks)](https://dev.to/ahmad_adil_d9e7ddfbdb26ad/how-i-scrape-hackathon-platforms-every-day-with-github-actions-and-supabase-and-the-bug-that-froze-420p) (2026-11-14)
-- [Auditing the invisible](https://dev.to/ketushah/auditing-the-invisible-110b) (2026-11-14)
-- [The most humane invention in computing](https://dev.to/ketushah/the-most-humane-invention-in-computing-7bp) (2026-11-14)
-- [Cómo construir un agente de IA con Google ADK](https://dev.to/johnbulla/como-construir-un-agente-de-ia-con-google-adk-2fgn) (2026-11-14)
+- [Ubicloud vs Blacksmith for GitHub Actions runners](https://dev.to/kalemi/ubicloud-vs-blacksmith-for-github-actions-runners-4i17) (2026-11-15)
+- [Keep a startup-shutdown tracker honest: check every row has a live source with Python](https://dev.to/lazyfounder/keep-a-startup-shutdown-tracker-honest-check-every-row-has-a-live-source-with-python-15ap) (2026-11-15)
+- [ChatGPT Wallet Is Live: A Developer's Checklist Before You Accept Agent Checkouts](https://dev.to/shivaysinghrajput/chatgpt-wallet-is-live-a-developers-checklist-before-you-accept-agent-checkouts-3bg6) (2026-11-15)
+- [Human Approval Should Follow Consequence, Not Model Confidence](https://dev.to/axec/human-approval-should-follow-consequence-not-model-confidence-j35) (2026-11-15)
+- [Day 4: +392 downloads yesterday](https://dev.to/parasraju/day-4-392-downloads-yesterday-6i) (2026-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [All the Tests Passed. Then I Broke the Code on Purpose.](https://beyondthestacknotes.medium.com/all-the-tests-passed-then-i-broke-the-code-on-purpose-9b10867ff9c5?source=rss------programming-5) (2026-11-14)
-- [How to Stay Relevant as a Software Engineer in 2027 (When AI Can Write Your Code)](https://medium.com/@sudoofe123/how-to-stay-relevant-as-a-software-engineer-in-2027-when-ai-can-write-your-code-f967ce65e674?source=rss------programming-5) (2026-11-14)
-- [Stop Passing Raw Prompts: Start Giving AI Agents Local Memory MCP Servers](https://medium.com/tech-and-ai-guild/stop-passing-raw-prompts-start-giving-ai-agents-local-memory-mcp-servers-aa7a06c5284a?source=rss------programming-5) (2026-11-14)
-- [Untangling Big Walk’s AI Usage When You’re Anti-AI — A Developer’s Perspective](https://medium.com/@thomas.mackinnon/untangling-big-walks-ai-usage-when-you-re-anti-ai-a-developer-s-perspective-058a68acbc2b?source=rss------programming-5) (2026-11-14)
-- [GitHub’s December Workflow Change: A Freelancer’s Brownout Handoff Plan](https://marcusykim.medium.com/githubs-december-workflow-change-a-freelancer-s-brownout-handoff-plan-84eb8c9fc15e?source=rss------programming-5) (2026-11-14)
+- [Nano Banana API: Model IDs, Keys and Your First Request](https://medium.com/@salaztevis36/nano-banana-api-model-ids-keys-and-your-first-request-a73c6a9b80fd?source=rss------programming-5) (2026-11-15)
+- [Coverage-Guided Fuzzing: How the Fuzzer Knows It Made Progress](https://liu-111.medium.com/coverage-guided-fuzzing-how-the-fuzzer-knows-it-made-progress-e2437aa24322?source=rss------programming-5) (2026-11-15)
+- [Top 10 systemd Features Worth Knowing](https://liu-111.medium.com/top-10-systemd-features-worth-knowing-c874a11f9d50?source=rss------programming-5) (2026-11-15)
+- [Node.js From Zero, Part 12: Building a REST API with Express](https://sahilkhaire.medium.com/node-js-from-zero-part-12-building-a-rest-api-with-express-a6a16c63ea31?source=rss------programming-5) (2026-11-15)
+- [DISCOLOURED IMAGINATION](https://medium.com/@ezehe121/discoloured-imagination-58737aada630?source=rss------programming-5) (2026-11-15)
 
 </details>
 
