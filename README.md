@@ -20,33 +20,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c) (2026-11-15)
-- [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) (2026-11-15)
-- [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html) (2026-11-15)
-- [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status) (2026-11-15)
-- [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) (2026-11-14)
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) (2026-11-15)
+- [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists) (2026-11-15)
+- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) (2026-11-15)
+- [Kiri – The Modern Container Runtime](https://runkiri.com/) (2026-11-15)
+- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp) (2026-11-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) (2026-11-15)
 - [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (2026-11-14)
 - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series) (2026-11-14)
 - [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire) (2026-11-14)
 - [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026) (2026-11-14)
-- [The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) (2026-11-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [How the world’s fires changed while humanity hit pause](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/) (2026-11-15)
 - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/) (2026-11-15)
 - [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) (2026-11-14)
 - [Winemakers are learning that conservation can be good for business](https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/) (2026-11-14)
 - [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) (2026-11-14)
-- [FAA has lifted its third-ever nationwide ground stop](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) (2026-11-13)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ubicloud vs Blacksmith for GitHub Actions runners](https://dev.to/kalemi/ubicloud-vs-blacksmith-for-github-actions-runners-4i17) (2026-11-15)
-- [Keep a startup-shutdown tracker honest: check every row has a live source with Python](https://dev.to/lazyfounder/keep-a-startup-shutdown-tracker-honest-check-every-row-has-a-live-source-with-python-15ap) (2026-11-15)
-- [ChatGPT Wallet Is Live: A Developer's Checklist Before You Accept Agent Checkouts](https://dev.to/shivaysinghrajput/chatgpt-wallet-is-live-a-developers-checklist-before-you-accept-agent-checkouts-3bg6) (2026-11-15)
-- [Human Approval Should Follow Consequence, Not Model Confidence](https://dev.to/axec/human-approval-should-follow-consequence-not-model-confidence-j35) (2026-11-15)
-- [Day 4: +392 downloads yesterday](https://dev.to/parasraju/day-4-392-downloads-yesterday-6i) (2026-11-15)
+- [Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out](https://dev.to/alvin_james/lessons-from-leading-a-small-dev-team-code-reviews-git-workflow-and-shipping-without-burning-out-3j6p) (2026-11-15)
+- [GitHub Actions workflow not triggering: three different states](https://dev.to/kalemi/github-actions-workflow-not-triggering-three-different-states-4b98) (2026-11-15)
+- [Check the Exit the Internet Sees: Looking Up Your Own IP on IP99](https://dev.to/ip99/check-the-exit-the-internet-sees-looking-up-your-own-ip-on-ip99-1l7n) (2026-11-15)
+- [808 Articles In, Antigravity Wants the Plan Written in Python First](https://dev.to/tomoyacreater/808-articles-in-antigravity-wants-the-plan-written-in-python-first-4a03) (2026-11-15)
+- [RAG vs fine-tuning: which does your AI application need?](https://dev.to/stackandcraft/rag-vs-fine-tuning-which-does-your-ai-application-need-422f) (2026-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Nano Banana API: Model IDs, Keys and Your First Request](https://medium.com/@salaztevis36/nano-banana-api-model-ids-keys-and-your-first-request-a73c6a9b80fd?source=rss------programming-5) (2026-11-15)
-- [Coverage-Guided Fuzzing: How the Fuzzer Knows It Made Progress](https://liu-111.medium.com/coverage-guided-fuzzing-how-the-fuzzer-knows-it-made-progress-e2437aa24322?source=rss------programming-5) (2026-11-15)
-- [Top 10 systemd Features Worth Knowing](https://liu-111.medium.com/top-10-systemd-features-worth-knowing-c874a11f9d50?source=rss------programming-5) (2026-11-15)
-- [Node.js From Zero, Part 12: Building a REST API with Express](https://sahilkhaire.medium.com/node-js-from-zero-part-12-building-a-rest-api-with-express-a6a16c63ea31?source=rss------programming-5) (2026-11-15)
-- [DISCOLOURED IMAGINATION](https://medium.com/@ezehe121/discoloured-imagination-58737aada630?source=rss------programming-5) (2026-11-15)
+- [AI Can Write Your Code. But Can It Make You a Good Engineer?](https://medium.com/skillstuff/ai-can-write-your-code-but-can-it-make-you-a-good-engineer-abaaf93122f0?source=rss------programming-5) (2026-11-15)
+- [Fable 5.2: Turn a Chat Idea into Something That Moves](https://medium.com/kd-agentic/fable-5-2-turn-a-chat-idea-into-something-that-moves-7f0de7dcd9d9?source=rss------programming-5) (2026-11-15)
+- [Berpikir Sebelum Mengetik: Mengubah Rutinitas Harian Menjadi Algoritma](https://medium.com/@arkhanfariz139/berpikir-sebelum-mengetik-mengubah-rutinitas-harian-menjadi-algoritma-3323b4e7e4b7?source=rss------programming-5) (2026-11-15)
+- [Is there a Duolingo for coding? Now there is one](https://blog.stackademic.com/duolingo-for-coding-c814fe3bf444?source=rss------programming-5) (2026-11-15)
+- [Stop Waiting to Master JavaScript — Build Your First Real Project Today](https://medium.com/@apnagodda/stop-waiting-to-master-javascript-build-your-first-real-project-today-5450eab4720f?source=rss------programming-5) (2026-11-15)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Computing Effective Dimension for Quantum ML Models in PyTorch](https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/) (2026-11-15)
 - [How to Build a Markov Chain in Python With NumPy](https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/) (2026-11-14)
 - [Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors](https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/) (2026-11-14)
 - [Keyword Search Tied an 8B Embedding Model at Picking Agent Tools](https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/) (2026-11-13)
 - [How Jev Makes Decisions About Images, With 4 Python Examples](https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/) (2026-11-13)
-- [What AI Agents Speed Up in PhD Research, and What They Can't](https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/) (2026-11-13)
 
 </details>
 
@@ -643,17 +643,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
-- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
