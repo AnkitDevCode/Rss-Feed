@@ -9,44 +9,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/) (2026-11-16)
+- [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) (2026-11-15)
 - [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/) (2026-11-15)
 - [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/) (2026-11-15)
 - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/) (2026-11-15)
-- [TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/) (2026-11-15)
-- [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/) (2026-11-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (2026-11-15)
-- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/) (2026-11-15)
-- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/) (2026-11-15)
-- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch) (2026-11-15)
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) (2026-11-15)
+- [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451) (2026-11-16)
+- [TuringFonts: Publish Uncrawable and Uncopiable Texts](https://jfmdev.github.io/TuringFonts/index.html) (2026-11-16)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) (2026-11-16)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) (2026-11-16)
+- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/) (2026-11-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools) (2026-11-16)
 - [Listen to this: Armand Hammer’s Snakes &#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review) (2026-11-15)
 - [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites) (2026-11-15)
 - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed) (2026-11-15)
 - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) (2026-11-15)
-- [Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale) (2026-11-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/) (2026-11-15)
 - [How the world’s fires changed while humanity hit pause](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/) (2026-11-15)
 - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/) (2026-11-15)
 - [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) (2026-11-14)
 - [Winemakers are learning that conservation can be good for business](https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/) (2026-11-14)
-- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) (2026-11-14)
 
 </details>
 
@@ -86,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Web3 product in Dubai: how VARA licensing maps onto your architecture](https://dev.to/tatianakoval/building-a-web3-product-in-dubai-how-vara-licensing-maps-onto-your-architecture-34mh) (2026-11-15)
-- [Deploying a Flask API to Kubernetes with KIND and Argo CD](https://dev.to/edith_ogechiodo_48a0e8ed/deploying-a-flask-api-to-kubernetes-with-kind-and-argo-cd-52fi) (2026-11-15)
-- [One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys](https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7) (2026-11-15)
-- [Realtime Trading Watchlists: Audit Trails for Notification Preference Verification](https://dev.to/sterlingvance2196/realtime-trading-watchlists-audit-trails-for-notification-preference-verification-4fkp) (2026-11-15)
-- [SENAITE API access needs role-scoped credentials and HTTPS](https://dev.to/stark_zhuang_df5076f35c68/senaite-api-access-needs-role-scoped-credentials-and-https-566a) (2026-11-15)
+- [The Difference Between Writing Code and Thinking Like a Developer?](https://dev.to/abdulhaseebmari/the-difference-between-writing-code-and-thinking-like-a-developer-17f3) (2026-11-16)
+- [OOPs in Java](https://dev.to/manislab96/oops-in-java-2koc) (2026-11-16)
+- [Temp Tables vs Table Variables in SQL Server: Which Should You Use?](https://dev.to/lingamsuyambu/temp-tables-vs-table-variables-in-sql-server-which-should-you-use-20mh) (2026-11-16)
+- [How to redesign a website without losing Google rankings](https://dev.to/sagarbharvadiya1/how-to-redesign-a-website-without-losing-google-rankings-4cbb) (2026-11-16)
+- [Software jobs are back, but not for juniors. What I'd build if I were starting in 2026.](https://dev.to/rakno/software-jobs-are-back-but-not-for-juniors-what-id-build-if-i-were-starting-in-2026-mh9) (2026-11-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Claude Code turn finished. Which one?](https://medium.com/@mulberry.systems.dev/your-claude-code-turn-finished-which-one-f49cc01071d0?source=rss------programming-5) (2026-11-15)
-- [7 Python Tools for Email Reports That Send Themselves](https://blog.stackademic.com/7-python-tools-for-email-reports-that-send-themselves-58902e104c2b?source=rss------programming-5) (2026-11-15)
-- [The Microsoft ORM That Never Shipped](https://levelup.gitconnected.com/the-microsoft-orm-that-never-shipped-47defe5d9614?source=rss------programming-5) (2026-11-15)
-- [How I review Claude Code changes without reading every line](https://medium.com/@theomarsoliman/how-i-review-claude-code-changes-without-reading-every-line-db01a94e658a?source=rss------programming-5) (2026-11-15)
-- [How to Use an Online Ruler at Actual Size (cm and Inches)](https://medium.com/@nitpique/how-to-use-an-online-ruler-at-actual-size-cm-and-inches-5f73f099ab9c?source=rss------programming-5) (2026-11-15)
+- [From Zero to Shakespeare GPT: I Built a Language Model in JavaScript](https://medium.com/@roshan.n.shikhare/from-zero-to-shakespeare-gpt-i-built-a-language-model-in-javascript-ef6a8df1c785?source=rss------programming-5) (2026-11-16)
+- [CVE-2026–6460 (CVSS 8.8): The PostgreSQL RCE Flaw That Hid for 22 Years and How to Patch It](https://medium.com/codex/cve-2026-6460-cvss-8-8-the-postgresql-rce-flaw-that-hid-for-22-years-and-how-to-patch-it-63d7b419a22c?source=rss------programming-5) (2026-11-16)
+- [How a Rate Limiter Works Across Many Servers, and Why Counting Is the Hard Part](https://medium.com/@aguleria1/how-a-rate-limiter-works-across-many-servers-and-why-counting-is-the-hard-part-b591c7a983bf?source=rss------programming-5) (2026-11-16)
+- [Rust 01 · Why Rust](https://medium.com/selvi-infotech/rust-01-why-rust-ffb1c91318c3?source=rss------programming-5) (2026-11-16)
+- [AI Agent security concept: Sandboxing](https://medium.com/@piyalidas.it/ai-agent-security-concept-sandboxing-71c53678b69b?source=rss------programming-5) (2026-11-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/) (2026-11-16)
 - [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/) (2026-11-13)
 - [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/) (2026-11-12)
 - [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/) (2026-11-11)
 - [NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/) (2026-11-10)
-- [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/) (2026-11-09)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Qwen4-Max now available on AI Gateway](https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway) (2026-11-15)
 - [Daemons can now send traces to Vercel Tracing](https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing) (2026-11-13)
 - [Token Pass now includes $150 in tokens for $30/month](https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens) (2026-11-13)
 - [Vercel Security Review no longer requires a linked Vercel project](https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project) (2026-11-13)
 - [Vercel Sandbox starts up to 4x faster](https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster) (2026-11-13)
-- [Build cache size limit on Vercel increased to 5 GB](https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb) (2026-11-13)
 
 </details>
 
