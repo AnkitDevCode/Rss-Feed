@@ -9,55 +9,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Mazama Energy has a solution for geothermal’s biggest drilling problem](https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/) (2026-11-16)
-- [After dodging death, battery startup Our Next Energy is now going public](https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/) (2026-11-16)
-- [Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings](https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/) (2026-11-16)
-- [Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/) (2026-11-16)
-- [Zoox robotaxis are now on the Uber app in Las Vegas](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/) (2026-11-16)
+- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/) (2026-11-16)
+- [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/) (2026-11-16)
+- [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/) (2026-11-16)
+- [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/) (2026-11-16)
+- [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/) (2026-11-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What the fuck is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate) (2026-11-16)
-- [Amazon's Discount Illusion: 1 in 3 "Deals" Offered No Savings– 1 in 10 Cost More](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) (2026-11-16)
-- [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) (2026-11-16)
-- [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf) (2026-11-16)
-- [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server) (2026-11-16)
+- [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os) (2026-11-16)
+- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) (2026-11-16)
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) (2026-11-16)
+- [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/) (2026-11-16)
+- [United Airlines experiencing a widespread system outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage) (2026-11-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Audible is trying to make it easier to find audiobooks you’ll actually like](https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability) (2026-11-16)
-- [Google Maps can now create trip itineraries for you](https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning) (2026-11-16)
-- [The Nvidia scandal isn’t slowing down](https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down) (2026-11-16)
-- [Amazon’s Zoox robotaxis are now available via Uber](https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles) (2026-11-16)
-- [Senator slams Commerce Secretary for flow of Nvidia AI chips to China](https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick) (2026-11-16)
+- [Hacker behind 2022 GTA VI leaks pleads guilty](https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj) (2026-11-16)
+- [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories) (2026-11-16)
+- [United Airlines system outage disrupts departures just days after the big ground stop](https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures) (2026-11-16)
+- [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death) (2026-11-16)
+- [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit) (2026-11-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Jensen Huang allies build a "war room" to get him back at Nvidia](https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/) (2026-11-16)
-- [Mercedes' clever new driving assist handles complex traffic like a champ](https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/) (2026-11-16)
-- [Delivery drones are coming. For some with PTSD, that's a terrifying prospect.](https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/) (2026-11-16)
-- [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/) (2026-11-15)
-- [How the world’s fires changed while humanity hit pause](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/) (2026-11-15)
+- [Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/) (2026-11-16)
+- [Three small failures combined to take down Microsoft 365](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/) (2026-11-16)
+- [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/) (2026-11-16)
+- [Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day](https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/) (2026-11-16)
+- [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/) (2026-11-16)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/) (2026-11-16)
+- [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/) (2026-11-16)
 - [The Download: testing tech promises and searching for cognitive immortality](https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/) (2026-11-16)
 - [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/) (2026-11-16)
 - [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/) (2026-11-13)
-- [More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) (2026-11-13)
-- [Silicon Valley claims to know the future. So why did it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/) (2026-11-13)
 
 </details>
 
@@ -77,7 +77,7 @@
 
 - [Your coding agent shouldn't grade its own homework](https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/) (2026-11-13)
 - [ Agentic search doesn't find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/) (2026-11-13)
-- [How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/) (2026-11-12)
+- [How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human/) (2026-11-12)
 - [Customer support is the gnarliest AI problem](https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/) (2026-11-10)
 - [Never Share Your Password Again — The OAuth 2.0 Solution](https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/) (2026-11-09)
 
@@ -86,33 +86,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I tested my RAG retriever on terms it hadn't seen](https://dev.to/sayam_jain/i-tested-my-rag-retriever-on-terms-it-hadnt-seen-48) (2026-11-16)
-- [8 New ONLYOFFICE Apps Samples: Approval Workflows, Sidebar Pages, and Ready-to-Use Plugins](https://dev.to/onlyoffice/8-new-onlyoffice-apps-samples-approval-workflows-sidebar-pages-and-ready-to-use-plugins-3kg0) (2026-11-16)
-- [Jaccard Similarity in pandas: Measuring How Much Two Concept-Stock Lists Really Overlap](https://dev.to/dustinliang/jaccard-similarity-in-pandas-measuring-how-much-two-concept-stock-lists-really-overlap-31gl) (2026-11-16)
-- [Why I Ditched Streak Counters for Rolling Windows in My SQLite Habit Tracker" published: true](https://dev.to/itech_accesories_b86af4c5/why-i-ditched-streak-counters-for-rolling-windows-in-my-sqlite-habit-trackerpublished-true-4h2i) (2026-11-16)
-- [Invoice PDF page breaks: a row split in half, and the total alone on the last page](https://dev.to/dudko-dev/invoice-pdf-page-breaks-a-row-split-in-half-and-the-total-alone-on-the-last-page-28d1) (2026-11-16)
+- [The 'Free' remove.bg Replacement Costs $144 a Year. Do the Maths First.](https://dev.to/aheadkit/the-free-removebg-replacement-costs-144-a-year-do-the-maths-first-2pib) (2026-11-17)
+- [This e Binding: por que o valor muda a cada chamada](https://dev.to/rohyer/this-e-binding-por-que-o-valor-muda-a-cada-chamada-37bc) (2026-11-17)
+- [How to Remove Blank Pages from PDF with Python](https://dev.to/jack_du_64a902eb1614b3933/how-to-remove-blank-pages-from-pdf-with-python-if1) (2026-11-17)
+- [Flexible Global Report Cron Job API in Go: Time-Zone-Safe Reconciliation](https://dev.to/irvincole5861/flexible-global-report-cron-job-api-in-go-time-zone-safe-reconciliation-1ae5) (2026-11-17)
+- [Organizing a Multifile OpenAPI Project](https://dev.to/jeff_pdc/organizing-a-multifile-openapi-project-4e87) (2026-11-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Python Monitoring Tool That Finds Memory Leaks and Performance Problems in Applications.](https://python.plainenglish.io/i-built-a-python-monitoring-tool-that-finds-memory-leaks-and-performance-problems-in-applications-cb91e0e9cb24?source=rss------programming-5) (2026-11-16)
-- [Kotak Mahindra Bank — L3 Java Backend Developer Interview Questions: Architecture, Concurrency and…](https://medium.com/@pardeepgill82/kotak-mahindra-bank-l3-java-backend-developer-interview-questions-architecture-concurrency-and-c021929fd31d?source=rss------programming-5) (2026-11-16)
-- [Tokio Is Not the Whole Rust Async Ecosystem: 4 Alternatives Developers Should Know](https://medium.com/@thyzmile24/tokio-is-not-the-whole-rust-async-ecosystem-4-alternatives-developers-should-know-3e881cf8d316?source=rss------programming-5) (2026-11-16)
-- [The Missing Pieces in Rust Web Development: What Still Needs Improvement?](https://medium.com/@thyzmile24/the-missing-pieces-in-rust-web-development-what-still-needs-improvement-b80f32254269?source=rss------programming-5) (2026-11-16)
-- [Demystifying JavaScript: The Single-Threaded Architecture and Asynchronous Flow](https://medium.com/@asthapthn/demystifying-javascript-the-single-threaded-architecture-and-asynchronous-flow-9a98a13b3038?source=rss------programming-5) (2026-11-16)
+- [Why Developers Are Leaving Cursor for Claude Code and Codex](https://medium.com/@kiwibrw0/why-developers-are-leaving-cursor-for-claude-code-and-codex-7ab5777fd92a?source=rss------programming-5) (2026-11-17)
+- [Web Scraping for Market Research: A Practical Python Guide to Competitor Price Monitoring](https://medium.com/@abdika69/web-scraping-for-market-research-a-practical-python-guide-to-competitor-price-monitoring-37a18fc5a693?source=rss------programming-5) (2026-11-17)
+- [I Compared DuckDB, Polars, DataFusion, and Apache Spark on the Same Dataset.](https://medium.com/towards-data-engineering/i-compared-duckdb-polars-datafusion-and-apache-spark-on-the-same-dataset-747090c60047?source=rss------programming-5) (2026-11-17)
+- [8 Python Scripts for Cleaning a Messy Downloads Folder](https://blog.stackademic.com/8-python-scripts-for-cleaning-a-messy-downloads-folder-3fac4de0e612?source=rss------programming-5) (2026-11-17)
+- [Why Your App Keeps Getting New CVEs: 4 Dependencies Became 88, and a Checklist to Cut Them](https://medium.com/boot-camp-java/why-your-app-keeps-getting-new-cves-4-dependencies-became-88-and-a-checklist-to-cut-them-ce5827ec3f66?source=rss------programming-5) (2026-11-17)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/) (2026-11-16)
 - [Test your applications against AWS locally with AWS Emulator](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/) (2026-11-11)
 - [AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/) (2026-11-09)
 - [Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/) (2026-11-04)
 - [AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/) (2026-11-02)
-- [AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/) (2026-10-26)
 
 </details>
 
@@ -130,33 +130,33 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/) (2026-11-16)
-- [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/) (2026-11-13)
-- [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/) (2026-11-12)
-- [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/) (2026-11-11)
-- [NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/) (2026-11-10)
+- [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/) (2026-11-16)
+- [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/) (2026-11-16)
+- [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/) (2026-11-16)
+- [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/) (2026-11-16)
+- [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/) (2026-11-16)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updates to Device Control and Data Access, and Full Disk Access in macOS](https://developer.apple.com/news/?id=oqng0zjk) (2026-11-16)
 - [Announcing the Swift Student Challenge 2027](https://developer.apple.com/news/?id=jkykd58d) (2026-11-10)
 - [Hello Developer: November 2026](https://developer.apple.com/news/?id=ow0j45ny) (2026-11-10)
 - [Now available: Retention messages for subscriptions](https://developer.apple.com/news/?id=fk9ps3gv) (2026-11-04)
 - [Siri AI is now open to all developers](https://developer.apple.com/news/?id=gdk2umrf) (2026-11-03)
-- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=6gpufove) (2026-11-03)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Beyond the app: Expanding buyer reach across new surfaces with Google Play](https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach) (2026-11-16)
 - [How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX](https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification) (2026-11-11)
 - [Powering Seamless Player Sign-In: Introducing the Open-Source Sign in with Google Plugin for Unity](https://developer.android.com/blog/posts/open-source-google-sign-in-unity) (2026-11-10)
 - [Build for an expanding lineup of Android XR devices with production-ready tools from Android Developer Summit](https://developer.android.com/blog/posts/build-android-xr-devices-tools) (2026-11-06)
 - [What’s new in intelligent apps at the Android Developer Summit](https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads) (2026-11-05)
-- [Build for every screen with the latest Jetpack Compose updates from Android Developer Summit ](https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates) (2026-11-04)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Scheduling the removal of the kube-proxy IPVS backend](https://kubernetes.io/blog/2026/11/16/ipvs-removal/) (2026-11-16)
 - [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/) (2026-10-29)
 - [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/) (2026-10-27)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) (2026-10-14)
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) (2026-10-06)
-- [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/) (2026-10-05)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…](https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss-ef81ef829bcb------2) (2026-11-16)
 - [How Pinterest Improved Analytics Agent Compliance with Loop Engineering](https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss-ef81ef829bcb------2) (2026-11-12)
 - [Safe and Efficient Multi-Epoch Embedding Training](https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss-ef81ef829bcb------2) (2026-11-06)
 - [Scaling Model Evaluation at Pinterest with Ray (Part 4)](https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss-ef81ef829bcb------2) (2026-11-04)
 - [Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering](https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8?source=rss-ef81ef829bcb------2) (2026-10-19)
-- [Open Source Profiler on an Internet Scale Fleet: Pinterest and Intel Partnership on gProfiler](https://medium.com/@Pinterest_Engineering/open-source-profiler-on-an-internet-scale-fleet-pinterest-and-intel-partnership-on-gprofiler-8fcb387d899c?source=rss-ef81ef829bcb------2) (2026-10-16)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Heroku at KubeCon Recap: Meeting Builders Where They Build](https://www.heroku.com/blog/heroku-at-kubecon-recap-meeting-builders-where-they-build/) (2026-11-16)
 - [Securing Your Stack: Recent PHP and eMudhra Updates on Heroku](https://www.heroku.com/blog/securing-your-stack-recent-php-and-emudhra-updates-on-heroku/) (2026-10-29)
 - [Front-End Web Deep Dive: Runtime Config](https://www.heroku.com/blog/front-end-web-deep-dive-runtime-config/) (2026-10-15)
 - [Improved Static Website Support on Heroku with Front-End Web Cloud Native Buildpack](https://www.heroku.com/blog/improved-static-website-support-with-front-end-web-cloud-native-buildpack/) (2026-10-14)
 - [October 2026 Update: Heroku Innovations and New Features](https://www.heroku.com/blog/october-2026-update-heroku-innovations-features/) (2026-10-07)
-- [A New Era for Managed Databases: Announcing Heroku Postgres Advanced](https://www.heroku.com/blog/new-era-managed-databases-announcing-heroku-postgres-advanced/) (2026-10-06)
 
 </details>
 
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Qwen4-Max now available on AI Gateway](https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway) (2026-11-15)
-- [Daemons can now send traces to Vercel Tracing](https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing) (2026-11-13)
-- [Token Pass now includes $150 in tokens for $30/month](https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens) (2026-11-13)
-- [Vercel Security Review no longer requires a linked Vercel project](https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project) (2026-11-13)
-- [Vercel Sandbox starts up to 4x faster](https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster) (2026-11-13)
+- [Hy4 Flash now available on AI Gateway for 50% off](https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off) (2026-11-16)
+- [AI Gateway now supports Private Inference](https://vercel.com/changelog/ai-gateway-now-supports-private-inference) (2026-11-16)
+- [Agents are users, so your software needs evals](https://vercel.com/blog/agent-evals) (2026-11-16)
+- [Seedance 2.5 Flash now available on AI Gateway](https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway) (2026-11-16)
+- [Set budgets for projects and products in Spend Management](https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management) (2026-11-16)
 
 </details>
 
@@ -414,15 +414,15 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Building a Secure MCP (Model Context Protocol) Server with Auth0.
+](https://auth0.com/blog/building-secure-mcp-server-with-auth0/) (2026-11-16)
 - [Authentication and Authorization: What's New in .NET 11](https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/) (2026-11-09)
 - [Consumers are Ready for AI. Are Companies?
 ](https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/) (2026-11-03)
 - [Moving Quickly Without Breaking Things
 ](https://auth0.com/blog/moving-quickly-without-breaking-things/) (2026-11-03)
-- [Compliant Infrastructure, Frustrating CX
-](https://auth0.com/blog/compliant-infrastructure-frustrating-cx/) (2026-11-03)
-- [Trust Puts Customer Identity in the Spotlight
-](https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/) (2026-11-03)
+- [AI ambitions are blocked by identity debt
+](https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/) (2026-11-03)
 
 </details>
 
@@ -493,6 +493,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Apollo Summit 2026 Product Highlights: The Governed Graph for Agents and Apps](https://www.apollographql.com/blog/apollo-summit-2026-product-highlights) (2026-10-07)
+- [Introducing GraphOS Agent Services](https://www.apollographql.com/blog/introducing-graphos-agent-services) (2026-10-07)
+- [Introducing GraphOS Router 3.0](https://www.apollographql.com/blog/introducing-graphos-router-3-0) (2026-10-07)
+- [Introducing GraphOS Factory](https://www.apollographql.com/blog/introducing-graphos-factory) (2026-10-07)
+- [Apollo Connectors v0.4 is Generally Available](https://www.apollographql.com/blog/apollo-connectors-v0-4-is-generally-available) (2026-10-07)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -507,10 +518,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 <summary>⚡ Zapier Blog</summary>
 
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
-- [How to automate your AI personal assistant](https://zapier.com/blog/automate-ai-personal-assistant) (2026-11-13)
-- [Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)](https://zapier.com/blog/automate-grok) (2026-11-12)
-- [What is Google Gemini?](https://zapier.com/blog/google-gemini) (2026-11-12)
-- [Tray pricing: Is it worth it?](https://zapier.com/blog/tray-pricing) (2026-11-11)
+- [How to track Google Alerts in Slack, Trello, or almost any app](https://zapier.com/blog/track-google-alerts-in-any-app) (2026-11-16)
+- [Your spreadsheet automation playbook](https://zapier.com/blog/automate-spreadsheets) (2026-11-16)
+- [Guide to SMS automation](https://zapier.com/blog/sms-messaging-automation) (2026-11-16)
+- [4 Reddit automation ideas](https://zapier.com/blog/keep-up-with-reddit) (2026-11-16)
 
 </details>
 
@@ -561,44 +572,55 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Celebrating the 2026 PyTorch Foundation Contributor Award Winners and Nominees](https://pytorch.org/blog/2026-pytorch-foundation-contributor-awards/) (2026-11-16)
+- [PyTorch Foundation Ambassador Community Highlights November 2026](https://pytorch.org/blog/pytorch-ambassador-community-highlights-november-2026/) (2026-11-16)
 - [Fast by Default: Compile-Time Heuristics for Helion Kernels](https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/) (2026-11-12)
 - [Integrating SGLang into Spyre in Under a Week with AI](https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/) (2026-11-12)
 - [Training a 1T-Parameter MoE on EU public infrastructure with PyTorch and TorchTitan](https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/) (2026-11-12)
-- [ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser](https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/) (2026-11-10)
-- [Optimizing Muse Spark Open on TPU v7 with SGLang-TorchTPU](https://pytorch.org/blog/optimizing-muse-spark-open-on-tpu-v7-with-sglang-torchtpu/) (2026-11-10)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter) (2026-11-16)
 - [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place) (2026-11-13)
 - [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench) (2026-11-13)
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1) (2026-11-13)
 - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite) (2026-11-12)
-- [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning) (2026-11-12)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th](https://towardsdatascience.com/after-10-heads-in-a-row-small-llms-bet-up-to-82-on-an-11th/) (2026-11-16)
+- [Why Human in the Loop AI Oversight Fails and How to Fix It](https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/) (2026-11-16)
 - [How to Avoid AI Replacement as an Analytics Professional in 2027](https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/) (2026-11-16)
 - [Local LLMs Handle Textbook RAG but Fail on New Research Papers](https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/) (2026-11-16)
 - [A Practitioner's Guide to 6 Agentic GraphRAG Patterns](https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/) (2026-11-15)
-- [Computing Effective Dimension for Quantum ML Models in PyTorch](https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/) (2026-11-15)
-- [How to Build a Markov Chain in Python With NumPy](https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/) (2026-11-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Make Product Launch Videos with Claude Opus 5.5 ](https://www.analyticsvidhya.com/blog/2026/11/product-launch-videos-with-claude-opus-5-5/) (2026-11-16)
 - [Top 10 GitHub Repositories Trending in October 2026](https://www.analyticsvidhya.com/blog/2026/11/top-github-repositories-october-2026/) (2026-11-15)
 - [How to Evaluate AI Agents For Enterprise](https://www.analyticsvidhya.com/blog/2026/11/how-to-evaluate-ai-agents-for-enterprise/) (2026-11-13)
 - [Gemini 4 Hydrogen: Hands-On Review](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-hydrogen-review/) (2026-11-13)
 - [Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory](https://www.analyticsvidhya.com/blog/2026/11/ai-agent-team-memory-tencentdb/) (2026-11-11)
-- [Why Enterprise LLMs Fail Before They Calculate, and What Context Engineering Changes](https://www.analyticsvidhya.com/blog/2026/11/why-enterprise-llms-fail-before-they-calculate/) (2026-11-10)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [5 Things That Break When AI Agents Start Acting on Their Own](https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own) (2026-11-16)
+- [How to Give Claude Code Up-to-Date Documentation With Context7](https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7) (2026-11-16)
+- [Agentic System Design: A Self-Study Roadmap](https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap) (2026-11-16)
+- [Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour](https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour) (2026-11-13)
+- [5 FREE Open-Source Alternatives to Jev](https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev) (2026-11-13)
 
 </details>
 
@@ -621,17 +643,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/) (2026-11-10)
-- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
