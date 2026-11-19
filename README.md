@@ -9,22 +9,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why educational system is broken](https://keycybermonk.com/edu) (2026-11-18)
-- [LLM Assisted Reverse Engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) (2026-11-18)
-- [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi) (2026-11-18)
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) (2026-11-18)
-- [Horizon Labs Report](https://horizon-labs.ai/) (2026-11-18)
+- [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace) (2026-11-19)
+- [Unreal Tournament 2004 in the Browser](https://ut2004.dev/) (2026-11-19)
+- [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378) (2026-11-19)
+- [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/) (2026-11-19)
+- [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/) (2026-11-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook) (2026-11-19)
 - [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google) (2026-11-18)
 - [Democrats skip a vote on adding Brendan Carr’s adviser to the FCC](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs) (2026-11-18)
 - [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios) (2026-11-18)
 - [Trump’s latest land grab is an AI hub in the Philippines](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica) (2026-11-18)
-- [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang) (2026-11-18)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AWS Budget vs Cost Explorer: Which to Use?](https://dev.to/linuxcore/aws-budget-vs-cost-explorer-which-to-use-156f) (2026-11-18)
-- [Healthtech Shipment Webhook Deduplication: FIFO Queue Idempotency Key Beyond Five Minutes](https://dev.to/oskarholm4968/healthtech-shipment-webhook-deduplication-fifo-queue-idempotency-key-beyond-five-minutes-3ahb) (2026-11-18)
-- [Coraza WAF policy lives in configuration and logs, not a single product banner](https://dev.to/andreagomez/coraza-waf-policy-lives-in-configuration-and-logs-not-a-single-product-banner-4b60) (2026-11-18)
-- [Reset Receipt: A Breathing Break That Shows What SmartSpectra Actually Measured](https://dev.to/virus_cb807844a8eece1e266/reset-receipt-a-breathing-break-that-shows-what-smartspectra-actually-measured-1k5f) (2026-11-18)
-- [Your Coding Agent Still Writes 2019 JavaScript. The Receipts Are In.](https://dev.to/yanoai/your-coding-agent-still-writes-2019-javascript-the-receipts-are-in-5n9) (2026-11-18)
+- [Airfoil noise: one model saw the test condition at other frequencies, one did not](https://dev.to/widechaos/airfoil-noise-one-model-saw-the-test-condition-at-other-frequencies-one-did-not-599c) (2026-11-19)
+- [Why "rm -rf $D*" Bypasses Almost Every AI Guardrail (And How We Scanned 115k Lines of Production Code)](https://dev.to/jimil_joshi_4baa0947baff5/why-rm-rf-d-bypasses-almost-every-ai-guardrail-and-how-we-scanned-115k-lines-of-production-28ea) (2026-11-19)
+- [GPT-6.2 Astra Aces Every Benchmark. Devs Hate It.](https://dev.to/max_quimby/gpt-62-astra-aces-every-benchmark-devs-hate-it-35if) (2026-11-19)
+- [Django Tutorial #3: Understanding URLs and Views in Django | A Beginner's Guide](https://dev.to/sp_randhawa/django-tutorial-3-understanding-urls-and-views-in-django-a-beginners-guide-4m4l) (2026-11-19)
+- [Free Subdomain vs Registered Domain: Which Should You Use?](https://dev.to/bajieliu/free-subdomain-vs-registered-domain-which-should-you-use-12fi) (2026-11-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [CurriculumBitae.com](https://broke-old-dev.medium.com/curriculumbitae-com-6e5a2b8c69f3?source=rss------programming-5) (2026-11-18)
-- [Rust Is Evolving: 4 Compiler Changes That Could Reshape Its Future](https://medium.com/@rothyyorn9/rust-is-evolving-4-compiler-changes-that-could-reshape-its-future-8d65eb013431?source=rss------programming-5) (2026-11-18)
-- [The Rust Ecosystem Is Getting More Ambitious: 6 Projects Worth Watching](https://medium.com/@thyzmile24/the-rust-ecosystem-is-getting-more-ambitious-6-projects-worth-watching-24e829d44969?source=rss------programming-5) (2026-11-18)
-- [Free 125B AI Model on Kaggle: What the Tutorials Don’t Tell You](https://medium.com/@loengnavy/free-125b-ai-model-on-kaggle-what-the-tutorials-dont-tell-you-feba57fdccc1?source=rss------programming-5) (2026-11-18)
-- [The RTX 3060 Didn’t Get Faster. Your AI Software Got Smarter.](https://medium.com/@sovannaro17/the-rtx-3060-didnt-get-faster-your-ai-software-got-smarter-a352a66507c5?source=rss------programming-5) (2026-11-18)
+- [AI Can Generate an App in Minutes. Can You Actually Ship It?](https://medium.com/the-techtalk/ai-can-generate-an-app-in-minutes-can-you-actually-ship-it-6fbffda12dc6?source=rss------programming-5) (2026-11-19)
+- [Building Incremental Data Pipelines: Things I Wish Every Data Engineer Understood](https://medium.com/@de.mukherjee.sumit/building-incremental-data-pipelines-things-i-wish-every-data-engineer-understood-9db17d112092?source=rss------programming-5) (2026-11-19)
+- [A screenshot shows the bug. A useful report shows how to find it again.](https://medium.com/@mediatourlcom/a-screenshot-shows-the-bug-a-useful-report-shows-how-to-find-it-again-cdb0c8540762?source=rss------programming-5) (2026-11-19)
+- [10 MCP Servers You Probably Haven’t Heard About](https://python.plainenglish.io/10-mcp-servers-you-probably-havent-heard-about-184c7807ae62?source=rss------programming-5) (2026-11-19)
+- [21 Surging Work-From-Home Jobs That Don’t Care About Your College Degree](https://medium.com/@ahmedkabir6611/21-surging-work-from-home-jobs-that-dont-care-about-your-college-degree-374dd64447c0?source=rss------programming-5) (2026-11-19)
 
 </details>
 
@@ -108,11 +108,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032) (2026-11-06)
-- [Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/) (2026-11-05)
-- [Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/) (2026-11-05)
-- [Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/) (2026-11-04)
-- [The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/) (2026-11-02)
+- [Microsoft and Oracle bring agentic AI into flow of enterprise work](https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/) (2026-11-17)
+- [Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/) (2026-11-17)
+- [Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI](https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/) (2026-11-17)
+- [Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era](https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/) (2026-11-17)
+- [Continuous improvement comes to Microsoft Foundry](https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/) (2026-11-17)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [The recommended GitLab configuration for agentic engineering](https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/) (2026-11-18)
 - [GitLab Transcend Hackathon: Meet the 'Life After Code' winners](https://about.gitlab.com/blog/gitlab-transcend-hackathon-life-after-code/) (2026-11-18)
 - [What CISA’s new cyber strategy means for how you ship software](https://about.gitlab.com/blog/cisa-2030-cyber-strategy/) (2026-11-17)
 - [Turn Jira tickets into GitLab merge requests with Duo Agent Platform](https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/) (2026-11-12)
 - [How to prevent leaks from Claude Code's 'Don't ask again' file](https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/) (2026-11-11)
-- [How to design a decision-grade pilot for agentic AI](https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/) (2026-11-09)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [Introducing Vercel Board](https://vercel.com/blog/introducing-vercel-board) (2026-11-18)
+- [Vercel Board is now available](https://vercel.com/changelog/vercel-board-is-now-available) (2026-11-18)
 - [Parallel web search is free on AI Gateway and eve through January 31](https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31) (2026-11-18)
 - [Introducing Vercel X](https://vercel.com/blog/vercel-x) (2026-11-18)
 - [Gemini 4 Neon now available on AI Gateway](https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway) (2026-11-18)
-- [Vercel Drives now reads files up to 6x faster](https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster) (2026-11-18)
-- [Single-second static deployments now support more assets](https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets) (2026-11-18)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Memory Architecture for AI Agents: Integrating Twilio Conversations and Amazon Bedrock
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock
+) (2026-11-18)
+- [
 Builders in the Spotlight: How EMEA Champions Brought SIGNAL Paris to Life
 ](
 https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life
@@ -388,11 +393,6 @@ Twilio Expands Conversations Layer for AI Agent Supervision
 https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence-operators-ai-agent-supervision
 ) (2026-11-17)
 - [
-Creating a Halloween Escape Room Hotline for Twilio
-](
-https://www.twilio.com/en-us/blog/developers/halloween-escape-room-hotline-2026-twilio
-) (2026-11-17)
-- [
 What is a no-reply email (and why you should never use them)
 ](
 https://www.twilio.com/en-us/blog/insights/why-you-should-not-use-noreplydomain-com-in-your-emails
@@ -404,11 +404,10 @@ https://www.twilio.com/en-us/blog/insights/why-you-should-not-use-noreplydomain-
 <summary>🔐 Auth0 Blog</summary>
 
 - [Legacy Factors Fail in CIAM. Passkeys Are the Answer](https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/) (2026-11-18)
+- [Securing Your Newest Customer Channel with Auth for Personal Agents ](https://auth0.com/blog/auth-for-personal-agents-beta-release/) (2026-11-18)
 - [Building a Secure MCP (Model Context Protocol) Server with Auth0
 ](https://auth0.com/blog/building-secure-mcp-server-with-auth0/) (2026-11-16)
 - [Authentication and Authorization: What's New in .NET 11](https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/) (2026-11-09)
-- [Moving Quickly Without Breaking Things
-](https://auth0.com/blog/moving-quickly-without-breaking-things/) (2026-11-03)
 - [AI ambitions are blocked by identity debt
 ](https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/) (2026-11-03)
 
