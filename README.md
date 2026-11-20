@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) (2026-11-19)
-- [Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/) (2026-11-19)
-- [RegExr: Temporarily Offline](https://regexr.com/) (2026-11-19)
-- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21) (2026-11-19)
-- [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline) (2026-11-19)
+- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) (2026-11-20)
+- [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did) (2026-11-20)
+- [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) (2026-11-20)
+- [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/) (2026-11-20)
+- [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai) (2026-11-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast) (2026-11-20)
+- [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app) (2026-11-20)
+- [Why the robots are ditching Uber](https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships) (2026-11-20)
 - [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) (2026-11-19)
 - [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings) (2026-11-19)
-- [Meta now sells 3D movies on Quest VR headsets](https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app) (2026-11-19)
-- [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price) (2026-11-19)
-- [Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats) (2026-11-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up](https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/) (2026-11-19)
-- [MAHA PAC spent more on steak, luxury club than candidates, report shows](https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/) (2026-11-19)
-- [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/) (2026-11-19)
-- [Traumatized teens sue school, cops after Doritos bag triggers AI gun alert](https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/) (2026-11-19)
-- [Google turns to Blue Origin for a rocket, but its long-term problem remains](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/) (2026-11-19)
+- [SpaceX lenders don’t want Elon Musk launching their collateral into space](https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/) (2026-11-20)
+- [Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone](https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/) (2026-11-20)
+- [Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings](https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/) (2026-11-20)
+- [Science has a home here at Ars—please help keep it that way](https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/) (2026-11-20)
+- [Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US](https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/) (2026-11-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/) (2026-11-20)
 - [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/) (2026-11-19)
 - [A human liver has been kept alive outside the body for a record seven weeks](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/) (2026-11-19)
 - [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/) (2026-11-19)
 - [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/) (2026-11-18)
-- [The Download: AI learns to smell and hydropower struggles](https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/) (2026-11-18)
 
 </details>
 
@@ -64,33 +64,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/) (2026-11-20)
 - [Chaos, then control: the maturity model most AI rollouts skip over](https://stackoverflow.blog/2026/11/19/chaos-then-control/) (2026-11-19)
 - [The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/) (2026-11-17)
 - [Your coding agent shouldn't grade its own homework](https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/) (2026-11-13)
 - [ Agentic search doesn't find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/) (2026-11-13)
-- [How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/) (2026-11-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Leaked or generated? Notes on Reuters' Muse report and the records that could tell](https://dev.to/veritaschain/leaked-or-generated-notes-on-reuters-muse-report-and-the-records-that-could-tell-56ca) (2026-11-20)
-- [CodeGraph: Pre-Indexed Code Knowledge Graphs for Agent Tool Calls](https://dev.to/mech_app_ai/codegraph-pre-indexed-code-knowledge-graphs-for-agent-tool-calls-1fg0) (2026-11-20)
-- [De-identifying medical records with MedGemma so that no one sees the raw data: a look at a live deployment](https://dev.to/nukri_basharuli_e44af0e65/de-identifying-medical-records-with-medgemma-so-that-no-one-sees-the-raw-data-a-look-at-a-live-4c3e) (2026-11-20)
-- [Poler-harvest: A Content-Addressed Search Tool in Rust with 2ms Warm Cache for AI Agents](https://dev.to/kotokvit/poler-harvest-a-content-addressed-search-tool-in-rust-with-2ms-warm-cache-for-ai-agents-87d) (2026-11-20)
-- [Point your OpenAI client at a model that can't read your prompts — and check that before the first request](https://dev.to/nukri_basharuli_e44af0e65/point-your-openai-client-at-a-model-that-cant-read-your-prompts-and-check-that-before-the-first-2mmb) (2026-11-20)
+- [Build Your First PCB Online](https://dev.to/dibyaprakash_pradhan/build-your-first-pcb-online-1o92) (2026-11-20)
+- [React, deeply · 3. Effects, honestly](https://dev.to/techamit95ch/react-deeply-3-effects-honestly-26cc) (2026-11-20)
+- [3 Subtle Rust CLI & Parser Bugs I Hunted Today (Silent Zip Truncation, Kebab-Case Alias Collisions & Quiet stderr Suppression)](https://dev.to/sinescribe/3-subtle-rust-cli-parser-bugs-i-hunted-today-silent-zip-truncation-kebab-case-alias-collisions-bpo) (2026-11-20)
+- [Qwen3-4B on Device: The KV Cache Costs More RAM Than the Q4_K_M Weights at 32K](https://dev.to/ginigen_ai_010d9180cbbdb1/qwen3-4b-on-device-the-kv-cache-costs-more-ram-than-the-q4km-weights-at-32k-1p3k) (2026-11-20)
+- [Before You Sign an IT Support Contract in Oman: A 10-Point Checklist](https://dev.to/jintoppy/before-you-sign-an-it-support-contract-in-oman-a-10-point-checklist-4e0i) (2026-11-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Got Five Minutes? Learn CUDA on Your Phone](https://medium.com/@gpuflight/got-five-minutes-learn-cuda-on-your-phone-2bb78f9fb996?source=rss------programming-5) (2026-11-20)
-- [10 Python Libraries for EPUB, PDF, MIDI, vCards and Fuzzy Matching (Three Have Traps)](https://medium.com/towards-data-engineering/10-python-libraries-for-epub-pdf-midi-vcards-and-fuzzy-matching-three-have-traps-aa771a74d445?source=rss------programming-5) (2026-11-20)
-- [Why I Chose Software Engineering](https://medium.com/@abigaellenjofang/why-i-chose-software-engineering-c16c011a8e2b?source=rss------programming-5) (2026-11-19)
-- [10 Solana Memecoin Launchpads to Explore in 2026: Pump.fun, BONK.fun, Bags, Gonk.fun & More](https://medium.com/@eswarpoorna90/10-solana-memecoin-launchpads-to-explore-in-2026-pump-fun-bonk-fun-bags-gonk-fun-more-a18400991f30?source=rss------programming-5) (2026-11-19)
-- [Rust Has Three Different Answers to AI. Candle, Burn, and mistral.rs Are Taking Different Paths.](https://medium.com/@rothyyorn9/rust-has-three-different-answers-to-ai-candle-burn-and-mistral-rs-are-taking-different-paths-3ca2f484d471?source=rss------programming-5) (2026-11-19)
+- [Your AI Agent Is Stuck in a Loop: 8 Ways Agents Fail and How to Stop Them](https://alexandra272003.medium.com/your-ai-agent-is-stuck-in-a-loop-8-ways-agents-fail-and-how-to-stop-them-e358e4c1b2a3?source=rss------programming-5) (2026-11-20)
+- [How an LLM Actually Calls a Function](https://alexandra272003.medium.com/how-an-llm-actually-calls-a-function-fdc4cae4d781?source=rss------programming-5) (2026-11-20)
+- [Top 10 Web Scraping and Crawling Tools](https://liu-111.medium.com/top-10-web-scraping-and-crawling-tools-995e25200dfa?source=rss------programming-5) (2026-11-20)
+- [Enterprise Data Recovery: Recovering Data From a Failed NAS Storage System](https://medium.com/@potatobanana2026/enterprise-data-recovery-recovering-data-from-a-failed-nas-storage-system-44a9a87c68d7?source=rss------programming-5) (2026-11-20)
+- [9 Database Query Patterns That Slow Down Python Backends](https://medium.com/skillstuff/9-database-query-patterns-that-slow-down-python-backends-2e0a8cb86411?source=rss------programming-5) (2026-11-20)
 
 </details>
 
@@ -102,17 +102,6 @@
 - [AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/) (2026-11-16)
 - [Test your applications against AWS locally with AWS Emulator](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/) (2026-11-11)
 - [AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/) (2026-11-09)
-
-</details>
-
-<details>
-<summary>🔵 Azure Blog</summary>
-
-- [Microsoft and Oracle bring agentic AI into flow of enterprise work](https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/) (2026-11-17)
-- [Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/) (2026-11-17)
-- [Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI](https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/) (2026-11-17)
-- [Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era](https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/) (2026-11-17)
-- [Continuous improvement comes to Microsoft Foundry](https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/) (2026-11-17)
 
 </details>
 
@@ -163,11 +152,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [The momentum across the global Angular ecosystem never slows down!](https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4) (2026-11-20)
 - [Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡](https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4) (2026-11-06)
 - [From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…](https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4) (2026-10-23)
 - [Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡](https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4) (2026-10-09)
 - [Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡](https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4) (2026-09-25)
-- [An update on Angular’s TypeScript 7-powered Compiler](https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4) (2026-09-25)
 
 </details>
 
@@ -361,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them](https://blog.cloudflare.com/nginx2root/) (2026-11-20)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://blog.cloudflare.com/internet-traffic-2026-us-election/) (2026-11-19)
 - [An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team](https://blog.cloudflare.com/open-clairic/) (2026-11-18)
 - [How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)](https://blog.cloudflare.com/java4shell-waf-protection/) (2026-11-18)
 - [Quad9’s withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) (2026-11-17)
-- [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/) (2026-11-13)
 
 </details>
 
@@ -525,22 +514,22 @@ https://www.twilio.com/en-us/blog/insights/evaluate-ai-agents-production
 <details>
 <summary>💬 Slack API</summary>
 
+- [Bring Agents Into Your Workflows, Right in Slack](https://slack.com/blog/news/agents-in-workflow-builder) (2026-11-18)
 - [How to create a sales dashboard](https://slack.com/blog/productivity/how-to-create-a-sales-dashboard) (2026-11-09)
 - [Best remote work tools for team collaboration](https://slack.com/blog/collaboration/best-remote-work-tools-for-team-collaboration) (2026-11-09)
 - [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistant) (2026-11-06)
 - [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
-- [Slackbot: Delegate more work, in more places](https://slack.com/blog/news/slackbot-proactive-ai-updates) (2026-10-28)
 
 </details>
 
 <details>
 <summary>🔒 Signal Blog</summary>
 
+- [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/) (2026-11-20)
 - [Proudly nonprofit](https://signal.org/blog/proudly-nonprofit/) (2026-11-10)
 - [Back to Backups: A Year in Review](https://signal.org/blog/backup-improvements/) (2026-09-28)
 - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/) (2026-08-11)
 - [More linked devices are on the table (and the Android tablet)](https://signal.org/blog/linked-devices-and-android-tablets/) (2026-08-04)
-- [Label yourself](https://signal.org/blog/group-member-labels/) (2026-03-19)
 
 </details>
 
@@ -569,55 +558,55 @@ https://www.twilio.com/en-us/blog/insights/evaluate-ai-agents-production
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale) (2026-11-20)
 - [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin) (2026-11-18)
 - [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time) (2026-11-18)
 - [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse) (2026-11-18)
 - [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming) (2026-11-18)
-- [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash) (2026-11-18)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Prepare for a Credit Risk Internship Interview in Nine Steps](https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/) (2026-11-20)
+- [Five Guardrails That Limit the Damage an AI Agent Can Do](https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/) (2026-11-20)
 - [The 0.95 Expectile Is Not the 95th Percentile](https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/) (2026-11-19)
 - [How to Run Claude Code and Other Coding Agents in the Cloud 24/7](https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/) (2026-11-19)
 - [How to Oversee AI Agents at Scale With a Three-Tier Architecture](https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/) (2026-11-19)
-- [Analytics Engineering's Missing Layer Is Business Communication](https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/) (2026-11-19)
-- [How AI Agents Become a Tool for Attackers, and How to Stop It](https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/) (2026-11-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GPT-6.2 Astra and Sol: A Hands-On Performance Review](https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/) (2026-11-20)
 - [Gemini 4 Neon Review: Benchmarks, Pricing, and Performance](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-neon-review/) (2026-11-19)
 - [How to Use Claude for Stock Research, Portfolio Reviews and Trades](https://www.analyticsvidhya.com/blog/2026/11/connect-demat-account-claude-stocks/) (2026-11-18)
 - [How to Make Product Launch Videos with Claude Opus 5.5 ](https://www.analyticsvidhya.com/blog/2026/11/product-launch-videos-with-claude-opus-5-5/) (2026-11-16)
 - [Top 10 GitHub Repositories Trending in October 2026](https://www.analyticsvidhya.com/blog/2026/11/top-github-repositories-october-2026/) (2026-11-15)
-- [How to Evaluate AI Agents For Enterprise](https://www.analyticsvidhya.com/blog/2026/11/how-to-evaluate-ai-agents-for-enterprise/) (2026-11-13)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Decision AI Explained in 5 Minutes](https://www.kdnuggets.com/decision-ai-explained-in-5-minutes) (2026-11-20)
 - [What I Learned From Kaggle + Google’s Free Agentic AI Course](https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course) (2026-11-19)
 - [One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy](https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy) (2026-11-19)
 - [Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them](https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them) (2026-11-18)
 - [Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next](https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next) (2026-11-18)
-- [AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning](https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning) (2026-11-18)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Ways AI Agents Fail in Production (and How to Catch Each One)](https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/) (2026-11-20)
 - [Model Compression Beyond Quantization](https://machinelearningmastery.com/model-compression-beyond-quantization/) (2026-11-19)
 - [Visualizing Information Entropy in Language Models](https://machinelearningmastery.com/visualizing-information-entropy-in-language-models/) (2026-11-19)
 - [Graph-RAG for Enterprise Documents: Building a Knowledge Graph from PDFs, Wikis, and Databases](https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/) (2026-11-18)
 - [Activation and Floating-Point Quantization](https://machinelearningmastery.com/activation-kv-cache-and-floating-point-quantization/) (2026-11-17)
-- [Gradient Boosting vs. Random Forest vs. Neural Networks: A 2026 Performance Benchmark](https://machinelearningmastery.com/gradient-boosting-vs-random-forest-vs-neural-networks-a-2026-performance-benchmark/) (2026-11-17)
 
 </details>
 
