@@ -9,11 +9,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) (2026-11-20)
-- [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html) (2026-11-20)
-- [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models) (2026-11-20)
-- [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon) (2026-11-20)
-- [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html) (2026-11-20)
+- [BlackBlaze now explicitly states selling your data for advertisement](https://www.backblaze.com/company/policy/privacy) (2026-11-21)
+- [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) (2026-11-21)
+- [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes) (2026-11-21)
+- [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411) (2026-11-20)
+- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid) (2026-11-20)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Markdown to HTML: 0 LLM Tokens for 4 Posts, 23 FAQs Extracted](https://dev.to/sungwoo_lee_e0f26be4a29fd/markdown-to-html-0-llm-tokens-for-4-posts-23-faqs-extracted-1km) (2026-11-20)
-- [How to pull every open job at a company from Greenhouse, Lever, Ashby and Workable (no scraping)](https://dev.to/kleb_data/how-to-pull-every-open-job-at-a-company-from-greenhouse-lever-ashby-and-workable-no-scraping-70j) (2026-11-20)
-- [Moving From Development or IT Into Cyber Security in Australia: A Practical Starting Plan](https://dev.to/3cirteam/moving-from-development-or-it-into-cyber-security-in-australia-a-practical-starting-plan-2pej) (2026-11-20)
-- [파일은 16.5GB인데 코딩 과제는 28개: POCKET-27B-Pi가 원 정밀도 53.8GB 모델을 앞선 이유와 직접 돌려 보는 법](https://dev.to/vidraft_lab/paileun-165gbinde-koding-gwajeneun-28gae-pocket-27b-piga-weon-jeongmildo-538gb-modeleul-apseon-iyuwa-jigjeob-dolryeo-boneun-beob-35d9) (2026-11-20)
-- [How to Fetch Live Polymarket & Kalshi Prediction Market Odds in Python (Zero API Keys)](https://dev.to/wokk93/how-to-fetch-live-polymarket-kalshi-prediction-market-odds-in-python-zero-api-keys-4df4) (2026-11-20)
+- [SAAX Protocol Is Now Listed on Coinstancy](https://dev.to/brudy_dev24/saax-protocol-is-now-listed-on-coinstancy-4g45) (2026-11-21)
+- [El atributo Certificado del CFDI 4.0 es un .cer en Base64: cómo sacarlo del XML y comprobar que cuadra con NoCertificado](https://dev.to/mind_vsdrive_30e41cb9738/el-atributo-certificado-del-cfdi-40-es-un-cer-en-base64-como-sacarlo-del-xml-y-comprobar-que-i6j) (2026-11-21)
+- [Close ZIP-area rent differences are not precise rankings](https://dev.to/richardcieplechowicz/close-zip-area-rent-differences-are-not-precise-rankings-5gj6) (2026-11-21)
+- [Pod Security exemptions survive namespace labels, so audit them separately](https://dev.to/facilishz/pod-security-exemptions-survive-namespace-labels-so-audit-them-separately-5ekc) (2026-11-21)
+- [Test old heading links when editing a translated page](https://dev.to/gosimch/test-old-heading-links-when-editing-a-translated-page-5hdd) (2026-11-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Does your AI assistant know who uses your API?](https://medium.com/@graphwake/does-your-ai-assistant-know-who-uses-your-api-928e21d89736?source=rss------programming-5) (2026-11-20)
-- [How to URL Encode and Decode Text (With Examples)](https://medium.com/@usmanfar2002/how-to-url-encode-and-decode-text-with-examples-6f8badeaed88?source=rss------programming-5) (2026-11-20)
-- [I Turned Off Telemetry and Thought I Was Safe. I Was Wrong](https://medium.com/@loengnavy/i-turned-off-telemetry-and-thought-i-was-safe-i-was-wrong-d22df9a93245?source=rss------programming-5) (2026-11-20)
-- [A $430 GPU and an SSD Ran a 748-Billion-Parameter Model. Here Is the Catch.](https://medium.com/@amuythida/a-430-gpu-and-an-ssd-ran-a-748-billion-parameter-model-here-is-the-catch-00c2deeae4fb?source=rss------programming-5) (2026-11-20)
-- [Why Your First Async Rust Function Does Nothing (And What to Do About It)](https://medium.com/@khmerlux8878/why-your-first-async-rust-function-does-nothing-and-what-to-do-about-it-b479b1c40184?source=rss------programming-5) (2026-11-20)
+- [C Union vs Struct: One Letter Apart, Opposite Memory Rules](https://medium.com/@josephfernandes273/c-union-vs-struct-one-letter-apart-opposite-memory-rules-dc25abd2a9b2?source=rss------programming-5) (2026-11-21)
+- [ต้นพลังงานที่แท้จริงกับความเงียบที่มีเนื้อหา * ขั้วกำเนิดของต้นพลังงาน vs เศษปลายพลังงาน…](https://umarinzy1512531.medium.com/%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%97%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2-%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-vs-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-dd08bd21e844?source=rss------programming-5) (2026-11-21)
+- [Gemini 4 Neon in a React chat: going past 64K output without breaking your token meter](https://medium.com/@cuelarkofficial/gemini-4-neon-in-a-react-chat-going-past-64k-output-without-breaking-your-token-meter-950c97fd2187?source=rss------programming-5) (2026-11-21)
+- [12 AI Concepts You Must Know Before You Build Your First AI Agent](https://medium.com/ai-engineering-simplified/12-ai-concepts-you-must-know-before-you-build-your-first-ai-agent-e79264e821b3?source=rss------programming-5) (2026-11-21)
+- [C Structs Explained: Drawing the Blueprint for a Custom Home](https://medium.com/@josephfernandes273/c-structs-explained-drawing-the-blueprint-for-a-custom-home-ce3bc14f3618?source=rss------programming-5) (2026-11-21)
 
 </details>
 
