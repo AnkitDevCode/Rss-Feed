@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) (2026-11-21)
-- [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic) (2026-11-21)
-- [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) (2026-11-21)
-- [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (2026-11-21)
-- [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) (2026-11-21)
+- [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers) (2026-11-21)
+- [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746) (2026-11-21)
+- [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell) (2026-11-21)
+- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) (2026-11-21)
+- [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) (2026-11-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai) (2026-11-21)
-- [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review) (2026-11-21)
-- [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer) (2026-11-21)
-- [Harbinger is building the unsexy EVs that keep the economy moving](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks) (2026-11-21)
-- [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement) (2026-11-20)
+- [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label) (2026-11-21)
+- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) (2026-11-21)
+- [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked) (2026-11-21)
+- [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview) (2026-11-21)
+- [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale) (2026-11-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/) (2026-11-21)
 - [“Race realism” isn’t realistic—and it isn’t good science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) (2026-11-21)
 - [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) (2026-11-20)
 - [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/) (2026-11-20)
 - [Google rolls out new search homepage with AI chat history and no search button](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/) (2026-11-20)
-- [Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) (2026-11-20)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A New CVE Was Published. Do You Know Which of Your Applications Are Affected?](https://dev.to/cyberbezpieczenstwo/a-new-cve-was-published-do-you-know-which-of-your-applications-are-affected-1jf0) (2026-11-21)
-- [My search box scored 1.00 on a query it understood nothing about](https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8) (2026-11-21)
-- [The Cell, Not the Team: Three Roles That Make One Engineer Accountable](https://dev.to/dqj1998/the-cell-not-the-team-three-roles-that-make-one-engineer-accountable-3hkg) (2026-11-21)
-- [Merge #2: my five pre-upload tools are now one suite](https://dev.to/singhularityai/merge-2-my-five-pre-upload-tools-are-now-one-suite-1i5a) (2026-11-21)
-- [Dynamo 1.6.2 Turns an Oversized-Prompt HTTP 500 Into a 400: Why Error Codes Decide Your Retry Load, Plus the Opt-In GC Freeze for SGLang Workers](https://dev.to/wolfsea2357/dynamo-162-turns-an-oversized-prompt-http-500-into-a-400-why-error-codes-decide-your-retry-load-717) (2026-11-21)
+- [Password Pusher separates secret links from management authority](https://dev.to/johnettagaweraks/password-pusher-separates-secret-links-from-management-authority-1552) (2026-11-21)
+- [What 1 GB and 16 GB of managed Postgres really cost: notes from 11 providers](https://dev.to/alanslui/what-1-gb-and-16-gb-of-managed-postgres-really-cost-notes-from-11-providers-5a12) (2026-11-21)
+- [Stop Spinning Up Headless Chrome for Public JSON: HTTP-First Extraction Patterns for Shopify, Multi-ATS Boards, and Substack (with n8n)](https://dev.to/pulse-extract/stop-spinning-up-headless-chrome-for-public-json-http-first-extraction-patterns-for-shopify-1mi5) (2026-11-21)
+- [Kolmogorov-Arnold Networks: Why Learnable Functions on Edges Beat Fixed Activations](https://dev.to/umeshtharukaofficial/kolmogorov-arnold-networks-why-learnable-functions-on-edges-beat-fixed-activations-2aad) (2026-11-21)
+- [Day 33: two eligibility questions sent](https://dev.to/wyeco_ai/day-33-two-eligibility-questions-sent-564e) (2026-11-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust vs C# with Python](https://medium.com/@ictdlilgent77/rust-vs-c-with-python-484204a4f130?source=rss------programming-5) (2026-11-21)
-- [Rust vs Python for Machine Learning: Which Parts Actually Need Rust?](https://medium.com/@rothyyorn9/rust-vs-python-for-machine-learning-which-parts-actually-need-rust-b9b635baba6b?source=rss------programming-5) (2026-11-21)
-- [Don’t Buy a Mac Studio Before Understanding These 7 Local LLM Bottlenecks](https://medium.com/@rothyyorn999/dont-buy-a-mac-studio-before-understanding-these-7-local-llm-bottlenecks-87f5c1d628a4?source=rss------programming-5) (2026-11-21)
-- [How AI Chatbots Make Business Information Easier for Customers to Find](https://medium.com/@alirehmanxo21/how-ai-chatbots-make-business-information-easier-for-customers-to-find-fd30d80d85bd?source=rss------programming-5) (2026-11-21)
-- [Rust Async Performance: How to Find and Fix Tokio Bottlenecks](https://medium.com/@thyzmile24/rust-async-performance-how-to-find-and-fix-tokio-bottlenecks-16ca332a30e7?source=rss------programming-5) (2026-11-21)
+- [8 Python Libraries for Generating Documents From Templates](https://blog.stackademic.com/8-python-libraries-for-generating-documents-from-templates-c00073cbc6de?source=rss------programming-5) (2026-11-21)
+- [How I Built a Playable 2D RPG with AI and JavaScript](https://medium.com/@damian94rsl/how-i-built-a-playable-2d-rpg-with-ai-and-javascript-177c06706393?source=rss------programming-5) (2026-11-21)
+- [Your AI Agent Is a Pile of Prompts. The Architecture That Fixes It.](https://elpic.medium.com/your-ai-agent-is-a-pile-of-prompts-the-architecture-that-fixes-it-fd15e11b2506?source=rss------programming-5) (2026-11-21)
+- [Gemini 4 Neon is the Best AI now, But There’s a Problem (Fully Tested)](https://pub.towardsai.net/gemini-4-neon-is-the-best-ai-now-but-theres-a-problem-fully-tested-7dd28c46312e?source=rss------programming-5) (2026-11-21)
+- [Learn Rust #6: Six of Eight Languages Shipped This Data Race](https://srinivasiyer.medium.com/learn-rust-6-six-of-eight-languages-shipped-this-data-race-638027c8abd9?source=rss------programming-5) (2026-11-21)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Learn Supply Chain Analytics in 2027 with Claude Code](https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/) (2026-11-21)
 - [Censored vs. Truncated Regression in Python, Explained](https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/) (2026-11-21)
 - [LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals](https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/) (2026-11-20)
 - [Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores](https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/) (2026-11-20)
 - [How to Prepare for a Credit Risk Internship Interview in Nine Steps](https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/) (2026-11-20)
-- [Five Guardrails That Limit the Damage an AI Agent Can Do](https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/) (2026-11-20)
 
 </details>
 
