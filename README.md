@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [BlackBlaze now explicitly states selling your data for advertisement](https://www.backblaze.com/company/policy/privacy) (2026-11-21)
-- [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) (2026-11-21)
-- [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes) (2026-11-21)
-- [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411) (2026-11-20)
-- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid) (2026-11-20)
+- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) (2026-11-21)
+- [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic) (2026-11-21)
+- [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) (2026-11-21)
+- [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (2026-11-21)
+- [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) (2026-11-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai) (2026-11-21)
+- [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review) (2026-11-21)
+- [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer) (2026-11-21)
+- [Harbinger is building the unsexy EVs that keep the economy moving](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks) (2026-11-21)
 - [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement) (2026-11-20)
-- [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales) (2026-11-20)
-- [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale) (2026-11-20)
-- [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax) (2026-11-20)
-- [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale) (2026-11-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“Race realism” isn’t realistic—and it isn’t good science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) (2026-11-21)
 - [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) (2026-11-20)
 - [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/) (2026-11-20)
 - [Google rolls out new search homepage with AI chat history and no search button](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/) (2026-11-20)
 - [Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) (2026-11-20)
-- [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) (2026-11-20)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SAAX Protocol Is Now Listed on Coinstancy](https://dev.to/brudy_dev24/saax-protocol-is-now-listed-on-coinstancy-4g45) (2026-11-21)
-- [El atributo Certificado del CFDI 4.0 es un .cer en Base64: cómo sacarlo del XML y comprobar que cuadra con NoCertificado](https://dev.to/mind_vsdrive_30e41cb9738/el-atributo-certificado-del-cfdi-40-es-un-cer-en-base64-como-sacarlo-del-xml-y-comprobar-que-i6j) (2026-11-21)
-- [Close ZIP-area rent differences are not precise rankings](https://dev.to/richardcieplechowicz/close-zip-area-rent-differences-are-not-precise-rankings-5gj6) (2026-11-21)
-- [Pod Security exemptions survive namespace labels, so audit them separately](https://dev.to/facilishz/pod-security-exemptions-survive-namespace-labels-so-audit-them-separately-5ekc) (2026-11-21)
-- [Test old heading links when editing a translated page](https://dev.to/gosimch/test-old-heading-links-when-editing-a-translated-page-5hdd) (2026-11-21)
+- [A New CVE Was Published. Do You Know Which of Your Applications Are Affected?](https://dev.to/cyberbezpieczenstwo/a-new-cve-was-published-do-you-know-which-of-your-applications-are-affected-1jf0) (2026-11-21)
+- [My search box scored 1.00 on a query it understood nothing about](https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8) (2026-11-21)
+- [The Cell, Not the Team: Three Roles That Make One Engineer Accountable](https://dev.to/dqj1998/the-cell-not-the-team-three-roles-that-make-one-engineer-accountable-3hkg) (2026-11-21)
+- [Merge #2: my five pre-upload tools are now one suite](https://dev.to/singhularityai/merge-2-my-five-pre-upload-tools-are-now-one-suite-1i5a) (2026-11-21)
+- [Dynamo 1.6.2 Turns an Oversized-Prompt HTTP 500 Into a 400: Why Error Codes Decide Your Retry Load, Plus the Opt-In GC Freeze for SGLang Workers](https://dev.to/wolfsea2357/dynamo-162-turns-an-oversized-prompt-http-500-into-a-400-why-error-codes-decide-your-retry-load-717) (2026-11-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [C Union vs Struct: One Letter Apart, Opposite Memory Rules](https://medium.com/@josephfernandes273/c-union-vs-struct-one-letter-apart-opposite-memory-rules-dc25abd2a9b2?source=rss------programming-5) (2026-11-21)
-- [ต้นพลังงานที่แท้จริงกับความเงียบที่มีเนื้อหา * ขั้วกำเนิดของต้นพลังงาน vs เศษปลายพลังงาน…](https://umarinzy1512531.medium.com/%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%97%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2-%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-vs-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-dd08bd21e844?source=rss------programming-5) (2026-11-21)
-- [Gemini 4 Neon in a React chat: going past 64K output without breaking your token meter](https://medium.com/@cuelarkofficial/gemini-4-neon-in-a-react-chat-going-past-64k-output-without-breaking-your-token-meter-950c97fd2187?source=rss------programming-5) (2026-11-21)
-- [12 AI Concepts You Must Know Before You Build Your First AI Agent](https://medium.com/ai-engineering-simplified/12-ai-concepts-you-must-know-before-you-build-your-first-ai-agent-e79264e821b3?source=rss------programming-5) (2026-11-21)
-- [C Structs Explained: Drawing the Blueprint for a Custom Home](https://medium.com/@josephfernandes273/c-structs-explained-drawing-the-blueprint-for-a-custom-home-ce3bc14f3618?source=rss------programming-5) (2026-11-21)
+- [Rust vs C# with Python](https://medium.com/@ictdlilgent77/rust-vs-c-with-python-484204a4f130?source=rss------programming-5) (2026-11-21)
+- [Rust vs Python for Machine Learning: Which Parts Actually Need Rust?](https://medium.com/@rothyyorn9/rust-vs-python-for-machine-learning-which-parts-actually-need-rust-b9b635baba6b?source=rss------programming-5) (2026-11-21)
+- [Don’t Buy a Mac Studio Before Understanding These 7 Local LLM Bottlenecks](https://medium.com/@rothyyorn999/dont-buy-a-mac-studio-before-understanding-these-7-local-llm-bottlenecks-87f5c1d628a4?source=rss------programming-5) (2026-11-21)
+- [How AI Chatbots Make Business Information Easier for Customers to Find](https://medium.com/@alirehmanxo21/how-ai-chatbots-make-business-information-easier-for-customers-to-find-fd30d80d85bd?source=rss------programming-5) (2026-11-21)
+- [Rust Async Performance: How to Find and Fix Tokio Bottlenecks](https://medium.com/@thyzmile24/rust-async-performance-how-to-find-and-fix-tokio-bottlenecks-16ca332a30e7?source=rss------programming-5) (2026-11-21)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How To Import Data From Your CRM Or Another External Source Into Conversation Memory
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory
+) (2026-11-20)
+- [
+What is an SMTP server? How Simple Mail Transfer Protocol works
+](
+https://www.twilio.com/en-us/blog/insights/what-is-an-smtp-server
+) (2026-11-20)
+- [
 Keep European Customer Data Grounded - Without Breaking the Customer Experience
 ](
 https://www.twilio.com/en-us/blog/products/cx-automation-suite-european-residency
@@ -387,16 +397,6 @@ Extending Twilio Verify Beyond Carrier Channels: Passkeys, TOTP, and Push Withou
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp-push
 ) (2026-11-19)
-- [
-Memory Architecture for AI Agents: Integrating Twilio Conversations and Amazon Bedrock
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock
-) (2026-11-18)
-- [
-Where (and when) to deploy conversational AI first
-](
-https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-first
-) (2026-11-18)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-fir
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Censored vs. Truncated Regression in Python, Explained](https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/) (2026-11-21)
 - [LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals](https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/) (2026-11-20)
 - [Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores](https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/) (2026-11-20)
 - [How to Prepare for a Credit Risk Internship Interview in Nine Steps](https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/) (2026-11-20)
 - [Five Guardrails That Limit the Damage an AI Agent Can Do](https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/) (2026-11-20)
-- [The 0.95 Expectile Is Not the 95th Percentile](https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/) (2026-11-19)
 
 </details>
 
