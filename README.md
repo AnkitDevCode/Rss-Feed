@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) (2026-11-22)
-- [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026) (2026-11-22)
-- [Since last year, we asked: "What if AI solved the Riemann Hypothesis?"](https://www.youtube.com/watch?v=zqzk43bSdDI) (2026-11-22)
-- [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study) (2026-11-22)
-- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) (2026-11-22)
+- [Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/) (2026-11-22)
+- [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/) (2026-11-22)
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) (2026-11-22)
+- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) (2026-11-22)
+- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook) (2026-11-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary) (2026-11-22)
+- [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay) (2026-11-22)
+- [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera) (2026-11-22)
 - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label) (2026-11-21)
 - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) (2026-11-21)
-- [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked) (2026-11-21)
-- [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview) (2026-11-21)
-- [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale) (2026-11-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [GLP-1 drugs could have a surprisingly large environmental payoff](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/) (2026-11-22)
 - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/) (2026-11-21)
 - [“Race realism” isn’t realistic—and it isn’t good science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) (2026-11-21)
 - [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) (2026-11-20)
 - [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/) (2026-11-20)
-- [Google rolls out new search homepage with AI chat history and no search button](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/) (2026-11-20)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why the Answer Page of a Daily Game Should Be the Least Exciting Page](https://dev.to/songlessanswers/why-the-answer-page-of-a-daily-game-should-be-the-least-exciting-page-1kp) (2026-11-22)
-- [I counted 23,064 agent skills before writing one. Here is what I built instead.](https://dev.to/manjunani/i-counted-23064-agent-skills-before-writing-one-here-is-what-i-built-instead-f8j) (2026-11-22)
-- [Designing a Difficulty Dial Without Changing the Rules](https://dev.to/poopleunlimited/designing-a-difficulty-dial-without-changing-the-rules-dk6) (2026-11-22)
-- [Figma MCP Claude: Turn a Captured Website Into a Runnable Code Layer](https://dev.to/sandeep_virk_31621a43cb7c/figma-mcp-claude-turn-a-captured-website-into-a-runnable-code-layer-2ga6) (2026-11-22)
-- [Cockpit followed a home-directory symlink in a privileged key helper](https://dev.to/sorrelthorncroft/cockpit-followed-a-home-directory-symlink-in-a-privileged-key-helper-3nhf) (2026-11-22)
+- [How I Built a Fast Gaming Wiki & Interactive Team Builder with Next.js 16 + Cloudflare Workers](https://dev.to/jasonguo/how-i-built-a-fast-gaming-wiki-interactive-team-builder-with-nextjs-16-cloudflare-workers-g30) (2026-11-22)
+- [AI Agent Cost Comparison: Same $0.30 per Million Tokens, a 37% Bigger Bill. 55 Open-Weight Tokenizers Tested (Nov 2026)](https://dev.to/sarathkavuru/ai-agent-cost-comparison-same-030-per-million-tokens-a-37-bigger-bill-55-open-weight-e9b) (2026-11-22)
+- [FSx for ONTAP console SnapMirror and snapshot policies: can the AWS CLI and API use them? Reading CloudTrail](https://dev.to/aws-builders/fsx-for-ontap-console-snapmirror-and-snapshot-policies-can-the-aws-cli-and-api-use-them-reading-2cd9) (2026-11-22)
+- [1,818 selectors ship in our stylesheet, not one of them has an id, and nine !important of which five we wrote](https://dev.to/daniel_pertu/1818-selectors-ship-in-our-stylesheet-not-one-of-them-has-an-id-and-nine-important-of-which-4aff) (2026-11-22)
+- [I fetched our pricing page as 20 clients and got four different documents, because two regexes are arguing](https://dev.to/daniel_pertu/i-fetched-our-pricing-page-as-20-clients-and-got-four-different-documents-because-two-regexes-are-58e6) (2026-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 20 Advanced Java Collections Interview Questions for Senior Developers](https://medium.com/@pardeepgill82/top-20-advanced-java-collections-interview-questions-for-senior-developers-3bf7d83148a6?source=rss------programming-5) (2026-11-22)
-- [On a Hard Reload, Our Angular Guard Saw modules: []. Empty Meant Allow Everything.](https://medium.com/@thisvinaykumar/on-a-hard-reload-our-angular-guard-saw-modules-empty-meant-allow-everything-a57bde6d05c6?source=rss------programming-5) (2026-11-22)
-- [Best Cheap Laptops for Coding and Programming](https://medium.com/@tauseefqasim/best-cheap-laptops-for-coding-and-programming-806da77c751b?source=rss------programming-5) (2026-11-22)
-- [I Asked for Everything and Got Nothing Back](https://medium.com/@ashokramsi/i-asked-for-everything-and-got-nothing-back-ba3639e56440?source=rss------programming-5) (2026-11-22)
-- [Why robots.txt](https://medium.com/@silexindustriesofficial/why-robots-txt-12c386e0b881?source=rss------programming-5) (2026-11-22)
+- [Executive Director | Multidisciplinary Haitian Artist, Music Industry & Literary Operator, Academic…](https://medium.com/@BrotherswaggStudioRecords/executive-director-multidisciplinary-haitian-artist-music-industry-literary-operator-academic-1911344833c3?source=rss------programming-5) (2026-11-22)
+- [Computing Planetary Positions & Orbits Locally using NASA JPL DE440 constants](https://medium.com/@joel.pacherie/computing-planetary-positions-orbits-locally-using-nasa-jpl-de440-constants-d37ebd4d6f15?source=rss------programming-5) (2026-11-22)
+- [Fungsi dalam Python: Ibarat Buku Resep yang Bisa Dipakai Berulang ](https://medium.com/@fabio_92746/fungsi-dalam-python-ibarat-buku-resep-yang-bisa-dipakai-berulang-e0858bca13a6?source=rss------programming-5) (2026-11-22)
+- [Should You Restart Claude Code? One Python Bug, Three Ways to Find Out](https://blog.cubed.run/should-you-restart-claude-code-one-python-bug-three-ways-to-find-out-85a6ce434d9d?source=rss------programming-5) (2026-11-22)
+- [The Riemann Hypothesis has been solved by AI. There’s only one problem: it’s unreadable by humans.](https://medium.com/@JimTheAIWhisperer/ai-solves-riemann-hypothesis-but-cant-explain-proof-f24d343e4e98?source=rss------programming-5) (2026-11-22)
 
 </details>
 
@@ -580,22 +580,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How AI Changes the Four Types of Analytics for Data Scientists](https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/) (2026-11-22)
 - [How to Learn Supply Chain Analytics in 2027 with Claude Code](https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/) (2026-11-21)
 - [Censored vs. Truncated Regression in Python, Explained](https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/) (2026-11-21)
 - [LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals](https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/) (2026-11-20)
 - [Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores](https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/) (2026-11-20)
-- [How to Prepare for a Credit Risk Internship Interview in Nine Steps](https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/) (2026-11-20)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Positional Embeddings Explained: How LLMs Understand Word Order](https://www.analyticsvidhya.com/blog/2026/11/positional-embeddings-explained-llm-word-order/) (2026-11-22)
 - [GPT-6.2 Astra and Sol: A Hands-On Performance Review](https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/) (2026-11-20)
 - [Gemini 4 Neon Review: Benchmarks, Pricing, and Performance](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-neon-review/) (2026-11-19)
 - [How to Use Claude for Stock Research, Portfolio Reviews and Trades](https://www.analyticsvidhya.com/blog/2026/11/connect-demat-account-claude-stocks/) (2026-11-18)
 - [How to Make Product Launch Videos with Claude Opus 5.5 ](https://www.analyticsvidhya.com/blog/2026/11/product-launch-videos-with-claude-opus-5-5/) (2026-11-16)
-- [Top 10 GitHub Repositories Trending in October 2026](https://www.analyticsvidhya.com/blog/2026/11/top-github-repositories-october-2026/) (2026-11-15)
 
 </details>
 
@@ -629,17 +629,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
-- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/) (2026-11-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
