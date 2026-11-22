@@ -9,22 +9,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/) (2026-11-22)
-- [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/) (2026-11-22)
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) (2026-11-22)
-- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) (2026-11-22)
-- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook) (2026-11-22)
+- [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf) (2026-11-22)
+- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/) (2026-11-22)
+- [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/) (2026-11-22)
+- [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/) (2026-11-22)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) (2026-11-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary) (2026-11-22)
-- [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay) (2026-11-22)
-- [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera) (2026-11-22)
-- [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label) (2026-11-21)
-- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) (2026-11-21)
+- [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages) (2026-11-22)
+- [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage) (2026-11-22)
+- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) (2026-11-22)
+- [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale) (2026-11-22)
+- [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review) (2026-11-22)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Fast Gaming Wiki & Interactive Team Builder with Next.js 16 + Cloudflare Workers](https://dev.to/jasonguo/how-i-built-a-fast-gaming-wiki-interactive-team-builder-with-nextjs-16-cloudflare-workers-g30) (2026-11-22)
-- [AI Agent Cost Comparison: Same $0.30 per Million Tokens, a 37% Bigger Bill. 55 Open-Weight Tokenizers Tested (Nov 2026)](https://dev.to/sarathkavuru/ai-agent-cost-comparison-same-030-per-million-tokens-a-37-bigger-bill-55-open-weight-e9b) (2026-11-22)
-- [FSx for ONTAP console SnapMirror and snapshot policies: can the AWS CLI and API use them? Reading CloudTrail](https://dev.to/aws-builders/fsx-for-ontap-console-snapmirror-and-snapshot-policies-can-the-aws-cli-and-api-use-them-reading-2cd9) (2026-11-22)
-- [1,818 selectors ship in our stylesheet, not one of them has an id, and nine !important of which five we wrote](https://dev.to/daniel_pertu/1818-selectors-ship-in-our-stylesheet-not-one-of-them-has-an-id-and-nine-important-of-which-4aff) (2026-11-22)
-- [I fetched our pricing page as 20 clients and got four different documents, because two regexes are arguing](https://dev.to/daniel_pertu/i-fetched-our-pricing-page-as-20-clients-and-got-four-different-documents-because-two-regexes-are-58e6) (2026-11-22)
+- [How to Use AI Tools Ethically While You Job Hunt](https://dev.to/danielbrookscareers/how-to-use-ai-tools-ethically-while-you-job-hunt-3m0a) (2026-11-22)
+- [Does a Tesla Model 3 lose value faster than a VW Golf? 650 German listings](https://dev.to/harborsift/does-a-tesla-model-3-lose-value-faster-than-a-vw-golf-650-german-listings-k6l) (2026-11-22)
+- [Raymarching a nebula: the basics, with an example shader](https://dev.to/matto_yanni2_5018bfec28/raymarching-a-nebula-the-basics-with-an-example-shader-4a7m) (2026-11-22)
+- [🐸 Kaeru Hero 3.0 — Another milestone in a project I'm passionate about! 🚀](https://dev.to/regodefies/kaeru-hero-30-another-milestone-in-a-project-im-passionate-about-1i5p) (2026-11-22)
+- [[CVE-2026-123007] Unauthenticated RCE via Integer Underflow in NGINX's HTTP/2 Flow Control](https://dev.to/guidance_white/cve-2026-123007-unauthenticated-rce-via-integer-underflow-in-nginxs-http2-flow-control-o1j) (2026-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Executive Director | Multidisciplinary Haitian Artist, Music Industry & Literary Operator, Academic…](https://medium.com/@BrotherswaggStudioRecords/executive-director-multidisciplinary-haitian-artist-music-industry-literary-operator-academic-1911344833c3?source=rss------programming-5) (2026-11-22)
-- [Computing Planetary Positions & Orbits Locally using NASA JPL DE440 constants](https://medium.com/@joel.pacherie/computing-planetary-positions-orbits-locally-using-nasa-jpl-de440-constants-d37ebd4d6f15?source=rss------programming-5) (2026-11-22)
-- [Fungsi dalam Python: Ibarat Buku Resep yang Bisa Dipakai Berulang ](https://medium.com/@fabio_92746/fungsi-dalam-python-ibarat-buku-resep-yang-bisa-dipakai-berulang-e0858bca13a6?source=rss------programming-5) (2026-11-22)
-- [Should You Restart Claude Code? One Python Bug, Three Ways to Find Out](https://blog.cubed.run/should-you-restart-claude-code-one-python-bug-three-ways-to-find-out-85a6ce434d9d?source=rss------programming-5) (2026-11-22)
-- [The Riemann Hypothesis has been solved by AI. There’s only one problem: it’s unreadable by humans.](https://medium.com/@JimTheAIWhisperer/ai-solves-riemann-hypothesis-but-cant-explain-proof-f24d343e4e98?source=rss------programming-5) (2026-11-22)
+- [Rust vs Python for AI: Where Rust Actually Wins (and Where It Doesn’t)](https://medium.com/@highsongs2020/rust-vs-python-for-ai-where-rust-actually-wins-and-where-it-doesnt-6d881747c56a?source=rss------programming-5) (2026-11-22)
+- [Free GPU Servers Aren’t Really Free: The Hidden Cost of Running AI for $0](https://medium.com/@loengnavy/free-gpu-servers-arent-really-free-the-hidden-cost-of-running-ai-for-0-19ca933d7d53?source=rss------programming-5) (2026-11-22)
+- [Cloud AI Is Access, Not Ownership: Why I Now Keep a Local Copy](https://medium.com/@amuythida/cloud-ai-is-access-not-ownership-why-i-now-keep-a-local-copy-59f3a4561268?source=rss------programming-5) (2026-11-22)
+- [Two Used GPUs Ran a 2.8-Trillion-Parameter AI Model. Should You Copy the Build?](https://medium.com/@sovannaro17/two-used-gpus-ran-a-2-8-trillion-parameter-ai-model-should-you-copy-the-build-e4b00c47ab90?source=rss------programming-5) (2026-11-22)
+- [Your AI Coding Agent Scored 90%. I Still Wouldn’t Trust It With Production](https://medium.com/javarevisited/your-ai-coding-agent-scored-90-i-still-wouldnt-trust-it-with-production-db86abe7530f?source=rss------programming-5) (2026-11-22)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RANSAC, Explained: Consensus Fitting for Image Feature Matching](https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/) (2026-11-22)
 - [How AI Changes the Four Types of Analytics for Data Scientists](https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/) (2026-11-22)
 - [How to Learn Supply Chain Analytics in 2027 with Claude Code](https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/) (2026-11-21)
 - [Censored vs. Truncated Regression in Python, Explained](https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/) (2026-11-21)
 - [LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals](https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/) (2026-11-20)
-- [Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores](https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/) (2026-11-20)
 
 </details>
 
@@ -613,11 +613,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Decoding Policies in a Serving Engine](https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/) (2026-11-22)
 - [7 Ways AI Agents Fail in Production (and How to Catch Each One)](https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/) (2026-11-20)
 - [Model Compression Beyond Quantization](https://machinelearningmastery.com/model-compression-beyond-quantization/) (2026-11-19)
 - [Visualizing Information Entropy in Language Models](https://machinelearningmastery.com/visualizing-information-entropy-in-language-models/) (2026-11-19)
 - [Graph-RAG for Enterprise Documents: Building a Knowledge Graph from PDFs, Wikis, and Databases](https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/) (2026-11-18)
-- [Activation and Floating-Point Quantization](https://machinelearningmastery.com/activation-kv-cache-and-floating-point-quantization/) (2026-11-17)
 
 </details>
 
