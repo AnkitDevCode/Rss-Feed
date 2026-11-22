@@ -9,11 +9,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers) (2026-11-21)
-- [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746) (2026-11-21)
-- [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell) (2026-11-21)
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) (2026-11-21)
-- [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) (2026-11-21)
+- [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) (2026-11-22)
+- [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026) (2026-11-22)
+- [Since last year, we asked: "What if AI solved the Riemann Hypothesis?"](https://www.youtube.com/watch?v=zqzk43bSdDI) (2026-11-22)
+- [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study) (2026-11-22)
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) (2026-11-22)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Password Pusher separates secret links from management authority](https://dev.to/johnettagaweraks/password-pusher-separates-secret-links-from-management-authority-1552) (2026-11-21)
-- [What 1 GB and 16 GB of managed Postgres really cost: notes from 11 providers](https://dev.to/alanslui/what-1-gb-and-16-gb-of-managed-postgres-really-cost-notes-from-11-providers-5a12) (2026-11-21)
-- [Stop Spinning Up Headless Chrome for Public JSON: HTTP-First Extraction Patterns for Shopify, Multi-ATS Boards, and Substack (with n8n)](https://dev.to/pulse-extract/stop-spinning-up-headless-chrome-for-public-json-http-first-extraction-patterns-for-shopify-1mi5) (2026-11-21)
-- [Kolmogorov-Arnold Networks: Why Learnable Functions on Edges Beat Fixed Activations](https://dev.to/umeshtharukaofficial/kolmogorov-arnold-networks-why-learnable-functions-on-edges-beat-fixed-activations-2aad) (2026-11-21)
-- [Day 33: two eligibility questions sent](https://dev.to/wyeco_ai/day-33-two-eligibility-questions-sent-564e) (2026-11-21)
+- [Why the Answer Page of a Daily Game Should Be the Least Exciting Page](https://dev.to/songlessanswers/why-the-answer-page-of-a-daily-game-should-be-the-least-exciting-page-1kp) (2026-11-22)
+- [I counted 23,064 agent skills before writing one. Here is what I built instead.](https://dev.to/manjunani/i-counted-23064-agent-skills-before-writing-one-here-is-what-i-built-instead-f8j) (2026-11-22)
+- [Designing a Difficulty Dial Without Changing the Rules](https://dev.to/poopleunlimited/designing-a-difficulty-dial-without-changing-the-rules-dk6) (2026-11-22)
+- [Figma MCP Claude: Turn a Captured Website Into a Runnable Code Layer](https://dev.to/sandeep_virk_31621a43cb7c/figma-mcp-claude-turn-a-captured-website-into-a-runnable-code-layer-2ga6) (2026-11-22)
+- [Cockpit followed a home-directory symlink in a privileged key helper](https://dev.to/sorrelthorncroft/cockpit-followed-a-home-directory-symlink-in-a-privileged-key-helper-3nhf) (2026-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Python Libraries for Generating Documents From Templates](https://blog.stackademic.com/8-python-libraries-for-generating-documents-from-templates-c00073cbc6de?source=rss------programming-5) (2026-11-21)
-- [How I Built a Playable 2D RPG with AI and JavaScript](https://medium.com/@damian94rsl/how-i-built-a-playable-2d-rpg-with-ai-and-javascript-177c06706393?source=rss------programming-5) (2026-11-21)
-- [Your AI Agent Is a Pile of Prompts. The Architecture That Fixes It.](https://elpic.medium.com/your-ai-agent-is-a-pile-of-prompts-the-architecture-that-fixes-it-fd15e11b2506?source=rss------programming-5) (2026-11-21)
-- [Gemini 4 Neon is the Best AI now, But There’s a Problem (Fully Tested)](https://pub.towardsai.net/gemini-4-neon-is-the-best-ai-now-but-theres-a-problem-fully-tested-7dd28c46312e?source=rss------programming-5) (2026-11-21)
-- [Learn Rust #6: Six of Eight Languages Shipped This Data Race](https://srinivasiyer.medium.com/learn-rust-6-six-of-eight-languages-shipped-this-data-race-638027c8abd9?source=rss------programming-5) (2026-11-21)
+- [Top 20 Advanced Java Collections Interview Questions for Senior Developers](https://medium.com/@pardeepgill82/top-20-advanced-java-collections-interview-questions-for-senior-developers-3bf7d83148a6?source=rss------programming-5) (2026-11-22)
+- [On a Hard Reload, Our Angular Guard Saw modules: []. Empty Meant Allow Everything.](https://medium.com/@thisvinaykumar/on-a-hard-reload-our-angular-guard-saw-modules-empty-meant-allow-everything-a57bde6d05c6?source=rss------programming-5) (2026-11-22)
+- [Best Cheap Laptops for Coding and Programming](https://medium.com/@tauseefqasim/best-cheap-laptops-for-coding-and-programming-806da77c751b?source=rss------programming-5) (2026-11-22)
+- [I Asked for Everything and Got Nothing Back](https://medium.com/@ashokramsi/i-asked-for-everything-and-got-nothing-back-ba3639e56440?source=rss------programming-5) (2026-11-22)
+- [Why robots.txt](https://medium.com/@silexindustriesofficial/why-robots-txt-12c386e0b881?source=rss------programming-5) (2026-11-22)
 
 </details>
 
