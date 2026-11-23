@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html) (2026-11-23)
-- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) (2026-11-23)
-- [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/) (2026-11-23)
-- [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/) (2026-11-23)
-- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) (2026-11-23)
+- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/) (2026-11-23)
+- [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/) (2026-11-23)
+- [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/) (2026-11-23)
+- [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/) (2026-11-23)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (2026-11-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink) (2026-11-23)
-- [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages) (2026-11-22)
-- [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage) (2026-11-22)
-- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) (2026-11-22)
-- [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale) (2026-11-22)
+- [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated) (2026-11-23)
+- [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay) (2026-11-23)
+- [My trusty 27-inch Alienware QD-OLED gaming monitor is just $280](https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale) (2026-11-23)
+- [Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale) (2026-11-23)
+- [The Verge’s favorite holiday gifts that cost $50 or less](https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026) (2026-11-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [GLP-1 drugs could have a surprisingly large environmental payoff](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/) (2026-11-22)
-- [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/) (2026-11-21)
-- [“Race realism” isn’t realistic—and it isn’t good science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) (2026-11-21)
-- [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) (2026-11-20)
-- [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/) (2026-11-20)
+- [Marvel crams every superhero ever into Avengers: Doomsday final trailer](https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/) (2026-11-23)
+- [Jensen Huang reinstated as Nvidia CEO, board chair](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/) (2026-11-23)
+- [COP31 ends in failure as countries split over fossil fuels, climate finance](https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/) (2026-11-23)
+- [F1 in Las Vegas: You've never seen an F1 race like this before](https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/) (2026-11-23)
+- [Tri-screen portable monitors aren’t for the faint of heart](https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/) (2026-11-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/) (2026-11-23)
+- [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/) (2026-11-23)
 - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) (2026-11-20)
 - [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/) (2026-11-20)
 - [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/) (2026-11-19)
-- [A human liver has been kept alive outside the body for a record seven weeks](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/) (2026-11-19)
-- [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/) (2026-11-19)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What can an Android phone tell you about privacy? A guide for phone owners and institutions](https://dev.to/aion-analytics-in/what-can-an-android-phone-tell-you-about-privacy-a-guide-for-phone-owners-and-institutions-39jl) (2026-11-23)
-- [Routing Messages Across RCS, WhatsApp and SMS in 2026: A Fallback Architecture for Indian Apps](https://dev.to/zanisssoftwares/routing-messages-across-rcs-whatsapp-and-sms-in-2026-a-fallback-architecture-for-indian-apps-49i1) (2026-11-23)
-- [Replay-Safe Verification Tokens in PostgreSQL](https://dev.to/kevindev27/replay-safe-verification-tokens-in-postgresql-35pa) (2026-11-23)
-- [How to Start Learning Ethical Hacking from Scratch](https://dev.to/qnayds_seo_437919f6928c2d/how-to-start-learning-ethical-hacking-from-scratch-4hjh) (2026-11-23)
-- [RITA results are only as trustworthy as their Zeek import chain](https://dev.to/onaeiuspkz/rita-results-are-only-as-trustworthy-as-their-zeek-import-chain-a5l) (2026-11-23)
+- [Call Mark 1x-27B with the OpenAI SDK in two lines](https://dev.to/saathwik/call-mark-1x-27b-with-the-openai-sdk-in-two-lines-39bg) (2026-11-23)
+- [AlphaProof Code: How AI Agents Formally Verified Signal's Encryption in Four Weeks](https://dev.to/prabhakar_chaudhary_7afe4/alphaproof-code-how-ai-agents-formally-verified-signals-encryption-in-four-weeks-aia) (2026-11-23)
+- [Healthcare Appointment Ranking Signals: Retrieval Architecture for Semantic Search](https://dev.to/oskarholm4968/healthcare-appointment-ranking-signals-retrieval-architecture-for-semantic-search-3h10) (2026-11-23)
+- [Transactional Email Attachments — Template Ownership and Retention for Media Reports](https://dev.to/marcorossi4891/transactional-email-attachments-template-ownership-and-retention-for-media-reports-2474) (2026-11-23)
+- [I counted the ghost jobs in my own dataset: 22.8% of live ads are 60+ days old](https://dev.to/reaver1000/i-counted-the-ghost-jobs-in-my-own-dataset-228-of-live-ads-are-60-days-old-3bh3) (2026-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 GitHub Repositories I Wish I Had Discovered Much Earlier](https://medium.com/codetodeploy/10-github-repositories-i-wish-i-had-discovered-much-earlier-5f216e382af6?source=rss------programming-5) (2026-11-23)
-- [Special Student Offers at Sharp Visions — Learn One Skill, Get Another Course FREE!](https://medium.com/@sharpvisionsofficials/special-student-offers-at-sharp-visions-learn-one-skill-get-another-course-free-844e47ba0b6a?source=rss------programming-5) (2026-11-23)
-- [AI Is a Boeing. You Still Need a Pilot.](https://im-zoheb.medium.com/ai-is-a-boeing-you-still-need-a-pilot-8cafa503f540?source=rss------programming-5) (2026-11-23)
-- [I Didn’t Expect These 10 GitHub Projects to Be This Useful](https://python.plainenglish.io/i-didnt-expect-these-10-github-projects-to-be-this-useful-3aba1c503718?source=rss------programming-5) (2026-11-23)
-- [20 Advanced Python Interview Questions That Separate Mid-Level From Senior Developers](https://medium.com/@gulsaba.fiha/20-advanced-python-interview-questions-that-separate-mid-level-from-senior-developers-f13abde10413?source=rss------programming-5) (2026-11-23)
+- [Claude Code: What’s New in 60 Days (Developer Workshop)](https://pub.towardsai.net/claude-code-whats-new-in-60-days-developer-workshop-6ceb50c8cf9f?source=rss------programming-5) (2026-11-23)
+- [Why I Stopped Writing Code and Started Describing What I Want](https://medium.com/@atticusli/why-i-stopped-writing-code-and-started-describing-what-i-want-a258e36e9ec5?source=rss------programming-5) (2026-11-23)
+- [Bob Deleted Three Episodes. The Audit Log Says Alice Did It.](https://medium.com/@patrykrogala/bob-deleted-three-episodes-the-audit-log-says-alice-did-it-9a17c04d31f8?source=rss------programming-5) (2026-11-23)
+- [How Architecture Decision Records (ADRs) Can Help Manage Software Architecture](https://medium.com/@javacomia/how-architecture-decision-records-adrs-can-help-manage-software-architecture-1de04cbd3435?source=rss------programming-5) (2026-11-23)
+- [I put all 22 versions of my unfinished cat game online — including the bad first one](https://medium.com/@bramlesage/i-put-all-22-versions-of-my-unfinished-cat-game-online-including-the-bad-first-one-b5281e8318b0?source=rss------programming-5) (2026-11-23)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/) (2026-11-23)
 - [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/) (2026-11-19)
 - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-11-19)
 - [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/) (2026-11-19)
 - [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/) (2026-11-18)
-- [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/) (2026-11-17)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.38 Sneak Peek](https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/) (2026-11-23)
 - [Scheduling the removal of the kube-proxy IPVS backend](https://kubernetes.io/blog/2026/11/16/ipvs-removal/) (2026-11-16)
 - [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/) (2026-10-29)
 - [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/) (2026-10-27)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) (2026-10-14)
-- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) (2026-10-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code](https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/) (2026-11-23)
+- [Creating Polars Expression Plugins in PyCharm: A Step-by-Step Guide for Rust Beginners](https://blog.jetbrains.com/pycharm/2026/11/creating-polars-expression-plugins-in-pycharm-a-step-by-step-guide-for-rust-beginners/) (2026-11-23)
+- [Best GitHub Actions Alternatives in 2026: What 838 Organizations Actually Use](https://blog.jetbrains.com/teamcity/2026/11/github-actions-alternatives/) (2026-11-23)
 - [Java4Shell (CVE-2026-114938): What It Means for TeamCity](https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/) (2026-11-20)
 - [Vulkan Rendering Is Now The Default on Linux Wayland](https://blog.jetbrains.com/platform/2026/11/vulkan-rendering-is-now-the-default-on-linux-wayland/) (2026-11-20)
-- [JetBrains Air in GoLand: Build, Review, and Profile Go Code With Agents](https://blog.jetbrains.com/go/2026/11/20/jetbrains-air-in-goland/) (2026-11-20)
-- [Security Update for YouTrack Server: Java Vulnerability CVE-2026-114938 (Java4Shell)](https://blog.jetbrains.com/youtrack/2026/11/security-update-for-youtrack-server-java-vulnerability-cve-2026-114938-java4shell/) (2026-11-20)
-- [JetBrains Plugin Developer Conf 2026: Watch All the Talks](https://blog.jetbrains.com/platform/2026/11/jetbrains-plugin-developer-conf-2026-watch-all-the-talks/) (2026-11-19)
 
 </details>
 
@@ -350,22 +350,22 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
+- [AI Gateway now runs canary ZDR audits](https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits) (2026-11-23)
+- [Introducing Audited ZDR on AI Gateway](https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway) (2026-11-23)
+- [Catch missing feature flags before they reach production](https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production) (2026-11-23)
+- [Choose AI Gateway providers by headquarters country](https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country) (2026-11-23)
 - [Vercel Functions now support request bodies up to 20MiB](https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib) (2026-11-20)
-- [Vercel completes ISO/IEC 42001:2023 certification](https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification) (2026-11-20)
-- [Agents can now find Vercel CLI commands by describing the task](https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task) (2026-11-19)
-- [Vercel Billing CLI is now available](https://vercel.com/changelog/vercel-billing-cli-is-now-available) (2026-11-19)
-- [Priority Projects now in public beta](https://vercel.com/changelog/priority-projects-now-in-public-beta) (2026-11-19)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Probing DNS at Cloudflare](https://blog.cloudflare.com/probing-dns-at-cloudflare/) (2026-11-23)
 - [How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)](https://blog.cloudflare.com/ruby2shell-waf-protection/) (2026-11-20)
 - [How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws](https://blog.cloudflare.com/phpaftershell-waf-protection/) (2026-11-20)
 - [nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them](https://blog.cloudflare.com/nginx2root/) (2026-11-20)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://blog.cloudflare.com/internet-traffic-2026-us-election/) (2026-11-19)
-- [An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team](https://blog.cloudflare.com/open-clairic/) (2026-11-18)
 
 </details>
 
@@ -403,12 +403,12 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Registering MCP Clients with CIMD in Auth0](https://auth0.com/blog/registering-mcp-clients-with-cimd-in-auth0/) (2026-11-23)
 - [Protecting Your Brand Starts with Security Agent](https://auth0.com/blog/auth0-security-agent-early-access/) (2026-11-19)
 - [Securing Your Newest Customer Channel with Auth for Personal Agents ](https://auth0.com/blog/auth-for-personal-agents-beta-release/) (2026-11-18)
 - [Legacy Factors Fail in CIAM. Passkeys Are the Answer](https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/) (2026-11-18)
 - [Building a Secure MCP (Model Context Protocol) Server with Auth0
 ](https://auth0.com/blog/building-secure-mcp-server-with-auth0/) (2026-11-16)
-- [Authentication and Authorization: What's New in .NET 11](https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/) (2026-11-09)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals) (2026-11-23)
 - [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini) (2026-11-20)
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale) (2026-11-20)
 - [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin) (2026-11-18)
 - [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time) (2026-11-18)
-- [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse) (2026-11-18)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Math Proofs Aren't Knowledge Until Someone Explains Them](https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/) (2026-11-23)
+- [The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words](https://towardsdatascience.com/the-birthday-paradox-shows-small-llms-pick-from-about-6-of-40-words/) (2026-11-23)
+- [What a 90% Prompt Cache Hit Rate Hides About Attention Work](https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/) (2026-11-23)
 - [RANSAC, Explained: Consensus Fitting for Image Feature Matching](https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/) (2026-11-22)
 - [How AI Changes the Four Types of Analytics for Data Scientists](https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/) (2026-11-22)
-- [How to Learn Supply Chain Analytics in 2027 with Claude Code](https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/) (2026-11-21)
-- [Censored vs. Truncated Regression in Python, Explained](https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/) (2026-11-21)
-- [LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals](https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/) (2026-11-20)
 
 </details>
 
@@ -602,22 +602,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Use AI Tools to Learn Data Science Faster in 2026](https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026) (2026-11-23)
+- [5 Lightweight Alternatives to MCP for Giving AI Agents Tools](https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools) (2026-11-23)
 - [Open Source vs. Proprietary LLMs: A Decision Framework for 2026](https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026) (2026-11-20)
 - [Decision AI Explained in 5 Minutes](https://www.kdnuggets.com/decision-ai-explained-in-5-minutes) (2026-11-20)
 - [What I Learned From Kaggle + Google’s Free Agentic AI Course](https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course) (2026-11-19)
-- [One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy](https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy) (2026-11-19)
-- [Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them](https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them) (2026-11-18)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/) (2026-11-23)
 - [Decoding Policies in a Serving Engine](https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/) (2026-11-22)
 - [7 Ways AI Agents Fail in Production (and How to Catch Each One)](https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/) (2026-11-20)
 - [Model Compression Beyond Quantization](https://machinelearningmastery.com/model-compression-beyond-quantization/) (2026-11-19)
 - [Visualizing Information Entropy in Language Models](https://machinelearningmastery.com/visualizing-information-entropy-in-language-models/) (2026-11-19)
-- [Graph-RAG for Enterprise Documents: Building a Knowledge Graph from PDFs, Wikis, and Databases](https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/) (2026-11-18)
 
 </details>
 
@@ -629,6 +629,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (2026-11-23)
+- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
+- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
+- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
+- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
