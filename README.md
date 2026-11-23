@@ -9,22 +9,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf) (2026-11-22)
-- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/) (2026-11-22)
-- [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/) (2026-11-22)
-- [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/) (2026-11-22)
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) (2026-11-22)
+- [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html) (2026-11-23)
+- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) (2026-11-23)
+- [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/) (2026-11-23)
+- [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/) (2026-11-23)
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) (2026-11-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink) (2026-11-23)
 - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages) (2026-11-22)
 - [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage) (2026-11-22)
 - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) (2026-11-22)
 - [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale) (2026-11-22)
-- [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review) (2026-11-22)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Use AI Tools Ethically While You Job Hunt](https://dev.to/danielbrookscareers/how-to-use-ai-tools-ethically-while-you-job-hunt-3m0a) (2026-11-22)
-- [Does a Tesla Model 3 lose value faster than a VW Golf? 650 German listings](https://dev.to/harborsift/does-a-tesla-model-3-lose-value-faster-than-a-vw-golf-650-german-listings-k6l) (2026-11-22)
-- [Raymarching a nebula: the basics, with an example shader](https://dev.to/matto_yanni2_5018bfec28/raymarching-a-nebula-the-basics-with-an-example-shader-4a7m) (2026-11-22)
-- [🐸 Kaeru Hero 3.0 — Another milestone in a project I'm passionate about! 🚀](https://dev.to/regodefies/kaeru-hero-30-another-milestone-in-a-project-im-passionate-about-1i5p) (2026-11-22)
-- [[CVE-2026-123007] Unauthenticated RCE via Integer Underflow in NGINX's HTTP/2 Flow Control](https://dev.to/guidance_white/cve-2026-123007-unauthenticated-rce-via-integer-underflow-in-nginxs-http2-flow-control-o1j) (2026-11-22)
+- [What can an Android phone tell you about privacy? A guide for phone owners and institutions](https://dev.to/aion-analytics-in/what-can-an-android-phone-tell-you-about-privacy-a-guide-for-phone-owners-and-institutions-39jl) (2026-11-23)
+- [Routing Messages Across RCS, WhatsApp and SMS in 2026: A Fallback Architecture for Indian Apps](https://dev.to/zanisssoftwares/routing-messages-across-rcs-whatsapp-and-sms-in-2026-a-fallback-architecture-for-indian-apps-49i1) (2026-11-23)
+- [Replay-Safe Verification Tokens in PostgreSQL](https://dev.to/kevindev27/replay-safe-verification-tokens-in-postgresql-35pa) (2026-11-23)
+- [How to Start Learning Ethical Hacking from Scratch](https://dev.to/qnayds_seo_437919f6928c2d/how-to-start-learning-ethical-hacking-from-scratch-4hjh) (2026-11-23)
+- [RITA results are only as trustworthy as their Zeek import chain](https://dev.to/onaeiuspkz/rita-results-are-only-as-trustworthy-as-their-zeek-import-chain-a5l) (2026-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust vs Python for AI: Where Rust Actually Wins (and Where It Doesn’t)](https://medium.com/@highsongs2020/rust-vs-python-for-ai-where-rust-actually-wins-and-where-it-doesnt-6d881747c56a?source=rss------programming-5) (2026-11-22)
-- [Free GPU Servers Aren’t Really Free: The Hidden Cost of Running AI for $0](https://medium.com/@loengnavy/free-gpu-servers-arent-really-free-the-hidden-cost-of-running-ai-for-0-19ca933d7d53?source=rss------programming-5) (2026-11-22)
-- [Cloud AI Is Access, Not Ownership: Why I Now Keep a Local Copy](https://medium.com/@amuythida/cloud-ai-is-access-not-ownership-why-i-now-keep-a-local-copy-59f3a4561268?source=rss------programming-5) (2026-11-22)
-- [Two Used GPUs Ran a 2.8-Trillion-Parameter AI Model. Should You Copy the Build?](https://medium.com/@sovannaro17/two-used-gpus-ran-a-2-8-trillion-parameter-ai-model-should-you-copy-the-build-e4b00c47ab90?source=rss------programming-5) (2026-11-22)
-- [Your AI Coding Agent Scored 90%. I Still Wouldn’t Trust It With Production](https://medium.com/javarevisited/your-ai-coding-agent-scored-90-i-still-wouldnt-trust-it-with-production-db86abe7530f?source=rss------programming-5) (2026-11-22)
+- [10 GitHub Repositories I Wish I Had Discovered Much Earlier](https://medium.com/codetodeploy/10-github-repositories-i-wish-i-had-discovered-much-earlier-5f216e382af6?source=rss------programming-5) (2026-11-23)
+- [Special Student Offers at Sharp Visions — Learn One Skill, Get Another Course FREE!](https://medium.com/@sharpvisionsofficials/special-student-offers-at-sharp-visions-learn-one-skill-get-another-course-free-844e47ba0b6a?source=rss------programming-5) (2026-11-23)
+- [AI Is a Boeing. You Still Need a Pilot.](https://im-zoheb.medium.com/ai-is-a-boeing-you-still-need-a-pilot-8cafa503f540?source=rss------programming-5) (2026-11-23)
+- [I Didn’t Expect These 10 GitHub Projects to Be This Useful](https://python.plainenglish.io/i-didnt-expect-these-10-github-projects-to-be-this-useful-3aba1c503718?source=rss------programming-5) (2026-11-23)
+- [20 Advanced Python Interview Questions That Separate Mid-Level From Senior Developers](https://medium.com/@gulsaba.fiha/20-advanced-python-interview-questions-that-separate-mid-level-from-senior-developers-f13abde10413?source=rss------programming-5) (2026-11-23)
 
 </details>
 
