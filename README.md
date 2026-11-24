@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/) (2026-11-23)
-- [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/) (2026-11-23)
-- [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/) (2026-11-23)
-- [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/) (2026-11-23)
-- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (2026-11-23)
+- [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) (2026-11-24)
+- [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375) (2026-11-24)
+- [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/) (2026-11-24)
+- [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/) (2026-11-23)
+- [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/) (2026-11-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated) (2026-11-23)
-- [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay) (2026-11-23)
-- [My trusty 27-inch Alienware QD-OLED gaming monitor is just $280](https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale) (2026-11-23)
-- [Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale) (2026-11-23)
-- [The Verge’s favorite holiday gifts that cost $50 or less](https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026) (2026-11-23)
+- [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative) (2026-11-24)
+- [The hacker behind early GTA VI leaks has been sentenced — and released](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released) (2026-11-23)
+- [The Verge’s 2026 holiday gift guide](https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026) (2026-11-23)
+- [Ladybird, the first new browser engine in years, is now available to test](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing) (2026-11-23)
+- [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated) (2026-11-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Marvel crams every superhero ever into Avengers: Doomsday final trailer](https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/) (2026-11-23)
-- [Jensen Huang reinstated as Nvidia CEO, board chair](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/) (2026-11-23)
-- [COP31 ends in failure as countries split over fossil fuels, climate finance](https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/) (2026-11-23)
-- [F1 in Las Vegas: You've never seen an F1 race like this before](https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/) (2026-11-23)
-- [Tri-screen portable monitors aren’t for the faint of heart](https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/) (2026-11-23)
+- [Trump halts Iowa detonation, says new governor to blame if it blows accidentally](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/) (2026-11-23)
+- [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/) (2026-11-23)
+- [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/) (2026-11-23)
+- [Surveillance pricing uses our personal data to make us pay more](https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/) (2026-11-23)
+- [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/) (2026-11-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/) (2026-11-23)
 - [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/) (2026-11-23)
 - [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/) (2026-11-23)
 - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) (2026-11-20)
 - [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/) (2026-11-20)
-- [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/) (2026-11-19)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Call Mark 1x-27B with the OpenAI SDK in two lines](https://dev.to/saathwik/call-mark-1x-27b-with-the-openai-sdk-in-two-lines-39bg) (2026-11-23)
-- [AlphaProof Code: How AI Agents Formally Verified Signal's Encryption in Four Weeks](https://dev.to/prabhakar_chaudhary_7afe4/alphaproof-code-how-ai-agents-formally-verified-signals-encryption-in-four-weeks-aia) (2026-11-23)
-- [Healthcare Appointment Ranking Signals: Retrieval Architecture for Semantic Search](https://dev.to/oskarholm4968/healthcare-appointment-ranking-signals-retrieval-architecture-for-semantic-search-3h10) (2026-11-23)
-- [Transactional Email Attachments — Template Ownership and Retention for Media Reports](https://dev.to/marcorossi4891/transactional-email-attachments-template-ownership-and-retention-for-media-reports-2474) (2026-11-23)
-- [I counted the ghost jobs in my own dataset: 22.8% of live ads are 60+ days old](https://dev.to/reaver1000/i-counted-the-ghost-jobs-in-my-own-dataset-228-of-live-ads-are-60-days-old-3bh3) (2026-11-23)
+- [How Much Does GLM-5.4 Cost?](https://dev.to/hassann/how-much-does-glm-54-cost-1eje) (2026-11-24)
+- [MicroSD Cards for Raspberry Pi Homelab: What Actually Matters for Reliability](https://dev.to/theeromi/microsd-cards-for-raspberry-pi-homelab-what-actually-matters-for-reliability-10j7) (2026-11-24)
+- [Run a Mock Interview on a Role You Already Know, Then Check the Feedback](https://dev.to/toolbitai/run-a-mock-interview-on-a-role-you-already-know-then-check-the-feedback-1il2) (2026-11-24)
+- [Stop Blaming Users for Phishing: Domain Security Fundamentals for Self-Hosters](https://dev.to/theeromi/stop-blaming-users-for-phishing-domain-security-fundamentals-for-self-hosters-1imo) (2026-11-24)
+- [Model a V-Groove Drill Guide for 3D Printing](https://dev.to/shawn_lee_8d4afa8d6ff67ad/model-a-v-groove-drill-guide-for-3d-printing-59p3) (2026-11-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code: What’s New in 60 Days (Developer Workshop)](https://pub.towardsai.net/claude-code-whats-new-in-60-days-developer-workshop-6ceb50c8cf9f?source=rss------programming-5) (2026-11-23)
-- [Why I Stopped Writing Code and Started Describing What I Want](https://medium.com/@atticusli/why-i-stopped-writing-code-and-started-describing-what-i-want-a258e36e9ec5?source=rss------programming-5) (2026-11-23)
-- [Bob Deleted Three Episodes. The Audit Log Says Alice Did It.](https://medium.com/@patrykrogala/bob-deleted-three-episodes-the-audit-log-says-alice-did-it-9a17c04d31f8?source=rss------programming-5) (2026-11-23)
-- [How Architecture Decision Records (ADRs) Can Help Manage Software Architecture](https://medium.com/@javacomia/how-architecture-decision-records-adrs-can-help-manage-software-architecture-1de04cbd3435?source=rss------programming-5) (2026-11-23)
-- [I put all 22 versions of my unfinished cat game online — including the bad first one](https://medium.com/@bramlesage/i-put-all-22-versions-of-my-unfinished-cat-game-online-including-the-bad-first-one-b5281e8318b0?source=rss------programming-5) (2026-11-23)
+- [OpenAI’s Agents Escaped Their Sandbox 80 Times. California Just Sued Over It.](https://medium.com/@aftab001x/openais-agents-escaped-their-sandbox-80-times-california-just-sued-over-it-4e123a6b3960?source=rss------programming-5) (2026-11-24)
+- [What Senior Data Engineers Audit in the First 30 Days on a Production Team](https://medium.com/@Rohan_Dutt/what-senior-data-engineers-audit-in-the-first-30-days-on-a-production-team-038b87659a0a?source=rss------programming-5) (2026-11-24)
+- [Your SDLC Wasn’t Built for AI Agents. Google’s Agentic Engineering Playbook Is.](https://medium.com/@nidhi.14t/your-sdlc-wasnt-built-for-ai-agents-google-s-agentic-engineering-playbook-is-8674ea3d866b?source=rss------programming-5) (2026-11-24)
+- [The path to AI FDE #21: Classes, objects and dataclasses](https://medium.com/@dhanushkumarsivaji/the-path-to-ai-fde-21-classes-objects-and-dataclasses-b4fb083cc540?source=rss------programming-5) (2026-11-24)
+- [Suara Mahasiswa untuk Keadilan Sosial: Analisis Tiga Tuntutan dalam](https://medium.com/@palfira18/suara-mahasiswa-untuk-keadilan-sosial-analisis-tiga-tuntutan-dalam-8e984972e9c4?source=rss------programming-5) (2026-11-24)
 
 </details>
 
@@ -142,9 +142,9 @@
 <summary>🤖 Android Developers Blog</summary>
 
 - [Expanding Android developer verification in 2027](https://developer.android.com/blog/posts/android-developer-verification-2027) (2026-11-19)
+- [Elevating apps: New adaptive quality standards on Google Play ](https://developer.android.com/blog/posts/google-play-adaptive-quality-standards) (2026-11-18)
 - [Elevating games: New large screens and foldables quality standards on Google Play](https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play) (2026-11-18)
 - [What's new in the Jetpack Compose November '26 release](https://developer.android.com/blog/posts/jetpack-compose-november-2026-release) (2026-11-18)
-- [Elevating apps: New adaptive quality standards on Google Play ](https://developer.android.com/blog/posts/google-play-adaptive-quality-standards) (2026-11-18)
 - [Ship smarter keep rules: How library providers can unblock app-level DEX code optimization](https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization) (2026-11-17)
 
 </details>
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit](https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit) (2026-11-23)
 - [Give your agents controlled access to analyze your data and move funds](https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds) (2026-11-19)
 - [Analyze your Stripe data directly with your agent ](https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent) (2026-11-05)
 - [Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts](https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts) (2026-10-30)
 - [How the fastest-growing enterprises on Stripe scale globally](https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally) (2026-10-27)
-- [Trends from Money20/20 2026: The rise of “hidden” financial services ](https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services) (2026-10-22)
 
 </details>
 
@@ -351,10 +351,10 @@
 <summary>▲ Vercel Blog</summary>
 
 - [AI Gateway now runs canary ZDR audits](https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits) (2026-11-23)
+- [Kazunari Hanao joins Vercel as Country Manager, Japan](https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan) (2026-11-23)
+- [Vercel日本法人の代表に花尾和成が就任いたしました](https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan) (2026-11-23)
 - [Introducing Audited ZDR on AI Gateway](https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway) (2026-11-23)
-- [Catch missing feature flags before they reach production](https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production) (2026-11-23)
-- [Choose AI Gateway providers by headquarters country](https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country) (2026-11-23)
-- [Vercel Functions now support request bodies up to 20MiB](https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib) (2026-11-20)
+- [AI Gateway now supports extraction models](https://vercel.com/changelog/ai-gateway-now-supports-extraction-models) (2026-11-23)
 
 </details>
 
@@ -426,22 +426,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>⚡ Supabase Blog</summary>
 
+- [Introducing Supabase Knowledge Base](https://supabase.com/blog/introducing-supabase-knowledge-base) (2026-11-25)
 - [Set up Supabase for every Expo environment in one command](https://supabase.com/blog/set-up-supabase-for-every-expo-environment-in-one-command) (2026-11-10)
 - [Enterprise-managed auth for MCP: Claude can now issue the identity assertion](https://supabase.com/blog/claude-issued-enterprise-managed-auth-for-mcp) (2026-11-03)
 - [Explorer and Notebooks: investigations your team can rerun](https://supabase.com/blog/explorer-and-notebooks-investigations-your-team-can-rerun) (2026-10-30)
 - [Introducing DBArena: open, reproducible benchmarks for hosted Postgres](https://supabase.com/blog/introducing-dbarena) (2026-10-30)
-- [Multigres private alpha: automatic failover for Supabase Postgres](https://supabase.com/blog/multigres-private-alpha) (2026-10-29)
 
 </details>
 
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Why you shouldn't do application-level sharding](https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding) (2026-11-23)
 - [Building PlanetScale with Insights Agent](https://planetscale.com/blog/building-planetscale-with-insights-agent) (2026-11-19)
 - [PlanetScale ranks #24 in Deloitte's Technology Fast 500](https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500) (2026-11-18)
 - [Introducing Insights Agent](https://planetscale.com/blog/introducing-insights-agent) (2026-11-17)
 - [How we migrate TBs from Heroku without logical replication](https://planetscale.com/blog/migrate-from-heroku-to-planetscale) (2026-11-11)
-- [Designing a reliable unplanned failover](https://planetscale.com/blog/designing-a-reliable-unplanned-failover) (2026-11-05)
 
 </details>
 
@@ -505,9 +505,9 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
 - [How Panoramic Properties caught a missing field in its leasing workflow](https://zapier.com/blog/panoramic-properties-next-gen-zaps) (2026-11-25)
-- [The jiu-jitsu coach who told Claude what he wanted and never opened the Zap](https://zapier.com/blog/rough-hands-bjj-next-gen-zaps) (2026-11-20)
-- [7 Discord automation ideas](https://zapier.com/blog/ways-to-manage-your-discord-server-with-automation) (2026-11-20)
-- [14 popular ways to use Zapier to scale your work securely](https://zapier.com/blog/popular-zaps) (2026-11-20)
+- [A guide to email automation with your AI agent and Zapier](https://zapier.com/blog/email-automation) (2026-11-23)
+- [How to automate YouTube with your AI agent and Zapier](https://zapier.com/blog/automate-youtube) (2026-11-23)
+- [How to use Zapier for social media automation](https://zapier.com/blog/social-media-automation) (2026-11-23)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack) (2026-11-23)
 - [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals) (2026-11-23)
 - [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini) (2026-11-20)
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale) (2026-11-20)
 - [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin) (2026-11-18)
-- [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time) (2026-11-18)
 
 </details>
 
@@ -629,17 +629,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (2026-11-23)
-- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
-- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
