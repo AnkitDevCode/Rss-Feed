@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) (2026-11-24)
-- [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/) (2026-11-24)
-- [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/) (2026-11-24)
-- [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe) (2026-11-24)
-- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) (2026-11-24)
+- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) (2026-11-25)
+- [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world) (2026-11-25)
+- [Fable 5.2 tries less on some hard tasks when a shortcut is available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available) (2026-11-24)
+- [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance) (2026-11-24)
+- [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77) (2026-11-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list) (2026-11-24)
-- [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes) (2026-11-24)
-- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) (2026-11-24)
-- [You can lock in Hulu and Disney Plus for as low as $5 per month for a year](https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026) (2026-11-24)
-- [Wyze’s new window feeder records birds from a camera inside your home](https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification) (2026-11-24)
+- [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident) (2026-11-25)
+- [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026) (2026-11-24)
+- [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa) (2026-11-24)
+- [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial) (2026-11-24)
+- [GTA VI PC recompilation project shut down by Take-Two](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two) (2026-11-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [No more heated seat subscriptions for cars in New York from 2027](https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/) (2026-11-24)
-- [NASA may get $2 billion boost as White House seeks to accelerate Artemis](https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/) (2026-11-24)
-- [Homo erectus lived in the rainforest alongside Denisovans](https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/) (2026-11-24)
-- [How Trump and Silicon Valley forced Nvidia to take Jensen Huang back](https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/) (2026-11-24)
-- [Amazon says hackers' AI agents found and exploited 0-day with little human input](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/) (2026-11-24)
+- [Half of NASA's aging Mars fleet knocked offline by technical issues](https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/) (2026-11-24)
+- [Microsoft's historic cloud outage exposed an engineering “fog of war”](https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/) (2026-11-24)
+- [What's going on with the Riemann hypothesis?](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/) (2026-11-24)
+- [Back-to-back measles deaths is our new reality; US tally now at 14](https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/) (2026-11-24)
+- [Amazon drone crashes on garage after delivering shampoo, draws FAA probe](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/) (2026-11-24)
 
 </details>
 
@@ -64,33 +64,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Idempotency when you don't control the other end](https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/) (2026-11-24)
+- [Prompt Injection Fixes Need Regression Tests](https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/) (2026-11-24)
 - [A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/) (2026-11-24)
 - [Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/) (2026-11-24)
 - [Dispatches from O'Reilly: Inside a software factory](https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/) (2026-11-20)
-- [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/) (2026-11-20)
-- [Chaos, then control: the maturity model most AI rollouts skip over](https://stackoverflow.blog/2026/11/19/chaos-then-control/) (2026-11-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [BitLocker on a Mac: Match the Recovery Key ID Before Typing 48 Digits](https://dev.to/diskbee/bitlocker-on-a-mac-match-the-recovery-key-id-before-typing-48-digits-1l2g) (2026-11-24)
-- [A free AArch64 reference is closing on 4 December, and I think the takedown is a bad trade](https://dev.to/galascribe/a-free-aarch64-reference-is-closing-on-4-december-and-i-think-the-takedown-is-a-bad-trade-p45) (2026-11-24)
-- [Build Your Own Smart Security Camera with ESP32-CAM – Full Tutorial](https://dev.to/protovisionlab/build-your-own-smart-security-camera-with-esp32-cam-full-tutorial-168h) (2026-11-24)
-- [Redis SET Wiped the TTL, and volatile-lru Ran Out of Keys to Evict](https://dev.to/chamav/redis-set-wiped-the-ttl-and-volatile-lru-ran-out-of-keys-to-evict-323i) (2026-11-24)
-- [How to Use Graphify: Code Knowledge Graph Guide](https://dev.to/f9xrteam/how-to-use-graphify-code-knowledge-graph-guide-33ib) (2026-11-24)
+- [Same daily puzzle for everyone, no server: notes from building 7 offline puzzles in React Native](https://dev.to/thankvn/same-daily-puzzle-for-everyone-no-server-notes-from-building-7-offline-puzzles-in-react-native-lcp) (2026-11-25)
+- [Budgeting for freelance developers with irregular income](https://dev.to/financenotes2611/budgeting-for-freelance-developers-with-irregular-income-53an) (2026-11-25)
+- [INCEPTION: Legal-Themed SSO Vishing and Okta/NetIQ Phishing Infrastructure](https://dev.to/anoymask/inception-legal-themed-sso-vishing-and-oktanetiq-phishing-infrastructure-3fbh) (2026-11-25)
+- [BOLA, BFLA, and Missing Authentication in Border-Control Web APIs: Admin Access Found in 6 Countries' Passport and Visa Systems](https://dev.to/anoymask/bola-bfla-and-missing-authentication-in-border-control-web-apis-admin-access-found-in-6-3jke) (2026-11-25)
+- [Webworm's NtMonitor: Rebuilt SoftEther VPN Bridge Reduces Detection Surface for Long-Term Access](https://dev.to/anoymask/webworms-ntmonitor-rebuilt-softether-vpn-bridge-reduces-detection-surface-for-long-term-access-2nn7) (2026-11-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude can now approve your pull requests. Start with the mode where it approves nothing](https://karagatharaaakash.medium.com/claude-can-now-approve-your-pull-requests-start-with-the-mode-where-it-approves-nothing-568e3412649b?source=rss------programming-5) (2026-11-24)
-- [Claude Code’s Changelog Is Mostly Fixes](https://medium.com/@circuitbay/claude-codes-changelog-is-mostly-fixes-a4533536ce8c?source=rss------programming-5) (2026-11-24)
-- [My AI Agent Kept Writing Last Year’s Code. One Sentence Fixed It.](https://gdsks.medium.com/my-ai-agent-kept-writing-last-years-code-one-sentence-fixed-it-570f5ddda18e?source=rss------programming-5) (2026-11-24)
-- [The Production Engineering Knowledge That Separates Senior Developers From Staff Engineers](https://medium.com/engineering-playbook/the-production-engineering-knowledge-that-separates-senior-developers-from-staff-engineers-a9833278a169?source=rss------programming-5) (2026-11-24)
-- [Why are more and more people using Spring AI?](https://medium.com/@umeshcapg/why-are-more-and-more-people-using-spring-ai-632ffdcabbb9?source=rss------programming-5) (2026-11-24)
+- [The Anemic Service Layer: Why Your OrderService Has 47 Methods](https://medium.com/heap-wire/the-anemic-service-layer-why-your-orderservice-has-47-methods-a82a185944e6?source=rss------programming-5) (2026-11-25)
+- [Stop Writing Custom Glue Code for AI Agents: Why MCP + A2A Is the “TCP/IP Stack” of Production AI](https://medium.com/@yornsopheaktra/stop-writing-custom-glue-code-for-ai-agents-why-mcp-a2a-is-the-tcp-ip-stack-of-production-ai-2f85bfa975a6?source=rss------programming-5) (2026-11-25)
+- [The Hidden Quadratic Behind a Sextic Contest — and an Infinite Family of Second Shared Roots](https://medium.com/@rantnrave31/the-hidden-quadratic-behind-a-sextic-contest-and-an-infinite-family-of-second-shared-roots-b4d757de3f6c?source=rss------programming-5) (2026-11-25)
+- [I No Longer Want to Explain the Same Coding Rules to AI: Creating Reusable Skills with Gemini](https://medium.com/@ashokreddy343/i-no-longer-want-to-explain-the-same-coding-rules-to-ai-creating-reusable-skills-with-gemini-c3260339e8c8?source=rss------programming-5) (2026-11-25)
+- [Statistical Priors vs. Lived Experience: What AI Coding Tools Capture — and What They Miss](https://medium.com/@aludanyi/statistical-priors-vs-lived-experience-what-ai-coding-tools-capture-and-what-they-miss-ea8af9e9d6a5?source=rss------programming-5) (2026-11-25)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Java4Shell Vulnerability: Update Your JetBrains IDEs, ReSharper, .NET Tools, Toolbox App, and Gateway Now](https://blog.jetbrains.com/security/2026/11/java4shell-vulnerability/) (2026-11-24)
 - [Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code](https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/) (2026-11-23)
 - [Creating Polars Expression Plugins in PyCharm: A Step-by-Step Guide for Rust Beginners](https://blog.jetbrains.com/pycharm/2026/11/creating-polars-expression-plugins-in-pycharm-a-step-by-step-guide-for-rust-beginners/) (2026-11-23)
 - [Best GitHub Actions Alternatives in 2026: What 838 Organizations Actually Use](https://blog.jetbrains.com/teamcity/2026/11/github-actions-alternatives/) (2026-11-23)
 - [Java4Shell (CVE-2026-114938): What It Means for TeamCity](https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/) (2026-11-20)
-- [Vulkan Rendering Is Now The Default on Linux Wayland](https://blog.jetbrains.com/platform/2026/11/vulkan-rendering-is-now-the-default-on-linux-wayland/) (2026-11-20)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>▲ Vercel Blog</summary>
 
-- [Inkling 2 Mini now available on AI Gateway](https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway) (2026-11-24)
-- [AI Gateway now runs canary ZDR audits](https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits) (2026-11-23)
-- [Kazunari Hanao joins Vercel as Country Manager, Japan](https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan) (2026-11-23)
-- [Vercel日本法人の代表に花尾和成が就任いたしました](https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan) (2026-11-23)
-- [Introducing Audited ZDR on AI Gateway](https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway) (2026-11-23)
+- [Standard builds for existing Pro teams have moved to usage-based billing](https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing) (2026-11-25)
+- [All Sandbox runtimes now use Vercel Managed Images](https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images) (2026-11-24)
+- [AWS PrivateLink endpoints are now available on Secure Compute](https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute) (2026-11-24)
+- [Flags SDK now works on Vercel without FLAGS_SECRET](https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret) (2026-11-24)
+- [Agents can now manage AI Gateway through Vercel MCP](https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp) (2026-11-24)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Update to FCC's TCPA Consent Revocation Rules
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/update-to-fcc-tcpa-consent-revocation-rules
+) (2026-11-24)
+- [
+Improving Your Chances of A2P 10DLC Registration Approval
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval
+) (2026-11-24)
+- [
 A New Shape for Twilio Docs: Finding What You Need by Use Case
 ](
 https://www.twilio.com/en-us/blog/developers/new-shape-twilio-docs
@@ -387,28 +397,17 @@ SMS verification: What it is, how it works, & sending codes
 ](
 https://www.twilio.com/en-us/blog/what-is-sms-verification
 ) (2026-11-23)
-- [
-Make your brand instantly recognizable across channels
-](
-https://www.twilio.com/en-us/blog/products/launches/make-your-brand-instantly-recognizable-across-channels
-) (2026-11-23)
-- [
-How To Import Data From Your CRM Or Another External Source Into Conversation Memory
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory
-) (2026-11-20)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [More Ways to Scale: New Add-Ons Come to Auth0 Self-Service Enterprise](https://auth0.com/blog/new-add-ons-self-service-enterprise/) (2026-11-24)
 - [Registering MCP Clients with CIMD in Auth0](https://auth0.com/blog/registering-mcp-clients-with-cimd-in-auth0/) (2026-11-23)
 - [Protecting Your Brand Starts with Security Agent](https://auth0.com/blog/auth0-security-agent-early-access/) (2026-11-19)
-- [Securing Your Newest Customer Channel with Auth for Personal Agents ](https://auth0.com/blog/auth-for-personal-agents-beta-release/) (2026-11-18)
 - [Legacy Factors Fail in CIAM. Passkeys Are the Answer](https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/) (2026-11-18)
-- [Building a Secure MCP (Model Context Protocol) Server with Auth0
-](https://auth0.com/blog/building-secure-mcp-server-with-auth0/) (2026-11-16)
+- [Securing Your Newest Customer Channel with Auth for Personal Agents ](https://auth0.com/blog/auth-for-personal-agents-beta-release/) (2026-11-18)
 
 </details>
 
@@ -505,8 +504,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-dat
 
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
 - [How Panoramic Properties caught a missing field in its leasing workflow](https://zapier.com/blog/panoramic-properties-next-gen-zaps) (2026-11-25)
-- [Workflow automation: What it is, why it matters, and how you can use it](https://zapier.com/blog/workflow-automation) (2026-11-24)
 - [Zapier examples: Ways to use automation at work](https://zapier.com/blog/zapier-automation-examples) (2026-11-24)
+- [Workflow automation: What it is, why it matters, and how you can use it](https://zapier.com/blog/workflow-automation) (2026-11-24)
 - [5 systems you should automate today](https://zapier.com/blog/what-you-should-automate) (2026-11-24)
 
 </details>
@@ -558,11 +557,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-dat
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed](https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed/) (2026-11-24)
 - [Celebrating the 2026 PyTorch Foundation Contributor Award Winners and Nominees](https://pytorch.org/blog/2026-pytorch-foundation-contributor-awards/) (2026-11-16)
 - [PyTorch Foundation Ambassador Community Highlights November 2026](https://pytorch.org/blog/pytorch-ambassador-community-highlights-november-2026/) (2026-11-16)
 - [Fast by Default: Compile-Time Heuristics for Helion Kernels](https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/) (2026-11-12)
 - [Integrating SGLang into Spyre in Under a Week with AI](https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/) (2026-11-12)
-- [Training a 1T-Parameter MoE on EU public infrastructure with PyTorch and TorchTitan](https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/) (2026-11-12)
 
 </details>
 
@@ -602,22 +601,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-dat
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio](https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio) (2026-11-24)
 - [From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()](https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv) (2026-11-24)
 - [7 Most Downloaded AI Models on Hugging Face](https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face) (2026-11-24)
 - [How to Use AI Tools to Learn Data Science Faster in 2026](https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026) (2026-11-23)
 - [5 Lightweight Alternatives to MCP for Giving AI Agents Tools](https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools) (2026-11-23)
-- [Open Source vs. Proprietary LLMs: A Decision Framework for 2026](https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026) (2026-11-20)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Speculative Decoding](https://machinelearningmastery.com/speculative-decoding/) (2026-11-24)
 - [The Complete Guide to Embedding Models for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/) (2026-11-24)
 - [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/) (2026-11-23)
 - [Decoding Policies in a Serving Engine](https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/) (2026-11-22)
 - [7 Ways AI Agents Fail in Production (and How to Catch Each One)](https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/) (2026-11-20)
-- [Model Compression Beyond Quantization](https://machinelearningmastery.com/model-compression-beyond-quantization/) (2026-11-19)
 
 </details>
 
