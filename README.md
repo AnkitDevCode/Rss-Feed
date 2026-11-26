@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) (2026-11-26)
-- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie) (2026-11-25)
-- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os) (2026-11-25)
-- [Deploying a payphone on a tiny Pacific Island](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/) (2026-11-25)
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) (2026-11-25)
+- [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) (2026-11-26)
+- [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664) (2026-11-26)
+- [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831) (2026-11-26)
+- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353) (2026-11-26)
+- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) (2026-11-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras) (2026-11-26)
-- [Amazon loses its latest attempt to get out of handling more recall notices](https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc) (2026-11-25)
-- [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent) (2026-11-25)
-- [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026) (2026-11-25)
-- [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages) (2026-11-25)
+- [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026) (2026-11-26)
+- [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb) (2026-11-26)
+- [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design) (2026-11-26)
+- [Here’s where you can save (a little) on the Ocarina of Time remake](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale) (2026-11-26)
+- [Samsung’s R95H TV shows what RGB LED is capable of](https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review) (2026-11-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Draining peatlands is responsible for a few percent of our global warming](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/) (2026-11-26)
+- [From minimalist to maximalist: Ars staffers show off their home offices](https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/) (2026-11-26)
 - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/) (2026-11-25)
 - [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/) (2026-11-25)
 - [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/) (2026-11-25)
-- [The FCC has authorized SpaceX to deploy 1 million satellites](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/) (2026-11-25)
-- [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/) (2026-11-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Better bionic hands and AI’s natural-gas boom](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/) (2026-11-26)
+- [The next generation of bionic hands is here—and they can feel](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/) (2026-11-26)
 - [How data centers are driving a US natural-gas boom](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/) (2026-11-25)
 - [The Download: AI swamping open records, and firefighting for permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/) (2026-11-25)
 - [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/) (2026-11-25)
-- [The Download: AI’s gas power boom and a consciousness reality check](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/) (2026-11-24)
-- [Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/) (2026-11-24)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A client-side PII redactor still ships its detection patterns](https://dev.to/veilvm/a-client-side-pii-redactor-still-ships-its-detection-patterns-3o7o) (2026-11-26)
-- [3 Migration Boundaries for SMS Event Alerts With Country Guardrails and Delivery Polling](https://dev.to/milohastings5316/3-migration-boundaries-for-sms-event-alerts-with-country-guardrails-and-delivery-polling-4gn8) (2026-11-26)
-- [A browser circuit simulator still ships its component models and solver](https://dev.to/veilvm/a-browser-circuit-simulator-still-ships-its-component-models-and-solver-i7l) (2026-11-26)
-- [Building a Numerical Analysis HTTP Endpoint with greenServeFE](https://dev.to/greenservefe/building-a-numerical-analysis-http-endpoint-with-greenservefe-17ik) (2026-11-26)
-- [A client-side content-moderation filter still ships its wordlists and classifiers](https://dev.to/veilvm/a-client-side-content-moderation-filter-still-ships-its-wordlists-and-classifiers-1fgc) (2026-11-26)
+- [PDF to Text in Your Browser: pdf-lib Can't Extract Text, but pdf.js Can](https://dev.to/shayanali/pdf-to-text-in-your-browser-pdf-lib-cant-extract-text-but-pdfjs-can-47i9) (2026-11-26)
+- [fm-cli is in the official Omarchy package repo](https://dev.to/ninepointlabs/fm-cli-is-in-the-official-omarchy-package-repo-4d1f) (2026-11-26)
+- [Google บังคับ AI Agent ใช้ MCP ต่อ Workspace แต่ Gmail ส่งเมลไม่ได้](https://dev.to/sarantoon/google-bangkhab-ai-agent-aich-mcp-t-workspace-aet-gmail-sngemlaimaid-6e2) (2026-11-26)
+- [We built a 60 FPS JS + WebAssembly crackme to test if code protection has to lag (Syferit v2.1)](https://dev.to/soltrix_studios/we-built-a-60-fps-js-webassembly-crackme-to-test-if-code-protection-has-to-lag-syferit-v21-49gc) (2026-11-26)
+- [Run Local Audio Stem Separation with Stem Separator and Docker](https://dev.to/paladini/run-local-audio-stem-separation-with-stem-separator-and-docker-2ckb) (2026-11-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Fired 100 Events. Raw Ran 100 Times, Throttle 11, Debounce Once](https://martin128.medium.com/i-fired-100-events-raw-ran-100-times-throttle-11-debounce-once-a613a8bffc2a?source=rss------programming-5) (2026-11-26)
-- [JavaScript WeakRef and FinalizationRegistry Explained: Understand Weak References and Object…](https://javascript.plainenglish.io/javascript-weakref-and-finalizationregistry-explained-understand-weak-references-and-object-2a8a2493a873?source=rss------programming-5) (2026-11-26)
-- [The 7 Stages of Centering a Div in CSS (A Psychological Thriller)](https://medium.com/@zaydislam25/the-7-stages-of-centering-a-div-in-css-a-psychological-thriller-a89d5223b07e?source=rss------programming-5) (2026-11-26)
-- [Why Deploying on a Friday is the Ultimate Power Move](https://medium.com/@zaydislam25/why-deploying-on-a-friday-is-the-ultimate-power-move-6aed1c06e371?source=rss------programming-5) (2026-11-26)
-- [On anthropomorphizing AI](https://medium.com/@avrum/on-anthropomorphizing-ai-fe2670b08fd5?source=rss------programming-5) (2026-11-26)
+- [Why Most People Use AI Backwards (And How to Make It Do the Heavy Lifting)](https://medium.com/@nwaforjoshua045/why-most-people-use-ai-backwards-and-how-to-make-it-do-the-heavy-lifting-dae1ccb04723?source=rss------programming-5) (2026-11-26)
+- [Sony Built the 74-Minute Disc Everyone Trusted — Yet Hid a Kernel Rootkit Inside Its Own CDs](https://pub.huizhou92.com/sony-built-the-74-minute-disc-everyone-trusted-yet-hid-a-kernel-rootkit-inside-its-own-cds-d717f6d248ec?source=rss------programming-5) (2026-11-26)
+- [Agent Skills security: risks and how to vet a skill](https://medium.com/@anshulsoni2010/agent-skills-security-risks-and-how-to-vet-a-skill-fab620334b04?source=rss------programming-5) (2026-11-26)
+- [Claude Opus 5.6 Leaked](https://medium.com/data-science-in-your-pocket/claude-opus-5-6-leaked-ad95b1a222fd?source=rss------programming-5) (2026-11-26)
+- [Linus Torvalds: “Those Days Are Behind Us.”](https://fosspub.com/linus-torvalds-those-days-are-behind-us-38d20653dd81?source=rss------programming-5) (2026-11-26)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/) (2026-11-26)
 - [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/) (2026-11-23)
 - [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/) (2026-11-19)
 - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-11-19)
 - [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/) (2026-11-19)
-- [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/) (2026-11-18)
 
 </details>
 
@@ -174,11 +174,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 27.0.0-alpha.0.2.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0) (2026-11-26)
 - [Node.js 27.0.0-alpha.0.1.1 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1) (2026-11-17)
 - [Node.js 27.0.0-alpha.0.1.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0) (2026-11-12)
 - [Node.js 26.13.1 (LTS)](https://nodejs.org/en/blog/release/v26.13.1) (2026-11-11)
 - [Node.js 24.22.3 (LTS)](https://nodejs.org/en/blog/release/v24.22.3) (2026-11-11)
-- [Node.js 22.23.5 (LTS)](https://nodejs.org/en/blog/release/v22.23.5) (2026-11-11)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Update to FCC's TCPA Consent Revocation Rules
+Build a Low-latency Voice AI Agent with Guardrails on Twilio and AWS
 ](
-https://www.twilio.com/en-us/blog/insights/best-practices/update-to-fcc-tcpa-consent-revocation-rules
-) (2026-11-24)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/blueprint-voice-ai-agent-guardrails-twilio-aws
+) (2026-11-25)
 - [
-Improving Your Chances of A2P 10DLC Registration Approval
+How to Build a Production Voice AI agent: A Reference Architecture
 ](
-https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval
-) (2026-11-24)
+https://www.twilio.com/en-us/blog/developers/best-practices/voice-ai-agent-reference-architecture
+) (2026-11-25)
 - [
-A New Shape for Twilio Docs: Finding What You Need by Use Case
+How to Enable MMS on an iPhone
 ](
-https://www.twilio.com/en-us/blog/developers/new-shape-twilio-docs
-) (2026-11-23)
+https://www.twilio.com/en-us/blog/how-to-enable-mms-on-iphone
+) (2026-11-25)
 - [
-How to schedule a text message on iPhone and Android
+How to Enable MMS Messaging & Fix Download Issues on Android
 ](
-https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message
-) (2026-11-23)
+https://www.twilio.com/en-us/blog/mms-messages-not-sending
+) (2026-11-25)
 - [
-SMS verification: What it is, how it works, & sending codes
+Opt-in and opt-out text messages: definition, examples, and guidelines
 ](
-https://www.twilio.com/en-us/blog/what-is-sms-verification
-) (2026-11-23)
+https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messages
+) (2026-11-25)
 
 </details>
 
@@ -557,66 +557,66 @@ https://www.twilio.com/en-us/blog/what-is-sms-verification
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Explore the PyTorch Day China 2026 Schedule](https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule/) (2026-11-26)
 - [vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin](https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/) (2026-11-25)
 - [ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed](https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed/) (2026-11-24)
 - [Celebrating the 2026 PyTorch Foundation Contributor Award Winners and Nominees](https://pytorch.org/blog/2026-pytorch-foundation-contributor-awards/) (2026-11-16)
 - [PyTorch Foundation Ambassador Community Highlights November 2026](https://pytorch.org/blog/pytorch-ambassador-community-highlights-november-2026/) (2026-11-16)
-- [Fast by Default: Compile-Time Heuristics for Helion Kernels](https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/) (2026-11-12)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench) (2026-11-26)
+- [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) (2026-11-26)
+- [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms) (2026-11-26)
 - [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) (2026-11-25)
 - [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) (2026-11-25)
-- [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb) (2026-11-25)
-- [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) (2026-11-24)
-- [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals) (2026-11-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [ChatGPT Boosted Consultants' Scores, Not Their Knowledge](https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/) (2026-11-26)
+- [Shuffle the Questions to Catch an LLM That Memorized Its Benchmark](https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/) (2026-11-26)
+- [How to Map USGS Earthquake Data from 2015 to 2025 in Python](https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/) (2026-11-26)
 - [DuckDB 2.0 vs Polars 2.0 in Five Real-World Tests  and One 14x Gap](https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/) (2026-11-25)
 - [A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans](https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/) (2026-11-25)
-- [I Built a Bayesian Neural Network From One Neuron and Football Shots](https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/) (2026-11-24)
-- [How to Plan Retries for Multi-Agent Workflows Before You Write Code](https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/) (2026-11-24)
-- [How to Calculate and Operationalize Customer Lifetime Value](https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/) (2026-11-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [World Models: Why Yann LeCun Believes LLMs Are a Dead End](https://www.analyticsvidhya.com/blog/2026/11/world-models-llm-limitations/) (2026-11-26)
 - [Soup: Fine-Tune a Small LLM with One YAML File](https://www.analyticsvidhya.com/blog/2026/11/fine-tune-small-llm-locally-with-soup/) (2026-11-24)
 - [Positional Embeddings Explained: How LLMs Understand Word Order](https://www.analyticsvidhya.com/blog/2026/11/positional-embeddings-explained-llm-word-order/) (2026-11-22)
 - [GPT-6.2 Astra and Sol: A Hands-On Performance Review](https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/) (2026-11-20)
 - [Gemini 4 Neon Review: Benchmarks, Pricing, and Performance](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-neon-review/) (2026-11-19)
-- [How to Use Claude for Stock Research, Portfolio Reviews and Trades](https://www.analyticsvidhya.com/blog/2026/11/connect-demat-account-claude-stocks/) (2026-11-18)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work](https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work) (2026-11-26)
+- [Top 5 Open-Source Alternatives to OpenAI Dots](https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots) (2026-11-26)
 - [Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents](https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents) (2026-11-25)
 - [Why Data Job Candidates Freeze on Questions They Already Know](https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know) (2026-11-25)
 - [The Roadmap to Becoming an AI Security Engineer in 2027](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026) (2026-11-25)
-- [How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio](https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio) (2026-11-24)
-- [From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()](https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv) (2026-11-24)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Running 1-Bit LLMs Locally: A Practical Guide to BitNet Inference](https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/) (2026-11-26)
 - [Speculative Decoding](https://machinelearningmastery.com/speculative-decoding/) (2026-11-24)
 - [The Complete Guide to Embedding Models for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/) (2026-11-24)
 - [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/) (2026-11-23)
 - [Decoding Policies in a Serving Engine](https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/) (2026-11-22)
-- [7 Ways AI Agents Fail in Production (and How to Catch Each One)](https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/) (2026-11-20)
 
 </details>
 
