@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx) (2026-11-25)
-- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) (2026-11-25)
-- [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/) (2026-11-25)
-- [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/) (2026-11-25)
-- [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) (2026-11-25)
+- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) (2026-11-26)
+- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie) (2026-11-25)
+- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os) (2026-11-25)
+- [Deploying a payphone on a tiny Pacific Island](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/) (2026-11-25)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) (2026-11-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal) (2026-11-25)
-- [The Verge’s guide to affordable holiday gifts under $25](https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026) (2026-11-25)
-- [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions) (2026-11-25)
-- [Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday](https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale) (2026-11-25)
-- [‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV](https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa) (2026-11-25)
+- [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras) (2026-11-26)
+- [Amazon loses its latest attempt to get out of handling more recall notices](https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc) (2026-11-25)
+- [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent) (2026-11-25)
+- [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026) (2026-11-25)
+- [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages) (2026-11-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Jury convicts Huawei of stealing US trade secrets, evading Iran sanctions](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/) (2026-11-25)
-- [Lead azide detonation sends clouds over Iowa as questions of health risks swirl](https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/) (2026-11-25)
-- [A familiar Iranian hacking group has found a new way to cause chaos](https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/) (2026-11-25)
-- [AI may soon change what it means to be a theoretical physicist](https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/) (2026-11-25)
-- [Half of NASA's aging Mars fleet knocked offline by technical issues](https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/) (2026-11-24)
+- [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/) (2026-11-25)
+- [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/) (2026-11-25)
+- [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/) (2026-11-25)
+- [The FCC has authorized SpaceX to deploy 1 million satellites](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/) (2026-11-25)
+- [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/) (2026-11-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How data centers are driving a US natural-gas boom](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/) (2026-11-25)
 - [The Download: AI swamping open records, and firefighting for permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/) (2026-11-25)
 - [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/) (2026-11-25)
 - [The Download: AI’s gas power boom and a consciousness reality check](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/) (2026-11-24)
 - [Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/) (2026-11-24)
-- [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/) (2026-11-23)
 
 </details>
 
@@ -54,10 +54,10 @@
 <summary>🐙 GitHub Blog</summary>
 
 - [Art of play in the age of AI](https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/) (2026-11-25)
+- [How to choose the next safe step in application modernization](https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/) (2026-11-25)
 - [These are the gifts developers will actually want](https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/) (2026-11-24)
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/) (2026-11-19)
 - [Maintainers don’t need more AI bug reports. They need fixes. ](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/) (2026-11-17)
-- [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/) (2026-11-17)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How an AI agent can check who is behind an online shop before it pays](https://dev.to/guillejb97/how-an-ai-agent-can-check-who-is-behind-an-online-shop-before-it-pays-2aap) (2026-11-25)
-- [I built two open agent skills for Claude Code](https://dev.to/jeffdrizzy/i-built-two-open-agent-skills-for-claude-code-2mp5) (2026-11-25)
-- [What should “Show me one” actually show?](https://dev.to/ranchjiao0607/what-should-show-me-one-actually-show-25k8) (2026-11-25)
-- [Online forms in India aren't going to stop asking for tiny files any time soon. Compress PDFs to an exact KB target, resize photos and signatures to the numbers in the notification, check that everything is still readable, and keep your personal documents](https://dev.to/sudhir_kumar_f348b6afbb2c/online-forms-in-india-arent-going-to-stop-asking-for-tiny-files-any-time-soon-compress-pdfs-to-an-j7m) (2026-11-25)
-- [How a selfie check flashes colors to catch fake video](https://dev.to/artbanrox/how-a-selfie-check-flashes-colors-to-catch-fake-video-14cn) (2026-11-25)
+- [A client-side PII redactor still ships its detection patterns](https://dev.to/veilvm/a-client-side-pii-redactor-still-ships-its-detection-patterns-3o7o) (2026-11-26)
+- [3 Migration Boundaries for SMS Event Alerts With Country Guardrails and Delivery Polling](https://dev.to/milohastings5316/3-migration-boundaries-for-sms-event-alerts-with-country-guardrails-and-delivery-polling-4gn8) (2026-11-26)
+- [A browser circuit simulator still ships its component models and solver](https://dev.to/veilvm/a-browser-circuit-simulator-still-ships-its-component-models-and-solver-i7l) (2026-11-26)
+- [Building a Numerical Analysis HTTP Endpoint with greenServeFE](https://dev.to/greenservefe/building-a-numerical-analysis-http-endpoint-with-greenservefe-17ik) (2026-11-26)
+- [A client-side content-moderation filter still ships its wordlists and classifiers](https://dev.to/veilvm/a-client-side-content-moderation-filter-still-ships-its-wordlists-and-classifiers-1fgc) (2026-11-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Using Claude Code Like a Beginner. These 7 Tricks Change Everything](https://medium.com/@atharvjaiswal5789/stop-using-claude-code-like-a-beginner-these-7-tricks-change-everything-fb9aa9f0e6fb?source=rss------programming-5) (2026-11-25)
-- [AI Built a $1.3 Trillion Lending Boom — Now It Might Be the Thing That Breaks It](https://personalfinancewealthinvesting.medium.com/ai-built-a-1-3-trillion-lending-boom-now-it-might-be-the-thing-that-breaks-it-a22163af41c9?source=rss------programming-5) (2026-11-25)
-- [The Tortoise’s Shell](https://medium.com/@rantnrave31/the-tortoises-shell-df7bbb811d50?source=rss------programming-5) (2026-11-25)
-- [Your Code Has an Implicit State Machine, and It Hates You](https://medium.com/@omoroseogie03/your-code-has-an-implicit-state-machine-and-it-hates-you-1853833d8cff?source=rss------programming-5) (2026-11-25)
-- [Unlocking a passport’s NFC chip: deriving the BAC keys from the MRZ in Python](https://medium.com/@ali.ahmed.work.dev/unlocking-a-passports-nfc-chip-deriving-the-bac-keys-from-the-mrz-in-python-c0aebeb2138a?source=rss------programming-5) (2026-11-25)
+- [I Fired 100 Events. Raw Ran 100 Times, Throttle 11, Debounce Once](https://martin128.medium.com/i-fired-100-events-raw-ran-100-times-throttle-11-debounce-once-a613a8bffc2a?source=rss------programming-5) (2026-11-26)
+- [JavaScript WeakRef and FinalizationRegistry Explained: Understand Weak References and Object…](https://javascript.plainenglish.io/javascript-weakref-and-finalizationregistry-explained-understand-weak-references-and-object-2a8a2493a873?source=rss------programming-5) (2026-11-26)
+- [The 7 Stages of Centering a Div in CSS (A Psychological Thriller)](https://medium.com/@zaydislam25/the-7-stages-of-centering-a-div-in-css-a-psychological-thriller-a89d5223b07e?source=rss------programming-5) (2026-11-26)
+- [Why Deploying on a Friday is the Ultimate Power Move](https://medium.com/@zaydislam25/why-deploying-on-a-friday-is-the-ultimate-power-move-6aed1c06e371?source=rss------programming-5) (2026-11-26)
+- [On anthropomorphizing AI](https://medium.com/@avrum/on-anthropomorphizing-ai-fe2670b08fd5?source=rss------programming-5) (2026-11-26)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Prove your AI agent guardrails work](https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/) (2026-11-25)
 - [Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images](https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/) (2026-11-19)
 - [Meet the New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/) (2026-11-19)
 - [The Trust Layer: Securing Agentic AI with Docker AI Governance](https://www.docker.com/blog/agentic-ai-security-docker-governance/) (2026-11-18)
 - [Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes](https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/) (2026-11-16)
-- [Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents](https://www.docker.com/blog/docker-sandboxes-vs-containers/) (2026-11-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin Heroes: Episode 15 – Anniversary Edition](https://blog.jetbrains.com/kotlin/2026/11/kotlin-heroes-episode-15-anniversary-edition/) (2026-11-25)
 - [JetBrains Academy – November Digest](https://blog.jetbrains.com/education/2026/11/25/jetbrains-academy-november-2026/) (2026-11-25)
 - [GoLand Intelligence Now Available in Cursor and VS Code](https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/) (2026-11-25)
 - [Qodana 2026.3 Release: What’s New](https://blog.jetbrains.com/qodana/2026/11/qodana-2026-3-release/) (2026-11-25)
 - [YouTrack Adds More Ways to Use AI on Your Terms](https://blog.jetbrains.com/youtrack/2026/11/youtrack-adds-more-ways-to-use-ai-on-your-terms/) (2026-11-25)
-- [Mellum2.1 Instruct Is Out, Bringing Faster Answers for Coding Agents](https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents/) (2026-11-25)
 
 </details>
 
@@ -352,9 +352,9 @@
 
 - [Standard builds for existing Pro teams have moved to usage-based billing](https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing) (2026-11-25)
 - [How Cozey turns its operators into software builders on Vercel](https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel) (2026-11-25)
+- [Workflow is 10x faster, again](https://vercel.com/changelog/workflows-speculative-execution) (2026-11-25)
 - [All Sandbox runtimes now use Vercel Managed Images](https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images) (2026-11-24)
 - [AWS PrivateLink endpoints are now available on Secure Compute](https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute) (2026-11-24)
-- [Flags SDK now works on Vercel without FLAGS_SECRET](https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret) (2026-11-24)
 
 </details>
 
@@ -504,9 +504,9 @@ https://www.twilio.com/en-us/blog/what-is-sms-verification
 
 - [Superhuman Docs (formerly Coda) vs. Notion: Which is best? [2026]](https://zapier.com/blog/coda-vs-notion) (2027-11-10)
 - [How Panoramic Properties caught a missing field in its leasing workflow](https://zapier.com/blog/panoramic-properties-next-gen-zaps) (2026-11-25)
+- [Pipedream Workflows is shutting down: How to export workflows and move to Zapier](https://zapier.com/blog/pipedream-workflows) (2026-11-25)
 - [The best document management software in 2027](https://zapier.com/blog/best-document-management-software) (2026-11-25)
 - [The 6 best grammar checkers in 2027](https://zapier.com/blog/best-ai-grammar-checker-rewording-tool) (2026-11-24)
-- [Workflow automation: What it is, why it matters, and how you can use it](https://zapier.com/blog/workflow-automation) (2026-11-24)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/what-is-sms-verification
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin](https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/) (2026-11-25)
 - [ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed](https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed/) (2026-11-24)
 - [Celebrating the 2026 PyTorch Foundation Contributor Award Winners and Nominees](https://pytorch.org/blog/2026-pytorch-foundation-contributor-awards/) (2026-11-16)
 - [PyTorch Foundation Ambassador Community Highlights November 2026](https://pytorch.org/blog/pytorch-ambassador-community-highlights-november-2026/) (2026-11-16)
 - [Fast by Default: Compile-Time Heuristics for Helion Kernels](https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/) (2026-11-12)
-- [Integrating SGLang into Spyre in Under a Week with AI](https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/) (2026-11-12)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) (2026-11-25)
 - [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) (2026-11-25)
+- [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb) (2026-11-25)
 - [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) (2026-11-24)
-- [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack) (2026-11-23)
 - [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals) (2026-11-23)
-- [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini) (2026-11-20)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/what-is-sms-verification
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents](https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents) (2026-11-25)
 - [Why Data Job Candidates Freeze on Questions They Already Know](https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know) (2026-11-25)
 - [The Roadmap to Becoming an AI Security Engineer in 2027](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026) (2026-11-25)
 - [How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio](https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio) (2026-11-24)
 - [From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()](https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv) (2026-11-24)
-- [7 Most Downloaded AI Models on Hugging Face](https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face) (2026-11-24)
 
 </details>
 
@@ -634,11 +634,11 @@ https://www.twilio.com/en-us/blog/what-is-sms-verification
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/) (2026-11-24)
 - [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (2026-11-23)
 - [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
 - [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
 - [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) (2026-11-11)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
