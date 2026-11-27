@@ -9,44 +9,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/) (2026-11-27)
-- [Oakland's $30 minimum wage push advances toward city council vote](https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/) (2026-11-26)
-- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/) (2026-11-26)
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (2026-11-26)
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (2026-11-26)
+- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) (2026-11-27)
+- [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) (2026-11-27)
+- [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/) (2026-11-27)
+- [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo) (2026-11-27)
+- [She Reported Her Sexual Assault. The Marine Corps Kicked Her Out](https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/) (2026-11-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3) (2026-11-26)
-- [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday) (2026-11-26)
-- [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale) (2026-11-26)
-- [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu) (2026-11-26)
-- [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026) (2026-11-26)
+- [You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24](https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale) (2026-11-27)
+- [Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday](https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale) (2026-11-27)
+- [Buying a laptop right now is rough, but these Black Friday deals help](https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026) (2026-11-27)
+- [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) (2026-11-27)
+- [Android’s DIY widgets are a bit of vibe-coding fun](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini) (2026-11-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Intel faced a choice: Give Trump 10% or face the consequences](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/) (2026-11-27)
+- [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/) (2026-11-27)
+- [Volvo's big batteries: We drive its updated 2028 plug-in hybrids](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/) (2026-11-27)
 - [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/) (2026-11-26)
 - [Draining peatlands is responsible for a few percent of our global warming](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/) (2026-11-26)
-- [From minimalist to maximalist: Ars staffers show off their home offices](https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/) (2026-11-26)
-- [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/) (2026-11-25)
-- [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/) (2026-11-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Innovators Under 35 nominations are open, and a bionic window into the mind](https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/) (2026-11-27)
+- [Our 2027 Innovators Under 35 competition is now open](https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/) (2026-11-27)
+- [How cutting-edge prosthetics can help probe the human mind](https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/) (2026-11-27)
 - [The Download: Better bionic hands and AI’s natural-gas boom](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/) (2026-11-26)
 - [The next generation of bionic hands is here—and they can feel](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/) (2026-11-26)
-- [How data centers are driving a US natural-gas boom](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/) (2026-11-25)
-- [The Download: AI swamping open records, and firefighting for permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/) (2026-11-25)
-- [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/) (2026-11-25)
 
 </details>
 
@@ -64,33 +64,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/) (2026-11-27)
 - [When AI Writes the Code, What Counts as Evidence?](https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/) (2026-11-25)
 - [Idempotency when you don't control the other end](https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/) (2026-11-24)
 - [Prompt Injection Fixes Need Regression Tests](https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/) (2026-11-24)
 - [A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/) (2026-11-24)
-- [Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/) (2026-11-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [6 characters, 32 symbols, 3 rooms a minute: the arithmetic behind account-less room codes](https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b) (2026-11-27)
-- [Pool-Level Drawdown Circuit Breaker: Deciding Risk Controls with Counterfactual Backtests](https://dev.to/mattleeee/pool-level-drawdown-circuit-breaker-deciding-risk-controls-with-counterfactual-backtests-an3) (2026-11-27)
-- [Long-Hold Token Positions: Sizing and Liquidation Protection](https://dev.to/mattleeee/long-hold-token-positions-sizing-and-liquidation-protection-22d) (2026-11-27)
-- [I Audited 60 Top AI & DevTools Domains for GEO & llms.txt — Live Data + Free MCP & LLM Pricing Tools](https://dev.to/weiyi_wang_5fbdb721f38016/i-audited-60-top-ai-devtools-domains-for-geo-llmstxt-live-data-free-mcp-llm-pricing-tools-48h0) (2026-11-27)
-- [Join Cloudinary Mini-Hacks and Grow in the Creators Community](https://dev.to/victormoni/join-cloudinary-mini-hacks-and-grow-in-the-creators-community-2ff0) (2026-11-27)
+- [Turn every PDF on a web page into text for RAG, without writing a crawler](https://dev.to/fuloxdev/turn-every-pdf-on-a-web-page-into-text-for-rag-without-writing-a-crawler-1mhp) (2026-11-27)
+- [Oracle November 2026 Critical Security Patch Update: 640 CVEs and Java4Shell](https://dev.to/mango7777/oracle-november-2026-critical-security-patch-update-640-cves-and-java4shell-1na2) (2026-11-27)
+- [A Handover That Only Works Warm Is Not a Handover](https://dev.to/aheadkit/a-handover-that-only-works-warm-is-not-a-handover-227d) (2026-11-27)
+- [Teachback: learning while coding with AI](https://dev.to/pedroven/teachback-learning-while-coding-with-ai-165g) (2026-11-27)
+- [Logistics MX Record Drift Control With 4 Checks for Idempotent Domain Provisioning](https://dev.to/kendrickberg5327/logistics-mx-record-drift-control-with-4-checks-for-idempotent-domain-provisioning-2j8f) (2026-11-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [NIST AI Risk Management Framework: Mastering AI Risk, Governance and Trust in the Age of Artificial…](https://medium.com/illumination/nist-ai-risk-management-framework-mastering-ai-risk-governance-and-trust-in-the-age-of-artificial-9903bfb2c6b6?source=rss------programming-5) (2026-11-27)
-- [Workstation: Discrete Math Plugin — Chapter 6, Part 6](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-6-24900531ac00?source=rss------programming-5) (2026-11-27)
-- [Workstation: Discrete Math Plugin — Chapter 6, Part 5](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-5-d9960c38441d?source=rss------programming-5) (2026-11-27)
-- [Workstation: Discrete Math Plugin — Chapter 6, Part 4](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-4-b8d5303a91e4?source=rss------programming-5) (2026-11-27)
-- [ Age Calculator Between Two Dates – Find Your Exact Age in Seconds!](https://medium.com/@laibaart8/age-calculator-between-two-dates-find-your-exact-age-in-seconds-672f87147885?source=rss------programming-5) (2026-11-27)
+- [Apple’s Built-In Mac Apps Are Fine. These 8 Are Better (2026)](https://ahmedgagan.medium.com/apples-built-in-mac-apps-are-fine-these-8-are-better-2026-343f4c64799e?source=rss------programming-5) (2026-11-27)
+- [Song of Seven · ti (7 of 7) — The Center Is Memory](https://medium.com/@rantnrave31/song-of-seven-ti-7-of-7-the-center-is-memory-5b992c927ae6?source=rss------programming-5) (2026-11-27)
+- [BOLA in Plain Language: One Fictional /api/accounts/{id} Bug and the Tests That Keep the Fix Fixed](https://medium.com/penetration-testing-hub/bola-in-plain-language-one-fictional-api-accounts-id-bug-and-the-tests-that-keep-the-fix-fixed-8610fc8bd858?source=rss------programming-5) (2026-11-27)
+- [Tenorshare 4uKey Review: The Most Trusted iPhone Unlocker for When You’ve Forgotten Your iPhone…](https://medium.com/data-science-in-your-pocket/tenorshare-4ukey-review-the-most-trusted-iphone-unlocker-for-when-youve-forgotten-your-iphone-3f306eb379cd?source=rss------programming-5) (2026-11-27)
+- [Your Linux Rice Is a Screensaver With Extra Steps](https://medium.com/@neonmaxima/your-linux-rice-is-a-screensaver-with-extra-steps-d92d3921775d?source=rss------programming-5) (2026-11-27)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [September 29 Outage Incident Report: What we learnt](https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/) (2026-11-27)
 - [When Can You Ship on Offline Evals Alone?](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/) (2026-11-19)
 - [AI Product Management at Spotify: A View From Three Angles](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/) (2026-11-09)
 - [Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) (2026-10-16)
 - [Introducing: Spotify Technology. Proven at Spotify, now yours. ](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) (2026-10-08)
-- [AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) (2026-09-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Introducing the Kotlin Security Newsletter](https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/) (2026-11-27)
+- [Webinar Recap: Embedded Debugging With CLion and SEGGER](https://blog.jetbrains.com/clion/2026/11/webinar-segger/) (2026-11-27)
 - [Advent of Code 2026: ’Tis the Season to Code in Kotlin](https://blog.jetbrains.com/kotlin/2026/11/advent-of-code-2026-in-kotlin/) (2026-11-26)
 - [Kotlin Heroes: Episode 15 – Anniversary Edition](https://blog.jetbrains.com/kotlin/2026/11/kotlin-heroes-episode-15-anniversary-edition/) (2026-11-25)
 - [JetBrains Academy – November Digest](https://blog.jetbrains.com/education/2026/11/25/jetbrains-academy-november-2026/) (2026-11-25)
-- [GoLand Intelligence Now Available in Cursor and VS Code](https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/) (2026-11-25)
-- [Qodana 2026.3 Release: What’s New](https://blog.jetbrains.com/qodana/2026/11/qodana-2026-3-release/) (2026-11-25)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Twilio SIGNAL London 2026: Turning AI Intelligence into Actionable Customer Engagement
+](
+https://www.twilio.com/en-us/blog/events/signal-london-2026
+) (2026-11-26)
+- [
 Build a Low-latency Voice AI Agent with Guardrails on Twilio and AWS
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/blueprint-voice-ai-agent-guardrails-twilio-aws
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/how-to-enable-mms-on-iphone
 How to Enable MMS Messaging & Fix Download Issues on Android
 ](
 https://www.twilio.com/en-us/blog/mms-messages-not-sending
-) (2026-11-25)
-- [
-Opt-in and opt-out text messages: definition, examples, and guidelines
-](
-https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messages
 ) (2026-11-25)
 
 </details>
@@ -524,11 +524,11 @@ https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messag
 <details>
 <summary>💬 Slack API</summary>
 
-- [Bring Agents Into Your Workflows, Right in Slack](https://slack.com/blog/news/agents-in-workflow-builder) (2026-11-18)
-- [How to create a sales dashboard](https://slack.com/blog/productivity/how-to-create-a-sales-dashboard) (2026-11-09)
-- [Best remote work tools for team collaboration](https://slack.com/blog/collaboration/best-remote-work-tools-for-team-collaboration) (2026-11-09)
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistant) (2026-11-06)
-- [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
+- [A Code Channel Is Just a Channel: The Governance of Slack Code](https://slack.com/blog/developers/governance-of-slack-code) (2026-11-24)
+- [How to Organize Slack Channels: A Step-by-Step Guide](https://slack.com/blog/productivity/how-to-organize-slack-channels-a-step-by-step-guide) (2026-11-23)
+- [Implementation Plan: What It Is and How to Create One](https://slack.com/blog/productivity/implementation-plan) (2026-11-23)
+- [What Is IT Project Management?](https://slack.com/blog/productivity/it-project-management) (2026-11-23)
+- [How to Create a Communication Plan: A Complete Guide](https://slack.com/blog/collaboration/communication-plan) (2026-11-23)
 
 </details>
 
@@ -568,55 +568,44 @@ https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messag
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Taking Trainium3 to the Track: Generating Videos with LTX-2.5](https://huggingface.co/blog/video-trainium3) (2026-11-27)
 - [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench) (2026-11-26)
 - [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) (2026-11-26)
 - [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms) (2026-11-26)
 - [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) (2026-11-25)
-- [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) (2026-11-25)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.](https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/) (2026-11-27)
+- [Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover](https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/) (2026-11-27)
 - [ChatGPT Boosted Consultants' Scores, Not Their Knowledge](https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/) (2026-11-26)
 - [Shuffle the Questions to Catch an LLM That Memorized Its Benchmark](https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/) (2026-11-26)
 - [How to Map USGS Earthquake Data from 2015 to 2025 in Python](https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/) (2026-11-26)
-- [DuckDB 2.0 vs Polars 2.0 in Five Real-World Tests  and One 14x Gap](https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/) (2026-11-25)
-- [A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans](https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/) (2026-11-25)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building Self-Correcting AI Agents with Opik](https://www.analyticsvidhya.com/blog/2026/11/self-correcting-ai-agents-opik/) (2026-11-27)
 - [World Models: Why Yann LeCun Believes LLMs Are a Dead End](https://www.analyticsvidhya.com/blog/2026/11/world-models-llm-limitations/) (2026-11-26)
 - [Soup: Fine-Tune a Small LLM with One YAML File](https://www.analyticsvidhya.com/blog/2026/11/fine-tune-small-llm-locally-with-soup/) (2026-11-24)
 - [Positional Embeddings Explained: How LLMs Understand Word Order](https://www.analyticsvidhya.com/blog/2026/11/positional-embeddings-explained-llm-word-order/) (2026-11-22)
 - [GPT-6.2 Astra and Sol: A Hands-On Performance Review](https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/) (2026-11-20)
-- [Gemini 4 Neon Review: Benchmarks, Pricing, and Performance](https://www.analyticsvidhya.com/blog/2026/11/gemini-4-neon-review/) (2026-11-19)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work](https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work) (2026-11-26)
-- [Top 5 Open-Source Alternatives to OpenAI Dots](https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots) (2026-11-26)
-- [Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents](https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents) (2026-11-25)
-- [Why Data Job Candidates Freeze on Questions They Already Know](https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know) (2026-11-25)
-- [The Roadmap to Becoming an AI Security Engineer in 2027](https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026) (2026-11-25)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Building a Multi-Agent Verification Loop in Python with Small Open Models](https://machinelearningmastery.com/building-a-multi-agent-verification-loop-in-python-with-small-open-models/) (2026-11-27)
 - [Prefix Caching and Prompt Reuse](https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/) (2026-11-26)
 - [Running 1-Bit LLMs Locally: A Practical Guide to BitNet Inference](https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/) (2026-11-26)
 - [Speculative Decoding](https://machinelearningmastery.com/speculative-decoding/) (2026-11-24)
 - [The Complete Guide to Embedding Models for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/) (2026-11-24)
-- [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/) (2026-11-23)
 
 </details>
 
