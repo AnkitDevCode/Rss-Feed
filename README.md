@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) (2026-11-26)
-- [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664) (2026-11-26)
-- [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831) (2026-11-26)
-- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353) (2026-11-26)
-- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) (2026-11-26)
+- [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/) (2026-11-27)
+- [Oakland's $30 minimum wage push advances toward city council vote](https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/) (2026-11-26)
+- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/) (2026-11-26)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (2026-11-26)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (2026-11-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026) (2026-11-26)
-- [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb) (2026-11-26)
-- [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design) (2026-11-26)
-- [Here’s where you can save (a little) on the Ocarina of Time remake](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale) (2026-11-26)
-- [Samsung’s R95H TV shows what RGB LED is capable of](https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review) (2026-11-26)
+- [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3) (2026-11-26)
+- [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday) (2026-11-26)
+- [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale) (2026-11-26)
+- [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu) (2026-11-26)
+- [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026) (2026-11-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/) (2026-11-26)
 - [Draining peatlands is responsible for a few percent of our global warming](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/) (2026-11-26)
 - [From minimalist to maximalist: Ars staffers show off their home offices](https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/) (2026-11-26)
 - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/) (2026-11-25)
 - [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/) (2026-11-25)
-- [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/) (2026-11-25)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PDF to Text in Your Browser: pdf-lib Can't Extract Text, but pdf.js Can](https://dev.to/shayanali/pdf-to-text-in-your-browser-pdf-lib-cant-extract-text-but-pdfjs-can-47i9) (2026-11-26)
-- [fm-cli is in the official Omarchy package repo](https://dev.to/ninepointlabs/fm-cli-is-in-the-official-omarchy-package-repo-4d1f) (2026-11-26)
-- [Google บังคับ AI Agent ใช้ MCP ต่อ Workspace แต่ Gmail ส่งเมลไม่ได้](https://dev.to/sarantoon/google-bangkhab-ai-agent-aich-mcp-t-workspace-aet-gmail-sngemlaimaid-6e2) (2026-11-26)
-- [We built a 60 FPS JS + WebAssembly crackme to test if code protection has to lag (Syferit v2.1)](https://dev.to/soltrix_studios/we-built-a-60-fps-js-webassembly-crackme-to-test-if-code-protection-has-to-lag-syferit-v21-49gc) (2026-11-26)
-- [Run Local Audio Stem Separation with Stem Separator and Docker](https://dev.to/paladini/run-local-audio-stem-separation-with-stem-separator-and-docker-2ckb) (2026-11-26)
+- [6 characters, 32 symbols, 3 rooms a minute: the arithmetic behind account-less room codes](https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b) (2026-11-27)
+- [Pool-Level Drawdown Circuit Breaker: Deciding Risk Controls with Counterfactual Backtests](https://dev.to/mattleeee/pool-level-drawdown-circuit-breaker-deciding-risk-controls-with-counterfactual-backtests-an3) (2026-11-27)
+- [Long-Hold Token Positions: Sizing and Liquidation Protection](https://dev.to/mattleeee/long-hold-token-positions-sizing-and-liquidation-protection-22d) (2026-11-27)
+- [I Audited 60 Top AI & DevTools Domains for GEO & llms.txt — Live Data + Free MCP & LLM Pricing Tools](https://dev.to/weiyi_wang_5fbdb721f38016/i-audited-60-top-ai-devtools-domains-for-geo-llmstxt-live-data-free-mcp-llm-pricing-tools-48h0) (2026-11-27)
+- [Join Cloudinary Mini-Hacks and Grow in the Creators Community](https://dev.to/victormoni/join-cloudinary-mini-hacks-and-grow-in-the-creators-community-2ff0) (2026-11-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most People Use AI Backwards (And How to Make It Do the Heavy Lifting)](https://medium.com/@nwaforjoshua045/why-most-people-use-ai-backwards-and-how-to-make-it-do-the-heavy-lifting-dae1ccb04723?source=rss------programming-5) (2026-11-26)
-- [Sony Built the 74-Minute Disc Everyone Trusted — Yet Hid a Kernel Rootkit Inside Its Own CDs](https://pub.huizhou92.com/sony-built-the-74-minute-disc-everyone-trusted-yet-hid-a-kernel-rootkit-inside-its-own-cds-d717f6d248ec?source=rss------programming-5) (2026-11-26)
-- [Agent Skills security: risks and how to vet a skill](https://medium.com/@anshulsoni2010/agent-skills-security-risks-and-how-to-vet-a-skill-fab620334b04?source=rss------programming-5) (2026-11-26)
-- [Claude Opus 5.6 Leaked](https://medium.com/data-science-in-your-pocket/claude-opus-5-6-leaked-ad95b1a222fd?source=rss------programming-5) (2026-11-26)
-- [Linus Torvalds: “Those Days Are Behind Us.”](https://fosspub.com/linus-torvalds-those-days-are-behind-us-38d20653dd81?source=rss------programming-5) (2026-11-26)
+- [NIST AI Risk Management Framework: Mastering AI Risk, Governance and Trust in the Age of Artificial…](https://medium.com/illumination/nist-ai-risk-management-framework-mastering-ai-risk-governance-and-trust-in-the-age-of-artificial-9903bfb2c6b6?source=rss------programming-5) (2026-11-27)
+- [Workstation: Discrete Math Plugin — Chapter 6, Part 6](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-6-24900531ac00?source=rss------programming-5) (2026-11-27)
+- [Workstation: Discrete Math Plugin — Chapter 6, Part 5](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-5-d9960c38441d?source=rss------programming-5) (2026-11-27)
+- [Workstation: Discrete Math Plugin — Chapter 6, Part 4](https://medium.com/@rantnrave31/workstation-discrete-math-plugin-chapter-6-part-4-b8d5303a91e4?source=rss------programming-5) (2026-11-27)
+- [ Age Calculator Between Two Dates – Find Your Exact Age in Seconds!](https://medium.com/@laibaart8/age-calculator-between-two-dates-find-your-exact-age-in-seconds-672f87147885?source=rss------programming-5) (2026-11-27)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Advent of Code 2026: ’Tis the Season to Code in Kotlin](https://blog.jetbrains.com/kotlin/2026/11/advent-of-code-2026-in-kotlin/) (2026-11-26)
 - [Kotlin Heroes: Episode 15 – Anniversary Edition](https://blog.jetbrains.com/kotlin/2026/11/kotlin-heroes-episode-15-anniversary-edition/) (2026-11-25)
 - [JetBrains Academy – November Digest](https://blog.jetbrains.com/education/2026/11/25/jetbrains-academy-november-2026/) (2026-11-25)
 - [GoLand Intelligence Now Available in Cursor and VS Code](https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/) (2026-11-25)
 - [Qodana 2026.3 Release: What’s New](https://blog.jetbrains.com/qodana/2026/11/qodana-2026-3-release/) (2026-11-25)
-- [YouTrack Adds More Ways to Use AI on Your Terms](https://blog.jetbrains.com/youtrack/2026/11/youtrack-adds-more-ways-to-use-ai-on-your-terms/) (2026-11-25)
 
 </details>
 
@@ -612,11 +612,11 @@ https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messag
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Prefix Caching and Prompt Reuse](https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/) (2026-11-26)
 - [Running 1-Bit LLMs Locally: A Practical Guide to BitNet Inference](https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/) (2026-11-26)
 - [Speculative Decoding](https://machinelearningmastery.com/speculative-decoding/) (2026-11-24)
 - [The Complete Guide to Embedding Models for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/) (2026-11-24)
 - [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/) (2026-11-23)
-- [Decoding Policies in a Serving Engine](https://machinelearningmastery.com/decoding-policies-in-a-serving-engine/) (2026-11-22)
 
 </details>
 
@@ -628,17 +628,6 @@ https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messag
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/) (2026-11-24)
-- [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (2026-11-23)
-- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
-- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
