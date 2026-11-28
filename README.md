@@ -9,33 +9,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon) (2026-11-27)
-- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) (2026-11-27)
-- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/) (2026-11-27)
-- [Source Control from Hell](https://frantic.im/git/) (2026-11-27)
-- [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/) (2026-11-27)
+- [Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run](https://github.com/RiccardoSottini/AffrescoUI) (2026-11-28)
+- [The AI-designed USB-C LTE Modem is built, and it makes calls](https://koppar.ai/blog/lte-modem-bring-up/) (2026-11-28)
+- [FCC approves 1M SpaceX data centers in space. Astronomers are dismayed](https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/) (2026-11-28)
+- [IBM MVS 3.8 Community Edition (52-year old OS)](https://github.com/MVS-sysgen/sysgen) (2026-11-28)
+- [Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/) (2026-11-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) (2026-11-28)
-- [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale) (2026-11-28)
-- [This purple electric Chinese minivan can go up to 559 miles on a charge](https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge) (2026-11-28)
-- [The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026) (2026-11-27)
-- [The best robot vacuums we’ve tested are up to 60 percent off for Black Friday](https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026) (2026-11-27)
+- [The Alexa Photo Frame is the Echo Show without the bits you hate](https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review) (2026-11-28)
+- [Almost every great Black Friday deal is still happening this weekend](https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas) (2026-11-28)
+- [Here’s how to make that new Black Friday TV look its best](https://www.theverge.com/tech/1042700/change-these-tv-settings) (2026-11-28)
+- [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale) (2026-11-28)
+- [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) (2026-11-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [2026 Kindle Paperwhite review: Page-turn buttons are back, for a price](https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/) (2026-11-28)
 - [The best Black Friday deals Ars could find](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/) (2026-11-27)
 - [Intel faced a choice: Give Trump 10% or face the consequences](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/) (2026-11-27)
 - [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/) (2026-11-27)
 - [Volvo's big batteries: We drive its updated 2028 plug-in hybrids](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/) (2026-11-27)
-- [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/) (2026-11-26)
 
 </details>
 
@@ -75,22 +75,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [7,600 GitHub Repos Were Poisoned. The Malware Hides in Your Build Config.](https://dev.to/indirectb/7600-github-repos-were-poisoned-the-malware-hides-in-your-build-config-gal) (2026-11-28)
-- [How Containers Work: Building a Container Runtime in Go](https://dev.to/karanpratapsingh/how-containers-work-building-a-container-runtime-in-go-4687) (2026-11-28)
-- [What GTA VI Teaches Us About Identity and Access Management](https://dev.to/adamjrg/what-gta-vi-teaches-us-about-identity-and-access-management-2fi) (2026-11-28)
-- [In Defense of the Software Factory](https://dev.to/remojansen/in-defense-of-the-software-factory-48gf) (2026-11-28)
-- [The npm Supply Chain Attack That Used Ethereum as a Backdoor](https://dev.to/techdrifting/the-npm-supply-chain-attack-that-used-ethereum-as-a-backdoor-11jm) (2026-11-28)
+- [Philosophical Landslide](https://dev.to/annavi11arrea1/philosophical-landslide-3d7b) (2026-11-28)
+- [Building 50 Zero-Backend US Building Code Calculators in SvelteKit 5 and TypeScript](https://dev.to/clara_sutton/building-50-zero-backend-us-building-code-calculators-in-sveltekit-5-and-typescript-1obn) (2026-11-28)
+- [Build a Copy-Trading Research Agent with a Free MCP Server (No API Key)](https://dev.to/harrywalkr/build-a-copy-trading-research-agent-with-a-free-mcp-server-no-api-key-27i3) (2026-11-28)
+- [Scrape Flipkart Price Tracker Data in Python (With Price-Drop Alerts)](https://dev.to/alinashah/scrape-flipkart-price-tracker-data-in-python-with-price-drop-alerts-2l3p) (2026-11-28)
+- [Turn a Real Neighborhood Into a Minecraft World in the Browser](https://dev.to/mu_lei_78a35817ff654c7c0f/turn-a-real-neighborhood-into-a-minecraft-world-in-the-browser-klf) (2026-11-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GPS Jamming vs. GPS Spoofing: I Investigated How to Recognise the Difference Using SDR.](https://radiohackers.com/gps-jamming-vs-gps-spoofing-i-investigated-how-to-recognise-the-difference-using-sdr-0ee6d2ba1a2c?source=rss------programming-5) (2026-11-28)
-- [3 Algorithms That Power Almost Every AI Tool](https://medium.com/@sunil17bbmp/3-algorithms-that-power-almost-every-ai-tool-ea67558e0a59?source=rss------programming-5) (2026-11-28)
-- [Top 10 Code Review Tools](https://liu-111.medium.com/top-10-code-review-tools-70ad966d847e?source=rss------programming-5) (2026-11-28)
-- [You Can Now Reverse Engineer Anything With AI](https://medium.com/the-ai-brief/you-can-now-reverse-engineer-anything-with-ai-1d08ab58fcca?source=rss------programming-5) (2026-11-28)
-- [10 Python Libraries for Chess, Chords, Colors, Web Tests, Servers, Templates and Fast Storage (Each…](https://python.plainenglish.io/10-python-libraries-for-chess-chords-colors-web-tests-servers-templates-and-fast-storage-each-5db538593163?source=rss------programming-5) (2026-11-28)
+- [Rust to Mainnet #001 — The Beginning](https://davidadesanya98.medium.com/rust-to-mainnet-001-the-beginning-ab8b5a5c3dec?source=rss------programming-5) (2026-11-28)
+- [My Senior Engineer Stopped Warning Us About Bad Code. His Performance Review Improved](https://medium.com/@the_unwritten_algorithm/my-senior-engineer-stopped-warning-us-about-bad-code-his-performance-review-improved-96c37ffbf434?source=rss------programming-5) (2026-11-28)
+- [I Don’t Trust My Coding Agent. Here’s the Exact Leash I Keep It On.](https://medium.com/@neonmaxima/i-dont-trust-my-coding-agent-here-s-the-exact-leash-i-keep-it-on-2472af2afe16?source=rss------programming-5) (2026-11-28)
+- [My Company Fired 12 Developers Because of AI. Six Months Later, Nobody Wanted to Be..](https://python.plainenglish.io/my-company-fired-12-developers-because-of-ai-six-months-later-nobody-wanted-to-be-2e6eefb85337?source=rss------programming-5) (2026-11-28)
+- [Node.js vs. Bun vs. Deno: Which Runtime Makes the Most Sense in 2027?](https://medium.com/@thyzmile24/node-js-vs-bun-vs-deno-which-runtime-makes-the-most-sense-in-2027-746d54e9c54b?source=rss------programming-5) (2026-11-28)
 
 </details>
 
@@ -393,9 +393,9 @@ How to Enable MMS on an iPhone
 https://www.twilio.com/en-us/blog/how-to-enable-mms-on-iphone
 ) (2026-11-25)
 - [
-How to Enable MMS Messaging & Fix Download Issues on Android
+Opt-in and opt-out text messages: definition, examples, and guidelines
 ](
-https://www.twilio.com/en-us/blog/mms-messages-not-sending
+https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messages
 ) (2026-11-25)
 
 </details>
@@ -525,11 +525,11 @@ https://www.twilio.com/en-us/blog/mms-messages-not-sending
 <details>
 <summary>💬 Slack API</summary>
 
-- [Bring Agents Into Your Workflows, Right in Slack](https://slack.com/blog/news/agents-in-workflow-builder) (2026-11-18)
-- [How to create a sales dashboard](https://slack.com/blog/productivity/how-to-create-a-sales-dashboard) (2026-11-09)
-- [Best remote work tools for team collaboration](https://slack.com/blog/collaboration/best-remote-work-tools-for-team-collaboration) (2026-11-09)
-- [AI Productivity Assistants: Best Tools for 2026](https://slack.com/blog/ai/ai-productivity-assistant) (2026-11-06)
-- [Slack Feature Drop: All Treats, No Tricks](https://slack.com/blog/news/slack-feature-drop-october2026) (2026-10-30)
+- [A Code Channel Is Just a Channel: The Governance of Slack Code](https://slack.com/blog/developers/governance-of-slack-code) (2026-11-24)
+- [How to Organize Slack Channels: A Step-by-Step Guide](https://slack.com/blog/productivity/how-to-organize-slack-channels-a-step-by-step-guide) (2026-11-23)
+- [Implementation Plan: What It Is and How to Create One](https://slack.com/blog/productivity/implementation-plan) (2026-11-23)
+- [What Is IT Project Management?](https://slack.com/blog/productivity/it-project-management) (2026-11-23)
+- [How to Create a Communication Plan: A Complete Guide](https://slack.com/blog/collaboration/communication-plan) (2026-11-23)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/mms-messages-not-sending
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Test LLM State Tracking With a StateBench-Style Deployment Log](https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/) (2026-11-28)
 - [Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.](https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/) (2026-11-27)
 - [Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover](https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/) (2026-11-27)
 - [ChatGPT Boosted Consultants' Scores, Not Their Knowledge](https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/) (2026-11-26)
 - [Shuffle the Questions to Catch an LLM That Memorized Its Benchmark](https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/) (2026-11-26)
-- [How to Map USGS Earthquake Data from 2015 to 2025 in Python](https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/) (2026-11-26)
 
 </details>
 
@@ -629,17 +629,6 @@ https://www.twilio.com/en-us/blog/mms-messages-not-sending
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
-
-</details>
-
-<details>
-<summary>🧠 DeepMind Blog</summary>
-
-- [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/) (2026-11-24)
-- [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/) (2026-11-23)
-- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/) (2026-11-18)
-- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/) (2026-11-18)
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) (2026-11-12)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
